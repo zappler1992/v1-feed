@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789304247637,
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-120da0ba3da90a1026.htm"
+ ],
+ "last_run_ms": 1789304547473,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -10156,6 +10158,18 @@
    "type": "",
    "updated_ms": 1789125826000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f908a76553090a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-120da0ba3da90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "למרות החשש מאמבה אוכלת מוח: מאיגוד ערים כינרת נמסר כי כ-25 אלף רוחצים פקדו את החופים במהלך החג",
+   "first_seen_ms": 1789304547473,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15503_13092026125741_1400_1789304346256_FirstFrame.jpg",
+   "published_ms": 1789304355000,
+   "title": "למרות החשש מאמבה אוכלת מוח: מאיגוד ערים כינרת נמסר כי כ-25 אלף רוחצים פקדו את החופים במהלך החג",
+   "type": "mivzakim",
+   "updated_ms": 1789304355000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-120da0ba3da90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm": {
    "author": "מבזקים",
