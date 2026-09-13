@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [],
- "last_run_ms": 1789292075412,
+ "last_run_ms": 1789292375461,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -845,14 +845,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-05d9273849a70a1027.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "סידני סוויני הגיעה לאירוע של ארמני ביוטי במסגרת פסטיבל הסרטים בוונציה, כשהיא לובשת שמלה שקופה ונועזת שגרפה לא מעט תשומת לב.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIR_SYDNEY_070926_1400_1788763001496_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788763020000,
    "title": "גונבת את ההצגה: סידני סוויני בלוק נועז ושקוף על השטיח האדום בוונציה",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788763020000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-05d9273849a70a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-09c424bf29680a1026.htm": {
@@ -896,14 +897,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-47a817a138080a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "כוכבת \"משמר המפרץ\" פמלה אנדרסון חשפה: לאחר שאובחנה בצהבת C בשנת 2002 - הרופאים נתנו לה 10 שנים לחיות. היא הסבירה כי האבחון גרר עמו שנים קשות של בושה, והניסיון לטפל בעצמה ולהציל את חייה רוקן לה את חשבון הבנק. למזלה, עם השנים הפיתוחים הרפואיים השתדרגו והמענה לחולי צהבת הפך יעיל יותר - כך, למרות התחזית העגומה שנתנו לה הרופאים - הודיעה השחקנית בשנת 2015 שהיא החלימה מהווירוס.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/biata_pam_80926_1400_1788862494135_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788862500000,
    "title": "פמלה אנדרסון: הרופא הביא לי עשור לחיות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788862500000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-47a817a138080a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-5a6c241493f80a1026.htm": {
@@ -971,14 +973,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-9447c389bb080a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אופק אדנק משחרר לראשונה מוזיקה חדשה מאז שנעצר בחשד לתקיפה של בת זוגו הדס מסורי, והשיר החדש, \"נתתי לך בית\", לא חוסך ביקורת. עם ציטוטים כמו: \"את שופכת לי את הדם, עשינו טעויות\", \"אצלך הכל שקר, מניפולציות זולות, אני ישבתי בשקט\" ו-\"באשמתך אני יותר מפורסם, בגללך אנל׳א יוצא מהבית\".",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/ASAF_OFEK_08092026_M_1400_1788867052739_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788867059000,
    "title": "אחרי שהואשם בתקיפה: השיר החדש והנוקב של אופק אדנק",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788867059000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-9447c389bb080a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-9fea745e3e570a1026.htm": {
@@ -1007,14 +1010,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-d34f17a138080a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "סלמה הייק חגגה יום הולדת 60 - ושיתפה באינסטגרם תמונות נועזות לכבוד האירוע.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/ASAF_SALMA_08092026_M_1400_1788862723872_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788874500000,
    "title": "\"60 ואסירת תודה\": סלמה הייק חוגגת יום הולדת בסדרת תמונות נועזות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788874500000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-d34f17a138080a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-e68c50fc28580a1027.htm": {
@@ -1333,14 +1337,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-40653eee56280a1027.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "היילי ביבר לוהטת על שער המגזין \"ICE\" שצולם בברזיל",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_hilymagazin_5881_08092026072000_1400_1788895276983_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788895283000,
    "title": "היילי ביבר לוהטת על שער המגזין \"ICE\" שצולם בברזיל",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788895283000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-40653eee56280a1027.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-6bd5330442790a1026.htm": {
@@ -1382,26 +1387,28 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9a34273849a70a1027.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בגיל 40: הזמרת סיארה ובן זוגה, שחקן הפוטבול ראסל וילסון, הכריזו כי הם מצפים לילד חמישי",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/V1_PREG_5835_07092026064156_1400_1788763401494_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788763408000,
    "title": "בגיל 40: הזמרת סיארה ובן זוגה, שחקן הפוטבול ראסל וילסון, הכריזו כי הם מצפים לילד חמישי",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788763408000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9a34273849a70a1027.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9b091817e2b70a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "״ימים מורכבים בריאותית״: עדן פינס חושפת למה נעלמה מהרשתות",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/V1_EDEN_5837_07092026092356_1400_1788773106724_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788777060000,
    "title": "״ימים מורכבים בריאותית״: עדן פינס חושפת למה נעלמה מהרשתות",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788777060000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9b091817e2b70a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9c0ccf246aa80a1026.htm": {
@@ -1468,14 +1475,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-cf85762136180a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בגיל 46: השחקנית והדוגמנית מלי לוי בתמונות נועזות במיוחד",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_MALI_LEVI_5873_08092026023826_1400_1788878388158_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788937740000,
    "title": "בגיל 46: השחקנית והדוגמנית מלי לוי בתמונות נועזות במיוחד",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788937740000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-cf85762136180a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-d62860d03eb80a1026.htm": {
@@ -1493,14 +1501,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-eedc9c4b29c70a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ג'סטין והיילי ביבר בשער זוגי לגיליון הבכורה של מגזין \"W Youth\" - עם תמונות שצילמו בעצמם",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/V1_biebers_5850_07092026035451_1400_1788796571871_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788803280000,
    "title": "ג'סטין והיילי ביבר בשער זוגי לגיליון הבכורה של מגזין \"W Youth\" - עם תמונות שצילמו בעצמם",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788803280000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-eedc9c4b29c70a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-0b908d95ee990a1026.htm": {
@@ -1986,14 +1995,15 @@
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-fc72005c74b70a1026.htm": {
    "author": "תרבות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אקו\"ם פרסמו את הנתונים המסקרנים של השנה: מה היו השירים והזמרים הכי מושמעים בתחנות הרדיו בשנת תשפ\"ו.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/inbie_music_070926_1400_1788775211729_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788783540000,
    "title": "מה השיר המושמע ביותר בישראל ומי הזמר? הנתונים של אקו\"ם נחשפים",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788783540000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-fc72005c74b70a1026.htm"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
@@ -2802,14 +2812,15 @@
   },
   "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-30f4f3d5f7d70a1027.htm": {
    "author": "אוכל",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/yoav_fish_070926_1400_1788812739201_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789037940000,
    "title": "",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789037940000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-30f4f3d5f7d70a1027.htm"
   },
   "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-a62753c9e7480a1026.htm": {
@@ -3576,14 +3587,15 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-c3c947f94cc70a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עשרות אנשים נתקעו על רכבת הרים במזרח אנגליה למשך יותר משעתיים, זאת בעקבות תקלה שאירעה ב-  31 באוגוסט. כל הנוסעים חולצו בשלום",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIRA_ENGLEND_070926_M_1400_1788799819927_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788810780000,
    "title": "במשך יותר משעתיים: עשרות נוסעים נתקעו על רכבת הרים במזרח אנגליה",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788810780000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-c3c947f94cc70a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-dc1f85bdb1580a1026.htm": {
@@ -3614,14 +3626,15 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-e9cc3e08e8c70a1027.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אחרי שנתיים שבהן שמרה את האבחנה בסוד, מגישת ה-BBC מריאם מושירי חושפת את ההתמודדות עם סרטן דם נדיר שאין לו מרפא, ומספרת איך המחלה תשפיע על המשך חייה. ואם היא נראית לכם מוכרת, זה כנראה בגלל שני רגעים בשידור חי שהיא הייתה מעדיפה לשכוח.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/yoav_BBC_070926_1400_1788796681786_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788807060000,
    "title": "מגישת ה-BBC חושפת: \"אובחנתי עם סרטן בדם\"",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788807060000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-e9cc3e08e8c70a1027.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f4123012cf570a1027.htm": {
@@ -3638,26 +3651,28 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f443cee56b180a1027.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "טסים לרומא? כדאי שתכירו את זה: גל גניבות בעיר הוביל את הרשויות באיטליה לחשוף את השיטות של הגנבים ברחובות - וזה מה שצריך לעשות כדי לא ליפול בפח",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/yoav_rome_080926_1400_1788883245616_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788883560000,
    "title": "זה מה שאסור לעשות: הטריק החדש של הגנבים ברומא",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788883560000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f443cee56b180a1027.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-fa8a418f95b70a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עובד בפארק חיות הבר בפפואה גינאה החדשה נכנס למתחם התנינים על מנת להאכיל אחד מהם, התנין הסתער עליו תקף אותו, וגרר אותו לתוך המים - לעיני המבקרים. הוא אחז ברגלו של העובד במשך יותר משעה ולבסוף הוא מת מפצעיו בבית החולים, הפארק סגור עד להודעה חדשה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIRA_TANIN_070926_M_1400_1788776071313_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788776077000,
    "title": "טרגדיה בפפואה גינאה: תנין גרר את עובד גן החיות למים- ואחז ברגליו במשך יותר משעה",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788776077000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-fa8a418f95b70a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm": {
@@ -4586,14 +4601,15 @@
   },
   "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w01/shorts-59458db152160a1026.htm": {
    "author": "כשהגלים מתחזקים 2",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "כשהגלים מתחזקים 2 - פרק 30: איתן מבקש מאלמוג לעצור ליד המשרד של רותי, רק כדי להעלות את ליאור לרכב ולנהל איתו שיחה. הוא מבהיר לו שרותי אמנם אישה עצמאית שיכולה לעשות מה שהיא רוצה, אבל יש לו כלל אחד: מי שפוגע בה – פוגש אותו. ליאור מבטיח שלעולם לא יפגע בה, ואלמוג מקשיב לכל השיחה מהצד. אלא שאז הודעה מרותי מופיעה ברכב, ואיתן מיד שואל את אלמוג: למה אחותו מסמסת לו?",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/FIX_GROWING_WAVES_2_EP30_1400_1788768926067_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788879600000,
    "title": "כשהגלים מתחזקים 2 פרק 30: שיחת האיומים",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1788879600000,
    "url": "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w01/shorts-59458db152160a1026.htm"
   },
   "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w01/shorts-909ebdfe3c660a1026.htm": {
@@ -7972,14 +7988,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-36b0c624f3180a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/yoav_holon_080926_1400_1788875365487_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789108920000,
    "title": "העיר במרכז שמודיעה לראשונה: נאכוף חניה בכחול-לבן",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789108920000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-36b0c624f3180a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-3c87832356a70a1027.htm": {
@@ -8047,14 +8064,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6300e3df57f70a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אחרי הסערה סביב האמירות של הראפר מקלמור בהופעת החימום לאד שירן, הראפר העלה סרטון שבו הוא מתייחס לסערה. בסרטון, שבו רואים חלק מהנאום שמקלמור נשא בהופעת החימום, הוא טוען שדעותיו לא צריכות להיות שנויות במחלוקת.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/ASAF_MAKLAMOR_08092026_M_1400_1788845270049_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788848040000,
    "title": "אחרי הקריאות האנטישמיות והסערה, מקלמור מגיב: \"זה לא אמור להיות שנוי במחלוקת\"",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788848040000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6300e3df57f70a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6315811320290a1027.htm": {
@@ -8110,14 +8128,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-72bce57b02180a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אחרי השביתה ששיתקה את שדה התעופה בשל המחסור החמור בעובדים, מדווח כי התגבור של רשות שדות התעופה הסתיים ואנחנו יכולים לצפות שוב לעיכובים בטיסות - רגע לפני חגי תשרי.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/biata_natbag_080926_1400_1788873034851_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788873041000,
    "title": "תגבור העובדים בנתב\"ג נגמר - והמשבר חוזר",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788873041000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-72bce57b02180a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-895348a72df80a1026.htm": {
@@ -8262,14 +8281,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-e9ca850a80180a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/yoav_ADIDAS_08092026_1400_1788871360343_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788871440000,
    "title": "אחרי הקריאות לחרם: אדידס מתקפלת",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788871440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-e9ca850a80180a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-f11a7a515c480a1026.htm": {
@@ -8287,14 +8307,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-faea289a44180a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ההתפתחות בפרשת נהג המונית בוורשה: אחרי שתקף נוסעת בגלל מגן דוד והטיח בה אמירות אנטישמיות קשות, הנהג פוטר בעקבות התנהגותו.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/SHIR_WARSA_080926_1400_1788875283710_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788883980000,
    "title": "נקמה מתוקה: נהג מונית בוורשה תקף נוסעת ישראלית - ופוטר",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788883980000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-faea289a44180a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
@@ -9337,14 +9358,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-745cf35f55180a1026.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "חלוץ בית\"ר ירושלים ג'ונבוסקו קאלו עבר תאונת דרכים: התנגש עם האוטו בקיר - ויצא ללא פגע",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/SOCCER_FIX_1400_1788877072225_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788878820000,
    "title": "חלוץ בית\"ר ירושלים ג'ונבוסקו קאלו עבר תאונת דרכים: התנגש עם האוטו בקיר - ויצא ללא פגע",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788878820000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-745cf35f55180a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-749c9be70e390a1027.htm": {
@@ -9920,14 +9942,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eaf8670895080a1026.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "רגע לפני סגירת הרשימות: מי חיזק את הגוש שלו ומי עלול לשרוף קולות? דפנה ליאל מסבירה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_DAFNA_5867_08092026092749_1400_1788859778254_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788859785000,
    "title": "רגע לפני סגירת הרשימות: מי חיזק את הגוש שלו ומי עלול לשרוף קולות? דפנה ליאל מסבירה",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788859785000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eaf8670895080a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eafda3744b590a1026.htm": {
@@ -16640,14 +16663,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-7cf29d8c49080a1026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הילדים חוזרים מהמסגרות ולא משתפים בכלום - זה מה שצריך לעשות. הטיפ המהיר ממדריכת ההורים עינת נתן",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/MISGAROT_TAMAR_0809_M_1400_1788864277238_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788864283000,
    "title": "הילדים חוזרים מהמסגרות ולא משתפים בכלום - מה לעשות?",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788864283000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-7cf29d8c49080a1026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9984b9170ec70a1026.htm": {
@@ -18114,14 +18138,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-bb8a292195580a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_IPHONE_090926_1400_1788943830296_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788951000000,
    "title": "אייפון 18 בדרך: השדרוגים הגדולים וההפתעה של אפל",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788951000000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-bb8a292195580a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-c1d7baac86f80a1027.htm": {
@@ -18139,14 +18164,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-eed34a5b99180a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/SHIR_CHAT_080926_1_1400_1788881402178_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788894480000,
    "title": "הפרצה ב-ChatGPT שמאפשרת לחשוף את כל המידע שלכם",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788894480000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-eed34a5b99180a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm": {
@@ -19976,14 +20002,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-6d483eee56280a1027.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "גשם בכמות שלא ראו 130 שנה: שיטפונות הענק ביפן - הרחובות הפכו לנהרות",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_japandor_5879_08092026070042_1400_1788894132136_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788938280000,
    "title": "גשם בכמות שלא ראו 130 שנה: שיטפונות הענק ביפן - הרחובות הפכו לנהרות",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788938280000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-6d483eee56280a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-8154f6ae61790a1027.htm": {
@@ -20000,26 +20027,28 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-85a54e6363180a1027.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "טרגדיה: מלכת היופי של אוסטריה לוטשיה סיסיץ' הלכה לעולמה בגיל 22",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_AUSTRIA_5869_08092026014212_1400_1788875001514_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788881940000,
    "title": "טרגדיה: מלכת היופי של אוסטריה לוטשיה סיסיץ' הלכה לעולמה בגיל 22",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788881940000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-85a54e6363180a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-9af9ed71dc180a1026.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "גיבור היום במקסיקו: עובד הסופרמרקט הציל ילד שרץ לכביש - רגע לפני שנדרס",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/08/V1_SHIR_BOY_5874_08092026041934_1400_1788884448548_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788896460000,
    "title": "גיבור היום במקסיקו: עובד הסופרמרקט הציל ילד שרץ לכביש -",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788896460000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-9af9ed71dc180a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-c325de9715f80a1026.htm": {
@@ -20049,14 +20078,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-d1b4371ea7780a1027.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "תיעוד דרמטי מהודו: נמר שנפגע בכביש התנפל על שומר היערות שהגיע לחלצו",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/V1_karind_namer_5916_09092026065432_1400_1788980146810_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788987660000,
    "title": "תיעוד דרמטי מהודו: נמר שנפגע בכביש התנפל על שומר היערות שהגיע לחלצו",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788987660000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-d1b4371ea7780a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-d2c6f14d56a80a1026.htm": {
