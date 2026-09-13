@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-96d7836da9b90a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-14fd3d528cb90a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-dbfd3d528cb90a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10217,6 +10218,18 @@
    "type": "mivzakim",
    "updated_ms": 1789304355000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-120da0ba3da90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-14fd3d528cb90a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גופת גבר יהודי כבן 45 אותרה מוטלת ביער באומן, הנסיבות בבדיקה",
+   "first_seen_ms": 1789320753323,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15512_13092026052710_1400_1789320520082_FirstFrame.jpg",
+   "published_ms": 1789320526000,
+   "title": "גופת גבר יהודי כבן 45 אותרה מוטלת ביער באומן, הנסיבות בבדיקה",
+   "type": "mivzakim",
+   "updated_ms": 1789320526000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-14fd3d528cb90a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm": {
    "author": "מבזקים",
@@ -20517,6 +20530,18 @@
    "type": "mivzakim",
    "updated_ms": 1789313236000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-dbfd3d528cb90a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המוני אנשים ואש בכל מקום - מחאות ענק עקב עליית מחירי הדלק בסוריה",
+   "first_seen_ms": 1789320753323,
+   "image": "https://img.mako.co.il/2026/09/13/V1_PROTEST_6040_13092026052721_1400_1789320527179_FirstFrame.jpg",
+   "published_ms": 1789320533000,
+   "title": "המוני אנשים ואש בכל מקום - מחאות ענק עקב עליית מחירי הדלק בסוריה",
+   "type": "mivzakim",
+   "updated_ms": 1789320533000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-dbfd3d528cb90a1027.htm"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
