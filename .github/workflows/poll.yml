@@ -1,8 +1,8 @@
 name: poll-v1
 
+# The 5-minute schedule now runs locally via Windows Task Scheduler (run_local.cmd).
+# This workflow is kept for manual runs only.
 on:
-  schedule:
-    - cron: "*/5 * * * *"      # every 5 minutes (GitHub may delay runs under load)
   workflow_dispatch:
 
 # never let two runs touch the repo at the same time
