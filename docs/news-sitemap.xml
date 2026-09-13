@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f2df07a8b2c90a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-13T19:20:50+00:00</news:publication_date>
+<news:title>ההסתבכות הבאה של ישראל: פעילים פרו פלסטיניים צפויים לצאת במשט לעבר חופי עזה בחודש אוקטובר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_NOAY_SHAPIRA_130926_6044_13092026071846_1400_1789327244106_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-5df19ef7def80a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -980,14 +989,5 @@
 <news:title>אלה התינוקות הראשונים שנולדו עם כניסת תשפ&quot;ז</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/11/MAYA_BABY_110926_1400_1789157768739_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-476d26eddd190a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-11T19:22:20+00:00</news:publication_date>
-<news:title>בשידור חי: ההפתעה המתוקה שקיבלה לוחמת מג&quot;ב לחג</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/11/SHIRA_HAYELET_110826_M_1400_1789154533770_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
