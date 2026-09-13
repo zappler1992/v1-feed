@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b61007a8b2c90a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1ea607a8b2c90a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-da7407a8b2c90a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10302,6 +10303,18 @@
    "updated_ms": 1789289656000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1ea607a8b2c90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפגישה שתוכננה להיערך מחר עם איראן ומדינות המפרץ בנוגע למצר הורמוז נדחתה",
+   "first_seen_ms": 1789328247615,
+   "image": "https://img.mako.co.il/2026/09/13/V1_OMAN_6046_13092026073244_1400_1789328073039_FirstFrame.jpg",
+   "published_ms": 1789328079000,
+   "title": "הפגישה שתוכננה להיערך מחר עם איראן ומדינות המפרץ בנוגע למצר הורמוז נדחתה",
+   "type": "mivzakim",
+   "updated_ms": 1789328079000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1ea607a8b2c90a1026.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-25973d528cb90a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -10469,6 +10482,18 @@
    "type": "mivzakim",
    "updated_ms": 1789278720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b87e94cb32990a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-da7407a8b2c90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צעיר בן 21 נפצע קשה בתאונה בין שני כלי רכב בכביש 7 סמוך למחלף אשדוד",
+   "first_seen_ms": 1789328247615,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15514_13092026072911_1400_1789327848196_FirstFrame.jpg",
+   "published_ms": 1789327855000,
+   "title": "צעיר בן 21 נפצע קשה בתאונה בין שני כלי רכב בכביש 7 סמוך למחלף אשדוד",
+   "type": "mivzakim",
+   "updated_ms": 1789327855000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-da7407a8b2c90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f027a0ba3da90a1026.htm": {
    "author": "מבזקים",
