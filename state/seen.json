@@ -1,7 +1,17 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789283544346,
+ "last_new_urls": [
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-0b908d95ee990a1026.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f14a35ff80a90a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fe871f3f3d990a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fae75c68b9990a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-93f8265b48b80a1026.htm"
+ ],
+ "last_run_ms": 1789291854959,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -1028,14 +1038,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בין בילויים בניו יורק לחגיגות בישראל, עומר נולדמן שיתפה בעוד מספר תמונות ממסיבת הרווקות שלה - בביקני לבם קטנטן כיאה לכלה לעתיד.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/biata_omer_100926_1400_1789049930385_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789049937000,
    "title": "עומר נודלמן חוגגת רווקות בביקיני קטנטן",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789049937000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
@@ -1400,14 +1411,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9c0ccf246aa80a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בשעה טובה! השחקן איתי תורג'מן ואשתו טליה הביאו לעולם בת",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_karind_baby_5938_10092026093025_1400_1789032697987_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789032704000,
    "title": "בשעה טובה! השחקן איתי תורג'מן ואשתו טליה הביאו לעולם בת",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789032704000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9c0ccf246aa80a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-b04421c34e690a1027.htm": {
@@ -1448,14 +1460,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-c4203916aab80a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "\"מדובר על משהו שקרה לפני 20 שנה\" אלעד, בנו של דן תורג'מן, מגיב על גזר הדין",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/FIX_ELADTURG_1400_1789050370288_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789050360000,
    "title": "\"מדובר על משהו שקרה לפני 20 שנה\" אלעד, בנו של דן תורג'מן, מגיב על גזר הדין",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789050360000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-c4203916aab80a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-cf85762136180a1026.htm": {
@@ -1472,14 +1485,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-d62860d03eb80a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עינת ארליך חושפת באומץ: \"אובחנתי עם גידול סרטני במוח\"",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/inbalrintfix09_1400_1789054045031_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789054260000,
    "title": "עינת ארליך חושפת באומץ: \"אובחנתי עם גידול סרטני במוח\"",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789054260000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-d62860d03eb80a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-eedc9c4b29c70a1026.htm": {
@@ -1493,6 +1507,18 @@
    "type": "mivzakim",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-eedc9c4b29c70a1026.htm"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-0b908d95ee990a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "הם ביחד?! התמונות החדשות של דקוטה ג'ונסון ומשין גאן קלי שמטריפות את הוליווד",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/V1_DakotaGunKelly_6026_13092026085936_1400_1789290056725_FirstFrame.jpg",
+   "published_ms": 1789290063000,
+   "title": "הם ביחד?! התמונות החדשות של דקוטה ג'ונסון ומשין גאן קלי שמטריפות את הוליווד",
+   "type": "mivzakim",
+   "updated_ms": 1789290063000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-0b908d95ee990a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a57ba232d4990a1027.htm": {
    "author": "מבזקי סלבס",
@@ -1928,14 +1954,15 @@
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-543e20ce4ea80a1027.htm": {
    "author": "תרבות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "קקטוס הזהב 2026: הפרסומות האהובות של השבוע - והפעם במקום הראשון - הפניקס smart – כל הביטוחים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/SHIR_CACTUS_100926_1400_1789036852409_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789036860000,
    "title": "קקטוס הזהב 2026: הפרסומות האהובות של השבוע",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789036860000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-543e20ce4ea80a1027.htm"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-c28725dcd8490a1026.htm": {
@@ -3538,14 +3565,15 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-b0b55beb55b80a1027.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הנשיא טראמפ הבטיח שאם הרפובליקנים זוכים בבחירות ומקבלים את הסנאט ובשליטה בבית הנבחרים האמריקני, הנשיא יפדה שיק על סך 5,000 דולר לכל אזרח בוגר במדינה. האם הוא יעמוד בהבטחה?",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/SHIR_TRUMP_100926_M_1400_1789044723244_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789044729000,
    "title": "האם טראמפ יעמוד בהבטחה שלו במקרה שיזכה בבחירות?",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789044729000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-b0b55beb55b80a1027.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-c3c947f94cc70a1026.htm": {
@@ -3631,6 +3659,18 @@
    "type": "general",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-fa8a418f95b70a1026.htm"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "האסון באינדונזיה מכה גלים ברחבי העולם: המהדורות מדווחות עם כל הפרטים שניתן לומר כרגע על הספינה שנותק עמה הקשר, כשעל סיפונה כ-240 נוסעים.",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/biata_indonesia_130926_new_1400_1789288606003_FirstFrame.jpg",
+   "published_ms": 1789288612000,
+   "title": "המהדורות בעולם מדווחות על הספינה שנעלמה",
+   "type": "general",
+   "updated_ms": 1789288612000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm"
   },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
@@ -5530,14 +5570,15 @@
   },
   "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-a41c914fefa80a1027.htm": {
    "author": "לייף & סטייל",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "רובנו נרדמים עם אור קטן בחדר, מנורת לילה או אור שמגיע מהרחוב.\nאך מחקר חדש מצא קשר בין חשיפה לאור בזמן השינה לבין שינויים במבנה ובתפקוד הלב.\nהחוקרים עקבו אחר יותר מ־11 אלף אנשים ומצאו שאפילו חשיפה חלשה לאור בלילה מעלה משמעותית את סיכון למחלות לב",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_Kim_Sleep_10092026_1400_1789038657790_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789038664000,
    "title": "האור שנשאר דולק בלילה עשוי להשפיע על תפקוד הלב שלכם",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789038664000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-a41c914fefa80a1027.htm"
   },
   "https://www.v-1.co.il/living_healthy-magazine/2025-m07_w03/shorts-5251f6336830891026.htm": {
@@ -6355,6 +6396,18 @@
    "type": "series",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-8022f11a37b70a1027.htm"
+  },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-93f8265b48b80a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 34: אחרי שגיא פינק את ההורים בכרטיסים מסביב לעולם ובמיליון שקל לבזבוזים, אימא שלו חוזרת מהטיול לבדה ומספרת שאבא החליט להמשיך לתאילנד - והיא כבר חושדת שהכסף החדש מושך אותו לכיוונים אחרים. במקביל תומר, ארז וברלד מתקשים לתת ליועצת ההשקעות לעשות את העבודה שלה, ובין שאלות על המחשב לפלרטוטים בלתי פוסקים היא מבהירה שזו הפעם האחרונה שהם מגיעים אליה בלי גיא.",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/10/LOADED_EP34_1400_1789047175907_FirstFrame.jpg",
+   "published_ms": 1789289520000,
+   "title": "מסודרים פרק 34: אבא נשאר לבד בתאילנד",
+   "type": "series",
+   "updated_ms": 1789289520000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-93f8265b48b80a1026.htm"
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-a8948c1f0f570a1027.htm": {
    "author": "מסודרים",
@@ -7967,14 +8020,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-55e1f83433b80a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/AVISHAI_DAN_1009_M_1400_1789042138609_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789042440000,
    "title": "השחקן דן תורג'מן הולך לכלא",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789042440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-55e1f83433b80a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-5db04f713d480a1027.htm": {
@@ -8041,14 +8095,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6a156de0b0c80a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/inbaldan100926m_1400_1789057447698_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789057454000,
    "title": "הפרטים החדשים על ההחלטה לשלוח את השחקן דן תורג'מן לכלא",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789057454000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6a156de0b0c80a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-72bce57b02180a1026.htm": {
@@ -8152,14 +8207,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-a9e2b0dbc1c80a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "חושבים לעזוב הכל ולעשות הסבה לטייס? חולמים על משכורת בשמיים וכנפיים על הכתף? המשכורות של הטייסים נחשפות: אלה הסכומים, בהתאם לדרגות.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/biata_pilots_100926_1400_1789058287678_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789058294000,
    "title": "כמה טייסים מרוויחים? המשכורות נחשפות",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789058294000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-a9e2b0dbc1c80a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-b4b6f0809e580a1027.htm": {
@@ -8176,26 +8232,28 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-d1cf5c4a75b80a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "כוכבת המוקבאנג הסינית צ'ן דזה־יי מתה בגיל 24, לאחר שנים של תוכני אכילה קיצוניים (מאקבאנגס) והרגל לגרום לעצמה להקיא. ימים לפני מותה סיפרה מבית החולים על הידרדרות במצבה הבריאותי.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/SHIR_MUKBANG_100926_1400_1789044421026_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789121220000,
    "title": "כוכבת הרשתשהתפרסמה בסרטוני האכילה המוגזמים - מתה בגיל 24 בלבד",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789121220000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-d1cf5c4a75b80a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-e10512daf6c80a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מה הסיכוי? בלה נכנסה לאוטו זהה לשלה בחניון וגילתה תוך כדי נסיעה שזה לא האוטו שלה - כששוטר התקשר לבעלה בשיחת טלפון מצחיקה במיוחד ובישר לו: \"היא לקחה את הקאיה הלא נכונה\". \nמתוך חדשות 12",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/inbalcar100926m_1400_1789063591324_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789063597000,
    "title": "הגניבה שלא קרתה: אישה לקחה את האוטו הלא נכון - השיחה הקורעת עם המשטרה",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1789063597000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-e10512daf6c80a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-e9ca850a80180a1026.htm": {
@@ -8692,14 +8750,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-00dd37e1ebc80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_DOTZ_5957_10092026071455_1400_1789067900268_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789067908000,
    "title": "דובר צהל בהקלטה מתוך רכס עלי טהאר: \"כעת משימתנו \"הושלמה",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789067908000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-00dd37e1ebc80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-01692b3017690a1027.htm": {
@@ -8795,14 +8854,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-1d9731fffbc80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15378_10092026072444_1400_1789068391734_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789068398000,
    "title": "מפקד פלגה א' במגלן, ממובילי המאמץ לכיבוש והשמדת הרכס, בפקודת הקשר לפני הפיצוץ:  \"האויב הושפל, חוסל ו",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789068398000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-1d9731fffbc80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-1da348e3e3590a1027.htm": {
@@ -8820,14 +8880,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-1e1ba427d4c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15370_10092026051050_1400_1789060330979_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789060337000,
    "title": "בתום מצוד: לוחמי יחידת דובדבן עצרו מחבל שתכנן לבצע פיגוע ירי",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789060337000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-1e1ba427d4c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-23e781dc9ae80a1027.htm": {
@@ -8845,14 +8906,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-29c92062f5c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_FARAH_5953_10092026053235_1400_1789061618657_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789061628000,
    "title": "כוחות הביטחון חיסלו את מחבל החמאס - פרח חאמד, שהוציע לפועל פיגועים רבים ושוחרר במסגרת עסקת שליט",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789061628000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-29c92062f5c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-2ab2483b18b70a1026.htm": {
@@ -8907,14 +8969,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3234623c9cc80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15380_10092026074914_1400_1789069840664_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789069848000,
    "title": "עמודי אש בלבנון: צה״ל מפרסם תיעוד נוסף מהשמדת תשתיות התת-קרקעיות ברכס עלי טאהר",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789069848000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3234623c9cc80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-32cf48a72df80a1026.htm": {
@@ -8932,14 +8995,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-368637e1ebc80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_BOOMTAHER_5959_10092026072527_1400_1789068430197_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789068441000,
    "title": "האדמה רעדה: תיעוד נוסף של פיצוץ רכס עלי טאהר - מעיניהם של הלוחמים",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789068441000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-368637e1ebc80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3ab3decda9390a1027.htm": {
@@ -9034,50 +9098,54 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-50cb900c95c80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15371_10092026052726_1400_1789061337859_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789061344000,
    "title": "צה״ל חיסל את פרח חאמד, מחבל חמאס שהיה חלק מ\"חוליית סילוואד\" שביצעה מספר פיגועים ורצחה שלושה אזרחים ו",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789061344000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-50cb900c95c80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-5168a427d4c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15369_10092026050951_1400_1789060277998_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789060287000,
    "title": "גבר בן 50 נפצע אנוש באירוע אלימות בטייבה",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789060287000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-5168a427d4c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-51d731fffbc80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15379_10092026072526_1400_1789068412945_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789068424000,
    "title": "\"מפחיד לחיות פה\": תיעוד פיצוץ הרכב בנתניה",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789068424000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-51d731fffbc80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-52d4623c9cc80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15381_10092026075211_1400_1789070002254_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789070009000,
    "title": "צה״ל חיסל מחבל חמאס בחאן יונס",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789070009000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-52d4623c9cc80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-5655528d9f690a1027.htm": {
@@ -9095,14 +9163,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-58175480ecc80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_DOVERTZAHALBOOM_5960_10092026075407_1400_1789070135730_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789070142000,
    "title": "עמודי אש בלבנון: צה\"ל מפרסם תיעוד מהשמדת התשתיות ברכס עלי טאהר",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789070142000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-58175480ecc80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-585eb8657a090a1027.htm": {
@@ -9236,14 +9305,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-6efeab532ac80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15377_10092026065003_1400_1789066422557_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789066429000,
    "title": "דובר צה\"ל בעלי טאהר: \"השלמנו את המשימה, נמשיך לפעול\"",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789066429000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-6efeab532ac80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-71bb7b2bc5090a1027.htm": {
@@ -9286,14 +9356,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-75ed96ef38c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15374_10092026062033_1400_1789064506174_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789064513000,
    "title": "תיעוד פיצוץ המנהרות בעלי טאהר",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789064513000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-75ed96ef38c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-807cae5638690a1026.htm": {
@@ -9350,14 +9421,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-8c44a01b92c80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/FIX_KOPANGAN_1400_1789059854646_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789059840000,
    "title": "שריפה פרצה במבנה בקופנגן שבתאילנד - הישראלים יצרו שרשרת אנושית של דליי מים",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789059840000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-8c44a01b92c80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-8f76091bc4690a1027.htm": {
@@ -9414,14 +9486,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-a9d312daf6c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_RECES_5954_10092026060405_1400_1789063523685_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789063533000,
    "title": "צה\"ל בהודעה לתושבי הצפון: \"הדי פיצוצים ישמעו בגליל העליון, רכס רמים, עמק החולה והגולן\"",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789063533000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-a9d312daf6c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-acefdda99d590a1026.htm": {
@@ -9543,14 +9616,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-b5b5a427d4c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/biata_dvori_mivfix_1400_1789061504769_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789061460000,
    "title": "כוננות שיא בישראל: צה\"ל נערך להשלמת הפעולה בעלי טאהר בלבנון, ונערך לתגובה איראנית",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789061460000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-b5b5a427d4c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-b60133e202290a1026.htm": {
@@ -9659,14 +9733,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-cc057b241ac80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15376_10092026064847_1400_1789066218361_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789066227000,
    "title": "יותר מ-1,100 טון של חומר נפץ השמידו 8 מנהרות באורך כולל של 5.4 ק\"מ",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789066227000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-cc057b241ac80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-cd6d091bc4690a1027.htm": {
@@ -9877,14 +9952,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eca731fffbc80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_STIV_MEHONIT_LO_REHEV_5958_10092026072500_1400_1789068394900_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789110420000,
    "title": "כדור אש: מח\"ט ח'אן יונס חוסל הלילה בתקיפה ממוקדת ברצועה",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789110420000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eca731fffbc80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ece2fc8618c80a1026.htm": {
@@ -9975,6 +10051,18 @@
    "updated_ms": 1789125826000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f908a76553090a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תקף רכב בדרום העיר עזה. הפלסטינים מדווחים על שני הרוגים",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15495_13092026085259_1400_1789289649689_FirstFrame.jpg",
+   "published_ms": 1789289656000,
+   "title": "צה״ל תקף רכב בדרום העיר עזה. הפלסטינים מדווחים על שני הרוגים",
+   "type": "mivzakim",
+   "updated_ms": 1789289656000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -10035,6 +10123,42 @@
    "type": "",
    "updated_ms": 1789271576000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f0b0e7375c890a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f14a35ff80a90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בלבנון מדווחים על למעלה מ-10 תקיפות של צה״ל בשעתיים האחרונות באזור נבטייה",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15496_13092026091258_1400_1789290849630_FirstFrame.jpg",
+   "published_ms": 1789290856000,
+   "title": "בלבנון מדווחים על למעלה מ-10 תקיפות של צה״ל בשעתיים האחרונות באזור נבטייה",
+   "type": "mivzakim",
+   "updated_ms": 1789290856000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f14a35ff80a90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fae75c68b9990a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תוקף בנבטיה",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15492_13092026074947_1400_1789285869699_FirstFrame.jpg",
+   "published_ms": 1789285876000,
+   "title": "צה״ל תוקף בנבטיה",
+   "type": "mivzakim",
+   "updated_ms": 1789285876000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fae75c68b9990a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fe871f3f3d990a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שלושה ימים אחרי פיצוץ המתחם של חיזבאללה: צה\"ל תקף מהאוויר ברכס עלי טאהר",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15494_13092026083924_1400_1789288842744_FirstFrame.jpg",
+   "published_ms": 1789288849000,
+   "title": "שלושה ימים אחרי פיצוץ המתחם של חיזבאללה: צה\"ל תקף מהאוויר ברכס עלי טאהר",
+   "type": "mivzakim",
+   "updated_ms": 1789288849000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fe871f3f3d990a1026.htm"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
@@ -18008,6 +18132,18 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-eed34a5b99180a1027.htm"
   },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/Liron_AI_13092026_MFIX_1400_1789288566494_FirstFrame.jpg",
+   "published_ms": 1789287360000,
+   "title": "ההחלטה החריגה של מנכ\"ל ענקית ה-AI",
+   "type": "general",
+   "updated_ms": 1789287360000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm"
+  },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
    "date_source": null,
@@ -19940,6 +20076,18 @@
    "type": "mivzakim",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-fda203af10a80a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "לראות ולא להאמין: התייר ההמום תיעד את העיר האיטלקית נאפולי - שהפכה לערימה של זבל",
+   "first_seen_ms": 1789291854959,
+   "image": "https://img.mako.co.il/2026/09/13/V1_NAPLES_6025_13092026082916_1400_1789288246257_FirstFrame.jpg",
+   "published_ms": 1789288254000,
+   "title": "לראות ולא להאמין: התייר ההמום תיעד את העיר האיטלקית נאפולי - שהפכה לערימה של זבל",
+   "type": "mivzakim",
+   "updated_ms": 1789288254000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-56a6e7375c890a1027.htm": {
    "author": "מבזקים מהעולם",
