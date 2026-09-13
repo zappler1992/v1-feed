@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789299747703,
+ "last_new_urls": [
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm"
+ ],
+ "last_run_ms": 1789300050835,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -1050,6 +1052,18 @@
    "type": "general",
    "updated_ms": 1789049937000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "הרשת גועשת סביב הפרסומת החדשה של סידני סוויני, המציפה את הדיון על ייצוג נשים בספורט. בעוד שיש מי שרואים במהלך העצמה ובחירה חופשית, המבקרים טוענים כי מדובר בהחפצה במסווה של ביטוי עצמי, ויריקה בפרצוף לספורט נשי.",
+   "first_seen_ms": 1789300050835,
+   "image": "https://img.mako.co.il/2026/09/13/Liron_SYD_13092026_M_1400_1789298880713_FirstFrame.jpg",
+   "published_ms": 1789299060000,
+   "title": "\"יריקה בפרצוף לספורטאיות\": כולם כועסים על הפרסומת החדשה של סידני סוויני",
+   "type": "general",
+   "updated_ms": 1789299060000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-e8689f0ac2a90a1027.htm": {
    "author": "סלבס",
