@@ -362,8 +362,10 @@ def cmd_build():
     enriched = enrich_missing_dates(pages, now_ms)
 
     state["bootstrapped"] = True
-    state["last_run_ms"] = now_ms
-    state["last_new_urls"] = [u for u in new_urls if pages[u].get("published_ms")] if not bootstrap else []
+    # only keep fields that change when content changes, so a no-op run leaves the repo untouched
+    state.pop("last_run_ms", None)
+    if new_urls or bootstrap:
+        state["last_new_urls"] = [u for u in new_urls if pages[u].get("published_ms")] if not bootstrap else []
     save_state(state)
 
     rss, n_rss = build_rss(pages, now_ms)
