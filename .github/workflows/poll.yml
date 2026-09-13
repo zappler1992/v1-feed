@@ -1,0 +1,59 @@
+name: poll-v1
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # every 5 minutes (GitHub may delay runs under load)
+  workflow_dispatch:
+
+# never let two runs touch the repo at the same time
+concurrency:
+  group: poll-v1
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  PUBLICATION_NAME: ${{ vars.PUBLICATION_NAME || 'V1' }}
+  PUBLICATION_LANG: ${{ vars.PUBLICATION_LANG || 'he' }}
+  INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}   # optional
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Resolve GitHub Pages URL
+        # Uses the FEED_BASE_URL repo variable if set (custom domain), else https://<owner>.github.io/<repo>
+        run: |
+          if [ -n "${{ vars.FEED_BASE_URL }}" ]; then
+            echo "FEED_BASE_URL=${{ vars.FEED_BASE_URL }}" >> "$GITHUB_ENV"
+          else
+            owner="${GITHUB_REPOSITORY_OWNER,,}"
+            repo="${GITHUB_REPOSITORY#*/}"
+            echo "FEED_BASE_URL=https://${owner}.github.io/${repo}" >> "$GITHUB_ENV"
+          fi
+
+      - name: Build feed + sitemaps
+        id: build
+        run: python scripts/build_feed.py build
+
+      - name: Commit and push
+        if: steps.build.outputs.changed == 'true'
+        run: |
+          git config user.name "v1-feed-bot"
+          git config user.email "v1-feed-bot@users.noreply.github.com"
+          git add docs state
+          git commit -m "feed update: ${{ steps.build.outputs.new_count }} new pages" || exit 0
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Wait for Pages, then ping WebSub hub (+ IndexNow)
+        if: steps.build.outputs.ping == 'true'
+        run: python scripts/build_feed.py ping
