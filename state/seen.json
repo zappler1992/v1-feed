@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789315949499,
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4768b92bc8b90a1027.htm"
+ ],
+ "last_run_ms": 1789316250102,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -10240,6 +10242,18 @@
    "type": "mivzakim",
    "updated_ms": 1789297897000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4768b92bc8b90a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מה שפספסתם בזמן החג: כל הכותרות החשובות בסרטון אחד | צפו",
+   "first_seen_ms": 1789316250102,
+   "image": "https://img.mako.co.il/2026/09/13/V1_KOTAROT_6037_13092026041303_1400_1789316084475_FirstFrame.jpg",
+   "published_ms": 1789316090000,
+   "title": "מה שפספסתם בזמן החג: כל הכותרות החשובות בסרטון אחד | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1789316090000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4768b92bc8b90a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm": {
    "author": "מבזקים",
