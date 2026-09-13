@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [],
- "last_run_ms": 1789292681596,
+ "last_run_ms": 1789292866090,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -9007,14 +9007,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-30d837c113570a1027.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עונש מוות נגזר על שרה חליפה, מגישת טלוויזיה מוכרת במצרים  - על מעורבותה בפרשת סמים נרחבת",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Biata_egypt_Mivfix_1400_1788674775571_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788675060000,
    "title": "עונש מוות נגזר על שרה חליפה, מגישת טלוויזיה מוכרת במצרים  - על מעורבותה בפרשת סמים",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788675060000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-30d837c113570a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3234623c9cc80a1027.htm": {
@@ -13483,14 +13484,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2025-m09_w01/shorts-660a3bfe5401991027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "באד באני? הוא בכלל לא קשור. אלה האחראים להסרת השיר \"פאפי\" של אודיה מספוטיפיי בפרשה שיצאה משליטה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1756914728000,
    "title": "עוד חוזר הניגון: פאפי",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1756914728000,
    "url": "https://www.v-1.co.il/special-magazine/2025-m09_w01/shorts-660a3bfe5401991027.htm"
   },
   "https://www.v-1.co.il/special-magazine/2025-m09_w01/shorts-763d6c584d51991026.htm": {
@@ -14995,14 +14997,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m02_w03/shorts-cd6519e96616c91026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "איך אנשים תופסים את המראה החיצוני של עצמם? הניסוי המסקרן",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1771161541000,
    "title": "בסימן שאלה - כמה טוב אתה נראה? מי עף על עצמו ומי פחות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1771161541000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m02_w03/shorts-cd6519e96616c91026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m02_w03/shorts-df1596a909b6c91027.htm": {
@@ -15067,14 +15070,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m03_w01/shorts-3035a21dc8fac91027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מדריכת ההורים עינת נתן בסדרת טיפים מיוחדת לימי מלחמה. והפעם: איך מרגיעים ילדים בזמן אזעקה או כששומעים בומים?",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1772533980000,
    "title": "טיפ מעינת נתן: בזמן אזעקות וכששומעים בומים - כך תרגיעו את הילדים",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1772533980000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m03_w01/shorts-3035a21dc8fac91027.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m03_w01/shorts-373e9f88052cc91026.htm": {
@@ -15127,14 +15131,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m03_w02/shorts-c64d86b4b83dc91027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מה נכון ולא נכון להגיד לילדים בזמן מלחמה? הטיפ היומי ממדריכת ההורים עינת נתן.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1773128460000,
    "title": "טיפ מעינת נתן: מה נכון ולא נכון להגיד לילדים בזמן מלחמה",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1773128460000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m03_w02/shorts-c64d86b4b83dc91027.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m03_w02/shorts-f93715672e0ec91027.htm": {
@@ -15643,14 +15648,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m06_w01/shorts-1203515eddc8e91026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מה עדיף? להיות מחוברים לעולם אבל להזיע כמו סוס - או מנותקים לחלוטין אבל בחדר קרירררר?",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1781454300000,
    "title": "חייבים לבחור: בלי אינטרנט או בלי מזגן?",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1781454300000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m06_w01/shorts-1203515eddc8e91026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m06_w01/shorts-969f5439ce19e91026.htm": {
@@ -16676,14 +16682,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-710e3fb1c5770a1026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "\"לישון עם בחורה זה הדבר הכי אינטימי עבורי\": גל כהן (כספי)  בשיחה פתוחה עם גל גברעם (שירי) - בפודקאסט החדש מדברים על הגלים",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/GALGAL_TAMAR_0609_M_1400_1788709292760_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788716340000,
    "title": "גל כהן חושף: \"לישון ביחד זה הכי אינטימי\"",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788716340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-710e3fb1c5770a1026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-7cf29d8c49080a1026.htm": {
@@ -17773,14 +17780,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m08_w03/shorts-4c1a796149500a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1786859400000,
    "title": "פרצת אבטחה חמורה בזום: כך ניתן להשתלט לכם על המחשב",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1786859400000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m08_w03/shorts-4c1a796149500a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m08_w03/shorts-8cf60e3dc37ef91027.htm": {
@@ -18866,26 +18874,28 @@
   },
   "https://www.v-1.co.il/tv1-magazine/2026-m02_w03/shorts-20c366008956c91027.htm": {
    "author": "TV1",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אחרי העימות המתוקשר במסעדה רני רהב לא נשאר חייב ומגיע לאולפן של ארץ נהדרת לענות לחבר הכנסת אלמוג כהן",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1771231557000,
    "title": "ארץ נהדרת: רני רהב לא נשאר חייב",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1771231557000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m02_w03/shorts-20c366008956c91027.htm"
   },
   "https://www.v-1.co.il/tv1-magazine/2026-m02_w03/shorts-3baa03c3fe06c91027.htm": {
    "author": "TV1",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ארץ נהדרת: כרמל שאמה הכהן מגיע לשיחה עם קיציס ומציג את המהפך של רמת גן - עיר ב-AI. חניות, גני שעשועים ואפילו שכנים בAI",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "",
-   "published_ms": null,
+   "published_ms": 1771153204000,
    "title": "ארץ נהדרת: כרמל שאמה הכהן מציג את המהפך של רמת גן לעיר ב-AI",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1771153204000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m02_w03/shorts-3baa03c3fe06c91027.htm"
   },
   "https://www.v-1.co.il/tv1-magazine/2026-m02_w03/shorts-c1f6844fcfa6c91026.htm": {
@@ -20007,14 +20017,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-4b9058e094870a1027.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הודו: בניין בן 5 קומות קרס בניו דלהי - לפחות חמישה נהרגו, חשש ללכודים נוספים",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/V1_hudu_5827_06092026080302_1400_1788725063674_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788754020000,
    "title": "הודו: בניין בן 5 קומות קרס בניו דלהי - לפחות חמישה נהרגו, חשש ללכודים נוספים",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788754020000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-4b9058e094870a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-62ddd63957b70a1026.htm": {
@@ -20134,14 +20145,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-eeb844088b570a1026.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "המטוס עולה בלהבות ענק - עד שהוא נשבר ומתרסק על הכבאית: תיעוד ממוזיאון התעופה בטורקיה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/MAYA_FIX_AIRPLANE_060926_M_1400_1788700442982_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788699420000,
    "title": "המטוס עולה בלהבות ענק - עד שהוא נשבר ומתרסק על הכבאית: תיעוד ממוזיאון התעופה בטורקיה",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788699420000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-eeb844088b570a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-fda203af10a80a1027.htm": {
