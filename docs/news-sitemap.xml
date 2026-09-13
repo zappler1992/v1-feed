@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3ef9a2ad5b90a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-13T15:36:04+00:00</news:publication_date>
+<news:title>כטב״ם רוסי פגע הבוקר ברכבת בקו קייב–ורשה סמוך לגבול פולין</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/13/M_NEWS_15504_13092026033434_1400_1789313754824_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -917,14 +926,5 @@
 <news:title>הנהגים מתעדים בדרך לארוחת החג: עומסי תנועה כבדים בכביש 4</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/11/V1_KVISH4_5986_11092026035049_1400_1789141933770_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-895348a72df80a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-11T15:37:00+00:00</news:publication_date>
-<news:title>מה קורה לפתק שלכם אחרי שמשאירים אותו בכותל?</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/11/yoav_KOTEL_110926_1400_1789120517890_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
