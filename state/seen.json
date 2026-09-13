@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789294347149,
+ "last_new_urls": [
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-e8689f0ac2a90a1027.htm"
+ ],
+ "last_run_ms": 1789294647464,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -1050,6 +1052,18 @@
    "type": "general",
    "updated_ms": 1789049937000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-e8689f0ac2a90a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "לאחר שהדוגמנית בת ה-23 חושפה גזרה חדשה, עם 16 ק\"ג פחות: רומי פרנקל, השוהה בימים אלה בניו יורק, הוזמנה על ידי בית האופנה האמריקאי Michael Kors להתארח בתצוגת הקולקציה החדשה של המותג.\nרומי הגיעה לתצוגה כאורחת הישראלית מטעם פקטורי 54 של המותג ולבשה לוק מקולקציית Michael Kors Collection, שנבחר עבורה במיוחד לקראת האירוע.",
+   "first_seen_ms": 1789294647464,
+   "image": "https://img.mako.co.il/2026/09/13/Liron_ROMY_10072026_M_1400_1789293089705_FirstFrame.jpg",
+   "published_ms": 1789293300000,
+   "title": "אחרי שהציגה גזרה חדשה: רומי פרנקל בתצוגת אופנה בניו יורק",
+   "type": "general",
+   "updated_ms": 1789293300000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-e8689f0ac2a90a1027.htm"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -3692,11 +3706,11 @@
    "date_source": "json-publishDate",
    "description": "האסון באינדונזיה מכה גלים ברחבי העולם: המהדורות מדווחות עם כל הפרטים שניתן לומר כרגע על הספינה שנותק עמה הקשר, כשעל סיפונה כ-240 נוסעים.",
    "first_seen_ms": 1789291854959,
-   "image": "https://img.mako.co.il/2026/09/13/biata_indonesia_130926_new_1400_1789288606003_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/13/biata_indonesia_130926_newfix_1400_1789291224901_FirstFrame.jpg",
    "published_ms": 1789288612000,
    "title": "המהדורות בעולם מדווחות על הספינה שנעלמה",
    "type": "general",
-   "updated_ms": 1789288612000,
+   "updated_ms": 1789291200000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm"
   },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
