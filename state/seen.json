@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789301849034,
+ "last_new_urls": [
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-b3bf2b1577a90a1026.htm"
+ ],
+ "last_run_ms": 1789302148296,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -2036,6 +2038,18 @@
    "type": "general",
    "updated_ms": 1788783540000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-fc72005c74b70a1026.htm"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-b3bf2b1577a90a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "מתפכחים? הפרקים בעונה החמישית של \"פאודה\" עלו לשידור בנטפליקס, והגולשים מסביב לעולם מגיבים בפליאה וזעזוע עמוק למראות אליהם הם נחשפים, המציגים את אותו יום שחור. התגובות נעות מ-\"מטריד\" ל-\"איך עדיין יש תומכי חמאס בעולם\", והישראלים ברשת כבר קובעים כי מדובר בהסברה הכי טובה שהייתה למדינת ישראל בשלוש השנים האחרונות.",
+   "first_seen_ms": 1789302148296,
+   "image": "https://img.mako.co.il/2026/09/13/biata_fauda_130926_1400_1789299015779_FirstFrame.jpg",
+   "published_ms": 1789299023000,
+   "title": "פתאום העולם מבין את ישראל - בגלל פאודה",
+   "type": "general",
+   "updated_ms": 1789299023000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-b3bf2b1577a90a1026.htm"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
