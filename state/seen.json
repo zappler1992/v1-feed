@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-f9c0448143b90a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-41fdfe5feeb90a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-90e8836da9b90a1026.htm",
+  "https://www.v-1.co.il/food-magazine/2026-m09_w03/shorts-991c836da9b90a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1063,6 +1065,18 @@
    "type": "general",
    "updated_ms": 1789306080000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-90e8836da9b90a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "פער של 30 שנה: השחקן ההוליוודי בראד פיט בן ה-62 ובת הזוג אינס דה רמון בת ה-33 בתמונות רומנטיות חדשות וצמודות. פיט ורמון מתחזקים זוגיות יציבה משנת 2022, לצד השיח התקשורתי על הנתק של פיט מילידיו וגרושתו אנג'לינה ג'ולי",
+   "first_seen_ms": 1789322848721,
+   "image": "https://img.mako.co.il/2026/09/13/NOAY_BRAD_130926_1400_1789317206308_FirstFrame.jpg",
+   "published_ms": 1789317212000,
+   "title": "פער של 30 שנה: בראד פיט ובת הזוג בתמונות חדשות וצמודות",
+   "type": "general",
+   "updated_ms": 1789317212000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-90e8836da9b90a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-d19ab7c03ba90a1026.htm": {
    "author": "סלבס",
@@ -2904,6 +2918,18 @@
    "type": "general",
    "updated_ms": 1788930485000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-a62753c9e7480a1026.htm"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m09_w03/shorts-991c836da9b90a1026.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789322848721,
+   "image": "https://img.mako.co.il/2026/09/13/ASAF_COFFEE_13092026_M_1400_1789317673880_FirstFrame.jpg",
+   "published_ms": 1789317683000,
+   "title": "אוהבים קפה רותח? זה הרבה יותר מסוכן ממה שנדמה לכם",
+   "type": "general",
+   "updated_ms": 1789317683000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m09_w03/shorts-991c836da9b90a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m04_w01/shorts-51ef9d3fcfc4d91027.htm": {
    "author": "מהעולם",
@@ -20493,6 +20519,18 @@
    "type": "mivzakim",
    "updated_ms": 1789288254000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-41fdfe5feeb90a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מעבורת הנוסעים שאבד עמה הקשר באינדונזיה - החיפושים אחר הנעדרים נמשכים",
+   "first_seen_ms": 1789322848721,
+   "image": "https://img.mako.co.il/2026/09/13/V1_SHIP_6042_13092026060246_1400_1789322661986_FirstFrame.jpg",
+   "published_ms": 1789322668000,
+   "title": "מעבורת הנוסעים שאבד עמה הקשר באינדונזיה - החיפושים אחר הנעדרים נמשכים",
+   "type": "mivzakim",
+   "updated_ms": 1789322668000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-41fdfe5feeb90a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-4b68d85370b90a1027.htm": {
    "author": "מבזקים מהעולם",
