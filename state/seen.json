@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789304847946,
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f027a0ba3da90a1026.htm"
+ ],
+ "last_run_ms": 1789305147822,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -10264,6 +10266,18 @@
    "type": "mivzakim",
    "updated_ms": 1789278720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b87e94cb32990a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f027a0ba3da90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שלושת הנרצחים בשרפת הרכב הלילה: האחים קאסם ויזן עודה, ובן דודם יחיא בסמיה",
+   "first_seen_ms": 1789305147822,
+   "image": "https://img.mako.co.il/2026/09/13/V1_MURDER_6029_13092026010728_1400_1789304921582_FirstFrame.jpg",
+   "published_ms": 1789304928000,
+   "title": "שלושת הנרצחים בשרפת הרכב הלילה: האחים קאסם ויזן עודה, ובן דודם יחיא בסמיה",
+   "type": "mivzakim",
+   "updated_ms": 1789304928000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f027a0ba3da90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f0b0e7375c890a1027.htm": {
    "author": "",
