@@ -1,9 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8827b60d15a90a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm"
  ],
- "last_run_ms": 1789297947154,
+ "last_run_ms": 1789298251696,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -10147,6 +10148,18 @@
    "updated_ms": 1789289656000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שמורת הטבע תל דן נסגרה עקב שריפה. המבקרים פונו",
+   "first_seen_ms": 1789298251696,
+   "image": "https://img.mako.co.il/2026/09/13/M_NEWS_15500_13092026110958_1400_1789297886809_FirstFrame.jpg",
+   "published_ms": 1789297897000,
+   "title": "שמורת הטבע תל דן נסגרה עקב שריפה. המבקרים פונו",
+   "type": "mivzakim",
+   "updated_ms": 1789297897000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -10182,6 +10195,18 @@
    "type": "mivzakim",
    "updated_ms": 1789273135000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-89b7e7375c890a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הסטנדאפיסט איתן בוכריס נידון ל-9 חודשי מאסר בעבודות שירות ולקנס של 2,000 ש\"ח - על ייבוא סמי אונס",
+   "first_seen_ms": 1789298251696,
+   "image": "https://img.mako.co.il/2026/09/13/V1_eitan_6027_13092026111423_1400_1789298145083_FirstFrame.jpg",
+   "published_ms": 1789298151000,
+   "title": "הסטנדאפיסט איתן בוכריס נידון ל-9 חודשי מאסר בעבודות שירות ולקנס של 2,000 ש\"ח - על ייבוא סמי אונס",
+   "type": "mivzakim",
+   "updated_ms": 1789298151000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b85736a82e890a1026.htm": {
    "author": "מבזקים",
