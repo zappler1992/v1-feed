@@ -1,17 +1,7 @@
 {
  "bootstrapped": true,
- "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-0b908d95ee990a1026.htm",
-  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f14a35ff80a90a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fe871f3f3d990a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fae75c68b9990a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-93f8265b48b80a1026.htm"
- ],
- "last_run_ms": 1789291854959,
+ "last_new_urls": [],
+ "last_run_ms": 1789292075412,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -867,14 +857,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-09c424bf29680a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בשביל הגישה לאחוזתו המפוארת של השחקן האגדי במליבו, שמוערכת בשווי של 10.5 מיליון דולר, נפער בולען כתוצאה ממזג האוויר החריג באזור - והקריס את כל קדמת הבית לתוך הים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/biata_nicage_090926_fix_1400_1788966012062_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788965082000,
    "title": "באסה: ביתו של ניקולס קייג' שקע לבולען",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788965082000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-09c424bf29680a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-19c39c4160a80a1026.htm": {
@@ -930,14 +921,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-5c72aaab66680a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "לא מפסיקה להפתיע: הפרסומת הפרובקטיבית (מאוד) של סידני סוויני - וכן אתם שומעים נכון, בסופה מושמע שיר של אנדרסון פאק שכולל סימפול של ההמנון הלאומי ״התקווה״. סוויני כזכור יוצאת עם איש העסקים היהודי-אמריקאי סקוטר ברון שמרבה להתבטא בעד ישראל.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/Liron_SYD_10072026_Mfix_1400_1788964761101_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788964740000,
    "title": "לצלילי התקווה: הפרסומת הפרובוקטיבית (מאוד) של סידני סוויני",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788964740000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-5c72aaab66680a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6351ef3819670a1027.htm": {
@@ -954,14 +946,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6453ca75b1780a1027.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "פוסט של המותג היוקרתי ראלף לורן עם תמונות של גל גדות גרר גל תגובות רעות וקריאות לחרם על בית האופנה. גולשים כתבו כי לא יקנו את המותג לעולם, חלק כינו את הכוכבת \"ציונית מכוערת\". בראלף לורן לא התייחסו לסערה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/alice_090926_gal_1400_1788974057844_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789017000000,
    "title": "\"ציונית מכוערת\": מתקפה חריפה ברשת נגד גל גדות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789017000000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6453ca75b1780a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6632471bf0690a1026.htm": {
@@ -1026,14 +1019,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-e68c50fc28580a1027.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "לאו מסי סיכם על רכישת 100% ממניות אלדנסה, מועדון מהליגה השנייה בספרד. העסקה עדיין דורשת השלמת הליכים ואישורים, אך בעיר כבר מתלהבים מההשקעה של אחד מגדולי הכדורגל בעולם.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_MESSI_090926_1400_1788946557342_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788946560000,
    "title": "מסי בדרך לרכוש מועדון בליגה השנייה בספרד",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788946560000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-e68c50fc28580a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm": {
@@ -1375,14 +1369,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-94d324bf29680a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הכי מרגש שיש! רגע הצעת הנישואין של בר ברימר לאגם בוחבוט",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/V1_karind_buhbut_5900_09092026023910_1400_1788964969633_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788964976000,
    "title": "הכי מרגש שיש! רגע הצעת הנישואין של בר ברימר לאגם בוחבוט",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788964976000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-94d324bf29680a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-9a34273849a70a1027.htm": {
@@ -2819,14 +2814,15 @@
   },
   "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-a62753c9e7480a1026.htm": {
    "author": "אוכל",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "חושבים שאתם יכולים? ליה אכלה בוריטו ב-30.75 שניות וזכתה בשיא גינס אחרי ששברה את השיא הקודם שלה, אכילת בוריטו ב-42 שניות.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/AVISHAI_BURRITO_0909_M_1400_1788930479209_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788930485000,
    "title": "חושבים שאתם יכולים? ליה אכלה בוריטו ב-30 שניות וזכתה בשיא גינס",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788930485000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w02/shorts-a62753c9e7480a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m04_w01/shorts-51ef9d3fcfc4d91027.htm": {
@@ -3529,26 +3525,28 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-78d550fc28580a1027.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הנקמה המושלמת בנוכל מהקרוז: ונסה העבירה 1,100 דולר לשותף שמצאה לקרוז, אך לטענתה רגע לפני ההפלגה הוא הפסיק לענות והיא גילתה שההזמנה שקיבלה מזויפת. היא החליטה לא לוותר, הזמינה מקום בנפרד על אותה ספינה, איתרה אותו במהלך ההפלגה - והתעמתה איתו מול המצלמה בדרישה לקבל את כספה בחזרה.\nאלא שלשותף לקרוז יש גרסה אחרת לגמרי: לטענתו, ההזמנה המקורית הייתה אמיתית ושולמה במלואה, אך חלק מהתשלומים שהעבירה אליו בוטלו לאחר מכן. לדבריו, רק ביום ההפלגה החליט להסיר אותה מההזמנה.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/INBAR_WOMAN_090926_1400_1788946960466_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788947040000,
    "title": "העבירה 1,100 דולר לשותף לקרוז, רגע לפני ההפלגה הוא נעלם - והעוקץ נחשף",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788947040000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-78d550fc28580a1027.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-9a65cd8d9e480a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עורך הדין מת'יו אקסטון הורשע בניסיון לרצוח את גרושתו בתוך מסעדה הומה בטולידו, אוהיו. הוא שלף אקדח לעברה, אך האקדח לא ירה והסועדים השתלטו עליו",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_GUN_090926_1400_1788937037334_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788937043000,
    "title": "הורשע בניסיון רצח: שלף אקדח לעבר גרושתו במסעדה - ונוטרל",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788937043000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-9a65cd8d9e480a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-a3d7c2ef2a770a1026.htm": {
@@ -3590,26 +3588,28 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-dc1f85bdb1580a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "פרשה מזעזעת: המשטרה עצרה את בעל פנסיון הכלבים לאחר שהודה בהתקנת מצלמה נסתרת בשירותים לפני ארבעה עד חמישה חודשים. צפו בדיווח המלא על האופן שבו תמונה אחת בטלפון הנייד שלו הפלילה אותו, והובילה לאישומים של מציצנות דיגיטלית וווידאו כלפי נשים וקטינה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/Liron_DogDayCare_09092026_M_1400_1788939712423_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788939900000,
    "title": "מצלמה נסתרת התגלתה בשקע בשירותים - והבעלים של מעון לכלבים בפלורידה נעצר",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788939900000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-dc1f85bdb1580a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-dcfc3afa5e580a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "גניבות אומנות הן לא דבר חדש, אבל בשנתיים האחרונות יש סימנים של עלייה, שודים קורים באור יום בלב ערים אירופיות כמו פריז - הסיבה היא לא האומנות עצמה אלא, מהחומרים מהם הם עשויים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/AVISHAI_MUSEUMS_0909_M_1400_1788953093257_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788953099000,
    "title": "גונבים בקלאס: למה יש כל כך הרבה גניבות של אומנות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788953099000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-dcfc3afa5e580a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-e9cc3e08e8c70a1027.htm": {
@@ -7923,14 +7923,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-09dfd527c0580a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_HEART_090926_1400_1788938798858_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788938820000,
    "title": "חווה התקף לב במהלך סקס - עבר שלוש החייאות וניצל",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788938820000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-09dfd527c0580a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-145bc35123770a1026.htm": {
@@ -8033,14 +8034,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-5db04f713d480a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "\"בבקשה אל תבוא, תכבד את המשפחות\": לקראת ציון 25 שנים לפיגועי 11 בספטמבר, משפחות קורבנות הפיגועים מבקשות מראש עיריית ניו יורק, זוהראן ממדאני, שלא להגיע לטקס הזיכרון. הפנייה מגיעה על רקע המחלוקת סביב עמדותיו והתבטאויותיו של ממדאני, והופכת את השתתפותו האפשרית בטקס לנושא שנוי במחלוקת",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/NOAB_MAMDNI_090926_M_1400_1788935267517_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788935274000,
    "title": "משפחות קורבנות 11 בספטמבר בפנייה לממדאני",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788935274000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-5db04f713d480a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-6300e3df57f70a1027.htm": {
@@ -8145,14 +8147,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-8d525fb957480a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_APP_090926_1400_1788930436848_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788963780000,
    "title": "האפליקציה שתשלם למשתמשים שלה הרבה מאוד כסף",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788963780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-8d525fb957480a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-93997648a2f80a1027.htm": {
@@ -8220,14 +8223,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-b4b6f0809e580a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "בצלאל סמוטריץ' התארח בפודקאסט של יסמין לוקץ', שם סיפר כי הנאום המפורסם היה למעשה הנאום הראשון שנשא באנגלית אי פעם. לדבריו, למרות ה\"ליפסוסים\" שנבעו מהתרגשות, הוא סבור כי בסופו של דבר היה זה נאום טוב.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_GRANDMOTHER_090926_1400_1788954189586_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788954420000,
    "title": "בצלאל סמוטריץ' מדבר על נאום הגרנדמייזר: \"לא אוהב להחמיא לעצמי, אבל היה נאום טוב\"",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788954420000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-b4b6f0809e580a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-d1cf5c4a75b80a1026.htm": {
@@ -8270,14 +8274,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-f11a7a515c480a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/SHIR_PLAIN_090926_2_1400_1788933950223_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788933959000,
    "title": "אחרי ההתרסקות: זה מה שהעסיק את הטייס",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788933959000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-f11a7a515c480a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-faea289a44180a1027.htm": {
@@ -9021,14 +9026,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3ced592897780a1026.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "האייפון המתקפל החדש נחשף: זה המחיר המטורף שבו הוא יושק בארצות הברית",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/V1_iphoneprice_5915_09092026064607_1400_1788979676584_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788979980000,
    "title": "האייפון המתקפל החדש נחשף: זה המחיר המטורף שבו הוא יושק בארצות הברית",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788979980000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-3ced592897780a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-40de1265db190a1026.htm": {
@@ -9965,14 +9971,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ece2fc8618c80a1026.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/inbalfixlbbebeb_1400_1789065087082_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789064302000,
    "title": "צה\"ל השמיד את רשת המנהרות ברכס עלי טאהר בלבנון - כוננות שיא לתגובה איראנית",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789064302000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ece2fc8618c80a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eef1347f3e090a1027.htm": {
@@ -10003,14 +10010,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f0c396ef38c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/FIX_DVORU_COVERD_1400_1789071838176_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789071900000,
    "title": "כוננות שיא לתגובה איראנית: צה\"ל השמיד את רשת המנהרות ברכס עלי טאהר בלבנון",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789071900000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f0c396ef38c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f2b4cfd83a190a1027.htm": {
@@ -10028,14 +10036,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f6342062f5c80a1027.htm": {
    "author": "",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/M_NEWS_15373_10092026054411_1400_1789062341490_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789062348000,
    "title": "נתניהו: ״איראן מנסה שוב להתחמש בנשק גרעיני, זה נכון״",
    "type": "",
-   "updated_ms": null,
+   "updated_ms": 1789062348000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f6342062f5c80a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f908a76553090a1027.htm": {
@@ -16606,14 +16615,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-64f650c492b80a1026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "רונן שלו, אביו של רועי שלו ז\"ל ששם קץ לחייו אחרי שאיבש את אהובתו במסיבת הנובה ואת אימו כשבועיים לאחר מכן, הגיע להתארח בפודקאסט של רומי גונן שם הוא סיפר לה על המאבק של רועי למען השבת החטופים וכל כמה הכרה בפוסטראומה היא חשובה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/Amit_ROMI_RONEN_ROEY_M_1400_1789041738006_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789041745000,
    "title": "החיים החדשים של רומי גונן: פרק לכרו של רועי שלו ז\"ל",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789041745000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-64f650c492b80a1026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-710e3fb1c5770a1026.htm": {
@@ -16654,38 +16664,41 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9c527ae734b80a1027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ההסברים המפתיעים של השפה היום יומית.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/lior_words_01_100926_1400_1789043284335_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789043291000,
    "title": "93% מהישראלים לא מכירים את המילים האלה באמת",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789043291000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9c527ae734b80a1027.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0d1532ed4b80a1027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "שלפנו סודות מהארכיון של כוכבי \"כשהגלים מתחזקים 2\" תומר הכהן ומיה מינץ.... אז איפה ראינו אותם לפני?!",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/NOAB_TOMER_NINJA_020926_M_1400_1789043823675_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789043880000,
    "title": "סודות מהארכיון של תומר הכהן ומיה מינץ",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789043880000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0d1532ed4b80a1027.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e6883ee229580a1026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ביבי שמאלני? יאיר גולן איש ימין?? זו לגמרי יכלה להיות המציאות - אבל אז מישהו החליט להתיישב בצד מסויים של החדר....",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/lior_LR_080926_N_1400_1788947407673_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789017540000,
    "title": "ביבי שמאלני? זו לגמרי יכלה להיות המציאות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789017540000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e6883ee229580a1026.htm"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
@@ -17999,26 +18012,28 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-0984eb0319a80a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": ".",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/AVISHAI_IPHONE_1009_M_1400_1789031532333_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789031539000,
    "title": "זול זה לא יהיה: מחירי אייפון 18 בישראל נחשפים",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789031539000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-0984eb0319a80a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-0ef878885bc80a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "חברת דייסון השיקה בשבוע שעבר מברשת שיניים חדשנית עם מצלמה שיכולה לזהות לבד רווחים על ידי צילום חלל הפה בזמן הצחצוח, במחיר הלא ידידותי לכל כיס של 500 דולר. מיד לאחר ההשקה, הביקורות ברשת לא איחרו להגיע, ומבחן התוצאה - לוקה בחסר. משתמשים רבים מדווחים על זליגת מים לתוך תא הסוללה, ועל כך שהמברשת מפסיקה לעבוד לאחר מספר שימושים בודדים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/biata_dyson_100926_1400_1789067226670_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789067233000,
    "title": "מברשת השיניים החדשה של דייסון - והביקורת",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789067233000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-0ef878885bc80a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-35189aa7c3c70a1027.htm": {
@@ -18035,14 +18050,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-41fd292195580a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "האם שחקנית ה-AI הראשונה באמת יודעת לשחק? טילי, השחקנית הווירטואלית החדשה, לא מסוגלת להביע רגש בעצמה ודורשת הזנה של פקודות טקסט מדויקות כדי לייצר סצנה. למרות החשש בתעשייה, היוצרים מבהירים שהיא לא נועדה להחליף שחקנים אנושיים אלא לשמש ככלי עזר טכנולוגי",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/09/Liron_AI_09092026_M_1400_1788944029773_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788944100000,
    "title": "האם שחקנית ה-AI ההוליוודית הראשונה באמת יודעת לשחק?",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788944100000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-41fd292195580a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-5df19ef7def80a1026.htm": {
@@ -18085,14 +18101,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-95d66df32cb80a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "חדירה לפרטיות או השלב הבא של הבינה המלאכותית? מטא משיקה עוזר AI אישי שעובד עבורכם 24/7. כדי לעשות את זה, Muse מתחבר לוואטסאפ ולאפליקציות שלכם, לומד את המטרות וההרגלים שלכם ומבצע משימות באופן עצמאי - משליחת מיילים והזמנת נסיעות ועד ביצוע רכישות.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/inbalzurk100926m_1400_1789051940139_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789056300000,
    "title": "השלב הבא של הבינה המלאכותית: מטא משיקה עוזר אישי שעובד עבורכם 24/7",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1789056300000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-95d66df32cb80a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-bb8a292195580a1027.htm": {
@@ -19922,14 +19939,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-3a90fcd484a80a1026.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "לא היינו רוצים לפגוש אותו: דוב ענק שוטט ברחוב הומה בטנסי - התושבים פינו לו את הדרך",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_karind_bear_5929_10092026075123_1400_1789026756158_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789071120000,
    "title": "לא היינו רוצים לפגוש אותו: דוב ענק שוטט ברחוב הומה בטנסי - התושבים פינו לו את הדרך",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789071120000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-3a90fcd484a80a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-4b9058e094870a1027.htm": {
@@ -20043,14 +20061,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-d2c6f14d56a80a1026.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "גנב ניסה לפרוץ לביתו של טרנטינו בהוליווד, בזמן שאנשים שהו בתוך הבית: תיעוד דרמטי",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/SHIR_MUAMAD_100926_1400_1789030033476_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789069260000,
    "title": "גנב ניסה לפרוץ לביתו של טרנטינו בהוליווד, בזמן שאנשים שהו בתוך הבית: תיעוד דרמטי",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789069260000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-d2c6f14d56a80a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-eeb844088b570a1026.htm": {
@@ -20067,14 +20086,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-fda203af10a80a1027.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "כמו בסרטים: כמות משוגעת של עורבים חגה מעל הכנסיה בסיילם שבמדינת אורגון | צפו",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/10/V1_karind_birds_5927_10092026063524_1400_1789022208533_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789022220000,
    "title": "כמו בסרטים: כמות משוגעת של עורבים חגה מעל הכנסיה בסיילם שבמדינת אורגון | צפו",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1789022220000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-fda203af10a80a1027.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm": {
