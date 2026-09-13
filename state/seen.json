@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [],
- "last_run_ms": 1789292375461,
+ "last_run_ms": 1789292681596,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -425,14 +425,15 @@
   },
   "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-2728dd7896570a1027.htm": {
    "author": "60 שניות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מלכת השירה בציבור עינת שרוף הגיעה לראיון ב-60 שניות אצל ליאל אלי: הרגע בו נפלה משולחן באמצע הופעה, למה שלחו לה 100 ארגזים של מלפפונים חמוצים ועל הלקח מהבורקס",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Amit_EINAT_60_M_1400_1788676239565_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788705960000,
    "title": "60 שניות עם עינת שרוף",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788705960000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-2728dd7896570a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
@@ -936,14 +937,15 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6351ef3819670a1027.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "תמונה של סידני סוויני שפורסמה ברשת גרמה לגולשים לתהות - מה אלה הפסים האלה על המותן שלה? זו כוויה? סימני מתיחה? או אולי שמא מדובר בסימן מחגורת בטיחות? גרוק מיהר להבהיר למעריצים המודאגים - אלה בסך הכל קפלים על גופיה בצבע גוף, ולסידני - שלום.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Biata_sydney_060926_1400_1788696397498_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788696404000,
    "title": "הסימנים על סידני סוויני שהדאיגו את הרשת",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788696404000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6351ef3819670a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-6453ca75b1780a1027.htm": {
@@ -986,26 +988,28 @@
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-9fea745e3e570a1026.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "המראיינת המיתולוגית אופרה ווינפרי הגיעה למספר אירועים מצולמים וגנבה את ההצגה כשהציגה גזרה חדשה וחטובה. בראיון, סיפרה כי השילה כמעט 40 ק\"ג, ובפתיחות רבה הצהירה שהיא משתמשת בזריקות הרזייה: \"אתה לא אוכל יותר מדי והופך לשמן, אלא ההשמנה גורמת לך לאכול יותר מדי. התרופות פשוט השתיקו את הרעש הזה. הבנתי שלאנשים רזים אין באמת יותר כוח רצון - הם פשוט לא חושבים על אוכל כל הזמן. הם אוכלים כשהם רעבים ועוצרים כשהם שבעים\".",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Biata_oprah_060926fix_1400_1788685448055_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788685740000,
    "title": "המראיינת מציגה גזרה חדשה - 40 ק\"ג פחות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788685740000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-9fea745e3e570a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-c2fc67efa3570a1027.htm": {
    "author": "סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "האחים נואל וליאם גלאגר שייסדו יחד את להקת \"אואזיס\", הגיעו להקרנת הבכורה של הסרט החדש שליווה אותם בסיבוב הופעות האיחוד שלהם בשנה שעברה - וזכו למחיאות כפיים בעמידה למשך 8 דקום בתום ההקרנה. המתיחות בין האחים, שמערכת היחסים שלהם ידעה עליות ומורדות רבות לאורך השנים, הגיעה לשיאה בשנת 2009 כשפרץ ביניהם עימות אלים - רגע לפני עלייה לבמה להופעה בפסטיבל מוזיקה בפריז. מאז אותו אירוע הלהקה התפרקה ובין ליאם ונואל שרר נתק, כאשר השניים הוסיפו גם לגדף אחד את השני בראיונות. 16 שנים לאחר הנתק - האחים חזרו להופיע יחד בסיבוב הופעות שהפך לשובר שיאים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Biata_oasis_060926_1400_1788673453669_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788673460000,
    "title": "האיחוד: אואזיס בהקרנת הבכורה לסרטם החדש",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788673460000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-c2fc67efa3570a1027.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-d34f17a138080a1026.htm": {
@@ -1325,14 +1329,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-16f1c17adf670a1026.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אחרי הפרידה המדוברת והחזרה: אורנה בנאי ובת הזוג עדי כהן - נפרדו",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/V1_ORNA_5819_06092026015838_1400_1788703188142_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788703194000,
    "title": "אחרי הפרידה המדוברת והחזרה: אורנה בנאי ובת הזוג עדי כהן - נפרדו",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788703194000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-16f1c17adf670a1026.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-40653eee56280a1027.htm": {
@@ -1362,14 +1367,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-785412afdb670a1027.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "גם היא מעריצה: מדונה נצפתה בין הקהל בהופעה של ג'יי-זי בלונדון",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/V1_MADONA_5816_06092026125253_1400_1788699244286_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788721740000,
    "title": "גם היא מעריצה: מדונה נצפתה בין הקהל בהופעה של ג'יי-זי בלונדון",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788721740000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-785412afdb670a1027.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-94d324bf29680a1026.htm": {
@@ -1450,14 +1456,15 @@
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-b857739a89570a1027.htm": {
    "author": "מבזקי סלבס",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ג׳יי לו קפצה לגלידריה הישראלית אניטה בניו יורק, ומה היא בחרה? סטרצ׳טלה, קוקימן ובייגל.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/V1_LOPEZ_5808_06092026073626_1400_1788680263598_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788685860000,
    "title": "ג׳יי לו קפצה לגלידריה הישראלית אניטה בניו יורק, ומה היא בחרה? סטרצ׳טלה, קוקימן ובייגל",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788685860000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-b857739a89570a1027.htm"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w02/shorts-c4203916aab80a1026.htm": {
@@ -2284,14 +2291,15 @@
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w02/shorts-3f8570105a670a1027.htm": {
    "author": "סרטונים מהירים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "תורי ענק בקניון TLV: פופ אפ לחנות הבגדים SAP של ספיר אביסרור. קרדיט: ספיר אביסרור",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/FIX_yoav_tlv_060926_MIV_1400_1788699413532_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788699420000,
    "title": "תורי ענק בקניון TLV: פופ אפ לחנות הבגדים SAP של ספיר אביסרור. קרדיט: ספיר אביסרור",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788699420000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w02/shorts-3f8570105a670a1027.htm"
   },
   "https://www.v-1.co.il/food-magazine/2025-m05_w04/shorts-8f181379998e691026.htm": {
@@ -3474,26 +3482,28 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-04403fb1c5770a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ג'ונתן מלנדס, הקלידן של להקת האינדי רוק המקסיקנית  \"קמילו ספטימו\" נמצא ירוי בביתו סמוך למקסיקו סיטי לצד אנה פאולה אשתו ההרה, ביתם בת ה - 3 סופיה והמטפלת אליידה רומרו ויקטוריו . מזכיר הבטיחון של מקסיקו אישר ברשתות כי נעצר שני חשודים גברים ביניהם - דיאגו סבסטיאן רוסן פרליני שהיה שותפו העסקי של מלנדס בשלב מסוים. הלהקה פרסמה פוסט פרידה באינסטגרם שגרף הרבה תגובות",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/FIX_SHIRA_JONATAN_060826_1400_1788710841799_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788711540000,
    "title": "אירוע מזעזע במקסיקו: ג'ונתן מלנדס, הקלידן של להקת הרוק \"קמילו ספטימו\" נרצח",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788711540000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-04403fb1c5770a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-14f8181a57670a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "טראמפ ירד מהמטוס עם מראה קצת שונה מהרגיל, והרשת מיד שמה לב. ואיך אפשר שלא? כשהשיער של הנשיא הופך פתאום לחום",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/yoav_hair_060926_1400_1788693825543_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788695760000,
    "title": "מה קרה לשיער של טראמפ? הבלונד הפך לחום",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788695760000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-14f8181a57670a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-2296757de2190a1026.htm": {
@@ -3562,14 +3572,15 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-a3d7c2ef2a770a1026.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "לפי המדגמים, מפלגת הימין הקיצוני \"אלטרנטיבה לגרמניה\" (AfD) זכתה בכ־44% מהקולות בבחירות בסקסוניה-אנהלט. למרות הניצחון ההיסטורי, היא ככל הנראה תתקשה להרכיב ממשלה, לאחר שרוב המפלגות שללו הצטרפות לקואליציה בראשותה. מנהיג המפלגה במדינה, אולריך זיגמונד: \"עשינו היסטוריה\".",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/inbalgerm060926m_1400_1788715589917_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788715596000,
    "title": "לראשונה מאז מלחמת העולם השנייה: ניצחון סוחף לימין הקיצוני בגרמניה",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788715596000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-a3d7c2ef2a770a1026.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-b0b55beb55b80a1027.htm": {
@@ -3639,14 +3650,15 @@
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f4123012cf570a1027.htm": {
    "author": "מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "המצור על איראן אולי עדיין נמשך, אבל נושאת המטוסים \"אברהם לינקולן\" עצרה להתרעננות בתאילנד. אחרי 286 ימים בים, החיילים ירדו לחוף כדי לשחרר קצת קיטור ב\"עיר החטאים\" פטאיה - ככה זה נראה",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/yoav_thailand_060926_FIX_1400_1788704183310_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788776700000,
    "title": "אחרי 286 ימים בים: חיילי ארה\"ב כובשים את תאילנד",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788776700000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f4123012cf570a1027.htm"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w02/shorts-f443cee56b180a1027.htm": {
@@ -5574,14 +5586,15 @@
   },
   "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-5eb8476ebc670a1027.htm": {
    "author": "לייף & סטייל",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "רשת הלואו קוסט הידועה (לפעמים לשמצה) החליטה לחסוך בעלויות זמן השדה והתפעול ולהתקין מדרגות מובנות במטוסיה, כך שלא תצטרך להשכיר מדרגות משדות התעופה ולהמתין לצוותים שיחברו אותן. למה זה מעניין אתכם? כי בדיקה שנערכה מקשרת בין אחוזי נפילות בירידה מהמטוס - למדרגות המובנות, כשהסיכוי ליפול מהן גדול פי 3 ממדרגות רגילות.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/Biata_ryanair_060926_1400_1788699545898_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788771600000,
    "title": "ריינאייר חוסכת כסף: וזה עולה לכם בבריאות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788771600000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-5eb8476ebc670a1027.htm"
   },
   "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-a41c914fefa80a1027.htm": {
@@ -6379,38 +6392,41 @@
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-5aaf929b4cb70a1026.htm": {
    "author": "מסודרים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מסודרים פרק 31: באירוע ההתרמה בווילה תומר נתקל שוב במר קפלינסקי, וממהר לקחת קרדיט על הבית ועל האירוע - ואפילו מציג את גיא כעובד שלו כדי לעשות רושם. בינתיים שלמה פוגש שוב את ברלד, משוכנע שהוא ממשיך לסחוט אותו ומציע סכומים הולכים וגדלים רק כדי שיעזוב אותו בשקט. כששלמה כבר שולף 250 אלף שקל, ברלד מחליט שלפחות ייצא מכל הסיפור משהו טוב ומבקש לרשום את הצ'ק לתרומה - ל-\"עלה ירוק\".",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/LOADED_EP31_1400_1788783442803_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788944400000,
    "title": "מסודרים פרק 31: שתיקה שווה רבע מיליון",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1788944400000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-5aaf929b4cb70a1026.htm"
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-6096882b24b70a1027.htm": {
    "author": "מסודרים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מסודרים פרק 29: ברלד מגלה שהסחיטה שהמציא על המקום פגעה במקרה בסוד אמיתי, כששלמה נשבר ומתוודה שבאמת היה לו רומן עם השיפוצניק. במקביל, תומר סוף־סוף משחק עם מר קפלינסקי ומנסה להרשים אותו עם ה\"בקרטיב\" - רעיון הקרטיב האלכוהולי שברלד כבר ניסה למכור לו בעבר. אלא שדווקא כשהכול נראה מבטיח, מר קפלינסקי שולף מאחד החורים עטיפת במבה אדומה ותומר מבין שהפדיחה של ברלד כנראה עוד לא נגמרה.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/LOADED_EP29_1400_1788775218850_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788771600000,
    "title": "מסודרים פרק 29: שקית קטנה, פדיחה ענקית",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1788771600000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-6096882b24b70a1027.htm"
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-8022f11a37b70a1027.htm": {
    "author": "מסודרים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מסודרים פרק 30: אחרי כל האנשים שפנו אליהם לעזרה, גיא וארז מביאים הביתה רשימה של עמותות, והחבורה מנסה להחליט למי לתרום - משימה שהופכת מהר לוויכוח בלתי אפשרי על מי זקוק לעזרה יותר. ברלד, כהרגלו, תורם כמה רעיונות מפוקפקים במיוחד, עד שהחברים מחליטים לוותר על ההכרעה ופשוט להכניס את שמות העמותות לכובע. עכשיו נשאר רק לשלוף פתק ולגלות מי יקבל את הכסף.\nPowered by Spikes",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/LOADED_EP30_1400_1788777917308_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788858000000,
    "title": "מסודרים פרק 30: הגרלת התרומה הגדולה",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1788858000000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-8022f11a37b70a1027.htm"
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-93f8265b48b80a1026.htm": {
@@ -6427,14 +6443,15 @@
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-a8948c1f0f570a1027.htm": {
    "author": "מסודרים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מסודרים פרק 28: ברלד אורב לשלמה בחניון ומנסה לגרום לו לוותר על משחק הגולף, עד שהוא שולף את הנשק המנצח: תמונות ששלמה ממש לא רוצה שייחשפו. התוכנית עובדת, וכשהשחקן החסר לא מגיע, תומר מקבל בדיוק את ההזמנה שחיכה לה ומצטרף למשחק עם האנשים הנכונים. במקביל, גיא וארז ממשיכים לשמוע בקשות לעזרה - והסכומים רק הולכים וגדלים.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/LOADED_EP28_1400_1788685753271_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788685200000,
    "title": "מסודרים פרק 28: סחיטה בשיטת הבלוף",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1788685200000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-a8948c1f0f570a1027.htm"
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-bc07a9343dc70a1026.htm": {
@@ -6451,14 +6468,15 @@
   },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-edc79811c2c70a1026.htm": {
    "author": "מסודרים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מסודרים פרק 32: באירוע ההתרמה בווילה נאספים 1.7 מיליון שקל, אבל לתומר זה עדיין לא מספיק: הוא עולה למיקרופון ומפתיע את כולם כשהוא מכפיל את התרומה של ג'ימלאיה ממיליון לשני מיליון. המהלך עושה רושם על מר קפלינסקי, שמציע לתומר להיפגש איתו לארוחת בוקר בגולף - בדיוק ההזדמנות שתומר חיפש.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/LOADED_EP32_1400_1788790694446_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789029360000,
    "title": "מסודרים פרק 32: ההזמנה המיוחלת",
    "type": "series",
-   "updated_ms": null,
+   "updated_ms": 1789029360000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-edc79811c2c70a1026.htm"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-bff22dbfeb2cf91027.htm": {
@@ -7952,14 +7970,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-145bc35123770a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "זכתה בסך 10 מיליון שקלים, אחרי שהזכייה כמעט חמקה ממנה. אישה בגילאי ה-40 הגיעה לרכוש טופס וגילתה שהדוכן כבר נסגר, אך תחושת בטן גרמה לה לחזור למחרת ולשלוח טופס בכל זאת. בבוקר שאחרי ההגרלה בדקה את המספרים וגילתה שזכתה בפרס הגדול. \n\"מתוך חדשות 12",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/inballoto060926m_1400_1788706397461_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788709500000,
    "title": "כמעט ויתרה על טופס הלוטו - וזכתה ב-10 מיליון שקל",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788709500000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-145bc35123770a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-32c27e17e7590a1026.htm": {
@@ -8001,14 +8020,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-3c87832356a70a1027.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "עשרות אלפי מהגרים ניסו להגיע לסאוטה, המובלעת הספרדית שבצפון אפריקה, דרך הים והגבול עם מרוקו. רובם כבר חזרו, אך אלפים עדיין נותרו במקום, כשהרשויות מתמודדות עם השלכות המשבר והתושבים המקומיים מביעים חשש וכעס.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIR_BEACH_070926_1400_1788760855646_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788760860000,
    "title": "הפלישה לספרד: 60 אלף מהגרים ניסו לחצות את הגבול",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788760860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-3c87832356a70a1027.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-476d26eddd190a1027.htm": {
@@ -8026,14 +8046,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-49839811c2c70a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "ציוץ חדש שפרסם הנשיא טראמפ, מראה גרסה של מפת איראן בדמותו, אך המפה למעשה הפוכה ויש בה הרבה טעויות: ישראל נמצאת במזרח ולא במערב, הים האדום נראה מצפון לים התיכון, ואילו איראן נמצאת מדרום לסעודיה ולאיחוד האמירות. הציוץ פורסם לאחר סוף שבוע של חילופי אש והוא חלק מסדרת ציוצים שכוללים תמונות AI בנוגע למלחמה עם איראן",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIRA_TRUPTWITS_070926_M_1400_1788790434453_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788791880000,
    "title": "מול כל העולם: הטעות המביכה של טראמפ",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788791880000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-49839811c2c70a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-55e1f83433b80a1026.htm": {
@@ -8154,14 +8175,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-8b51bcbb57870a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "סקר חדש חושף מה יהיו סכומי המתנות לראש השנה בחברות מובילות במשק. מרשות שדות התעופה עם 1,400 שקלים ועד סלקום עם 300 בלבד - אלו הן המתנות השוות יותר ושוות פחות שקיבלו בחברות הגדולות.",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/MAYA_GIFT_060926_1400_1788727879665_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788770280000,
    "title": "אלו המתנות שחילקו החברות הגדולות לחג",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788770280000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-8b51bcbb57870a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-8d525fb957480a1027.htm": {
@@ -8192,14 +8214,15 @@
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-96f4b49ede670a1026.htm": {
    "author": "חדשות",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/06/inbalairrr0609mdifc_1400_1788703783275_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788702475000,
    "title": "המהלך הדרמטי של חברת התעופה - נגד ישראל",
    "type": "news",
-   "updated_ms": null,
+   "updated_ms": 1788702475000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-96f4b49ede670a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-a253e6bd2b490a1026.htm": {
@@ -8945,14 +8968,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-2ab2483b18b70a1026.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "השחקן אילן דר, שמוכר מתפקידו בסדרה המיתולוגית \"קרובים קרובים\", הלך לעולמו בגיל 89",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/FIX_ILAN_1400_1788780790884_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788779239000,
    "title": "השחקן אילן דר, שמוכר מתפקידו בסדרה המיתולוגית \"קרובים קרובים\", הלך לעולמו בגיל 89",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788779239000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-2ab2483b18b70a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-2ef9528d9f690a1027.htm": {
@@ -9930,14 +9954,15 @@
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ea2a4bd597a70a1026.htm": {
    "author": "מבזקים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "אל תגידו שלא הזהרנו: חמאס חוזר להיות \"חמאס על מלא\", אלמוג בוקר מסביר",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/V1_ALMOG_5833_07092026060444_1400_1788761211900_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788761221000,
    "title": "אל תגידו שלא הזהרנו: חמאס חוזר להיות \"חמאס על מלא\", אלמוג בוקר מסביר",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788761221000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ea2a4bd597a70a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-eaf8670895080a1026.htm": {
@@ -16676,14 +16701,15 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9984b9170ec70a1026.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "מדברים על הגלים - והפעם האם גל או גל בזוגיות? התשובה לשאלה המתבקשת בסרטון",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/GALGALZOGIOT_TAMAR_0709_M_1400_1788802441283_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788802448000,
    "title": "האם גל או גל בזוגיות? התשובה לשאלה המתבקשת בסרטון",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788802448000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9984b9170ec70a1026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9c527ae734b80a1027.htm": {
@@ -18062,14 +18088,15 @@
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-35189aa7c3c70a1027.htm": {
    "author": "טכנולוגיה",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/yoav_whatsapp_070926_1400_1788790727168_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788809400000,
    "title": "וואטסאפ נפתחת גם למי שאין לו חשבון",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788809400000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-35189aa7c3c70a1027.htm"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-41fd292195580a1027.htm": {
@@ -18273,26 +18300,28 @@
   },
   "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-5badb77e39b70a1027.htm": {
    "author": "חופש וטיולים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIR_COUNTRY_070926_1400_1788780018146_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788780000000,
    "title": "הקאמבק המפתיע: המדינה שחוזרת למפת התיירות",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788780000000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-5badb77e39b70a1027.htm"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-a2f9418f95b70a1026.htm": {
    "author": "חופש וטיולים",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/SHIR_BUSINESS_070927_1400_1788775984944_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788776040000,
    "title": "ישראלים שילמו על ביזנס- וקיבלו מושב של תיירים",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788776040000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-a2f9418f95b70a1026.htm"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-460e3f1d1d07291027.htm": {
@@ -19990,14 +20019,15 @@
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-62ddd63957b70a1026.htm": {
    "author": "מבזקים מהעולם",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "הנץ היקר בהיסטוריה: אב מאיחוד האמירויות שבר שיא כשקנה לבתו נץ לבן נדיר ב-408 אלף דולר",
+   "enrich_attempts": 1,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/09/07/V1_Netz_5840_07092026104518_1400_1788777994237_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1788842220000,
    "title": "הנץ היקר בהיסטוריה: אב מאיחוד האמירויות שבר שיא כשקנה לבתו נץ לבן נדיר ב-408 אלף דולר",
    "type": "mivzakim",
-   "updated_ms": null,
+   "updated_ms": 1788842220000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-62ddd63957b70a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-6d483eee56280a1027.htm": {
