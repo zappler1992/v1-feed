@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8827b60d15a90a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-13T11:10:08+00:00</news:publication_date>
+<news:title>שמורת הטבע תל דן נסגרה עקב שריפה. המבקרים פונו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/13/M_NEWS_15499_13092026110831_1400_1789297800871_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-1b6e1cfe32690a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -890,14 +899,5 @@
 <news:title>הרמטכ&quot;ל אחרי הפעולה בעלי טאהר: &quot;כל פגיעה בצפון או בכוחות צה&quot;ל תיענה באופן מיידי ועוצמתי&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/11/M_NEWS_15415_11092026111645_1400_1789125816359_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-ad4b68b612090a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-11T11:07:40+00:00</news:publication_date>
-<news:title>שני צבאים ושתי גיריות שהוחזקו בניגוד לחוק - אותרו על ידי כוחות המשטרה. חשוד נעצר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/11/V1_karind_police_5981_11092026110605_1400_1789124854034_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
