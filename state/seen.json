@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789311455874,
+ "last_new_urls": [
+  "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w02/shorts-e033ce74bbf70a1026.htm"
+ ],
+ "last_run_ms": 1789311749126,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -4683,6 +4685,18 @@
    "type": "series",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w01/shorts-909ebdfe3c660a1026.htm"
+  },
+  "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w02/shorts-e033ce74bbf70a1026.htm": {
+   "author": "כשהגלים מתחזקים 2",
+   "date_source": "json-publishDate",
+   "description": "כשהגלים מתחזקים 2 - פרק 34: רותי מרוסקת על הספה אחרי שאלמוג קם והלך באמצע הלילה, והחברים מחליטים שהגיע הזמן להפעיל את \"מבצע שברון לב\" – עם גלידה, אלכוהול, מוזיקה וקומדיות רומנטיות. בזמן שהם מנסים להרים לה את מצב הרוח, אלמוג יושב לבדו מול הים ומתלבט. אחרי שתיקה ארוכה הוא סוף־סוף שולח הודעה – אבל לא לרותי, אלא למעיין, בחורה מסתורית מעברו, ומציע לה לקפוץ אליו.",
+   "first_seen_ms": 1789311749126,
+   "image": "https://img.mako.co.il/2026/09/08/GROWING_WAVES_2_EP34_1400_1788849733945_FirstFrame.jpg",
+   "published_ms": 1789311600000,
+   "title": "כשהגלים מתחזקים 2 פרק 34: מבצע שברון לב",
+   "type": "series",
+   "updated_ms": 1789311600000,
+   "url": "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w02/shorts-e033ce74bbf70a1026.htm"
   },
   "https://www.v-1.co.il/hot_takes-magazine/2026-m06_w05/shorts-32fe826062e0f91027.htm": {
    "author": "חדשות לוהטות",
