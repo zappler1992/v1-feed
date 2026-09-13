@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789305449982,
+ "last_new_urls": [
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-6b9ac1374ea90a1026.htm"
+ ],
+ "last_run_ms": 1789305747627,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -20324,6 +20326,18 @@
    "type": "mivzakim",
    "updated_ms": 1789273016000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-56a6e7375c890a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-6b9ac1374ea90a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "טיפס על הבניין הגבוה ביותר באירופה, בגובה 310 מטרים - ללא ציוד בטיחות: התיעוד המדהים מפולין",
+   "first_seen_ms": 1789305747627,
+   "image": "https://img.mako.co.il/2026/09/13/V1_BUILDING_6030_13092026011843_1400_1789305616273_FirstFrame.jpg",
+   "published_ms": 1789305622000,
+   "title": "טיפס על הבניין הגבוה ביותר באירופה, בגובה 310 מטרים - ללא ציוד בטיחות: התיעוד המדהים מפולין",
+   "type": "mivzakim",
+   "updated_ms": 1789305622000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-6b9ac1374ea90a1026.htm"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
