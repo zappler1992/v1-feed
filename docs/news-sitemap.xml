@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-13T15:27:16+00:00</news:publication_date>
+<news:title>התיעוד שמסעיר את כל לבנון: עבריינים החלו לירות באמצע הרחוב - ורצחו אזרח חף מפשע</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_BEIRUT_6036_13092026032539_1400_1789313229104_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a7f5448143b90a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -917,23 +926,5 @@
 <news:title>מה קורה לפתק שלכם אחרי שמשאירים אותו בכותל?</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/11/yoav_KOTEL_110926_1400_1789120517890_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-412e0b8a80190a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-11T15:30:37+00:00</news:publication_date>
-<news:title>״השנתיים של השבי הן האחרונות שהייתי מוותר עליהן בחיי״: הדברים המרגשים של שורד השבי יוסף חיים אוחנה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/11/M_NEWS_15431_11092026032812_1400_1789140627645_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-b2ed0b8a80190a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-11T15:29:35+00:00</news:publication_date>
-<news:title>אלפי מתפללים מקבלים את השנה החדשה בקברו של רבי נחמן באומן</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/11/M_NEWS_15430_11092026032752_1400_1789140568665_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

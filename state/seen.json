@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789313248224,
+ "last_new_urls": [
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm"
+ ],
+ "last_run_ms": 1789313549880,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -20432,6 +20434,18 @@
    "type": "mivzakim",
    "updated_ms": 1789310256000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-8d6792d951b90a1026.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "התיעוד שמסעיר את כל לבנון: עבריינים החלו לירות באמצע הרחוב - ורצחו אזרח חף מפשע",
+   "first_seen_ms": 1789313549880,
+   "image": "https://img.mako.co.il/2026/09/13/V1_BEIRUT_6036_13092026032539_1400_1789313229104_FirstFrame.jpg",
+   "published_ms": 1789313236000,
+   "title": "התיעוד שמסעיר את כל לבנון: עבריינים החלו לירות באמצע הרחוב - ורצחו אזרח חף מפשע",
+   "type": "mivzakim",
+   "updated_ms": 1789313236000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-d2ff768c45b90a1026.htm"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
