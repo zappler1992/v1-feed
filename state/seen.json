@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789312347998,
+ "last_new_urls": [
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a7f5448143b90a1026.htm"
+ ],
+ "last_run_ms": 1789312648267,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -1578,6 +1580,18 @@
    "type": "mivzakim",
    "updated_ms": 1789278742000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a57ba232d4990a1027.htm"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a7f5448143b90a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "כוכבי \"כשהגלים מתחזקים 2\" תומר הכהן ומיה מינץ מאשרים את הזוגיות בפוסט רשמי באינסטגרם",
+   "first_seen_ms": 1789312648267,
+   "image": "https://img.mako.co.il/2026/09/13/V1_noay_tomer_130926_6034_13092026030740_1400_1789312126893_FirstFrame.jpg",
+   "published_ms": 1789312133000,
+   "title": "כוכבי \"כשהגלים מתחזקים 2\" תומר הכהן ומיה מינץ מאשרים את הזוגיות בפוסט רשמי באינסטגרם",
+   "type": "mivzakim",
+   "updated_ms": 1789312133000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a7f5448143b90a1026.htm"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
