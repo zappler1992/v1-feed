@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789318050673,
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-958f836da9b90a1026.htm"
+ ],
+ "last_run_ms": 1789318346888,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -10288,6 +10290,18 @@
    "type": "mivzakim",
    "updated_ms": 1789273135000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-89b7e7375c890a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-958f836da9b90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גאווה ישראלית: רז הרשקו זכתה במדליית זהב בגראנד סלאם בודפשט",
+   "first_seen_ms": 1789318346888,
+   "image": "https://img.mako.co.il/2026/09/13/V1_NOAY_RAZ_130926_6038_13092026044825_1400_1789318189280_FirstFrame.jpg",
+   "published_ms": 1789318195000,
+   "title": "גאווה ישראלית: רז הרשקו זכתה במדליית זהב בגראנד סלאם בודפשט",
+   "type": "mivzakim",
+   "updated_ms": 1789318195000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-958f836da9b90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm": {
    "author": "מבזקים",
