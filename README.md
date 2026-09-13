@@ -25,7 +25,7 @@
 ## איך זה רץ בפועל
 
 הריצה כל 5 דקות מתבצעת **מהמחשב המקומי** דרך Windows Task Scheduler (משימה בשם `v1-feed poll`):
-`run_hidden.vbs` → `run_local.cmd` (בלי חלון) → `build` → commit+push → `ping`. הלוג ב‑`logs/run.log`.
+`pythonw.exe run_local.py` (בלי חלון) → `build` → commit+push → `ping`. הלוג ב‑`logs/run.log`.
 ה‑workflow בגיטהאב נשאר להרצה ידנית בלבד (Actions → poll-v1 → Run workflow); ה‑cron שלו בוטל.
 
 ניהול המשימה: `schtasks /Query /TN "v1-feed poll" /V /FO LIST`, השבתה: `schtasks /Change /TN "v1-feed poll" /DISABLE`.
