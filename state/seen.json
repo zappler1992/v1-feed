@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
- "last_run_ms": 1789306049010,
+ "last_new_urls": [
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-d19ab7c03ba90a1026.htm",
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w03/shorts-5fc7c1845ba90a1027.htm",
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-ed1fc1845ba90a1027.htm"
+ ],
+ "last_run_ms": 1789306381834,
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -1060,8 +1064,20 @@
    "published_ms": 1789299060000,
    "title": "\"יריקה בפרצוף לספורטאיות\": כולם כועסים על הפרסומת החדשה של סידני סוויני",
    "type": "general",
-   "updated_ms": 1789299060000,
+   "updated_ms": 1789306080000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-d19ab7c03ba90a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "ישראל קטורזה מספר על הקשר המיוחד להוריו, וגם מודה באמירה שנויה במחלוקת \"אבא זה לא חשוב לילדים\"\nהערב ״ריאיון מיוחד״, פרק חדש אחרי החדשות, קשת 12",
+   "first_seen_ms": 1789306381834,
+   "image": "https://img.mako.co.il/2026/09/13/LIRON_IK_M_1400_1789302100926_FirstFrame.jpg",
+   "published_ms": 1789302240000,
+   "title": "\"אבא זה לא חשוב לילדים\": ישראל קטורזה בהצהרה שנויה במחלוקת",
+   "type": "general",
+   "updated_ms": 1789302240000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-d19ab7c03ba90a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-e8689f0ac2a90a1027.htm": {
    "author": "סלבס",
@@ -5645,6 +5661,18 @@
    "type": "general",
    "updated_ms": 1789038664000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w02/shorts-a41c914fefa80a1027.htm"
+  },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w03/shorts-5fc7c1845ba90a1027.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "אוכלים את הארוחות במטוס על המגש שלפניכם? הדיילת הזו מסבירה למה כדאי לחשוב על זה שוב (ספויילר, זו סיבה די מסריחה)",
+   "first_seen_ms": 1789306381834,
+   "image": "https://img.mako.co.il/2026/09/13/biata_trays_130926_1400_1789303823579_FirstFrame.jpg",
+   "published_ms": 1789303830000,
+   "title": "אוכלים על המגשים במטוס? מהיום זה ישתנה",
+   "type": "general",
+   "updated_ms": 1789303830000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w03/shorts-5fc7c1845ba90a1027.htm"
   },
   "https://www.v-1.co.il/living_healthy-magazine/2025-m07_w03/shorts-5251f6336830891026.htm": {
    "author": "חיים בריא",
@@ -18439,6 +18467,18 @@
    "type": "general",
    "updated_ms": 1788776040000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-a2f9418f95b70a1026.htm"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-ed1fc1845ba90a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789306381834,
+   "image": "https://img.mako.co.il/2026/09/13/Liron_NY_13092026_M_1400_1789302881782_FirstFrame.jpg",
+   "published_ms": 1789302960000,
+   "title": "חולמים על ניו יורק? זו התקופה שבה מחירי הטיסות צונחים",
+   "type": "general",
+   "updated_ms": 1789302960000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-ed1fc1845ba90a1027.htm"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-460e3f1d1d07291027.htm": {
    "author": "TV1",
