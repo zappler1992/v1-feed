@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -6670,13 +6672,25 @@
    "updated_ms": 1789029360000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-edc79811c2c70a1026.htm"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 35: בזמן שהחברים מנסים לתאם פגישה עם עורך הדין, תומר מתקשר לגיא ומנצל את ההזדמנות להציק לו מול אמא שלו על המכונית הישנה שהוא מסרב להחליף. גיא מנסה לשמוע מאמא איך היה הטיול, אבל היא עסוקה באבא שנשאר מאחור ומשוכנעת שתוך יומיים יימאס לו מהחופש והוא יחזור עם הזנב בין הרגליים. ובאמת לא הרבה אחרי - אבא כבר נוחת בארץ ומקבל את פניו של גיא בשדה התעופה.\nPowered by Spikes",
+   "first_seen_ms": 1789376546862,
+   "image": "https://img.mako.co.il/2026/09/14/LOADED_EP35_1400_1789370536164_FirstFrame.jpg",
+   "published_ms": 1789376100000,
+   "title": "מסודרים פרק 35: נשבר מהלבד מהר מהצפוי",
+   "type": "series",
+   "updated_ms": 1789376100000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-695e8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
-   "date_source": null,
+   "date_source": "json-publishDate",
    "description": "אהבה מעבר לפינה פרק 3: עדן מתקשה להשתחרר מהתגובה של ליאור להצעת הנישואים שלה, ומסרבת להאמין שאולי דווקא היא זו שפעלה בפזיזות. במקביל, המפגש המקרי בין ליאור לאלונה ממשיך להתפתח, וכשהוא מציע להסיע אותה לאוניברסיטה היא מסכימה",
    "first_seen_ms": 1789375946767,
    "image": "https://img.mako.co.il/2026/08/12/LOVE_CORNER_EP03_FIX_M_1400_1786517429080_FirstFrame.jpg",
-   "published_ms": null,
+   "published_ms": 1789376040000,
    "title": "אהבה מעבר לפינה פרק 3: מפגש מקרי ברחוב",
    "type": "series",
    "updated_ms": null,

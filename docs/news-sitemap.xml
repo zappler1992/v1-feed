@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T08:55:00+00:00</news:publication_date>
+<news:title>מסודרים פרק 35: נשבר מהלבד מהר מהצפוי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/14/LOADED_EP35_1400_1789370536164_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-695e8d839c2cf91026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T08:54:00+00:00</news:publication_date>
+<news:title>אהבה מעבר לפינה פרק 3: מפגש מקרי ברחוב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/08/12/LOVE_CORNER_EP03_FIX_M_1400_1786517429080_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-3d4a8c2611f90a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1151,23 +1169,5 @@
 <news:title>דיווח: חילופי אש בין מפגינים חמושים לכוחות המשטר האיראני בעיר סרוואן בדרום איראן</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/12/M_NEWS_15456_12092026094254_1400_1789206264318_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-bc07a9343dc70a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T09:00:00+00:00</news:publication_date>
-<news:title>מסודרים פרק 33: תרם יותר, הסתבך יותר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/07/LOADED_EP33_1400_1788801351837_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-a253e6bd2b490a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T08:59:00+00:00</news:publication_date>
-<news:title>אחרי שחשפה את הגידול במוח, עינת ארליך בסרטון מרגש: &quot;הכל יהיה בסדר&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/Liron_einaterlich_12092026_M_1400_1789203170302_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
