@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-734f666c8e0a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f9f5666c8e0a0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-52e103ce290a0a1026.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-d3097021da0a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2217,6 +2219,18 @@
    "type": "general",
    "updated_ms": 1789302180000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-b3bf2b1577a90a1026.htm"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-d3097021da0a0a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "3 דברים שאתם חייבים לדעת על טקס פרסי האמי - רגע לפני שהוא קורה.",
+   "first_seen_ms": 1789407147215,
+   "image": "https://img.mako.co.il/2026/09/14/inbie_EMMY_140926_1400_1789402121928_FirstFrame.jpg",
+   "published_ms": 1789402128000,
+   "title": "כל מה שצריך לדעת על טקס פרסי האמי",
+   "type": "general",
+   "updated_ms": 1789402128000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-d3097021da0a0a1026.htm"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -8714,6 +8728,18 @@
    "updated_ms": 1789285620000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-46755c68b9990a1027.htm"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-52e103ce290a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789407147215,
+   "image": "https://img.mako.co.il/2026/09/14/FIX_yoav_Fishing_140926_1400_1789402076194_FirstFrame.jpg",
+   "published_ms": 1789402080000,
+   "title": "קיבלתם SMS מחברת החשמל? תיזהרו",
+   "type": "news",
+   "updated_ms": 1789402080000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-52e103ce290a0a1026.htm"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-67dd155006e90a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -10755,7 +10781,7 @@
    "published_ms": 1789403877000,
    "title": "הפרשנות של עמית סגל על סערת הסרט נז\"א",
    "type": "mivzakim",
-   "updated_ms": 1789403877000,
+   "updated_ms": 1789405800000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-459b29441c0a0a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-45a27389afd90a1027.htm": {
@@ -10851,7 +10877,7 @@
    "published_ms": 1789404292000,
    "title": "העולם מודאג: בגלל החות'ים בקרוב כולנו נצטרך לשלם על הכל הרבה יותר",
    "type": "mivzakim",
-   "updated_ms": 1789406040000,
+   "updated_ms": 1789406700000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5f3029441c0a0a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-608adb747d0a0a1026.htm": {
@@ -11322,6 +11348,18 @@
    "type": "mivzakim",
    "updated_ms": 1789309182000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f73a77b6f1b90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f9f5666c8e0a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הערב הגדול של אפל נהרס: המוני משתמשים חווים באג בניסיון לעדכן את האייפון ל-iOS 27",
+   "first_seen_ms": 1789407147215,
+   "image": "https://img.mako.co.il/2026/09/14/V1_APPLE_6086_14092026052834_1400_1789406979750_FirstFrame.jpg",
+   "published_ms": 1789406986000,
+   "title": "הערב הגדול של אפל נהרס: המוני משתמשים חווים באג בניסיון לעדכן את האייפון ל-iOS 27",
+   "type": "mivzakim",
+   "updated_ms": 1789406986000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f9f5666c8e0a0a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fad09a2ad5b90a1027.htm": {
    "author": "מבזקים",
