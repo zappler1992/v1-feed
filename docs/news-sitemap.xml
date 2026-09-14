@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-19789125100a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T13:00:41+00:00</news:publication_date>
+<news:title>ממחר ועד 30.9: איסור על הדלקת אש ברחבי הארץ</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/14/M_NEWS_15548_14092026125908_1400_1789390834995_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b627790eef90a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1286,23 +1295,5 @@
 <news:title>הישג היסטורי בגלישת רוח: תמר שטיינברג זכתה בזהב באליפות העולם, שרון קנטור קטפה את מדליית הכסף</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/12/SHIR_MEDAL_120926_FIX_1400_1789219118044_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-33f537286a590a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T13:06:00+00:00</news:publication_date>
-<news:title>הקצין בגולני שהפך לאחד העבריינים המסוכנים בישראל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/Liron_GOLANI_10072026_M_1400_1789218330264_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/culture-magazine/2026-m09_w02/shorts-c7be48e3e3590a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T13:05:00+00:00</news:publication_date>
-<news:title>הישראלים התבקשו להוכיח בבידוק שמדובר בסקסופון - אז הם פצחו בנגינת &quot;עם ישראל חי&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/Liron_AMISRAEL_10072026_M_1400_1789211344291_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
