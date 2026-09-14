@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-134b3a67101a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T17:43:08+00:00</news:publication_date>
+<news:title>צה&quot;ל מזהיר: לא נוכל לרכוש את טייסת האפאצ&#x27;י - בניין הכוח נפגע | ניר דבורי עם כל הפרטים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/14/V1_DVORI_6087_14092026054047_1400_1789407782201_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d1cfc438f0a0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1349,14 +1358,5 @@
 <news:title>פיצוצים נשמעו באי קשם שבאיראן - במקביל התראות מקדימות לירי טילים נשמעו בסעודיה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/12/V1_SHIR_IRAN_6015_12092026061346_1400_1789236909166_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-053fbd8969690a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T17:46:00+00:00</news:publication_date>
-<news:title>כדורי אש ענקיים בשמיים: תיעוד חדש מהמתקפה האיראנית על בסיס צבאי בירדן השבוע</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/V1_iranjordan_6012_12092026052649_1400_1789234109438_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
