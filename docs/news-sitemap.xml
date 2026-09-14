@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-d0d45d07640a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T14:26:00+00:00</news:publication_date>
+<news:title>סירי AI סוף סוף כאן: זה מה שמחכה לכם ב-iOS 27</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/14/yoav_IOS_140926_1400_1789395806943_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-860c9063a30a0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1268,14 +1277,5 @@
 <news:title>נמשכות תקיפות צה״ל באזור אל-מנסורי שבדרום לבנון</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/12/M_NEWS_15464_12092026023701_1400_1789223899781_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/sport-magazine/2026-m09_w02/shorts-2c57dfcfde590a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T14:36:00+00:00</news:publication_date>
-<news:title>זהב וכסף: אלה הישראליות שכבשו את העולם</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/SHIR_CHAMP_120926_1400_1789223551993_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
