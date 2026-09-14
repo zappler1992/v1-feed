@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-bf5b5e7857e90a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-14T05:54:20+00:00</news:publication_date>
+<news:title>תמונת לוויין חושפת: הפגיעה בצינור הנפט הסעודי ששיבשה 7 מיליון חביות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/14/V1_Karind_neft_6058_14092026055259_1400_1789365254017_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-0fa95e7857e90a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1052,14 +1061,5 @@
 <news:title>בארצות הברית נדהמו: אלפי קילוגרמים של סמים קשים ומסוכנים - בתוך כרובים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/12/Liron_cabbage_10072026_M_1400_1789194160930_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/special-magazine/2025-m04_w02/shorts-53302889e832691027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-12T05:55:00+00:00</news:publication_date>
-<news:title>טיול קליל בנוף מדברי עוצר נשימה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2025/04/11/keren_deadsea2_110425_1400_1744354369401_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
