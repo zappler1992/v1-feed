@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b81461f1aee90a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-3bb01680eee90a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1051,6 +1052,18 @@
    "type": "general",
    "updated_ms": 1789049937000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w02/shorts-f92b3916aab80a1026.htm"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789374146833,
+   "image": "https://img.mako.co.il/2026/09/14/biata_tirtza_140926_1400_1789373566757_FirstFrame.jpg",
+   "published_ms": 1789373573000,
+   "title": "",
+   "type": "general",
+   "updated_ms": 1789373573000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-8c8eb9aab7a90a1027.htm": {
    "author": "סלבס",
@@ -8533,6 +8546,18 @@
    "type": "news",
    "updated_ms": 1789367815000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-2c67547b29e90a1027.htm"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-3bb01680eee90a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "דובר צה\"ל באנגלית פרסם תגובה רשמית לטענות הקשות המועלות בסרטם של יובל אברהם ורחל שור, \"נזק אגבי\", שזכה בפרס חבר השופטים בפסטיבל ונציה, ובה גם הטיל ספק באמינות חלק מהעדויות: \"הסרט מתבסס על עדויות אנונימיות של אנשים שזהותם אינה ניתנת לאימות - הקטעים המצוטטים כוללים טענות הנוגעות לאסטרטגיה לאומית וצבאית, החורגות מתחום הידע של חיילים בדרגים זוטרים\". אלמוג בוקר, כתב חדשות 12, תקף את יוצרי הסרט: \"הכל אפשר לבדוק, השאלה אם רוצים. יכלו להעביר את העניין לבדיקה מול צה\"ל או מול גורמים ברצועה\"",
+   "first_seen_ms": 1789374146833,
+   "image": "https://img.mako.co.il/2026/09/14/alice_140926_almog_1400_1789373060046_FirstFrame.jpg",
+   "published_ms": 1789373066000,
+   "title": "הסרט נז\"א: השקרים על צה\"ל - והאמת",
+   "type": "news",
+   "updated_ms": 1789373066000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-3bb01680eee90a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-46755c68b9990a1027.htm": {
    "author": "חדשות",
