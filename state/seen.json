@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-3bb01680eee90a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1f3655b0efe90a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1056,11 +1055,11 @@
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "הכוכבת הגיעה מלווה בבן זוגה לתפילות בכותל לפני ראש השנה, אבל פרט אחד משך את תשומת לב הגולשים במיוחד - החולצה שהיא לובשת, שחושפת מעט מהבטן התחתונה. בין התגובות ניתן לראות \"לא מכבד\", \"לא צנוע\", \"לכותל לא הולכים עם חולצת בטן\".",
    "first_seen_ms": 1789374146833,
    "image": "https://img.mako.co.il/2026/09/14/biata_tirtza_140926_1400_1789373566757_FirstFrame.jpg",
    "published_ms": 1789373573000,
-   "title": "",
+   "title": "תרצה כהן הגיעה לכותל בחולצת בטן - וחטפה",
    "type": "general",
    "updated_ms": 1789373573000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-05a057606fe90a1026.htm"
@@ -10458,6 +10457,18 @@
    "type": "mivzakim",
    "updated_ms": 1789328079000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1ea607a8b2c90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1f3655b0efe90a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נוסעים מתלוננים: טיסת אייר חיפה ללרנקה תקועה בשדה ללא מזגן וללא צפי המראה בגלל תקלה טכנית במטוס",
+   "first_seen_ms": 1789374746774,
+   "image": "https://img.mako.co.il/2026/09/14/M_NEWS_15538_14092026082602_1400_1789374443024_FirstFrame.jpg",
+   "published_ms": 1789374450000,
+   "title": "נוסעים מתלוננים: טיסת אייר חיפה ללרנקה תקועה בשדה ללא מזגן וללא צפי המראה בגלל תקלה טכנית במטוס",
+   "type": "mivzakim",
+   "updated_ms": 1789374450000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1f3655b0efe90a1026.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-25973d528cb90a1027.htm": {
    "author": "מבזקים",
