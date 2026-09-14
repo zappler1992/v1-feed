@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7f69c02dbdd90a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-02f5c02dbdd90a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4e25c02dbdd90a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10266,6 +10267,18 @@
    "updated_ms": 1789125826000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w02/shorts-f908a76553090a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-02f5c02dbdd90a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 23 נפצע קשה ו-6 נוספים באורח קל בתאונת דרכים בין אופנוע ושני כלי רכב בכביש 431",
+   "first_seen_ms": 1789356446767,
+   "image": "https://img.mako.co.il/2026/09/14/M_NEWS_15521_14092026032346_1400_1789356285630_FirstFrame.jpg",
+   "published_ms": 1789356292000,
+   "title": "בן 23 נפצע קשה ו-6 נוספים באורח קל בתאונת דרכים בין אופנוע ושני כלי רכב בכביש 431",
+   "type": "mivzakim",
+   "updated_ms": 1789356292000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-02f5c02dbdd90a1027.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-120da0ba3da90a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -10361,6 +10374,18 @@
    "type": "mivzakim",
    "updated_ms": 1789316090000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4768b92bc8b90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4e25c02dbdd90a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אישה כבת 40 אותרה ללא רוח חיים ברחוב עזר יולדות בירושלים",
+   "first_seen_ms": 1789356446767,
+   "image": "https://img.mako.co.il/2026/09/14/M_NEWS_15520_14092026032303_1400_1789356264449_FirstFrame.jpg",
+   "published_ms": 1789356271000,
+   "title": "אישה כבת 40 אותרה ללא רוח חיים ברחוב עזר יולדות בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1789356271000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4e25c02dbdd90a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-54a2482084c90a1027.htm": {
    "author": "מבזקים",
