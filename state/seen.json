@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3df6aa24a60a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-955c87bf280a0a1026.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6ae6fa7f670a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10890,6 +10891,18 @@
    "updated_ms": 1789363798000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-93fc155006e90a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-955c87bf280a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מחלף אדומים לכיוון ירושלים חסום: רכב עולה באש בצידי הדרך, כיבוי אש במקום",
+   "first_seen_ms": 1789399647049,
+   "image": "https://img.mako.co.il/2026/09/14/V1_CARFIRE_6082_14092026032418_1400_1789399535753_FirstFrame.jpg",
+   "published_ms": 1789399546000,
+   "title": "מחלף אדומים לכיוון ירושלים חסום: רכב עולה באש בצידי הדרך, כיבוי אש במקום",
+   "type": "mivzakim",
+   "updated_ms": 1789399546000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-955c87bf280a0a1026.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-958f836da9b90a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17779,6 +17792,18 @@
    "type": "general",
    "updated_ms": 1789017540000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e6883ee229580a1026.htm"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6ae6fa7f670a0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "האם תחליף את יאיר לפיד, השמועה הכי עקשנית עליה, ואת מי היא הייתה לוקחת לאי בודד - טלי גוטליב או דודי אמסלם? מירב בן ארי מגיעה לאמת או חובה",
+   "first_seen_ms": 1789399647049,
+   "image": "https://img.mako.co.il/2026/09/14/DANIEL_MEIRAV_140926_1400_1789399197357_FirstFrame.jpg",
+   "published_ms": 1789399380000,
+   "title": "אמת או חובה: מירב בן ארי",
+   "type": "general",
+   "updated_ms": 1789399380000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6ae6fa7f670a0a1026.htm"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
