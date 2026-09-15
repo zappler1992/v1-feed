@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3aec327f034a0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0f284a5c24a0a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-0e0984a5c24a0a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6841,6 +6842,18 @@
    "updated_ms": 1789029360000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w02/shorts-edc79811c2c70a1026.htm"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-0e0984a5c24a0a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 36: אבא של גיא חוזר מתאילנד עם סיפורים שהחבר'ה דווקא שמחים לשמוע, ואז מתחיל לבדוק מה קורה אצלם בחיי האהבה. כשעולים על תומר ומאיה, תומר מתעקש שהיא לגמרי בעניין שלו ומחליט להוכיח את זה לכולם. מאיה לא עונה לטלפון, אבל לתומר כבר יש טריק חדש בשרוול - והוא מגייס את גיא לעזור לו.",
+   "first_seen_ms": 1789462946409,
+   "image": "https://img.mako.co.il/2026/09/15/LOADED_EP36_1400_1789460793036_FirstFrame.jpg",
+   "published_ms": 1789462560000,
+   "title": "מסודרים פרק 36: למאסטרו יש תוכנית",
+   "type": "series",
+   "updated_ms": 1789462560000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-0e0984a5c24a0a1027.htm"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -6852,6 +6865,18 @@
    "type": "series",
    "updated_ms": 1789376100000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 4: נתן מכין את הקרקע לקראת העזיבה שלו, ומגיע למועדון כדי לבקש מגולן בקשה מפתיעה - לשמור על המשפחה אם הוא כבר לא יהיה שם. במקביל, ליאור לא מצליח להשתחרר מהמחשבות על הצעת הנישואים המפתיעה של עדן, אבל דווקא המפגש עם אלונה גורם לו להתחיל להסתכל על הדברים אחרת.",
+   "first_seen_ms": 1789462946409,
+   "image": "https://img.mako.co.il/2026/08/26/LOVE_CORNER_FIXMAIN_EP04_1400_1787739461206_FirstFrame.jpg",
+   "published_ms": 1789461780000,
+   "title": "אהבה מעבר לפינה פרק 4: עוזב הכל ובורח",
+   "type": "series",
+   "updated_ms": 1789461780000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-695e8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
@@ -18414,6 +18439,18 @@
    "type": "general",
    "updated_ms": 1789043291000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9c527ae734b80a1027.htm"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מה קרה שם?! צבע אחר - וחזי היה מובהל לבית החולים....",
+   "first_seen_ms": 1789462946409,
+   "image": "https://img.mako.co.il/2026/09/07/lior_majik_TOMAVIV_070926_1400_1788785176057_FirstFrame.jpg",
+   "published_ms": 1789552680000,
+   "title": "הבחירה של טום אביב - כמעט נגמרה באסון",
+   "type": "general",
+   "updated_ms": 1789552680000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0d1532ed4b80a1027.htm": {
    "author": "מיוחד",
