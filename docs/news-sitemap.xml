@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-2c7f84a5c24a0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T08:30:18+00:00</news:publication_date>
+<news:title>להבות ענק: פיצוץ עז במפעל מלח במקסיקו הוביל לפינוי תושבים, 3 נהרגו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_karind_mexico_6107_15092026082854_1400_1789461008346_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-aac1f1fa014a0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1529,14 +1538,5 @@
 <news:title>המהדורות בעולם מדווחות על הספינה שנעלמה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/biata_indonesia_130926_newfix_1400_1789291224901_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T08:30:54+00:00</news:publication_date>
-<news:title>לראות ולא להאמין: התייר ההמום תיעד את העיר האיטלקית נאפולי - שהפכה לערימה של זבל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_NAPLES_6025_13092026082916_1400_1789288246257_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
