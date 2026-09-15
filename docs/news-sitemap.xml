@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-885aade5843a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T04:21:36+00:00</news:publication_date>
+<news:title>כל אחד יכול לשחות: גשמים עזים הציפו את רחובות פטרסון שבניו ג&#x27;רזי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_KARIND_RAIN_6094_15092026041942_1400_1789446089899_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-c35fbe42b33a0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1403,23 +1412,5 @@
 <news:title>חיפושים ימיים נרחבים באינדונזיה, לאחר שאוניה עם 240 נוסעים איבדה קשר בלב ים ג&#x27;אווה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_indonesia_6023_13092026051630_1400_1789276674210_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T04:26:25+00:00</news:publication_date>
-<news:title>רכב עלה באש הלילה בדיר אל אסד. הנסיבות נבדקות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/M_NEWS_15484_13092026042517_1400_1789273578305_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b85736a82e890a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T04:24:01+00:00</news:publication_date>
-<news:title>הרכב השרוף בבאקה אל-גרבייה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/M_NEWS_15483_13092026042226_1400_1789273430790_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
