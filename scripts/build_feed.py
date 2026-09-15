@@ -58,6 +58,7 @@ ENRICH_FROM_PAGE = os.environ.get("ENRICH_FROM_PAGE", "1") == "1"  # read upload
 ENRICH_MAX_PER_RUN = int(os.environ.get("ENRICH_MAX_PER_RUN", "30"))
 ENRICH_MAX_AGE_DAYS = int(os.environ.get("ENRICH_MAX_AGE_DAYS", "7"))  # only fetch pages that look this recent
 ENRICH_MAX_ATTEMPTS = 3
+FUTURE_GRACE_MS = 10 * 60 * 1000   # a publish date further ahead than this is a source error
 PAGES_WAIT_SECONDS = int(os.environ.get("PAGES_WAIT_SECONDS", "240"))
 USER_AGENT = ("Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) "
               "Chrome/120.0 Mobile Safari/537.36 v1-feed-bot")
@@ -228,7 +229,9 @@ def write_if_changed(path, content):
 
 
 def dated(pages):
-    return [p for p in pages.values() if p.get("published_ms")]
+    """Pages with an explicit publish date that is not in the future (a future date is a source error)."""
+    limit = int(time.time() * 1000) + FUTURE_GRACE_MS
+    return [p for p in pages.values() if p.get("published_ms") and p["published_ms"] <= limit]
 
 
 def build_rss(pages, now_ms):
@@ -324,8 +327,19 @@ def cmd_build():
         log("WARNING: FEED_BASE_URL not set; set it to your GitHub Pages URL (rel=self will be wrong).")
     now_ms = int(time.time() * 1000)
     log(f"fetching {SOURCE_URL}")
-    _, body = http_get(SOURCE_URL)
-    found = extract_items(json.loads(body.decode("utf-8")))
+    data = None
+    for attempt in (1, 2, 3):
+        try:
+            _, body = http_get(SOURCE_URL)
+            data = json.loads(body.decode("utf-8"))
+            break
+        except (json.JSONDecodeError, UnicodeDecodeError, HTTPError, URLError, TimeoutError) as e:
+            log(f"source fetch/parse failed (attempt {attempt}/3): {type(e).__name__}: {str(e)[:120]}")
+            time.sleep(15)
+    if data is None:
+        log("source unavailable this run; nothing changed")
+        return 0
+    found = extract_items(data)
     log(f"source has {len(found)} unique pages on {SITE_HOST}, "
         f"{sum(1 for i in found.values() if i['publish_ms'])} with explicit publishDate")
 
@@ -351,9 +365,19 @@ def cmd_build():
             for k in ("title", "description", "image", "type", "author"):
                 if it[k] and it[k] != cur.get(k):
                     cur[k] = it[k]; changed = True
-            if it["publish_ms"] and cur.get("date_source") != "json-publishDate":
-                # the app JSON is the primary source; it wins over a page-derived date
-                cur["published_ms"] = it["publish_ms"]; cur["date_source"] = "json-publishDate"; changed = True
+            if it["publish_ms"]:
+                stored = cur.get("published_ms")
+                stored_is_future = stored and stored > now_ms + FUTURE_GRACE_MS
+                if not stored or it["publish_ms"] < stored or stored_is_future:
+                    # publication date = the EARLIEST explicit date ever seen for this page. A later
+                    # publishDate in the source means the item was re-published, not newly published;
+                    # a stored date in the future is a source error and is replaced.
+                    if stored:
+                        log(f"  date corrected: {url}  {iso(stored)} -> {iso(it['publish_ms'])}")
+                    cur["published_ms"] = it["publish_ms"]; cur["date_source"] = "json-publishDate"; changed = True
+                elif it["publish_ms"] > stored and it["publish_ms"] > (cur.get("updated_ms") or 0):
+                    # re-published later: keep the original date, record the bump as an update
+                    cur["updated_ms"] = it["publish_ms"]; changed = True
             if it["update_ms"] and it["update_ms"] != cur.get("updated_ms"):
                 cur["updated_ms"] = it["update_ms"]; changed = True
             if changed:
@@ -382,6 +406,9 @@ def cmd_build():
         (DOCS / ".nojekyll").touch()
 
     n_dated = len(dated(pages))
+    future = [p for p in pages.values() if p.get("published_ms") and p["published_ms"] > int(time.time() * 1000) + FUTURE_GRACE_MS]
+    for p in future:
+        log(f"  future-dated, held back: {p['url']}  {iso(p['published_ms'])}")
     log(f"bootstrap={bootstrap} new={len(new_urls)} updated={updated} enriched={enriched} "
         f"dated={n_dated}/{len(pages)} rss={n_rss} news={n_news} sitemap={n_sm} changed={changed_any}")
     if not bootstrap:
@@ -420,16 +447,20 @@ def wait_for_pages(build_id):
 def ping_websub():
     feed_url = f"{FEED_BASE_URL}/feed.xml"
     body = urlencode([("hub.mode", "publish"), ("hub.url", feed_url)]).encode()
-    req = Request(HUB_URL, data=body, headers={
-        "User-Agent": USER_AGENT, "Content-Type": "application/x-www-form-urlencoded"})
-    try:
-        with urlopen(req, timeout=30) as r:
-            log(f"WebSub hub {HUB_URL} -> HTTP {r.status} (204 = accepted) for {feed_url}")
-            return r.status in (200, 202, 204)
-    except HTTPError as e:
-        log(f"WebSub hub error HTTP {e.code}: {e.read()[:300]!r}")
-    except URLError as e:
-        log(f"WebSub hub unreachable: {e}")
+    for attempt in (1, 2, 3):
+        req = Request(HUB_URL, data=body, headers={
+            "User-Agent": USER_AGENT, "Content-Type": "application/x-www-form-urlencoded"})
+        try:
+            with urlopen(req, timeout=30) as r:
+                log(f"WebSub hub {HUB_URL} -> HTTP {r.status} (204 = accepted) for {feed_url}")
+                return r.status in (200, 202, 204)
+        except HTTPError as e:
+            log(f"WebSub hub error HTTP {e.code} (attempt {attempt}/3): {e.read()[:200]!r}")
+            if e.code < 500:
+                return False
+        except URLError as e:
+            log(f"WebSub hub unreachable (attempt {attempt}/3): {e}")
+        time.sleep(20)
     return False
 
 
