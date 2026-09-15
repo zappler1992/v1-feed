@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/15/M_NEWS_15658_15092026051056_1400_1789492324340_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>נעצר חשוד ברצח ביפו</video:title>
+<video:description>נעצר חשוד ברצח ביפו</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15658_15092026051056/M_NEWS_15658_15092026051056_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>8</video:duration>
+<video:publication_date>2026-09-15T17:12:10+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-999de7f5406a0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/15/V1_Airplane_6126_15092026050721_1400_1789492113670_FirstFrame.jpg</video:thumbnail_loc>
@@ -30,6 +46,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>

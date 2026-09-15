@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-999de7f5406a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16955,6 +16955,24 @@
    "updated_ms": 1789290856000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f14a35ff80a90a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נעצר חשוד ברצח ביפו",
+   "duration_s": 8,
+   "first_seen_ms": 1789492648777,
+   "image": "https://img.mako.co.il/2026/09/15/M_NEWS_15658_15092026051056_1400_1789492324340_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789492330000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נעצר חשוד ברצח ביפו",
+   "type": "mivzakim",
+   "updated_ms": 1789492330000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15658_15092026051056/M_NEWS_15658_15092026051056_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f2df07a8b2c90a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32124,7 +32142,8 @@
    "importance": 0,
    "published_ms": 1789491860000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "חדשות"
    ],
    "title": "עמית סגל מסביר: שיתוף הפעולה של ישראל עם סעודיה רחב ממה שחשבנו",
    "type": "mivzakim",
