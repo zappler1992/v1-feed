@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b7e9c860316a0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5590c860316a0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-70757fdba36a0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1cb40d647f5a0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-2dcf7fdba36a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1545,6 +1549,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-0e52dd266d5a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Omer,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-2dcf7fdba36a0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "זוג חדש בהוליווד? \nהשחקן קווין קוסטנר, בן 71, נצפה כשהוא מבלה בקניות בסופרמרקט בסנטה ברברה לצד בלונדינית מסתורית. \nהשניים נראו קרובים במהלך הבילוי המשותף, אך זהותה של האישה נותרה לא ידועה – \nוכך גם השאלה אם מדובר בקשר רומנטי. \nמדובר בפרק נוסף בחייו האישיים הסוערים של כוכב \"ילוסטון\", לאחר הגירושים המתוקשרים מאשתו לשעבר\nכריסטין באומגרטנר.",
+   "duration_s": 10,
+   "first_seen_ms": 1789498347332,
+   "image": "https://img.mako.co.il/2026/09/15/Kim_Kevin_15092026_1400_1789495863422_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789495869000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "נתפס במצלמה: השחקן קווין קוסטנר נצפה צמוד לבלונדינית מסתורית",
+   "type": "general",
+   "updated_ms": 1789495869000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-2dcf7fdba36a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Kevin_15092026/MASTER/Kim_Kevin_15092026/Kim_Kevin_15092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-40d2a313204a0a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -1580,6 +1602,24 @@
    "updated_ms": 1789400354000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-4fdb6c26f80a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/yoav_static_140926/MASTER/yoav_static_140926/yoav_static_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5590c860316a0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 25,
+   "first_seen_ms": 1789498347332,
+   "image": "https://img.mako.co.il/2026/09/15/LIRON_SANDRA_M_1400_1789493332344_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789493400000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "כוכבת העל משחזרת: \"ביקשו ממני להוריד מכנסיים\"",
+   "type": "general",
+   "updated_ms": 1789493400000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5590c860316a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/LIRON_SANDRA_M/MASTER/LIRON_SANDRA_M/LIRON_SANDRA_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-56e93f86c74a0a1026.htm": {
    "author": "סלבס",
@@ -1754,7 +1794,8 @@
    "importance": 1,
    "published_ms": 1789468104000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי הפיצוץ עם עומר אדם: הסטייליסטית אור לוזון מתרחקת מזמרת נוספת",
    "type": "general",
@@ -5892,7 +5933,7 @@
    ],
    "title": "קלטת המין של הנזיר - שחשפה עבירה חמורה",
    "type": "general",
-   "updated_ms": 1789489920000,
+   "updated_ms": 1789497480000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-7072a7c52c5a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/biata_monk_150926_fix/biata_monk_150926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -7402,7 +7443,8 @@
    "importance": 1,
    "published_ms": 1789484400000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 36: אהבה חד-צדדית",
    "type": "series",
@@ -13038,6 +13080,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1bba70d8e54a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIR_THAILAND_150926/MASTER/SHIR_THAILAND_150926/SHIR_THAILAND_150926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1cb40d647f5a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תושבי עוטף עזה ניצבים בפני \"מלחמה\" חדשה: עשרות עכברים שמציפים בתים במועצה האזורית אשכול. הגדילה של העכברים נובעת מהקרבה לרצועה, וכמויות הגשמים בחורף הקודם.",
+   "duration_s": 66,
+   "first_seen_ms": 1789498347332,
+   "image": "https://img.mako.co.il/2026/09/15/biata_mice_150926_1400_1789492586831_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789492596000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "זה מה שחסר: מכת העכברים שתוקפת את העוטף",
+   "type": "news",
+   "updated_ms": 1789492596000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1cb40d647f5a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/biata_mice_150926/MASTER/biata_mice_150926/biata_mice_150926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-2c67547b29e90a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -16070,6 +16130,24 @@
    "updated_ms": 1789477248000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6bd0ef11125a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-70757fdba36a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עמיר חדד הוזמן הערב לקבל אות אבירות במסדר ההצטיינות הלאומי של צרפת",
+   "duration_s": 20,
+   "first_seen_ms": 1789498347332,
+   "image": "https://img.mako.co.il/2026/09/15/M_NEWS_15661_15092026061758_1400_1789496352475_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789496359000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עמיר חדד הוזמן הערב לקבל אות אבירות במסדר ההצטיינות הלאומי של צרפת",
+   "type": "mivzakim",
+   "updated_ms": 1789496359000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-70757fdba36a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15661_15092026061758/M_NEWS_15661_15092026061758_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-749da98b4c0a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -16586,6 +16664,24 @@
    "type": "mivzakim",
    "updated_ms": 1789412554000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b5c0f872041a0a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b7e9c860316a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפגישה הסודית של הרמטכ\"ל - עם רמטכ\"לים של 8 מדינות ערביות | הדיווח הדרמטי מחדשות 12",
+   "duration_s": 58,
+   "first_seen_ms": 1789498347332,
+   "image": "https://img.mako.co.il/2026/09/15/biata_ramatcal_150926fix_1400_1789495007065_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789492878000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפגישה הסודית של הרמטכ\"ל - עם רמטכ\"לים של 8 מדינות ערביות | הדיווח הדרמטי מחדשות 12",
+   "type": "mivzakim",
+   "updated_ms": 1789495020000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b7e9c860316a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/biata_ramatcal_150926fix/biata_ramatcal_150926fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b81461f1aee90a1027.htm": {
    "author": "מבזקים",
@@ -26984,7 +27080,8 @@
    "importance": 2,
    "published_ms": 1789399380000,
    "sections": [
-    "המיוחדים"
+    "המיוחדים",
+    "הכי נצפים עכשיו"
    ],
    "title": "אמת או חובה: מירב בן ארי",
    "type": "general",
@@ -32406,7 +32503,8 @@
    "importance": 0,
    "published_ms": 1789471596000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בגובה 215 מטר: חילוץ דרמטי של מטפס שנפל מצוק בקליפורניה ונפצע",
    "type": "mivzakim",
