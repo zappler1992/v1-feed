@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-52a9a313204a0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T07:41:36+00:00</news:publication_date>
+<news:title>שוברת את הרשת: שיר, בתו של הזמר חנן בן ארי, בסרטון שמוכיח שכישרון עובר בגנים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_KARIND_BENARI_6106_15092026073918_1400_1789458089570_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-075899d5fe3a0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1520,14 +1529,5 @@
 <news:title>צה״ל תוקף בנבטיה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/M_NEWS_15492_13092026074947_1400_1789285869699_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-46755c68b9990a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T07:47:00+00:00</news:publication_date>
-<news:title>תקרית חריגה: הבית של קמלה האריס נפרץ</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/Liron_KH_10072026_M_1400_1789285548641_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
