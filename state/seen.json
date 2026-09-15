@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b7e9c860316a0a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5590c860316a0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-70757fdba36a0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1cb40d647f5a0a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-2dcf7fdba36a0a1027.htm"
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-fa49a370366a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -29288,6 +29284,24 @@
    "updated_ms": 1789395960000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-d0d45d07640a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/yoav_IOS_140926/MASTER/yoav_IOS_140926/yoav_IOS_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-fa49a370366a0a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 27,
+   "first_seen_ms": 1789498946341,
+   "image": "https://img.mako.co.il/2026/09/15/LIRON_WHAT_M_1400_1789498018255_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789498028000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "מטא משיקה בישראל מינויים חדשים בתשלום",
+   "type": "general",
+   "updated_ms": 1789498028000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-fa49a370366a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/LIRON_WHAT_M/MASTER/LIRON_WHAT_M/LIRON_WHAT_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
