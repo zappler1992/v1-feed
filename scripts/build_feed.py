@@ -100,20 +100,33 @@ def extract_items(data):
     found = {}
 
     def merge(url, cand):
-        cur = found.setdefault(url, {"url": url, "title": "", "description": "", "image": "",
-                                     "type": "", "author": "", "publish_ms": None, "update_ms": None})
-        for k in ("title", "description", "image", "type", "author"):
+        cur = found.setdefault(url, {"url": url, "title": "", "description": "", "image": "", "type": "",
+                                     "author": "", "video_url": "", "duration_s": None, "sections": [],
+                                     "importance": None, "publish_ms": None, "update_ms": None})
+        for k in ("title", "description", "image", "type", "author", "video_url"):
             if cand[k] and len(cand[k]) > len(cur[k]):
                 cur[k] = cand[k]
+        if cand["duration_s"] and not cur["duration_s"]:
+            cur["duration_s"] = cand["duration_s"]
+        if cand["importance"] is not None and cur["importance"] is None:
+            cur["importance"] = cand["importance"]
+        for sec in cand["sections"]:
+            if sec and sec not in cur["sections"]:
+                cur["sections"].append(sec)
         if cand["publish_ms"]:
             cur["publish_ms"] = cand["publish_ms"] if cur["publish_ms"] is None else min(cur["publish_ms"], cand["publish_ms"])
         if cand["update_ms"]:
             cur["update_ms"] = cand["update_ms"] if cur["update_ms"] is None else max(cur["update_ms"], cand["update_ms"])
 
-    def walk(o):
+    def walk(o, section=""):
         if isinstance(o, dict):
+            # component name = the on-screen section the item is shown in ("חדשות", "סלבס", ...)
+            cn = o.get("componentName")
+            if cn:
+                section = text_of(cn) or section
             su = o.get("shareUrl")
             if isinstance(su, str) and SITE_HOST in su:
+                play = o.get("domoPlay") if isinstance(o.get("domoPlay"), dict) else {}
                 merge(normalize_url(su), {
                     "title": text_of(o.get("title")),
                     "description": text_of(o.get("description")) or text_of(o.get("subtitle")),
@@ -121,14 +134,18 @@ def extract_items(data):
                              else (o.get("image") if isinstance(o.get("image"), str) else ""),
                     "type": o.get("type") if isinstance(o.get("type"), str) else "",
                     "author": o.get("author") if isinstance(o.get("author"), str) else "",
+                    "video_url": o.get("videoURL") if isinstance(o.get("videoURL"), str) else "",
+                    "duration_s": int(play["video_length"]) if isinstance(play.get("video_length"), (int, float)) and play["video_length"] > 0 else None,
+                    "sections": [section],
+                    "importance": o.get("importance") if isinstance(o.get("importance"), int) else None,
                     "publish_ms": as_ms(o.get("publishDate")),
                     "update_ms": as_ms(o.get("updateDate")),
                 })
             for v in o.values():
-                walk(v)
+                walk(v, section)
         elif isinstance(o, list):
             for x in o:
-                walk(x)
+                walk(x, section)
 
     walk(data)
     return found
@@ -234,13 +251,42 @@ def dated(pages):
     return [p for p in pages.values() if p.get("published_ms") and p["published_ms"] <= limit]
 
 
+SECTION_NAMES = {  # URL section slug -> Hebrew category (fallback when the source has no component name)
+    "news-magazine": "חדשות", "newsflash": "מבזקים", "world_newsflash": "מבזקים מהעולם", "global-magazine": "מהעולם",
+    "celebs-magazine": "סלבס", "celebs_newsflash": "סלבס", "celebs-newsflash": "סלבס", "culture-magazine": "תרבות",
+    "food-magazine": "אוכל", "tech-magazine": "טכנולוגיה", "sport-magazine": "ספורט", "newsflash_sport": "ספורט",
+    "lifestyle-magazine": "לייף & סטייל", "living_healthy-magazine": "בריאות", "travel-magazine": "טיולים",
+    "tv1-magazine": "TV1", "she_has_it-magazine": "יש לה את זה", "60_seconds-magazine": "60 שניות",
+    "hot_takes-magazine": "חדשות לוהטות", "yes_chef-magazine": "כן שף", "loaded-magazine": "מסודרים",
+    "growing_waves-magazine": "כשהגלים מתחזקים", "growing_waves_2-magazine": "כשהגלים מתחזקים 2",
+    "love_around_the_corner-magazine": "אהבה מעבר לפינה", "special-magazine": "מיוחד",
+}
+
+
+def categories(p):
+    """Section names for a page: on-screen component names first, then the URL section, then the author."""
+    cats = [c for c in (p.get("sections") or []) if c]
+    m = re.search(r"//[^/]+/([^/]+)/", p["url"])
+    slug = m.group(1) if m else ""
+    slug_name = next((v for k, v in SECTION_NAMES.items() if slug.startswith(k)), "")
+    for c in (slug_name, p.get("author") or ""):
+        if c and c not in cats:
+            cats.append(c)
+    return cats[:5]
+
+
+def video_ok(p):
+    return bool(p.get("video_url")) and isinstance(p.get("duration_s"), int) and 1 <= p["duration_s"] <= 28800
+
+
 def build_rss(pages, now_ms):
     items = sorted(dated(pages), key=lambda p: -p["published_ms"])[:MAX_FEED_ITEMS]
     self_url = f"{FEED_BASE_URL}/feed.xml"
     last_build = items[0]["published_ms"] if items else now_ms
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" '
-           'xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">',
+           'xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" '
+           'xmlns:content="http://purl.org/rss/1.0/modules/content/">',
            '<channel>',
            f'<title>{esc(FEED_TITLE)}</title>',
            f'<link>https://{SITE_HOST}/</link>',
@@ -255,11 +301,33 @@ def build_rss(pages, now_ms):
         out.append(f'<link>{esc(p["url"])}</link>')
         out.append(f'<guid isPermaLink="true">{esc(p["url"])}</guid>')
         out.append(f'<pubDate>{rfc822(p["published_ms"])}</pubDate>')
-        if p.get("description"):
-            out.append(f'<description>{esc(p["description"])}</description>')
+        desc = p.get("description") or p.get("title") or ""
+        out.append(f'<description>{esc(desc)}</description>')
+        for c in categories(p):
+            out.append(f'<category>{esc(c)}</category>')
         if p.get("author"):
             out.append(f'<dc:creator>{esc(p["author"])}</dc:creator>')
+        body = ""
         if p.get("image"):
+            body += f'<p><a href="{esc(p["url"])}"><img src="{esc(p["image"])}" alt="{esc(p["title"])}"/></a></p>'
+        body += f'<p>{esc(desc)}</p>'
+        if video_ok(p):
+            body += f'<p><a href="{esc(p["url"])}">לצפייה בסרטון ({p["duration_s"]} שניות)</a></p>'
+        out.append(f'<content:encoded><![CDATA[{body}]]></content:encoded>')
+        if p.get("image"):
+            out.append(f'<media:thumbnail url="{esc(p["image"])}"/>')
+        if video_ok(p):
+            out.append(f'<media:content url="{esc(p["video_url"])}" medium="video" '
+                       f'type="application/x-mpegURL" duration="{p["duration_s"]}">')
+            out.append(f'<media:title type="plain">{esc(p["title"])}</media:title>')
+            out.append(f'<media:description type="plain">{esc(desc)}</media:description>')
+            if p.get("image"):
+                out.append(f'<media:thumbnail url="{esc(p["image"])}"/>')
+            if categories(p):
+                out.append(f'<media:keywords>{esc(", ".join(categories(p)))}</media:keywords>')
+            out.append('<media:rating scheme="urn:simple">nonadult</media:rating>')
+            out.append('</media:content>')
+        elif p.get("image"):
             out.append(f'<media:content url="{esc(p["image"])}" medium="image"/>')
         out.append('</item>')
     out += ['</channel>', '</rss>', '']
@@ -285,6 +353,37 @@ def build_news_sitemap(pages, now_ms):
         out.append('</news:news>')
         if p.get("image"):
             out.append(f'<image:image><image:loc>{esc(p["image"])}</image:loc></image:image>')
+        out.append('</url>')
+    out += ['</urlset>', '']
+    return "\n".join(out), len(items)
+
+
+def build_video_sitemap(pages):
+    """Google video sitemap: every dated page that has a video file and a valid duration."""
+    items = sorted((p for p in dated(pages) if video_ok(p) and p.get("image")),
+                   key=lambda p: -p["published_ms"])[:50000]
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+           'xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">']
+    for p in items:
+        desc = (p.get("description") or p.get("title") or "")[:2048]
+        out.append('<url>')
+        out.append(f'<loc>{esc(p["url"])}</loc>')
+        out.append('<video:video>')
+        out.append(f'<video:thumbnail_loc>{esc(p["image"])}</video:thumbnail_loc>')
+        out.append(f'<video:title>{esc((p["title"] or p["url"])[:100])}</video:title>')
+        out.append(f'<video:description>{esc(desc)}</video:description>')
+        out.append(f'<video:content_loc>{esc(p["video_url"])}</video:content_loc>')
+        out.append(f'<video:duration>{p["duration_s"]}</video:duration>')
+        out.append(f'<video:publication_date>{iso(p["published_ms"])}</video:publication_date>')
+        out.append('<video:family_friendly>yes</video:family_friendly>')
+        out.append('<video:requires_subscription>no</video:requires_subscription>')
+        out.append('<video:live>no</video:live>')
+        if p.get("author"):
+            out.append(f'<video:uploader>{esc(p["author"])}</video:uploader>')
+        for c in categories(p)[:5]:
+            out.append(f'<video:tag>{esc(c)}</video:tag>')
+        out.append('</video:video>')
         out.append('</url>')
     out += ['</urlset>', '']
     return "\n".join(out), len(items)
@@ -316,6 +415,7 @@ def build_index_html(counts, newest_ms):
 <li><a href="feed.xml">feed.xml</a> — RSS ({counts['rss']} פריטים עם תאריך מפורש)</li>
 <li><a href="news-sitemap.xml">news-sitemap.xml</a> — מפת אתר ניוז ({counts['news']} כתובות ב-{NEWS_WINDOW_HOURS} השעות האחרונות)</li>
 <li><a href="sitemap.xml">sitemap.xml</a> — מפת אתר מלאה ({counts['sitemap']} כתובות)</li>
+<li><a href="video-sitemap.xml">video-sitemap.xml</a> — מפת וידאו לגוגל ({counts['video']} סרטונים)</li>
 </ul>
 </body></html>
 """
@@ -354,6 +454,8 @@ def cmd_build():
             pages[url] = {
                 "url": url, "title": it["title"], "description": it["description"],
                 "image": it["image"], "type": it["type"], "author": it["author"],
+                "video_url": it["video_url"], "duration_s": it["duration_s"],
+                "sections": it["sections"], "importance": it["importance"],
                 "published_ms": it["publish_ms"],
                 "date_source": "json-publishDate" if it["publish_ms"] else None,
                 "updated_ms": it["update_ms"] or it["publish_ms"],
@@ -362,9 +464,14 @@ def cmd_build():
             new_urls.append(url)
         else:
             changed = False
-            for k in ("title", "description", "image", "type", "author"):
+            for k in ("title", "description", "image", "type", "author", "video_url", "duration_s"):
                 if it[k] and it[k] != cur.get(k):
                     cur[k] = it[k]; changed = True
+            if it["importance"] is not None and it["importance"] != cur.get("importance"):
+                cur["importance"] = it["importance"]; changed = True
+            for sec in it["sections"]:
+                if sec and sec not in cur.setdefault("sections", []):
+                    cur["sections"].append(sec); changed = True
             if it["publish_ms"]:
                 stored = cur.get("published_ms")
                 stored_is_future = stored and stored > now_ms + FUTURE_GRACE_MS
@@ -395,12 +502,14 @@ def cmd_build():
     rss, n_rss = build_rss(pages, now_ms)
     news, n_news = build_news_sitemap(pages, now_ms)
     sm, n_sm = build_sitemap(pages)
+    vid, n_vid = build_video_sitemap(pages)
     changed_any = False
     changed_any |= write_if_changed(DOCS / "feed.xml", rss)
     changed_any |= write_if_changed(DOCS / "news-sitemap.xml", news)
     changed_any |= write_if_changed(DOCS / "sitemap.xml", sm)
+    changed_any |= write_if_changed(DOCS / "video-sitemap.xml", vid)
     newest = max((p["published_ms"] for p in dated(pages)), default=None)
-    write_if_changed(DOCS / "index.html", build_index_html({"rss": n_rss, "news": n_news, "sitemap": n_sm}, newest))
+    write_if_changed(DOCS / "index.html", build_index_html({"rss": n_rss, "news": n_news, "sitemap": n_sm, "video": n_vid}, newest))
     if changed_any:
         (DOCS / "build.txt").write_text(str(now_ms), encoding="utf-8")
         (DOCS / ".nojekyll").touch()
@@ -410,7 +519,7 @@ def cmd_build():
     for p in future:
         log(f"  future-dated, held back: {p['url']}  {iso(p['published_ms'])}")
     log(f"bootstrap={bootstrap} new={len(new_urls)} updated={updated} enriched={enriched} "
-        f"dated={n_dated}/{len(pages)} rss={n_rss} news={n_news} sitemap={n_sm} changed={changed_any}")
+        f"dated={n_dated}/{len(pages)} rss={n_rss} news={n_news} sitemap={n_sm} video={n_vid} changed={changed_any}")
     if not bootstrap:
         for u in new_urls[:20]:
             p = pages[u]

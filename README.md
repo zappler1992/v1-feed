@@ -8,7 +8,12 @@
 | `docs/feed.xml` | RSS 2.0 עם הצהרת WebSub Hub (`pubsubhubbub.appspot.com`) |
 | `docs/news-sitemap.xml` | מפת אתר ניוז של גוגל, 48 השעות האחרונות, עד 1,000 כתובות |
 | `docs/sitemap.xml` | מפת אתר רגילה עם כל הכתובות שנראו, `lastmod` רק כשיש תאריך מפורש |
+| `docs/video-sitemap.xml` | מפת וידאו לגוגל: thumbnail, כותרת, תיאור, קובץ HLS, משך, תאריך, tags (מדורים) |
 | `state/seen.json` | זיכרון: כל כתובת שנראתה, התאריך שלה ומקורו |
+
+הפיד הוא Media RSS: לכל פריט `category` (המדור שבו הוא מוצג + מדור ה‑URL), `content:encoded` עם תמונה ותיאור,
+`media:content` של הווידאו (HLS, משך) עם `media:thumbnail`, `media:keywords` ו‑`media:rating`.
+כל השדות נשלפים מה‑JSON של המקור בלבד.
 
 אחרי כל שינוי הסקריפט ממתין ש‑GitHub Pages יגיש את הגרסה החדשה ואז שולח `hub.mode=publish` ל‑Hub של גוגל.
 
@@ -52,6 +57,7 @@
 ## הגשה לגוגל
 
 - **Search Console**: מפת הניוז יושבת על `github.io` אבל מצביעה על `v-1.co.il`. גוגל מקבלת cross‑domain sitemap רק אם שני ה‑hosts מאומתים באותו חשבון Search Console (מאמתים גם את ה‑property של `<user>.github.io`), או אם מוסיפים שורת `Sitemap: https://<user>.github.io/v1-feed/news-sitemap.xml` ל‑`robots.txt` של `v-1.co.il`.
+- **מפת וידאו**: להגיש גם את `video-sitemap.xml` ב‑Search Console (אותו נכס).
 - **WebSub**: לא דורש הגדרה בצד גוגל. הפינג נשלח אוטומטית.
 
 ## הרצה מקומית

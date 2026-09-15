@@ -19,7 +19,7 @@ LOG = LOG_DIR / "run.log"
 FEED_BASE_URL = "https://zappler1992.github.io/v1-feed"
 PYTHON = Path(sys.executable).with_name("python.exe")   # console python (we may run under pythonw.exe)
 CREATE_NO_WINDOW = 0x08000000
-FEED_FILES = ["docs/feed.xml", "docs/news-sitemap.xml", "docs/sitemap.xml"]
+FEED_FILES = ["docs/feed.xml", "docs/news-sitemap.xml", "docs/sitemap.xml", "docs/video-sitemap.xml"]
 
 
 def log(msg):
