@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/lifestyle-magazine/2026-m09_w03/shorts-6df27b3cac6a0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ed98c860316a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5926,7 +5926,8 @@
    "importance": 1,
    "published_ms": 1789487984000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "קלטת המין של הנזיר - שחשפה עבירה חמורה",
    "type": "general",
@@ -13372,6 +13373,24 @@
    "updated_ms": 1789395300000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-d9c73a9747f90a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/NEWFIXX_MARI/NEWFIXX_MARI_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ed98c860316a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ארצות הברית חשפה לראשונה כי הציבה נשק בחלל. מזכיר חיל האוויר האמריקני טרוי מינק אמר כי חיל החלל של צבא ארצות הברית הציב \"כלי נשק לשליטה בחלל\" במסלול סביב כדור הארץ - אך לא סיפק פירוט על אופיו של הנשק הזה. מינק הבהיר כי המטרה בחשיפת המידע היא להרתיע את יריבותיה של אמריקה במרוץ החימוש שמתנהל מול רוסיה וסין.",
+   "duration_s": 49,
+   "first_seen_ms": 1789513947294,
+   "image": "https://img.mako.co.il/2026/09/15/alice_150926_space_1400_1789492678303_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789492684000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "ארה\"ב חושפת: הצבנו נשק סודי בחלל",
+   "type": "news",
+   "updated_ms": 1789492684000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ed98c860316a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_space/MASTER/alice_150926_space/alice_150926_space_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-f505c69d6de90a1027.htm": {
    "author": "חדשות",
@@ -32577,7 +32596,8 @@
    "importance": 0,
    "published_ms": 1789492119000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מטוס נאלץ לבטל נחיתה במונדו מאיה לאחר שזיקוקים הופיעו בנתיב הגישה הסופי שלו לנחיתה.",
    "type": "mivzakim",
