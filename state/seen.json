@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a886a66c396a0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-8ce6a2888a6a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13275,6 +13275,24 @@
    "updated_ms": 1789478940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-882eb6efc05a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIR_CORONA_150926/MASTER/SHIR_CORONA_150926/SHIR_CORONA_150926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-8ce6a2888a6a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 20,
+   "first_seen_ms": 1789504646559,
+   "image": "https://img.mako.co.il/2026/09/15/M_Kim_Car_15092026_1400_1789504320657_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789504327000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1789504327000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-8ce6a2888a6a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Car_15092026/MASTER/M_Kim_Car_15092026/M_Kim_Car_15092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-aac1f1fa014a0a1026.htm": {
    "author": "חדשות",
