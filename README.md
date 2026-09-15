@@ -10,6 +10,7 @@
 | `docs/sitemap.xml` | מפת אתר רגילה עם כל הכתובות שנראו, `lastmod` רק כשיש תאריך מפורש |
 | `docs/video-sitemap.xml` | מפת וידאו לגוגל: thumbnail, כותרת, תיאור, קובץ HLS, משך, תאריך, tags (מדורים) |
 | `state/seen.json` | זיכרון: כל כתובת שנראתה, התאריך שלה ומקורו |
+| `docs/mako/feed.xml` | **mako.co.il**: RSS‑snapshot של הכתבה הראשית + הסליידר בדף הבית, ללא הטיזר הממומן (`scripts/build_mako_home.py`, מקור `https://www.mako.co.il/?platform=mobileApp`, תאריכים מ‑`date.datetime`). מפונג ל‑Hub בכל שינוי |
 
 הפיד הוא Media RSS: לכל פריט `category` (המדור שבו הוא מוצג + מדור ה‑URL), `content:encoded` עם תמונה ותיאור,
 `media:content` של הווידאו (HLS, משך) עם `media:thumbnail`, `media:keywords` ו‑`media:rating`.
@@ -30,7 +31,7 @@
 ## איך זה רץ בפועל
 
 הריצה כל 5 דקות מתבצעת **מהמחשב המקומי** דרך Windows Task Scheduler (משימה בשם `v1-feed poll`):
-`pythonw.exe run_local.py` (בלי חלון) → `build` → commit+push → `ping`. הלוג ב‑`logs/run.log`.
+`pythonw.exe run_local.py` (בלי חלון) → `build` (V1 + mako) → commit+push → `ping` לכל פיד שהשתנה. הלוג ב‑`logs/run.log`.
 ה‑workflow בגיטהאב נשאר להרצה ידנית בלבד (Actions → poll-v1 → Run workflow); ה‑cron שלו בוטל.
 
 ניהול המשימה: `schtasks /Query /TN "v1-feed poll" /V /FO LIST`, השבתה: `schtasks /Change /TN "v1-feed poll" /DISABLE`.

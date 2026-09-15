@@ -3,7 +3,8 @@
 v1-feed local runner for Windows Task Scheduler (every 5 minutes).
 Launch with pythonw.exe so no console window appears.
 
-    pull -> build feed/sitemaps -> commit+push if changed -> ping WebSub hub if feed changed
+    pull -> build v1 feed/sitemaps + mako homepage feed -> commit+push if changed
+         -> ping WebSub hub for each feed that changed
 
 Everything is logged to logs/run.log.
 """
@@ -20,6 +21,7 @@ FEED_BASE_URL = "https://zappler1992.github.io/v1-feed"
 PYTHON = Path(sys.executable).with_name("python.exe")   # console python (we may run under pythonw.exe)
 CREATE_NO_WINDOW = 0x08000000
 FEED_FILES = ["docs/feed.xml", "docs/news-sitemap.xml", "docs/sitemap.xml", "docs/video-sitemap.xml"]
+MAKO_FILES = ["docs/mako/feed.xml"]
 
 
 def log(msg):
@@ -49,9 +51,12 @@ def main():
     if run([str(PYTHON), "scripts/build_feed.py", "build"], env) != 0:
         log("build FAILED")
         return 1
+    if run([str(PYTHON), "scripts/build_mako_home.py", "build"], env) != 0:
+        log("mako build FAILED (continuing with v1)")
 
     run(["git", "add", "docs", "state"])
     feed_changed = run(["git", "diff", "--cached", "--quiet", "--"] + FEED_FILES) != 0
+    mako_changed = run(["git", "diff", "--cached", "--quiet", "--"] + MAKO_FILES) != 0
     any_changed = run(["git", "diff", "--cached", "--quiet"]) != 0
 
     if any_changed:
@@ -64,6 +69,8 @@ def main():
 
     if feed_changed:
         run([str(PYTHON), "scripts/build_feed.py", "ping"], env)
+    if mako_changed:
+        run([str(PYTHON), "scripts/build_mako_home.py", "ping"], env)
 
     log("=== run end")
     return 0
