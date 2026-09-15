@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-193d94a7023a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T03:51:04+00:00</news:publication_date>
+<news:title>5 רכבים עלו באש בנצרת, נסיבות המקרה נחקרות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/M_NEWS_15605_15092026034936_1400_1789444257199_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-c1442f22e03a0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1385,14 +1394,5 @@
 <news:title>היום יהיה חם - אבל בקרוב נרגיש הקלה: צפו בתחזית המלאה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_WEATHER_6021_13092026035111_1400_1789271566995_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-64b3d7cb86690a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T03:48:00+00:00</news:publication_date>
-<news:title>המהדורות בעולם מדווחות: חשש לפגיעה באספקת הנפט העולמית אחרי תקיפת החות&#x27;ים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/12/inbie_neft_120926_1400_1789231142179_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
