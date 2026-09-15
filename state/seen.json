@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-693b24a6525a0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e0f85c18255a0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8917,6 +8918,18 @@
    "type": "news",
    "updated_ms": 1789453860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-53c7fd194b3a0a1027.htm"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "first_seen_ms": 1789480347289,
+   "image": "https://img.mako.co.il/2026/09/15/alice_150926_thai_1400_1789479455753_FirstFrame.jpg",
+   "published_ms": 1789479462000,
+   "title": "הרשויות בתאילנד והחקירה נגד בית חב\"ד",
+   "type": "news",
+   "updated_ms": 1789479462000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-67dd155006e90a1026.htm": {
    "author": "חדשות",
@@ -22486,6 +22499,18 @@
    "type": "mivzakim",
    "updated_ms": 1789320533000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-dbfd3d528cb90a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e0f85c18255a0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רגע האימה במנהרה בסין: אישה קפצה מרכב נוסע אל התנועה - וניצלה",
+   "first_seen_ms": 1789480347289,
+   "image": "https://img.mako.co.il/2026/09/15/V1_SHIR_JUMP_6121_15092026014642_1400_1789480073138_FirstFrame.jpg",
+   "published_ms": 1789480082000,
+   "title": "רגע האימה במנהרה בסין: אישה קפצה מרכב נוסע אל התנועה - וניצלה",
+   "type": "mivzakim",
+   "updated_ms": 1789480082000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e0f85c18255a0a1026.htm"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-ebe7155006e90a1026.htm": {
    "author": "מבזקים מהעולם",
