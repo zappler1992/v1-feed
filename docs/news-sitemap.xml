@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e41dd266d5a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T16:31:44+00:00</news:publication_date>
+<news:title>חשד לרצח: צעיר נורה למוות ביפו | כוחות משטרה סורקים באזור אחר חשודים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_JAFFA_6124_15092026042909_1400_1789489898522_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5a0ddd266d5a0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -25,7 +34,7 @@
 <news:publication_date>2026-09-15T15:59:44+00:00</news:publication_date>
 <news:title>קלטת המין של הנזיר - שחשפה עבירה חמורה</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/biata_monk_150926_1400_1789487974860_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/biata_monk_150926_fix_1400_1789489927333_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bbe425a6aa5a0a1027.htm</loc>
@@ -97,7 +106,7 @@
 <news:publication_date>2026-09-15T13:59:24+00:00</news:publication_date>
 <news:title>בדרך חזרה מאומן: קרא &quot;פרי פלסטיין&quot; לחסידי ברסלב - שתקפו אותו באגרופים</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/UmanFIX2_1400_1789481931203_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/UmanFIX2_1400_1789489875992_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-18bf4412255a0a1027.htm</loc>
@@ -1646,14 +1655,5 @@
 <news:title>אוהבים קפה רותח? זה הרבה יותר מסוכן ממה שנדמה לכם</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/ASAF_COFFEE_13092026_M_1400_1789317673880_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-90e8836da9b90a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T16:33:32+00:00</news:publication_date>
-<news:title>פער של 30 שנה: בראד פיט ובת הזוג בתמונות חדשות וצמודות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/NOAY_BRAD_130926_1400_1789317206308_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
