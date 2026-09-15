@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ad43a94fd61a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a032593f8e2a0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab7628722e2a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11202,6 +11203,18 @@
    "updated_ms": 1789298151000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a032593f8e2a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היום לא צפוי שינוי ניכר בטמפרטורות והן היו גבוהות מהרגיל. מחר ימשיך להיות חם, ובחמישי נרגיש התקררות",
+   "first_seen_ms": 1789442246747,
+   "image": "https://img.mako.co.il/2026/09/15/M_NEWS_15598_15092026031331_1400_1789442075076_FirstFrame.jpg",
+   "published_ms": 1789442081000,
+   "title": "היום לא צפוי שינוי ניכר בטמפרטורות והן היו גבוהות מהרגיל. מחר ימשיך להיות חם, ובחמישי נרגיש התקררות",
+   "type": "mivzakim",
+   "updated_ms": 1789442081000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a032593f8e2a0a1026.htm"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0c2da1dd50a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -11225,6 +11238,18 @@
    "type": "mivzakim",
    "updated_ms": 1789313764000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3ef9a2ad5b90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab7628722e2a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרה אנשים נפצעו בתאונה בין רכב לטרקטור בכניסה למושב נטור שברמת הגולן",
+   "first_seen_ms": 1789442246747,
+   "image": "https://img.mako.co.il/2026/09/15/M_NEWS_15597_15092026031138_1400_1789441972183_FirstFrame.jpg",
+   "published_ms": 1789441978000,
+   "title": "עשרה אנשים נפצעו בתאונה בין רכב לטרקטור בכניסה למושב נטור שברמת הגולן",
+   "type": "mivzakim",
+   "updated_ms": 1789441978000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab7628722e2a0a1027.htm"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b245768c45b90a1026.htm": {
    "author": "מבזקים",
