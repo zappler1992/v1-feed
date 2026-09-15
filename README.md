@@ -1,5 +1,7 @@
 # v1-feed
 
+**קבצים חיים:** [feed.xml](https://zappler1992.github.io/v1-feed/feed.xml) · [news-sitemap.xml](https://zappler1992.github.io/v1-feed/news-sitemap.xml) · [video-sitemap.xml](https://zappler1992.github.io/v1-feed/video-sitemap.xml) · [sitemap.xml](https://zappler1992.github.io/v1-feed/sitemap.xml) · [mako/feed.xml](https://zappler1992.github.io/v1-feed/mako/feed.xml) · [דף אינדקס](https://zappler1992.github.io/v1-feed/)
+
 מאזין כל 5 דקות ל‑`https://www.mako.co.il/v1/?platform=mobileApp`, מזהה דפים חדשים ב‑`www.v-1.co.il`,
 ומפרסם דרך GitHub Pages:
 
