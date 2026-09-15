@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-bc6e2c70673a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-15T05:17:01+00:00</news:publication_date>
+<news:title>המשטרה מבקשת את עזרת הציבור באיתור אוהד כהן, בן 34, שנראה לאחרונה אתמול בתחנת דלק דור אלון בחריש</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_karind_missing_6100_15092026051534_1400_1789449411405_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7d6d32aaa63a0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1448,14 +1457,5 @@
 <news:title>&quot;שלי&quot;: כוכבת חתונמי והמירוץ למיליון חן דריקס חושפת זוגיות חדשה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_HEND_6024_13092026055059_1400_1789278736284_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b87e94cb32990a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-13T05:18:01+00:00</news:publication_date>
-<news:title>חיפושים ימיים נרחבים באינדונזיה, לאחר שאוניה עם 240 נוסעים איבדה קשר בלב ים ג&#x27;אווה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/13/V1_indonesia_6023_13092026051630_1400_1789276674210_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
