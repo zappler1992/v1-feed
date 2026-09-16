@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5c1b8eb063aa0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-46981384d1aa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1598,6 +1598,24 @@
    "updated_ms": 1789458515000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-40d2a313204a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIRA_TAYLORTOM_150926/MASTER/SHIRA_TAYLORTOM_150926_M/SHIRA_TAYLORTOM_150926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-46981384d1aa0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "המראה של סלינה גומז בטקס האמי עורר סערה ברשת, כשהמעריצים הגיבו לשינוי במראה שלה והעלו שלל השערות.",
+   "duration_s": 41,
+   "first_seen_ms": 1789562846408,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_SELINA_160926_1400_1789560463337_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789560469000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"לא דומה לעצמה\": סלינה גומז הגיעה לטקס האמי - והסעירה את המעריצים",
+   "type": "general",
+   "updated_ms": 1789560480000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-46981384d1aa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_SELINA_160926/MASTER/SHIR_SELINA_160926/SHIR_SELINA_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-4fdb6c26f80a0a1027.htm": {
    "author": "סלבס",
@@ -13371,7 +13389,8 @@
    "importance": 1,
    "published_ms": 1789543784000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"צרחה את נשמתה\": בת 10 ננשכה על ידי דג טורף באילת",
    "type": "news",
@@ -27871,7 +27890,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "מה קרה שם?! צבע אחר - וחזי היה מובהל לבית החולים...",
+   "description": "מה קרה שם?! צבע אחר - וחזי היה מובהל לבית החולים....",
    "duration_s": 105,
    "first_seen_ms": 1789462946409,
    "image": "https://img.mako.co.il/2026/09/07/lior_majik_TOMAVIV_070926_1400_1788785176057_FirstFrame.jpg",
@@ -33166,7 +33185,8 @@
    "importance": 0,
    "published_ms": 1789544318000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "האוטו נתקע בגדר ונכנס לתוך הבריכה הביתית בטקסס- מטר מהילדים שמבלים בה",
    "type": "mivzakim",
@@ -33410,7 +33430,8 @@
    "importance": 0,
    "published_ms": 1789548362000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הגיעה והתפוצצה: קצר חשמלי ברכבת התחתית במקסיקו גרם לבהלה -והנוסעים ברחו המקום",
    "type": "mivzakim",
