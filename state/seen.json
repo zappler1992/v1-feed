@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5e9bd7f7d4ba0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5316b808d6ba0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6078,6 +6077,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-4e67a807ed4a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIRA_LUSHES_150926/MASTER/SHIRA_LUSHES_150926_M/SHIRA_LUSHES_150926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5316b808d6ba0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "פסטיבל נוער ביקטרינבורג שברוסיה הביא אטרקציה לא שגרתית: סימולטור צירי לידה. עשרות גברים צעירים עמדו בתור על מנת לחוות את החוויה, והנשים כמובן - מתמוגגות.",
+   "duration_s": 42,
+   "first_seen_ms": 1789584747727,
+   "image": "https://img.mako.co.il/2026/09/16/biata_contractions_160926_1400_1789583073698_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789583080000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "מראה להם מה זה: המכונה שמדמה צירי לידה",
+   "type": "general",
+   "updated_ms": 1789583080000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5316b808d6ba0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/biata_contractions_160926/MASTER/biata_contractions_160926/biata_contractions_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -6195,7 +6212,7 @@
    ],
    "title": "לא במחלקה הראשונה: מלך ומלכת תאילנד הטיסו בעצמם את המטוס לווייטנאם",
    "type": "general",
-   "updated_ms": 1789573062000,
+   "updated_ms": 1789584480000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-99f8abb1ddaa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/inbalmatos160926/MASTER/inbalmatos160926m/inbalmatos160926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
