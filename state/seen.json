@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1bf3f154a7aa0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8bf5de1308aa0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-66b907f7c8aa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17039,6 +17040,24 @@
    "updated_ms": 1789330774000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8bc0eb6936c90a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8bf5de1308aa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מבקשת את עזרת הציבור באיתור חיה שרה קפלן, בת 88 שנראתה לאחרונה היום סמוך לביה\"ח בלינסון",
+   "duration_s": 9,
+   "first_seen_ms": 1789567946550,
+   "image": "https://img.mako.co.il/2026/09/16/V1_karind_missing_6153_16092026020531_1400_1789567617355_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789567624000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מבקשת את עזרת הציבור באיתור חיה שרה קפלן, בת 88 שנראתה לאחרונה היום סמוך לביה\"ח בלינסון",
+   "type": "mivzakim",
+   "updated_ms": 1789567624000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8bf5de1308aa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_karind_missing_6153_16092026020531/V1_karind_missing_6153_16092026020531_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8dcf2bdfe04a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33422,6 +33441,24 @@
    "type": "mivzakim",
    "updated_ms": 1789447310000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-5dff1a35653a0a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-66b907f7c8aa0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו למשלוח הלא שגרתי בשנגחאי",
+   "duration_s": 19,
+   "first_seen_ms": 1789567946550,
+   "image": "https://img.mako.co.il/2026/09/16/V1_karind_McDonalds_6154_16092026020813_1400_1789567771954_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789567778000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו למשלוח הלא שגרתי בשנגחאי",
+   "type": "mivzakim",
+   "updated_ms": 1789567778000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-66b907f7c8aa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_karind_McDonalds_6154_16092026020813/V1_karind_McDonalds_6154_16092026020813_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-6addc8a12e9a0a1027.htm": {
    "author": "מבזקים מהעולם",
