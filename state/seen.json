@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6d57ac0c7aba0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2678,6 +2678,22 @@
    "updated_ms": 1789539386000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_AMANDA_6135_16092026061510/V1_AMANDA_6135_16092026061510_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6d57ac0c7aba0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "אוי הלב: שרית חדד העלתה את בתה על הבמה בפארק הירקון לביצוע משותף של \"חלק ממני\"",
+   "duration_s": 79,
+   "first_seen_ms": 1789587746769,
+   "image": "https://img.mako.co.il/2026/09/16/V1_sarit_6163_16092026073038_1400_1789587156560_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789587164000,
+   "sections": [],
+   "title": "אוי הלב: שרית חדד העלתה את בתה על הבמה בפארק הירקון לביצוע משותף של \"חלק ממני\"",
+   "type": "mivzakim",
+   "updated_ms": 1789587164000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6d57ac0c7aba0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_sarit_6163_16092026073038/V1_sarit_6163_16092026073038_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-89f5c74228f90a1026.htm": {
    "author": "מבזקי סלבס",
@@ -28457,14 +28473,16 @@
   "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "מVינים בחירות: הסרטון שהליכוד ממש לא רוצה שתראו - ואיך שוב, זה קשור למועמד שמאיים על נתניהו בבחירות?",
+   "description": "מVינים בחירות: הסרטון שנתניהו ממש לא רוצה שתראו - ואיך שוב, זה קשור למועמד שמאיים על נתניהו בבחירות?",
    "duration_s": 90,
    "first_seen_ms": 1789587447047,
    "image": "https://img.mako.co.il/2026/09/16/dor_trik_160926_1400_1789586016197_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789587240000,
-   "sections": [],
-   "title": "הסרטון שהליכוד ממש לא רוצה שתראו",
+   "sections": [
+    "מVינים חדשות"
+   ],
+   "title": "הסרטון שנתניהו ממש לא רוצה שתראו",
    "type": "general",
    "updated_ms": 1789587240000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm",
