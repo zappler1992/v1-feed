@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ebca59a13faa0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-16T16:06:20+00:00</news:publication_date>
+<news:title>אזהרת משרד הבריאות: יש לכם את הפלפל הזה בבית?  אל תצרכו אותו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/16/inbalpl160926m_1400_1789574770558_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-372b6caeddaa0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1637,23 +1646,5 @@
 <news:title>הפרשנות של עמית סגל על סערת הסרט נז&quot;א</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/14/V1_SEGAL_6083_14092026043613_1400_1789403871095_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-d3097021da0a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-14T16:08:48+00:00</news:publication_date>
-<news:title>כל מה שצריך לדעת על טקס פרסי האמי</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/14/inbie_EMMY_140926_1400_1789402121928_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-52e103ce290a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-14T16:08:00+00:00</news:publication_date>
-<news:title>קיבלתם SMS מחברת החשמל? תיזהרו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/14/FIX_yoav_Fishing_140926_1400_1789402076194_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
