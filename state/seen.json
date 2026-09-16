@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d23810eec5ba0a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5e9bd7f7d4ba0a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1690,6 +1691,24 @@
    "updated_ms": 1789466160000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-56e93f86c74a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIR_GAGA_150926/MASTER/SHIR_GAGA_150926/SHIR_GAGA_150926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5e9bd7f7d4ba0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 26,
+   "first_seen_ms": 1789582347253,
+   "image": "https://img.mako.co.il/2026/09/16/inbalkar160926m_1400_1789580605500_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789580611000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הפיצוי שביקשה קים קרדשיאן אחרי שנשדדה באיומי נשק: יורו אחד בלבד",
+   "type": "general",
+   "updated_ms": 1789580611000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-5e9bd7f7d4ba0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/inbalkar160926/MASTER/inbalkar160926m/inbalkar160926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-61768f1a0bf90a1027.htm": {
    "author": "סלבס",
@@ -6058,6 +6077,24 @@
    "updated_ms": 1789473147000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-4e67a807ed4a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIRA_LUSHES_150926/MASTER/SHIRA_LUSHES_150926_M/SHIRA_LUSHES_150926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תחרות יוצאת דופן נערכה במסלול מרוצים בניו המפשייר שבארה\"ב: הנהגים נדרשו לא רק להתחרות זה בזה על המסלול, אלא גם להשלים אתגר לא שגרתי לעלות עם המכונית על משאית נוסעת ולהצליח לחנות עליה. הראשון שהשלים את המשימה הוכתר כמנצח.",
+   "duration_s": 64,
+   "first_seen_ms": 1789582347253,
+   "image": "https://img.mako.co.il/2026/09/16/inbalme160926m_1400_1789578434401_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789578440000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "המרוץ הכי מטורף שתראו: המכונית שתצליח לחנות על המשאית - מנצחת",
+   "type": "general",
+   "updated_ms": 1789578440000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/inbalme160926/MASTER/inbalme160926m/inbalme160926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-706a3d59abe90a1026.htm": {
    "author": "מהעולם",
