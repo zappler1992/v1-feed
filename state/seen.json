@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6da2b3177b8a0a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2550,6 +2551,24 @@
    "updated_ms": 1789393577000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-697c0904720a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/V1_TomHolland_6080_14092026014455/V1_TomHolland_6080_14092026014455_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "לאחר תשע שנות נישואים: הכוכבת ההליוודית אמנדה סייפריד ובעלה תומאס סדוסקי נפרדים",
+   "duration_s": 13,
+   "first_seen_ms": 1789540047185,
+   "image": "https://img.mako.co.il/2026/09/16/V1_AMANDA_6135_16092026061510_1400_1789539379977_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789539386000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "לאחר תשע שנות נישואים: הכוכבת ההליוודית אמנדה סייפריד ובעלה תומאס סדוסקי נפרדים",
+   "type": "mivzakim",
+   "updated_ms": 1789539386000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_AMANDA_6135_16092026061510/V1_AMANDA_6135_16092026061510_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-89f5c74228f90a1026.htm": {
    "author": "מבזקי סלבס",
@@ -5946,6 +5965,24 @@
    "type": "general",
    "updated_ms": 1789291200000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "\"הראפר מאקלמור יצא נגד ישראל על הבמה וסולק\": הסערה סביב סיבוב ההופעות של אד שירן פותחת את מהדורות החדשות בארה\"ב.",
+   "duration_s": 37,
+   "first_seen_ms": 1789540047185,
+   "image": "https://img.mako.co.il/2026/09/16/yoav_ed_sheeran_160926_1400_1789537607259_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789538640000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "כולם מדברים על מאקלמור: הסערה שפותחת את המהדורות",
+   "type": "general",
+   "updated_ms": 1789538640000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/yoav_ed_sheeran_160926/MASTER/yoav_ed_sheeran_160926/yoav_ed_sheeran_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8b4d3d59abe90a1026.htm": {
    "author": "מהעולם",
