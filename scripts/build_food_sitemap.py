@@ -445,7 +445,10 @@ def cmd_build(args):
 
     files, changed = [], []
     for name, _label in BUCKETS:
-        entries = sorted(buckets.get(name, []), key=lambda e: (e["lastmod"] or ""), reverse=True)[:MAX_URLS_PER_FILE]
+        # newest first, then by url: a deterministic order keeps daily diffs to real changes
+        entries = sorted(buckets.get(name, []), key=lambda e: e["loc"])
+        entries.sort(key=lambda e: e["lastmod"] or "", reverse=True)
+        entries = entries[:MAX_URLS_PER_FILE]
         newest = max((e["lastmod"] for e in entries if e["lastmod"]), default=None)
         files.append((name, newest))
         if write_if_changed(OUT_DIR / f"{name}.xml", urlset_xml(entries)):
