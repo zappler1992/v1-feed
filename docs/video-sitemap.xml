@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/16/V1_houthis_6156_16092026024701_1400_1789570158000_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;מוות לישראל, מוות ליהודים&quot;: החות&#x27;ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב</video:title>
+<video:description>&quot;מוות לישראל, מוות ליהודים&quot;: החות&#x27;ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_houthis_6156_16092026024701/V1_houthis_6156_16092026024701_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>49</video:duration>
+<video:publication_date>2026-09-16T14:49:24+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-0297a16790c80a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/10/Amit_EREZ_60_1400_1789057062368_FirstFrame.jpg</video:thumbnail_loc>
@@ -383,6 +399,7 @@
 <video:live>no</video:live>
 <video:uploader>טכנולוגיה</video:uploader>
 <video:tag>טכנולוגיה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -399,6 +416,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -465,6 +483,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -578,6 +597,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>

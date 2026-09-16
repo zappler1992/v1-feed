@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-0297a16790c80a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2753,7 +2753,8 @@
    "importance": 1,
    "published_ms": 1789549061000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "פאדיחת המטבח של רותם סלע: ניסתה להכין בורקס מדפי אורז - וזה מה שיצא",
    "type": "mivzakim",
@@ -13327,7 +13328,8 @@
    "importance": 2,
    "published_ms": 1789553964000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "120 אלף שקל - בשביל מים: ההודעה התמימה \"מהעירייה\" שהתבררה כעוקץ",
    "type": "news",
@@ -16605,6 +16607,24 @@
    "type": "mivzakim",
    "updated_ms": 1789469336000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4e9f92478a4a0a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מוות לישראל, מוות ליהודים\": החות'ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב",
+   "duration_s": 49,
+   "first_seen_ms": 1789570346606,
+   "image": "https://img.mako.co.il/2026/09/16/V1_houthis_6156_16092026024701_1400_1789570158000_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789570164000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מוות לישראל, מוות ליהודים\": החות'ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב",
+   "type": "mivzakim",
+   "updated_ms": 1789570164000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_houthis_6156_16092026024701/V1_houthis_6156_16092026024701_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-529b1b2e8e9a0a1026.htm": {
    "author": "מבזקים",
@@ -30321,7 +30341,8 @@
    "importance": 2,
    "published_ms": 1789556880000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "עוד ועוד חוקרי AI מתפטרים ומזהירים",
    "type": "general",
@@ -33579,7 +33600,8 @@
    "importance": 0,
    "published_ms": 1789556754000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תורי ענק: מאות אנשים הגיעו למתחם לה דפאנס שבצרפת כדי לרכוש את קלפי מהדורת ה- 30 של פוקימון",
    "type": "mivzakim",
