@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eca7539a4e8a0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-66e3bc2c6e8a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13265,6 +13265,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_thai/MASTER/alice_150926_thai/alice_150926_thai_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-66e3bc2c6e8a0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 90,
+   "first_seen_ms": 1789542446844,
+   "image": "https://img.mako.co.il/2026/09/16/yoav_yuna_160926_1400_1789540583184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789540592000,
+   "sections": [
+    "הפרשנים"
+   ],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1789540592000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-66e3bc2c6e8a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/yoav_yuna_160926/MASTER/yoav_yuna_160926/yoav_yuna_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-67dd155006e90a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -16420,7 +16438,8 @@
    "importance": 1,
    "published_ms": 1789527872000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "יורדים ממסוק ישר לגג המבנה: לוחמי השייטת בפעולה לילית באזור דרום הר חברון | תיעוד",
    "type": "mivzakim",
