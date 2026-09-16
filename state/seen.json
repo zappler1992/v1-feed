@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ace28345c8aa0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2100bd6849aa0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1e3df154a7aa0a1027.htm"
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-0297a16790c80a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -636,6 +634,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m08_w06/shorts-a0e529e7f6150a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/30/Amit_GILAD_60/MASTER/Amit_GILAD2_60_M/Amit_GILAD2_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-0297a16790c80a1027.htm": {
+   "author": "60 שניות",
+   "date_source": "json-publishDate",
+   "description": "המוזיקאית נגה ארז הגיעה לראיון ב-60 שניות עם ליאל אלי: האם היה פחד רגע לפני שעלתה לבמת הקאוצ'לה? מה באמת קרה סביב ההתבטאות שלה ב-BDS ואיך משלבים בין זוגיות ועבודה?",
+   "duration_s": 78,
+   "first_seen_ms": 1789570046564,
+   "image": "https://img.mako.co.il/2026/09/10/Amit_EREZ_60_1400_1789057062368_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789569540000,
+   "sections": [
+    "60 שניות"
+   ],
+   "title": "60 שניות עם נגה ארז",
+   "type": "general",
+   "updated_ms": 1789569540000,
+   "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-0297a16790c80a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/10/Amit_EREZ_60/MASTER/Amit_EREZ_60/Amit_EREZ_60_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w02/shorts-2728dd7896570a1027.htm": {
    "author": "60 שניות",
