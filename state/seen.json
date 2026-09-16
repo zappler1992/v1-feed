@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2dd06665909a0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13265,6 +13265,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_thai/MASTER/alice_150926_thai/alice_150926_thai_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תמונות חדשות חושפות לראשונה את היקף הנזק שנגרם לבסיסים אמריקאיים במזרח התיכון בעקבות מתקפות הטילים והכטב״מים מאיראן.",
+   "duration_s": 37,
+   "first_seen_ms": 1789543346952,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_BASE_160926_1400_1789542856862_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789542863000,
+   "sections": [],
+   "title": "תמונות חדשות חושפות: הנזק העצום לבסיסים האמריקאיים לאחר השיגורים מאיראן",
+   "type": "news",
+   "updated_ms": 1789542900000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_BASE_160926/MASTER/SHIR_BASE_160926/SHIR_BASE_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-66e3bc2c6e8a0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -16676,7 +16692,8 @@
    "importance": 2,
    "published_ms": 1789529974000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות אמריקה"
    ],
    "title": "שלושה בני אדם נהרגו בהתרסקות מסוק שידור של ערוץ KNBC בשעה שצילם תאונת דרכים בלוס אנג'לס",
    "type": "mivzakim",
@@ -17389,14 +17406,14 @@
    "duration_s": 17,
    "first_seen_ms": 1789540646844,
    "image": "https://img.mako.co.il/2026/09/16/V1_TURKIA_6136_16092026063421_1400_1789540533360_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1789540539000,
    "sections": [
     "מבזקים"
    ],
    "title": "ניצלו ברגע האחרון: המכונית דהרה ישר לתוך השולחנות בבית קפה בטורקיה",
    "type": "mivzakim",
-   "updated_ms": 1789540620000,
+   "updated_ms": 1789543140000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eca7539a4e8a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_TURKIA_6136_16092026063421/V1_TURKIA_6136_16092026063421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
