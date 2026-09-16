@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-5713d661619a0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1bef052c229a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2554,11 +2555,11 @@
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
-   "description": "לאחר תשע שנות נישואים: הכוכבת ההליוודית אמנדה סייפריד ובעלה תומאס סדוסקי נפרדים",
+   "description": "לאחר תשע שנות נישואים: הכוכבת ההוליוודית אמנדה סייפריד ובעלה תומאס סדוסקי נפרדים",
    "duration_s": 13,
    "first_seen_ms": 1789540047185,
    "image": "https://img.mako.co.il/2026/09/16/V1_AMANDA_6135_16092026061510_1400_1789539379977_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1789539386000,
    "sections": [
     "סלבס"
@@ -13246,6 +13247,22 @@
    "updated_ms": 1789453860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-53c7fd194b3a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIR_SENAT_150926_FIX/SHIR_SENAT_150926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-5713d661619a0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1789544546860,
+   "image": "https://img.mako.co.il/2026/09/16/FIX_SHIRA_FISH_160926_M_1400_1789543974787_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789543784000,
+   "sections": [],
+   "title": "\"צרחה את נשמתה\": בת 10 ננשכה על ידי דג טורף באילת",
+   "type": "news",
+   "updated_ms": 1789543784000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-5713d661619a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/FIX_SHIRA_FISH_160926_M/FIX_SHIRA_FISH_160926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm": {
    "author": "חדשות",
@@ -32697,6 +32714,24 @@
    "type": "mivzakim",
    "updated_ms": 1789378800000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1b264b0c63f90a1026.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1bef052c229a0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "האוטו נתקע בגדר ונכנס לתוך הבריכה הביתית בטקסס- מטר מהילדים שמבלים בה",
+   "duration_s": 17,
+   "first_seen_ms": 1789544546860,
+   "image": "https://img.mako.co.il/2026/09/16/V1_CARP_6137_16092026073711_1400_1789544312227_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789544318000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "האוטו נתקע בגדר ונכנס לתוך הבריכה הביתית בטקסס- מטר מהילדים שמבלים בה",
+   "type": "mivzakim",
+   "updated_ms": 1789544318000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1bef052c229a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_CARP_6137_16092026073711/V1_CARP_6137_16092026073711_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1ced0d647f5a0a1026.htm": {
    "author": "מבזקים מהעולם",
