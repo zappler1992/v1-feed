@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-529b1b2e8e9a0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16657,6 +16657,24 @@
    "updated_ms": 1789404004000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-749da98b4c0a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בפעילות ימ\"ר בתי הסוהר בשיתוף משטרת ישראל ביער להב אותרו שישה מרעומים וציוד צבאי החשוד כגנוב מצה\"ל",
+   "duration_s": 9,
+   "first_seen_ms": 1789558947540,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15711_16092026113553_1400_1789558655605_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789558662000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בפעילות ימ\"ר בתי הסוהר בשיתוף משטרת ישראל ביער להב אותרו שישה מרעומים וציוד צבאי החשוד כגנוב מצה\"ל",
+   "type": "mivzakim",
+   "updated_ms": 1789558662000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15711_16092026113553/M_NEWS_15711_16092026113553_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-78e51a35653a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -30230,7 +30248,8 @@
    "importance": 2,
    "published_ms": 1789540680000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "\"מרגישים השתלטות\": הזעם בתאילנד על הישראלים",
    "type": "general",
