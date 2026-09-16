@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-01c35f3989ba0a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17828,7 +17828,8 @@
    "importance": 2,
    "published_ms": 1789579269000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "זו הדרך שהחליטו בצה\"ל להתייחס לסרט נז\"א",
    "type": "mivzakim",
@@ -28452,6 +28453,22 @@
    "updated_ms": 1789476180000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6ae6fa7f670a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/DANIEL_MEIRAV_140926/MASTER/DANIEL_MEIRAV_140926/DANIEL_MEIRAV_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מVינים בחירות: הסרטון שהליכוד ממש לא רוצה שתראו - ואיך שוב, זה קשור למועמד שמאיים על נתניהו בבחירות?",
+   "duration_s": 90,
+   "first_seen_ms": 1789587447047,
+   "image": "https://img.mako.co.il/2026/09/16/dor_trik_160926_1400_1789586016197_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789587240000,
+   "sections": [],
+   "title": "הסרטון שהליכוד ממש לא רוצה שתראו",
+   "type": "general",
+   "updated_ms": 1789587240000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/dor_trik_160926/MASTER/dor_trik_160926/dor_trik_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
