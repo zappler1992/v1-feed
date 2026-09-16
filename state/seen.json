@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-19aa3246e0ba0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-abc157a813ba0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1845,7 +1845,8 @@
    "importance": 2,
    "published_ms": 1789567484000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי שאחותו שירה תמכה ביוצרים: אביב גפן בפוסט נגד הסרט נז\"א",
    "type": "general",
@@ -7675,7 +7676,8 @@
    "importance": 1,
    "published_ms": 1789570680000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 37: רותי או כלום",
    "type": "series",
@@ -13364,7 +13366,8 @@
    "importance": 2,
    "published_ms": 1789567846000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הישראלי שנכלא בעיראק 11 שנה - חוזר הביתה",
    "type": "news",
@@ -17721,6 +17724,24 @@
    "updated_ms": 1789533009000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab7de6b6478a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_NBC_ENCOR_6131_16092026042837/V1_NBC_ENCOR_6131_16092026042837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-abc157a813ba0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זו הדרך שהחליטו בצה\"ל להתייחס לסרט נאזא",
+   "duration_s": 63,
+   "first_seen_ms": 1789579648165,
+   "image": "https://img.mako.co.il/2026/09/16/V1_naza_6159_16092026051924_1400_1789579259750_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789579269000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זו הדרך שהחליטו בצה\"ל להתייחס לסרט נאזא",
+   "type": "mivzakim",
+   "updated_ms": 1789579269000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-abc157a813ba0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_naza_6159_16092026051924/V1_naza_6159_16092026051924_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ace28345c8aa0a1026.htm": {
    "author": "מבזקים",
@@ -33724,7 +33745,8 @@
    "importance": 2,
    "published_ms": 1789567778000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו במשלוח הלא שגרתי בשנגחאי",
    "type": "mivzakim",
@@ -33761,7 +33783,8 @@
    "importance": 0,
    "published_ms": 1789565820000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "השמיים נצבעו בשחור: שריפה ענקית פרצה במחסן לוגיסטי באינדונזיה",
    "type": "mivzakim",
@@ -34010,7 +34033,8 @@
    "importance": 0,
    "published_ms": 1789560725000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד יוצא דופן: חולדה תועדה קופצת ממרפסת של בניין",
    "type": "mivzakim",
