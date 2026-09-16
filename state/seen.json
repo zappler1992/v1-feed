@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-6b5c2f798d8a0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-af44b3177b8a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13343,7 +13342,8 @@
    "importance": 1,
    "published_ms": 1789504327000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "פרארי ב־3.5 מיליון שקל ומרצדס ב־850 אלף עלו באש בנתניה",
    "type": "news",
@@ -13374,6 +13374,24 @@
    "type": "news",
    "updated_ms": 1789415820000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ad43a94fd61a0a1027.htm"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-af44b3177b8a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1789540347488,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_100_160926_1400_1789537719135_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789537729000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "שמע שהוא עלול להישלח ל-100 שנות מאסר - והתמוטט",
+   "type": "news",
+   "updated_ms": 1789537740000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-af44b3177b8a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_100_160926/MASTER/SHIR_100_160926/SHIR_100_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bbe425a6aa5a0a1027.htm": {
    "author": "חדשות",
