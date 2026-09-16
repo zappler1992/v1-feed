@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w03/shorts-d8198cba110a0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-68f935986baa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-372b6caeddaa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16428,6 +16427,24 @@
    "updated_ms": 1789454383000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3407279b1c3a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-372b6caeddaa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 80 נפצע אנוש בתאונת דרכים ברחוב מבוא בחיפה",
+   "duration_s": 9,
+   "first_seen_ms": 1789573346631,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15727_16092026033812_1400_1789573168253_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789573178000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 80 נפצע אנוש בתאונת דרכים ברחוב מבוא בחיפה",
+   "type": "mivzakim",
+   "updated_ms": 1789573178000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-372b6caeddaa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15727_16092026033812/M_NEWS_15727_16092026033812_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-38364c314eb90a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -16633,7 +16650,7 @@
    "description": "\"מוות לישראל, מוות ליהודים\": החות'ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב",
    "duration_s": 57,
    "first_seen_ms": 1789570346606,
-   "image": "https://img.mako.co.il/2026/09/16/biata_houthis_160926_fix_1400_1789572706435_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/16/biata_houthis_mivfix2_1400_1789573006109_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1789570164000,
    "sections": [
@@ -16641,9 +16658,9 @@
    ],
    "title": "\"מוות לישראל, מוות ליהודים\": החות'ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב",
    "type": "mivzakim",
-   "updated_ms": 1789572720000,
+   "updated_ms": 1789572960000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/biata_houthis_160926_fix/biata_houthis_160926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/biata_houthis_mivfix2/biata_houthis_mivfix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-529b1b2e8e9a0a1026.htm": {
    "author": "מבזקים",
