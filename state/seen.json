@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bec62f3f829a0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9efc1384d1aa0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e090ffa2b1aa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17137,6 +17138,24 @@
    "updated_ms": 1789298151000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e7c2b1577a90a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9efc1384d1aa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השריפה בביתר עילית: החובשים מיחידת כוח הצלה העניקו סיוע רפואי ל-4 נפגעים קל שסבלו מבעיות נשימה עקב ש",
+   "duration_s": 9,
+   "first_seen_ms": 1789561048159,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15717_16092026120953_1400_1789560676654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789560683000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השריפה בביתר עילית: החובשים מיחידת כוח הצלה העניקו סיוע רפואי ל-4 נפגעים קל שסבלו מבעיות נשימה עקב ש",
+   "type": "mivzakim",
+   "updated_ms": 1789560683000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9efc1384d1aa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15717_16092026120953/M_NEWS_15717_16092026120953_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a032593f8e2a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -27828,7 +27847,7 @@
    ],
    "title": "הבחירה של טום אביב - כמעט נגמרה באסון",
    "type": "general",
-   "updated_ms": 1789552680000,
+   "updated_ms": 1789560660000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/09/lior_majik_TOMAVIV_070926_FIX/lior_majik_TOMAVIV_070926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -33508,6 +33527,24 @@
    "type": "mivzakim",
    "updated_ms": 1789320533000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-dbfd3d528cb90a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e090ffa2b1aa0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד יוצא דופן: חולדה תועדה קופצת ממרפסת של בניין",
+   "duration_s": 6,
+   "first_seen_ms": 1789561048159,
+   "image": "https://img.mako.co.il/2026/09/16/V1_RAT_6147_16092026121040_1400_1789560719063_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789560725000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד יוצא דופן: חולדה תועדה קופצת ממרפסת של בניין",
+   "type": "mivzakim",
+   "updated_ms": 1789560725000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e090ffa2b1aa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_RAT_6147_16092026121040/V1_RAT_6147_16092026121040_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-e0f85c18255a0a1026.htm": {
    "author": "מבזקים מהעולם",
