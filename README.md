@@ -1,6 +1,6 @@
 # v1-feed
 
-**קבצים חיים:** [feed.xml](https://zappler1992.github.io/v1-feed/feed.xml) · [news-sitemap.xml](https://zappler1992.github.io/v1-feed/news-sitemap.xml) · [video-sitemap.xml](https://zappler1992.github.io/v1-feed/video-sitemap.xml) · [sitemap.xml](https://zappler1992.github.io/v1-feed/sitemap.xml) · [mako/feed.xml](https://zappler1992.github.io/v1-feed/mako/feed.xml) · [דף אינדקס](https://zappler1992.github.io/v1-feed/)
+**קבצים חיים:** [feed.xml](https://zappler1992.github.io/v1-feed/feed.xml) · [news-sitemap.xml](https://zappler1992.github.io/v1-feed/news-sitemap.xml) · [video-sitemap.xml](https://zappler1992.github.io/v1-feed/video-sitemap.xml) · [sitemap.xml](https://zappler1992.github.io/v1-feed/sitemap.xml) · [mako/feed.xml](https://zappler1992.github.io/v1-feed/mako/feed.xml) · [mako/food/sitemap-index.xml](https://zappler1992.github.io/v1-feed/mako/food/sitemap-index.xml) · [דף אינדקס](https://zappler1992.github.io/v1-feed/)
 
 מאזין כל 5 דקות ל‑`https://www.mako.co.il/v1/?platform=mobileApp`, מזהה דפים חדשים ב‑`www.v-1.co.il`,
 ומפרסם דרך GitHub Pages:
@@ -62,6 +62,42 @@
 - **Search Console**: מפת הניוז יושבת על `github.io` אבל מצביעה על `v-1.co.il`. גוגל מקבלת cross‑domain sitemap רק אם שני ה‑hosts מאומתים באותו חשבון Search Console (מאמתים גם את ה‑property של `<user>.github.io`), או אם מוסיפים שורת `Sitemap: https://<user>.github.io/v1-feed/news-sitemap.xml` ל‑`robots.txt` של `v-1.co.il`.
 - **מפת וידאו**: להגיש גם את `video-sitemap.xml` ב‑Search Console (אותו נכס).
 - **WebSub**: לא דורש הגדרה בצד גוגל. הפינג נשלח אוטומטית.
+
+## מפת אתר XML למאקו אוכל
+
+**אינדקס:** [mako/food/sitemap-index.xml](https://zappler1992.github.io/v1-feed/mako/food/sitemap-index.xml) · [דף סטטוס](https://zappler1992.github.io/v1-feed/mako/food/) · `docs/mako/food/report.json`
+
+מפת אתר נושאית לכל עמודי `/food-*` ב‑mako.co.il, נבנית מהמפה הכללית של מאקו ומנוקה בסריקה של כל כתובת
+(`scripts/build_food_sitemap.py`). נכנסות רק כתובות שענו 200, קנוניות לעצמן וללא `noindex`; כתובות שחסומות
+ב‑`robots.txt` של מאקו, 404, הפניות וכפילויות של אותו מתכון בכמה נתיבים מושמטות (הפירוט ב‑`report.json`).
+בנוסף נסרקים יעדי canonical/redirect שהמפה של מאקו לא מכילה. לכל כתובת `lastmod` מה‑CMS של מאקו
+ו‑`image:image` עם תמונת ה‑og של המתכון/הכתבה. בלי `priority`/`changefreq`.
+
+| קובץ | תוכן |
+|---|---|
+| `hubs.xml` | עמודי קטגוריה וערוצים |
+| `recipes-baking.xml` | מתכונים: עוגות, קינוחים, לחמים, מאפים |
+| `recipes-savory.xml` | מתכונים: בשר, עוף, דגים, פסטה, מרקים, סלטים, ארוחות |
+| `recipes-healthy.xml` | מתכונים: בריא, צמחוני, טבעוני, ללא גלוטן |
+| `recipes-holidays.xml` | מתכונים: חגים |
+| `recipes-tv.xml` | מתכונים: מאסטר שף, בייק אוף, מבשלים עם קשת |
+| `recipes-general.xml` | מתכונים: אירוח, מיוחדים, מהירים, משקאות, מגזין |
+| `articles-restaurants.xml` | כתבות: מסעדות, אוכל רחוב, גורמה |
+| `articles-holidays.xml` | כתבות: חגים |
+| `articles-tv.xml` | כתבות: תוכניות הבישול |
+| `articles-magazine.xml` | כתבות: מגזין, צרכנות, תזונה, טיפים |
+
+**ריצה:** פעם ביום מהמחשב המקומי דרך Windows Task Scheduler (משימה `mako-food-sitemap`, 05:30, רצה בהזדמנות הראשונה אם המחשב היה כבוי):
+`pythonw.exe run_food_sitemap.py` → סריקה מלאה (~25 דקות, כ‑24 אלף כתובות) → commit+push של `docs/mako/food` אם השתנה. הלוג ב‑`logs/food/run.log`,
+מטמון הסריקה ב‑`logs/food/crawl.jsonl` (לא בגיט; תוצאות צעירות מ‑20 שעות משמשות שוב, כך שריצה חוזרת באותו יום מהירה).
+
+```bash
+FEED_BASE_URL=https://zappler1992.github.io/v1-feed python scripts/build_food_sitemap.py build
+```
+
+**הגשה לגוגל:** כמו שאר המפות כאן, הקובץ יושב על `github.io` ומצביע על `mako.co.il`, ולכן ב‑Search Console מגישים אותו
+בנכס של `www.mako.co.il` רק אחרי ששני ה‑hosts מאומתים באותו חשבון, או שמוסיפים `Sitemap: https://zappler1992.github.io/v1-feed/mako/food/sitemap-index.xml`
+ל‑`robots.txt` של מאקו. כדאי להגיש גם כל תת‑מפה בנפרד כדי לקבל דוח כיסוי לכל נושא.
 
 ## הרצה מקומית
 
