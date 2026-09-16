@@ -97,14 +97,14 @@
     <image:image><image:loc>https://img.mako.co.il/2021/03/03/chocolate_cheese_cake3_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-86b348d2b013971026.htm</loc>
-    <lastmod>2026-05-14T17:34:41+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/05/03/baked_tall_cheese_cake_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-c8089d9148d3641006.htm</loc>
     <lastmod>2026-05-14T17:34:41+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2014/05/27/classic_cheesecake_idit_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-86b348d2b013971026.htm</loc>
+    <lastmod>2026-05-14T17:34:41+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/05/03/baked_tall_cheese_cake_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-d8134c2674be081027.htm</loc>
@@ -1437,14 +1437,14 @@
     <image:image><image:loc>https://img.mako.co.il/2020/01/26/GRECO_ZUKINI_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-ef79603f87a6271026.htm</loc>
-    <lastmod>2024-10-08T17:42:21+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/05/31/nisuaz_amir_menahem_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/rice_paper_recipes/Recipe-f3c00de88898d71026.htm</loc>
     <lastmod>2024-10-08T17:42:21+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2021/12/05/rice_burekas_pargit_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-ef79603f87a6271026.htm</loc>
+    <lastmod>2024-10-08T17:42:21+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2020/05/31/nisuaz_amir_menahem_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-a8387a6ad6b6641006.htm</loc>
@@ -2312,19 +2312,14 @@
     <image:image><image:loc>https://img.mako.co.il/2013/04/23/easy_apple_cake_oogionet_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-d008a9084d8a351006.htm</loc>
-    <lastmod>2024-05-01T12:06:22+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2013/04/03/pepper_220_danielyla_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-03fd83c2ce3d151006.htm</loc>
-    <lastmod>2024-05-01T12:06:22+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/12/16/strawbery_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/galilee-recipes/Recipe-a7a6dc578e26441006.htm</loc>
     <lastmod>2024-05-01T12:06:22+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2026/01/08/corn_pancake_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-3794e5dd6a8a541006.htm</loc>
+    <lastmod>2024-05-01T12:06:22+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2014/04/28/arozconleche_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/lowcost-recipes/Recipe-b30330927179b41006.htm</loc>
@@ -2332,9 +2327,19 @@
     <image:image><image:loc>https://img.mako.co.il/2015/02/18/brik_nimrod_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-3794e5dd6a8a541006.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-03fd83c2ce3d151006.htm</loc>
     <lastmod>2024-05-01T12:06:22+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2014/04/28/arozconleche_i.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2015/12/16/strawbery_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-d008a9084d8a351006.htm</loc>
+    <lastmod>2024-05-01T12:06:22+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2013/04/03/pepper_220_danielyla_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-1847dd036ab1441006.htm</loc>
+    <lastmod>2024-05-01T12:05:47+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2014/02/10/oatmeal_pancakes_idit_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-498136078dfb171026.htm</loc>
@@ -2347,19 +2352,14 @@
     <image:image><image:loc>https://img.mako.co.il/2013/03/28/iStock_000022915389Small_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-1847dd036ab1441006.htm</loc>
-    <lastmod>2024-05-01T12:05:47+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2014/02/10/oatmeal_pancakes_idit_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-8051604f4260b71027.htm</loc>
+    <lastmod>2024-05-01T12:04:31+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/08/02/shakshuka_ba_ken_ron_yo_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/Recipe-d9c6054d267c461006.htm</loc>
+    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-a1fdde73713b271026.htm</loc>
     <lastmod>2024-05-01T12:04:31+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2018/04/12/shutterstock_1028045101_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/the-yogurt-way/Recipe-82ede650844d551006.htm</loc>
-    <lastmod>2024-05-01T12:04:31+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2016/07/10/danona4988_i.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2020/06/14/MY_BEST_SHAKSHUKA_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-recipes-kids-will-love/Recipe-15e3da497187c51006.htm</loc>
@@ -2372,14 +2372,14 @@
     <image:image><image:loc>https://img.mako.co.il/2017/07/12/gygyugyui_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-a1fdde73713b271026.htm</loc>
+    <loc>https://www.mako.co.il/food-cooking_magazine/the-yogurt-way/Recipe-82ede650844d551006.htm</loc>
     <lastmod>2024-05-01T12:04:31+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/06/14/MY_BEST_SHAKSHUKA_i.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2016/07/10/danona4988_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-8051604f4260b71027.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/Recipe-d9c6054d267c461006.htm</loc>
     <lastmod>2024-05-01T12:04:31+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/08/02/shakshuka_ba_ken_ron_yo_re_autoOrient_w.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2018/04/12/shutterstock_1028045101_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-5644eb37e010f51006.htm</loc>
@@ -2392,11 +2392,6 @@
     <image:image><image:loc>https://img.mako.co.il/2014/03/04/iStock_000021056410Small_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-recipes-kids-will-love/Recipe-732ad9889578c51006.htm</loc>
-    <lastmod>2024-05-01T11:59:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2017/06/08/anat_lobel_fritata_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ishi-mekomi/Recipe-86cf26546db8f51006.htm</loc>
     <lastmod>2024-05-01T11:59:17+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2017/11/05/IMG_11_i.jpg</image:loc></image:image>
@@ -2405,6 +2400,11 @@
     <loc>https://www.mako.co.il/food-cooking_magazine/mazola-recipes/Recipe-f3a5e166db55051006.htm</loc>
     <lastmod>2024-05-01T11:59:17+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2015/10/11/sar_fritata_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-recipes-kids-will-love/Recipe-732ad9889578c51006.htm</loc>
+    <lastmod>2024-05-01T11:59:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2017/06/08/anat_lobel_fritata_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-1900b64f7221a81026.htm</loc>
@@ -2432,9 +2432,9 @@
     <image:image><image:loc>https://img.mako.co.il/2017/11/06/pancakes_amir2_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-d74dc2b7839e871026.htm</loc>
+    <loc>https://www.mako.co.il/food-cooking_magazine/kids-recipes/Recipe-b37e748741ca981027.htm</loc>
     <lastmod>2024-05-01T11:56:08+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/04/19/corn_pancake_autoOrient_w.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2023/07/31/Ginsburg_Asif_JULY23_29_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/the-yogurt-way/Recipe-0a244e973e0a551006.htm</loc>
@@ -2442,39 +2442,9 @@
     <image:image><image:loc>https://img.mako.co.il/2016/06/30/pancake-final_72_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/kids-recipes/Recipe-b37e748741ca981027.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-d74dc2b7839e871026.htm</loc>
     <lastmod>2024-05-01T11:56:08+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2023/07/31/Ginsburg_Asif_JULY23_29_re_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-2a46ba54e3f8371026.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/07/27/EGG_MUFFINS_RON_YO_MAKO_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-6b95ce2feff1041006.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2012/10/10/hovav_pancakes_c.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-5c970eec9f58a71027.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/07/11/jamie_olivers_omlette_re_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-b88e4856727f051006.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/11/15/italian_havita_assafronen_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/mazola-recipes/Recipe-33d74efb27f5f41006.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/08/24/omlette_sarit_mazola_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/galilee-recipes/Recipe-ff5dfa92a9c1c41006.htm</loc>
-    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/03/15/mush_omlete_i.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2021/04/19/corn_pancake_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/10_minute_recipes/Recipe-2f22440bd1c8981026.htm</loc>
@@ -2482,14 +2452,34 @@
     <image:image><image:loc>https://img.mako.co.il/2023/07/25/shluliot_gvina_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-ae8b6f494a29731006.htm</loc>
-    <lastmod>2024-05-01T11:51:07+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2010/10/14/-1897424421_1287063591408_436X327_C.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-cooking_magazine/galilee-recipes/Recipe-ff5dfa92a9c1c41006.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/03/15/mush_omlete_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-bd218457c7c9c71026.htm</loc>
-    <lastmod>2024-05-01T11:51:07+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2026/01/25/shutterstock_1893813709_autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-cooking_magazine/mazola-recipes/Recipe-33d74efb27f5f41006.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/08/24/omlette_sarit_mazola_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-2a46ba54e3f8371026.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2020/07/27/EGG_MUFFINS_RON_YO_MAKO_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-5c970eec9f58a71027.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/07/11/jamie_olivers_omlette_re_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-6b95ce2feff1041006.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2012/10/10/hovav_pancakes_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-b88e4856727f051006.htm</loc>
+    <lastmod>2024-05-01T11:54:17+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/11/15/italian_havita_assafronen_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/mayonnaise-recipes/Recipe-6e6963d96191051006.htm</loc>
@@ -2507,9 +2497,19 @@
     <image:image><image:loc>https://img.mako.co.il/2017/07/20/omelettortillaroll1_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-526335883682721004.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-bd218457c7c9c71026.htm</loc>
+    <lastmod>2024-05-01T11:51:07+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2026/01/25/shutterstock_1893813709_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-ae8b6f494a29731006.htm</loc>
+    <lastmod>2024-05-01T11:51:07+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2010/10/14/-1897424421_1287063591408_436X327_C.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-ba86384ae7acf71026.htm</loc>
     <lastmod>2024-05-01T11:50:01+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2011/07/06/jachnun_c.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2017/11/07/IMG_9992_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-9f9a2547947f371027.htm</loc>
@@ -2517,9 +2517,9 @@
     <image:image><image:loc>https://img.mako.co.il/2023/08/08/ronyo_torti2_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-ba86384ae7acf71026.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-526335883682721004.htm</loc>
     <lastmod>2024-05-01T11:50:01+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2017/11/07/IMG_9992_i.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2011/07/06/jachnun_c.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-3975a40ca1e9941006.htm</loc>
@@ -2542,24 +2542,24 @@
     <image:image><image:loc>https://img.mako.co.il/2024/04/10/HAVITA_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/mazola-recipes/Recipe-3995d4b6b7b3541006.htm</loc>
-    <lastmod>2024-04-11T15:08:40+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2014/04/07/cheesepie_passover_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/idit-narkis-katz/Recipe-83ce9be274a2a41006.htm</loc>
     <lastmod>2024-04-11T15:08:40+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2019/04/08/chocolate_pudding_cake2_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-38fe8f4b9728c31006.htm</loc>
-    <lastmod>2024-04-04T17:00:29+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2012/11/05/rizoto_3_dagan_c.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-cooking_magazine/mazola-recipes/Recipe-3995d4b6b7b3541006.htm</loc>
+    <lastmod>2024-04-11T15:08:40+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2014/04/07/cheesepie_passover_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/mayonnaise-recipes/Recipe-8a0612c0bed2941006.htm</loc>
     <lastmod>2024-04-04T17:00:29+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2014/10/27/ozafik_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-38fe8f4b9728c31006.htm</loc>
+    <lastmod>2024-04-04T17:00:29+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2012/11/05/rizoto_3_dagan_c.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/israeli-couscous-recipes/Recipe-c25f68564e18531006.htm</loc>
@@ -2572,19 +2572,24 @@
     <image:image><image:loc>https://img.mako.co.il/2017/02/02/afik_kzizot_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-e4bc68f4b69fe31006.htm</loc>
-    <lastmod>2024-04-04T16:43:01+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/03/24/shwarma_saida_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-e86d2dc0f61a741006.htm</loc>
     <lastmod>2024-04-04T16:43:01+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2020/04/30/chik432_i.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-e4bc68f4b69fe31006.htm</loc>
+    <lastmod>2024-04-04T16:43:01+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2020/03/24/shwarma_saida_i.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-8eb143d12d69681027.htm</loc>
     <lastmod>2024-04-04T16:41:36+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2023/02/28/rice_and_chicken_in_one_pot_re_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-b60f4d9275c9b41006.htm</loc>
+    <lastmod>2024-04-04T16:39:51+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/02/18/makluba_eggplant_nof1_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-9669f8f32701531006.htm</loc>
@@ -2595,11 +2600,6 @@
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-e3805ca07c87d31006.htm</loc>
     <lastmod>2024-04-04T16:39:51+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2013/03/17/pilaf_pargiot_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-b60f4d9275c9b41006.htm</loc>
-    <lastmod>2024-04-04T16:39:51+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/02/18/makluba_eggplant_nof1_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-dc42ea5ec148f61027.htm</loc>
@@ -3692,14 +3692,14 @@
     <image:image><image:loc>https://img.mako.co.il/2014/01/14/tubish_cake_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-95d5e008208a441006.htm</loc>
-    <lastmod>2022-10-12T13:48:32+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2024/04/03/smahot5_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-db6dd2c534f2b71027.htm</loc>
     <lastmod>2022-10-12T13:48:32+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2021/08/10/gozlame_oliver_n_optimized_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-95d5e008208a441006.htm</loc>
+    <lastmod>2022-10-12T13:48:32+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2024/04/03/smahot5_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-3b9bd04743e9381026.htm</loc>
@@ -3742,16 +3742,6 @@
     <image:image><image:loc>https://img.mako.co.il/2022/07/24/okra_salad_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-64ea1b17f1c3971027.htm</loc>
-    <lastmod>2022-07-19T09:17:00+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/05/05/taircoffeecake_re_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-8fb17c2e61e1671026.htm</loc>
-    <lastmod>2022-07-19T09:17:00+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/12/01/salmon_springroll2_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/french-recipes/Recipe-09cd619b0b27b41006.htm</loc>
     <lastmod>2022-07-19T09:17:00+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2015/02/10/84521651_i.jpg</image:loc></image:image>
@@ -3767,9 +3757,14 @@
     <image:image><image:loc>https://img.mako.co.il/2021/04/26/RON_YO_3INGRIDIENTSCOOKIES_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-542e0fa8989fe31006.htm</loc>
-    <lastmod>2022-07-19T09:15:43+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2020/04/23/chicken_sheuit_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-64ea1b17f1c3971027.htm</loc>
+    <lastmod>2022-07-19T09:17:00+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/05/05/taircoffeecake_re_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-8fb17c2e61e1671026.htm</loc>
+    <lastmod>2022-07-19T09:17:00+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2020/12/01/salmon_springroll2_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-0e30bcb8715a771027.htm</loc>
@@ -3777,14 +3772,9 @@
     <image:image><image:loc>https://img.mako.co.il/2021/02/15/ronyo_pereg_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-87e2eb9a04bf671027.htm</loc>
-    <lastmod>2022-07-19T09:13:57+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/01/13/berko_pizpancake_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-4ef4db0420e4b71027.htm</loc>
-    <lastmod>2022-07-19T09:13:57+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/08/16/PIZZA_SHIPUD_RON__autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-542e0fa8989fe31006.htm</loc>
+    <lastmod>2022-07-19T09:15:43+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2020/04/23/chicken_sheuit_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-aa57ba7d7ab9871026.htm</loc>
@@ -3792,14 +3782,24 @@
     <image:image><image:loc>https://img.mako.co.il/2021/04/04/spring_pasta_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-4ef4db0420e4b71027.htm</loc>
+    <lastmod>2022-07-19T09:13:57+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/08/16/PIZZA_SHIPUD_RON__autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-e982e3755118771027.htm</loc>
     <lastmod>2022-07-19T09:13:57+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2021/02/09/microwave_pizza_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-b01e045712a9a71026.htm</loc>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-87e2eb9a04bf671027.htm</loc>
+    <lastmod>2022-07-19T09:13:57+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/01/13/berko_pizpancake_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-858b5e82d20a181026.htm</loc>
     <lastmod>2022-07-19T09:12:44+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/07/12/CHIPS_KLIPOT_BERKOMADE_re_autoOrient_w.jpg</image:loc></image:image>
+    <image:image><image:loc>https://img.mako.co.il/2022/06/26/tuna_patties_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-16280c336611871027.htm</loc>
@@ -3812,19 +3812,24 @@
     <image:image><image:loc>https://img.mako.co.il/2021/10/25/corn_ribs_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-858b5e82d20a181026.htm</loc>
-    <lastmod>2022-07-19T09:12:44+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2022/06/26/tuna_patties_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/viral-recipes/Recipe-faca98f34b06081026.htm</loc>
     <lastmod>2022-07-19T09:12:44+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2022/04/25/sweet_malawah_pastry2_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-b01e045712a9a71026.htm</loc>
+    <lastmod>2022-07-19T09:12:44+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/07/12/CHIPS_KLIPOT_BERKOMADE_re_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-2105570b1729b71027.htm</loc>
     <lastmod>2022-07-19T09:11:45+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2021/08/29/green_bean_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-6ded82209020b71027.htm</loc>
+    <lastmod>2022-07-19T09:11:45+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2021/08/01/susumit_rotem_amir_menahem_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-2e126f7d18e7971026.htm</loc>
@@ -3837,19 +3842,9 @@
     <image:image><image:loc>https://img.mako.co.il/2021/01/18/ronyo_potatohoney_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-6ded82209020b71027.htm</loc>
-    <lastmod>2022-07-19T09:11:45+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2021/08/01/susumit_rotem_amir_menahem_re_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-873bfc0fe05c871026.htm</loc>
     <lastmod>2022-07-19T09:11:45+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2021/04/12/IMG_1141_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-e40adb13b19a341006.htm</loc>
-    <lastmod>2022-07-19T09:09:56+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/01/08/noodels_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-fee348e2521b931006.htm</loc>
@@ -3857,19 +3852,24 @@
     <image:image><image:loc>https://img.mako.co.il/2020/02/03/sesame_schnitzel_afik_i.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-e40adb13b19a341006.htm</loc>
+    <lastmod>2022-07-19T09:09:56+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/01/08/noodels_i.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/lurpak/Recipe-e54623d68383261006.htm</loc>
     <lastmod>2022-07-19T09:06:31+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2018/03/18/pizzaMakoamir_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-8d6cb63ef09c131006.htm</loc>
-    <lastmod>2022-07-19T09:06:00+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2018/07/25/trafels_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-b19a446e66c9631006.htm</loc>
     <lastmod>2022-07-19T09:06:00+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2012/04/10/oatmeal_chip_iStock_000012553104Small_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-8d6cb63ef09c131006.htm</loc>
+    <lastmod>2022-07-19T09:06:00+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2018/07/25/trafels_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/recipes_by_rotem_liberzon/Recipe-5b069ededcf0281026.htm</loc>
@@ -5467,19 +5467,14 @@
     <image:image><image:loc>https://img.mako.co.il/2020/06/30/LIMONANA_RON_YO2_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-46cb2e930d4dd61027.htm</loc>
-    <lastmod>2020-09-29T09:51:27+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2019/10/16/pretzel_sticks_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/ron_yohananov_recipes/Recipe-61b91bae9cfa471026.htm</loc>
     <lastmod>2020-09-29T09:51:27+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2020/09/21/IMG_0004_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-b4f075858572171027.htm</loc>
-    <lastmod>2020-09-29T09:51:03+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2025/07/21/chicken_arayas_misspetel_autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-special/Recipe-46cb2e930d4dd61027.htm</loc>
+    <lastmod>2020-09-29T09:51:27+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2019/10/16/pretzel_sticks_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-56177e607d56371027.htm</loc>
@@ -5490,6 +5485,11 @@
     <loc>https://www.mako.co.il/food-cooking_magazine/the-winning-recipe-my-winning-recipe/Recipe-f10aab8f99a8371027.htm</loc>
     <lastmod>2020-09-29T09:51:03+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2026/08/05/Mako10_autoOrient.12_autoOrient.1910611_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-30-minutes/Recipe-b4f075858572171027.htm</loc>
+    <lastmod>2020-09-29T09:51:03+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2025/07/21/chicken_arayas_misspetel_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-2e212ab53e96271026.htm</loc>
@@ -5527,14 +5527,14 @@
     <image:image><image:loc>https://img.mako.co.il/2020/09/10/stuffed_leek_nof_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/mayonnaise-recipes/Recipe-014351aa1a59e41006.htm</loc>
-    <lastmod>2020-09-10T09:51:57+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2015/07/16/NIM_350_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-082fb2fb5947c41006.htm</loc>
     <lastmod>2020-09-10T09:51:57+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2015/04/01/bakar_in_rice_anatoly_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-cooking_magazine/mayonnaise-recipes/Recipe-014351aa1a59e41006.htm</loc>
+    <lastmod>2020-09-10T09:51:57+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2015/07/16/NIM_350_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-78ca5c91d2dfe41006.htm</loc>
@@ -10785,14 +10785,14 @@
     <image:image><image:loc>https://img.mako.co.il/2011/09/20/shok_tale_c.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-a6d2165def38e11006.htm</loc>
-    <lastmod>2011-09-19T21:50:30+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2013/06/02/lemonim_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-9ec61f3e0422c11006.htm</loc>
     <lastmod>2011-09-19T21:50:30+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2008/08/31/bottle-new-label_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-a6d2165def38e11006.htm</loc>
+    <lastmod>2011-09-19T21:50:30+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2013/06/02/lemonim_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-898e98d2ca48e11006.htm</loc>
@@ -10805,6 +10805,11 @@
     <image:image><image:loc>https://img.mako.co.il/2007/12/14/91/sangaria_c.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-08ca45e3d648e11006.htm</loc>
+    <lastmod>2011-09-19T21:50:28+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2008/11/17/IMG_5057_c.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-6c2e45e3d648e11006.htm</loc>
     <lastmod>2011-09-19T21:50:28+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2022/10/13/lime_autoOrient_w.jpg</image:loc></image:image>
@@ -10815,19 +10820,14 @@
     <image:image><image:loc>https://img.mako.co.il/2008/03/13/11/shampania_pasiflora_c.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-08ca45e3d648e11006.htm</loc>
-    <lastmod>2011-09-19T21:50:28+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2008/11/17/IMG_5057_c.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-09f845e3d648e11006.htm</loc>
+    <lastmod>2011-09-19T21:50:27+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2008/01/30/41/mango_oded-karni_c.JPG</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-c9b245e3d648e11006.htm</loc>
     <lastmod>2011-09-19T21:50:27+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2009/06/29/iStock_000005789080XSmall_c.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-09f845e3d648e11006.htm</loc>
-    <lastmod>2011-09-19T21:50:27+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2008/01/30/41/mango_oded-karni_c.JPG</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-c517a063e4e2c11006.htm</loc>
@@ -11220,16 +11220,8 @@
     <image:image><image:loc>https://img.mako.co.il/2013/12/10/tea_brown_cup_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6d69d408ee89c41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2021/08/12/knor-pargit_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-66843b143d59071027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/03/01/20200210_120445_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-0d72950687ae541006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/11/24/tered_mangold_soup_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-cooking_magazine/flavors-moms-recipes/Recipe-fcac6a7689b4031006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2026/01/11/ODED0865_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-recipes/recipes_column-hospitality/Recipe-2868352cd4cf641006.htm</loc>
@@ -11240,228 +11232,184 @@
     <image:image><image:loc>https://img.mako.co.il/2012/12/02/bakse_sufgania_500kkl_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-ddd147d88d39861006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2026/04/29/shutterstock_1385894555_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-c974b3dc76dbf61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/01/19/IMG_7918_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-76cec3ea28fe441006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2018/07/19/musaka_knor_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-4b9e2ac27b52b41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/01/26/iStock_000023955552Medium_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-e0f95e67361ff31006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2013/07/18/solet_cake_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-cooking_magazine/flavors-moms-recipes/Recipe-fcac6a7689b4031006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2026/01/11/ODED0865_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-2396fcd0af82b31006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2012/11/22/ButterMilkBiscuit_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-f7a00bad22b9151006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/12/13/AFIKG_IMG_0077_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-429494f02c01d61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2023/07/25/ron_meatballs20190906_132526_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-fb16a022e631f11004.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2008/02/03/01/pizza-naknik_jupiter_c.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-808f234fe18a571027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/11/08/roast_eggplant_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-dde046c04cc5d61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/09/23/MAMTAK_HALAT_DVASH_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-76e6811c5a57f61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/01/05/lotusron1_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bd9954e30c0fc61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2024/06/02/ron_tiras20190901_000030_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-27cc6cff6f21541006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/03/30/iStock_pastrami_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-3502a51fc0b1a61006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/04/14/ronyo_pizza2_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6e95c0de9a72861006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/01/13/IMG_7149-600_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-cff10f7dfec6d61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/09/02/honey_cookies_mazola_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-5437288ee36fd41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2023/11/06/gaint_gnocchi_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-1f2ecfe191bdf41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/09/17/afik_antipasti_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-606cf0c093c8c31006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2013/01/30/DANP0501_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-d85bf70c5754b61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/06/11/ronyo_fudge_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-b5113a187f11f41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/08/09/AFIKG_kids_sirot_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-d0f9609e1721141006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2013/09/12/polentasalad_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-acd17fc709aae41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2024/02/26/chilli_chiken_breast_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-3a851f8e4210b41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2010/03/18/iStock_shnitsle_cornc.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-9b3892bd827c051006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2023/10/05/AFIKG_IMG_0137_paella_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-e1e4a43fd098c41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2025/05/04/meat_balls_shakshuka_afik_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bd7cfae0b015f61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/12/29/ferreroIMG_2513_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-e8ecfb776391c61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2024/02/22/shutterstock_1388277926_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-2a4940aac0e4e41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2021/07/13/afik_chikesoy_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-788487225e32c31006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2009/09/03/mafrum_c.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-3d50c9e1c683041006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2013/08/01/metuka_fingers_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-abfe3d18ef0a681027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2022/04/20/benedict_tered_autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-3dcca4cc6202931006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2012/06/11/thai_house_padtai_dan_peretz_c.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-ae3b76d9e7b4541006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/04/10/stuffed_onions_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-606cf0c093c8c31006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2013/01/30/DANP0501_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-66b8ec5ac147621004.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2010/01/17/texasc.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-4715927572d1051006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/09/30/afik_pashtida_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bb12167a0543d61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/09/15/20190914_204057_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-390057d4d22c941006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/11/18/tivoni_mushat_afik_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8fe764ef7f4fc41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/04/27/mako_ines_304_photo_afik_gabay_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-24206d9996f3741006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/07/16/tre427_i.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-6b2566b6d579a31006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2020/08/27/elii_geffen_mordoch_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-a4175038ff51441006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/03/29/iStock_chiliconcarne_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-494d557f8f3ac61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/08/18/PASHTIPIZZA20190817_111316_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-bf666a1cd483431006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2016/08/04/shikshukit_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-abe73d1f1178741006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2014/07/30/muff456_i.jpg</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-cf6565e1d3f5441006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2022/09/24/iStock_000013766970Small_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-741e8f1b4be3341006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2013/12/29/manot02_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-fe4b2a79f9c8a61027.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2017/04/04/kabab3_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-788487225e32c31006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2009/09/03/mafrum_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-b8534115c4eaa31006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2012/10/29/sandwich11_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-bf666a1cd483431006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2016/08/04/shikshukit_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-d0f9609e1721141006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2013/09/12/polentasalad_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-e0f95e67361ff31006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2013/07/18/solet_cake_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-f63c4df48ebf241006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2013/12/23/fahitas_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-a1ce623f65ac441006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2012/07/19/shokey_of_helmans_c.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-fb16a022e631f11004.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2008/02/03/01/pizza-naknik_jupiter_c.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8f5f5720d106b61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/06/16/shutterstock_289589615_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-0d72950687ae541006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/11/24/tered_mangold_soup_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-0f8208449c3e741006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/06/28/IMG_3300_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-1f2ecfe191bdf41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/09/17/afik_antipasti_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-24206d9996f3741006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/07/16/tre427_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-27cc6cff6f21541006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/03/30/iStock_pastrami_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-2a4940aac0e4e41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2021/07/13/afik_chikesoy_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-3502a51fc0b1a61006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/04/14/ronyo_pizza2_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-388f7e1a83e7f41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/08/30/AFIKG_corn_ines_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-390057d4d22c941006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/11/18/tivoni_mushat_afik_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-3a851f8e4210b41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2010/03/18/iStock_shnitsle_cornc.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-429494f02c01d61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2023/07/25/ron_meatballs20190906_132526_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-4715927572d1051006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/09/30/afik_pashtida_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-491473701c7d051006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2025/03/13/AFIKG_pasta_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-494d557f8f3ac61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/08/18/PASHTIPIZZA20190817_111316_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-4b9e2ac27b52b41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/01/26/iStock_000023955552Medium_i.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-4d8439a045f9051006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2015/10/25/AFIKG_eggplant_ines_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-3dcca4cc6202931006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2012/06/11/thai_house_padtai_dan_peretz_c.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-5437288ee36fd41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2023/11/06/gaint_gnocchi_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-547c41ef4cdbf61027.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2020/01/19/270c0746-325c-40b4-9648-402e219adcd2_i.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-5b9e0dece9fee61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/12/10/2a98406e-6194-44e5-92a4-64186a16328e_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6499f4113550a41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2025/01/06/general_tao_wings_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-66843b143d59071027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/03/01/20200210_120445_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6d69d408ee89c41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2021/08/12/knor-pargit_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6e95c0de9a72861006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/01/13/IMG_7149-600_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-76cec3ea28fe441006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2018/07/19/musaka_knor_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-76e6811c5a57f61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/01/05/lotusron1_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-808f234fe18a571027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/11/08/roast_eggplant_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8b2eaacd9a7c541006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2016/05/10/iStock_000015579886Small_i.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8d86f7effe38841006.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2012/01/04/IMG_4671_c.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8f5f5720d106b61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/06/16/shutterstock_289589615_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8fe764ef7f4fc41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/04/27/mako_ines_304_photo_afik_gabay_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-9b3892bd827c051006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2023/10/05/AFIKG_IMG_0137_paella_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-9f6ec7b32bd5e41006.htm</loc>
@@ -11472,31 +11420,83 @@
     <image:image><image:loc>https://img.mako.co.il/2019/04/29/shutterstock_406244161_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-restaurants/restaurant_recipes/Recipe-b8534115c4eaa31006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2012/10/29/sandwich11_c.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-a1ce623f65ac441006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2012/07/19/shokey_of_helmans_c.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-5b9e0dece9fee61026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2019/12/10/2a98406e-6194-44e5-92a4-64186a16328e_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-a4175038ff51441006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/03/29/iStock_chiliconcarne_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-491473701c7d051006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2025/03/13/AFIKG_pasta_autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-abe73d1f1178741006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/07/30/muff456_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-8b2eaacd9a7c541006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2016/05/10/iStock_000015579886Small_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-abfe3d18ef0a681027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2022/04/20/benedict_tered_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-0f8208449c3e741006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2020/06/28/IMG_3300_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-acd17fc709aae41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2024/02/26/chilli_chiken_breast_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-388f7e1a83e7f41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2015/08/30/AFIKG_corn_ines_i.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-ae3b76d9e7b4541006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/04/10/stuffed_onions_i.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-6499f4113550a41006.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2025/01/06/general_tao_wings_autoOrient_w.jpg</image:loc></image:image>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-b5113a187f11f41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/08/09/AFIKG_kids_sirot_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bb12167a0543d61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/09/15/20190914_204057_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bd7cfae0b015f61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/12/29/ferreroIMG_2513_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-bd9954e30c0fc61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2024/06/02/ron_tiras20190901_000030_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-c974b3dc76dbf61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2020/01/19/IMG_7918_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-cf6565e1d3f5441006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2022/09/24/iStock_000013766970Small_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-cff10f7dfec6d61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2014/09/02/honey_cookies_mazola_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-d85bf70c5754b61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/06/11/ronyo_fudge_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-ddd147d88d39861006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2026/04/29/shutterstock_1385894555_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-dde046c04cc5d61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2019/09/23/MAMTAK_HALAT_DVASH_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-e1e4a43fd098c41006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2025/05/04/meat_balls_shakshuka_afik_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-e8ecfb776391c61026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2024/02/22/shutterstock_1388277926_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-f7a00bad22b9151006.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2015/12/13/AFIKG_IMG_0077_i.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-tips_and_guides/Recipe-fe4b2a79f9c8a61027.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2017/04/04/kabab3_i.jpg</image:loc></image:image>
   </url>
 </urlset>

@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-27b7ebd9528a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a12d135db58a0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-18ec135db58a0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15605,6 +15606,24 @@
    "updated_ms": 1789362830000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-18de8d0554e90a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-18ec135db58a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תמונות מההרס בבסיסים האמריקאים במזרח התיכון מהתקיפות האיראניות",
+   "duration_s": 9,
+   "first_seen_ms": 1789532246206,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15678_16092026041208_1400_1789531999179_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789532005000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תמונות מההרס בבסיסים האמריקאים במזרח התיכון מהתקיפות האיראניות",
+   "type": "mivzakim",
+   "updated_ms": 1789532005000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-18ec135db58a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15678_16092026041208/M_NEWS_15678_16092026041208_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-191303850e990a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -16720,6 +16739,24 @@
    "type": "mivzakim",
    "updated_ms": 1789442422000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a114593f8e2a0a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a12d135db58a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רחפן של כוחות פרו סעודים תוקף חייל חות'י",
+   "duration_s": 22,
+   "first_seen_ms": 1789532246206,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15679_16092026041227_1400_1789532030708_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789532037000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רחפן של כוחות פרו סעודים תוקף חייל חות'י",
+   "type": "mivzakim",
+   "updated_ms": 1789532037000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a12d135db58a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15679_16092026041227/M_NEWS_15679_16092026041227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3ef9a2ad5b90a1027.htm": {
    "author": "מבזקים",

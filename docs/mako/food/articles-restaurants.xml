@@ -4187,14 +4187,14 @@
     <image:image><image:loc>https://img.mako.co.il/2023/04/17/PIZZAGREEK_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://www.mako.co.il/food-restaurants/street-food-critics/Article-2ca6ef95da98781026.htm</loc>
-    <lastmod>2023-04-17T08:49:42+03:00</lastmod>
-    <image:image><image:loc>https://img.mako.co.il/2023/04/16/bahnmi_nong_autoOrient_w.jpg</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant-news/Article-ec7cf70e81b8781026.htm</loc>
     <lastmod>2023-04-17T08:49:42+03:00</lastmod>
     <image:image><image:loc>https://img.mako.co.il/2023/04/16/zorba_asado_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.mako.co.il/food-restaurants/street-food-critics/Article-2ca6ef95da98781026.htm</loc>
+    <lastmod>2023-04-17T08:49:42+03:00</lastmod>
+    <image:image><image:loc>https://img.mako.co.il/2023/04/16/bahnmi_nong_autoOrient_w.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.mako.co.il/food-restaurants/restaurant-news/Article-4a3dfb0ad098781026.htm</loc>
@@ -15521,6 +15521,10 @@
     <lastmod>2010-03-03T14:21:18+02:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mako.co.il/food-restaurants/best-israels-best-restaurants/2022/Article-63a9d44d3506381026.htm</loc>
+    <image:image><image:loc>https://img.mako.co.il/2022/09/21/REST_OPENING_re_autoOrient_w.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.mako.co.il/food-restaurants/best/Article-6456d7d62da3381026.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2022/09/14/249A1333_autoOrient_w.jpg</image:loc></image:image>
   </url>
@@ -15531,9 +15535,5 @@
   <url>
     <loc>https://www.mako.co.il/food-restaurants/kosher_food/Article-edf15dce4373f91027.htm</loc>
     <image:image><image:loc>https://img.mako.co.il/2026/07/09/WWkosher26_re.png</image:loc></image:image>
-  </url>
-  <url>
-    <loc>https://www.mako.co.il/food-restaurants/best-israels-best-restaurants/2022/Article-63a9d44d3506381026.htm</loc>
-    <image:image><image:loc>https://img.mako.co.il/2022/09/21/REST_OPENING_re_autoOrient_w.jpg</image:loc></image:image>
   </url>
 </urlset>
