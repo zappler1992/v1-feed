@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-b8c1181958aa0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0f4b07f7c8aa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13278,6 +13278,24 @@
    "type": "news",
    "updated_ms": 1789462140000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0c567a75a34a0a1027.htm"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0f4b07f7c8aa0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1789568546578,
+   "image": "https://img.mako.co.il/2026/09/16/biata_iraq_160926_1400_1789567836770_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789567846000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "הישראלי שנכלא בעיראק 11 שנה - חוזר הביתה",
+   "type": "news",
+   "updated_ms": 1789567846000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0f4b07f7c8aa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/biata_iraq_160926/MASTER/biata_iraq_160926/biata_iraq_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1107d116fa9a0a1026.htm": {
    "author": "חדשות",
@@ -33460,16 +33478,16 @@
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-66b907f7c8aa0a1027.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
-   "description": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו למשלוח הלא שגרתי בשנגחאי",
+   "description": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו במשלוח הלא שגרתי בשנגחאי",
    "duration_s": 19,
    "first_seen_ms": 1789567946550,
    "image": "https://img.mako.co.il/2026/09/16/V1_karind_McDonalds_6154_16092026020813_1400_1789567771954_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1789567778000,
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו למשלוח הלא שגרתי בשנגחאי",
+   "title": "הזמנתם מקדונלד'ס? האוכל עשוי להגיע מהשמיים | צפו במשלוח הלא שגרתי בשנגחאי",
    "type": "mivzakim",
    "updated_ms": 1789567778000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-66b907f7c8aa0a1027.htm",
