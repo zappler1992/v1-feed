@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f30daacbbc9a0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/16/V1_ESTERINA_6143_16092026104314_1400_1789555476599_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בגיל 68, חברת הכנסת לשעבר מטעם ישראל ביתנו, אסתרינה טרטמן, הלכה לעולמה</video:title>
+<video:description>בגיל 68, חברת הכנסת לשעבר מטעם ישראל ביתנו, אסתרינה טרטמן, הלכה לעולמה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_ESTERINA_6143_16092026104314/V1_ESTERINA_6143_16092026104314_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-09-16T10:44:43+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-06890c3dfb9a0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/16/V1_FIREB_6141_16092026102536_1400_1789554416817_FirstFrame.jpg</video:thumbnail_loc>
@@ -14,6 +30,22 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1107d116fa9a0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/16/SHIR_OKETZ_160926_1400_1789553955675_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>120 אלף שקל - בשביל מים: ההודעה התמימה &quot;מהעירייה&quot; שהתבררה כעוקץ</video:title>
+<video:description>הכול נראה רשמי ומדויק - עד שהתברר שמדובר בעוקץ מתוחכם של 120 אלף שקל, רגע לפני העברה של מאות אלפים נוספים.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_OKETZ_160926/MASTER/SHIR_OKETZ_160926/SHIR_OKETZ_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>64</video:duration>
+<video:publication_date>2026-09-16T10:19:24+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -240,6 +272,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות אמריקה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -272,6 +305,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חופש וטיולים</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>טיולים</video:tag>
 <video:tag>חופש וטיולים</video:tag>
 </video:video>

@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-06890c3dfb9a0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f30daacbbc9a0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1107d116fa9a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13195,6 +13196,24 @@
    "updated_ms": 1789462140000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0c567a75a34a0a1027.htm"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1107d116fa9a0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הכול נראה רשמי ומדויק - עד שהתברר שמדובר בעוקץ מתוחכם של 120 אלף שקל, רגע לפני העברה של מאות אלפים נוספים.",
+   "duration_s": 64,
+   "first_seen_ms": 1789555647268,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_OKETZ_160926_1400_1789553955675_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789553964000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "120 אלף שקל - בשביל מים: ההודעה התמימה \"מהעירייה\" שהתבררה כעוקץ",
+   "type": "news",
+   "updated_ms": 1789553964000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1107d116fa9a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_OKETZ_160926/MASTER/SHIR_OKETZ_160926/SHIR_OKETZ_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-1bba70d8e54a0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -13373,7 +13392,8 @@
    "importance": 2,
    "published_ms": 1789542863000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "תמונות חדשות חושפות: הנזק העצום לבסיסים האמריקאיים לאחר השיגורים מאיראן",
    "type": "news",
@@ -17706,6 +17726,24 @@
    "type": "mivzakim",
    "updated_ms": 1789327250000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f2df07a8b2c90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f30daacbbc9a0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגיל 68, חברת הכנסת לשעבר מטעם ישראל ביתנו, אסתרינה טרטמן, הלכה לעולמה",
+   "duration_s": 9,
+   "first_seen_ms": 1789555647268,
+   "image": "https://img.mako.co.il/2026/09/16/V1_ESTERINA_6143_16092026104314_1400_1789555476599_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789555483000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגיל 68, חברת הכנסת לשעבר מטעם ישראל ביתנו, אסתרינה טרטמן, הלכה לעולמה",
+   "type": "mivzakim",
+   "updated_ms": 1789555483000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f30daacbbc9a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_ESTERINA_6143_16092026104314/V1_ESTERINA_6143_16092026104314_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3a268a9989a0a1026.htm": {
    "author": "מבזקים",
@@ -30158,7 +30196,9 @@
    "image": "https://img.mako.co.il/2026/09/16/SHIR_THAILAND_160926_1400_1789540672363_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789540680000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "\"מרגישים השתלטות\": הזעם בתאילנד על הישראלים",
    "type": "general",
    "updated_ms": 1789549920000,
