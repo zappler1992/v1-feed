@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5cfb0888349a0a1026.htm"
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b45a543f69a0a1026.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-9f5aa543f69a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13300,7 +13302,9 @@
    "image": "https://img.mako.co.il/2026/09/16/FIX_SHIRA_FISH_160926_M_1400_1789543974787_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789543784000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "\"צרחה את נשמתה\": בת 10 ננשכה על ידי דג טורף באילת",
    "type": "news",
    "updated_ms": 1789544640000,
@@ -15988,6 +15992,24 @@
    "type": "mivzakim",
    "updated_ms": 1789454904000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b30cdb7cc3a0a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b45a543f69a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אותר ללא רוח חיים: גבר כבן 39 לא התעורר הבוקר משנתו בחולון",
+   "duration_s": 9,
+   "first_seen_ms": 1789549947023,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15702_16092026090359_1400_1789549539498_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789549545000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אותר ללא רוח חיים: גבר כבן 39 לא התעורר הבוקר משנתו בחולון",
+   "type": "mivzakim",
+   "updated_ms": 1789549545000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b45a543f69a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15702_16092026090359/M_NEWS_15702_16092026090359_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b627790eef90a1027.htm": {
    "author": "מבזקים",
@@ -29784,6 +29806,24 @@
    "updated_ms": 1789479660000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-693b24a6525a0a1026.htm"
   },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-9f5aa543f69a0a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1789549947023,
+   "image": "https://img.mako.co.il/2026/09/16/yoav_spotify_160926_1400_1789549116617_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789549260000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "שירי הילדים השתלטו לכם על ספוטיפיי? זה הפתרון",
+   "type": "general",
+   "updated_ms": 1789549260000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-9f5aa543f69a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/yoav_spotify_160926/MASTER/yoav_spotify_160926/yoav_spotify_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ca13d13ffb990a1027.htm": {
    "author": "טכנולוגיה",
    "date_source": "json-publishDate",
@@ -30002,6 +30042,22 @@
    "updated_ms": 1788776040000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w02/shorts-a2f9418f95b70a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/07/SHIR_BUSINESS_070927/MASTER/SHIR_BUSINESS_070927/SHIR_BUSINESS_070927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "הכעס בתאילנד גובר: טענות על התנהלות של ישראלים, שלטים בעברית ושינויים בנדל״ן מעוררים ביקורת – לצד מסר ברור: רוצים את הישראלים, אבל מבקשים שיכבדו את המקום.",
+   "duration_s": 60,
+   "first_seen_ms": 1789549947023,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_THAILAND_160926_1400_1789540672363_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789540680000,
+   "sections": [],
+   "title": "\"מרגישים השתלטות\": הזעם בתאילנד על הישראלים",
+   "type": "general",
+   "updated_ms": 1789540680000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_THAILAND_160926/MASTER/SHIR_THAILAND_160926/SHIR_THAILAND_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-ed1fc1845ba90a1027.htm": {
    "author": "חופש וטיולים",
