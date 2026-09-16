@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm"
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-582bc41dbd9a0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99d17686ff9a0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-10307686ff9a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15748,6 +15750,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0a179763f99a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_GERMANYP_6140_16092026100529/V1_GERMANYP_6140_16092026100529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-10307686ff9a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אקדח גלוק מוסתר, מאות כדורי תחמושת וחומרים החשודים כסמים נתפסו בפעילויות של מג\"ב ושוטרי מחוז מרכז בק",
+   "duration_s": 31,
+   "first_seen_ms": 1789559247570,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15712_16092026114142_1400_1789558987286_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789558994000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אקדח גלוק מוסתר, מאות כדורי תחמושת וחומרים החשודים כסמים נתפסו בפעילויות של מג\"ב ושוטרי מחוז מרכז בק",
+   "type": "mivzakim",
+   "updated_ms": 1789558994000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-10307686ff9a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15712_16092026114142/M_NEWS_15712_16092026114142_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-10805f925d0a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17018,6 +17038,24 @@
    "type": "mivzakim",
    "updated_ms": 1789318876000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-96d7836da9b90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99d17686ff9a0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני ברק: בן שנה נפל באוטובוס כתוצאה מבלימה - מצבו בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1789559247570,
+   "image": "https://img.mako.co.il/2026/09/16/M_NEWS_15713_16092026114200_1400_1789559006463_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789559013000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני ברק: בן שנה נפל באוטובוס כתוצאה מבלימה - מצבו בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1789559013000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99d17686ff9a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15713_16092026114200/M_NEWS_15713_16092026114200_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9ab2a66c396a0a1026.htm": {
    "author": "מבזקים",
@@ -29988,6 +30026,22 @@
    "updated_ms": 1788894480000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w02/shorts-eed34a5b99180a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/SHIR_CHAT_080926/MASTER/SHIR_CHAT_080926_1/SHIR_CHAT_080926_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-582bc41dbd9a0a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "\"לבינה המלאכותית יש פוטנציאל להרוג את כולנו\": האזהרה החריגה של בילאל צ'וגטאי, חוקר לשעבר ב-Google DeepMind, שמצטרף לשורת חוקרים שמתפטרים ומזהירים מהמרוץ לפיתוח ה-AI.",
+   "duration_s": 45,
+   "first_seen_ms": 1789559247570,
+   "image": "https://img.mako.co.il/2026/09/16/yoav_AI_160926_1400_1789556272977_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789556880000,
+   "sections": [],
+   "title": "עוד ועוד חוקרי AI מתפטרים ומזהירים",
+   "type": "general",
+   "updated_ms": 1789556880000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-582bc41dbd9a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/yoav_AI_160926/MASTER/yoav_AI_160926/yoav_AI_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-693b24a6525a0a1026.htm": {
    "author": "טכנולוגיה",
