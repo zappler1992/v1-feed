@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-8bb98694469a0a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-84d52dbfeb2cf91027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10321,13 +10321,19 @@
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
    "description": "אהבה מעבר לפינה פרק 4: נתן מכין את הקרקע לקראת העזיבה שלו, ומגיע למועדון כדי לבקש מגולן בקשה מפתיעה - לשמור על המשפחה אם הוא כבר לא יהיה שם. במקביל, ליאור לא מצליח להשתחרר מהמחשבות על הצעת הנישואים המפתיעה של עדן, אבל דווקא המפגש עם אלונה גורם לו להתחיל להסתכל על הדברים אחרת.",
+   "duration_s": 139,
    "first_seen_ms": 1789462946409,
    "image": "https://img.mako.co.il/2026/08/26/LOVE_CORNER_FIXMAIN_EP04_1400_1787739461206_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1789461780000,
+   "sections": [
+    "אהבה מעבר לפינה"
+   ],
    "title": "אהבה מעבר לפינה פרק 4: עוזב הכל ובורח",
    "type": "series",
-   "updated_ms": 1789461780000,
-   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm"
+   "updated_ms": 1789462800000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/26/LOVE_CORNER_FIXMAIN_EP04/LOVE_CORNER_FIXMAIN_EP04_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-695e8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
@@ -10346,6 +10352,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-695e8d839c2cf91026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/12/LOVE_CORNER_EP03_FIX_M/LOVE_CORNER_EP03_FIX_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-84d52dbfeb2cf91027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 5: אלונה לא מצליחה להבין את ההתנהגות המוזרה של אביה, בזמן שדניאלה מגלה את המכתב שנתן השאיר לפני שעזב – ומבינה שמשהו לא בסדר. במקביל, ליאור מנסה לפייס את עדן ומתקשר אליה בתקווה לתקן את מה שנשבר ביניהם, אך היא מסרבת לענות. כשעדן מתחרטת ומחליטה לחזור אליו, היא מגלה שכבר פספסה את ההזדמנות.",
+   "duration_s": 98,
+   "first_seen_ms": 1789549047021,
+   "image": "https://img.mako.co.il/2026/08/26/LOVE_CORNER_FIXMAIN_EP05_1400_1787739558321_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789548780000,
+   "sections": [
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 5: מכתב פרידה",
+   "type": "series",
+   "updated_ms": 1789548780000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-84d52dbfeb2cf91027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/26/LOVE_CORNER_FIXMAIN_EP05/LOVE_CORNER_FIXMAIN_EP05_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-bff22dbfeb2cf91027.htm": {
    "author": "אהבה מעבר לפינה",
