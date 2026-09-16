@@ -1,0 +1,24 @@
+{
+  "built_at": "2026-09-16T04:02:54Z",
+  "source_urls": 40,
+  "included": 38,
+  "buckets": {
+    "hubs": 38,
+    "recipes-baking": 0,
+    "recipes-savory": 0,
+    "recipes-healthy": 0,
+    "recipes-holidays": 0,
+    "recipes-tv": 0,
+    "recipes-general": 0,
+    "articles-restaurants": 0,
+    "articles-holidays": 0,
+    "articles-tv": 0,
+    "articles-magazine": 0
+  },
+  "excluded": {
+    "canonical-elsewhere": 3,
+    "redirect": 5
+  },
+  "with_image": 38,
+  "with_lastmod": 33
+}
