@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b45a543f69a0a1026.htm",
-  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-9f5aa543f69a0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-340454b6859a0a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-fb38a543f69a0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1565,6 +1564,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-2dcf7fdba36a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Kevin_15092026/MASTER/Kim_Kevin_15092026/Kim_Kevin_15092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-340454b6859a0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "דרייק חוזר עם שיר חדש ובו מסר מפתיע לעזה: \"אנחנו מתפללים למען עזה\". זה מגיע אחרי שב-2023 כבר הביע תמיכה בעצומה הקוראת להפסקת אש.",
+   "duration_s": 12,
+   "first_seen_ms": 1789550247017,
+   "image": "https://img.mako.co.il/2026/09/16/SHIR_DRAKE_160926_1400_1789547903460_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789547909000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"pray for gaza\": המסר הפרו-פלסטיני בשיר החדש של דרייק",
+   "type": "general",
+   "updated_ms": 1789547940000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-340454b6859a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_DRAKE_160926/MASTER/SHIR_DRAKE_160926/SHIR_DRAKE_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-40d2a313204a0a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -2656,6 +2673,24 @@
    "updated_ms": 1789472915000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-ec3beeb93e4a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/V1_karind_baby_6116_15092026114715/V1_karind_baby_6116_15092026114715_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-fb38a543f69a0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "פאדיחת המטבח של רותם סלע: ניסתה להכין בורקס מדפי אורז - וזה מה שיצא",
+   "duration_s": 7,
+   "first_seen_ms": 1789550247017,
+   "image": "https://img.mako.co.il/2026/09/16/V1_ROTEMS_6139_16092026085621_1400_1789549055165_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789549061000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "פאדיחת המטבח של רותם סלע: ניסתה להכין בורקס מדפי אורז - וזה מה שיצא",
+   "type": "mivzakim",
+   "updated_ms": 1789549061000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-fb38a543f69a0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_ROTEMS_6139_16092026085621/V1_ROTEMS_6139_16092026085621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-fd9c61f1aee90a1027.htm": {
    "author": "מבזקי סלבס",
@@ -30046,7 +30081,7 @@
   "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm": {
    "author": "חופש וטיולים",
    "date_source": "json-publishDate",
-   "description": "הכעס בתאילנד גובר: טענות על התנהלות של ישראלים, שלטים בעברית ושינויים בנדל״ן מעוררים ביקורת – לצד מסר ברור: רוצים את הישראלים, אבל מבקשים שיכבדו את המקום.",
+   "description": "הכעס בתאילנד גובר: טענות על התנהלות של ישראלים, שלטים בעברית ושינויים בנדל״ן מעוררים ביקורת – לצד מסר ברור: רוצים את הישראלים, אבל מבקשים שיכבדו את המקום",
    "duration_s": 60,
    "first_seen_ms": 1789549947023,
    "image": "https://img.mako.co.il/2026/09/16/SHIR_THAILAND_160926_1400_1789540672363_FirstFrame.jpg",
@@ -30055,7 +30090,7 @@
    "sections": [],
    "title": "\"מרגישים השתלטות\": הזעם בתאילנד על הישראלים",
    "type": "general",
-   "updated_ms": 1789540680000,
+   "updated_ms": 1789549920000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-aad4bc2c6e8a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_THAILAND_160926/MASTER/SHIR_THAILAND_160926/SHIR_THAILAND_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
