@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0c4fe427d6fa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e559a3e9cffa0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d5d8f451bffa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19303,6 +19304,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d23810eec5ba0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_karind_hamas_6160_16092026055603/V1_karind_hamas_6160_16092026055603_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d5d8f451bffa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זיו ברמן קנה בתאילנד חולצה חדשה וזהה לזו שאיתה נחטף ב-7 באוקטובר, שהוכתמה בדם הכלבה של אמילי דמארי",
+   "duration_s": 9,
+   "first_seen_ms": 1789659147278,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15790_17092026032855_1400_1789659010775_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789659017000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זיו ברמן קנה בתאילנד חולצה חדשה וזהה לזו שאיתה נחטף ב-7 באוקטובר, שהוכתמה בדם הכלבה של אמילי דמארי",
+   "type": "mivzakim",
+   "updated_ms": 1789659017000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d5d8f451bffa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15790_17092026032855/M_NEWS_15790_17092026032855_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d615a4c605da0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -19419,6 +19438,24 @@
    "type": "mivzakim",
    "updated_ms": 1789366612000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e482370468e90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e559a3e9cffa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פרסום ראשון: אחרי יותר מ-20 שנה, המגיש אלי ראכלין פוטר בהתראה של יום מחדשות 13",
+   "duration_s": 9,
+   "first_seen_ms": 1789659147278,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15791_17092026032931_1400_1789659039010_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789659045000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פרסום ראשון: אחרי יותר מ-20 שנה, המגיש אלי ראכלין פוטר בהתראה של יום מחדשות 13",
+   "type": "mivzakim",
+   "updated_ms": 1789659045000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e559a3e9cffa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15791_17092026032931/M_NEWS_15791_17092026032931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e6424e656cf90a1027.htm": {
    "author": "מבזקים",
