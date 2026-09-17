@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bce021542aea0a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-40da655c0bea0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-47cd8f565fea0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-75f88f565fea0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17200,6 +17200,24 @@
    "updated_ms": 1789465502000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-47aaef97274a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-47cd8f565fea0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סוכלה הלילה חוליה החשודה בגניבת כלי רכב: בפעילות יזומה בצפון העיר תל אביב סמוך לרחוב אוסישקין נעצרו",
+   "duration_s": 9,
+   "first_seen_ms": 1789642046670,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15771_17092026104227_1400_1789641848942_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789641857000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סוכלה הלילה חוליה החשודה בגניבת כלי רכב: בפעילות יזומה בצפון העיר תל אביב סמוך לרחוב אוסישקין נעצרו",
+   "type": "mivzakim",
+   "updated_ms": 1789641857000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-47cd8f565fea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15771_17092026104227/M_NEWS_15771_17092026104227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-48dbfc438f0a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17653,6 +17671,24 @@
    "type": "mivzakim",
    "updated_ms": 1789404004000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-749da98b4c0a0a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-75f88f565fea0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרגדיה בקריית ים: ילד בן כשנתיים נפל מגובה של 4 קומות - ונהרג",
+   "duration_s": 9,
+   "first_seen_ms": 1789642046670,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15770_17092026104101_1400_1789641754336_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789641760000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרגדיה בקריית ים: ילד בן כשנתיים נפל מגובה של 4 קומות - ונהרג",
+   "type": "mivzakim",
+   "updated_ms": 1789641760000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-75f88f565fea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15770_17092026104101/M_NEWS_15770_17092026104101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm": {
    "author": "מבזקים",
