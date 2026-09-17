@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-ae168afea70b0a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-a89a670e9cfa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6401,6 +6401,22 @@
    "updated_ms": 1789584480000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-99f8abb1ddaa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/inbalmatos160926/MASTER/inbalmatos160926m/inbalmatos160926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-a89a670e9cfa0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "האופוזוציה בסין התחילה גל שמועות על כך שהנשיא עבר שבץ והתמוטט באמצע ועידה בהודו - משום שנשיא הודו עצר את דבריו באמצע. הדבר הופרך כשהסרטון שהופץ הציג את מה שקרה באמת: האוזניה המתרגמת של נשיא סין הפסיקה לעבוד, ולכן הנשיא ההודי הפסיק את דבריו, עד שהתקלה טופלה.",
+   "duration_s": 25,
+   "first_seen_ms": 1789671746567,
+   "image": "https://img.mako.co.il/2026/09/17/biata_china_170926_1400_1789655707680_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789655714000,
+   "sections": [],
+   "title": "השמועות על השבץ של נשיא סין - והאמת",
+   "type": "general",
+   "updated_ms": 1789655714000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-a89a670e9cfa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/biata_china_170926/MASTER/biata_china_170926/biata_china_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-b971eaf29eda0a1026.htm": {
    "author": "מהעולם",
@@ -13686,7 +13702,8 @@
    "importance": 2,
    "published_ms": 1789650074000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "מהעולם"
    ],
    "title": "הבעל התקין מצלמות כדי למצוא את הגנב - ונחרד ממעשי אשתו עם הכלב המשפחתי",
    "type": "news",
@@ -14191,7 +14208,9 @@
    "image": "https://img.mako.co.il/2026/09/17/yoav_HAGARI_170926_1400_1789667037812_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789667280000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "זו המפלגה שדניאל הגרי כמעט הצטרף אליה",
    "type": "news",
    "updated_ms": 1789667280000,
