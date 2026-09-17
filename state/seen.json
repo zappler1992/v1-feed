@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-6dd817662eea0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-834d1af011fa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-40e108b6f1fa0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-638108b6f1fa0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6d9aaa1902fa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17070,6 +17071,24 @@
    "updated_ms": 1789444699000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3eff94a7023a0a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-40e108b6f1fa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בתאונת דרכים בין אוטובוס לרכב בכביש 20 סמוך למחלף קק\"ל נפגע גבר כבן 70 בצורה אנושה",
+   "duration_s": 9,
+   "first_seen_ms": 1789645046802,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15778_17092026113324_1400_1789644886455_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789644892000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בתאונת דרכים בין אוטובוס לרכב בכביש 20 סמוך למחלף קק\"ל נפגע גבר כבן 70 בצורה אנושה",
+   "type": "mivzakim",
+   "updated_ms": 1789644892000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-40e108b6f1fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15778_17092026113324/M_NEWS_15778_17092026113324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-41bbef72efea0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17561,6 +17580,24 @@
    "updated_ms": 1789273585000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-638108b6f1fa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו בטקס מצטייני השב״כ: ״אנחנו נחסל את החמאס, ואנחנו נכריע קודם כל את המשטר באירן״",
+   "duration_s": 137,
+   "first_seen_ms": 1789645046802,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15777_17092026113036_1400_1789644837077_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789644846000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו בטקס מצטייני השב״כ: ״אנחנו נחסל את החמאס, ואנחנו נכריע קודם כל את המשטר באירן״",
+   "type": "mivzakim",
+   "updated_ms": 1789644846000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-638108b6f1fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15777_17092026113036/M_NEWS_15777_17092026113036_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-64f0346de9ea0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17638,6 +17675,24 @@
    "type": "mivzakim",
    "updated_ms": 1789477248000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6bd0ef11125a0a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6d9aaa1902fa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "החרם על ישראל: אירלנד לא תשתתף באירוויזיון 2027",
+   "duration_s": 9,
+   "first_seen_ms": 1789645046802,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_Ireland_6189_17092026112929_1400_1789644678433_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789644684000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "החרם על ישראל: אירלנד לא תשתתף באירוויזיון 2027",
+   "type": "mivzakim",
+   "updated_ms": 1789644684000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6d9aaa1902fa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_Ireland_6189_17092026112929/V1_karind_Ireland_6189_17092026112929_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6da2b3177b8a0a1026.htm": {
    "author": "מבזקים",
