@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-dc65fe0b46ea0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-dc17c9d2b8ea0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-7afe1a01d6ea0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-64f0346de9ea0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-927381fb99ea0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1631,7 +1634,7 @@
    ],
    "title": "\"לא דומה לעצמה\": סלינה גומז הגיעה לטקס האמי - והסעירה את המעריצים",
    "type": "general",
-   "updated_ms": 1789560480000,
+   "updated_ms": 1789635840000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-46981384d1aa0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_SELINA_160926/MASTER/SHIR_SELINA_160926/SHIR_SELINA_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -6238,6 +6241,22 @@
    "type": "general",
    "updated_ms": 1789291200000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-73a51f3f3d990a1026.htm"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-7afe1a01d6ea0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רגע לאחר דיון גזר הדין, החשוד טימותי ריגל תקף שוטר בעת שליוו אותו החוצה מבית משפט באוהיו. \nלפי הרשויות, הוא דחף שוטר נוסף וניסה לרוץ לעבר היציאה, אך השוטרים הצליחו לנטרל אותו באמצעות טייזר ולהחזירו למעצר. שני השוטרים נפצעו וסבלו משברים, אך שוחררו מבית החולים. נגד החשוד ריגל צפויים להיות מוגשים אישומים נוספים",
+   "duration_s": 19,
+   "first_seen_ms": 1789636646407,
+   "image": "https://img.mako.co.il/2026/09/17/Kim_Inmate_170926_1400_1789633102212_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789633109000,
+   "sections": [],
+   "title": "לא קיבל את גזר הדין: החשוד תקף את השוטר בבית המשפט - וניסה לברוח",
+   "type": "general",
+   "updated_ms": 1789633109000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-7afe1a01d6ea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Inmate_170926/MASTER/Kim_Inmate_170926/Kim_Inmate_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm": {
    "author": "מהעולם",
@@ -14055,6 +14074,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-d9c73a9747f90a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/NEWFIXX_MARI/NEWFIXX_MARI_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-dc17c9d2b8ea0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "התיירת הישראלית גלית בן שמחון, שמטיילת באי לסבוס שביוון, פותחת בהליכים משפטיים נגד בר מקומי שהציב שלט האוסר על כניסת \"ציונים\". לאחר שהצוות סירב לבקשתה להסיר את השלט, פנתה בן שמחון לבעלת המקום והודיעה לה כי תגיש תביעה בגין אפליה, עבירה על החוק היווני והאירופי שדינה קנס ומאסר. בריאיון סיפרה בן שמחון על התגברות האווירה העוינת כלפי ישראלים באי מצד פעילים זרים, שכללה גם הפצת עלונים שכמעט הובילו לאלימות פיזית, והדגישה: \"הם לא יכולים להשתמש בחופש הביטוי כדי לעבור על החוק ולהסית לאלימות\".",
+   "duration_s": 106,
+   "first_seen_ms": 1789636646407,
+   "image": "https://img.mako.co.il/2026/09/17/inbie_ZIONIST_170926_1400_1789635203585_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789636500000,
+   "sections": [],
+   "title": "\"ציונים לא מוזמנים\": תיירת ישראלית נתקלה בשלט אנטישמי ולא נשארה חייבת",
+   "type": "news",
+   "updated_ms": 1789636500000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-dc17c9d2b8ea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/inbie_ZIONIST_170926/MASTER/inbie_ZIONIST_170926/inbie_ZIONIST_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ebca59a13faa0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -17435,6 +17470,24 @@
    "updated_ms": 1789273585000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-60bae82820990a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-64f0346de9ea0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בתקיפה בצפון הרצועה: צה\"ל חיסל מחבל חמאס שפשט לישראל ב-7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1789636646407,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15765_17092026091218_1400_1789636404356_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789636411000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בתקיפה בצפון הרצועה: צה\"ל חיסל מחבל חמאס שפשט לישראל ב-7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1789636411000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-64f0346de9ea0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15765_17092026091218/M_NEWS_15765_17092026091218_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-657dbe42b33a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -17904,6 +17957,24 @@
    "updated_ms": 1789535220000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-922ac873948a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/FIX_YOAV_nbc_160926_MIV/FIX_YOAV_nbc_160926_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-927381fb99ea0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קיצוני: חפצים נזרקו לעבר ח\"כ מירב בן ארי - בזמן שנאמה בכנס בחירות בבית ספר בליך ברמת גן",
+   "duration_s": 11,
+   "first_seen_ms": 1789636646407,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_meirav_6180_17092026090728_1400_1789636116573_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789636126000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קיצוני: חפצים נזרקו לעבר ח\"כ מירב בן ארי - בזמן שנאמה בבית ספר בליך ברמת גן",
+   "type": "mivzakim",
+   "updated_ms": 1789636126000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-927381fb99ea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_meirav_6180_17092026090728/V1_karind_meirav_6180_17092026090728_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-93fc155006e90a1026.htm": {
    "author": "מבזקים",
