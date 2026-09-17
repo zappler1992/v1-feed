@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/17/BIPER_FIX_1400_1789641337735_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בשעה 15:30, זה התחיל</video:title>
+<video:description>ב-17 בספטמבר, בשעה 15:30 זה התחיל - מבצע הביפרים הנועז שהדהים את העולם. כך זה נראה באולפנים החיים ברחבי הגלובוס.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/BIPER_FIX/BIPER_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>51</video:duration>
+<video:publication_date>2026-09-17T12:25:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ce3e628034fa0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/17/M_NEWS_15785_17092026121005_1400_1789647107469_FirstFrame.jpg</video:thumbnail_loc>
@@ -313,6 +329,7 @@ CheaPark סורקת את החניונים באזור ומשווה ביניהם �
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חופש וטיולים</video:uploader>
+<video:tag>רק בישראל</video:tag>
 <video:tag>טיולים</video:tag>
 <video:tag>חופש וטיולים</video:tag>
 </video:video>

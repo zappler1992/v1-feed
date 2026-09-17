@@ -10873,7 +10873,7 @@
    "first_seen_ms": 1789647147491,
    "image": "https://img.mako.co.il/2026/09/17/BIPER_FIX_1400_1789641337735_FirstFrame.jpg",
    "importance": 2,
-   "published_ms": 1789648200000,
+   "published_ms": 1789647900000,
    "sections": [],
    "title": "בשעה 15:30, זה התחיל",
    "type": "news",
@@ -32011,7 +32011,9 @@
    "image": "https://img.mako.co.il/2026/09/17/SHIR_JAPAN_170926_1400_1789640499438_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789640505000,
-   "sections": [],
+   "sections": [
+    "רק בישראל"
+   ],
    "title": "משבר דיפלומטי עם יפן? נטלי שמה בראמן חזה עוף מהסופר - והסעירה את הגולשים",
    "type": "general",
    "updated_ms": 1789640505000,
