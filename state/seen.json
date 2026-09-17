@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1afaae92b2fa0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10865,6 +10865,22 @@
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f57e3fa6292cf91026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/12/LOVE_CORNER_EP01_FIX_MAIN/LOVE_CORNER_EP01_FIX_MAIN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ב-17 בספטמבר, בשעה 15:30 זה התחיל - מבצע הביפרים הנועז שהדהים את העולם. כך זה נראה באולפנים החיים ברחבי הגלובוס.",
+   "duration_s": 51,
+   "first_seen_ms": 1789647147491,
+   "image": "https://img.mako.co.il/2026/09/17/BIPER_FIX_1400_1789641337735_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789648200000,
+   "sections": [],
+   "title": "בשעה 15:30, זה התחיל",
+   "type": "news",
+   "updated_ms": 1789648200000,
+   "url": "https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/BIPER_FIX/BIPER_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2025-m10_w03/shorts-c3de4beceddd991026.htm": {
    "author": "חדשות",
    "date_source": null,
@@ -13891,7 +13907,7 @@
    ],
    "title": "מכת מדינה: המחלה שמתפשטת ברחבי הארץ - ומנטרלת משפחות שלמות",
    "type": "news",
-   "updated_ms": 1789644600000,
+   "updated_ms": 1789646700000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Babies_17092026/MASTER/Kim_Babies_17092026/Kim_Babies_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -17176,7 +17192,8 @@
    "importance": 2,
    "published_ms": 1789642492000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "התיעוד שדלף: ח\"כ חנוך מיליבצקי מהליכוד נוזף בעובדי לשכתו שלא עונים לו מאז הפריימריז",
    "type": "mivzakim",
@@ -29427,9 +29444,9 @@
     "המיוחדים",
     "דברים שלא ידעתם"
    ],
-   "title": "93% מהישראלים לא מכירים את המילים האלה באמת",
+   "title": "99% מהישראלים לא מכירים את המילים האלה באמת",
    "type": "general",
-   "updated_ms": 1789043291000,
+   "updated_ms": 1789646940000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-9c527ae734b80a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/10/lior_words_01_100926_FIX/lior_words_01_100926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
