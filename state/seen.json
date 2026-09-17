@@ -1,9 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-40e108b6f1fa0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-638108b6f1fa0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6d9aaa1902fa0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8ad84b8892fa0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ea52aa1902fa0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5564b9f130fa0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-79271af011fa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1628,7 +1630,9 @@
    "image": "https://img.mako.co.il/2026/09/17/inbie_JLO_170926_1400_1789637375416_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789637381000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "\"הכפילה של ג'יי לו\": בת 35 נעצרה על גניבה - ותמונת המעצר הפכה לוויראלית",
    "type": "general",
    "updated_ms": 1789637381000,
@@ -6189,6 +6193,24 @@
    "updated_ms": 1789589100000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5316b808d6ba0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/biata_contractions_160926/MASTER/biata_contractions_160926/biata_contractions_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5564b9f130fa0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שני צעירים מאלברטה שבקנדה תועדו כשהם בארגז פתוח של טנדר במהלך שטיפת מכוניות אוטומטית, וסופגים זרמי מים ואוויר בלחץ גבוה. הסרטון הפך במהרה לוויראלי, ובעקבותיו פרסמו מפעילי מתקני השטיפה אזהרות הקוראות לציבור שלא לחקות את המעשה בשל סכנות בטיחותיות חמורות.",
+   "duration_s": 25,
+   "first_seen_ms": 1789645346877,
+   "image": "https://img.mako.co.il/2026/09/17/rinat-CARWASH-170926_1400_1789643111730_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789643118000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "אל תנסו את זה בבית: שני חברים נשארו בארגז טנדר בזמן שטיפת מכוניות בשביל החוויה",
+   "type": "general",
+   "updated_ms": 1789643118000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5564b9f130fa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/rinat-CARWASH-170926/MASTER/rinat-CARWASH-170926/rinat-CARWASH-170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm": {
    "author": "מהעולם",
@@ -13857,6 +13879,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_BASE_160926/MASTER/SHIR_BASE_160926/SHIR_BASE_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "המחלה שמתפשטת ברחבי הארץ - רופאות ילדים מדווחות על עלייה משמעותית בתחלואה, כשברוב \nהמקרים מדובר בנגיפים. בחלק מהמקרים זוהה גם חיידק השיגלה, שעלול להיות מידבק מאוד. \nהרופאות מזהירות כי הילדים מדביקים את האחים וההורים, ומדגישות את החשיבות \nשל היגיינה, שתייה ומניעת התייבשות.",
+   "duration_s": 13,
+   "first_seen_ms": 1789645346877,
+   "image": "https://img.mako.co.il/2026/09/17/Kim_Babies_17092026_1400_1789640850899_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789644600000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מכת מדינה: המחלה שמתפשטת ברחבי הארץ - ומנטרלת משפחות שלמות",
+   "type": "news",
+   "updated_ms": 1789644600000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Babies_17092026/MASTER/Kim_Babies_17092026/Kim_Babies_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-66e3bc2c6e8a0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -13904,6 +13944,24 @@
    "updated_ms": 1789406455000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-734f666c8e0a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/inbie_MACKIE_140926/MASTER/inbie_MACKIE_140926/inbie_MACKIE_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-79271af011fa0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מה שהתחיל כניסיון לעזור לבת הזוג למצוא חניה בתל אביב הפך לאפליקציה שכבר יותר מ-1000 אנשים הורידו.\nמזינים באפליקציה את היעד, מרחק ההליכה המקסימלי, שעת ההגעה וכמה זמן מתכננים לחנות –\nואפשר גם להוסיף הנחות כמו תושב או סטודנט. \nCheaPark סורקת את החניונים באזור ומשווה ביניהם את המחירים, המרחק מהיעד ומספר המקומות הפנויים.\nהנתונים מתעדכנים בזמן אמת לפי המידע שמתפרסם באתרי החניונים, והאפליקציה מציגה את \nהאפשרויות המשתלמות ביותר בהתאם לנתונים שהזנתם.\nהאפליקציה כבר התרחבה גם להרצליה ולירושלים – ובקרוב צפויה להגיע גם לאנדרואיד.",
+   "duration_s": 22,
+   "first_seen_ms": 1789645346877,
+   "image": "https://img.mako.co.il/2026/09/17/Kim_Parking_17092026_1400_1789644405268_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789644411000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "הסוף לחיפושים: האפליקציה שתמצא לכם את החניון  הכי זול בת\"א",
+   "type": "news",
+   "updated_ms": 1789644411000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-79271af011fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Parking_17092026/MASTER/Kim_Parking_17092026/Kim_Parking_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-83e987bf280a0a1026.htm": {
    "author": "חדשות",
@@ -14120,7 +14178,9 @@
    "image": "https://img.mako.co.il/2026/09/17/inbie_ZIONIST_170926_1400_1789635203585_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789636500000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "\"ציונים לא מוזמנים\": תיירת ישראלית נתקלה בשלט אנטישמי ולא נשארה חייבת",
    "type": "news",
    "updated_ms": 1789636860000,
@@ -17092,7 +17152,7 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-41bbef72efea0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "התיעוד שדלף: ח\"כ חנוך מיליבצקי מהליכוד נוזף בעובדי לשכתו שלא עונים לו מאז הפריימריז",
+   "description": "התיעוד שדלף: ח\"כ חנוך מיליבצקי מהליכוד נוזף בעובדי לשכתו שלא עונים לו מאז הפריימריז.",
    "duration_s": 105,
    "first_seen_ms": 1789642646650,
    "image": "https://img.mako.co.il/2026/09/17/V1_karind_hanoch_6186_17092026105303_1400_1789642485094_FirstFrame.jpg",
@@ -18027,6 +18087,24 @@
    "type": "mivzakim",
    "updated_ms": 1789273135000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-89b7e7375c890a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8ad84b8892fa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חדירת הכטב\"ם בגבול הצפון | כך נראה התיעוד מהשמיים",
+   "duration_s": 2,
+   "first_seen_ms": 1789645346877,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_azaaka_6191_17092026113820_1400_1789645160648_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789645167000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד חדירת הכטב\"ם בגבול הצפון | כך נראה התיעוד מהשמיים",
+   "type": "mivzakim",
+   "updated_ms": 1789645167000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8ad84b8892fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_azaaka_6191_17092026113820/V1_karind_azaaka_6191_17092026113820_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8b6d547b29e90a1027.htm": {
    "author": "מבזקים",
@@ -19163,6 +19241,24 @@
    "updated_ms": 1789449660000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e69bbe42b33a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/SHIRA_MIKEL_150926_M/SHIRA_MIKEL_150926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ea52aa1902fa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אזעקות הופעלו במנרה ובמרגליות עקב חשד לחדירת כטב\"ם",
+   "duration_s": 9,
+   "first_seen_ms": 1789645346877,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_katbam_6190_17092026113543_1400_1789645020096_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789645026000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אזעקות הופעלו במנרה ובמרגליות עקב חשד לחדירת כטב\"ם",
+   "type": "mivzakim",
+   "updated_ms": 1789645026000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ea52aa1902fa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_katbam_6190_17092026113543/V1_karind_katbam_6190_17092026113543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eb5ca4c605da0a1026.htm": {
    "author": "מבזקים",
