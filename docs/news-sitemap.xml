@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4c7dc09a87da0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T03:57:01+00:00</news:publication_date>
+<news:title>מהלילה: מהפך במזג האוויר עם גשמים בצפון ובמרכז</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/V1_thahazit_6167_17092026035524_1400_1789617415146_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1d65a4c605da0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1619,14 +1628,5 @@
 <news:title>הרגע שריגש את כל הוליווד: מייקל ג&#x27;יי פוקס, שמתמודד כבר 35 שנה עם פרקינסון, מקבל פרס בטקס האמי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/15/SHIRA_MIKEL_150926_M_1400_1789449686164_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3eff94a7023a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-15T03:58:19+00:00</news:publication_date>
-<news:title>חם מהממוצע, אבל כבר רואים באופק את ההתקררות: התחזית המלאה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_tahazoia_6091_15092026035637_1400_1789444692718_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
