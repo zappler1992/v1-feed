@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-ba649baec2ea0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b6ccc50f43ea0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2783,7 +2783,8 @@
    "published_ms": 1789592007000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי Vיראלים"
    ],
    "title": "בהופעת הענק של שרית חדד: היציע החל לרעוד בגלל הקפיצות - והביא לפינוי הקהל בפארק הירקון",
    "type": "mivzakim",
@@ -13999,7 +14000,7 @@
    ],
    "title": "ארה\"ב חושפת: הצבנו נשק סודי בחלל",
    "type": "news",
-   "updated_ms": 1789492684000,
+   "updated_ms": 1789629300000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ed98c860316a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_space/MASTER/alice_150926_space/alice_150926_space_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -18250,6 +18251,24 @@
    "type": "mivzakim",
    "updated_ms": 1789412554000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b5c0f872041a0a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b6ccc50f43ea0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כתב אישום הוגש נגד מוסטפא עיסא, בן 20 מכפר קאסם - שתכנן פיגוע בחוות שרתים של \"אמדוקס\" ברעננה",
+   "duration_s": 9,
+   "first_seen_ms": 1789629746888,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15756_17092026071449_1400_1789629373049_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789629379000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כתב אישום הוגש נגד מוסטפא עיסא, בן 20 מכפר קאסם - שתכנן פיגוע בחוות שרתים של \"אמדוקס\" ברעננה",
+   "type": "mivzakim",
+   "updated_ms": 1789629379000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b6ccc50f43ea0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15756_17092026071449/M_NEWS_15756_17092026071449_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b7e9c860316a0a1026.htm": {
    "author": "מבזקים",
