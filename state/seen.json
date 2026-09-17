@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-be7e717504ea0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-35947c0274ea0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13635,6 +13635,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-2f84be0ae65a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_delek/MASTER/alice_150926_delek/alice_150926_delek_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-35947c0274ea0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 33,
+   "first_seen_ms": 1789630947640,
+   "image": "https://img.mako.co.il/2026/09/17/Kim_Chat_17092026_1400_1789630634729_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789630641000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1789630641000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-35947c0274ea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Chat_17092026/MASTER/Kim_Chat_17092026/Kim_Chat_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-3bb01680eee90a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -14000,7 +14016,7 @@
    ],
    "title": "ארה\"ב חושפת: הצבנו נשק סודי בחלל",
    "type": "news",
-   "updated_ms": 1789629300000,
+   "updated_ms": 1789630200000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ed98c860316a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_space/MASTER/alice_150926_space/alice_150926_space_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -31056,7 +31072,8 @@
    "importance": 2,
    "published_ms": 1789622285000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "מחכים לאייפון המתקפל? יש לנו חדשות רעות",
    "type": "general",
