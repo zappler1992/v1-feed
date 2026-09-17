@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-275fc1da89da0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-b6b8656efbda0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7770,7 +7770,8 @@
    "published_ms": 1789484400000,
    "sections": [
     "כשהגלים מתחזקים 2",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 36: אהבה חד-צדדית",
    "type": "series",
@@ -13858,6 +13859,22 @@
    "updated_ms": 1789556400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-af44b3177b8a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/SHIR_100_160926/MASTER/SHIR_100_160926/SHIR_100_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-b6b8656efbda0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "קיבלתם הודעה שנראית כמו אישור להזמנת מלון? מערך הסייבר הלאומי מזהיר כי מדובר בניסיון פישינג, ובחלק מהמקרים ההודעות כוללות פרטי הזמנה אמיתיים – מה שהופך את ההונאה לקשה יותר לזיהוי. \nההמלצה: לא ללחוץ על הקישור ולבדוק את ההזמנה רק דרך האתר או באפליקציה הרשמיים.\nהזנתם פרטי אשראי? יש לפנות לחברת האשראי ולמוקד של מערך הסייבר הלאומי.",
+   "duration_s": 21,
+   "first_seen_ms": 1789623446653,
+   "image": "https://img.mako.co.il/2026/09/17/Kim_Hotel_17092026_2_1400_1789621484130_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789621491000,
+   "sections": [],
+   "title": "אזהרה לישראלים: ההודעה מהמלון שרק נראית תמימה",
+   "type": "news",
+   "updated_ms": 1789621491000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-b6b8656efbda0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Hotel_17092026/MASTER/Kim_Hotel_17092026_2/Kim_Hotel_17092026_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bbe425a6aa5a0a1027.htm": {
    "author": "חדשות",
@@ -28638,7 +28655,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "מה קרה שם?! צבע אחר - וחזי היה מובהל לבית החולים....",
+   "description": "מה קרה שם?! צבע אחר - וחזי היה מובהל לבית החולים.....",
    "duration_s": 105,
    "first_seen_ms": 1789462946409,
    "image": "https://img.mako.co.il/2026/09/07/lior_majik_TOMAVIV_070926_1400_1788785176057_FirstFrame.jpg",
@@ -28649,7 +28666,7 @@
    ],
    "title": "הבחירה של טום אביב - כמעט נגמרה באסון",
    "type": "general",
-   "updated_ms": 1789561560000,
+   "updated_ms": 1789621920000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-e0a8a8067eb70a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/09/lior_majik_TOMAVIV_070926_FIX/lior_majik_TOMAVIV_070926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

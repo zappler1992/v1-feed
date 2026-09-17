@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-b6b8656efbda0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T05:04:51+00:00</news:publication_date>
+<news:title>אזהרה לישראלים: ההודעה מהמלון שרק נראית תמימה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/Kim_Hotel_17092026_2_1400_1789621484130_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-275fc1da89da0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1529,14 +1538,5 @@
 <news:title>ברט&quot;ג מבקשים: ראיתם דולפין בחופי תל אביב? דווחו לנו, מדובר בדולפין פצוע שזקוק לעזרה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_karind_dolphin_6102_15092026054721_1400_1789451352815_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a79e926d83a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-15T05:35:03+00:00</news:publication_date>
-<news:title>רכב עולה באש בכביש 1 ממעלה אדומים לירושלים. פקקים צפויים במקום</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_karind_kvish1_6101_15092026053337_1400_1789450496607_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
