@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-a56aa3e9cffa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ceffc8de510b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13671,7 +13671,7 @@
    ],
    "title": "הבעל התקין מצלמות כדי למצוא את הגנב - ונחרד ממעשי אשתו עם הכלב המשפחתי",
    "type": "news",
-   "updated_ms": 1789651800000,
+   "updated_ms": 1789660860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-0c4fe427d6fa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/FIX_inbie_DOG_170926/FIX_inbie_DOG_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -19289,6 +19289,24 @@
    "updated_ms": 1789647115000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ce3e628034fa0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15785_17092026121005/M_NEWS_15785_17092026121005_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ceffc8de510b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל: קמ\"ן אוגדת עזה ב-7 באוקטובר הודח סופית מתפקידו",
+   "duration_s": 9,
+   "first_seen_ms": 1789661547863,
+   "image": "https://img.mako.co.il/2026/09/17/V1_kaman_6199_17092026040932_1400_1789661445481_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789661455000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל: קמ\"ן אוגדת עזה ב-7 באוקטובר הודח סופית מתפקידו",
+   "type": "mivzakim",
+   "updated_ms": 1789661455000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ceffc8de510b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_kaman_6199_17092026040932/V1_kaman_6199_17092026040932_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-cf6f3f86c74a0a1026.htm": {
    "author": "מבזקים",
