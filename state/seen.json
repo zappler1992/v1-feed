@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-911c16dbdd0b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3582ad3c21b0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-85db16dbdd0b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6347,6 +6348,24 @@
    "updated_ms": 1789550880000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8171b3177b8a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/yoav_ed_sheeran_160926/MASTER/yoav_ed_sheeran_160926/yoav_ed_sheeran_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-85db16dbdd0b0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "יש מי שמוכנים להיפרד מבתי יוקרה ואחוזות בשווי מיליונים, רק כדי לקבל בתמורה מניות בחברות הכי מדוברות בעולם. הכירו את האנשים שמוכנים לשים כמעט הכול על השולחן בשביל נתח ממה שהם מאמינים שיהיה הדבר הגדול הבא.",
+   "duration_s": 38,
+   "first_seen_ms": 1789679246828,
+   "image": "https://img.mako.co.il/2026/09/17/yoav_MONEY_170926_1400_1789674004607_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789674960000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "הם מוכרים את בתי היוקרה שלהם בשביל מניות AI",
+   "type": "general",
+   "updated_ms": 1789674960000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-85db16dbdd0b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/yoav_MONEY_170926/MASTER/yoav_MONEY_170926/yoav_MONEY_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-8b4d3d59abe90a1026.htm": {
    "author": "מהעולם",
@@ -19939,6 +19958,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f30daacbbc9a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_ESTERINA_6143_16092026104314/V1_ESTERINA_6143_16092026104314_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3582ad3c21b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח ברשת NBC: הפנטגון נערך להוציא כשליש מכוחותיו המוצבים באירופה",
+   "duration_s": 9,
+   "first_seen_ms": 1789679246828,
+   "image": "https://img.mako.co.il/2026/09/18/V1_PENTAGON_6205_17092026085934_1400_1789678854374_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789678865000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח ברשת NBC: הפנטגון נערך להוציא כשליש מכוחותיו המוצבים באירופה",
+   "type": "mivzakim",
+   "updated_ms": 1789678865000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3582ad3c21b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_PENTAGON_6205_17092026085934/V1_PENTAGON_6205_17092026085934_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3a268a9989a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -29994,7 +30031,7 @@
    ],
    "title": "רומי גונן: כעסתי על אמא שלי כשחזרתי מעזה",
    "type": "general",
-   "updated_ms": 1789666320000,
+   "updated_ms": 1789678980000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-17e10d3dbea90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/13/Amit_ROMI_MOM_JOB/MASTER/Amit_ROMI_MOM_JOB_M/Amit_ROMI_MOM_JOB_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -35748,7 +35785,8 @@
    "published_ms": 1789668926000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "בעקבות ויכוח, קטטה אלימה פרצה בין נוסעים בטיסה מלונדון לבנגלדש אל מול ילדים וקשישים מבוהלים",
    "type": "mivzakim",
@@ -35937,7 +35975,8 @@
    "importance": 0,
    "published_ms": 1789655902000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"הסלפי של השנה\": צלם התחבא בלי לזוז ותיעד עדר איילים - ומיליונים כבר צפו",
    "type": "mivzakim",
