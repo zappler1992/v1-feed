@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0e0fb23025fa0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T12:28:23+00:00</news:publication_date>
+<news:title>נקבע מותו של גבר כבן 70 בתאונה בין אוטובוס לרכב סמוך למחלף קק&quot;ל, 4 נוספים נפצעו במצב בינוני וקל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/V1_karind_kakal_6192_17092026122654_1400_1789648096913_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1673,14 +1682,5 @@
 <news:title>מוקדם מהצפוי: הקורונה חוזרת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/15/SHIR_CORONA_150926_1400_1789476072140_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-feee79ca105a0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-15T12:28:34+00:00</news:publication_date>
-<news:title>העשן ממלא את השמיים: שריפת חורש סמוך לגבעת נפוליאון בעכו, מטוסי כיבוי הוזנקו למקום</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_KARIND_AKO_6119_15092026122716_1400_1789475308605_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
