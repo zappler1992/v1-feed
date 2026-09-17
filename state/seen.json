@@ -1,10 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-dc17c9d2b8ea0a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-7afe1a01d6ea0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-64f0346de9ea0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-927381fb99ea0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3a88a4a7aea0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-921f21542aea0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17939,6 +17937,24 @@
    "updated_ms": 1789445897000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8f0ebe42b33a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-921f21542aea0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הכול הפך לאפר: שריפה בשטח פתוח בכפר חב\"ד",
+   "duration_s": 2,
+   "first_seen_ms": 1789636946382,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_kfarhabad_6181_17092026091505_1400_1789636568474_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789636575000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הכול הפך לאפר: שריפה בשטח פתוח בכפר חב\"ד",
+   "type": "mivzakim",
+   "updated_ms": 1789636575000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-921f21542aea0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_kfarhabad_6181_17092026091505/V1_karind_kfarhabad_6181_17092026091505_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-922ac873948a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -18249,6 +18265,24 @@
    "updated_ms": 1789532037000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a12d135db58a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15679_16092026041227/M_NEWS_15679_16092026041227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3a88a4a7aea0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל: חיסלנו מחבל נוח'בה שפשט למעבר ארז בטבח 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1789636946382,
+   "image": "https://img.mako.co.il/2026/09/17/V1_karind_idf_6182_17092026091550_1400_1789636638943_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789636645000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל: חיסלנו מחבל נוח'בה שפשט למעבר ארז בטבח 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1789636645000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3a88a4a7aea0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_idf_6182_17092026091550/V1_karind_idf_6182_17092026091550_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a3ef9a2ad5b90a1027.htm": {
    "author": "מבזקים",
