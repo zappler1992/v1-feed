@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ed4e8afea70b0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b5c0e57d670b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2d538afea70b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7956,7 +7955,8 @@
    "importance": 1,
    "published_ms": 1789656720000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 38: נתפסים על חם",
    "type": "series",
@@ -13827,7 +13827,8 @@
    "importance": 2,
    "published_ms": 1789663320000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הטפטוף של הסופ\"ש, החום של כיפור: התחזית לשבת ולחג",
    "type": "news",
@@ -14098,7 +14099,8 @@
    "importance": 2,
    "published_ms": 1789648594000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "גם הערב: פקקים וחסימות שישפיעו על כל גוש דן",
    "type": "news",
@@ -17149,6 +17151,24 @@
    "type": "mivzakim",
    "updated_ms": 1789390090000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b627790eef90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2d538afea70b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מחלקת המדינה האמריקאית מאשרת: ארה\"ב תקדם מכירה של 48 מטוסי F-35 לסעודיה",
+   "duration_s": 9,
+   "first_seen_ms": 1789668746444,
+   "image": "https://img.mako.co.il/2026/09/17/V1_F35_6201_17092026060448_1400_1789668366823_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789668374000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מחלקת המדינה האמריקאית מאשרת: ארה\"ב תקדם מכירה של 48 מטוסי F-35 לסעודיה",
+   "type": "mivzakim",
+   "updated_ms": 1789668374000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2d538afea70b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_F35_6201_17092026060448/V1_F35_6201_17092026060448_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2dd06665909a0a1027.htm": {
    "author": "מבזקים",
