@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1afaae92b2fa0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/17/M_NEWS_15779_17092026114035_1400_1789645318412_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הופעלו התרעות במרחב מנרה ומרגליות. הפרטים בבדיקה, מיירט שוגר</video:title>
+<video:description>הופעלו התרעות במרחב מנרה ומרגליות. הפרטים בבדיקה, מיירט שוגר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15779_17092026114035/M_NEWS_15779_17092026114035_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-09-17T11:42:08+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8ad84b8892fa0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/17/V1_karind_azaaka_6191_17092026113820_1400_1789645160648_FirstFrame.jpg</video:thumbnail_loc>
@@ -88,7 +104,7 @@
 <video:description>המחלה שמתפשטת ברחבי הארץ - רופאות ילדים מדווחות על עלייה משמעותית בתחלואה, כשברוב 
 המקרים מדובר בנגיפים. בחלק מהמקרים זוהה גם חיידק השיגלה, שעלול להיות מידבק מאוד. 
 הרופאות מזהירות כי הילדים מדביקים את האחים וההורים, ומדגישות את החשיבות 
-של היגיינה, שתייה ומניעת התייבשות.</video:description>
+של היגיינה, שתייה ומניעת התייבשות</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Babies_17092026/MASTER/Kim_Babies_17092026/Kim_Babies_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>13</video:duration>
 <video:publication_date>2026-09-17T11:30:00+00:00</video:publication_date>
@@ -379,6 +395,7 @@ CheaPark סורקת את החניונים באזור ומשווה ביניהם �
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -672,6 +689,7 @@ CheaPark סורקת את החניונים באזור ומשווה ביניהם �
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -719,6 +737,7 @@ CheaPark סורקת את החניונים באזור ומשווה ביניהם �
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -736,6 +755,7 @@ CheaPark סורקת את החניונים באזור ומשווה ביניהם �
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

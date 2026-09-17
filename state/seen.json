@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8ad84b8892fa0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ea52aa1902fa0a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-5564b9f130fa0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-79271af011fa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1afaae92b2fa0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13649,7 +13645,9 @@
    "image": "https://img.mako.co.il/2026/09/17/inbie_GRAR_170926_1400_1789628041223_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789628047000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "הגרר בלם - מכוניות עפו: התיעוד החריג מאשדוד",
    "type": "news",
    "updated_ms": 1789628047000,
@@ -13882,7 +13880,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-660417662eea0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "המחלה שמתפשטת ברחבי הארץ - רופאות ילדים מדווחות על עלייה משמעותית בתחלואה, כשברוב \nהמקרים מדובר בנגיפים. בחלק מהמקרים זוהה גם חיידק השיגלה, שעלול להיות מידבק מאוד. \nהרופאות מזהירות כי הילדים מדביקים את האחים וההורים, ומדגישות את החשיבות \nשל היגיינה, שתייה ומניעת התייבשות.",
+   "description": "המחלה שמתפשטת ברחבי הארץ - רופאות ילדים מדווחות על עלייה משמעותית בתחלואה, כשברוב \nהמקרים מדובר בנגיפים. בחלק מהמקרים זוהה גם חיידק השיגלה, שעלול להיות מידבק מאוד. \nהרופאות מזהירות כי הילדים מדביקים את האחים וההורים, ומדגישות את החשיבות \nשל היגיינה, שתייה ומניעת התייבשות",
    "duration_s": 13,
    "first_seen_ms": 1789645346877,
    "image": "https://img.mako.co.il/2026/09/17/Kim_Babies_17092026_1400_1789640850899_FirstFrame.jpg",
@@ -14179,7 +14177,8 @@
    "importance": 2,
    "published_ms": 1789636500000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"ציונים לא מוזמנים\": תיירת ישראלית נתקלה בשלט אנטישמי ולא נשארה חייבת",
    "type": "news",
@@ -16637,6 +16636,24 @@
    "updated_ms": 1789576549000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-19aa3246e0ba0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_karind_fatma_6158_16092026043416/V1_karind_fatma_6158_16092026043416_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1afaae92b2fa0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הופעלו התרעות במרחב מנרה ומרגליות. הפרטים בבדיקה, מיירט שוגר",
+   "duration_s": 9,
+   "first_seen_ms": 1789645646853,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15779_17092026114035_1400_1789645318412_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789645328000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הופעלו התרעות במרחב מנרה ומרגליות. הפרטים בבדיקה, מיירט שוגר",
+   "type": "mivzakim",
+   "updated_ms": 1789645328000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1afaae92b2fa0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15779_17092026114035/M_NEWS_15779_17092026114035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1bf3f154a7aa0a1027.htm": {
    "author": "מבזקים",
@@ -35062,7 +35079,8 @@
    "importance": 0,
    "published_ms": 1789626947000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כדור אש ענקי: אוקראינה תקפה את בסיס חיל האוויר הרוסי במחוז רוסטוב",
    "type": "mivzakim",
@@ -35215,7 +35233,8 @@
    "importance": 0,
    "published_ms": 1789628974000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מצילים אישה מרכב שנתקע במים, תחנת הרכבת התמלאה בגשם: צפו בתיעודים מההצפות בוולנסיה שבספרד",
    "type": "mivzakim",
