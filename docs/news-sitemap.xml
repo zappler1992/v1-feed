@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-834d1af011fa0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T11:17:36+00:00</news:publication_date>
+<news:title>כמעט קפצה מהמרפסת בלבנון - וחולצה בשנייה האחרונה | צפו בתיעוד הדרמטי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/V1_karind_lebanon_6188_17092026111606_1400_1789643846651_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-786ca84570fa0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -62,6 +71,15 @@
 <news:title>טרגדיה בקריית ים: ילד בן כשנתיים נפל מגובה של 4 קומות - ונהרג</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/17/M_NEWS_15770_17092026104101_1400_1789641754336_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-6dd817662eea0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T10:21:45+00:00</news:publication_date>
+<news:title>משבר דיפלומטי עם יפן? נטלי שמה בראמן חזה עוף מהסופר - והסעירה את הגולשים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/SHIR_JAPAN_170926_1400_1789640499438_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-aa12655c0bea0a1026.htm</loc>
@@ -1628,14 +1646,5 @@
 <news:title>בגובה 215 מטר: חילוץ דרמטי של מטפס שנפל מצוק בקליפורניה ונפצע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/15/V1_cliff_6115_15092026112456_1400_1789471589125_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-04026497bc4a0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-15T11:22:05+00:00</news:publication_date>
-<news:title>שר החוץ האיראני עבאס עראקצ&#x27;י יבקר ביום רביעי בסין ויפגוש את שר החוץ הסיני</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/M_NEWS_15642_15092026112041_1400_1789471315106_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
