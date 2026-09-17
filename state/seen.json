@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b24def72efea0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-786ca84570fa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17076,7 +17076,7 @@
    "duration_s": 105,
    "first_seen_ms": 1789642646650,
    "image": "https://img.mako.co.il/2026/09/17/V1_karind_hanoch_6186_17092026105303_1400_1789642485094_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1789642492000,
    "sections": [
     "מבזקים"
@@ -17742,6 +17742,24 @@
    "updated_ms": 1789558662000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-77c5d72a9f9a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15711_16092026113553/M_NEWS_15711_16092026113553_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-786ca84570fa0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תושב עפולה נדקר בדרכו לבית הכנסת ונפגע באורח קשה. פעילות של השוטרים הובילה בתוך יומיים לאיתורו ומעצר",
+   "duration_s": 23,
+   "first_seen_ms": 1789643246718,
+   "image": "https://img.mako.co.il/2026/09/17/M_NEWS_15775_17092026110326_1400_1789643078185_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789643084000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תושב עפולה נדקר בדרכו לבית הכנסת ונפגע באורח קשה. פעילות של השוטרים הובילה בתוך יומיים לאיתורו ומעצר",
+   "type": "mivzakim",
+   "updated_ms": 1789643084000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-786ca84570fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15775_17092026110326/M_NEWS_15775_17092026110326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-78e51a35653a0a1027.htm": {
    "author": "מבזקים",
