@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-1259c422d5ea0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-17T07:56:47+00:00</news:publication_date>
+<news:title>שני גברים נהרגו בתאונת דרכים בכביש 310 סמוך לגבעת בר, הכביש חסום לשני הכיוונים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/17/V1_karind_negev_6176_17092026075523_1400_1789631801219_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fbd5e7bbf4ea0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1556,14 +1565,5 @@
 <news:title>אזהרה חמורה: אל תצרכו את מוצר ההרזיה הזה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/15/SHIR_LOOSE_150926_1400_1789459365973_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8dcf2bdfe04a0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-15T07:58:40+00:00</news:publication_date>
-<news:title>מתנדבי זק״א ורבני חב״ד פעלו להעברת ארבעה קברים מבית העלמין הסמוך לבנגקוק לחלקה חדשה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/15/M_NEWS_15630_15092026075707_1400_1789459113897_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
