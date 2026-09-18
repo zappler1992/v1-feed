@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-44daf4cc683b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2681b22f593b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17195,6 +17195,24 @@
    "updated_ms": 1789321207000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-25973d528cb90a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2681b22f593b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עמיחי בן ה-17 יצא לאירוע סליחות ולא שב: \"הנהג נכנס לאוטו ודרס\" | תיעוד מקניון וילג' בחדרה",
+   "duration_s": 23,
+   "first_seen_ms": 1789720647225,
+   "image": "https://img.mako.co.il/2026/09/18/V1_DRISA_6218_18092026083125_1400_1789720371656_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789720378000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עמיחי בן ה-17 יצא לאירוע סליחות ולא שב: \"הנהג נכנס לאוטו ודרס\" | תיעוד מקניון וילג' בחדרה",
+   "type": "mivzakim",
+   "updated_ms": 1789720378000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2681b22f593b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_DRISA_6218_18092026083125/V1_DRISA_6218_18092026083125_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-275fc1da89da0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33046,7 +33064,7 @@
    "sections": [],
    "title": "האזהרה החריפה של רשות שדות התעופה לטסים מנתב\"ג",
    "type": "general",
-   "updated_ms": 1789714124000,
+   "updated_ms": 1789719300000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-bdec9a49e33b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_NATBAG_18092026/MASTER/ASAF_NATBAG_18092026_M/ASAF_NATBAG_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
