@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a090e6a626b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4135bb72a46b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2856,7 +2856,7 @@
    ],
    "title": "באנרגיות שיא: הזמר מיכאל בן דוד הרים מהקהל בהופעה של ניקול שרזינגר - והתגובה שלה לא איחרה לבוא",
    "type": "mivzakim",
-   "updated_ms": 1789754536000,
+   "updated_ms": 1789765680000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-836401ff895b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_MICHAEL2_6228_18092026060002/V1_MICHAEL2_6228_18092026060002_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -14778,7 +14778,7 @@
    "sections": [],
    "title": "צה\"ל מקדם את הפצת \"סרטון הזוועות\" של 7.10 בקוד פתוח לעולם",
    "type": "news",
-   "updated_ms": 1789754522000,
+   "updated_ms": 1789765740000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-bf4401ff895b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/fizalmg/fizalmg_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -18017,6 +18017,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-40e108b6f1fa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15778_17092026113324/M_NEWS_15778_17092026113324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4135bb72a46b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 58 נפצע בינוני בתאונת דרכים בין שני כלי רכב בכביש 854 סמוך ללבון",
+   "duration_s": 5,
+   "first_seen_ms": 1789765946873,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15845_18092026090826_1400_1789765777815_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789765785000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 58 נפצע בינוני בתאונת דרכים בין שני כלי רכב בכביש 854 סמוך ללבון",
+   "type": "mivzakim",
+   "updated_ms": 1789765785000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4135bb72a46b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15845_18092026090826/M_NEWS_15845_18092026090826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-41bbef72efea0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20385,14 +20403,14 @@
    "duration_s": 9,
    "first_seen_ms": 1789760246667,
    "image": "https://img.mako.co.il/2026/09/18/V1_trump_6229_18092026072925_1400_1789759854681_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1789759861000,
    "sections": [
     "מבזקים"
    ],
    "title": "טראמפ הודיע כי CNN, פוליטיקו ו-MSNOW לא יוזמנו עוד לבית הלבן, בטענה כי הן \"מפיצות פייק ניוז\".",
    "type": "mivzakim",
-   "updated_ms": 1789759861000,
+   "updated_ms": 1789765680000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ce14f0f00f5b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_trump_6229_18092026072925/V1_trump_6229_18092026072925_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -36673,14 +36691,14 @@
    "duration_s": 50,
    "first_seen_ms": 1789762046717,
    "image": "https://img.mako.co.il/2026/09/18/V1_snake_6230_18092026080111_1400_1789761784683_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1789761795000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "הסיוט התממש: גילו נחש ענק על מתקן המגבות בביתם שבאוסטרליה",
    "type": "mivzakim",
-   "updated_ms": 1789761795000,
+   "updated_ms": 1789765740000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-287d3383216b0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_snake_6230_18092026080111/V1_snake_6230_18092026080111_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
