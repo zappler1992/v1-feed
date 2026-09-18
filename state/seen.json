@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2681b22f593b0a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-69e02fb2553b0a1027.htm",
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f75caa1570ccf91026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6297,6 +6298,22 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-66f659ccf1ba0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/inbalme160926/MASTER/inbalme160926m/inbalme160926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-69e02fb2553b0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מדענים גילו זן חדש של חתולים לראשונה לאחר יותר ממאה שנה, החתול זכה לשם \"לאופרדוס טילקאיו\". הוא קטן מחתול בית ממוצע, מכוסה בנקודות, וחי באזור היערות של מחזור יונגאס בבוליביה",
+   "duration_s": 19,
+   "first_seen_ms": 1789722147251,
+   "image": "https://img.mako.co.il/2026/09/18/SHIRA_CAT_180926_M_1400_1789716288495_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789721820000,
+   "sections": [],
+   "title": "לראשונה מזה 100 שנים: זן חדש של חתולים התגלה ביערות בבוליביה",
+   "type": "general",
+   "updated_ms": 1789721820000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-69e02fb2553b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/SHIRA_CAT_180926/MASTER/SHIRA_CAT_180926_M/SHIRA_CAT_180926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-706a3d59abe90a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -11007,6 +11024,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f57e3fa6292cf91026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/12/LOVE_CORNER_EP01_FIX_MAIN/LOVE_CORNER_EP01_FIX_MAIN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f75caa1570ccf91026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 7: ליאור מגלה שאלונה השאירה את היומן שלה במכונית שלו כשלקח אותה לאוניברסיטה, ורואה בכך הזדמנות לפגוש אותה שוב. בזמן שהוא מחפש דרך להחזיר לה את היומן, אלונה מנסה להתמודד עם העזיבה הפתאומית של אביה ועם כל השאלות שהשאיר אחריו. בין השניים נוצר חוט מקשר חדש, דווקא ברגע שבו כל אחד מהם מתמודד עם סערה אחרת.",
+   "duration_s": 96,
+   "first_seen_ms": 1789722147251,
+   "image": "https://img.mako.co.il/2026/09/07/LOVE_CORNER_FIXMAIN_EP07_070926_1400_1788774221491_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789722000000,
+   "sections": [
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 7: תירוץ לפגוש אותה",
+   "type": "series",
+   "updated_ms": 1789722000000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f75caa1570ccf91026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/07/LOVE_CORNER_FIXMAIN_EP07_070926/LOVE_CORNER_FIXMAIN_EP07_070926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2025-m09_w03/shorts-008e87c2e375991027.htm": {
    "author": "חדשות",
@@ -33063,7 +33098,9 @@
    "image": "https://img.mako.co.il/2026/09/18/ASAF_NATBAG_18092026_M_1400_1789714118489_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789714124000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "האזהרה החריפה של רשות שדות התעופה לטסים מנתב\"ג",
    "type": "general",
    "updated_ms": 1789719300000,
