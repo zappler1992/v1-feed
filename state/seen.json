@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c24e813b5e4b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8531bc16c15b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2704,7 +2704,9 @@
    "image": "https://img.mako.co.il/2026/09/18/V1_LEVINSON_OFIRA_6224_18092026012628_1400_1789738050282_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1789738062000,
-   "sections": [],
+   "sections": [
+    "חדשות מהמסך"
+   ],
    "title": "\"בגדת בי\": חיים לוינסון חוזר לאופירה לראשונה מאז שעזב בעקבות הפרשה סביב קשריו עם איינהורן",
    "type": "mivzakim",
    "updated_ms": 1789738062000,
@@ -18810,6 +18812,24 @@
    "updated_ms": 1789396729000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-82bb4bd6850a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8531bc16c15b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אם הנרצחת מהנובה הטיחה באהרון חליוה: \"תפסיק לשקר, הבת שלי קבורה בגללך\"",
+   "duration_s": 140,
+   "first_seen_ms": 1789745847375,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15834_18092026033207_1400_1789745717740_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789745725000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אם הנרצחת מהנובה הטיחה באהרון חליוה: \"תפסיק לשקר, הבת שלי קבורה בגללך\"",
+   "type": "mivzakim",
+   "updated_ms": 1789745725000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8531bc16c15b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15834_18092026033207/M_NEWS_15834_18092026033207_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-860c9063a30a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33209,7 +33229,7 @@
    ],
    "title": "הפיצר באייפון החדש שמשנה את עולם הסלפי",
    "type": "general",
-   "updated_ms": 1789736700000,
+   "updated_ms": 1789745640000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ecd9257d694b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/yoav_iphone_180926/MASTER/yoav_iphone_180926/yoav_iphone_180926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
