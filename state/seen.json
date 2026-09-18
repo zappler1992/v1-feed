@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-743ef4183c4b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1ff3383216b0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d8c3383216b0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-287d3383216b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18488,6 +18490,24 @@
    "updated_ms": 1789407278000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d1cfc438f0a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d8c3383216b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כזה לא רואים כל יום: נמר בקרב מול תנין בברזיל",
+   "duration_s": 26,
+   "first_seen_ms": 1789762046717,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15841_18092026075920_1400_1789761665024_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789761672000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כזה לא רואים כל יום: נמר בקרב מול תנין בברזיל",
+   "type": "mivzakim",
+   "updated_ms": 1789761672000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d8c3383216b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15841_18092026075920/M_NEWS_15841_18092026075920_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5dae7790eef90a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20935,6 +20955,24 @@
    "updated_ms": 1789492330000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1630d647f5a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15658_15092026051056/M_NEWS_15658_15092026051056_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1ff3383216b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "״אתם נזק אגבי״: אופירה אסייג על סערת הסרט \"נז״א\"",
+   "duration_s": 74,
+   "first_seen_ms": 1789762046717,
+   "image": "https://img.mako.co.il/2026/09/18/V1_ophiranaza_6231_18092026080121_1400_1789761912499_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789761920000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "״אתם נזק אגבי״: אופירה אסייג על סערת הסרט \"נז״א\"",
+   "type": "mivzakim",
+   "updated_ms": 1789761920000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1ff3383216b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_ophiranaza_6231_18092026080121/V1_ophiranaza_6231_18092026080121_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f2df07a8b2c90a1026.htm": {
    "author": "מבזקים",
@@ -36610,6 +36648,24 @@
    "type": "mivzakim",
    "updated_ms": 1789288254000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-1e511f3f3d990a1026.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-287d3383216b0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הסיוט התממש: גילו נחש ענק על מתקן המגבות בביתם שבאוסטרליה",
+   "duration_s": 50,
+   "first_seen_ms": 1789762046717,
+   "image": "https://img.mako.co.il/2026/09/18/V1_snake_6230_18092026080111_1400_1789761784683_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789761795000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הסיוט התממש: גילו נחש ענק על מתקן המגבות בביתם שבאוסטרליה",
+   "type": "mivzakim",
+   "updated_ms": 1789761795000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-287d3383216b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_snake_6230_18092026080111/V1_snake_6230_18092026080111_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-2c7f84a5c24a0a1027.htm": {
    "author": "מבזקים מהעולם",
