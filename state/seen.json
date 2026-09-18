@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f7fefcc8534b0a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-95a81e08434b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2723,7 +2723,9 @@
    "image": "https://img.mako.co.il/2026/09/18/FIX_LADYGAGA_M_1400_1789728665266_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789725969000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "נחשף המין והשם של בייבי (ליידי) גאגא: תכירו את התינוקת רוז בין, Rose Bean",
    "type": "mivzakim",
    "updated_ms": 1789728660000,
@@ -2803,6 +2805,24 @@
    "updated_ms": 1789383250000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-89f5c74228f90a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/V1_kimor_6073_14092026105243/V1_kimor_6073_14092026105243_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-95a81e08434b0a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "אגם בוחבוט ובר ברימר חוגגים עם החברים הקרובים את מסיבת האירוסים שלהם",
+   "duration_s": 14,
+   "first_seen_ms": 1789731446374,
+   "image": "https://img.mako.co.il/2026/09/18/V1_AGAMBAR_6222_18092026110754_1400_1789729751498_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789729758000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "אגם בוחבוט ובר ברימר חוגגים עם החברים הקרובים את מסיבת האירוסים שלהם",
+   "type": "mivzakim",
+   "updated_ms": 1789729758000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-95a81e08434b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_AGAMBAR_6222_18092026110754/V1_AGAMBAR_6222_18092026110754_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-a57ba232d4990a1027.htm": {
    "author": "מבזקי סלבס",
