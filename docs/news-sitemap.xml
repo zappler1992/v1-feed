@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b146344ffa3b0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-18T09:02:41+00:00</news:publication_date>
+<news:title>בן 60 אותר ללא רוח חיים בבת ים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/18/M_NEWS_15822_18092026090052_1400_1789722153723_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f75caa1570ccf91026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1628,14 +1637,5 @@
 <news:title>בית שמש: נער בן 17 החליק במהלך רכיבה על קורקינט חשמלי - מצבו בינוני</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/16/M_NEWS_15704_16092026093030_1400_1789551124418_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2b45a543f69a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-16T09:05:45+00:00</news:publication_date>
-<news:title>אותר ללא רוח חיים: גבר כבן 39 לא התעורר הבוקר משנתו בחולון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/M_NEWS_15702_16092026090359_1400_1789549539498_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

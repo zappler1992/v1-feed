@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-69e02fb2553b0a1027.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-f75caa1570ccf91026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b146344ffa3b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6307,7 +6306,9 @@
    "image": "https://img.mako.co.il/2026/09/18/SHIRA_CAT_180926_M_1400_1789716288495_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789721820000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "לראשונה מזה 100 שנים: זן חדש של חתולים התגלה ביערות בבוליביה",
    "type": "general",
    "updated_ms": 1789721820000,
@@ -14032,7 +14033,9 @@
    "image": "https://img.mako.co.il/2026/09/18/Kim_Rain_18092026_1400_1789718672573_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789718679000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "לא ציפינו לזה: גשם הפתיע ברחבי הארץ",
    "type": "news",
    "updated_ms": 1789720620000,
@@ -19449,6 +19452,24 @@
    "updated_ms": 1789706886000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b046f3ee6b2b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15808_18092026044646/M_NEWS_15808_18092026044646_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b146344ffa3b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 60 אותר ללא רוח חיים בבת ים",
+   "duration_s": 9,
+   "first_seen_ms": 1789722447190,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15822_18092026090052_1400_1789722153723_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789722161000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 60 אותר ללא רוח חיים בבת ים",
+   "type": "mivzakim",
+   "updated_ms": 1789722161000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b146344ffa3b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15822_18092026090052/M_NEWS_15822_18092026090052_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b17a827682aa0a1026.htm": {
    "author": "מבזקים",
