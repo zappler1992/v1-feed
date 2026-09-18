@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-be98470d054b0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-bca7fcc8534b0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-e6d60085ae3b0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-cb2d4b8892fa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13818,6 +13817,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-faea289a44180a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/SHIR_WARSA_080926/MASTER/SHIR_WARSA_080926/SHIR_WARSA_080926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "התיעוד מקריסת הרצפה בירושלים צבר מיליוני צפיות ב-X אצל דוברי ערבית, אחרי שתואר בטעות כסרטון מ-2009 עם פסוק מהקוראן ברקע. אך למעשה מדובר בסרטון מהאסון שהתרחש בשנת 2001, והשיר שהתנגן ברקע הוא בכללל של שרית חדד. מה גרם לסרטון מאסון ורסאי לשבור את הרשת?",
+   "duration_s": 67,
+   "first_seen_ms": 1789732346426,
+   "image": "https://img.mako.co.il/2026/09/18/ASAF_VERSAI_18092026_M_1400_1789724160052_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789732080000,
+   "sections": [],
+   "title": "יותר מ-3 מיליון צפיות - הסרטון מאסון ורסאי שבר את הרשת",
+   "type": "news",
+   "updated_ms": 1789732080000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_VERSAI_18092026/MASTER/ASAF_VERSAI_18092026_M/ASAF_VERSAI_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-05378c2611f90a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -13845,7 +13860,9 @@
    "image": "https://img.mako.co.il/2026/09/18/SHIRA_ILANA_180926_M_1400_1789723874962_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789723886000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "אילנה ראדה חושפת: האמת מאחורי פתיחת התיק של תאיר מחדש",
    "type": "news",
    "updated_ms": 1789723886000,
@@ -30830,6 +30847,24 @@
    "updated_ms": 1789621500000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-6dc05f3989ba0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/dor_trik_160926/MASTER/dor_trik_160926/dor_trik_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-cb2d4b8892fa0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מדברים על הגלים: כשידין גילה שתומר ומיה ביחד - או ביח״צ?",
+   "duration_s": 64,
+   "first_seen_ms": 1789732346426,
+   "image": "https://img.mako.co.il/2026/09/17/NOAB_MISHEL_YADIN_TOMER_160926_M_1400_1789645340333_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789645346000,
+   "sections": [
+    "מאחורי הגלים"
+   ],
+   "title": "כשידין גילה שתומר ומיה בזוגיות",
+   "type": "general",
+   "updated_ms": 1789650180000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-cb2d4b8892fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/NOAB_MISHEL_YADIN_TOMER_160926_M/MASTER/NOAB_MISHEL_YADIN_TOMER_160926_M/NOAB_MISHEL_YADIN_TOMER_160926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
