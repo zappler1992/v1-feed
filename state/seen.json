@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-84dcbfc6b90b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e3876ac7282b0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-825f7e51fe0b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14161,6 +14162,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-79271af011fa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/Kim_Parking_17092026/MASTER/Kim_Parking_17092026/Kim_Parking_17092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-825f7e51fe0b0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מתי נכנס הצום באיזו עיר ומתי תחזור לסדרה תנועת הרכבות לאחר שייצא הצום? ריכזנו לכם את כל מה שצריך לדעת: שימושון יום כיפור 2026.",
+   "duration_s": 43,
+   "first_seen_ms": 1789703246634,
+   "image": "https://img.mako.co.il/2026/09/17/biata_kippur_170926_1400_1789675480854_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789675489000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "כל מה שצריך לדעת לפני יום כיפור",
+   "type": "news",
+   "updated_ms": 1789675489000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-825f7e51fe0b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/biata_kippur_170926/MASTER/biata_kippur_170926/biata_kippur_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-83e987bf280a0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -19680,6 +19699,24 @@
    "updated_ms": 1789673530000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e1f8f2607d0b0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_newplane_6204_17092026073100/V1_newplane_6204_17092026073100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e3876ac7282b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אוקראינה: יירוט מוצלח של כטב\"ם רוסי מסוג שאהד בשמי אודסה הבוקר",
+   "duration_s": 20,
+   "first_seen_ms": 1789703246634,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15803_18092026034321_1400_1789703069832_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789703077000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אוקראינה: יירוט מוצלח של כטב\"ם רוסי מסוג שאהד בשמי אודסה הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1789703077000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e3876ac7282b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15803_18092026034321/M_NEWS_15803_18092026034321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e482370468e90a1027.htm": {
    "author": "מבזקים",
