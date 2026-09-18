@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm</loc>
-<video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/09/18/ASAF_VERSAI_18092026_M_1400_1789724160052_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>יותר מ-3 מיליון צפיות - הסרטון מאסון ורסאי שבר את הרשת</video:title>
-<video:description>התיעוד מקריסת הרצפה בירושלים צבר מיליוני צפיות ב-X אצל דוברי ערבית, אחרי שתואר בטעות כסרטון מ-2009 עם פסוק מהקוראן ברקע. אך למעשה מדובר בסרטון מהאסון שהתרחש בשנת 2001, והשיר שהתנגן ברקע הוא בכללל של שרית חדד. מה גרם לסרטון מאסון ורסאי לשבור את הרשת?</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_VERSAI_18092026/MASTER/ASAF_VERSAI_18092026_M/ASAF_VERSAI_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>67</video:duration>
-<video:publication_date>2026-09-18T11:48:00+00:00</video:publication_date>
-<video:family_friendly>yes</video:family_friendly>
-<video:requires_subscription>no</video:requires_subscription>
-<video:live>no</video:live>
-<video:uploader>חדשות</video:uploader>
-<video:tag>חדשות</video:tag>
-</video:video>
-</url>
-<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-be98470d054b0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/18/M_NEWS_15829_18092026113837_1400_1789731596771_FirstFrame.jpg</video:thumbnail_loc>
@@ -179,6 +163,22 @@
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>מהעולם</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/18/ASAF_VERSAI_18092026_M_1400_1789724160052_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>יותר מ-3 מיליון צפיות - הסרטון מאסון ורסאי שבר את הרשת</video:title>
+<video:description>התיעוד מקריסת הרצפה בירושלים צבר מיליוני צפיות ב-X אצל דוברי ערבית, אחרי שתואר בטעות כסרטון מ-2009 עם פסוק מהקוראן ברקע. אך למעשה מדובר בסרטון מהאסון שהתרחש בשנת 2001, והשיר שהתנגן ברקע הוא בכללל של שרית חדד. מה גרם לסרטון מאסון ורסאי לשבור את הרשת?</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_VERSAI_18092026/MASTER/ASAF_VERSAI_18092026_M/ASAF_VERSAI_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>67</video:duration>
+<video:publication_date>2026-09-18T09:36:06+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
