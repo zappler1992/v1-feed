@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f1ff3383216b0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5d8c3383216b0a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-287d3383216b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a090e6a626b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18835,6 +18833,24 @@
    "updated_ms": 1789448031000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-78e51a35653a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a090e6a626b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: ״המלחמה עם איראן תסתיים בקרוב. אם לא היינו תוקפים אותם כבר היה להם נשק גרעיני״",
+   "duration_s": 30,
+   "first_seen_ms": 1789762647210,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15843_18092026081357_1400_1789762529279_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789762535000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: ״המלחמה עם איראן תסתיים בקרוב. אם לא היינו תוקפים אותם כבר היה להם נשק גרעיני״",
+   "type": "mivzakim",
+   "updated_ms": 1789762535000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a090e6a626b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15843_18092026081357/M_NEWS_15843_18092026081357_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-7a79e926d83a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20966,7 +20982,8 @@
    "importance": 0,
    "published_ms": 1789761920000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "הפרשנים"
    ],
    "title": "״אתם נזק אגבי״: אופירה אסייג על סערת הסרט \"נז״א\"",
    "type": "mivzakim",
