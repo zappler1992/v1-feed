@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-24776853f94b0a1027.htm"
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ecd9257d694b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13878,7 +13878,9 @@
    "image": "https://img.mako.co.il/2026/09/18/ASAF_VERSAI_18092026_M_1400_1789724160052_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789724166000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "יותר מ-3 מיליון צפיות - הסרטון מאסון ורסאי שבר את הרשת",
    "type": "news",
    "updated_ms": 1789733340000,
@@ -33174,6 +33176,24 @@
    "updated_ms": 1789395960000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-d0d45d07640a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/yoav_IOS_140926/MASTER/yoav_IOS_140926/yoav_IOS_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ecd9257d694b0a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "מכירים את זה שהמצלמה של האייפון חדה מדי, ופתאום כל חצ'קון או פצע קטן בפנים בולט בתמונה? באייפון 18 אפל מציעה דרך לרכך את מראה העור, אבל לא באמצעות פילטר שמולבש אחר כך, אלא כבר בזמן הצילום עצמו. יוצר התוכן ים אוליסקר מסביר כל מה שצריך לדעת על השדרוג החדש.",
+   "duration_s": 41,
+   "first_seen_ms": 1789739546920,
+   "image": "https://img.mako.co.il/2026/09/18/yoav_iphone_180926_1400_1789736321888_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789736700000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "הפיצר באייפון החדש שמשנה את עולם הסלפי",
+   "type": "general",
+   "updated_ms": 1789736700000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-ecd9257d694b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/yoav_iphone_180926/MASTER/yoav_iphone_180926/yoav_iphone_180926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-fa49a370366a0a1027.htm": {
    "author": "טכנולוגיה",
