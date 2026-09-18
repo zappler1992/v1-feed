@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fd556da3be2b0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-90446da3be2b0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0a2b9f6403b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18919,6 +18918,24 @@
    "updated_ms": 1789442081000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a032593f8e2a0a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0a2b9f6403b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הגשם מתקרב לאזור המרכז: פרדס חנה כבר רטובה | תיעוד",
+   "duration_s": 18,
+   "first_seen_ms": 1789710746830,
+   "image": "https://img.mako.co.il/2026/09/18/V1_PARDESHANA_6212_18092026054815_1400_1789710563184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789710569000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הגשם מתקרב לאזור המרכז: פרדס חנה כבר רטובה | תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1789710569000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0a2b9f6403b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_PARDESHANA_6212_18092026054815/V1_PARDESHANA_6212_18092026054815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0c2da1dd50a0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20012,7 +20029,8 @@
    "importance": 0,
    "published_ms": 1789706871000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "אסון בקולומביה: ישראלי בן 23 במהלך תאונת צניחה בעיר מדג'ין",
    "type": "mivzakim",

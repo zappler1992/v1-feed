@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a0a2b9f6403b0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-18T05:49:29+00:00</news:publication_date>
+<news:title>הגשם מתקרב לאזור המרכז: פרדס חנה כבר רטובה | תיעוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/18/V1_PARDESHANA_6212_18092026054815_1400_1789710563184_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fd556da3be2b0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1646,23 +1655,5 @@
 <news:title>כולם מדברים על מאקלמור: הסערה שפותחת את המהדורות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/16/yoav_ed_sheeran_160926_1400_1789537607259_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-af44b3177b8a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-16T05:48:49+00:00</news:publication_date>
-<news:title>שמע שהוא עלול להישלח ל-100 שנות מאסר - והתמוטט</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/SHIR_100_160926_1400_1789537719135_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-6da2b3177b8a0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-16T05:47:36+00:00</news:publication_date>
-<news:title>האוטו נתקע בגדר ונכנס לתוך הבריכה הביתית בטקסס, ארה&quot;ב- מטר מהילדים שמבלים בה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/V1_POOL_6134_16092026054630_1400_1789537646782_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
