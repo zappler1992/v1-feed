@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c24e813b5e4b0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-18T14:35:38+00:00</news:publication_date>
+<news:title>כשאימה של ליבי כהן-מגורי שנרצחה ב7/10 פגשה את ראש אמ&quot;ן לשעבר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/18/libi18m_1400_1789742131298_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-24776853f94b0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1493,23 +1502,5 @@
 <news:title>לוחמי יחידת דובדבן עצרו בהכוונת שב&quot;כ מחבל בכיר בהתארגנות הטרור בג׳נין שפורקה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/16/M_NEWS_15726_16092026025353_1400_1789570516071_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-52520bdf4aaa0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-16T14:49:24+00:00</news:publication_date>
-<news:title>&quot;מוות לישראל, מוות ליהודים&quot;: החות&#x27;ים שחררו תיעוד של מסוק ה-F-15 הסעודי שהפילו הלילה במחוז מארב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/biata_houthis_mivfix2_1400_1789573006109_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-62910bdf4aaa0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-16T14:48:20+00:00</news:publication_date>
-<news:title>אחרי המשבר הרפואי: עדן פינס מרגיעה את העוקבים - בביקיני וללא זכר לאלרגיה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/inbaleden160926m_1400_1789570093208_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
