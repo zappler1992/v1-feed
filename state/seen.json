@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3582ad3c21b0a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-85db16dbdd0b0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-84dcbfc6b90b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14180,6 +14179,24 @@
    "updated_ms": 1789402500000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-83e987bf280a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/SHIR_TRUMP_140926/MASTER/SHIR_TRUMP_140926/SHIR_TRUMP_140926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-84dcbfc6b90b0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ביום שלישי הקרוב טראמפ עומד לקיים ועידה עם כל ראשי מדינות המפרץ במטרה להבין: האם יש לו את הגב שלהן על מנת לחדש את המלחמה באיראן, או שעליו לסיים אותה אחת ולתמיד. מתוך חדשות 12.",
+   "duration_s": 63,
+   "first_seen_ms": 1789692747521,
+   "image": "https://img.mako.co.il/2026/09/17/biata_iran_170926_1400_1789669577117_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789669583000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "לחדש או לסיים: ההחלטה הגורלית של טראמפ",
+   "type": "news",
+   "updated_ms": 1789669583000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-84dcbfc6b90b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/biata_iran_170926/MASTER/biata_iran_170926/biata_iran_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-882eb6efc05a0a1026.htm": {
    "author": "חדשות",
@@ -30027,7 +30044,8 @@
    "importance": 2,
    "published_ms": 1789306480000,
    "sections": [
-    "רומי גונן: הפודקאסט"
+    "רומי גונן: הפודקאסט",
+    "הכי נצפים עכשיו"
    ],
    "title": "רומי גונן: כעסתי על אמא שלי כשחזרתי מעזה",
    "type": "general",
