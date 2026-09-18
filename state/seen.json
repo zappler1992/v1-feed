@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-f3544bb9ad2b0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ac1851819f2b0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab916da3be2b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14284,6 +14285,22 @@
    "updated_ms": 1789459380000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-aac1f1fa014a0a1026.htm"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ac1851819f2b0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הסתיו כבר הגיע - ואיתו הגשם. תושבי הצפון והמרכז כבר יכולים לשלוף מטריות, כי סוף השבוע הקרוב יהיה גשום.",
+   "duration_s": 36,
+   "first_seen_ms": 1789709547027,
+   "image": "https://img.mako.co.il/2026/09/18/ASAF_RAIN_18092026_M_1400_1789709086479_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789709280000,
+   "sections": [],
+   "title": "סוף שבוע רטוב - \"מיני יורה\" בדרך אלינו",
+   "type": "news",
+   "updated_ms": 1789709280000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ac1851819f2b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_RAIN_18092026/MASTER/ASAF_RAIN_18092026_M/ASAF_RAIN_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ad43a94fd61a0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -19128,6 +19145,24 @@
    "updated_ms": 1789533009000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab7de6b6478a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_NBC_ENCOR_6131_16092026042837/V1_NBC_ENCOR_6131_16092026042837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab916da3be2b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גשם שוטף כבר יורד בקיבוצי הגליל: תיעוד",
+   "duration_s": 17,
+   "first_seen_ms": 1789709547027,
+   "image": "https://img.mako.co.il/2026/09/18/V1_RAIN_6211_18092026052509_1400_1789709187567_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789709280000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גשם שוטף כבר יורד בקיבוצי הגליל: תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1789709280000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ab916da3be2b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_RAIN_6211_18092026052509/V1_RAIN_6211_18092026052509_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-abc157a813ba0a1027.htm": {
    "author": "מבזקים",
