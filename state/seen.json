@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-a19cf3ee6b2b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b046f3ee6b2b0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec1ade9f3d2b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7971,7 +7972,8 @@
    "published_ms": 1789570680000,
    "sections": [
     "כשהגלים מתחזקים 2",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 37: רותי או כלום",
    "type": "series",
@@ -19183,6 +19185,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-afc0c22b0d5a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15656_15092026041029/M_NEWS_15656_15092026041029_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b046f3ee6b2b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרגדיה בקולומביה: ישראלי בן 23 נהרג בתאונת צניחה",
+   "duration_s": 9,
+   "first_seen_ms": 1789707146695,
+   "image": "https://img.mako.co.il/2026/09/18/M_NEWS_15808_18092026044646_1400_1789706879583_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789706886000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרגדיה בקולומביה: ישראלי בן 23 נהרג בתאונת צניחה",
+   "type": "mivzakim",
+   "updated_ms": 1789706886000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b046f3ee6b2b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15808_18092026044646/M_NEWS_15808_18092026044646_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b17a827682aa0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -19927,6 +19947,24 @@
    "updated_ms": 1789615166000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eb5ca4c605da0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15739_17092026031751/M_NEWS_15739_17092026031751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec1ade9f3d2b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אסון בקולומביה: ישראלי בן 23 במהלך תאונת צניחה בעיר מדג'ין",
+   "duration_s": 15,
+   "first_seen_ms": 1789707146695,
+   "image": "https://img.mako.co.il/2026/09/18/V1_COLOMBIA_6209_18092026044632_1400_1789706865462_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789706871000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אסון בקולומביה: ישראלי בן 23 במהלך תאונת צניחה בעיר מדג'ין",
+   "type": "mivzakim",
+   "updated_ms": 1789706871000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec1ade9f3d2b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_COLOMBIA_6209_18092026044632/V1_COLOMBIA_6209_18092026044632_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eca7539a4e8a0a1026.htm": {
    "author": "מבזקים",
@@ -36175,7 +36213,8 @@
    "published_ms": 1789650972000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בגיל 22 בלבד: אחרי שעברה ניתוח להקטנת חזה -  המשפיענית הברזילאית המפורסמת דודה אלווס מתה",
    "type": "mivzakim",
@@ -36229,7 +36268,8 @@
    "importance": 0,
    "published_ms": 1789392855000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים השבוע"
    ],
    "title": "גנב את ההצגה לנשיא איראן: דובר משרד החוץ ההודי תועד מחסל קופסת אגוזים במהלך נאום של הנשיא",
    "type": "mivzakim",
