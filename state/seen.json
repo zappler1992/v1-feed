@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-09608856548b0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-71445241588b0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5fac27cf3a8b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14049,7 +14050,9 @@
    "image": "https://img.mako.co.il/2026/09/19/inbie_Abam_190926_1400_1789798617419_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789798623000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "הפנטגון חושף: תיעודים חדשים של עב\"מים - וחלקם צולמו במזרח התיכון",
    "type": "news",
    "updated_ms": 1789798623000,
@@ -14505,6 +14508,22 @@
    "type": "news",
    "updated_ms": 1789363906000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-67dd155006e90a1026.htm"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-71445241588b0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מתוך \"חיים ומעיין\", קשת 12: מעיין אדם התייחסה לדבריה של בכירת השב\"כ לשעבר מירה שושני, שאיבדה את הבת שלה ב־7 באוקטובר, בעקבות טענותיה של ח\"כ טלי גוטליב על בגידה מצד אנשי השב\"כ. אדם תקפה בחריפות את גוטליב וכינתה אותה בין היתר \"מכוערת מבפנים\", תוך שהביעה תמיכה בשושני ובכאב שחוותה. בסיום דבריה קראה אדם להפסיק להעניק לגוטליב במה תקשורתית, וטענה כי לאורך זמן היא לא תשפיע על ההיסטוריה הישראלית",
+   "duration_s": 64,
+   "first_seen_ms": 1789804947325,
+   "image": "https://img.mako.co.il/2026/09/19/alona_fix_maayan_1400_1789804300899_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789804260000,
+   "sections": [],
+   "title": "\"כלומניקית, מכוערת מבפנים\": מעיין אדם על ח\"כ טלי גוטליב",
+   "type": "news",
+   "updated_ms": 1789804260000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-71445241588b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/alona_fix_maayan/alona_fix_maayan_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-734f666c8e0a0a1027.htm": {
    "author": "חדשות",
@@ -18629,6 +18648,24 @@
    "type": "mivzakim",
    "updated_ms": 1789406700000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5f3029441c0a0a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5fac27cf3a8b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איראן הודיעה שהוציאה להורג אדם בשם חוסין פדראן שהורשע בריגול עבור ישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1789804947325,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15850_19092026075707_1400_1789804702255_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789804708000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איראן הודיעה שהוציאה להורג אדם בשם חוסין פדראן שהורשע בריגול עבור ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1789804708000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-5fac27cf3a8b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15850_19092026075707/M_NEWS_15850_19092026075707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-608adb747d0a0a1026.htm": {
    "author": "מבזקים",
