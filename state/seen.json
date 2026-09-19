@@ -2996,9 +2996,9 @@
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
    "description": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
-   "duration_s": 5,
+   "duration_s": 10,
    "first_seen_ms": 1789838847400,
-   "image": "https://img.mako.co.il/2026/09/19/fix_adi_1400_1789839547943_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/19/fix_adiii_1_1400_1789840792990_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789838700000,
    "sections": [
@@ -3008,7 +3008,7 @@
    "type": "mivzakim",
    "updated_ms": 1789839540000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/fix_adi/fix_adi_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/fix_adiii_1/fix_adiii_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b61007a8b2c90a1026.htm": {
    "author": "מבזקי סלבס",
@@ -15182,7 +15182,9 @@
    "image": "https://img.mako.co.il/2026/09/19/SHIR_BRASHI_19026_1400_1789831453163_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789831463000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "הבמאי הישראלי שנהרג בתאונת אופניים",
    "type": "news",
    "updated_ms": 1789831440000,
