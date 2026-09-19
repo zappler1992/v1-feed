@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99ca3553baab0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2faa3553baab0a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-430b4ccbfaab0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-39fe3553baab0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2992,6 +2993,22 @@
    "updated_ms": 1789621440000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b1a6ac152eba0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_crowd_6166_16092026085154/V1_crowd_6166_16092026085154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
+   "duration_s": 9,
+   "first_seen_ms": 1789838847400,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_adi_6258_19092026050046_1400_1789837316304_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789838700000,
+   "sections": [],
+   "title": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
+   "type": "mivzakim",
+   "updated_ms": 1789838700000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_adi_6258_19092026050046/V1_karind_adi_6258_19092026050046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b61007a8b2c90a1026.htm": {
    "author": "מבזקי סלבס",
@@ -8280,7 +8297,8 @@
    "importance": 1,
    "published_ms": 1789464751000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 39: איתן מתפוצץ.",
    "type": "series",
@@ -14211,7 +14229,8 @@
    "importance": 2,
    "published_ms": 1789821654000,
    "sections": [
-    "הפרשנים"
+    "הפרשנים",
+    "הכי נצפים עכשיו"
    ],
    "title": "רגע לפני ההחלטה הגורלית: דני קושמרו שואל - על מה באמת הבחירות?",
    "type": "news",
@@ -14531,7 +14550,8 @@
    "importance": 2,
    "published_ms": 1789825197000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הנשיא שאיכזב את ישראל וקרא:\"לשחרר את פלסטין\"",
    "type": "news",
@@ -14690,7 +14710,8 @@
    "importance": 1,
    "published_ms": 1789821573000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "התיעוד ההזוי שעלה ברשת הצרפתית: פצצת אטום בתל אביב",
    "type": "news",
@@ -18544,6 +18565,24 @@
    "updated_ms": 1789624561000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-41c8fa8eeeda0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/M_NEWS_15752_17092026055425/M_NEWS_15752_17092026055425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-430b4ccbfaab0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל חיסל את את המחבל מחמד סלימאן ביוק מפקד מארגון הטרור חמאס שפשט למדינת ישראל בטבח 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1789838847400,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_hamas_6264_19092026052301_1400_1789838664561_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789838671000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל חיסל את את המחבל מחמד סלימאן ביוק מפקד מארגון הטרור חמאס שפשט למדינת ישראל בטבח 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1789838671000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-430b4ccbfaab0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_hamas_6264_19092026052301/V1_karind_hamas_6264_19092026052301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm": {
    "author": "מבזקים",
@@ -37696,6 +37735,24 @@
    "updated_ms": 1789824155000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-32c172bc0c9b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_utah_6245_19092026012106/V1_karind_utah_6245_19092026012106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-39fe3553baab0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המשאית איבדה בלמים - והתהפכה: 2 נהרגו וכמה נפצעו בתאונה בהודו",
+   "duration_s": 33,
+   "first_seen_ms": 1789838847400,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_india_6263_19092026052049_1400_1789838534876_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789838544000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המשאית איבדה בלמים - והתהפכה: 2 נהרגו וכמה נפצעו בתאונה בהודו",
+   "type": "mivzakim",
+   "updated_ms": 1789838544000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-39fe3553baab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_india_6263_19092026052049/V1_karind_india_6263_19092026052049_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-3ca5dd7121ab0a1027.htm": {
    "author": "מבזקים מהעולם",
