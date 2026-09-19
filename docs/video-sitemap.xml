@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/19/SHIR_SLAP_190926_FIX_1400_1789845548340_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הסרטון שהטריף את ישראל: מאמן הקרב מגע שסטר לנער מסביר למה עשה את זה</video:title>
+<video:description>הסרטון שעורר סערה: מאמן הקרב מגע עדן אלייב תועד סוטר לנער שאימן, ובהמשך הסביר: &quot;צריך לדעת להתמודד עם קושי&quot;.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/SHIR_SLAP_190926_FIX/SHIR_SLAP_190926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>67</video:duration>
+<video:publication_date>2026-09-19T19:16:05+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-f7209dbd1fab0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/19/V1_karind_eyal_6267_19092026064137_1400_1789843376819_FirstFrame.jpg</video:thumbnail_loc>
@@ -63,6 +79,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -357,6 +374,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -389,6 +407,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>לייף &amp; סטייל</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -486,6 +505,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

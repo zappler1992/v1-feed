@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-f7209dbd1fab0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3002,7 +3002,8 @@
    "importance": 1,
    "published_ms": 1789838700000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
    "type": "mivzakim",
@@ -14113,6 +14114,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w02/shorts-faea289a44180a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/SHIR_WARSA_080926/MASTER/SHIR_WARSA_080926/SHIR_WARSA_080926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הסרטון שעורר סערה: מאמן הקרב מגע עדן אלייב תועד סוטר לנער שאימן, ובהמשך הסביר: \"צריך לדעת להתמודד עם קושי\".",
+   "duration_s": 67,
+   "first_seen_ms": 1789846046649,
+   "image": "https://img.mako.co.il/2026/09/19/SHIR_SLAP_190926_FIX_1400_1789845548340_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789845365000,
+   "sections": [],
+   "title": "הסרטון שהטריף את ישראל: מאמן הקרב מגע שסטר לנער מסביר למה עשה את זה",
+   "type": "news",
+   "updated_ms": 1789845540000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/SHIR_SLAP_190926_FIX/SHIR_SLAP_190926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -14830,7 +14847,8 @@
    "importance": 2,
    "published_ms": 1789829934000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "מתכוננים לצום? זו הטעות שכדאי להימנע ממנה",
    "type": "news",
@@ -15201,7 +15219,8 @@
    "importance": 2,
    "published_ms": 1789831463000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הבמאי הישראלי שנהרג בתאונת אופניים",
    "type": "news",
@@ -37592,7 +37611,8 @@
    "importance": 1,
    "published_ms": 1789825478000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המקום שאסור להתקרב אליו: בברזיל תיעדו לראשונה שבט שמתבודד מהעולם בלב יער האמזונס",
    "type": "mivzakim",
