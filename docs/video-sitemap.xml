@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-44b372bc0c9b0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/19/V1_KARIND_GAZA_6246_19092026012356_1400_1789824317715_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>דיווח: כלי רכב הותקף על ידי כטב&quot;ם בשכונת שיח&#x27; רצ&#x27;ואן שבצפון העיר עזה, יש הרוגים ופצועים</video:title>
+<video:description>דיווח: כלי רכב הותקף על ידי כטב&quot;ם בשכונת שיח&#x27; רצ&#x27;ואן שבצפון העיר עזה, יש הרוגים ופצועים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_KARIND_GAZA_6246_19092026012356/V1_KARIND_GAZA_6246_19092026012356_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>22</video:duration>
+<video:publication_date>2026-09-19T13:25:25+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3c1272bc0c9b0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/19/M_NEWS_15864_19092026012241_1400_1789824230185_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>צה״ל ביצע חיסול ממוקד בעיר עזה</video:title>
+<video:description>צה״ל ביצע חיסול ממוקד בעיר עזה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15864_19092026012241/M_NEWS_15864_19092026012241_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>15</video:duration>
+<video:publication_date>2026-09-19T13:23:57+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-32c172bc0c9b0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/19/V1_karind_utah_6245_19092026012106_1400_1789824148945_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>קולקציית חורף, תרתי משמע: גשם ירד לתוך חנות ביוטה שבארצות הברית - והרטיב את כל הבגדים</video:title>
+<video:description>קולקציית חורף, תרתי משמע: גשם ירד לתוך חנות ביוטה שבארצות הברית - והרטיב את כל הבגדים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_utah_6245_19092026012106/V1_karind_utah_6245_19092026012106_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>43</video:duration>
+<video:publication_date>2026-09-19T13:22:35+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים מהעולם</video:uploader>
+<video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-86cd72bc0c9b0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/19/V1_lovimmozarim_6244_19092026010945_1400_1789823479225_FirstFrame.jpg</video:thumbnail_loc>
@@ -206,6 +254,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
@@ -223,6 +272,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -256,6 +306,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי Vיראלים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

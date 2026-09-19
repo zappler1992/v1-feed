@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-86cd72bc0c9b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-44b372bc0c9b0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3c1272bc0c9b0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-32c172bc0c9b0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1898,7 +1900,9 @@
    "image": "https://img.mako.co.il/2026/09/19/inbie_carrot_190926_1400_1789812244627_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789812251000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "אמריקה בהלם: \"ראש גזר\", השחקן והקומיקאי מהוליווד, התאשפז אחרי ניסיון התאבדות",
    "type": "general",
    "updated_ms": 1789812251000,
@@ -14608,7 +14612,8 @@
    "importance": 2,
    "published_ms": 1789810623000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "דיווח ב-CNN: ארה\"ב כמעט פתחה מלחמת עולם בגלל AI",
    "type": "news",
@@ -18187,6 +18192,24 @@
    "updated_ms": 1789461296000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3aec327f034a0a1026.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3c1272bc0c9b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל ביצע חיסול ממוקד בעיר עזה",
+   "duration_s": 15,
+   "first_seen_ms": 1789824446918,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15864_19092026012241_1400_1789824230185_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789824237000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל ביצע חיסול ממוקד בעיר עזה",
+   "type": "mivzakim",
+   "updated_ms": 1789824237000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3c1272bc0c9b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15864_19092026012241/M_NEWS_15864_19092026012241_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3df6aa24a60a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -18301,6 +18324,24 @@
    "type": "mivzakim",
    "updated_ms": 1789297897000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4384f6c516a90a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-44b372bc0c9b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח: כלי רכב הותקף על ידי כטב\"ם בשכונת שיח' רצ'ואן שבצפון העיר עזה, יש הרוגים ופצועים",
+   "duration_s": 22,
+   "first_seen_ms": 1789824446918,
+   "image": "https://img.mako.co.il/2026/09/19/V1_KARIND_GAZA_6246_19092026012356_1400_1789824317715_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789824325000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח: כלי רכב הותקף על ידי כטב\"ם בשכונת שיח' רצ'ואן שבצפון העיר עזה, יש הרוגים ופצועים",
+   "type": "mivzakim",
+   "updated_ms": 1789824325000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-44b372bc0c9b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_KARIND_GAZA_6246_19092026012356/V1_KARIND_GAZA_6246_19092026012356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-459b29441c0a0a1026.htm": {
    "author": "מבזקים",
@@ -37243,6 +37284,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-30aaf3ee6b2b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/V1_BATMEN_6207_18092026041831/V1_BATMEN_6207_18092026041831_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-32c172bc0c9b0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "קולקציית חורף, תרתי משמע: גשם ירד לתוך חנות ביוטה שבארצות הברית - והרטיב את כל הבגדים",
+   "duration_s": 43,
+   "first_seen_ms": 1789824446918,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_utah_6245_19092026012106_1400_1789824148945_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789824155000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "קולקציית חורף, תרתי משמע: גשם ירד לתוך חנות ביוטה שבארצות הברית - והרטיב את כל הבגדים",
+   "type": "mivzakim",
+   "updated_ms": 1789824155000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-32c172bc0c9b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_utah_6245_19092026012106/V1_karind_utah_6245_19092026012106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-3d4a8c2611f90a1026.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -37838,7 +37897,8 @@
    "published_ms": 1789808702000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד חריג: רגלי נהג שעבר תאונה קשה מציצות מתחתית המכונית באטלנטה",
    "type": "mivzakim",
