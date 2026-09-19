@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-14a86f3154bb0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-19T20:05:25+00:00</news:publication_date>
+<news:title>קיבלה ציון גרוע במבחן - ודקרה את המורה באמצע הכיתה: תיעוד חריג מברזיל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/19/V1_KARIND_DKIRA_6270_19092026080338_1400_1789848318726_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9c562b5df2bb0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1277,14 +1286,5 @@
 <news:title>דיווח ברשת NBC: הפנטגון נערך להוציא כשליש מכוחותיו המוצבים באירופה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/18/V1_PENTAGON_6205_17092026085934_1400_1789678854374_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-825f7e51fe0b0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-17T20:04:49+00:00</news:publication_date>
-<news:title>כל מה שצריך לדעת לפני יום כיפור</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/17/biata_kippur_170926_1400_1789675480854_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
