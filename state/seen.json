@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-e0345518069b0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b5f79f3149ab0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99ca3553baab0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2faa3553baab0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18223,6 +18223,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2dd06665909a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/M_NEWS_15690_16092026070812/M_NEWS_15690_16092026070812_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2faa3553baab0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ההסתבכות החדשה של הישראלים בטורקיה: צפו ברגע המעצר של החשודים בפרשה",
+   "duration_s": 4,
+   "first_seen_ms": 1789838547404,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_israelis_6262_19092026051758_1400_1789838338114_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789838347000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ההסתבכות החדשה של הישראלים בטורקיה: צפו ברגע המעצר של החשודים בפרשה",
+   "type": "mivzakim",
+   "updated_ms": 1789838347000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-2faa3553baab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_israelis_6262_19092026051758/V1_karind_israelis_6262_19092026051758_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-3098e387b93a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20087,6 +20105,24 @@
    "type": "mivzakim",
    "updated_ms": 1789318876000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-96d7836da9b90a1026.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99ca3553baab0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דובר צה\"ל: צה\"ל חיסל את המחבל מחמד סלימאן ביוק, מפקד בחמאס שחדר לישראל ב-7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1789838547404,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15875_19092026051742_1400_1789838345205_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789838351000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דובר צה\"ל: צה\"ל חיסל את המחבל מחמד סלימאן ביוק, מפקד בחמאס שחדר לישראל ב-7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1789838351000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99ca3553baab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15875_19092026051742/M_NEWS_15875_19092026051742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-99d17686ff9a0a1026.htm": {
    "author": "מבזקים",
