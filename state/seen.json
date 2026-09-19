@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b7f2470e86bb0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d0547d0db7bb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3103,7 +3103,8 @@
    "importance": 0,
    "published_ms": 1789843386000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "המילארדר איל וולדמן ובת הזוג הצעירה מאיה עדן העלו סטורי משותף - חודש אחרי שהודיעו על פרידה",
    "type": "mivzakim",
@@ -14709,7 +14710,8 @@
    "importance": 2,
    "published_ms": 1789833670000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "חבר הקונגרס מתריע: השינוי החריג בתמיכה האמריקנית בישראל",
    "type": "news",
@@ -15330,7 +15332,9 @@
    "image": "https://img.mako.co.il/2026/09/19/fix_2mainturkey_1400_1789839340487_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789837560000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "משרד החוץ מאשר: 9 ישראלים נעצרו בחשד לניהול רשת הונאות",
    "type": "news",
    "updated_ms": 1789839060000,
@@ -22432,6 +22436,24 @@
    "updated_ms": 1789851691000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b7f2470e86bb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_karind_bibi_6273_19092026085959/V1_karind_bibi_6273_19092026085959_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d0547d0db7bb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו הגיע הערב למעמד הסליחות בכותל המערבי",
+   "duration_s": 5,
+   "first_seen_ms": 1789853846770,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15885_19092026093050_1400_1789853536014_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789853543000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו הגיע הערב למעמד הסליחות בכותל המערבי",
+   "type": "mivzakim",
+   "updated_ms": 1789853543000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d0547d0db7bb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15885_19092026093050/M_NEWS_15885_19092026093050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
