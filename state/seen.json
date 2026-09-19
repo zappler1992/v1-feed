@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9c562b5df2bb0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14118,9 +14118,9 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "הסרטון שעורר סערה: מאמן הקרב מגע עדן אלייב תועד סוטר לנער שאימן, ובהמשך הסביר: \"צריך לדעת להתמודד עם קושי\".",
-   "duration_s": 67,
+   "duration_s": 58,
    "first_seen_ms": 1789846046649,
-   "image": "https://img.mako.co.il/2026/09/19/SHIR_SLAP_190926_FIX_1400_1789845548340_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/19/SHIR_SLAP_190926_FIX1_1400_1789846598228_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1789845365000,
    "sections": [
@@ -14128,9 +14128,9 @@
    ],
    "title": "הסרטון שהטריף את ישראל: מאמן הקרב מגע שסטר לנער מסביר למה עשה את זה",
    "type": "news",
-   "updated_ms": 1789845540000,
+   "updated_ms": 1789846560000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-00d4e423e0bb0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/SHIR_SLAP_190926_FIX/SHIR_SLAP_190926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/SHIR_SLAP_190926_FIX1/SHIR_SLAP_190926_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-04bbbe1ebd3b0a1027.htm": {
    "author": "חדשות",
@@ -20257,6 +20257,24 @@
    "updated_ms": 1789501896000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9ab2a66c396a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/M_NEWS_15670_15092026074957/M_NEWS_15670_15092026074957_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9c562b5df2bb0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מסר מידע על אתרי שיגור טילים וריגל עבור ישראל\": איראן הוציאה להורג את חוסין פדראן",
+   "duration_s": 9,
+   "first_seen_ms": 1789847546632,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_iran_6268_19092026074846_1400_1789847415655_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789847424000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מסר מידע על אתרי שיגור טילים וריגל עבור ישראל\": איראן הוציאה להורג את חוסין פדראן",
+   "type": "mivzakim",
+   "updated_ms": 1789847424000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9c562b5df2bb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_iran_6268_19092026074846/V1_karind_iran_6268_19092026074846_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-9e3fa8db339a0a1027.htm": {
    "author": "מבזקים",
@@ -37866,19 +37884,19 @@
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
    "description": "אריה השתולל ברחובות סן פרנסיסקו - ונתפס אחרי שעות",
-   "duration_s": 29,
+   "duration_s": 28,
    "first_seen_ms": 1789842146524,
-   "image": "https://img.mako.co.il/2026/09/19/V1_KARIND_LION_6266_19092026061557_1400_1789841833052_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/09/19/fix_lion_1400_1789847161556_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1789841841000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "אריה השתולל ברחובות סן פרנסיסקו - ונתפס אחרי שעות",
    "type": "mivzakim",
-   "updated_ms": 1789841841000,
+   "updated_ms": 1789847160000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-407f2bf68dab0a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_KARIND_LION_6266_19092026061557/V1_KARIND_LION_6266_19092026061557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/fix_lion/fix_lion_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-41fdfe5feeb90a1027.htm": {
    "author": "מבזקים מהעולם",
