@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-1d824a56b4ab0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4cdd587697ab0a1027.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-bf49e926f5ab0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3003,6 +3004,24 @@
    "type": "mivzakim",
    "updated_ms": 1789327300000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b61007a8b2c90a1026.htm"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-bf49e926f5ab0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"האהבה חונקת\": דניאל עמית ואמילי דמארי מאוהבות מתמיד",
+   "duration_s": 16,
+   "first_seen_ms": 1789835547282,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_danielamit_6255_19092026035309_1400_1789833264417_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789833272000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"האהבה חונקת\": דניאל עמית ואמילי דמארי מאוהבות מתמיד",
+   "type": "mivzakim",
+   "updated_ms": 1789833272000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-bf49e926f5ab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_danielamit_6255_19092026035309/V1_karind_danielamit_6255_19092026035309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-ec3beeb93e4a0a1026.htm": {
    "author": "מבזקי סלבס",
@@ -18709,6 +18728,24 @@
    "updated_ms": 1789617421000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4c7dc09a87da0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_thahazit_6167_17092026035524/V1_thahazit_6167_17092026035524_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4cdd587697ab0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשש לחדירת מחבלים ביישוב יצהר שבשומרון",
+   "duration_s": 9,
+   "first_seen_ms": 1789835547282,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_mehablim_6256_19092026042815_1400_1789835383220_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789835389000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשש לחדירת מחבלים ביישוב יצהר שבשומרון",
+   "type": "mivzakim",
+   "updated_ms": 1789835389000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4cdd587697ab0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_mehablim_6256_19092026042815/V1_karind_mehablim_6256_19092026042815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-4e25c02dbdd90a1027.htm": {
    "author": "מבזקים",
