@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-af602696189b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-81c187a3e89b0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8e4187a3e89b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19306,6 +19307,24 @@
    "updated_ms": 1789415731000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8093a94fd61a0a1027.htm"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-81c187a3e89b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד נוסף משדה התעופה בסעודיה",
+   "duration_s": 4,
+   "first_seen_ms": 1789821146798,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15860_19092026122706_1400_1789820900496_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789820906000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד נוסף משדה התעופה בסעודיה",
+   "type": "mivzakim",
+   "updated_ms": 1789820906000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-81c187a3e89b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15860_19092026122706/M_NEWS_15860_19092026122706_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-82b32745aa8a0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -19540,6 +19559,24 @@
    "updated_ms": 1789633226000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8e09459c37ea0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_Karind_fire_6177_17092026081901/V1_Karind_fire_6177_17092026081901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8e4187a3e89b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המתקפה על סעודיה: עשן עולה ממתקן לאחסון דלק בנמל התעופה הבינלאומי המלך חאלד בריאד",
+   "duration_s": 26,
+   "first_seen_ms": 1789821146798,
+   "image": "https://img.mako.co.il/2026/09/19/V1_SAUDI_6242_19092026122539_1400_1789820816129_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789820825000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המתקפה על סעודיה: עשן עולה ממתקן לאחסון דלק בנמל התעופה הבינלאומי המלך חאלד בריאד",
+   "type": "mivzakim",
+   "updated_ms": 1789820825000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8e4187a3e89b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_SAUDI_6242_19092026122539/V1_SAUDI_6242_19092026122539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-8f0ebe42b33a0a1027.htm": {
    "author": "מבזקים",
