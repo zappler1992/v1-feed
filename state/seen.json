@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-430b4ccbfaab0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-39fe3553baab0a1026.htm"
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w03/shorts-532a3553baab0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2998,17 +2996,19 @@
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
    "description": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
-   "duration_s": 9,
+   "duration_s": 5,
    "first_seen_ms": 1789838847400,
-   "image": "https://img.mako.co.il/2026/09/19/V1_karind_adi_6258_19092026050046_1400_1789837316304_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/19/fix_adi_1400_1789839547943_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789838700000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "עדי הימלבלוי והחבר החדש זיו שעיה נפרדו. פורסם לראשונה ב\"ערב טוב עם גיא פינס\"",
    "type": "mivzakim",
-   "updated_ms": 1789838700000,
+   "updated_ms": 1789839540000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b5e29f3149ab0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_adi_6258_19092026050046/V1_karind_adi_6258_19092026050046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/fix_adi/fix_adi_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w03/shorts-b61007a8b2c90a1026.htm": {
    "author": "מבזקי סלבס",
@@ -4303,6 +4303,24 @@
    "updated_ms": 1788699420000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w02/shorts-3f8570105a670a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/06/FIX_yoav_tlv_060926_MIV/FIX_yoav_tlv_060926_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w03/shorts-532a3553baab0a1026.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "צעקות באולפן: הוויכוח בין אחמד טיבי לעמית סגל על חברי כנסת שתומכים בטרור",
+   "duration_s": 42,
+   "first_seen_ms": 1789840047524,
+   "image": "https://img.mako.co.il/2026/09/19/V1_SHIR_12_6261_19092026051654_1400_1789838316922_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789838323000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "צעקות באולפן: הוויכוח בין אחמד טיבי לעמית סגל על חברי כנסת שתומכים בטרור",
+   "type": "mivzakim",
+   "updated_ms": 1789838323000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w03/shorts-532a3553baab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_SHIR_12_6261_19092026051654/V1_SHIR_12_6261_19092026051654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2025-m05_w04/shorts-8f181379998e691026.htm": {
    "author": "אוכל",
