@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-58864a56b4ab0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c290e926f5ab0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15114,6 +15114,24 @@
    "updated_ms": 1789742138000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c24e813b5e4b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/libi18/MASTER/libi18m/libi18m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c290e926f5ab0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לקראת צום כיפור - אלו הטיפים הכי יעלים שיעזרו לכם לעבור את הצום בשלום. חשוב להתחיל לשתות מים במנות קטנות, לאכול ארוחות גדולות מעט מהרגיל ולא להאביס מדי.",
+   "duration_s": 64,
+   "first_seen_ms": 1789837347378,
+   "image": "https://img.mako.co.il/2026/09/19/MAYA_KIPUR_190926_1400_1789833740445_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789833746000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "אלו הטיפים הכי יעלים שיעזרו לכם לעבור את הצום בשלום",
+   "type": "news",
+   "updated_ms": 1789833746000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-c290e926f5ab0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/MAYA_KIPUR_190926/MASTER/MAYA_KIPUR_190926/MAYA_KIPUR_190926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-cfd7dd1223ab0a1026.htm": {
    "author": "חדשות",
@@ -31937,21 +31955,22 @@
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-b1b63a5acd580a1027.htm": {
    "author": "מיוחד",
-   "date_source": null,
+   "date_source": "page-jsonld",
    "description": "יום כיפור בפתח: מדריכת ההורים עינת נתן עם דברים שאנחנו צריכים לבקש סליחה מהמתבגרים שלנו",
    "duration_s": 71,
+   "enrich_attempts": 1,
    "first_seen_ms": 1789825346922,
-   "image": "https://img.mako.co.il/2026/09/09/KIPOREINT_TAMAR_0909_M_1400_1788952931596_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/19/TAMAR_EINATNATAN_190926_FIX_1400_1789836986356_FirstFrame.jpg",
    "importance": 1,
-   "published_ms": null,
+   "published_ms": 1788952938000,
    "sections": [
     "הטיפ היומי"
    ],
    "title": "דברים שאנחנו צריכים לבקש סליחה מהמתבגרים שלנו",
    "type": "general",
-   "updated_ms": null,
+   "updated_ms": 1788952938000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-b1b63a5acd580a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/09/KIPOREINT_TAMAR_0909/MASTER/KIPOREINT_TAMAR_0909_M/KIPOREINT_TAMAR_0909_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/TAMAR_EINATNATAN_190926_FIX/TAMAR_EINATNATAN_190926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w02/shorts-d124772137090a1027.htm": {
    "author": "מיוחד",
