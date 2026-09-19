@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-4d60193aadea0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fb583e4d5e8b0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-c85d1d8fed8b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11075,7 +11076,8 @@
    "importance": 1,
    "published_ms": 1789808340000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "מסודרים"
    ],
    "title": "מסודרים פרק 39: חתונה בהפתעה",
    "type": "series",
@@ -21480,6 +21482,24 @@
    "updated_ms": 1789723955000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fb49be1ebd3b0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/M_NEWS_15823_18092026093103/M_NEWS_15823_18092026093103_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fb583e4d5e8b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מרהיב: נד מים שנראה בגן הלאומי חוף פלמחים. צילום: שלומי יצחקי, מתנדב ברשות הטבע והגנים",
+   "duration_s": 8,
+   "first_seen_ms": 1789808847401,
+   "image": "https://img.mako.co.il/2026/09/19/V1_ned_6239_19092026090114_1400_1789808539571_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789808546000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מרהיב: נד מים שנראה בגן הלאומי חוף פלמחים. צילום: שלומי יצחקי, מתנדב ברשות הטבע והגנים",
+   "type": "mivzakim",
+   "updated_ms": 1789808546000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fb583e4d5e8b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_ned_6239_19092026090114/V1_ned_6239_19092026090114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fbd5e7bbf4ea0a1026.htm": {
    "author": "מבזקים",
@@ -37517,6 +37537,24 @@
    "type": "mivzakim",
    "updated_ms": 1789445937000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-c35fbe42b33a0a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-c85d1d8fed8b0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חריג: רגלי נהג שעבר תאונה קשה מציצות מתחתית המכונית באטלנטה",
+   "duration_s": 11,
+   "first_seen_ms": 1789808847401,
+   "image": "https://img.mako.co.il/2026/09/19/V1_legs_6240_19092026090343_1400_1789808694125_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789808702000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד חריג: רגלי נהג שעבר תאונה קשה מציצות מתחתית המכונית באטלנטה",
+   "type": "mivzakim",
+   "updated_ms": 1789808702000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-c85d1d8fed8b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_legs_6240_19092026090343/V1_legs_6240_19092026090343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-caceb226415a0a1027.htm": {
    "author": "מבזקים מהעולם",
