@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-a645bf7b209b0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-512cce25349b0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-e9aa1d8fed8b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14984,6 +14983,24 @@
    "updated_ms": 1789636860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-dc17c9d2b8ea0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/inbie_ZIONIST_170926/MASTER/inbie_ZIONIST_170926/inbie_ZIONIST_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-e9aa1d8fed8b0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מייקל דסרונוויל נחשף כמושבע היחיד שהתנגד לזיכוי לינדזי קלנסי מאחריות לרצח שלושת ילדיה, מה שהוביל לסיום המשפט ללא הכרעה. בעוד ש-11 מושבעים סברו כי קלנסי פעלה תחת פסיכוזה שלאחר לידה, דסרונוויל התעקש כי מעשיה היו מתוכננים. בעקבות חשיפתו, הוא מתמודד עם ביקורת ציבורית ופרסום עברו, אך במקביל זוכה לתמיכה רחבה מצד שמרנים בארה\"ב ולגיוס תרומות עבורו בסך מאות אלפי דולרים.",
+   "duration_s": 61,
+   "first_seen_ms": 1789817246624,
+   "image": "https://img.mako.co.il/2026/09/19/inbie_juryduty_190926_1400_1789808374078_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789808380000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "נגד 11 מושבעים: נחשף האיש שהתעקש שהאם שחנקה את ילדיה \"ידעה מה היא עושה\"",
+   "type": "news",
+   "updated_ms": 1789808380000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-e9aa1d8fed8b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/inbie_juryduty_190926/MASTER/inbie_juryduty_190926/inbie_juryduty_190926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-ebca59a13faa0a1027.htm": {
    "author": "חדשות",
@@ -33846,7 +33863,8 @@
    "importance": 2,
    "published_ms": 1789805210000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "הסכנות בבינה המלאכותית: AI פרץ לשלוש חברות",
    "type": "general",
@@ -37608,7 +37626,8 @@
    "importance": 0,
    "published_ms": 1789806260000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ככה חונים?! אישה בת 78 התנגשה בשש מכוניות בחניון בפולין",
    "type": "mivzakim",
