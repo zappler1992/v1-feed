@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-02ffb8a6fd9b0a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -37123,6 +37125,24 @@
    "type": "mivzakim",
    "updated_ms": 1789022220000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w02/shorts-fda203af10a80a1027.htm"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-02ffb8a6fd9b0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המקום שאסור להתקרב אליו: בברזיל תיעדו לראשונה שבט שמתבודד מהעולם בלב יער האמזונס",
+   "duration_s": 34,
+   "first_seen_ms": 1789825646911,
+   "image": "https://img.mako.co.il/2026/09/19/V1_karind_brazil_6247_19092026014312_1400_1789825471984_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789825478000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המקום שאסור להתקרב אליו: בברזיל תיעדו לראשונה שבט שמתבודד מהעולם בלב יער האמזונס",
+   "type": "mivzakim",
+   "updated_ms": 1789825478000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-02ffb8a6fd9b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/V1_karind_brazil_6247_19092026014312/V1_karind_brazil_6247_19092026014312_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-036c01af514b0a1026.htm": {
    "author": "מבזקים מהעולם",
