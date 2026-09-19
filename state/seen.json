@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d5e02beae7ab0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e5702beae7ab0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-58864a56b4ab0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14605,6 +14604,24 @@
    "updated_ms": 1789479462000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-575e0dae445a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/alice_150926_thai/MASTER/alice_150926_thai/alice_150926_thai_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-58864a56b4ab0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "\"הפנימו את השינוי החד בדעת הקהל בארה\"ב\": חבר בית הנבחרים בראד שרמן (דמוקרט, קליפורניה), שנחשב לאחד מתומכיה הוותיקים של ישראל, קורא לישראלים לצפות בנתוני CNN המצביעים על ירידה חדה באהדה לישראל בארה\"ב. בפוסט כתב: \"ישראל לא יכולה לשרוד בלי חברים בעולם\"",
+   "duration_s": 72,
+   "first_seen_ms": 1789837047332,
+   "image": "https://img.mako.co.il/2026/09/19/FIXMAIN_PASS_1400_1789836344310_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789833670000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "חבר הקונגרס מתריע: השינוי החריג בתמיכה האמריקנית בישראל",
+   "type": "news",
+   "updated_ms": 1789833670000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-58864a56b4ab0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/FIXMAIN_PASS/FIXMAIN_PASS_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-61c76665909a0a1027.htm": {
    "author": "חדשות",
