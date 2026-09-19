@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-4090b9980e5b0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec6e61fe5b7b0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0a3d2baa7b7b0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17064,6 +17065,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0a179763f99a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/V1_GERMANYP_6140_16092026100529/V1_GERMANYP_6140_16092026100529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0a3d2baa7b7b0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לראשונה מתחילת ההסלמה: אזעקות נשמעו בריאד, בירת סעודיה, בעקבות ירי מתימן",
+   "duration_s": 6,
+   "first_seen_ms": 1789789647137,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15846_19092026034317_1400_1789789465570_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789789476000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לראשונה מתחילת ההסלמה: אזעקות נשמעו בריאד, בירת סעודיה, בעקבות ירי מתימן",
+   "type": "mivzakim",
+   "updated_ms": 1789789476000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0a3d2baa7b7b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15846_19092026034317/M_NEWS_15846_19092026034317_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-0e0fb23025fa0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -20854,6 +20873,24 @@
    "updated_ms": 1789707240000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec1ade9f3d2b0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/FIX_COLOMBIA_M/FIX_COLOMBIA_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec6e61fe5b7b0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ הכריז: \"ארה\"ב שולטת ביטחונית בגרינלנד\"",
+   "duration_s": 17,
+   "first_seen_ms": 1789789647137,
+   "image": "https://img.mako.co.il/2026/09/19/M_NEWS_15847_19092026034500_1400_1789789569380_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789789576000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ הכריז: \"ארה\"ב שולטת ביטחונית בגרינלנד\"",
+   "type": "mivzakim",
+   "updated_ms": 1789789576000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-ec6e61fe5b7b0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/M_NEWS_15847_19092026034500/M_NEWS_15847_19092026034500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-eca7539a4e8a0a1026.htm": {
    "author": "מבזקים",
