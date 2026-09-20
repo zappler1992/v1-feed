@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c557fe63eecb0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0ea95b3f60db0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-25e85b3f60db0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22456,6 +22457,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0e7efe63eecb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_forecast_6274_20092026035823/V1_forecast_6274_20092026035823_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0ea95b3f60db0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אשדוד: נער בן 14 נפגע מרכב בזמן שרכב על קורקינט, מצבו בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1789878146675,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15891_20092026041708_1400_1789877920013_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789877930000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אשדוד: נער בן 14 נפגע מרכב בזמן שרכב על קורקינט, מצבו בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1789877930000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0ea95b3f60db0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15891_20092026041708/M_NEWS_15891_20092026041708_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -22473,6 +22492,24 @@
    "updated_ms": 1789873702000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15888_20092026030645/M_NEWS_15888_20092026030645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-25e85b3f60db0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זה ניצחון אמיתי: אלקנה בוחבוט ואוהד בן עמי במעמד הסליחות אצל נשיא מוסדות 'אור החיים'",
+   "duration_s": 16,
+   "first_seen_ms": 1789878146675,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15890_20092026041621_1400_1789877856549_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789877867000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זה ניצחון אמיתי: אלקנה בוחבוט ואוהד בן עמי במעמד הסליחות אצל נשיא מוסדות 'אור החיים'",
+   "type": "mivzakim",
+   "updated_ms": 1789877867000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-25e85b3f60db0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15890_20092026041621/M_NEWS_15890_20092026041621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm": {
    "author": "מבזקים",
