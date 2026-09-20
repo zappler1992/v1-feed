@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm",
-  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-2ea6e292d4eb0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f543bced01fb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23365,6 +23364,24 @@
    "updated_ms": 1789896302000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f2b40db231eb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_DAVID_6286_20092026092337/V1_DAVID_6286_20092026092337_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f543bced01fb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ערב יום הכיפורים באיראן: המוני מתפללים גדשו את בית הכנסת בטהרן לקראת כניסת הצום",
+   "duration_s": 9,
+   "first_seen_ms": 1789913846582,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15921_20092026020951_1400_1789913487970_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789913494000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ערב יום הכיפורים באיראן: המוני מתפללים גדשו את בית הכנסת בטהרן לקראת כניסת הצום",
+   "type": "mivzakim",
+   "updated_ms": 1789913494000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f543bced01fb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15921_20092026020951/M_NEWS_15921_20092026020951_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f964d1b37bdb0a1027.htm": {
    "author": "מבזקים",
