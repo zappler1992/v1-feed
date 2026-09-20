@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-00e14b33c3db0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T05:34:07+00:00</news:publication_date>
+<news:title>אש ועשן בבית זיקוק ברוסיה בעקבות מתקפה אוקראינית</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/M_NEWS_15899_20092026053255_1400_1789882438919_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1323,14 +1332,5 @@
 <news:title>האמת מאחורי האשפוז של אוהד בוזגלו באברבנאל</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/18/SHIRA_OHAD_170826_M_1400_1789710342377_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-fd556da3be2b0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-18T05:33:00+00:00</news:publication_date>
-<news:title>זה פה: גשם החל לרדת באזור אשדוד</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/18/M_NEWS_15810_18092026053143_1400_1789709573825_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
