@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c77b552390eb0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T09:00:57+00:00</news:publication_date>
+<news:title>תיעוד נוסף מזירת הפיגוע בבנימין</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/M_NEWS_15910_20092026085941_1400_1789894850385_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w05/shorts-52e9472beed30a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -37,6 +46,24 @@
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/FIXXXPIGUA_1400_1789894658019_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-bef970b30fdb0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T08:33:00+00:00</news:publication_date>
+<news:title>תיעוד מחריד מהודו: איבדו שליטה על המכונית ועפו מגשר, שלושה צעירים נהרגו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/inbie_accident_200926_1400_1789893173120_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-f2bb20f2fedb0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T08:32:23+00:00</news:publication_date>
+<news:title>עדיין לא 100%: פירס מורגן ראיין שחקנית AI וכך זה השתבש</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/AVISHAI_AI_2009_M_1400_1789893137196_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b4b422a03edb0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -53,6 +80,15 @@
 <news:title>המשטרה מבקשת את עזרת הציבור בחיפוש אחר הנעדר יהודה ספרקה, שנראה לאחרונה ברחוב שערי חסד בירושלים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_LOST_6282_20092026081840_1400_1789892408142_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e13922a03edb0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T08:18:15+00:00</news:publication_date>
+<news:title>דרמה בפלורידה: צעירים נלכדו על עץ מעל נהר שורץ תנינים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/Kim_Boaters_20092026_2_1400_1789892288601_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f964d1b37bdb0a1027.htm</loc>
@@ -1304,14 +1340,5 @@
 <news:title>אילנה ראדה חושפת: האמת מאחורי פתיחת התיק של תאיר מחדש</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/18/SHIRA_ILANA_180926_M_1400_1789723874962_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-b146344ffa3b0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-18T09:02:41+00:00</news:publication_date>
-<news:title>בן 60 אותר ללא רוח חיים בבת ים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/18/M_NEWS_15822_18092026090052_1400_1789722153723_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
