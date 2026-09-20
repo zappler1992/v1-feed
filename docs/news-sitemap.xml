@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fc793e3e20eb0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T08:53:03+00:00</news:publication_date>
+<news:title>הפיגוע בבנימין: זה הרכב שבו נסע המחבל - ונמלט איתו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/M_NEWS_15909_20092026085121_1400_1789894373267_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1304,14 +1313,5 @@
 <news:title>אהבה מעבר לפינה פרק 7: תירוץ לפגוש אותה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/07/LOVE_CORNER_FIXMAIN_EP07_070926_1400_1788774221491_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-69e02fb2553b0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-18T08:57:00+00:00</news:publication_date>
-<news:title>לראשונה מזה 100 שנים: זן חדש של חתולים התגלה ביערות בבוליביה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/18/SHIRA_CAT_180926_M_1400_1789716288495_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
