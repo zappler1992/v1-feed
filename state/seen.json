@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5e77a64b61db0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-17536dc1f1db0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9327a64b61db0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15451,6 +15452,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-fb803d528cb90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/13/NOAY_GAZA_130926/MASTER/NOAY_GAZA_130926/NOAY_GAZA_130926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9327a64b61db0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "חשוד עזתי הצליח לחדור את הקו הצהוב ולהגיע עד לפתח מוצב צה\"ל של אוגדה 99 בצפון רצועת עזה, ואף לטפס על הסוללה ולהתקרב לכלי רק\"ם. הלוחם בעמדת השמירה זיהה אותו וביצע נוהל מעצר חשוד, שבסופו העזתי, שהתברר כלא חמוש, הועבר לחקירה. למרות חומרת האירוע, שהיה עלול להסתיים באסון אילו החשוד היה חמוש, הוא התרחש לפני כשלושה שבועות ודבר קיומו נחשף רק כעת. מדובר צה״ל נמסר בתגובה: האירוע תוחקר והופקו ממנו לקחים. במקרה המדובר לא בוצעה חדירה למוצב צבאי. במהלך האירוע בוצע נוהל מעצר חשוד בסופו החשוד נעצר והועבר לחקירה.",
+   "duration_s": 73,
+   "first_seen_ms": 1789881146723,
+   "image": "https://img.mako.co.il/2026/09/20/inbie_azati_200926_1400_1789880305755_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789880312000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "תקרית חמורה: בלי הפרעה - עזתי הגיע עד לפתח מוצב צה\"לי ברצועה",
+   "type": "news",
+   "updated_ms": 1789880312000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9327a64b61db0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/inbie_azati_200926/MASTER/inbie_azati_200926/inbie_azati_200926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
    "date_source": null,
@@ -22473,6 +22492,24 @@
    "updated_ms": 1789877930000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0ea95b3f60db0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15891_20092026041708/M_NEWS_15891_20092026041708_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-17536dc1f1db0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בית שמש: בן 3 לא התעורר משנתו, מצבו אנוש",
+   "duration_s": 9,
+   "first_seen_ms": 1789881146723,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15895_20092026050437_1400_1789880761614_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789880768000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בית שמש: בן 3 לא התעורר משנתו, מצבו אנוש",
+   "type": "mivzakim",
+   "updated_ms": 1789880768000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-17536dc1f1db0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15895_20092026050437/M_NEWS_15895_20092026050437_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm": {
    "author": "מבזקים",
