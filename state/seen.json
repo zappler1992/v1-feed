@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1c4170b30fdb0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22610,10 +22610,10 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "דיווח ראשוני: פיגוע ירי ליד נווה צוף בבנימין - מספר נפגעים במקום, כוחות הצלה בדרך",
-   "duration_s": 9,
+   "duration_s": 52,
    "first_seen_ms": 1789894048314,
-   "image": "https://img.mako.co.il/2026/09/20/V1_PIGUA_6283_20092026083954_1400_1789893671079_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/09/20/FIXPIGUA_1400_1789894190334_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1789893680000,
    "sections": [
     "מבזקים"
@@ -22622,7 +22622,7 @@
    "type": "mivzakim",
    "updated_ms": 1789893680000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1c4170b30fdb0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_PIGUA_6283_20092026083954/V1_PIGUA_6283_20092026083954_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/FIXPIGUA/FIXPIGUA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-25e85b3f60db0a1027.htm": {
    "author": "מבזקים",
@@ -22749,6 +22749,24 @@
    "updated_ms": 1789882157000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15897_20092026052742/M_NEWS_15897_20092026052742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מזירת הפיגוע בנווה צוף שבבנימין - צה\"ל החל במרדף אחר המחבל",
+   "duration_s": 29,
+   "first_seen_ms": 1789894348029,
+   "image": "https://img.mako.co.il/2026/09/20/V1_PIGOA_6284_20092026084859_1400_1789894225596_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789894235000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מזירת הפיגוע בנווה צוף שבבנימין - צה\"ל החל במרדף אחר המחבל",
+   "type": "mivzakim",
+   "updated_ms": 1789894235000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_PIGOA_6284_20092026084859/V1_PIGOA_6284_20092026084859_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b4b422a03edb0a1026.htm": {
    "author": "מבזקים",
