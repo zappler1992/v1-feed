@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-85fdac21e2eb0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T09:49:15+00:00</news:publication_date>
+<news:title>בגיל 78: העיתונאי גדעון קוץ, מוותיקי כתבי החוץ הישראלים באירופה, הלך לעולמו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_GIDEON_6289_20092026094740_1400_1789897748386_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-688737f371eb0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1349,14 +1358,5 @@
 <news:title>ברח מהכלא - בעזרת עיפרון: אסיר בדרום קרוליינה פרץ את המנעול בדרך יצירתית במיוחד</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/18/ASAF_JAIL_18092026_M_1400_1789725804710_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-4794be1ebd3b0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-18T09:48:56+00:00</news:publication_date>
-<news:title>העוקץ החדש בטיימס סקוור: האטרקציה שעלולה לעלות לכם ביוקר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/18/Kim_TimesSquare_18092026_1400_1789724926095_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
