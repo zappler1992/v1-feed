@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7cec702579db0a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-e888c7949adb0a1027.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-4bc3dd9979db0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2118,6 +2119,24 @@
    "updated_ms": 1789881266000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-4e6eaba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Edsheeran_20092026/MASTER/Kim_Edsheeran_20092026/Kim_Edsheeran_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-e888c7949adb0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 34,
+   "first_seen_ms": 1789889548074,
+   "image": "https://img.mako.co.il/2026/09/20/AVISHAI_KEROL_2009_M_1400_1789888458546_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789888464000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "אחרי מאבק ממושך בסרטן, קרול צבי ויינר הלכה לעולמה בגיל 45",
+   "type": "general",
+   "updated_ms": 1789888464000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-e888c7949adb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/AVISHAI_KEROL_2009/MASTER/AVISHAI_KEROL_2009_M/AVISHAI_KEROL_2009_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -35084,6 +35103,24 @@
    "updated_ms": 1789539060000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w03/shorts-fa49a370366a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/LIRON_WHAT_M/MASTER/LIRON_WHAT_M/LIRON_WHAT_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-4bc3dd9979db0a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1789889548074,
+   "image": "https://img.mako.co.il/2026/09/20/inbie_whatsapp_200926_1400_1789887908414_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789887915000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "במקום להקליד: הפיצ'ר החדש של וואטסאפ",
+   "type": "general",
+   "updated_ms": 1789887915000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-4bc3dd9979db0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/inbie_whatsapp_200926/MASTER/inbie_whatsapp_200926/inbie_whatsapp_200926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
