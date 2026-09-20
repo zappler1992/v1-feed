@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-92da24ff59eb0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fc5a24ff59eb0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15071,7 +15071,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-825f7e51fe0b0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "מתי נכנס הצום באיזו עיר ומתי תחזור לסדרה תנועת הרכבות לאחר שייצא הצום? ריכזנו לכם את כל מה שצריך לדעת: שימושון יום כיפור 2026.",
+   "description": "מתי נכנס הצום באיזו עיר ומתי תחזור לסדרה תנועת הרכבות לאחר שייצא הצום? ריכזנו לכם את כל מה שצריך לדעת: שימושון יום כיפור 2026",
    "duration_s": 43,
    "first_seen_ms": 1789703246634,
    "image": "https://img.mako.co.il/2026/09/17/biata_kippur_170926_1400_1789675480854_FirstFrame.jpg",
@@ -22933,6 +22933,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15897_20092026052742/M_NEWS_15897_20092026052742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-92da24ff59eb0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המחבל שביצע את הפיגוע בבנימין נלכד בבית חולים ברמאללה",
+   "duration_s": 9,
+   "first_seen_ms": 1789904246500,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15912_20092026113320_1400_1789904093336_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789904099000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המחבל שביצע את הפיגוע בבנימין נלכד בבית חולים ברמאללה",
+   "type": "mivzakim",
+   "updated_ms": 1789904099000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-92da24ff59eb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15912_20092026113320/M_NEWS_15912_20092026113320_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -23184,6 +23202,24 @@
    "updated_ms": 1789896317000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fa250db231eb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_irdavid_6287_20092026092355/V1_irdavid_6287_20092026092355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fc5a24ff59eb0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בתוך בית חולים ברמאללה: לוחמי דובדבן עצרו את המחבל, הוא נורה ונפצע בידי גשש במרדף",
+   "duration_s": 9,
+   "first_seen_ms": 1789904246500,
+   "image": "https://img.mako.co.il/2026/09/20/V1_MEHABEL_6296_20092026113309_1400_1789904065096_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789904075000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בתוך בית חולים ברמאללה: לוחמי דובדבן עצרו את המחבל, הוא נורה ונפצע בידי גשש במרדף",
+   "type": "mivzakim",
+   "updated_ms": 1789904075000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fc5a24ff59eb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_MEHABEL_6296_20092026113309/V1_MEHABEL_6296_20092026113309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fc793e3e20eb0a1027.htm": {
    "author": "מבזקים",
