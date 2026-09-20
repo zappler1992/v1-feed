@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3a18bea880fb0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-2ea6e292d4eb0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4007,6 +4008,24 @@
    "updated_ms": 1789667640000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-df4b0b6e69fa0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/inbie_70up_170926/MASTER/inbie_70up_170926/inbie_70up_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-2ea6e292d4eb0a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 26,
+   "first_seen_ms": 1789912046566,
+   "image": "https://img.mako.co.il/2026/09/20/AVISHAI_RINGO_2009_M_1400_1789900596095_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789900603000,
+   "sections": [
+    "חם במוזיקה"
+   ],
+   "title": "רינגו סטאר טוען: \"הביטלס היו מתאחדים\"",
+   "type": "general",
+   "updated_ms": 1789900603000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-2ea6e292d4eb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/AVISHAI_RINGO_2009/MASTER/AVISHAI_RINGO_2009_M/AVISHAI_RINGO_2009_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -15639,6 +15658,24 @@
    "updated_ms": 1789880312000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9327a64b61db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/inbie_azati_200926/MASTER/inbie_azati_200926/inbie_azati_200926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מפקדת ח'אתם אל-אנביא של הכוחות המזוינים באיראן טוענת כי ארה\"ב \nהחליטה לחדש את הפעולות נגד איראן, בתמיכת מדינות באזור. באיראן מאיימים: \n\"כל בסיסיה ואינטרסיה באזור יהיו נתונים למתקפות מתמשכות וכואבות\".",
+   "duration_s": 24,
+   "first_seen_ms": 1789912046566,
+   "image": "https://img.mako.co.il/2026/09/20/Kim_Iran_20092026_1400_1789905480837_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789905487000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "איראן טוענת: טראמפ החליט לתקוף אותנו",
+   "type": "news",
+   "updated_ms": 1789905487000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Iran_20092026/MASTER/Kim_Iran_20092026/Kim_Iran_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
