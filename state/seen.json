@@ -1,6 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-72438d925eeb0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-91f28d925eeb0a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -22895,6 +22898,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6bf0ac21e2eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_GUNSHOTS_6290_20092026095136/V1_GUNSHOTS_6290_20092026095136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-72438d925eeb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה תפסה משגר RPG בטמרה",
+   "duration_s": 9,
+   "first_seen_ms": 1789910546535,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15915_20092026011855_1400_1789910421280_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789910427000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה תפסה משגר RPG בטמרה",
+   "type": "mivzakim",
+   "updated_ms": 1789910427000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-72438d925eeb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15915_20092026011855/M_NEWS_15915_20092026011855_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7cec702579db0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -22966,6 +22987,24 @@
    "updated_ms": 1789882157000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15897_20092026052742/M_NEWS_15897_20092026052742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-91f28d925eeb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרמטכ\"ל בזירת הפיגוע: \"צה\"ל בדריכות גבוהה וערוך בכוחות מתוגברים, גם במהלך הצום\"",
+   "duration_s": 25,
+   "first_seen_ms": 1789910546535,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15914_20092026011832_1400_1789910393064_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789910402000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרמטכ\"ל בזירת הפיגוע: \"צה\"ל בדריכות גבוהה וערוך בכוחות מתוגברים, גם במהלך הצום\"",
+   "type": "mivzakim",
+   "updated_ms": 1789910402000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-91f28d925eeb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15914_20092026011832/M_NEWS_15914_20092026011832_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-92da24ff59eb0a1026.htm": {
    "author": "מבזקים",
