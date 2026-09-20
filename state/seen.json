@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-966b7e62d2bb0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22437,6 +22438,42 @@
    "type": "mivzakim",
    "updated_ms": 1789475314000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-feee79ca105a0a1027.htm"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יותר מ-150 אלף איש השתתפו הלילה במעמד הסליחות המרכזי בכותל המערבי",
+   "duration_s": 34,
+   "first_seen_ms": 1789873946470,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15888_20092026030645_1400_1789873695784_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789873702000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יותר מ-150 אלף איש השתתפו הלילה במעמד הסליחות המרכזי בכותל המערבי",
+   "type": "mivzakim",
+   "updated_ms": 1789873702000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15888_20092026030645/M_NEWS_15888_20092026030645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צבא ארה\"ב חיסל ארבעה אנשים על כלי שיט באזור הקריביים שעסקו בפעילות של הברחת סמים",
+   "duration_s": 7,
+   "first_seen_ms": 1789873946470,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15889_20092026030859_1400_1789873808256_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789873814000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צבא ארה\"ב חיסל ארבעה אנשים על כלי שיט באזור הקריביים שעסקו בפעילות של הברחת סמים",
+   "type": "mivzakim",
+   "updated_ms": 1789873814000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15889_20092026030859/M_NEWS_15889_20092026030859_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7dd77d0db7bb0a1027.htm": {
    "author": "מבזקים",
