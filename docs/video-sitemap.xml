@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0e7efe63eecb0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/20/V1_forecast_6274_20092026035823_1400_1789876798487_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כיפור חם מהרגיל - אבל בהמשך השבוע התמונה משתנה: התחזית</video:title>
+<video:description>כיפור חם מהרגיל - אבל בהמשך השבוע התמונה משתנה: התחזית</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_forecast_6274_20092026035823/V1_forecast_6274_20092026035823_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>50</video:duration>
+<video:publication_date>2026-09-20T04:00:05+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fec4146ddccb0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/20/M_NEWS_15887_20092026035706_1400_1789876698496_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>רכב עלה הלילה באש בתל אביב, כוחות הכיבוי טיפלו בשריפה</video:title>
+<video:description>רכב עלה הלילה באש בתל אביב, כוחות הכיבוי טיפלו בשריפה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15887_20092026035706/M_NEWS_15887_20092026035706_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>6</video:duration>
+<video:publication_date>2026-09-20T03:58:28+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/20/M_NEWS_15889_20092026030859_1400_1789873808256_FirstFrame.jpg</video:thumbnail_loc>
@@ -296,6 +328,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
