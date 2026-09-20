@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-17536dc1f1db0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9327a64b61db0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-4e6eaba003db0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2101,6 +2101,22 @@
    "updated_ms": 1789479050000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w03/shorts-fe23d3c0b35a0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Sydney_15092026/MASTER/M_Kim_Sydney_15092026/M_Kim_Sydney_15092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-4e6eaba003db0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "אחרי השבוע הסוער שעבר על עולם המוזיקה, אד שירן התייחס בהופעה בפילדלפיה למלחמה בישראל ובעזה. \nשירן אמר כי מה שקרה בישראל ב-7 באוקטובר ובפסטיבל הנובה היה \"מחריד\", אך הוסיף כי מה שקורה בעזה הוא \"קטסטרופלי, בלתי-מוצדק ובלתי-מידתי\".",
+   "duration_s": 73,
+   "first_seen_ms": 1789881746705,
+   "image": "https://img.mako.co.il/2026/09/20/Kim_Edsheeran_20092026_1400_1789881259792_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1789881266000,
+   "sections": [],
+   "title": "אחרי סערת מקלמור: אד שירן מתייחס למלחמה בעזה",
+   "type": "general",
+   "updated_ms": 1789881266000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-4e6eaba003db0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Edsheeran_20092026/MASTER/Kim_Edsheeran_20092026/Kim_Edsheeran_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -39098,6 +39114,24 @@
    "updated_ms": 1789641986000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w03/shorts-fc0e98cb5fea0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/V1_karind_croatia_6184_17092026104458/V1_karind_croatia_6184_17092026104458_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הפסקת חשמל ענקית בבואנוס איירס - עשרות אלפים ללא אורות",
+   "duration_s": 15,
+   "first_seen_ms": 1789881746705,
+   "image": "https://img.mako.co.il/2026/09/20/V1_AIRES_6277_20092026051857_1400_1789881610624_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789881617000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הפסקת חשמל ענקית בבואנוס איירס - עשרות אלפים ללא אורות",
+   "type": "mivzakim",
+   "updated_ms": 1789881617000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_AIRES_6277_20092026051857/V1_AIRES_6277_20092026051857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
