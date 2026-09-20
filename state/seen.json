@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7dd77d0db7bb0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-966b7e62d2bb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2777,7 +2777,8 @@
    "importance": 2,
    "published_ms": 1789847667000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "ברקע השמועות: סטטיק ועדי ביטי מבלים יחד ביפן",
    "type": "mivzakim",
@@ -15024,6 +15025,24 @@
    "updated_ms": 1789504327000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-8ce6a2888a6a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/15/Kim_Car_15092026/MASTER/M_Kim_Car_15092026/M_Kim_Car_15092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-966b7e62d2bb0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הסיבה האמיתית לביקור הבהול של נתניהו בארה\"ב בין כיפור לסוכות ומדוע לא יפגש עם טראמפ. עמית סגל עם כל הפרטים, מתוך חדשות סוף השבוע, חדשות 12",
+   "duration_s": 47,
+   "first_seen_ms": 1789867947419,
+   "image": "https://img.mako.co.il/2026/09/19/AVISHAI_BIBIINTHEUN_1909_M_1400_1789846848899_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1789846857000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "הסיבה האמיתית לביקור הבהול של נתניהו בארה\"ב: עמית סגל מסביר",
+   "type": "news",
+   "updated_ms": 1789846857000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-966b7e62d2bb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/19/AVISHAI_BIBIINTHEUN_1909/MASTER/AVISHAI_BIBIINTHEUN_1909_M/AVISHAI_BIBIINTHEUN_1909_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-99b2b9fa960b0a1027.htm": {
    "author": "חדשות",
@@ -37824,7 +37843,8 @@
    "importance": 0,
    "published_ms": 1789848325000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "קיבלה ציון גרוע במבחן - ודקרה את המורה באמצע הכיתה: תיעוד חריג מברזיל",
    "type": "mivzakim",
@@ -38020,7 +38040,8 @@
    "importance": 1,
    "published_ms": 1789841841000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אריה השתולל ברחובות סן פרנסיסקו - ונתפס אחרי שעות",
    "type": "mivzakim",
