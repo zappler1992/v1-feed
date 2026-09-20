@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-4e6eaba003db0a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2111,7 +2110,9 @@
    "image": "https://img.mako.co.il/2026/09/20/Kim_Edsheeran_20092026_1400_1789881259792_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1789881266000,
-   "sections": [],
+   "sections": [
+    "חם במוזיקה"
+   ],
    "title": "אחרי סערת מקלמור: אד שירן מתייחס למלחמה בעזה",
    "type": "general",
    "updated_ms": 1789881266000,
@@ -22634,6 +22635,24 @@
    "updated_ms": 1789854055000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7dd77d0db7bb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15886_19092026093931/M_NEWS_15886_19092026093931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מאות ממתינים לעלייה ותפילת ערב יום כיפור בהר הבית. \nהמשטרה מאפשרת עלייה בקבוצות של כמה עשרות בכל פעי",
+   "duration_s": 31,
+   "first_seen_ms": 1789882346825,
+   "image": "https://img.mako.co.il/2026/09/20/M_NEWS_15897_20092026052742_1400_1789882151091_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789882157000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מאות ממתינים לעלייה ותפילת ערב יום כיפור בהר הבית. \nהמשטרה מאפשרת עלייה בקבוצות של כמה עשרות בכל פעי",
+   "type": "mivzakim",
+   "updated_ms": 1789882157000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d65aba003db0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15897_20092026052742/M_NEWS_15897_20092026052742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b7f2470e86bb0a1026.htm": {
    "author": "מבזקים",
