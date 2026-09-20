@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bd484c1c62eb0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-20T09:31:07+00:00</news:publication_date>
+<news:title>באר שבע: שריפה פרצה במגרש כלי רכב, מכוניות רבות נפגעו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_FIRE_6288_20092026092944_1400_1789896660838_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fa250db231eb0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1358,14 +1367,5 @@
 <news:title>דואר ישראל נערך היום בכוחות מתוגברים למבצע מיוחד של חלוקת מכשירי אייפון 18 הראשונים שהגיעו לארץ. למע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/18/M_NEWS_15823_18092026093103_1400_1789723949558_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-06acc3515d3b0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-18T09:31:26+00:00</news:publication_date>
-<news:title>אילנה ראדה חושפת: האמת מאחורי פתיחת התיק של תאיר מחדש</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/18/SHIRA_ILANA_180926_M_1400_1789723874962_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
