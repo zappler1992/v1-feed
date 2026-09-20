@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-65b379fd56eb0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6933,7 +6934,7 @@
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-688737f371eb0a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "נוסעת שהגיעה מדובאי לסנקט פטרבורג נעצרה בשדה התעופה לאחר שבמזווודותיה התגלו 55 קילוגרמים של שיער אדם טבעי בשווי של מעל 27,000 דולר. להגנתה טענה האישה כי הציוד המאסיבי מיועד \"לשימוש אישי בלבד\". השיער החרם עקב אי-דיווח במכס, ונפתח נגדה הליך מנהלי.",
+   "description": "נוסעת שהגיעה מדובאי לסנקט פטרבורג נעצרה בשדה התעופה לאחר שבמזווודותיה התגלו 55 קילוגרמים של שיער אדם טבעי בשווי של מעל 27,000 דולר. להגנתה טענה האישה כי הציוד המאסיבי מיועד \"לשימוש אישי בלבד\". השיער החרם עקב אי-דיווח במכס, ונפתח נגדה הליך מנהלי",
    "duration_s": 19,
    "first_seen_ms": 1789897647197,
    "image": "https://img.mako.co.il/2026/09/20/Kim_Hair_20092026_1400_1789897023908_FirstFrame.jpg",
@@ -22752,6 +22753,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-26a72fddcfcb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_KOTAROT_2009_6276_20092026043022/V1_KOTAROT_2009_6276_20092026043022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרגדיה בסלובניה: גיל הלל, בן 44 ואב לשלושה מקיבוץ יזרעאל, טבע למוות במהלך חופשה משפחתית במדינה",
+   "duration_s": 9,
+   "first_seen_ms": 1789903347495,
+   "image": "https://img.mako.co.il/2026/09/20/V1_GIL_6294_20092026111557_1400_1789903047516_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789903054000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרגדיה בסלובניה: גיל הלל, בן 44 ואב לשלושה מקיבוץ יזרעאל, טבע למוות במהלך חופשה משפחתית במדינה",
+   "type": "mivzakim",
+   "updated_ms": 1789903054000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_GIL_6294_20092026111557/V1_GIL_6294_20092026111557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -23075,6 +23094,24 @@
    "updated_ms": 1789892414000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d1fb22a03edb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_LOST_6282_20092026081840/V1_LOST_6282_20092026081840_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פיגוע הירי בבנימין: תיעוד חדש מהמצוד אחרי המחבל",
+   "duration_s": 16,
+   "first_seen_ms": 1789903347495,
+   "image": "https://img.mako.co.il/2026/09/20/V1_MATZOD_6295_20092026111717_1400_1789903110926_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1789903117000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פיגוע הירי בבנימין: תיעוד חדש מהמצוד אחרי המחבל",
+   "type": "mivzakim",
+   "updated_ms": 1789903117000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_MATZOD_6295_20092026111717/V1_MATZOD_6295_20092026111717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-efbe565416eb0a1027.htm": {
    "author": "מבזקים",
