@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a017f6dc5f4c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-27ad23bbef4c0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5033a7a4af4c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2129,7 +2130,9 @@
    "image": "https://img.mako.co.il/2026/09/21/alice_210926_sindy_1400_1790005975305_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790005982000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "בגיל 27 בלבד: בנה של סינדי קרופורד הלך לעולמו",
    "type": "general",
    "updated_ms": 1790005982000,
@@ -15769,7 +15772,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9de579ad984c0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "תושב טהרן הרים את השמיים וגילה שם עצם בלתי מזוהה שעף, יחסית נמוך לקרקע, ומפזר אורות צבעוניים.ף הוא שלף את הטלפון, צילם הכל בבהלה ומאז - הרשת לא נרגעת. הוא טען שזה עב\"ם מסוג כלשהו, אבל הגולשים  כבר בטוחים - זה בוודאות קשור לישראל או לאמריקה.",
+   "description": "תושב טהרן הרים את השמיים וגילה שם עצם בלתי מזוהה שעף, יחסית נמוך לקרקע, ומפזר אורות צבעוניים. הוא שלף את הטלפון, צילם הכל בבהלה ומאז - הרשת לא נרגעת. הוא טען שזה עב\"ם מסוג כלשהו, אבל הגולשים  כבר בטוחים - זה בוודאות קשור לישראל או לאמריקה.",
    "duration_s": 46,
    "first_seen_ms": 1790007147040,
    "image": "https://img.mako.co.il/2026/09/21/alice_210926_iran_1400_1790004625952_FirstFrame.jpg",
@@ -22986,6 +22989,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-26a72fddcfcb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_KOTAROT_2009_6276_20092026043022/V1_KOTAROT_2009_6276_20092026043022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-27ad23bbef4c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פיצוץ אירע במחסן נשק בחאלב שבסוריה במהלך יום כיפור. בסוריה אומרים שנבדק הקשר לישראל",
+   "duration_s": 19,
+   "first_seen_ms": 1790012247270,
+   "image": "https://img.mako.co.il/2026/09/21/M_NEWS_15939_21092026053033_1400_1790011914801_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790011921000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פיצוץ אירע במחסן נשק בחאלב שבסוריה במהלך יום כיפור. בסוריה אומרים שנבדק הקשר לישראל",
+   "type": "mivzakim",
+   "updated_ms": 1790011921000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-27ad23bbef4c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15939_21092026053033/M_NEWS_15939_21092026053033_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3a18bea880fb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -23075,6 +23096,24 @@
    "updated_ms": 1789994580000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4bf552906d3c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/V1_MALKIA_6301_21092026123453/V1_MALKIA_6301_21092026123453_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5033a7a4af4c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אישה בת 30 ופעוט בן שנתיים במצב קשה לאחר שנכוו מחומר דליק במעיין עין מודע בעמק בית שאן",
+   "duration_s": 9,
+   "first_seen_ms": 1790012247270,
+   "image": "https://img.mako.co.il/2026/09/21/M_NEWS_15938_21092026053006_1400_1790011895302_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790011901000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אישה בת 30 ופעוט בן שנתיים במצב קשה לאחר שנכוו מחומר דליק במעיין עין מודע בעמק בית שאן",
+   "type": "mivzakim",
+   "updated_ms": 1790011901000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5033a7a4af4c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15938_21092026053006/M_NEWS_15938_21092026053006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-50b651b949cb0a1026.htm": {
    "author": "מבזקים",
@@ -23682,7 +23721,7 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "לאחר מרדף בכפר יאסיף: נעצר רוכב קטנוע שהרכיב ילד בן 7 ללא קסדה ונמלט נגד כיוון התנועה",
+   "title": "נעצר רוכב קטנוע שהרכיב ילד בן 7 ונמלט נגד כיוון התנועה בצפון הארץ",
    "type": "mivzakim",
    "updated_ms": 1790010120000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f964d1b37bdb0a1027.htm",
