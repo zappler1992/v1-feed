@@ -1,11 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-12b5e646ea3c0a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9de579ad984c0a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-1912f756a94c0a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-61be962897db0a1026.htm",
-  "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w03/shorts-45edf6dd5c4a0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4410056f4b4c0a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-bf2708b6f1fa0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11498,6 +11495,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-5d9ef4205ce90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/14/LOADED_EP35/MASTER/LOADED_EP35/LOADED_EP35_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-bf2708b6f1fa0a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 40: אחרי שתומר המציא שהוא ומאיה נשואים, עורך הדין ואשתו רוצים לדעת איך הם הכירו - ותומר כבר מאלתר להם סיפור אהבה שלם, כולל פתק רומנטי ונשיקה במשרד, בזמן שמאיה מאיימת לרצוח אותו. במקביל גיא, ארז וברלד יוצאים לבלות עם אבא של גיא, וארז בטוח שהבחורות במקום לא מפסיקות להסתכל עליו - אבל לא ממהר לעשות עם זה שום דבר.\nPowered by Spikes",
+   "duration_s": 116,
+   "first_seen_ms": 1790007747197,
+   "image": "https://img.mako.co.il/2026/09/17/LOADED_EP40_1400_1789645048000_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790007420000,
+   "sections": [
+    "מסודרים"
+   ],
+   "title": "מסודרים פרק 40: הרומן שלא באמת קרה",
+   "type": "series",
+   "updated_ms": 1790007420000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-bf2708b6f1fa0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/LOADED_EP40/MASTER/LOADED_EP40/LOADED_EP40_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m09_w03/shorts-dc65fe0b46ea0a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -15710,7 +15725,7 @@
    "sections": [],
    "title": "מתי התחבורה הציבורית חוזר לפעילות בצאת כיפור?",
    "type": "news",
-   "updated_ms": 1790006700000,
+   "updated_ms": 1790007060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-61be962897db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Kipurtraffic_20092026/MASTER/Kim_Kipurtraffic_20092026/Kim_Kipurtraffic_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -23007,6 +23022,24 @@
    "updated_ms": 1789903054000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_GIL_6294_20092026111557/V1_GIL_6294_20092026111557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4410056f4b4c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "במהלך החג: עימותים בין כוחות צה\"ח לתושבים בשכונת סילוואן",
+   "duration_s": 4,
+   "first_seen_ms": 1790007747197,
+   "image": "https://img.mako.co.il/2026/09/21/M_NEWS_15933_21092026041529_1400_1790007398918_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790007407000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "במהלך החג: עימותים בין כוחות צה\"ח לתושבים בשכונת סילוואן",
+   "type": "mivzakim",
+   "updated_ms": 1790007407000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4410056f4b4c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15933_21092026041529/M_NEWS_15933_21092026041529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4bf552906d3c0a1027.htm": {
    "author": "מבזקים",
