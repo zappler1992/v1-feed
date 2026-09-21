@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-153cb7e4a95c0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-11a60294885c0a1026.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-1b6d88e3885c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4029,6 +4030,24 @@
    "updated_ms": 1789667640000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w03/shorts-df4b0b6e69fa0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/17/inbie_70up_170926/MASTER/inbie_70up_170926/inbie_70up_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-1b6d88e3885c0a1027.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "תמונות AI מזויפות של טיילור סוויפט עם בטן היריונית הפכו לוויראליות והפילו בפח מיליוני גולשים שהגיבו ובירכו את הזוג.",
+   "duration_s": 29,
+   "first_seen_ms": 1790022746541,
+   "image": "https://img.mako.co.il/2026/09/21/MAYA_SWIFT_210926_1400_1790020897323_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790020903000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "טיילור סוויפט בהריון?! תמונות ה-AI ששיגעו את הגולשים",
+   "type": "general",
+   "updated_ms": 1790020903000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-1b6d88e3885c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/MAYA_SWIFT_210926/MASTER/MAYA_SWIFT_210926/MAYA_SWIFT_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-2ea6e292d4eb0a1026.htm": {
    "author": "תרבות",
@@ -15736,6 +15755,24 @@
    "updated_ms": 1789320647000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-fb803d528cb90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/13/NOAY_GAZA_130926/MASTER/NOAY_GAZA_130926/NOAY_GAZA_130926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-11a60294885c0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תשעה ישראלים שנעצרו בטורקיה בפרשת הונאת הפורקס מנותקים, לפי גורם המעורה בפרשה, מעורכי דין ומגורמים ישראליים. לפי החשד, הרשת פעלה בעשרות מוקדים והעסיקה מאות עובדים, תוך הצגת רווחים פיקטיביים לקורבנות, בהונאה שהיקפה כ-3 מיליארד דולר. במקביל, הרשויות בטורקיה מחפשות חשודים נוספים ובודקות קשרים אפשריים לגורמי ביטחון ישראליים. כפי שפירסם שמעון איפרגן, מאקו.",
+   "duration_s": 23,
+   "first_seen_ms": 1790022746541,
+   "image": "https://img.mako.co.il/2026/09/21/SHIR_RASHIT_210926_1400_1790021516520_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790021526000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "פרשת הפורקס בטורקיה: \"העלימו אותם, חשודים שהם סוכני מוסד\"",
+   "type": "news",
+   "updated_ms": 1790021526000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-11a60294885c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/SHIR_RASHIT_210926/MASTER/SHIR_RASHIT_210926/SHIR_RASHIT_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm": {
    "author": "חדשות",
