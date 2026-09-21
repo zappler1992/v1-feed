@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/21/SHIR_HOLIWOOD_210926_1400_1790017248915_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>עסקת הענק שתטלטל את הוליווד: פרמאונט רוכשת את וורנר ברוס ב־110 מיליארד דולר</video:title>
+<video:description>עסקת ענק של 110 מיליארד דולר: פרמאונט בדרך לרכוש את Warner Bros. Discovery, כולל CNN ו־CBS News, לאחר שנטפליקס פרשה מהמרוץ.
+העסקה צפויה לשנות את מפת התקשורת והבידור בארה״ב, ובמסגרתה פרמאונט התחייבה להשקיע מיליארדי דולרים בהפקות קולנוע ולשמור על עצמאות מערכות החדשות.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/SHIR_HOLIWOOD_210926/MASTER/SHIR_HOLIWOOD_210926/SHIR_HOLIWOOD_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>39</video:duration>
+<video:publication_date>2026-09-21T19:00:55+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-96d5f36d745c0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/21/M_NEWS_15945_21092026065447_1400_1790016957870_FirstFrame.jpg</video:thumbnail_loc>
@@ -256,6 +273,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>מהעולם</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -323,6 +341,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>

@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-96d5f36d745c0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7016,7 +7016,8 @@
    "importance": 1,
    "published_ms": 1789992200000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "מה שקרה בעולם בזמן יום כיפור",
    "type": "general",
@@ -15718,6 +15719,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-fb803d528cb90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/13/NOAY_GAZA_130926/MASTER/NOAY_GAZA_130926/NOAY_GAZA_130926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "עסקת ענק של 110 מיליארד דולר: פרמאונט בדרך לרכוש את Warner Bros. Discovery, כולל CNN ו־CBS News, לאחר שנטפליקס פרשה מהמרוץ.\nהעסקה צפויה לשנות את מפת התקשורת והבידור בארה״ב, ובמסגרתה פרמאונט התחייבה להשקיע מיליארדי דולרים בהפקות קולנוע ולשמור על עצמאות מערכות החדשות.",
+   "duration_s": 39,
+   "first_seen_ms": 1790017947413,
+   "image": "https://img.mako.co.il/2026/09/21/SHIR_HOLIWOOD_210926_1400_1790017248915_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790017255000,
+   "sections": [],
+   "title": "עסקת הענק שתטלטל את הוליווד: פרמאונט רוכשת את וורנר ברוס ב־110 מיליארד דולר",
+   "type": "news",
+   "updated_ms": 1790017255000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/SHIR_HOLIWOOD_210926/MASTER/SHIR_HOLIWOOD_210926/SHIR_HOLIWOOD_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-61be962897db0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -15782,7 +15799,8 @@
    "importance": 0,
    "published_ms": 1790006460000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "מהעולם"
    ],
    "title": "התיעוד משמי טהרן שהטריף את הרשת: \"מה זה?!\"",
    "type": "news",
