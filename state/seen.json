@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-9d66a918635c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7042,6 +7043,24 @@
    "updated_ms": 1789897030000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-688737f371eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Hair_20092026/MASTER/Kim_Hair_20092026/Kim_Hair_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-9d66a918635c0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "נגן רחוב שהגיע להופיע בכיכר טראפלגר בלונדון ביצע את השיר \"Viva La Vida\" של קולדפליי כשלפתע הצטרף אליו עובר אורח לדואט. רק אחרי סיום הביצוע הבין מהקהל הזמר שמדובר בכריס מרטין - סולן הלהקה.",
+   "duration_s": 36,
+   "first_seen_ms": 1790018546392,
+   "image": "https://img.mako.co.il/2026/09/21/biata_coldplay_210926_1400_1790016043071_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790016052000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "נגן הרחוב שעשה דואט בהפתעה עם כריס מרטין",
+   "type": "general",
+   "updated_ms": 1790016052000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-9d66a918635c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/biata_coldplay_210926/MASTER/biata_coldplay_210926/biata_coldplay_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-bef970b30fdb0a1027.htm": {
    "author": "מהעולם",
@@ -15719,16 +15738,36 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w03/shorts-fb803d528cb90a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/13/NOAY_GAZA_130926/MASTER/NOAY_GAZA_130926/NOAY_GAZA_130926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ביום חמישי הקרוב נתניהו צפוי לבקר באו\"ם לביקור בזק. ראש הממשלה יישא נאום באו\"ם ויפגש עם מזכיר ארצות הברית מרקו רוביו - הוא לא אמור להיפגש עם הנשיא טראמפ. מתוך חדשות 12",
+   "duration_s": 103,
+   "first_seen_ms": 1790018546392,
+   "image": "https://img.mako.co.il/2026/09/21/MAYA_BB_210926_1400_1790015662117_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790015671000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "ביקור הבזק של נתניהו באו\"ם",
+   "type": "news",
+   "updated_ms": 1790015671000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/MAYA_BB_210926/MASTER/MAYA_BB_210926/MAYA_BB_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "עסקת ענק של 110 מיליארד דולר: פרמאונט בדרך לרכוש את Warner Bros. Discovery, כולל CNN ו־CBS News, לאחר שנטפליקס פרשה מהמרוץ.\nהעסקה צפויה לשנות את מפת התקשורת והבידור בארה״ב, ובמסגרתה פרמאונט התחייבה להשקיע מיליארדי דולרים בהפקות קולנוע ולשמור על עצמאות מערכות החדשות.",
+   "description": "עסקת ענק של 110 מיליארד דולר בהוליווד: אולפן הסרטים הוותיק פרמאונט בדרך לרכוש את Warner Bros. Discovery, כולל CNN ו־CBS News, לאחר שנטפליקס פרשה מהמרוץ.\nהעסקה צפויה לשנות את מפת התקשורת והבידור בארה״ב, ובמסגרתה פרמאונט התחייבה להשקיע מיליארדי דולרים בהפקות קולנוע, להפיץ לפחות 30 סרטים בשנה ולשמור על עצמאות מערכות החדשות שיירכשו.",
    "duration_s": 39,
    "first_seen_ms": 1790017947413,
    "image": "https://img.mako.co.il/2026/09/21/SHIR_HOLIWOOD_210926_1400_1790017248915_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790017255000,
-   "sections": [],
+   "sections": [
+    "חדשות מהמסך"
+   ],
    "title": "עסקת הענק שתטלטל את הוליווד: פרמאונט רוכשת את וורנר ברוס ב־110 מיליארד דולר",
    "type": "news",
    "updated_ms": 1790017255000,
@@ -23454,7 +23493,8 @@
    "importance": 2,
    "published_ms": 1790011293000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "כוננות שיא בישראל - על רקע המתיחות הגוברת בין איראן וארה\"ב",
    "type": "mivzakim",
@@ -40380,7 +40420,7 @@
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-c6e83987845c0a1026.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
-   "description": "ספינת משא פגעה בספינת דיג ליד סינגפור - לפחות שישה בני אדם נספו ו-130 נוספים מוגדרים כנעדרים",
+   "description": "אוניית משא פגעה בספינת דיג ליד סינגפור - לפחות שישה בני אדם נספו ו-130 נוספים מוגדרים כנעדרים",
    "duration_s": 119,
    "first_seen_ms": 1790016747443,
    "image": "https://img.mako.co.il/2026/09/21/V1_ship_6305_21092026064543_1400_1790016464807_FirstFrame.jpg",
@@ -40389,7 +40429,7 @@
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "ספינת משא פגעה בספינת דיג ליד סינגפור - לפחות שישה בני אדם נספו ו-130 נוספים מוגדרים כנעדרים",
+   "title": "אוניית משא פגעה בספינת דיג ליד סינגפור - לפחות שישה בני אדם נספו ו-130 נוספים מוגדרים",
    "type": "mivzakim",
    "updated_ms": 1790016471000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-c6e83987845c0a1026.htm",
@@ -40405,7 +40445,8 @@
    "importance": 0,
    "published_ms": 1790011083000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "מהעולם"
    ],
    "title": "ללא אבטחה בגובה 100 מטרים: לוליינית צרפתייה צעדה על חבל דק בין ערימות הפסולת הגבוהות באירופה",
    "type": "mivzakim",
