@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6ad269d3bc4c0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-21T16:41:01+00:00</news:publication_date>
+<news:title>כל מה שקרה במהלך החג: הכותרות החשובות של יום כיפור</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/21/V1_KIPPUR_6302_21092026043902_1400_1790008855376_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d82b1afeac4c0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -854,23 +863,5 @@
 <news:title>במהלך השבת: שריפה פרצה במבנה מגורים בקריית חיים, אין נפגעים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/19/V1_KARIND_FIRE_6259_19092026050347_1400_1789837495546_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-d5e02beae7ab0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-19T16:45:10+00:00</news:publication_date>
-<news:title>בניגוד לעמדת הרמטכ&quot;ל: הנשיא הרצוג החליט למחוק את הרישום הפלילי של אלאור עזריה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/19/M_NEWS_15873_19092026044356_1400_1789836303789_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w03/shorts-e5702beae7ab0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-19T16:43:59+00:00</news:publication_date>
-<news:title>בניגוד לעמדת הרמטכ&quot;ל: הנשיא הרצוג החליט למחוק את הרישום הפלילי לאלאור אזריה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/19/V1_karind_azaria_6257_19092026044242_1400_1789836233400_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
