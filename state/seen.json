@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-49b6818f1aac0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16544,6 +16545,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-c3e0e1bbd18c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/biata_storms_220926/MASTER/biata_storms_220926/biata_storms_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ניר דבורי מסביר כי בכל הנוגע לאפשרות של מערכה מול איראן, אין כרגע אינדיקציה ברורה לאן הדברים הולכים, אך בישראל שומרים על מוכנות גבוהה. הדיבורים סביב איראן הולכים ומתחממים, וזה מחייב את מערכת הביטחון להיות בדריכות ולהקשיב לסימנים",
+   "duration_s": 35,
+   "first_seen_ms": 1790108247505,
+   "image": "https://img.mako.co.il/2026/09/22/SHIRA_DVORI_220926_M_1400_1790101169909_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790101176000,
+   "sections": [],
+   "title": "ניר דבורי מסביר: המתיחות במערכת הביטחון למלחמה עם איראן",
+   "type": "news",
+   "updated_ms": 1790101176000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/SHIRA_DVORI_220926/MASTER/SHIRA_DVORI_220926_M/SHIRA_DVORI_220926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f757127901ac0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24773,6 +24790,24 @@
    "updated_ms": 1790092916000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9c259e819c9c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16011_22092026040037/M_NEWS_16011_22092026040037_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מארדואן ועד א-שרע: כעת - פגישה בין טראמפ למנהיגי מדינות המפרץ והעולם הערבי בשולי עצרת האו\"ם",
+   "duration_s": 9,
+   "first_seen_ms": 1790108247505,
+   "image": "https://img.mako.co.il/2026/09/22/V1_trampolam_6337_22092026081307_1400_1790108048641_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790108058000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מארדואן ועד א-שרע: כעת - פגישה בין טראמפ למנהיגי מדינות המפרץ והעולם הערבי בשולי עצרת האו\"ם",
+   "type": "mivzakim",
+   "updated_ms": 1790108058000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_trampolam_6337_22092026081307/V1_trampolam_6337_22092026081307_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f5cfe15f07c0a1026.htm": {
    "author": "מבזקים",

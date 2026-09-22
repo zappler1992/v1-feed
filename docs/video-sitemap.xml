@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/22/V1_trampolam_6337_22092026081307_1400_1790108048641_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מארדואן ועד א-שרע: כעת - פגישה בין טראמפ למנהיגי מדינות המפרץ והעולם הערבי בשולי עצרת האו&quot;ם</video:title>
+<video:description>מארדואן ועד א-שרע: כעת - פגישה בין טראמפ למנהיגי מדינות המפרץ והעולם הערבי בשולי עצרת האו&quot;ם</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_trampolam_6337_22092026081307/V1_trampolam_6337_22092026081307_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-09-22T20:14:18+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-49b6818f1aac0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/22/V1_SIBERIA_6336_22092026080017_1400_1790107304760_FirstFrame.jpg</video:thumbnail_loc>
@@ -142,6 +158,22 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/22/SHIRA_DVORI_220926_M_1400_1790101169909_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ניר דבורי מסביר: המתיחות במערכת הביטחון למלחמה עם איראן</video:title>
+<video:description>ניר דבורי מסביר כי בכל הנוגע לאפשרות של מערכה מול איראן, אין כרגע אינדיקציה ברורה לאן הדברים הולכים, אך בישראל שומרים על מוכנות גבוהה. הדיבורים סביב איראן הולכים ומתחממים, וזה מחייב את מערכת הביטחון להיות בדריכות ולהקשיב לסימנים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/SHIRA_DVORI_220926/MASTER/SHIRA_DVORI_220926_M/SHIRA_DVORI_220926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>35</video:duration>
+<video:publication_date>2026-09-22T18:19:36+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
