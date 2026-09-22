@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-805ec0613a7c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-065719e77b7c0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2d7419e77b7c0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22999,6 +23000,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-041e0a59137c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_forecasting_6307_22092026034803/V1_forecasting_6307_22092026034803_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-065719e77b7c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בתוך אורוות סוסים בכפר מג׳אר: לוחמי מג״ב צפון ושוטרי המחוז הצפוני חשפו מצבור אמצעי לחימה ותחמושת",
+   "duration_s": 9,
+   "first_seen_ms": 1790058146775,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_15977_22092026061830_1400_1790057988622_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790057995000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בתוך אורוות סוסים בכפר מג׳אר: לוחמי מג״ב צפון ושוטרי המחוז הצפוני חשפו מצבור אמצעי לחימה ותחמושת",
+   "type": "mivzakim",
+   "updated_ms": 1790057995000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-065719e77b7c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15977_22092026061830/M_NEWS_15977_22092026061830_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0e7efe63eecb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -23214,6 +23233,24 @@
    "updated_ms": 1790011921000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-27ad23bbef4c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15939_21092026053033/M_NEWS_15939_21092026053033_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2d7419e77b7c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שוטרי מחוז צפון ומג\"ב איתרו כלי נשק ותחמושת בתוך אורוות סוסים בכפר מר'אר",
+   "duration_s": 9,
+   "first_seen_ms": 1790058146775,
+   "image": "https://img.mako.co.il/2026/09/22/V1_marar_6313_22092026061618_1400_1790057860688_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790057867000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שוטרי מחוז צפון ומג\"ב איתרו כלי נשק ותחמושת בתוך אורוות סוסים בכפר מר'אר",
+   "type": "mivzakim",
+   "updated_ms": 1790057867000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2d7419e77b7c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_marar_6313_22092026061618/V1_marar_6313_22092026061618_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3a18bea880fb0a1026.htm": {
    "author": "מבזקים",
