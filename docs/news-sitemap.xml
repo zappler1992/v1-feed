@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b515c3c8749c0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-22T13:33:50+00:00</news:publication_date>
+<news:title>מזכ״ל האו״ם תוקף את ישראל: &quot;ההרס בעזה הוא הנרחב ביותר שראיתי. סוללת את הדרך לטיהור אתני&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/22/V1_un_6324_22092026013209_1400_1790084019410_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-23ed85a4f39c0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -818,23 +827,5 @@
 <news:title>ערב יום הכיפורים באיראן: המוני מתפללים גדשו את בית הכנסת בטהרן לקראת כניסת הצום</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/M_NEWS_15921_20092026020951_1400_1789913487970_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3a18bea880fb0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T13:37:19+00:00</news:publication_date>
-<news:title>יוסף חיים אוחנה נזכר בתקופת הסליחות ויום כיפור בשבי חמאס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/M_NEWS_15919_20092026013430_1400_1789911432493_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02963c9aeeeb0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T13:33:41+00:00</news:publication_date>
-<news:title>נתב&quot;ג סוגר את שעריו - רגע לפני כניסת יום כיפור: כך זה נראה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_NATBAG_6299_20092026013151_1400_1789911214555_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
