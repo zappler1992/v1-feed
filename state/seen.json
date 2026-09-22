@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3f65431567c0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cc4e8ed3977c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3136,7 +3136,8 @@
    "sections": [
     "סלבס",
     "הכי נצפים עכשיו",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים השבוע"
    ],
    "title": "בהופעת הענק של שרית חדד: היציע החל לרעוד בגלל הקפיצות - והביא לפינוי הקהל בפארק הירקון",
    "type": "mivzakim",
@@ -23883,6 +23884,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c8dda918635c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15943_21092026062847/M_NEWS_15943_21092026062847_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cc4e8ed3977c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקמה מול המצלמות: אחרי שטראמפ אסר כניסת כלי תקשורת, הם החרימו נאום - והוא נאם ללא מיקרופונים",
+   "duration_s": 15,
+   "first_seen_ms": 1790053646691,
+   "image": "https://img.mako.co.il/2026/09/22/V1_TRUMP_6310_22092026050225_1400_1790053421508_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790053427000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקמה מול המצלמות: אחרי שטראמפ אסר כניסת כלי תקשורת, הם החרימו נאום - והוא נאם ללא מיקרופונים",
+   "type": "mivzakim",
+   "updated_ms": 1790053427000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cc4e8ed3977c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_TRUMP_6310_22092026050225/V1_TRUMP_6310_22092026050225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cdbeae9ce4db0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39695,7 +39714,8 @@
    "published_ms": 1789761795000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הסיוט התממש: גילו נחש ענק על מתקן המגבות בביתם שבאוסטרליה",
    "type": "mivzakim",
@@ -40700,7 +40720,8 @@
    "published_ms": 1789886206000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תחרות באולינג - לא כמו שחשבתם: תיעוד מאליפות הבאולינג של נהגי הרכבות החשמליות בפולין",
    "type": "mivzakim",
@@ -40719,7 +40740,8 @@
    "published_ms": 1789885926000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "שחקן הכדורגל נדרס על הדשא - על ידי אחד העובדים: התיעוד ההזוי",
    "type": "mivzakim",
@@ -40777,7 +40799,8 @@
    "published_ms": 1789881617000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הפסקת חשמל ענקית בבואנוס איירס - עשרות אלפים ללא אורות",
    "type": "mivzakim",
