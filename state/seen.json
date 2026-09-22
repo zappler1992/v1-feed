@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-3240a7de328c0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d2fa4c4048c0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24fd8b1a48c0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24296,6 +24295,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-df62e4657e7c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15981_22092026070321/M_NEWS_15981_22092026070321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24fd8b1a48c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ישראל כ\"ץ לחמאס ותומכיו: \"אם ייחטף חייל או אזרח ישראלי - העיר עזה כולה תפונה\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790067447049,
+   "image": "https://img.mako.co.il/2026/09/22/V1_israel_6317_22092026085048_1400_1790067114385_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790067124000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ישראל כ\"ץ לחמאס ותומכיו: \"אם ייחטף חייל או אזרח ישראלי - העיר עזה כולה תפונה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790067124000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24fd8b1a48c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_israel_6317_22092026085048/V1_israel_6317_22092026085048_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34532,7 +34549,7 @@
    ],
    "title": "הקסם המטורף שחצה את כל הגבולות",
    "type": "general",
-   "updated_ms": 1790060400000,
+   "updated_ms": 1790067060000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-30cd7f3a965c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/lior_majik_DANAZ/MASTER/lior_majik_DANAZ/lior_majik_DANAZ_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
