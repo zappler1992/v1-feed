@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w04/shorts-05232ab6188c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-405ee73b598c0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-05948692298c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23216,6 +23217,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-041e0a59137c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_forecasting_6307_22092026034803/V1_forecasting_6307_22092026034803_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-05948692298c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני ברק: ילד נפל ממיטת קומותיים - מצבו בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1790072247263,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_15991_22092026100948_1400_1790071866998_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790071876000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני ברק: ילד נפל ממיטת קומותיים - מצבו בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1790071876000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-05948692298c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15991_22092026100948/M_NEWS_15991_22092026100948_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-065719e77b7c0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -23557,6 +23576,24 @@
    "updated_ms": 1790066250000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d2fa4c4048c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15985_22092026083543/M_NEWS_15985_22092026083543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-405ee73b598c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופנוע בן 30 נפגע מרכב ליד חולון, מצבו קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1790072247263,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_15992_22092026101106_1400_1790071937405_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790071944000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופנוע בן 30 נפגע מרכב ליד חולון, מצבו קשה",
+   "type": "mivzakim",
+   "updated_ms": 1790071944000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-405ee73b598c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15992_22092026101106/M_NEWS_15992_22092026101106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-40f6006f4b4c0a1026.htm": {
    "author": "מבזקים",
