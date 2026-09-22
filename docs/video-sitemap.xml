@@ -175,6 +175,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -212,6 +213,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-62b24c9b01ac0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/22/yoav_Seychelles_220926_1400_1790097239993_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>החופשה היוקרתית שהפכה לסיוט עבור עשרות ישראלים</video:title>
+<video:description>סיוט בקלאב מד: עשרות ישראלים שנופשים באיי סיישל החלו לסבול מהקאות, שלשולים וחום גבוה. חלקם נאלצו להתפנות מהאי בסירה לקבלת טיפול רפואי. הנופשים חושדים שנדבקו במלון, אך בהנהלה מתעקשים שהגיעו חולים מהארץ.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/yoav_Seychelles_220926/MASTER/yoav_Seychelles_220926/yoav_Seychelles_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>30</video:duration>
+<video:publication_date>2026-09-22T17:17:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-da9e09edef9c0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/22/NOAY_HITLER2_220926_1_1400_1790095735733_FirstFrame.jpg</video:thumbnail_loc>
@@ -225,6 +243,7 @@
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>הכי Vיראלים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>
@@ -292,6 +311,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

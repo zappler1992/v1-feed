@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-62b24c9b01ac0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7529,7 +7528,8 @@
    "importance": 2,
    "published_ms": 1790095746000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "נקמה מתוקה: ישראלי ראה באיטליה תמונות של היטלר למכירה - קנה וקרע אותן",
    "type": "general",
@@ -16340,6 +16340,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-61be962897db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Kipurtraffic_20092026/MASTER/Kim_Kipurtraffic_20092026/Kim_Kipurtraffic_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-62b24c9b01ac0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "סיוט בקלאב מד: עשרות ישראלים שנופשים באיי סיישל החלו לסבול מהקאות, שלשולים וחום גבוה. חלקם נאלצו להתפנות מהאי בסירה לקבלת טיפול רפואי. הנופשים חושדים שנדבקו במלון, אך בהנהלה מתעקשים שהגיעו חולים מהארץ.",
+   "duration_s": 30,
+   "first_seen_ms": 1790118446868,
+   "image": "https://img.mako.co.il/2026/09/22/yoav_Seychelles_220926_1400_1790097239993_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790097420000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "החופשה היוקרתית שהפכה לסיוט עבור עשרות ישראלים",
+   "type": "news",
+   "updated_ms": 1790097420000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-62b24c9b01ac0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/yoav_Seychelles_220926/MASTER/yoav_Seychelles_220926/yoav_Seychelles_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-665a24193f8c0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -16554,7 +16572,9 @@
    "image": "https://img.mako.co.il/2026/09/22/SHIRA_DVORI_220926_M_1400_1790101169909_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790101176000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "ניר דבורי מסביר: המתיחות במערכת הביטחון למלחמה עם איראן",
    "type": "news",
    "updated_ms": 1790110800000,
@@ -42292,7 +42312,8 @@
    "published_ms": 1790093809000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הרגע בו הספינה העצומה התנגשה בסירת דייגים - מול חופי סינגפור: תיעוד חדש מהדרמה בלב ים",
    "type": "mivzakim",
