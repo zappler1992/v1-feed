@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be5938d36d8c0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-22T11:18:46+00:00</news:publication_date>
+<news:title>נתניהו נגד ממדאני: &quot;אני בא לאו״ם כדי להילחם על האמת של החיילים הגיבורים שלנו - וכדי לחשוף את האמת על</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/22/M_NEWS_15997_22092026111717_1400_1790075920275_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-b90abba8cc8c0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -818,23 +827,5 @@
 <news:title>בתוך בית חולים ברמאללה: לוחמי דובדבן עצרו את המחבל, הוא נורה ונפצע בידי גשש במרדף</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_MEHABEL_6296_20092026113309_1400_1789904065096_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T11:18:37+00:00</news:publication_date>
-<news:title>פיגוע הירי בבנימין: תיעוד חדש מהמצוד אחרי המחבל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_MATZOD_6295_20092026111717_1400_1789903110926_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T11:17:34+00:00</news:publication_date>
-<news:title>טרגדיה בסלובניה: גיל הלל, בן 44 ואב לשלושה מקיבוץ יזרעאל, טבע למוות במהלך חופשה משפחתית במדינה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_GIL_6294_20092026111557_1400_1789903047516_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
