@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-718eaea73c8c0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-22T11:56:00+00:00</news:publication_date>
+<news:title>אחרי הפרידה המתוקשרת: עידו מלכה מוציא שיר שסוגר חשבון עם יובל רפאל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/22/ASAF_IDO_22092026_M_1400_1790074895573_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2c44ec390e8c0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -818,14 +827,5 @@
 <news:title>בן הזוג של אריאנה גרנדה פרסם תמונות שלה - והמעריצים המודאגים לא נשארו אדישים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/AVISHAI_ARI_2009_M_1400_1789907329266_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T11:58:07+00:00</news:publication_date>
-<news:title>איראן טוענת: טראמפ החליט לתקוף אותנו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/Kim_Iran_20092026_1400_1789905480837_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
