@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-e8328345c8aa0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-df62e4657e7c0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b32e4657e7c0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3309,7 +3310,9 @@
    "image": "https://img.mako.co.il/2026/09/22/V1_christina_6311_22092026052340_1400_1790054661717_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1790054668000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "אחרי חודשים ארוכים של אשפוז: השחקנית כריסטינה אפלגייט, שחולה בטרשת נפוצה, חושפת לוק חדש",
    "type": "mivzakim",
    "updated_ms": 1790054668000,
@@ -23555,6 +23558,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6ad269d3bc4c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/biata_kuppur_fix/biata_kuppur_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b32e4657e7c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מתנפל על הנהג ודוקר אותו - בגלל ויכוח בכביש: התיעוד הקשה מתל אביב",
+   "duration_s": 34,
+   "first_seen_ms": 1790060846871,
+   "image": "https://img.mako.co.il/2026/09/22/V1_STABBING_6314_22092026070238_1400_1790060652649_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790060659000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מתנפל על הנהג ודוקר אותו - בגלל ויכוח בכביש: התיעוד הקשה מתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1790060659000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b32e4657e7c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_STABBING_6314_22092026070238/V1_STABBING_6314_22092026070238_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6bf0ac21e2eb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -24095,6 +24116,24 @@
    "updated_ms": 1789909108000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-dbb3f017bceb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_NETANEL_6298_20092026125704/V1_NETANEL_6298_20092026125704_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-df62e4657e7c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נעצר תושב בת ים בגין תקיפת נהג באמצעות סכין ומכות אגרוף על רקע ויכוח בכביש - מעצרו הוארך",
+   "duration_s": 36,
+   "first_seen_ms": 1790060846871,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_15981_22092026070321_1400_1790060675543_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790060683000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נעצר תושב בת ים בגין תקיפת נהג באמצעות סכין ומכות אגרוף על רקע ויכוח בכביש - מעצרו הוארך",
+   "type": "mivzakim",
+   "updated_ms": 1790060683000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-df62e4657e7c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15981_22092026070321/M_NEWS_15981_22092026070321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3154a9908eb0a1027.htm": {
    "author": "מבזקים",
