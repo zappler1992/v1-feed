@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-718eaea73c8c0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-665a24193f8c0a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-794a24193f8c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2193,6 +2194,24 @@
    "updated_ms": 1790078160000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-718eaea73c8c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/ASAF_IDO_22092026/MASTER/ASAF_IDO_22092026_M/ASAF_IDO_22092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-794a24193f8c0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "ליקי, מאמנת הכושר של הסלבס, חשפה שבחרה לא להניק את התינוק שלה – אך במקום תמיכה, ספגה תגובות קשות מהעוקבות. עכשיו היא משיבה לביקורת ומעודדת נשים נוספות שבחרו שלא להניק לא להתנצל על הבחירה שלהן.",
+   "duration_s": 57,
+   "first_seen_ms": 1790078846524,
+   "image": "https://img.mako.co.il/2026/09/22/Kim_Liky_22092026_1400_1790077889934_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790077900000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "מאמנת הכושר של הסלבס ליקי מחזירה אש: בחרה לא להניק – וחטפה ביקורת",
+   "type": "general",
+   "updated_ms": 1790077900000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-794a24193f8c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/Kim_Liky_22092026/MASTER/Kim_Liky_22092026/Kim_Liky_22092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-a0c4565416eb0a1027.htm": {
    "author": "סלבס",
@@ -16099,6 +16118,24 @@
    "updated_ms": 1790007060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-61be962897db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Kipurtraffic_20092026/MASTER/Kim_Kipurtraffic_20092026/Kim_Kipurtraffic_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-665a24193f8c0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי חודש וחצי של חקירה המשטרה הודיעה כי החשוד המרכזי בפרשה הוא תושב בן 54 מבית שאן. החוקרים הודיעו כי הם אספו תשתית ראיות משמעותית שמאפשרת את הרשעתו - למרות שהאקדח ששימש ברצח עדיין לא אותר.",
+   "duration_s": 25,
+   "first_seen_ms": 1790078846524,
+   "image": "https://img.mako.co.il/2026/09/22/RINAT_MURDER_22092026_M_1400_1790077897011_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790077903000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "אחרי חודש וחצי: פוענח רצח ראש המאפיה הקווקזית",
+   "type": "news",
+   "updated_ms": 1790077903000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-665a24193f8c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/RINAT_MURDER_22092026/MASTER/RINAT_MURDER_22092026_M/RINAT_MURDER_22092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-705ae4657e7c0a1026.htm": {
    "author": "חדשות",
@@ -34899,7 +34936,7 @@
    ],
    "title": "הקסם המטורף שחצה את כל הגבולות",
    "type": "general",
-   "updated_ms": 1790067780000,
+   "updated_ms": 1790078460000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-30cd7f3a965c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/lior_majik_DANAZ/MASTER/lior_majik_DANAZ/lior_majik_DANAZ_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
