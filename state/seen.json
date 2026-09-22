@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-b8cbcbb0148c0a1026.htm",
-  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-4032e25ed28c0a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-28504dfcf68c0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-b90abba8cc8c0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16208,7 +16206,9 @@
    "image": "https://img.mako.co.il/2026/09/22/ASAF_TRUMPTV_22092026_M_1400_1790054774237_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790065560000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "אחרי \"ליל המיקרופונים\" שהביך את טראמפ: הנשיא משיק את \"Trump TV\"",
    "type": "news",
    "updated_ms": 1790065560000,
@@ -34806,7 +34806,8 @@
    "importance": 2,
    "published_ms": 1790060400000,
    "sections": [
-    "תדהמה ב90 שניות"
+    "תדהמה ב90 שניות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הקסם המטורף שחצה את כל הגבולות",
    "type": "general",
@@ -41368,6 +41369,24 @@
    "updated_ms": 1790056303000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-805ec0613a7c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_MONKEY_6312_22092026055018/V1_MONKEY_6312_22092026055018_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-b90abba8cc8c0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "נקמת השיפוצניק: סירבו לשלם לו על העבודה בבית באירלנד - אז הוא חזר וניסר את הגג",
+   "duration_s": 85,
+   "first_seen_ms": 1790075547379,
+   "image": "https://img.mako.co.il/2026/09/22/V1_chainsaw_6321_22092026110624_1400_1790075295788_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790075302000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "נקמת השיפוצניק: סירבו לשלם לו על העבודה בבית באירלנד - אז הוא חזר וניסר את הגג",
+   "type": "mivzakim",
+   "updated_ms": 1790075302000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-b90abba8cc8c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_chainsaw_6321_22092026110624/V1_chainsaw_6321_22092026110624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-c6e83987845c0a1026.htm": {
    "author": "מבזקים מהעולם",
