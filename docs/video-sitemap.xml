@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62ca7a2c307c0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/22/M_NEWS_15954_22092026025753_1400_1790045940305_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>טראמפ לצד ממדאני: &quot;אני חושב שיש לו פוטנציאל גדול&quot;</video:title>
+<video:description>טראמפ לצד ממדאני: &quot;אני חושב שיש לו פוטנציאל גדול&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15954_22092026025753/M_NEWS_15954_22092026025753_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>16</video:duration>
+<video:publication_date>2026-09-22T02:59:10+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-ef75b7e4a95c0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/21/MAYA_OR_210926_1400_1790022718772_FirstFrame.jpg</video:thumbnail_loc>
@@ -14,6 +30,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

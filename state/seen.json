@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-ef75b7e4a95c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62ca7a2c307c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2225,7 +2225,8 @@
    "importance": 2,
    "published_ms": 1790022729000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עושה מהלימון לימונדה: אור לוזון מתייחסת לביטול הזמנתה לחתונה של עומר אדם",
    "type": "general",
@@ -23322,6 +23323,24 @@
    "updated_ms": 1789880410000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5e77a64b61db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15894_20092026045835/M_NEWS_15894_20092026045835_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62ca7a2c307c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ לצד ממדאני: \"אני חושב שיש לו פוטנציאל גדול\"",
+   "duration_s": 16,
+   "first_seen_ms": 1790046147313,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_15954_22092026025753_1400_1790045940305_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790045950000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ לצד ממדאני: \"אני חושב שיש לו פוטנציאל גדול\"",
+   "type": "mivzakim",
+   "updated_ms": 1790045950000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62ca7a2c307c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15954_22092026025753/M_NEWS_15954_22092026025753_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-65b379fd56eb0a1026.htm": {
    "author": "מבזקים",
