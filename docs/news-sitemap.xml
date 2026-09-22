@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2315da316f7c0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-22T07:22:53+00:00</news:publication_date>
+<news:title>נתניה: בן 80 טבע בחוף הים, ופונה במצב קשה בתום פעולות החייאה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/22/M_NEWS_15982_22092026072114_1400_1790061763062_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7363e4657e7c0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -809,14 +818,5 @@
 <news:title>נעצר רוכב קטנוע שהרכיב ילד בן 7 ונמלט נגד כיוון התנועה בצפון הארץ</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/20/V1_MIRDAF_6281_20092026074224_1400_1789890254270_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-e154da817adb0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-20T07:25:24+00:00</news:publication_date>
-<news:title>הסיבה לניסיון ההתאבדות של השחקן והקומיקאי &quot;ראש גזר&quot; נחשפת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/20/Kim_Carrottop_20092026_1_1400_1789889117200_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
