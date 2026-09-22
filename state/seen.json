@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c20f5b344c8c0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-99cc4cfb609c0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1bd41141919c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23525,6 +23524,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15888_20092026030645/M_NEWS_15888_20092026030645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1bd41141919c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הקוצים עולים באש: שריפה פרצה בשטח פתוח בין חדרה לאליכין, לוחמי כיבוי והצלה פועלים במקום",
+   "duration_s": 10,
+   "first_seen_ms": 1790081246644,
+   "image": "https://img.mako.co.il/2026/09/22/V1_karind_fire_6323_22092026124000_1400_1790080873186_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790080881000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הקוצים עולים באש: שריפה פרצה בשטח פתוח בין חדרה לאליכין, לוחמי כיבוי והצלה פועלים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1790080881000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1bd41141919c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_karind_fire_6323_22092026124000/V1_karind_fire_6323_22092026124000_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1c4170b30fdb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -24818,7 +24835,7 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "צאת כיפור בשוק מחנה יהודה: קטטה פרצה לאחר שלקוח יהודי דרש מעובד ערבי שאדם אחר ידליק א",
+   "title": "שוק מחנה יהודה: קטטה פרצה לאחר שלקוח יהודי דרש מעובד ערבי שאדם אחר ידליק את התנור",
    "type": "mivzakim",
    "updated_ms": 1790072495000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f6794f390a8c0a1026.htm",
