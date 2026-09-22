@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-2ee405171a9c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d5f89202ec9c0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2153,7 +2153,7 @@
    ],
    "title": "מה עומר אדם ידע על הפרסומת של אור לוזון?",
    "type": "general",
-   "updated_ms": 1790069511000,
+   "updated_ms": 1790091960000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-28504dfcf68c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/biata_orlu_220926/MASTER/biata_orlu_220926/biata_orlu_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -24810,6 +24810,24 @@
    "updated_ms": 1789892414000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d1fb22a03edb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_LOST_6282_20092026081840/V1_LOST_6282_20092026081840_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d5f89202ec9c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופניים חשמליים בן 20 נפגע מרכב ברחוב פנחס ואברהם רוטנברג בחיפה ונפצע קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1790092346825,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_16010_22092026034800_1400_1790092172948_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790092179000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופניים חשמליים בן 20 נפגע מרכב ברחוב פנחס ואברהם רוטנברג בחיפה ונפצע קשה",
+   "type": "mivzakim",
+   "updated_ms": 1790092179000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d5f89202ec9c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16010_22092026034800/M_NEWS_16010_22092026034800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d82b1afeac4c0a1027.htm": {
    "author": "מבזקים",
