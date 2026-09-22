@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-db729e819c9c0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c3c29202ec9c0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9c259e819c9c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24503,6 +24504,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-96d5f36d745c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15945_21092026065447/M_NEWS_15945_21092026065447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9c259e819c9c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מטוס קרב אמריקאי מסוג 16-F התרסק בטיסת אימון בגרמניה, הטייס נטש ונפצע",
+   "duration_s": 15,
+   "first_seen_ms": 1790093246922,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_16011_22092026040037_1400_1790092910104_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790092916000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מטוס קרב אמריקאי מסוג 16-F התרסק בטיסת אימון בגרמניה, הטייס נטש ונפצע",
+   "type": "mivzakim",
+   "updated_ms": 1790092916000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9c259e819c9c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16011_22092026040037/M_NEWS_16011_22092026040037_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f5cfe15f07c0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -24683,6 +24702,24 @@
    "updated_ms": 1790075926000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be5938d36d8c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15997_22092026111717/M_NEWS_15997_22092026111717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c3c29202ec9c0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השגריר דנון על נאום טראמפ באו\"ם: \"הנשיא פתח את העצרת הכללית במסר ברור של עוצמה. ארה\"ב וישראל חולקות",
+   "duration_s": 21,
+   "first_seen_ms": 1790093246922,
+   "image": "https://img.mako.co.il/2026/09/22/M_NEWS_16012_22092026040325_1400_1790093071654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790093078000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השגריר דנון על נאום טראמפ באו\"ם: \"הנשיא פתח את העצרת הכללית במסר ברור של עוצמה. ארה\"ב וישראל חולקות",
+   "type": "mivzakim",
+   "updated_ms": 1790093078000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c3c29202ec9c0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16012_22092026040325/M_NEWS_16012_22092026040325_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c557fe63eecb0a1027.htm": {
    "author": "מבזקים",
