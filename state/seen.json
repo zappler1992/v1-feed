@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w05/shorts-f149472beed30a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w04/shorts-88045710fe7c0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fe27cf13758c0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2188,7 +2187,8 @@
    "importance": 1,
    "published_ms": 1790055181000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "צמודים בבוורלי הילס: דני לוי והחבר שצעיר ממנה ב-14 שנה",
    "type": "general",
@@ -24548,6 +24548,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fdb7fe15f07c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15961_22092026033434/M_NEWS_15961_22092026033434_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fe27cf13758c0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי 3 שנים בלי הופעות בינלאומיות בארץ: בוי ג'ורג' יגיע להופעה בישראל ב-4.11",
+   "duration_s": 18,
+   "first_seen_ms": 1790068347364,
+   "image": "https://img.mako.co.il/2026/09/22/V1_boygeorge_6318_22092026090444_1400_1790067972767_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790067982000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי 3 שנים בלי הופעות בינלאומיות בארץ: בוי ג'ורג' יגיע להופעה בישראל ב-4.11",
+   "type": "mivzakim",
+   "updated_ms": 1790067982000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fe27cf13758c0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_boygeorge_6318_22092026090444/V1_boygeorge_6318_22092026090444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fec4146ddccb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34564,7 +34582,8 @@
    "importance": 2,
    "published_ms": 1790064000000,
    "sections": [
-    "המיוחדים"
+    "המיוחדים",
+    "הכי נצפים עכשיו"
    ],
    "title": "אמת או חובה: יונתן שלו",
    "type": "general",
@@ -41136,7 +41155,8 @@
    "published_ms": 1790056303000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אירוע מחריד בהודו: קוף דחף אישה בת 91 על הקרקע - והרג אותה",
    "type": "mivzakim",
