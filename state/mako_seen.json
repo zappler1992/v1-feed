@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790170649237,
+ "last_run_ms": 1790170952896,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -968,6 +968,18 @@
    "published_ms": 1790160660000,
    "section": "כסף",
    "title": "הישראלי שמקיo עם טראמפ מגדל בטביליסי"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-0a0cb55467ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790170706784,
+   "content_type": "article",
+   "first_seen_ms": 1790170706784,
+   "indexable": true,
+   "indexnow_ms": 1790170706784,
+   "published_ms": 1790170320000,
+   "section": "נדל\"ן",
+   "title": "הדירוג החדש: איפה הכי מרוצים מהעירייה בישראל"
   },
   "https://www.mako.co.il/finances-real-estate/Article-1e80deaf47ba0a1027.htm": {
    "check_attempts": 1,
@@ -2599,7 +2611,7 @@
    "indexnow_ms": 1790151628545,
    "published_ms": 1790150400000,
    "section": "צבא וביטחון",
-   "title": "\"סבך אסטרטגי\": ארגון הטרור במצב חדש מול ישראל"
+   "title": "חיזבאללה נערך מחדש - מחוץ לטווח האש של צה\"ל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1092e65b3adc0a1027.htm": {
    "check_attempts": 1,
@@ -2875,7 +2887,7 @@
    "indexnow_ms": 1790152048675,
    "published_ms": 1790149980000,
    "section": "חופש",
-   "title": "התפתחות בפרשת הישראלי שנעצר בחו\"ל"
+   "title": "אחרי שבוע: התפתחות בפרשת הישראלי שנעצר בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,
@@ -3164,6 +3176,16 @@
    "published_ms": 1790136900000,
    "section": "תרבות tvbee",
    "title": "האישה שהקימה אימפריה צריכה ללמוד מגיתית פישר"
+  },
+  "ttps://fashionforward.mako.co.il/news/320755/": {
+   "check_attempts": 1,
+   "content_type": "post",
+   "first_seen_ms": 1790170952896,
+   "indexable": null,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "הזמינה מהאתר האהוב, וזה מה שחיכה לה בחבילה"
   }
  }
 }
