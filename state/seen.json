@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-2567b9ea70ec0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3027d8f122ec0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02c6d8f122ec0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ed3fd8f122ec0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-2b608a873fdc0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-385cd8f122ec0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16595,6 +16599,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/MAYA_BB_210926/MASTER/MAYA_BB_210926/MAYA_BB_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-2b608a873fdc0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1790165546673,
+   "image": "https://img.mako.co.il/2026/09/23/inbie_chagora_230926_1400_1790162131578_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790162138000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "התפרע וסירב לחגור חגורת בטיחות: הנוסע הישראלי שהפך את הטיסה לסיוט",
+   "type": "news",
+   "updated_ms": 1790162138000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-2b608a873fdc0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/inbie_chagora_230926/MASTER/inbie_chagora_230926/inbie_chagora_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-2f541dd3888c0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24043,6 +24065,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02963c9aeeeb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_NATBAG_6299_20092026013151/V1_NATBAG_6299_20092026013151_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02c6d8f122ec0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד החוץ מזהיר ישראלים באקוודור בשל מזג אוויר חריג: \"הימנעו מאזורים מוצפים וחציית נהרות ונחלים\"",
+   "duration_s": 21,
+   "first_seen_ms": 1790165546673,
+   "image": "https://img.mako.co.il/2026/09/23/V1_ecuador_6363_23092026120750_1400_1790165356639_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790165363000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד החוץ מזהיר ישראלים באקוודור בשל מזג אוויר חריג: \"הימנעו מאזורים מוצפים וחציית נהרות ונחלים\"",
+   "type": "mivzakim",
+   "updated_ms": 1790165363000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02c6d8f122ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_ecuador_6363_23092026120750/V1_ecuador_6363_23092026120750_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-030bf2a4d8cc0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -24564,6 +24604,24 @@
    "updated_ms": 1790137497000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f7a0dbde7cc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_scroll_6339_23092026042322/V1_scroll_6339_23092026042322_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3027d8f122ec0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נער הלך באמצע הרחוב - והסוכה עפה עליו וכמעט פגעה בראשו | צפו בתיעוד המפתיע",
+   "duration_s": 23,
+   "first_seen_ms": 1790165546673,
+   "image": "https://img.mako.co.il/2026/09/23/V1_karind_suka_6364_23092026120817_1400_1790165377829_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790165384000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נער הלך באמצע הרחוב - והסוכה עפה עליו וכמעט פגעה בראשו | צפו בתיעוד המפתיע",
+   "type": "mivzakim",
+   "updated_ms": 1790165384000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3027d8f122ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_suka_6364_23092026120817/V1_karind_suka_6364_23092026120817_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3679402644cc0a1026.htm": {
    "author": "מבזקים",
@@ -26388,6 +26446,24 @@
    "updated_ms": 1790100600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e9c314a114ac0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_trumpiranshaot_6332_22092026060642/V1_trumpiranshaot_6332_22092026060642_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ed3fd8f122ec0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כלי שיט נפגע מטיל במצר הורמוז ועלה באש. שניים נפגעו, וכל אנשי הצוות פונו מהכלי",
+   "duration_s": 9,
+   "first_seen_ms": 1790165546673,
+   "image": "https://img.mako.co.il/2026/09/23/V1_KARIND_HORMUZ_6362_23092026120215_1400_1790165019709_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790165026000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כלי שיט נפגע מטיל במצר הורמוז ועלה באש. שניים נפגעו, וכל אנשי הצוות פונו מהכלי",
+   "type": "mivzakim",
+   "updated_ms": 1790165026000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ed3fd8f122ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KARIND_HORMUZ_6362_23092026120215/V1_KARIND_HORMUZ_6362_23092026120215_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-efbe565416eb0a1027.htm": {
    "author": "מבזקים",
@@ -43203,6 +43279,24 @@
    "updated_ms": 1790139188000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-335d455029cc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KARIND_BEAR_6343_23092026045153/V1_KARIND_BEAR_6343_23092026045153_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-385cd8f122ec0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "Oops, I did it: שגרירת סרביה התבלבלה ונישקה את דגל הולנד - במקום את דגל ארצה",
+   "duration_s": 10,
+   "first_seen_ms": 1790165546673,
+   "image": "https://img.mako.co.il/2026/09/23/V1_KARIND_SERBIA_6361_23092026115910_1400_1790164822976_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790164829000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "Oops, I did it: שגרירת סרביה התבלבלה ונישקה את דגל הולנד - במקום את דגל ארצה",
+   "type": "mivzakim",
+   "updated_ms": 1790164829000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-385cd8f122ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KARIND_SERBIA_6361_23092026115910/V1_KARIND_SERBIA_6361_23092026115910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-3d9be6e648db0a1026.htm": {
    "author": "מבזקים מהעולם",

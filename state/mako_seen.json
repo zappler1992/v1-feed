@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790164649161,
+ "last_run_ms": 1790165549994,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -241,6 +241,18 @@
    "section": "ספורט",
    "title": "אשתו של בראון אישרה: יחתום בהפועל י-ם"
   },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-c030d8f122ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790165427799,
+   "content_type": "article",
+   "first_seen_ms": 1790165427799,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790165100000,
+   "section": "ספורט",
+   "title": "מעל קיירי ובאם: הדירוג של אבדיה ב-ESPN"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-258a549085dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -336,6 +348,18 @@
    "published_ms": 1790138880000,
    "section": "ספורט",
    "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-fab024e342ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790165549994,
+   "content_type": "article",
+   "first_seen_ms": 1790165549994,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790165280000,
+   "section": "ספורט",
+   "title": "אוחנה ופרימו חשפו: הסיבות שסבע לא בנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-08643654e1dc0a1027.htm": {
    "check_attempts": 1,
@@ -597,6 +621,18 @@
    "section": "LIVE 12",
    "title": "קשת 12 בשידור חי"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-070a8a873fdc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790165427799,
+   "content_type": "article",
+   "first_seen_ms": 1790165427799,
+   "indexable": true,
+   "indexnow_ms": 1790165427799,
+   "published_ms": 1790163960000,
+   "section": "סלבס",
+   "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -847,7 +883,7 @@
    "indexnow_ms": 1790157627311,
    "published_ms": 1790157060000,
    "section": "כסף",
-   "title": "הפסיקה ההיסטורית נגד הבנקים - והמשמעות לכיס שלכם"
+   "title": "יכול להיות שמגיעים לכם מיליארדי שקלים מהבנקים"
   },
   "https://www.mako.co.il/finances-news/Article-6bd0a70fb08c0a1027.htm": {
    "check_attempts": 1,
@@ -1413,6 +1449,18 @@
    "section": "HIX",
    "title": "הקוף איבד שליטה בחצר וגרם למותה של בעלת הבית"
   },
+  "https://www.mako.co.il/hix-special/Article-c7d14e8291ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790165427799,
+   "content_type": "article",
+   "first_seen_ms": 1790165427799,
+   "indexable": true,
+   "indexnow_ms": 1790165427799,
+   "published_ms": 1790164680000,
+   "section": "HIX",
+   "title": "\"אנחנו חושבים שמשהו לא היה בסדר כשזה קרה\""
+  },
   "https://www.mako.co.il/hix-special/Article-ec33cf13758c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1831,7 +1879,7 @@
    "indexnow_ms": 1790164587612,
    "published_ms": 1790162460000,
    "section": "",
-   "title": "\"הוא כלא את העובדים בחדרים בלי מזגן\""
+   "title": "הישראלי שעמד במוקד - ושיטות הפעולה האכזריות"
   },
   "https://www.mako.co.il/men-men_news/Article-50d65b344c8c0a1026.htm": {
    "check_attempts": 1,
@@ -1868,6 +1916,18 @@
    "published_ms": 1789649040000,
    "section": "",
    "title": "שנתיים של אימה: לא היה בישראל עוד עבריין מין כזה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-69a4d8f122ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790165549994,
+   "content_type": "article",
+   "first_seen_ms": 1790165549994,
+   "indexable": true,
+   "indexnow_ms": 1790165549994,
+   "published_ms": 1790165280000,
+   "section": "פלילים",
+   "title": "\"חשדו שהיא עושה הצגות, זלזלו בה\""
   },
   "https://www.mako.co.il/men-men_news/Article-69fd611b37dc0a1027.htm": {
    "check_attempts": 1,
