@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d159a931f7ec0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62a66027d8ec0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3cdeec00f8ec0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-a55f6027d8ec0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24750,6 +24752,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ca44a9908eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_GIL_6294_20092026111557/V1_GIL_6294_20092026111557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3cdeec00f8ec0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח ראשוני על פצוע בפיגוע דריסה בכביש 443 באיזור מחסום מכבים",
+   "duration_s": 5,
+   "first_seen_ms": 1790172446619,
+   "image": "https://img.mako.co.il/2026/09/23/V1_NOAY_PIGUA_230926_6371_23092026020211_1400_1790172170186_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790172179000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח ראשוני על פצוע בפיגוע דריסה בכביש 443 באיזור מחסום מכבים",
+   "type": "mivzakim",
+   "updated_ms": 1790172179000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3cdeec00f8ec0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NOAY_PIGUA_230926_6371_23092026020211/V1_NOAY_PIGUA_230926_6371_23092026020211_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3cfb1bc766dc0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -25073,6 +25093,24 @@
    "updated_ms": 1790049685000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5f0597fbf27c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15962_22092026035938/M_NEWS_15962_22092026035938_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62a66027d8ec0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מזירת פיגוע הדריסה בכביש 443 באיזור מחסום מכבים",
+   "duration_s": 11,
+   "first_seen_ms": 1790172446619,
+   "image": "https://img.mako.co.il/2026/09/23/V1_NOAY_PIGUA222_230926_6372_23092026020421_1400_1790172341128_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790172351000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מזירת פיגוע הדריסה בכביש 443 באיזור מחסום מכבים",
+   "type": "mivzakim",
+   "updated_ms": 1790172351000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62a66027d8ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NOAY_PIGUA222_230926_6372_23092026020421/V1_NOAY_PIGUA222_230926_6372_23092026020421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-62ca7a2c307c0a1027.htm": {
    "author": "מבזקים",
@@ -43537,6 +43575,24 @@
    "updated_ms": 1790056303000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-805ec0613a7c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_MONKEY_6312_22092026055018/V1_MONKEY_6312_22092026055018_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-a55f6027d8ec0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רגעים אחרי ההמראה: מטוס חיל האוויר הבריטי התרסק סמוך לבסיס צבאי באנגלסי, ויילס | תיעוד",
+   "duration_s": 35,
+   "first_seen_ms": 1790172446619,
+   "image": "https://img.mako.co.il/2026/09/23/V1_PLANECRUSH_6370_23092026015944_1400_1790172071935_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790172078000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "רגעים אחרי ההמראה: מטוס חיל האוויר הבריטי התרסק סמוך לבסיס צבאי באנגלסי, ויילס | תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1790172078000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-a55f6027d8ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_PLANECRUSH_6370_23092026015944/V1_PLANECRUSH_6370_23092026015944_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-a66536db5a9c0a1027.htm": {
    "author": "מבזקים מהעולם",
