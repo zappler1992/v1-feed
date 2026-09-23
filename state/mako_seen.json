@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790142194583,
+ "last_run_ms": 1790142749647,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -272,6 +272,18 @@
    "published_ms": 1790093640000,
    "section": "ספורט",
    "title": "\"אם לא הייתי מוותר, רוי לא היה באלצ`ה\""
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-c62ed3fe5ccc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790142749647,
+   "content_type": "article",
+   "first_seen_ms": 1790142749647,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790142240000,
+   "section": "ספורט",
+   "title": "חיים רביבו חשף: זו הסיבה שרוי הפך למגן"
   },
   "https://www.mako.co.il/culture-articles/Article-120497b7008c0a1027.htm": {
    "check_attempts": 1,
@@ -1820,6 +1832,18 @@
    "published_ms": 1790071980000,
    "section": "חופש",
    "title": "\"סכנה מוחשית ליהודים\": רעידת אדמה בעיר הבירה האירופית"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-45319125100a0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790142387237,
+   "content_type": "article",
+   "first_seen_ms": 1790142387237,
+   "indexable": true,
+   "indexnow_ms": 1790142749647,
+   "published_ms": 1790141760000,
+   "section": "חופש",
+   "title": "עולם אחר: הגענו לאי הפרטי שכולם מדברים עליו כרגע"
   },
   "https://www.mako.co.il/travel-news/international/Article-56e3fa1495ac0a1027.htm": {
    "check_attempts": 1,
