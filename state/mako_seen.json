@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790165856001,
+ "last_run_ms": 1790166151261,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2013,6 +2013,18 @@
    "section": "פלילים",
    "title": "לינור ששון פונתה מנווה תרצה אחרי שלקתה בשבץ"
   },
+  "https://www.mako.co.il/men-men_news/Article-e96bbe6633ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790166151261,
+   "content_type": "article",
+   "first_seen_ms": 1790166151261,
+   "indexable": true,
+   "indexnow_ms": 1790166151261,
+   "published_ms": 1790166000000,
+   "section": "פלילים",
+   "title": "התחזה לאיש שב\"כ, ניהל קשר רומנטי - ועקץ אלפי שקלים"
+  },
   "https://www.mako.co.il/music-news/Article-0790fe63eecb0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2096,6 +2108,18 @@
    "published_ms": 1790159940000,
    "section": "מוזיקה",
    "title": "בגלל תקרית בפסטיבל - הצעירה נותרה משותקת"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-2186e609c2ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790166151261,
+   "content_type": "article",
+   "first_seen_ms": 1790166151261,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790165700000,
+   "section": "ספורט",
+   "title": "בלתי נתפס: החוזה הבא שמחכה לדיא סבע"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-24e0159289dc0a1027.htm": {
    "check_attempts": 1,
