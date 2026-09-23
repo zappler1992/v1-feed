@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790170952896,
+ "last_run_ms": 1790171254666,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -180,6 +180,18 @@
    "published_ms": 1790157381000,
    "section": "אופנה",
    "title": "פחות מחודש אחרי הלידה: מה לבשה קים אור אזולאי לחתונה של אחותה?"
+  },
+  "https://fashionforward.mako.co.il/news/320755/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171068534,
+   "content_type": "post",
+   "first_seen_ms": 1790171068534,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790170490000,
+   "section": "",
+   "title": "\"ז*ן על ישראל\": הזמינה מהאתר האהוב, וזה מה שחיכה לה בחבילה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -969,6 +981,18 @@
    "section": "כסף",
    "title": "הישראלי שמקיo עם טראמפ מגדל בטביליסי"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-0477b55467ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171187075,
+   "content_type": "article",
+   "first_seen_ms": 1790171187075,
+   "indexable": true,
+   "indexnow_ms": 1790171187075,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "817 מיליון שקל: הזינוק בביקושים לבנק ירושלים"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-0a0cb55467ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1016,6 +1040,18 @@
    "published_ms": null,
    "section": "נדל\"ן",
    "title": "8.5 מיליון שקל יושקעו במוזיאון החדש של הגולן"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-49bcf31bd7ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171187075,
+   "content_type": "article",
+   "first_seen_ms": 1790171187075,
+   "indexable": true,
+   "indexnow_ms": 1790171187075,
+   "published_ms": 1790170920000,
+   "section": "נדל\"ן",
+   "title": "תשלמו כפול? האזהרה החריגה נגד 17 ועדות תכנון"
   },
   "https://www.mako.co.il/finances-real-estate/Article-557c7d4b4bea0a1027.htm": {
    "check_attempts": 1,
@@ -1519,7 +1555,7 @@
    "indexnow_ms": 1790169749218,
    "published_ms": 1790169540000,
    "section": "HIX",
-   "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, עד שהאמת נחשפה"
+   "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, והכל נחשף"
   },
   "https://www.mako.co.il/hix-special/Article-c7d14e8291ec0a1026.htm": {
    "check_attempts": 1,
@@ -2757,6 +2793,18 @@
    "section": "חדשות",
    "title": "אחרי כסיף ובל\"ד: גם רע\"ם נפסלה בוועדת הבחירות המרכזית"
   },
+  "https://www.mako.co.il/special-senses/coltura/Article-4c15bb7dd3ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171187075,
+   "content_type": "article",
+   "first_seen_ms": 1790171187075,
+   "indexable": true,
+   "indexnow_ms": 1790171187075,
+   "published_ms": 1790170980000,
+   "section": "SENSES",
+   "title": "בפרויקט חדש: זוג השחקנים שיגלם את שורדי השבי"
+  },
   "https://www.mako.co.il/special-senses/coltura/Article-4c293f07dc8c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3178,7 +3226,7 @@
    "title": "האישה שהקימה אימפריה צריכה ללמוד מגיתית פישר"
   },
   "ttps://fashionforward.mako.co.il/news/320755/": {
-   "check_attempts": 1,
+   "check_attempts": 3,
    "content_type": "post",
    "first_seen_ms": 1790170952896,
    "indexable": null,
