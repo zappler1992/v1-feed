@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790158349183,
+ "last_run_ms": 1790158648692,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -595,7 +595,7 @@
    "indexnow_ms": 1790155949397,
    "published_ms": 1790154900000,
    "section": "",
-   "title": "\"שתהיי ילדה של אבא ובן זוג מגיל 25 ומעלה\""
+   "title": "\"שתהיי ילדה של אבא ובן זוג רק מגיל 25 ומעלה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d4bcfa1495ac0a1027.htm": {
    "check_attempts": 1,
@@ -824,6 +824,18 @@
    "published_ms": 1789876080000,
    "section": "כסף",
    "title": "הוא מנכ\"ל ביום וכוכב טיקטוק בלילה ומסרב לכסף"
+  },
+  "https://www.mako.co.il/finances-news/Article-a484874f78dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790158467218,
+   "content_type": "article",
+   "first_seen_ms": 1790158467218,
+   "indexable": true,
+   "indexnow_ms": 1790158467218,
+   "published_ms": 1790154600000,
+   "section": "",
+   "title": "הצעד הדרמטי שסוגר את השמיים של טהרן"
   },
   "https://www.mako.co.il/finances-real-estate/Article-1e80deaf47ba0a1027.htm": {
    "check_attempts": 1,
@@ -2023,7 +2035,7 @@
    "indexnow_ms": 1790156669526,
    "published_ms": 1790155620000,
    "section": "דיגיטל",
-   "title": "\"זה גורם לזה להישמע מזויף, זה בעצם מדהים\""
+   "title": "המונח הכי נפוץ בעולם יוחלף, זה השם החדש"
   },
   "https://www.mako.co.il/nexter-news/Article-d99d549085dc0a1027.htm": {
    "check_attempts": 1,
@@ -2479,7 +2491,7 @@
    "indexnow_ms": 1790146827424,
    "published_ms": 1790138820000,
    "section": "חופש",
-   "title": "יקב, מעיין ונוף מדהים: האזור היפה שלא הרבה מכירים"
+   "title": "יקב, מעיין ונוף מדהים: האזור שלא הרבה מכירים"
   },
   "https://www.mako.co.il/travel-israel/Article-2d60291bc85a0a1026.htm": {
    "check_attempts": 1,
