@@ -18,8 +18,14 @@ https://<host>/<key>.txt. Pages of a host without that file stay queued and go o
 automatically on the first run after the file appears. A URL is submitted once;
 nothing is resubmitted, per IndexNow's own guidance.
 
-Excluded: sponsored/advertising teasers, hosts not listed below, and anything the
-host's own robots.txt disallows.
+Before a URL is submitted or listed, the page itself is fetched once and checked:
+pages carrying `noindex` (meta robots or X-Robots-Tag), or a canonical pointing at a
+different URL, are dropped - mako mirrors sport5.co.il articles under /Sports-* and
+news-sport that way, and those must not be pushed to a search engine. The verdict is
+cached in the state file, so each page is checked once.
+
+Excluded: sponsored/advertising teasers, hosts not listed below, anything the host's
+own robots.txt disallows, and anything the page-level check rejects.
 
 Usage:
   python scripts/build_mako_all.py build   # fetch + diff + write feed + submit to IndexNow
@@ -69,6 +75,20 @@ INDEXNOW_MAX_PER_REQUEST = 10000
 INDEXNOW_ENABLED = os.environ.get("MAKO_INDEXNOW", "1") == "1"
 
 AD_ITEM_MARKERS = ("advertising", "Advertising")
+CHECK_MAX_PER_RUN = int(os.environ.get("MAKO_CHECK_MAX_PER_RUN", "60"))
+CHECK_MAX_ATTEMPTS = 3
+HEAD_BYTES = 400_000          # meta robots / canonical live in <head>
+# mako serves a 15 KB javascript stub (no head tags at all) unless a browser-like
+# Accept header is sent, so the check must ask for HTML explicitly.
+PAGE_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "he-IL,he;q=0.9,en;q=0.8",
+}
+META_ROBOTS_RE = re.compile(
+    r'<meta[^>]+name=["\']robots["\'][^>]*content=["\']([^"\']*)["\']', re.I)
+CANONICAL_RE = re.compile(
+    r'<link[^>]+rel=["\']canonical["\'][^>]*href=["\']([^"\']+)["\']', re.I)
 CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
 DC_CREATOR = "{http://purl.org/dc/elements/1.1/}creator"
 IMG_SRC_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
@@ -220,6 +240,70 @@ def extract_rss(xml_bytes, host, robots_by_host, found, skipped, default_section
                     cur[k] = cand[k]
             if cand["published_ms"] and not cur["published_ms"]:
                 cur["published_ms"] = cand["published_ms"]
+
+
+# ---- page-level indexability check ------------------------------------------
+def check_page(url):
+    """
+    Fetch the page once and decide whether it may be listed and submitted.
+    Returns (verdict, reason): verdict True/False, or None when the check itself failed
+    (network error) and should be retried on a later run.
+    """
+    req = Request(url, headers=PAGE_HEADERS)
+    try:
+        with urlopen(req, timeout=45) as r:
+            if r.status != 200:
+                return False, f"http {r.status}"
+            final = normalize_url(r.geturl())
+            xrobots = (r.headers.get("X-Robots-Tag") or "").lower()
+            head = r.read(HEAD_BYTES).decode("utf-8", errors="replace")
+    except HTTPError as e:
+        return (False, f"http {e.code}") if 400 <= e.code < 500 else (None, f"http {e.code}")
+    except (URLError, TimeoutError, OSError) as e:
+        return None, f"{type(e).__name__}"
+
+    if final != url:
+        return False, f"redirects to {final}"
+    if "noindex" in xrobots:
+        return False, "noindex (X-Robots-Tag)"
+    m = META_ROBOTS_RE.search(head)
+    c = CANONICAL_RE.search(head)
+    if not m and not c:
+        # neither tag present: we were served a stub or a challenge page, not the article.
+        # Retry later rather than assume the page is fine.
+        return None, "no robots/canonical tag in response"
+    if m and "noindex" in m.group(1).lower():
+        return False, "noindex (meta robots)"
+    if c:
+        canonical = normalize_url(c.group(1).replace("&amp;", "&"))
+        if canonical != url:
+            return False, f"canonical -> {canonical}"
+    return True, "ok"
+
+
+def check_pending(pages, urls, now_ms):
+    """Resolve the indexability of URLs we have not judged yet, oldest first."""
+    todo = [u for u in urls
+            if pages[u].get("indexable") is None
+            and pages[u].get("check_attempts", 0) < CHECK_MAX_ATTEMPTS]
+    todo.sort(key=lambda u: pages[u].get("first_seen_ms", 0))
+    rejected = 0
+    for url in todo[:CHECK_MAX_PER_RUN]:
+        p = pages[url]
+        p["check_attempts"] = p.get("check_attempts", 0) + 1
+        verdict, reason = check_page(url)
+        if verdict is None:
+            continue
+        p["indexable"] = verdict
+        p["check_reason"] = reason
+        p["checked_ms"] = now_ms
+        if not verdict:
+            rejected += 1
+            log(f"  mako-all SKIP {url}  ({reason})")
+    if todo:
+        log(f"mako-all: page check: {min(len(todo), CHECK_MAX_PER_RUN)} checked, {rejected} rejected, "
+            f"{max(0, len(todo) - CHECK_MAX_PER_RUN)} left for the next run")
+    return rejected
 
 
 # ---- state ------------------------------------------------------------------
@@ -374,6 +458,7 @@ def cmd_build():
             pages[url] = {
                 "title": it["title"], "section": it["section"], "content_type": it["content_type"],
                 "published_ms": it["published_ms"], "first_seen_ms": now_ms, "indexnow_ms": None,
+                "indexable": None, "check_attempts": 0,
             }
             new_urls.append(url)
         else:
@@ -382,8 +467,17 @@ def cmd_build():
             if it["published_ms"] and not cur.get("published_ms"):
                 cur["published_ms"] = it["published_ms"]
 
-    # everything never accepted by IndexNow, grouped by host (a host without a key file stays queued)
-    pending = sorted(u for u, p in pages.items() if not p.get("indexnow_ms"))
+    check_pending(pages, list(found), now_ms)
+
+    # only pages that passed the page-level check reach the feed or IndexNow
+    for url in list(found):
+        if pages[url].get("indexable") is not True:
+            del found[url]
+
+    # everything verified but never accepted by IndexNow, grouped by host
+    # (a host without a key file, or a page not yet checked, simply stays queued)
+    pending = sorted(u for u, p in pages.items()
+                     if p.get("indexable") is True and not p.get("indexnow_ms"))
     by_host = {}
     for u in pending:
         by_host.setdefault(urlsplit(u).netloc, []).append(u)
@@ -405,9 +499,11 @@ def cmd_build():
     hosts = {}
     for u in found:
         hosts[urlsplit(u).netloc] = hosts.get(urlsplit(u).netloc, 0) + 1
-    log(f"mako-all: found={len(found)} (homepage={n_home}, ff_rss={len(found) - n_home}) "
-        f"per_host={hosts} feed={n_items} new={len(new_urls)} submitted={submitted} "
-        f"queued={len(pending) - submitted} known={len(pages)} changed={changed} "
+    noindex = sum(1 for p in pages.values() if p.get("indexable") is False)
+    unchecked = sum(1 for p in pages.values() if p.get("indexable") is None)
+    log(f"mako-all: kept={len(found)} per_host={hosts} feed={n_items} new={len(new_urls)} "
+        f"submitted={submitted} queued={len(pending) - submitted} unchecked={unchecked} "
+        f"noindex_or_canonical={noindex} known={len(pages)} changed={changed} "
         f"skipped(ad={skipped['ad']}, other_host={skipped['other_host']}, robots={skipped['robots']})")
     for u in new_urls[:25]:
         log(f"  mako-all NEW {u}  {pages[u]['title'][:60]}")

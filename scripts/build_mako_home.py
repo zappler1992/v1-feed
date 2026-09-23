@@ -59,11 +59,24 @@ def is_sponsored(it):
             or urlsplit(url).netloc.lower() != SITE_HOST)
 
 
+def not_indexable():
+    """URLs that build_mako_all.py already judged noindex / canonical-elsewhere."""
+    f = ROOT / "state" / "mako_seen.json"
+    if not f.exists():
+        return set()
+    try:
+        pages = json.loads(f.read_text(encoding="utf-8")).get("pages", {})
+    except json.JSONDecodeError:
+        return set()
+    return {u for u, p in pages.items() if p.get("indexable") is False}
+
+
 def extract(data):
-    """Items of the mainComponent, in on-page order, minus sponsored/ads."""
+    """Items of the mainComponent, in on-page order, minus sponsored/ads and noindex pages."""
     comps = [c for c in data.get("components", []) if c.get("componentType") == "mainComponent"]
     if not comps:
         raise ValueError("mainComponent not found in source")
+    blocked = not_indexable()
     items, skipped = [], []
     for it in comps[0].get("items", []):
         title = text_of(it.get("title"))
@@ -71,6 +84,9 @@ def extract(data):
             skipped.append(f"{it.get('itemType')}: {title[:50]}")
             continue
         url = normalize_url(it["itemUrl"]["url"])
+        if url in blocked:
+            skipped.append(f"noindex: {title[:50]}")
+            continue
         pics = it.get("pics") or []
         items.append({
             "url": url,
