@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790137650236,
+ "last_run_ms": 1790137951117,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -226,6 +226,18 @@
    "published_ms": 1790133600000,
    "section": "ספורט",
    "title": "בחיפה נרגעו: העדכון על המצב של עלי מוחמד"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-fde3a31417cc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790137951117,
+   "content_type": "article",
+   "first_seen_ms": 1790137951117,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790137680000,
+   "section": "ספורט",
+   "title": "מחפשת מחליף לארד? התוכנית של סטיאווה"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-a03f8d15309c0a1026.htm": {
    "check_attempts": 0,
