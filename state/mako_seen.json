@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790157987190,
+ "last_run_ms": 1790158349183,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -69,7 +69,7 @@
    "first_seen_ms": 1790153066822,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1790152749000,
    "section": "אופנה",
    "title": "בשמלה שקופה כמו שעוד לא ראינו: שחר צ'רנס כלה יפהפייה"
   },
@@ -177,9 +177,9 @@
    "first_seen_ms": 1790157987190,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1790157381000,
    "section": "אופנה",
-   "title": "מה לבשה קים אור אזולאי לחתונה של אחותה?"
+   "title": "פחות מחודש אחרי הלידה: מה לבשה קים אור אזולאי לחתונה של אחותה?"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -216,6 +216,18 @@
    "published_ms": 1790015181000,
    "section": "אופנה",
    "title": "זו החולצה המושלמת לעכשיו, והטוויסט המתוחכם הזה הוא בול מה שהיא צריכה"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-56f9f6a47bdc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790158107261,
+   "content_type": "article",
+   "first_seen_ms": 1790158107261,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790157840000,
+   "section": "ספורט",
+   "title": "מדר חוצה את הכביש: העקיצה של מכבי להפועל"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-572f3654e1dc0a1027.htm": {
    "check_attempts": 1,
