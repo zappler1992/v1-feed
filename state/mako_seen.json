@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790148160966,
+ "last_run_ms": 1790148448839,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -181,6 +181,18 @@
    "section": "אופנה",
    "title": "זו החולצה המושלמת לעכשיו, והטוויסט המתוחכם הזה הוא בול מה שהיא צריכה"
   },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-572f3654e1dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790148387686,
+   "content_type": "article",
+   "first_seen_ms": 1790148387686,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790148000000,
+   "section": "ספורט",
+   "title": "אשתו של בראון אישרה: יחתום בהפועל י-ם"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-2690d4f301dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -228,6 +240,18 @@
    "published_ms": 1790138880000,
    "section": "ספורט",
    "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-08643654e1dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790148387686,
+   "content_type": "article",
+   "first_seen_ms": 1790148387686,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790148300000,
+   "section": "ספורט",
+   "title": "מעלים קצב: מצבם של ונטורה ורוטמן"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-15e7cb683dcc0a1026.htm": {
    "check_attempts": 1,
@@ -883,7 +907,7 @@
    "indexnow_ms": 1790144187259,
    "published_ms": 1790143620000,
    "section": "בריאות",
-   "title": "בת ה-16 סידרה את כיסוי הראש - וסיימה בבית חולים"
+   "title": "החפץ המסוכן שבלעה בת ה-16 הוביל להליך דחוף"
   },
   "https://www.mako.co.il/health-news/Article-6631022e848c0a1027.htm": {
    "check_attempts": 1,
@@ -1327,7 +1351,7 @@
    "indexnow_ms": 1790145267312,
    "published_ms": 1790144880000,
    "section": "",
-   "title": "כוכבת הרשת משתפת בדמעות"
+   "title": "\"לא הייתי במצב כזה בחיים\": כוכבת הרשת נשברת"
   },
   "https://www.mako.co.il/makoz-viral/Article-22b0972fb08c0a1026.htm": {
    "check_attempts": 1,
@@ -1832,6 +1856,18 @@
    "published_ms": 1790058540000,
    "section": "צבא וביטחון",
    "title": "למשך 90 יום: המיליציות קיבלו התחייבות חריגה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-2fbc3654e1dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790148387686,
+   "content_type": "article",
+   "first_seen_ms": 1790148387686,
+   "indexable": true,
+   "indexnow_ms": 1790148387686,
+   "published_ms": 1790147880000,
+   "section": "צבא וביטחון",
+   "title": "המידע המודיעיני שנחשף על רוסיה - והתרחיש לאירופה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
