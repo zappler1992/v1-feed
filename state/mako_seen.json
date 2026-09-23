@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790143048147,
+ "last_run_ms": 1790143348502,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -238,6 +238,18 @@
    "published_ms": 1790105100000,
    "section": "ספורט",
    "title": "מכה לבית\"ר: מצבו העדכני של ירדן כהן"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-7fd3cb683dcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790143348502,
+   "content_type": "article",
+   "first_seen_ms": 1790143348502,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790143140000,
+   "section": "ספורט",
+   "title": "נחשף: השכר הממוצע לשחקן בליגת העל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-9688402644cc0a1026.htm": {
    "check_attempts": 1,
@@ -705,6 +717,18 @@
    "section": "",
    "title": "המרק הזה קל בצורה מביכה והוא מושלם לכל שעה"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-6760972fb08c0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790143227272,
+   "content_type": "recipe",
+   "first_seen_ms": 1790143227272,
+   "indexable": true,
+   "indexnow_ms": 1790143227272,
+   "published_ms": 1790135280000,
+   "section": "",
+   "title": "שעה ומוכן: לחם בירה של קרין גורן"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-b3d3181958aa0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -919,7 +943,7 @@
    "indexnow_ms": 1790134440196,
    "published_ms": 1790133120000,
    "section": "",
-   "title": "בת ה-9 אמרה להורים: \"כל עוד המורה שם, אני מפחדת\""
+   "title": "בת ה-9 לא חוזרת לכיתה: \"אני מפחדת מהמורה\""
   },
   "https://www.mako.co.il/home-family-kids/Article-26934fc503690a1026.htm": {
    "check_attempts": 1,
@@ -1027,7 +1051,7 @@
    "indexnow_ms": 1790140227955,
    "published_ms": 1790140020000,
    "section": "",
-   "title": "גן ההנצחה הקסום לזכרה של הלוחמת שנפלה ב-7 באוקטובר"
+   "title": "גן ההנצחה המצמרר לזכרה של הלוחמת עדי גרומן"
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-ede4e646ea3c0a1026.htm": {
    "check_attempts": 1,
