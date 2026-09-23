@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790161048894,
+ "last_run_ms": 1790161349025,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -265,6 +265,18 @@
    "section": "ספורט",
    "title": "\"מכבי ת\"א תהיה הסוס השחור של היורוליג\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-88b51a29cddc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790161227329,
+   "content_type": "article",
+   "first_seen_ms": 1790161227329,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790160720000,
+   "section": "ספורט",
+   "title": "יום לפני שמתחילים: יחסי הזכייה ביורוליג"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-7082402644cc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -417,7 +429,7 @@
    "indexnow_ms": null,
    "published_ms": 1790156340000,
    "section": "ספורט",
-   "title": "חרף נגיעת יד: ההסבר לאישור השער מול חיפה"
+   "title": "באיגוד גיבו: האזינו לקלטת ה-VAR מחיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-ce3d25b107dc0a1026.htm": {
    "check_attempts": 1,
@@ -835,7 +847,19 @@
    "indexnow_ms": 1790158467218,
    "published_ms": 1790154600000,
    "section": "",
-   "title": "הצעד הדרמטי שסוגר את השמיים של טהרן"
+   "title": "בדרך לקריסה? הדרמה שסגרה את השמיים באיראן"
+  },
+  "https://www.mako.co.il/finances-news/Article-fb01c0192edc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790161227329,
+   "content_type": "article",
+   "first_seen_ms": 1790161227329,
+   "indexable": true,
+   "indexnow_ms": 1790161227329,
+   "published_ms": 1790160660000,
+   "section": "כסף",
+   "title": "הישראלי שמקיף עם טראמפ מגדל בטביליסי"
   },
   "https://www.mako.co.il/finances-real-estate/Article-1e80deaf47ba0a1027.htm": {
    "check_attempts": 1,
@@ -1988,6 +2012,18 @@
    "published_ms": 1790140080000,
    "section": "ספורט",
    "title": "ריינדרס הודה: \"הלכתי לסעודיה בשביל הכסף\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-05651a29cddc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790161349025,
+   "content_type": "article",
+   "first_seen_ms": 1790161349025,
+   "indexable": true,
+   "indexnow_ms": 1790161349025,
+   "published_ms": 1790160720000,
+   "section": "דיגיטל",
+   "title": "שברה את השוק: המחיר של אייפון 18 פרו באושר עד"
   },
   "https://www.mako.co.il/nexter-news/Article-065aab83efcc0a1027.htm": {
    "check_attempts": 1,
