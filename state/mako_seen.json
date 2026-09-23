@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790143348502,
+ "last_run_ms": 1790143648099,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -216,6 +216,18 @@
    "published_ms": 1790138880000,
    "section": "ספורט",
    "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-15e7cb683dcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790143648099,
+   "content_type": "article",
+   "first_seen_ms": 1790143648099,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790143260000,
+   "section": "ספורט",
+   "title": "מחירון הקנסות המלא של ליגת העל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-5a2014a114ac0a1026.htm": {
    "check_attempts": 0,
@@ -1412,6 +1424,18 @@
    "published_ms": 1790094840000,
    "section": "ספורט",
    "title": "שווה 18 מיליארד יורו וטרם מצא קבוצה חדשה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-7fd3cb683dcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790143648099,
+   "content_type": "article",
+   "first_seen_ms": 1790143648099,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790143440000,
+   "section": "ספורט",
+   "title": "נחשף: השכר הממוצע לשחקן בליגת העל"
   },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
    "check_attempts": 1,
