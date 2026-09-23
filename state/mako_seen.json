@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790153848393,
+ "last_run_ms": 1790154148736,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1183,7 +1183,7 @@
    "indexnow_ms": 1790148988381,
    "published_ms": 1790148780000,
    "section": "HIX",
-   "title": "אסון באוקטוברפסט: המאבטח נמחץ למוות במתקן השעשועים"
+   "title": "אסון בפסטיבל הענק: המאבטח נמחץ למוות במתקן השעשועים"
   },
   "https://www.mako.co.il/hix-special/Article-415716d1fe9c0a1027.htm": {
    "check_attempts": 1,
@@ -1616,6 +1616,18 @@
    "published_ms": 1789649040000,
    "section": "",
    "title": "שנתיים של אימה: לא היה בישראל עוד עבריין מין כזה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-69fd611b37dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "http 404",
+   "checked_ms": 1790154026778,
+   "content_type": "article",
+   "first_seen_ms": 1790154026778,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790153460000,
+   "section": "פלילים",
+   "title": "ישראלי שלח מזוודה עם גת לקפריסין - ולא חשב שכך יסתבך"
   },
   "https://www.mako.co.il/men-men_news/Article-80a708c864dc0a1027.htm": {
    "check_attempts": 1,
