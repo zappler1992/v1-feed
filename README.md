@@ -33,11 +33,20 @@
 
 ## איך זה רץ בפועל
 
-הריצה כל 5 דקות מתבצעת **מהמחשב המקומי** דרך Windows Task Scheduler (משימה בשם `v1-feed poll`):
-`pythonw.exe run_local.py` (בלי חלון) → `build` (V1 + mako) → commit+push → `ping` לכל פיד שהשתנה. הלוג ב‑`logs/run.log`.
+שתי משימות ב‑Windows Task Scheduler, שתיהן `pythonw.exe` בלי חלון:
+
+| משימה | תדירות | מה היא עושה | לוג |
+|---|---|---|---|
+| `v1-feed poll` | 5 דקות | `run_local.py`: בונה את כל הפידים והמפות (V1 + mako), commit+push, ו‑`ping` ל‑Hub לכל פיד שהשתנה | `logs/run.log` |
+| `v1-feed indexnow` | 2 דקות | `run_indexnow.py`: מריץ `build_mako_all.py submit` — רק גילוי כתובות חדשות, בדיקת הדף והגשה ל‑IndexNow. בלי קבצי פיד ובלי גיט | `logs/indexnow.log` |
+
+הגשה ל‑IndexNow לא תלויה ב‑GitHub Pages, ולכן היא לא צריכה לחכות למחזור המלא. שתי המשימות לוקחות את אותו
+מנעול (`scripts/runlock.py`, קובץ `logs/.run.lock`), כך שהן לא נוגעות ב‑`state/` בו‑זמנית; מי שלא קיבל את המנעול
+מדלג על אותו טיק. מנעול ישן מ‑15 דקות נחשב שארית של ריצה שקרסה ונלקח.
+
 ה‑workflow בגיטהאב נשאר להרצה ידנית בלבד (Actions → poll-v1 → Run workflow); ה‑cron שלו בוטל.
 
-ניהול המשימה: `schtasks /Query /TN "v1-feed poll" /V /FO LIST`, השבתה: `schtasks /Change /TN "v1-feed poll" /DISABLE`.
+ניהול: `schtasks /Query /TN "v1-feed poll" /V /FO LIST`, השבתה: `schtasks /Change /TN "v1-feed indexnow" /DISABLE`.
 
 ## הקמה (גיטהאב)
 

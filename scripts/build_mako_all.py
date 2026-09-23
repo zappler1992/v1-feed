@@ -28,8 +28,9 @@ Excluded: sponsored/advertising teasers, hosts not listed below, anything the ho
 own robots.txt disallows, and anything the page-level check rejects.
 
 Usage:
-  python scripts/build_mako_all.py build   # fetch + diff + write feed + submit to IndexNow
-  python scripts/build_mako_all.py ping    # wait for Pages, then ping the WebSub hub
+  python scripts/build_mako_all.py build    # fetch + diff + write feed + submit to IndexNow
+  python scripts/build_mako_all.py submit   # same, but state + IndexNow only (no feed files)
+  python scripts/build_mako_all.py ping     # wait for Pages, then ping the WebSub hub
 """
 import json
 import os
@@ -452,7 +453,7 @@ def fetch_ff_feed():
     return None
 
 
-def cmd_build():
+def cmd_build(write_feed=True):
     now_ms = int(time.time() * 1000)
     robots_by_host = {h: load_robots(h) for h in ALLOWED_HOSTS}
     found = {}
@@ -518,17 +519,20 @@ def cmd_build():
     state["last_run_ms"] = now_ms
     save_state(state)
 
-    rss, n_items = build_rss(list(found.values()))
-    changed = write_if_changed(OUT_DIR / "all.xml", rss)
-    if changed:
-        (OUT_DIR / "all-build.txt").write_text(str(now_ms), encoding="utf-8")
+    n_items, changed = 0, False
+    if write_feed:
+        rss, n_items = build_rss(list(found.values()))
+        changed = write_if_changed(OUT_DIR / "all.xml", rss)
+        if changed:
+            (OUT_DIR / "all-build.txt").write_text(str(now_ms), encoding="utf-8")
 
     hosts = {}
     for u in found:
         hosts[urlsplit(u).netloc] = hosts.get(urlsplit(u).netloc, 0) + 1
     noindex = sum(1 for p in pages.values() if p.get("indexable") is False)
     unchecked = sum(1 for p in pages.values() if p.get("indexable") is None)
-    log(f"mako-all: kept={len(found)} per_host={hosts} feed={n_items} new={len(new_urls)} "
+    log(f"mako-all{'' if write_feed else ' (submit-only)'}: kept={len(found)} per_host={hosts} "
+        f"feed={n_items} new={len(new_urls)} "
         f"submitted={submitted} queued={len(pending) - submitted} unchecked={unchecked} "
         f"noindex_or_canonical={noindex} known={len(pages)} changed={changed} "
         f"skipped(ad={skipped['ad']}, other_host={skipped['other_host']}, robots={skipped['robots']})")
@@ -584,4 +588,6 @@ def cmd_ping():
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "build"
-    sys.exit({"build": cmd_build, "ping": cmd_ping}[cmd]())
+    sys.exit({"build": cmd_build,
+              "submit": lambda: cmd_build(write_feed=False),
+              "ping": cmd_ping}[cmd]())

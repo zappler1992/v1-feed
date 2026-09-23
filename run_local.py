@@ -15,6 +15,9 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent / "scripts"))
+from runlock import Busy, lock  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent
 LOG_DIR = ROOT / "logs"
 LOG = LOG_DIR / "run.log"
@@ -43,6 +46,15 @@ def run(cmd, env=None, timeout=600):
 
 def main():
     LOG_DIR.mkdir(exist_ok=True)
+    try:
+        with lock("run_local"):
+            return run_all()
+    except Busy as e:
+        log(f"skipped: {e}")
+        return 0
+
+
+def run_all():
     if LOG.exists() and LOG.stat().st_size > 5_000_000:
         LOG.replace(LOG_DIR / "run.old.log")
     log("=== run start")
