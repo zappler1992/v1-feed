@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790149349368,
+ "last_run_ms": 1790149648948,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -310,6 +310,18 @@
    "published_ms": 1790133600000,
    "section": "ספורט",
    "title": "בחיפה נרגעו: העדכון על המצב של עלי מוחמד"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-d70a3654e1dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790149587757,
+   "content_type": "article",
+   "first_seen_ms": 1790149587757,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790149260000,
+   "section": "ספורט",
+   "title": "רשמי: התפקיד החדש של לירן ליאני"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-f573906a9ecc0a1027.htm": {
    "check_attempts": 1,
@@ -1051,7 +1063,7 @@
    "indexnow_ms": 1790148988381,
    "published_ms": 1790148780000,
    "section": "HIX",
-   "title": "מוות באוקטוברפסט: המאבטח נמחץ למוות מול כולם"
+   "title": "מוות באוקטוברפסט: מאבטח נמחץ למוות במתקן השעשועים"
   },
   "https://www.mako.co.il/hix-special/Article-415716d1fe9c0a1027.htm": {
    "check_attempts": 1,
@@ -1700,6 +1712,18 @@
    "published_ms": 1790079720000,
    "section": "דיגיטל",
    "title": "מיליארד דולר ב-3 חודשים: זאת וויז הבאה?"
+  },
+  "https://www.mako.co.il/nexter-reviews/Article-7fc3e926f5ab0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790149467734,
+   "content_type": "article",
+   "first_seen_ms": 1790149467734,
+   "indexable": true,
+   "indexnow_ms": 1790149467734,
+   "published_ms": 1790149380000,
+   "section": "",
+   "title": "מצאנו את הסיבות שכדאי לכם לשדרג את האייפון"
   },
   "https://www.mako.co.il/ninemonth-birth/Article-21b02bdfe04a0a1027.htm": {
    "check_attempts": 1,
