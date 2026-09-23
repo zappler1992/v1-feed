@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c15e5a806bcc0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-23T05:29:42+00:00</news:publication_date>
+<news:title>נשיא ארצות הברית דונלד טראמפ ונשיאת ונצואלה רודריגז נפגשו בעצרת הכללית של האו&quot;ם</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/23/V1_karind_trump_6345_23092026052809_1400_1790141375612_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d76d455029cc0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1241,14 +1250,5 @@
 <news:title>מה שקרה בעולם בזמן יום כיפור</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/21/alice_210926_world_1400_1789992193881_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-215f668ce42c0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-21T05:28:34+00:00</news:publication_date>
-<news:title>ירי ליד בית כנסת באונטריו שבקנדה בזמן תפילות יום כיפור, 2 נפצעו - ביניהם שוטר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/21/V1_Canada_6300_21092026052649_1400_1789968501903_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
