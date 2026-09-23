@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790160450348,
+ "last_run_ms": 1790160751036,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -799,7 +799,7 @@
    "indexnow_ms": 1790157627311,
    "published_ms": 1790157060000,
    "section": "כסף",
-   "title": "מגיע גם לכם כסף? משמעות הפסיקה ההיסטורית נגד הבנקים"
+   "title": "הפסיקה ההיסטורית נגד הבנקים - והמשמעות לכיס שלכם"
   },
   "https://www.mako.co.il/finances-news/Article-6bd0a70fb08c0a1027.htm": {
    "check_attempts": 1,
@@ -2672,6 +2672,18 @@
    "published_ms": 1790148900000,
    "section": "חופש",
    "title": "לראשונה: טיסה ישראלית נחתה בגן העדן של אירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-e8dc26a7f8dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790160627821,
+   "content_type": "article",
+   "first_seen_ms": 1790160627821,
+   "indexable": true,
+   "indexnow_ms": 1790160627821,
+   "published_ms": 1790155320000,
+   "section": "חופש",
+   "title": "בניגוד לכל העולם - המדינה שמצביעה תמיד בעד ישראל"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0b41ab4ad68c0a1027.htm": {
    "check_attempts": 1,
