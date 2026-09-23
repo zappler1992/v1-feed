@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-030bf2a4d8cc0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d76d455029cc0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-335d455029cc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25356,6 +25357,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d5f89202ec9c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16010_22092026034800/M_NEWS_16010_22092026034800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d76d455029cc0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כביש 60 נחסם בשני הכיוונים בין צומת תפוח לרחלים בגלל אוטובוס שעולה באש",
+   "duration_s": 4,
+   "first_seen_ms": 1790139446815,
+   "image": "https://img.mako.co.il/2026/09/23/V1_KARIND_BUS_6344_23092026045216_1400_1790139200630_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790139207000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כביש 60 נחסם בשני הכיוונים בין צומת תפוח לרחלים בגלל אוטובוס שעולה באש",
+   "type": "mivzakim",
+   "updated_ms": 1790139207000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d76d455029cc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KARIND_BUS_6344_23092026045216/V1_KARIND_BUS_6344_23092026045216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-d82b1afeac4c0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -42349,6 +42368,24 @@
    "updated_ms": 1790022210000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-153cb7e4a95c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/V1_lior_mivzak_car_6306_21092026082206/V1_lior_mivzak_car_6306_21092026082206_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-335d455029cc0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רגע מפחיד: דוב שחור הגיח בחצר - ורדף אחרי גבר באשוויל",
+   "duration_s": 19,
+   "first_seen_ms": 1790139446815,
+   "image": "https://img.mako.co.il/2026/09/23/V1_KARIND_BEAR_6343_23092026045153_1400_1790139181941_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790139188000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "רגע מפחיד: דוב שחור הגיח בחצר - ורדף אחרי גבר באשוויל",
+   "type": "mivzakim",
+   "updated_ms": 1790139188000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-335d455029cc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KARIND_BEAR_6343_23092026045153/V1_KARIND_BEAR_6343_23092026045153_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-3d9be6e648db0a1026.htm": {
    "author": "מבזקים מהעולם",
