@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790176949252,
+ "last_run_ms": 1790177248994,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -324,6 +324,18 @@
    "published_ms": 1790172120000,
    "section": "ספורט",
    "title": "פארקר בפאניקה: \"אנחנו לא מוכנים למכבי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-1c8ec0d43dec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790177187169,
+   "content_type": "article",
+   "first_seen_ms": 1790177187169,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790176740000,
+   "section": "ספורט",
+   "title": "\"זה כבוד ענק עבור סבע לא להיות בנבחרת\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-7082402644cc0a1026.htm": {
    "check_attempts": 1,
