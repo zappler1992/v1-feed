@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f3b7936b9dc0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bea47936b9dc0a1026.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-3d053a8019dc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25631,6 +25632,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be5938d36d8c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15997_22092026111717/M_NEWS_15997_22092026111717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bea47936b9dc0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פרסם תמונה של חיילת עם קליע ליד ראשה: תושב השומרון נעצר בחשד להסתה לטרור",
+   "duration_s": 9,
+   "first_seen_ms": 1790156846276,
+   "image": "https://img.mako.co.il/2026/09/23/M_NEWS_16057_23092026094016_1400_1790156504484_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790156511000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פרסם תמונה של חיילת עם קליע ליד ראשה: תושב השומרון נעצר בחשד להסתה לטרור",
+   "type": "mivzakim",
+   "updated_ms": 1790156511000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bea47936b9dc0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16057_23092026094016/M_NEWS_16057_23092026094016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c15e5a806bcc0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -25822,7 +25841,8 @@
    "importance": 0,
    "published_ms": 1790145739000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "עימות מכוער על האוטובוס: פקחית צועקת על נוסעת ומבצעת מולה תנועה מגונה בנסיעה בחיפה",
    "type": "mivzakim",
@@ -36414,6 +36434,24 @@
    "updated_ms": 1790149320000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-30cd7f3a965c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/lior_majik_DANAZ/MASTER/lior_majik_DANAZ/lior_majik_DANAZ_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-3d053a8019dc0a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "גיל זגורי ומיה מינץ חשפו שדווקא מאחורי הסצנה הכי דרמטית ב\"כשהגלים מתחזקים 2\" - מסתתר הסיפור הכי מצחיק",
+   "duration_s": 36,
+   "first_seen_ms": 1790156846276,
+   "image": "https://img.mako.co.il/2026/09/23/NOAB_MAYA_GIL_230926_FIX_1400_1790156313077_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790155641000,
+   "sections": [
+    "מאחורי הגלים"
+   ],
+   "title": "סיפור התנוך של גיל זגורי ותומר הכהן",
+   "type": "general",
+   "updated_ms": 1790155641000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-3d053a8019dc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/NOAB_MAYA_GIL_230926_FIX/NOAB_MAYA_GIL_230926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-b6f948a0569c0a1026.htm": {
    "author": "מיוחד",

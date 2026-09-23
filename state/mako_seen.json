@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790156549316,
+ "last_run_ms": 1790156848973,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -489,6 +489,18 @@
    "section": "תרבות tvbee",
    "title": "הכוכב מדבר על סצנת השלישייה עם האחיות והסערה"
   },
+  "https://www.mako.co.il/culture-articles/Article-363da4c4048c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790156787414,
+   "content_type": "article",
+   "first_seen_ms": 1790156787414,
+   "indexable": true,
+   "indexnow_ms": 1790156787414,
+   "published_ms": 1790156520000,
+   "section": "תרבות tvbee",
+   "title": "אית'ן הוק נכנס לכלא - ומשם הכל מסתבך"
+  },
   "https://www.mako.co.il/culture-articles/Article-e37136b104dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -499,7 +511,7 @@
    "indexnow_ms": 1790151751364,
    "published_ms": 1790151000000,
    "section": "",
-   "title": "התגובה של עומר שם טוב לסרט נז\"א בעיתון האמריקאי הענק"
+   "title": "עומר שם טוב נגד \"נז\"א\": \"גם אני הייתי נזק אגבי\""
   },
   "https://www.mako.co.il/culture-movies/reviews/Article-975c0bfd7e7c0a1027.htm": {
    "check_attempts": 1,
@@ -584,6 +596,18 @@
    "published_ms": 1790103000000,
    "section": "הכי חם",
    "title": "סוף-סוף: יוצאי הריאליטי מיסדו את היחסים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-f1403780b7dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790156669526,
+   "content_type": "article",
+   "first_seen_ms": 1790156669526,
+   "indexable": true,
+   "indexnow_ms": 1790156669526,
+   "published_ms": 1790156400000,
+   "section": "סלבס",
+   "title": "אחרי שנים סוערות: הצעד הבא של המשפיענית"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-09b3d3fe5ccc0a1026.htm": {
    "check_attempts": 1,
@@ -1928,6 +1952,18 @@
    "published_ms": 1790079720000,
    "section": "דיגיטל",
    "title": "מיליארד דולר ב-3 חודשים: זאת וויז הבאה?"
+  },
+  "https://www.mako.co.il/nexter-news/Article-b6b43a8019dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790156669526,
+   "content_type": "article",
+   "first_seen_ms": 1790156669526,
+   "indexable": true,
+   "indexnow_ms": 1790156669526,
+   "published_ms": 1790155620000,
+   "section": "דיגיטל",
+   "title": "טראמפ החליט לשנות את המונח החשוב בעולם"
   },
   "https://www.mako.co.il/nexter-news/Article-d99d549085dc0a1027.htm": {
    "check_attempts": 1,

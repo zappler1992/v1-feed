@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bea47936b9dc0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/23/M_NEWS_16057_23092026094016_1400_1790156504484_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>פרסם תמונה של חיילת עם קליע ליד ראשה: תושב השומרון נעצר בחשד להסתה לטרור</video:title>
+<video:description>פרסם תמונה של חיילת עם קליע ליד ראשה: תושב השומרון נעצר בחשד להסתה לטרור</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16057_23092026094016/M_NEWS_16057_23092026094016_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-09-23T09:41:51+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f3b7936b9dc0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/23/V1_KARIND_POLICE_6356_23092026093210_1400_1790156013104_FirstFrame.jpg</video:thumbnail_loc>
@@ -30,6 +46,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-3d053a8019dc0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/23/NOAB_MAYA_GIL_230926_FIX_1400_1790156313077_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>סיפור התנוך של גיל זגורי ותומר הכהן</video:title>
+<video:description>גיל זגורי ומיה מינץ חשפו שדווקא מאחורי הסצנה הכי דרמטית ב&quot;כשהגלים מתחזקים 2&quot; - מסתתר הסיפור הכי מצחיק</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/NOAB_MAYA_GIL_230926_FIX/NOAB_MAYA_GIL_230926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>36</video:duration>
+<video:publication_date>2026-09-23T09:27:21+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מיוחד</video:uploader>
+<video:tag>מאחורי הגלים</video:tag>
+<video:tag>מיוחד</video:tag>
 </video:video>
 </url>
 <url>
@@ -385,6 +418,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
