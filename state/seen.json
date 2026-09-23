@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e0bbf4e8b4fc0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ff61af0055fc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2227,7 +2227,7 @@
    ],
    "title": "הסערה החדשה ברשת: השמלה המוזרה של פמלה אנדרסון - \"היא לבשה וילון?\"",
    "type": "general",
-   "updated_ms": 1790176347000,
+   "updated_ms": 1790185680000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-49f7331b3cec0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/NOAY_PAMELA_230926/MASTER/NOAY_PAMELA_230926/NOAY_PAMELA_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -25123,7 +25123,8 @@
    "importance": 2,
    "published_ms": 1790183337000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "\"זקוק לנס\": נריה לייטר, בנו של שגריר ישראל בארה\"ב נפצע קשה בפיגוע הדריסה במחסום מכבים",
    "type": "mivzakim",
@@ -27316,6 +27317,24 @@
    "updated_ms": 1789876708000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fec4146ddccb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/M_NEWS_15887_20092026035706/M_NEWS_15887_20092026035706_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ff61af0055fc0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"זכות להגן על הבית\": הפוסט המרגש שכתב נריה לייטר שנפצע קשה בפיגוע הדריסה במחסום מכבים",
+   "duration_s": 5,
+   "first_seen_ms": 1790185946467,
+   "image": "https://img.mako.co.il/2026/09/23/V1_NOAY_LETTER_230926_1_6390_23092026054514_1400_1790185583318_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790185592000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"זכות להגן על הבית\": הפוסט המרגש שכתב נריה לייטר שנפצע קשה בפיגוע הדריסה במחסום מכבים",
+   "type": "mivzakim",
+   "updated_ms": 1790185592000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ff61af0055fc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NOAY_LETTER_230926_1_6390_23092026054514/V1_NOAY_LETTER_230926_1_6390_23092026054514_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
