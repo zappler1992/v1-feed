@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790151148966,
+ "last_run_ms": 1790151448741,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -370,6 +370,18 @@
    "published_ms": 1790137680000,
    "section": "ספורט",
    "title": "מחפשת מחליף לארד? התוכנית של סטיאווה"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a65e8f7db4dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790151448741,
+   "content_type": "article",
+   "first_seen_ms": 1790151448741,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790150760000,
+   "section": "ספורט",
+   "title": "מאיפה זה בא? הבית החדש של דויד אלאבה"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-a03f8d15309c0a1026.htm": {
    "check_attempts": 0,
