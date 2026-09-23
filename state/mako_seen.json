@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790157448807,
+ "last_run_ms": 1790157765791,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -276,6 +276,18 @@
    "published_ms": 1790140740000,
    "section": "ספורט",
    "title": "\"לא מתקבל\": המתקפה של ראש ממשלת אירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d4db5a752bdc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790157765791,
+   "content_type": "article",
+   "first_seen_ms": 1790157765791,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790157540000,
+   "section": "ספורט",
+   "title": "גם בלי קבוצה, יש לו מקום: על זימון דסה"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d7cb455029cc0a1027.htm": {
    "check_attempts": 1,
@@ -752,6 +764,18 @@
    "published_ms": 1789629840000,
    "section": "משפט",
    "title": "המעסיקה לא רשמה נוכחות - ותשלם לנהג חלוקה 141 אלף שקל"
+  },
+  "https://www.mako.co.il/finances-news/Article-447eb78ccadc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790157627311,
+   "content_type": "article",
+   "first_seen_ms": 1790157627311,
+   "indexable": true,
+   "indexnow_ms": 1790157627311,
+   "published_ms": 1790157060000,
+   "section": "כסף",
+   "title": "יש מצב שמגיע לכם מיליארדי שקלים מהבנקים"
   },
   "https://www.mako.co.il/finances-news/Article-6bd0a70fb08c0a1027.htm": {
    "check_attempts": 1,
