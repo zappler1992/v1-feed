@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790156249233,
+ "last_run_ms": 1790156549316,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -371,6 +371,18 @@
    "section": "ספורט",
    "title": "בחיפה נרגעו: העדכון על המצב של עלי מוחמד"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-9ea27936b9dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790156549316,
+   "content_type": "article",
+   "first_seen_ms": 1790156549316,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790156340000,
+   "section": "ספורט",
+   "title": "איגוד השופטים: הפנדל לטבריה היה מוצדק"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-ce3d25b107dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -596,6 +608,18 @@
    "published_ms": 1790146500000,
    "section": "סלבס",
    "title": "הרים אותה באוויר: כוכבת הפופ והארוס לוהטים בפורטופינו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-99a9a46665dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790156549316,
+   "content_type": "article",
+   "first_seen_ms": 1790156549316,
+   "indexable": true,
+   "indexnow_ms": 1790156549316,
+   "published_ms": 1790154300000,
+   "section": "סלבס",
+   "title": "אחרי עשור בנפרד: הכוכב ואשתו סוף-סוף מתגרשים"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-cd4674d8139c0a1026.htm": {
    "check_attempts": 1,
