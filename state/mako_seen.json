@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790142749647,
+ "last_run_ms": 1790143048147,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1676,6 +1676,18 @@
    "published_ms": 1790064660000,
    "section": "צבא וביטחון",
    "title": "יוזמה ותעוזה: המהלך החדש של חמאס והג'יהאד"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-c5ae8ea57ccc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790142867200,
+   "content_type": "article",
+   "first_seen_ms": 1790142867200,
+   "indexable": true,
+   "indexnow_ms": 1790142867200,
+   "published_ms": 1790142300000,
+   "section": "צבא וביטחון",
+   "title": "ארה\"ב תסכים? התנאי האיראני החדש לסיום המלחמה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-dab9e288978c0a1026.htm": {
    "check_attempts": 1,
