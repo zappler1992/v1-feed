@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-62b24c9b01ac0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-145a818f1aac0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16267,6 +16267,24 @@
    "updated_ms": 1790023560000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-11a60294885c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/SHIR_RASHIT_210926_FIX/SHIR_RASHIT_210926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-145a818f1aac0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לאן נעלם יעקב ברדוגו? דפנה ליאל עושה סדר ומסבירה למה אנחנו כבר לא רואים אותו על המסך. מתוך חדשות 12",
+   "duration_s": 92,
+   "first_seen_ms": 1790131047435,
+   "image": "https://img.mako.co.il/2026/09/22/yoav_bardugo_220926_1400_1790106175537_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790106240000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "אחרי ששוריין בליכוד: לאן נעלם יעקב ברדוגו?",
+   "type": "news",
+   "updated_ms": 1790106240000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-145a818f1aac0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/yoav_bardugo_220926/MASTER/yoav_bardugo_220926/yoav_bardugo_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1a22a918635c0a1027.htm": {
    "author": "חדשות",
@@ -42216,7 +42234,8 @@
    "importance": 0,
    "published_ms": 1790107311000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "האימה של כל נהג: נכנס לתוך מערבולת של אלפי יתושים בסיביר",
    "type": "mivzakim",
