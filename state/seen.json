@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-0bfe36b104dc0a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-099af124a3dc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2119,6 +2119,25 @@
    "updated_ms": 1789907335000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-08b653916aeb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/AVISHAI_ARI_2009/MASTER/AVISHAI_ARI_2009_M/AVISHAI_ARI_2009_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-099af124a3dc0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "השחקנית הילארי דאף העלתה שחזור מדויק של הסצנה האייקונית מהסרט \"ליזי מגווייר\" במזרקת טרווי שברומא והרעידה את המעריצים",
+   "duration_s": 22,
+   "first_seen_ms": 1790152046125,
+   "image": "https://img.mako.co.il/2026/09/23/RINAT_MOVIE_23092026_M_1400_1790149600213_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790149607000,
+   "sections": [
+    "הכי Vיראלים",
+    "סלבס"
+   ],
+   "title": "הכוכבת ההוליוודית משחזרת את הרגע האיקוני מהסרט האהוב",
+   "type": "general",
+   "updated_ms": 1790149607000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-099af124a3dc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/RINAT_MOVIE_23092026_M/MASTER/RINAT_MOVIE_23092026_M/RINAT_MOVIE_23092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-1912f756a94c0a1026.htm": {
    "author": "סלבס",
@@ -16756,7 +16775,8 @@
    "importance": 2,
    "published_ms": 1790139802000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "איפה עמי? מטפס ישראלי נעדר בהר האולימפוס ביוון",
    "type": "news",
