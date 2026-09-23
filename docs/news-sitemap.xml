@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-52e97b3ad3ec0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-23T12:29:36+00:00</news:publication_date>
+<news:title>אייפון 18 פרו נחת באושר עד: מה המחיר?</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/23/inbie_iphone_230926_1400_1790166569572_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3027d8f122ec0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1691,14 +1700,5 @@
 <news:title>בגיל 27 בלבד: בנה של סינדי קרופורד הלך לעולמו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/21/alice_210926_sindy_1400_1790005975305_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4bf552906d3c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-21T12:36:31+00:00</news:publication_date>
-<news:title>התרעות הופעלו במרחב מלכיה שבגליל, צה&quot;ל: &quot;מדובר בזיהוי שווא&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/21/V1_MALKIA_6301_21092026123453_1400_1789994181278_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
