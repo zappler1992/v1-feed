@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790179348930,
+ "last_run_ms": 1790179649868,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -408,6 +408,18 @@
    "published_ms": 1790138880000,
    "section": "ספורט",
    "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eb85b94c8fec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790179649868,
+   "content_type": "article",
+   "first_seen_ms": 1790179649868,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790179380000,
+   "section": "ספורט",
+   "title": "הצטרפו לשידור: בן שמעון וסולומון מדברים"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-fab024e342ec0a1027.htm": {
    "check_attempts": 1,
@@ -1639,7 +1651,7 @@
    "indexnow_ms": 1790165427799,
    "published_ms": 1790164680000,
    "section": "HIX",
-   "title": "\"אנחנו חושבים שמשהו לא היה בסדר כשזה קרה\""
+   "title": "יצא לקרוז עם אשתו וילדיו, נעלם - ואז התברר מה באמת קרה"
   },
   "https://www.mako.co.il/hix-special/Article-ec33cf13758c0a1027.htm": {
    "check_attempts": 1,
