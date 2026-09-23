@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790179049001,
+ "last_run_ms": 1790179348930,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -847,7 +847,7 @@
    "indexnow_ms": 1790163387519,
    "published_ms": 1790163060000,
    "section": "סלבס",
-   "title": "\"הוא שבור\": ההודעות ששלח הכוכב לפני הטרגדיה"
+   "title": "\"הוא שבור\": ההודעות ששלח השחקן לפני הטרגדיה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-99a9a46665dc0a1026.htm": {
    "check_attempts": 1,
@@ -3284,6 +3284,18 @@
    "published_ms": 1790142840000,
    "section": "קשת 12",
    "title": "\"חוויה מטלטלת. לא הצלחתי לא להתרגש ולבכות\""
+  },
+  "https://www.mako.co.il/tv-special/Article-c763549085dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790179107252,
+   "content_type": "article",
+   "first_seen_ms": 1790179107252,
+   "indexable": true,
+   "indexnow_ms": 1790179107252,
+   "published_ms": 1790179020000,
+   "section": "הכי חם",
+   "title": "יחידת העילית נחשפת: ההקרנה החגיגית בת\"א"
   },
   "https://www.mako.co.il/tv-special_interview/season1-articles/Article-4cb49baec2ea0a1026.htm": {
    "check_attempts": 1,
