@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790204548196,
+ "last_run_ms": 1790204848618,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -180,6 +180,18 @@
    "published_ms": 1790157381000,
    "section": "אופנה",
    "title": "פחות מחודש אחרי הלידה: מה לבשה קים אור אזולאי לחתונה של אחותה?"
+  },
+  "https://fashionforward.mako.co.il/news/320736/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790204667652,
+   "content_type": "article",
+   "first_seen_ms": 1790204667652,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790204040000,
+   "section": "Fashion Forward",
+   "title": "אחרי הסערה האופנתית: תרצה במראה חסוד במיוחד"
   },
   "https://fashionforward.mako.co.il/news/320755/": {
    "check_attempts": 1,
