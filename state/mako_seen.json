@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790181448889,
+ "last_run_ms": 1790181748715,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -408,6 +408,18 @@
    "published_ms": 1790138880000,
    "section": "ספורט",
    "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-e0319e6881fc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790181748715,
+   "content_type": "article",
+   "first_seen_ms": 1790181748715,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790181540000,
+   "section": "ספורט",
+   "title": "\"זו משימת חיינו. תעשו כל מה שאתם יכולים\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eb85b94c8fec0a1026.htm": {
    "check_attempts": 1,
