@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790145748363,
+ "last_run_ms": 1790146050450,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -859,7 +859,7 @@
    "indexnow_ms": 1790144187259,
    "published_ms": 1790143620000,
    "section": "בריאות",
-   "title": "החפץ המסוכן שבלעה בת ה-16 הוביל להליך דחוף"
+   "title": "בת ה-16 סידרה את כיסוי הראש - וסיימה בבית חולים"
   },
   "https://www.mako.co.il/health-news/Article-6631022e848c0a1027.htm": {
    "check_attempts": 1,
@@ -1340,6 +1340,18 @@
    "published_ms": 1790084580000,
    "section": "פלילים",
    "title": "\"צעיר מנתניה אנס ותקף מינית שתי צעירות\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-377631ef4fcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790145867413,
+   "content_type": "article",
+   "first_seen_ms": 1790145867413,
+   "indexable": true,
+   "indexnow_ms": 1790145867413,
+   "published_ms": 1790145540000,
+   "section": "פלילים",
+   "title": "\"מטילים אימה על אנשי עסקים ביישוב היוקרתי\""
   },
   "https://www.mako.co.il/men-men_news/Article-50d65b344c8c0a1026.htm": {
    "check_attempts": 1,
