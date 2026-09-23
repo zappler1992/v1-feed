@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790188948757,
+ "last_run_ms": 1790189249108,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -408,6 +408,18 @@
    "published_ms": 1790157540000,
    "section": "ספורט",
    "title": "גם בלי קבוצה, יש לו מקום: על זימון דסה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d4e005cd98fc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790189187521,
+   "content_type": "article",
+   "first_seen_ms": 1790189187521,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790189040000,
+   "section": "ספורט",
+   "title": "ההסבר: איך המיקום ישפיע על עלייה ליורו?"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d7cb455029cc0a1027.htm": {
    "check_attempts": 1,

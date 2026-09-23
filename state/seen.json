@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2e942b39d7fc0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-a39ef31bd7ec0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17026,6 +17026,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9eeb53916aeb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/Kim_Iran_20092026/MASTER/Kim_Iran_20092026/Kim_Iran_20092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-a39ef31bd7ec0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הונאת ענק בטורקיה, וישראלי אחד במרכז הפרשה: יגאל עמית נעצר בחשד למעורבות ברשת שהונתה קשישים ואלמנות באמצעות השקעות במטבעות זרים וקריפטו. כעת נחשפים פרטים מטרידים על השיטה שמאחורי ההונאה",
+   "duration_s": 54,
+   "first_seen_ms": 1790189246440,
+   "image": "https://img.mako.co.il/2026/09/23/yoav_turkey_230926_1400_1790170987524_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790188980000,
+   "sections": [],
+   "title": "ישראלי עומד במרכז פרשת הונאה בטורקיה",
+   "type": "news",
+   "updated_ms": 1790188980000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-a39ef31bd7ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/yoav_turkey_230926/MASTER/yoav_turkey_230926/yoav_turkey_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-b8cbcbb0148c0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24756,16 +24772,16 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2e942b39d7fc0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "נשיא ארגנטינה, חאבייר מיליי באו\"ם: ״מי שמתיימרים להיות מגיני זכויות אדם הצביעו נגד ישראל ובמקביל שמר",
+   "description": "נשיא ארגנטינה מתייצב לצד ישראל באו\"ם: מגיני זכויות האדם צבועים",
    "duration_s": 16,
    "first_seen_ms": 1790188646438,
    "image": "https://img.mako.co.il/2026/09/23/M_NEWS_16082_23092026063024_1400_1790188299272_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790188312000,
    "sections": [
     "מבזקים"
    ],
-   "title": "נשיא ארגנטינה, חאבייר מיליי באו\"ם: ״מי שמתיימרים להיות מגיני זכויות אדם הצביעו נגד ישראל ובמקביל שמר",
+   "title": "נשיא ארגנטינה מתייצב לצד ישראל באו\"ם: מגיני זכויות האדם צבועים",
    "type": "mivzakim",
    "updated_ms": 1790188312000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2e942b39d7fc0a1026.htm",
