@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790161649584,
+ "last_run_ms": 1790161949112,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1280,6 +1280,18 @@
    "published_ms": 1790059680000,
    "section": "בריאות",
    "title": "חריג: חטף התקף לב בגיל 100 - וניצל"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-06074ddddedc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790161827340,
+   "content_type": "article",
+   "first_seen_ms": 1790161827340,
+   "indexable": true,
+   "indexnow_ms": 1790161827340,
+   "published_ms": 1790161680000,
+   "section": "HIX",
+   "title": "נולדו כשהן מחוברות בראש, והופרדו אחרי שנתיים"
   },
   "https://www.mako.co.il/hix-bizarre/Article-610657abaecc0a1026.htm": {
    "check_attempts": 1,
