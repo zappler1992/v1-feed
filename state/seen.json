@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-0117ec5c6fdc0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e429f277c0ec0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f10b4853cddc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16929,6 +16930,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/SHIRA_DVORI_220926/MASTER/SHIRA_DVORI_220926_M/SHIRA_DVORI_220926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f10b4853cddc0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "עמית חייקין, יוצרת תוכן בטיקטוק בתחום האופנה, הזמינה תיק מאתר REVOLVE, וקיבלה מסר אנטישמי: \"פאק ישראל\". הפיצוי המביך שהאתר סיפק לעמית: התנצלות והחזר של 50 דולר (התיק עלה 300).",
+   "duration_s": 35,
+   "first_seen_ms": 1790163746516,
+   "image": "https://img.mako.co.il/2026/09/23/alice_230926_revolve_1400_1790160254935_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790160262000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "קנתה חבילה מרבולב - וקיבלה מסר אנטישמי",
+   "type": "news",
+   "updated_ms": 1790160262000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f10b4853cddc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/alice_230926_revolve/MASTER/alice_230926_revolve/alice_230926_revolve_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f18ac7f82acc0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26263,6 +26282,24 @@
    "updated_ms": 1790052917000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3f65431567c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_RAHAT_6309_22092026045359/V1_RAHAT_6309_22092026045359_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e429f277c0ec0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תאונת העבודה בקריית גת: צוות מד\"א קבע את מותו של גבר כבן 30",
+   "duration_s": 9,
+   "first_seen_ms": 1790163746516,
+   "image": "https://img.mako.co.il/2026/09/23/M_NEWS_16068_23092026113433_1400_1790163359950_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790163367000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תאונת העבודה בקריית גת: צוות מד\"א קבע את מותו של גבר כבן 30",
+   "type": "mivzakim",
+   "updated_ms": 1790163367000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e429f277c0ec0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16068_23092026113433/M_NEWS_16068_23092026113433_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e61f8ea57ccc0a1027.htm": {
    "author": "מבזקים",
