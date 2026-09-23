@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790178148895,
+ "last_run_ms": 1790178448606,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1039,7 +1039,7 @@
    "indexnow_ms": 1790170706784,
    "published_ms": 1790170320000,
    "section": "נדל\"ן",
-   "title": "לא תנחשו בחיים: העיר בישראל שהתושבים בה הכי מרוצים"
+   "title": "הדירוג החדש: איפה הכי מרוצים מהעירייה בישראל"
   },
   "https://www.mako.co.il/finances-real-estate/Article-1e80deaf47ba0a1027.htm": {
    "check_attempts": 1,
@@ -3020,6 +3020,18 @@
    "published_ms": 1790143740000,
    "section": "",
    "title": "\"סבל מהזיות וקדח מחום\": תיעוד מחופשת הבלהות"
+  },
+  "https://www.mako.co.il/travel-news/Article-df8b97156eec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790178387209,
+   "content_type": "article",
+   "first_seen_ms": 1790178387209,
+   "indexable": true,
+   "indexnow_ms": 1790178387209,
+   "published_ms": 1790178000000,
+   "section": "",
+   "title": "\"צעקו מרוב תסכול\": הסיוט שעברו נוסעי טיסת ארקיע"
   },
   "https://www.mako.co.il/travel-news/international/Article-00073654e1dc0a1027.htm": {
    "check_attempts": 1,
