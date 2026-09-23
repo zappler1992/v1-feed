@@ -68,8 +68,8 @@
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3679402644cc0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/23/M_NEWS_16027_23092026032132_1400_1790133777020_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>ראש ממשלת בריטניה: “אנו עומדים לצד ישראל, אך אין בכך כדי להצדיק את פעולותיה של ממשלת ישראל בעזה או ב</video:title>
-<video:description>ראש ממשלת בריטניה: “אנו עומדים לצד ישראל, אך אין בכך כדי להצדיק את פעולותיה של ממשלת ישראל בעזה או ב</video:description>
+<video:title>ראש ממשלת בריטניה: “אנו עומדים לצד ישראל, אך אין בכך כדי להצדיק את פעולותיה בעזה&quot;</video:title>
+<video:description>ראש ממשלת בריטניה: “אנו עומדים לצד ישראל, אך אין בכך כדי להצדיק את פעולותיה בעזה&quot;</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16027_23092026032132/M_NEWS_16027_23092026032132_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>18</video:duration>
 <video:publication_date>2026-09-23T03:23:05+00:00</video:publication_date>
@@ -209,6 +209,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -1761,6 +1762,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -1863,6 +1865,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -2145,6 +2148,7 @@ Powered by Spikes</video:description>
 <video:uploader>כשהגלים מתחזקים 2</video:uploader>
 <video:tag>כשהגלים מתחזקים 2</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -5376,6 +5380,7 @@ Powered by Spikes</video:description>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>

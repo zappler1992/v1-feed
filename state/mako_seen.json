@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790137049986,
+ "last_run_ms": 1790137350094,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1856,6 +1856,18 @@
    "published_ms": 1790050320000,
    "section": "תרבות tvbee",
    "title": "הסדרה רק התחילה, וכבר מזכירה את \"אחד העם 1\""
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-881f84eed3f90a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790137350094,
+   "content_type": "article",
+   "first_seen_ms": 1790137350094,
+   "indexable": true,
+   "indexnow_ms": 1790137350094,
+   "published_ms": 1790136900000,
+   "section": "תרבות tvbee",
+   "title": "האישה שהקימה אימפריה צריכה ללמוד מגיתית פישר"
   }
  }
 }
