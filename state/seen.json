@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8b4fc18101ec0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-711b2a45e2fc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25135,7 +25134,7 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "חייל בן 40 נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
+   "description": "חייל נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
    "duration_s": 24,
    "first_seen_ms": 1790182346323,
    "image": "https://img.mako.co.il/2026/09/23/V1_NOAY_PIGUA5555_230926_6382_23092026044442_1400_1790181989410_FirstFrame.jpg",
@@ -25144,7 +25143,7 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "חייל בן 40 נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
+   "title": "חייל נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
    "type": "mivzakim",
    "updated_ms": 1790182260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm",
@@ -25492,6 +25491,24 @@
    "updated_ms": 1789899480000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6bf0ac21e2eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_GUNSHOTS_6290_20092026095136/V1_GUNSHOTS_6290_20092026095136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-711b2a45e2fc0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפצוע קשה בפיגוע הדריסה במחסום מכבים הוא: נריה לייטר, בנו של שגריר ישראל בארה\"ב",
+   "duration_s": 9,
+   "first_seen_ms": 1790182946303,
+   "image": "https://img.mako.co.il/2026/09/23/V1_NERIA_6384_23092026045515_1400_1790182607110_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790182614000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפצוע קשה בפיגוע הדריסה במחסום מכבים הוא נריה לייטר, בנו של שגריר ישראל בארה\"ב",
+   "type": "mivzakim",
+   "updated_ms": 1790182614000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-711b2a45e2fc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NERIA_6384_23092026045515/V1_NERIA_6384_23092026045515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-72438d925eeb0a1027.htm": {
    "author": "מבזקים",
