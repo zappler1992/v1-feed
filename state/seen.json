@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-41473605ecdc0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-f59c9b47c50b0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-dd682653dfdc0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ab8cec5c6fdc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7395,6 +7397,22 @@
    "updated_ms": 1789740420000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-e6d60085ae3b0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/18/ASAF_JAIL_18092026/MASTER/ASAF_JAIL_18092026_M/ASAF_JAIL_18092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-f59c9b47c50b0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "העולם על פי טראמפ: בכירים בתעשיית ה-AI מתפטרים ומזהירים מאסון, מדענים מתריעים מפני משבר האקלים, אבל מבחינת האיש שמנהל את העולם - שוב מדובר בהונאה.",
+   "duration_s": 86,
+   "first_seen_ms": 1790162546380,
+   "image": "https://img.mako.co.il/2026/09/23/FIX_yoav_trump_170926_1400_1790162385152_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790162400000,
+   "sections": [],
+   "title": "\"הכול הונאה\": הצצה לעולמו של נשיא ארה\"ב",
+   "type": "general",
+   "updated_ms": 1790162400000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-f59c9b47c50b0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/FIX_yoav_trump_170926/FIX_yoav_trump_170926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w03/shorts-f9c0448143b90a1026.htm": {
    "author": "מהעולם",
@@ -25526,6 +25544,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a59770b30fdb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_PIGOA_6284_20092026084859/V1_PIGOA_6284_20092026084859_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ab8cec5c6fdc0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים בעזה: שני הרוגים בתקיפות של צה\"ל בעיר עזה ובדיר אל-בלח שבמרכז הרצועה",
+   "duration_s": 9,
+   "first_seen_ms": 1790162546380,
+   "image": "https://img.mako.co.il/2026/09/23/V1_karind_TKIFA_6359_23092026111443_1400_1790162163254_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790162170000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים בעזה: שני הרוגים בתקיפות של צה\"ל בעיר עזה ובדיר אל-בלח שבמרכז הרצועה",
+   "type": "mivzakim",
+   "updated_ms": 1790162170000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ab8cec5c6fdc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_TKIFA_6359_23092026111443/V1_karind_TKIFA_6359_23092026111443_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-af25ff17d89c0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -26085,6 +26121,24 @@
    "updated_ms": 1789909108000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-dbb3f017bceb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_NETANEL_6298_20092026125704/V1_NETANEL_6298_20092026125704_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-dd682653dfdc0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גניבת הנשק מבסיס השייטת: הוגשה הצהרת תובע לקראת כתב אישום נגד המעורבים - ביניהם חייל צה\"ל",
+   "duration_s": 52,
+   "first_seen_ms": 1790162546380,
+   "image": "https://img.mako.co.il/2026/09/23/M_NEWS_16066_23092026111654_1400_1790162346145_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790162354000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גניבת הנשק מבסיס השייטת: הוגשה הצהרת תובע לקראת כתב אישום נגד המעורבים - ביניהם חייל צה\"ל",
+   "type": "mivzakim",
+   "updated_ms": 1790162354000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-dd682653dfdc0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16066_23092026111654/M_NEWS_16066_23092026111654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-df62e4657e7c0a1026.htm": {
    "author": "מבזקים",
