@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790158948449,
+ "last_run_ms": 1790159248803,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1928,6 +1928,18 @@
    "published_ms": 1790083680000,
    "section": "מוזיקה",
    "title": "לא מספיק אומנית השנה: הישג גדול נוסף לאודיה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-24e0159289dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790159248803,
+   "content_type": "article",
+   "first_seen_ms": 1790159248803,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790155920000,
+   "section": "ספורט",
+   "title": "מקום שני בעולם: הערך העדכני של גורפינקל"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-481316d1fe9c0a1027.htm": {
    "check_attempts": 1,
