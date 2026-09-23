@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790138850053,
+ "last_run_ms": 1790139150279,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -192,6 +192,18 @@
    "published_ms": 1790135340000,
    "section": "ספורט",
    "title": "לפני המשחק: השיחה של בן שמעון עם החלוצים"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d7cb455029cc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790139150279,
+   "content_type": "article",
+   "first_seen_ms": 1790139150279,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790138880000,
+   "section": "ספורט",
+   "title": "הורחק בעבר: האיש שינהל את ישראל-אוסטריה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-5a2014a114ac0a1026.htm": {
    "check_attempts": 0,
@@ -680,6 +692,18 @@
    "published_ms": 1790047320000,
    "section": "",
    "title": "גם מרענן, גם אומאמי: זו ההתמכרות החדשה שלכם"
+  },
+  "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-69f8c9b809f90a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://www.mako.co.il/food-restaurants/best_israeli_restaurants",
+   "checked_ms": 1790139027534,
+   "content_type": "article",
+   "first_seen_ms": 1790139027534,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790138880000,
+   "section": "הכי חם",
+   "title": "פחות ממשולש פיצה: מצאנו את הקבב הכי זול בארץ"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-46c621542aea0a1027.htm": {
    "check_attempts": 1,
