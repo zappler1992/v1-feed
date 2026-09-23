@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790180249004,
+ "last_run_ms": 1790180549643,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -419,7 +419,19 @@
    "indexnow_ms": null,
    "published_ms": 1790179380000,
    "section": "ספורט",
-   "title": "הצטרפו לשידור: בן שמעון וסולומון מדברים"
+   "title": "סולומון: \"גלוך ואני חברים מחוץ למגרש\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-f402ba5330fc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790180549643,
+   "content_type": "article",
+   "first_seen_ms": 1790180549643,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790180340000,
+   "section": "ספורט",
+   "title": "צפו: העקיצה של סולומון לעיתונאי האוסטרי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-fab024e342ec0a1027.htm": {
    "check_attempts": 1,
@@ -2756,6 +2768,18 @@
    "published_ms": null,
    "section": "גאווה",
    "title": "זעם בטורקיה ובאירופה בעקבות הצעדים של ארדואן"
+  },
+  "https://www.mako.co.il/pzm-magazine/Article-979f323ca6ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790180307896,
+   "content_type": "article",
+   "first_seen_ms": 1790180307896,
+   "indexable": true,
+   "indexnow_ms": 1790180307896,
+   "published_ms": 1790170080000,
+   "section": "הכי חם",
+   "title": "יחידת העילית נחשפת: \"נישקתי ונפרדתי מהילדים\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-040f64876c7c0a1027.htm": {
    "check_attempts": 1,
