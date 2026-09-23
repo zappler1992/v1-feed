@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790150850204,
+ "last_run_ms": 1790151148966,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2252,6 +2252,18 @@
    "published_ms": 1790055600000,
    "section": "חופש",
    "title": "הותקף בגלל ויכוח על מיטת שיזוף בחוף ים - ומת"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-8f7b08c864dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790151148966,
+   "content_type": "article",
+   "first_seen_ms": 1790151148966,
+   "indexable": true,
+   "indexnow_ms": 1790151148966,
+   "published_ms": 1790148900000,
+   "section": "חופש",
+   "title": "לראשונה: טיסה ישראלית נחתה בגן העדן של אירופה"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0b41ab4ad68c0a1027.htm": {
    "check_attempts": 1,
