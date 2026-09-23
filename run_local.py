@@ -3,8 +3,9 @@
 v1-feed local runner for Windows Task Scheduler (every 5 minutes).
 Launch with pythonw.exe so no console window appears.
 
-    pull -> build v1 feed/sitemaps + mako homepage feed -> commit+push if changed
+    pull -> build v1 feed/sitemaps + mako homepage feeds -> commit+push if changed
          -> ping WebSub hub for each feed that changed
+    (build_mako_all.py also submits every newly seen mako URL to IndexNow)
 
 Everything is logged to logs/run.log.
 """
@@ -22,6 +23,7 @@ PYTHON = Path(sys.executable).with_name("python.exe")   # console python (we may
 CREATE_NO_WINDOW = 0x08000000
 FEED_FILES = ["docs/feed.xml", "docs/news-sitemap.xml", "docs/sitemap.xml", "docs/video-sitemap.xml"]
 MAKO_FILES = ["docs/mako/feed.xml"]
+MAKO_ALL_FILES = ["docs/mako/all.xml"]
 
 
 def log(msg):
@@ -53,10 +55,13 @@ def main():
         return 1
     if run([str(PYTHON), "scripts/build_mako_home.py", "build"], env) != 0:
         log("mako build FAILED (continuing with v1)")
+    if run([str(PYTHON), "scripts/build_mako_all.py", "build"], env) != 0:
+        log("mako-all build FAILED (continuing)")
 
     run(["git", "add", "docs", "state"])
     feed_changed = run(["git", "diff", "--cached", "--quiet", "--"] + FEED_FILES) != 0
     mako_changed = run(["git", "diff", "--cached", "--quiet", "--"] + MAKO_FILES) != 0
+    mako_all_changed = run(["git", "diff", "--cached", "--quiet", "--"] + MAKO_ALL_FILES) != 0
     any_changed = run(["git", "diff", "--cached", "--quiet"]) != 0
 
     if any_changed:
@@ -71,6 +76,8 @@ def main():
         run([str(PYTHON), "scripts/build_feed.py", "ping"], env)
     if mako_changed:
         run([str(PYTHON), "scripts/build_mako_home.py", "ping"], env)
+    if mako_all_changed:
+        run([str(PYTHON), "scripts/build_mako_all.py", "ping"], env)
 
     log("=== run end")
     return 0

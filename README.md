@@ -1,6 +1,6 @@
 # v1-feed
 
-**קבצים חיים:** [feed.xml](https://zappler1992.github.io/v1-feed/feed.xml) · [news-sitemap.xml](https://zappler1992.github.io/v1-feed/news-sitemap.xml) · [video-sitemap.xml](https://zappler1992.github.io/v1-feed/video-sitemap.xml) · [sitemap.xml](https://zappler1992.github.io/v1-feed/sitemap.xml) · [mako/feed.xml](https://zappler1992.github.io/v1-feed/mako/feed.xml) · [mako/food/sitemap-index.xml](https://zappler1992.github.io/v1-feed/mako/food/sitemap-index.xml) · [דף אינדקס](https://zappler1992.github.io/v1-feed/)
+**קבצים חיים:** [feed.xml](https://zappler1992.github.io/v1-feed/feed.xml) · [news-sitemap.xml](https://zappler1992.github.io/v1-feed/news-sitemap.xml) · [video-sitemap.xml](https://zappler1992.github.io/v1-feed/video-sitemap.xml) · [sitemap.xml](https://zappler1992.github.io/v1-feed/sitemap.xml) · [mako/feed.xml](https://zappler1992.github.io/v1-feed/mako/feed.xml) · [mako/all.xml](https://zappler1992.github.io/v1-feed/mako/all.xml) · [mako/food/sitemap-index.xml](https://zappler1992.github.io/v1-feed/mako/food/sitemap-index.xml) · [דף אינדקס](https://zappler1992.github.io/v1-feed/)
 
 מאזין כל 5 דקות ל‑`https://www.mako.co.il/v1/?platform=mobileApp`, מזהה דפים חדשים ב‑`www.v-1.co.il`,
 ומפרסם דרך GitHub Pages:
@@ -12,6 +12,7 @@
 | `docs/sitemap.xml` | מפת אתר רגילה עם כל הכתובות שנראו, `lastmod` רק כשיש תאריך מפורש |
 | `docs/video-sitemap.xml` | מפת וידאו לגוגל: thumbnail, כותרת, תיאור, קובץ HLS, משך, תאריך, tags (מדורים) |
 | `state/seen.json` | זיכרון: כל כתובת שנראתה, התאריך שלה ומקורו |
+| `docs/mako/all.xml` | **mako.co.il**: RSS של *כל* הכתבות המקושרות מדף הבית (לא רק הסליידר), ללא ממומן. כל כתובת חדשה נשלחת ל‑**IndexNow** (Bing/Yandex). `scripts/build_mako_all.py`, זיכרון ב‑`state/mako_seen.json` |
 | `docs/mako/feed.xml` | **mako.co.il**: RSS‑snapshot של הכתבה הראשית + הסליידר בדף הבית, ללא הטיזר הממומן (`scripts/build_mako_home.py`, מקור `https://www.mako.co.il/?platform=mobileApp`, תאריכים מ‑`date.datetime`). מפונג ל‑Hub בכל שינוי |
 
 הפיד הוא Media RSS: לכל פריט `category` (המדור שבו הוא מוצג + מדור ה‑URL), `content:encoded` עם תמונה ותיאור,
@@ -62,6 +63,17 @@
 - **Search Console**: מפת הניוז יושבת על `github.io` אבל מצביעה על `v-1.co.il`. גוגל מקבלת cross‑domain sitemap רק אם שני ה‑hosts מאומתים באותו חשבון Search Console (מאמתים גם את ה‑property של `<user>.github.io`), או אם מוסיפים שורת `Sitemap: https://<user>.github.io/v1-feed/news-sitemap.xml` ל‑`robots.txt` של `v-1.co.il`.
 - **מפת וידאו**: להגיש גם את `video-sitemap.xml` ב‑Search Console (אותו נכס).
 - **WebSub**: לא דורש הגדרה בצד גוגל. הפינג נשלח אוטומטית.
+
+## IndexNow למאקו
+
+`scripts/build_mako_all.py` שולח כל כתובת חדשה שמופיעה בדף הבית של מאקו ל‑IndexNow (Bing, Yandex ושאר המנועים
+שמשתתפים). המפתח מאומת בקובץ `https://www.mako.co.il/d5a26e08f7db8e599910507fb5dc73c4.txt` — **אסור למחוק אותו**,
+אחרת ההגשות ייפסלו.
+
+- כתובת נשלחת **פעם אחת בלבד**; `state/mako_seen.json` זוכר מה נשלח ומתי. כתובת שההגשה שלה נכשלה תנוסה שוב בריצה הבאה.
+- נכללות רק כתובות על `www.mako.co.il` (המפתח לא מכסה `story.`/`fashionforward.`/דומיינים אחרים),
+  שאינן ממומנות ושאינן חסומות ב‑`robots.txt` של מאקו.
+- לכיבוי זמני: `MAKO_INDEXNOW=0`. להחלפת מפתח: `MAKO_INDEXNOW_KEY`.
 
 ## מפת אתר XML למאקו אוכל
 

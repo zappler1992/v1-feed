@@ -45,6 +45,7 @@ jobs:
         run: |
           python scripts/build_feed.py build
           python scripts/build_mako_home.py build
+          python scripts/build_mako_all.py build
 
       - name: Commit and push
         if: steps.build.outputs.changed == 'true'
@@ -61,3 +62,4 @@ jobs:
         run: |
           python scripts/build_feed.py ping
           python scripts/build_mako_home.py ping
+          python scripts/build_mako_all.py ping

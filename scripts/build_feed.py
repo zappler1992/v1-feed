@@ -417,6 +417,7 @@ def build_index_html(counts, newest_ms):
 <li><a href="sitemap.xml">sitemap.xml</a> — מפת אתר מלאה ({counts['sitemap']} כתובות)</li>
 <li><a href="video-sitemap.xml">video-sitemap.xml</a> — מפת וידאו לגוגל ({counts['video']} סרטונים)</li>
 <li><a href="mako/feed.xml">mako/feed.xml</a> — mako.co.il: הכתבה הראשית והסליידר בדף הבית (ללא ממומן)</li>
+<li><a href="mako/all.xml">mako/all.xml</a> — mako.co.il: כל הכתבות בדף הבית, כל כתובת חדשה נשלחת ל‑IndexNow</li>
 </ul>
 </body></html>
 """
