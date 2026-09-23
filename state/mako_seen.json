@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790143948492,
+ "last_run_ms": 1790144249200,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -824,6 +824,18 @@
    "published_ms": 1790055060000,
    "section": "בריאות",
    "title": "למה הגב כואב דווקא בחגים – ומה כדאי לעשות"
+  },
+  "https://www.mako.co.il/health-news/Article-456a4b439bcc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790144187259,
+   "content_type": "article",
+   "first_seen_ms": 1790144187259,
+   "indexable": true,
+   "indexnow_ms": 1790144187259,
+   "published_ms": 1790143620000,
+   "section": "בריאות",
+   "title": "החפץ המסוכן שבלעה בת ה-16 הוביל להליך דחוף"
   },
   "https://www.mako.co.il/health-news/Article-6631022e848c0a1027.htm": {
    "check_attempts": 1,
@@ -2024,6 +2036,18 @@
    "published_ms": 1790054580000,
    "section": "קשת 12",
    "title": "\"מפחד שירד מנכסיו ופשוט לא יודעים את זה\""
+  },
+  "https://www.mako.co.il/tv-morning-news/articles/Article-d7d34b439bcc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790144249200,
+   "content_type": "article",
+   "first_seen_ms": 1790144249200,
+   "indexable": true,
+   "indexnow_ms": 1790144249200,
+   "published_ms": 1790142840000,
+   "section": "קשת 12",
+   "title": "\"חוויה מטלטלת. לא הצלחתי לא להתרגש ולבכות\""
   },
   "https://www.mako.co.il/tv-special_interview/season1-articles/Article-4cb49baec2ea0a1026.htm": {
    "check_attempts": 1,
