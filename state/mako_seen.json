@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790171848899,
+ "last_run_ms": 1790172148914,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2289,6 +2289,18 @@
    "section": "ספורט",
    "title": "שווה 18 מיליארד יורו וטרם מצא קבוצה חדשה"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-5feaec00f8ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790172148914,
+   "content_type": "article",
+   "first_seen_ms": 1790172148914,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790171940000,
+   "section": "ספורט",
+   "title": "השכר הממוצע בליגת העל לנשים: אלפיים ש\"ח"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-7fd3cb683dcc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2732,6 +2744,18 @@
    "published_ms": 1790069940000,
    "section": "צבא וביטחון",
    "title": "זירה תמורת זירה? המו\"מ עם סין והקשר לאיראן"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-ea06be6633ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171906762,
+   "content_type": "article",
+   "first_seen_ms": 1790171906762,
+   "indexable": true,
+   "indexnow_ms": 1790171906762,
+   "published_ms": 1790171820000,
+   "section": "חדשות",
+   "title": "תועדה בדרכה לישראל: הצוללת החדשה של חיל הים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ee3640fc4f8c0a1026.htm": {
    "check_attempts": 1,
