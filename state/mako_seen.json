@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790144548198,
+ "last_run_ms": 1790144849382,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -274,6 +274,18 @@
    "published_ms": 1790133600000,
    "section": "ספורט",
    "title": "בחיפה נרגעו: העדכון על המצב של עלי מוחמד"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-f573906a9ecc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790144849382,
+   "content_type": "article",
+   "first_seen_ms": 1790144849382,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790144640000,
+   "section": "ספורט",
+   "title": "\"מכווין אותו\": הקשר בין בוסקטס לגורן"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-fde3a31417cc0a1026.htm": {
    "check_attempts": 1,
@@ -763,7 +775,7 @@
    "indexnow_ms": 1790142194583,
    "published_ms": 1790134380000,
    "section": "",
-   "title": "פחות ממשולש פיצה: מצאנו את הקבב הכי זול בארץ"
+   "title": "מצאנו את הקבב הכי זול בארץ - ולא תאמינו איפה הוא"
   },
   "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-69f8c9b809f90a1027.htm": {
    "check_attempts": 1,
@@ -1339,7 +1351,7 @@
    "indexnow_ms": 1790134440196,
    "published_ms": 1790132400000,
    "section": "",
-   "title": "במעורבות ישראלית: כך נעלמו לא פחות מ-3 מיליארד דולר"
+   "title": "הרוחות בטורקיה סוערות: לאן נעלמו 3 מיליארד דולר?"
   },
   "https://www.mako.co.il/men-men_news/Article-b02e9f6168ac0a1027.htm": {
    "check_attempts": 1,
@@ -1351,7 +1363,7 @@
    "indexnow_ms": 1790134440196,
    "published_ms": 1790132400000,
    "section": "",
-   "title": "\"הבנו שהפעם קרה משהו מוזר, רק לא הבנו מה\""
+   "title": "הכלב נבח במשך שעות - בעליו נמצא מת בדירה בתל אביב"
   },
   "https://www.mako.co.il/music-news/Article-0790fe63eecb0a1027.htm": {
    "check_attempts": 1,
@@ -1747,7 +1759,7 @@
    "indexnow_ms": 1790142867200,
    "published_ms": 1790142300000,
    "section": "צבא וביטחון",
-   "title": "איראן מודה: \"המצור הכלכלי פוגע בנו\" - ומאיימת בתגובה"
+   "title": "איראן מודה: \"המצור הכלכלי הורס אותנו\" - ומאיימת בתגובה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-dab9e288978c0a1026.htm": {
    "check_attempts": 1,
@@ -1892,6 +1904,18 @@
    "published_ms": 1789649040000,
    "section": "",
    "title": "קירות מתקלפים וזבל: מה קרה לבית המלון המפואר שננטש"
+  },
+  "https://www.mako.co.il/travel-news/Article-cb1ad2900ecc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790144787265,
+   "content_type": "article",
+   "first_seen_ms": 1790144787265,
+   "indexable": true,
+   "indexnow_ms": 1790144787265,
+   "published_ms": 1790143740000,
+   "section": "",
+   "title": "\"סבל מהזיות וקדח מחום\": תיעוד מחופשת הבלהות"
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,
