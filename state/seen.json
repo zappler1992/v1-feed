@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-428939c681fc0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8b4fc18101ec0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9451,7 +9452,8 @@
    "importance": 1,
    "published_ms": 1790175180000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 42: בלי לשמור בבטן",
    "type": "series",
@@ -16892,6 +16894,24 @@
    "updated_ms": 1790154420000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7e50e209e7dc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/yoav_GIRL_230926/MASTER/yoav_GIRL_230926/yoav_GIRL_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8b4fc18101ec0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הכל בשביל צפיות: חבורת נערים השפריצו גז מדמיע על עובד זר שלא עשה להם כלום - תופעה מזעזעת שחייבת להיפסק.",
+   "duration_s": 28,
+   "first_seen_ms": 1790182346323,
+   "image": "https://img.mako.co.il/2026/09/23/inbie_tears_230926_1400_1790163834813_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790163841000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "אכזריות בשביל הטיקטוק: נערים השפריצו גז מדמיע על עובד זר בלי סיבה",
+   "type": "news",
+   "updated_ms": 1790163841000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8b4fc18101ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/inbie_tears_230926/MASTER/inbie_tears_230926/inbie_tears_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-90430489558c0a1026.htm": {
    "author": "חדשות",
@@ -25111,6 +25131,24 @@
    "updated_ms": 1790087519000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-46ac0313189c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16009_22092026023031/M_NEWS_16009_22092026023031_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חייל בן 40 נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
+   "duration_s": 24,
+   "first_seen_ms": 1790182346323,
+   "image": "https://img.mako.co.il/2026/09/23/V1_NOAY_PIGUA5555_230926_6382_23092026044442_1400_1790181989410_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790181996000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חייל בן 40 נפצע קשה בפיגוע דריסה במחסום מכבים: התיעודים מהזירה הקשה",
+   "type": "mivzakim",
+   "updated_ms": 1790181996000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-48859e6881fc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NOAY_PIGUA5555_230926_6382_23092026044442/V1_NOAY_PIGUA5555_230926_6382_23092026044442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4bf552906d3c0a1027.htm": {
    "author": "מבזקים",
@@ -43779,7 +43817,8 @@
    "importance": 0,
    "published_ms": 1790168099000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הגיבור הישראלי: צפו בסרטון המשעשע שבו תייר מחלץ וייטנאמיות שנתקעו בחדר במשך שעה",
    "type": "mivzakim",
@@ -43816,7 +43855,8 @@
    "importance": 0,
    "published_ms": 1790164829000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "Oops, I did it: שגרירת סרביה התבלבלה ונישקה את דגל הולנד - במקום את דגל ארצה",
    "type": "mivzakim",
@@ -43950,7 +43990,8 @@
    "importance": 2,
    "published_ms": 1790172078000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "רגעים אחרי ההמראה: מטוס חיל האוויר הבריטי התרסק סמוך לבסיס צבאי באנגלסי, ויילס | תיעוד",
    "type": "mivzakim",
