@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790139754081,
+ "last_run_ms": 1790140051690,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1640,6 +1640,18 @@
    "published_ms": 1790112180000,
    "section": "חדשות",
    "title": "האמירויות התריעו לישראל לפני 7 באוקטובר: \"חמאס יפעל\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-493254f40e8c0a1027.htm",
+   "checked_ms": 1790139987399,
+   "content_type": "article",
+   "first_seen_ms": 1790139987399,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790136840000,
+   "section": "",
+   "title": "התיעוד המסעיר של טראמפ - והשאלות על מצבו הרפואי"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
