@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790152348924,
+ "last_run_ms": 1790152648929,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -394,6 +394,18 @@
    "published_ms": 1790150760000,
    "section": "ספורט",
    "title": "מאיפה זה בא? הבית החדש של דויד אלאבה"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-9d4de89306dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790152467692,
+   "content_type": "article",
+   "first_seen_ms": 1790152467692,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790152140000,
+   "section": "ספורט",
+   "title": "כמו משוגעים: הנתון בו אלצ`ה ראשונה בספרד"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-a03f8d15309c0a1026.htm": {
    "check_attempts": 0,
@@ -1809,6 +1821,18 @@
    "section": "דיגיטל",
    "title": "מיליארד דולר ב-3 חודשים: זאת וויז הבאה?"
   },
+  "https://www.mako.co.il/nexter-news/Article-d99d549085dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790152648929,
+   "content_type": "article",
+   "first_seen_ms": 1790152648929,
+   "indexable": true,
+   "indexnow_ms": 1790152648929,
+   "published_ms": 1790151720000,
+   "section": "דיגיטל",
+   "title": "אחרי האייפון: המוצר המסקרן הבא של אפל"
+  },
   "https://www.mako.co.il/nexter-reviews/Article-7fc3e926f5ab0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2275,7 +2299,7 @@
    "indexnow_ms": 1790149828060,
    "published_ms": 1790148420000,
    "section": "חופש",
-   "title": "נוסע ישראלי נעצר בזמן הטיסה באירופה"
+   "title": "התפרע וסירב להקשיב לדיילים: נוסע ישראלי נעצר"
   },
   "https://www.mako.co.il/travel-news/international/Article-0cee36b104dc0a1027.htm": {
    "check_attempts": 1,
@@ -2300,6 +2324,18 @@
    "published_ms": 1790071980000,
    "section": "חופש",
    "title": "\"סכנה מוחשית ליהודים\": רעידת אדמה בעיר הבירה האירופית"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-2777d4f301dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790152648929,
+   "content_type": "article",
+   "first_seen_ms": 1790152648929,
+   "indexable": true,
+   "indexnow_ms": 1790152648929,
+   "published_ms": 1790147280000,
+   "section": "חופש",
+   "title": "יכול להיות מסוכן: טרנד הדרכונים שעלול לסבך אתכם"
   },
   "https://www.mako.co.il/travel-news/international/Article-45319125100a0a1026.htm": {
    "check_attempts": 1,
