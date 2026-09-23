@@ -53,6 +53,7 @@ from build_feed import (FEED_BASE_URL, HUB_URL, USER_AGENT, esc, http_get, log, 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "docs" / "mako"
 STATE_FILE = ROOT / "state" / "mako_seen.json"
+FF_CACHE = ROOT / "state" / "ff_feed_cache.xml"
 
 HOME_URL = os.environ.get("MAKO_SOURCE_URL", "https://www.mako.co.il/?platform=mobileApp")
 MAIN_HOST = "www.mako.co.il"
@@ -414,14 +415,40 @@ def build_rss(items):
 
 
 # ---- commands ---------------------------------------------------------------
-def fetch_retry(url, label):
+def fetch_retry(url, label, want=None, headers=None):
+    """Fetch with retries. `want` is a predicate on the body: a response that fails it
+    (a bot-challenge page served instead of the real content) counts as a failed attempt."""
     for attempt in (1, 2, 3):
         try:
-            _, body = http_get(url)
-            return body
+            req = Request(url, headers=headers or {"User-Agent": USER_AGENT})
+            with urlopen(req, timeout=60) as r:
+                body = r.read()
+            if want is None or want(body):
+                return body
+            log(f"mako-all: {label} returned {len(body)} bytes that are not the expected "
+                f"content (attempt {attempt}/3); likely a bot challenge")
         except (HTTPError, URLError, TimeoutError) as e:
             log(f"mako-all: {label} fetch failed (attempt {attempt}/3): {type(e).__name__}: {str(e)[:120]}")
-            time.sleep(15)
+        time.sleep(15)
+    return None
+
+
+def looks_like_rss(body):
+    head = body.lstrip()[:400].lower()
+    return head.startswith(b"<?xml") or b"<rss" in head
+
+
+def fetch_ff_feed():
+    """Fashion Forward's feed intermittently serves a captcha page; fall back to the
+    last good copy so the output feed does not lose its items for one run."""
+    body = fetch_retry(FF_FEED_URL, "fashionforward RSS", want=looks_like_rss, headers=PAGE_HEADERS)
+    if body is not None:
+        FF_CACHE.parent.mkdir(parents=True, exist_ok=True)
+        FF_CACHE.write_bytes(body)
+        return body
+    if FF_CACHE.exists():
+        log("mako-all: using the last cached copy of the fashionforward RSS")
+        return FF_CACHE.read_bytes()
     return None
 
 
@@ -442,7 +469,7 @@ def cmd_build():
         return 0
     n_home = len(found)
 
-    ff_body = fetch_retry(FF_FEED_URL, "fashionforward RSS")
+    ff_body = fetch_ff_feed()
     if ff_body is not None:
         try:
             extract_rss(ff_body, FF_HOST, robots_by_host, found, skipped, "Fashion Forward")
