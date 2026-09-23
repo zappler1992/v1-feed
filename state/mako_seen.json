@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790141549700,
+ "last_run_ms": 1790141850513,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1267,7 +1267,7 @@
    "indexnow_ms": 1790134440196,
    "published_ms": 1790132400000,
    "section": "",
-   "title": "הפרשה שבה נעצרו 11 ישראלים ויהודים רחוקה מלהיגמר"
+   "title": "במעורבות ישראלית: כך נעלמו לא פחות מ-3 מיליארד דולר"
   },
   "https://www.mako.co.il/men-men_news/Article-b02e9f6168ac0a1027.htm": {
    "check_attempts": 1,
@@ -1869,6 +1869,18 @@
    "section": "חופש",
    "title": "צמוד לים: המלון החדש שייפתח בחוף היפה בארץ"
   },
+  "https://www.mako.co.il/travel-news/israel/Article-738c2d1558db0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790141667993,
+   "content_type": "article",
+   "first_seen_ms": 1790141667993,
+   "indexable": true,
+   "indexnow_ms": 1790141667993,
+   "published_ms": 1790051640000,
+   "section": "חופש",
+   "title": "מצאנו את חבילת הנופש הכי זולה שנשארה בסוכות"
+  },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-b52a9baec2ea0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1940,6 +1952,18 @@
    "published_ms": 1790098440000,
    "section": "תרבות tvbee",
    "title": "לאחר כחודש: זו הסיבה הרשמית למותה של הכוכבת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-bcd0f27e9acc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790141787732,
+   "content_type": "article",
+   "first_seen_ms": 1790141787732,
+   "indexable": true,
+   "indexnow_ms": 1790141787732,
+   "published_ms": 1790140980000,
+   "section": "תרבות tvbee",
+   "title": "פרומו ושיר נושא: הצצה לסדרה הארגנטינאית של נועה קירל"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-e2fde1bbd18c0a1027.htm": {
    "check_attempts": 1,
