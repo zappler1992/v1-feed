@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790154448740,
+ "last_run_ms": 1790154748692,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1641,6 +1641,18 @@
    "section": "פלילים",
    "title": "ישראלי שלח מזוודה עם גת לקפריסין - ולא חשב שכך יסתבך"
   },
+  "https://www.mako.co.il/men-men_news/Article-73dee209e7dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790154748692,
+   "content_type": "article",
+   "first_seen_ms": 1790154748692,
+   "indexable": true,
+   "indexnow_ms": 1790154748692,
+   "published_ms": 1790154240000,
+   "section": "פלילים",
+   "title": "במקלט ציבורי: עסק פיראטי למכירת בגדים מזויפים"
+  },
   "https://www.mako.co.il/men-men_news/Article-80a708c864dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "http 404",
@@ -2347,7 +2359,7 @@
    "indexnow_ms": 1790149828060,
    "published_ms": 1790148420000,
    "section": "חופש",
-   "title": "התפרע וסירב להקשיב לדיילים: נוסע ישראלי נעצר"
+   "title": "\"התפרע וסירב לחגור חגורת בטיחות\": נוסע ישראלי נעצר"
   },
   "https://www.mako.co.il/travel-news/international/Article-0cee36b104dc0a1027.htm": {
    "check_attempts": 1,
