@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790157765791,
+ "last_run_ms": 1790157987190,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -168,6 +168,18 @@
    "published_ms": 1790149786000,
    "section": "אופנה",
    "title": "וויליאם מי? קייט מידלטון בשמלת מחשוף צועדת יד ביד עם טום קרוז"
+  },
+  "https://fashionforward.mako.co.il/news/320726/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790157987190,
+   "content_type": "post",
+   "first_seen_ms": 1790157987190,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "מה לבשה קים אור אזולאי לחתונה של אחותה?"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -2240,6 +2252,18 @@
    "published_ms": 1790150400000,
    "section": "צבא וביטחון",
    "title": "\"סבך אסטרטגי\": ארגון הטרור במצב חדש מול ישראל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-1092e65b3adc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790157987190,
+   "content_type": "article",
+   "first_seen_ms": 1790157987190,
+   "indexable": true,
+   "indexnow_ms": 1790157987190,
+   "published_ms": 1790156880000,
+   "section": "",
+   "title": "עם תמונת חיילת צה\"ל: ההסתה החמורה נגד ישראל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-2fbc3654e1dc0a1027.htm": {
    "check_attempts": 1,
