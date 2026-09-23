@@ -12,7 +12,7 @@
 | `docs/sitemap.xml` | מפת אתר רגילה עם כל הכתובות שנראו, `lastmod` רק כשיש תאריך מפורש |
 | `docs/video-sitemap.xml` | מפת וידאו לגוגל: thumbnail, כותרת, תיאור, קובץ HLS, משך, תאריך, tags (מדורים) |
 | `state/seen.json` | זיכרון: כל כתובת שנראתה, התאריך שלה ומקורו |
-| `docs/mako/all.xml` | **mako.co.il**: RSS של *כל* הכתבות המקושרות מדף הבית (לא רק הסליידר), ללא ממומן. כל כתובת חדשה נשלחת ל‑**IndexNow** (Bing/Yandex). `scripts/build_mako_all.py`, זיכרון ב‑`state/mako_seen.json` |
+| `docs/mako/all.xml` | **mako.co.il + Fashion Forward**: RSS של *כל* הכתבות המקושרות מדף הבית (לא רק הסליידר) ושל הפיד של `fashionforward.mako.co.il`, ללא ממומן. כל כתובת חדשה נשלחת ל‑**IndexNow** (Bing/Yandex). `scripts/build_mako_all.py`, זיכרון ב‑`state/mako_seen.json` |
 | `docs/mako/feed.xml` | **mako.co.il**: RSS‑snapshot של הכתבה הראשית + הסליידר בדף הבית, ללא הטיזר הממומן (`scripts/build_mako_home.py`, מקור `https://www.mako.co.il/?platform=mobileApp`, תאריכים מ‑`date.datetime`). מפונג ל‑Hub בכל שינוי |
 
 הפיד הוא Media RSS: לכל פריט `category` (המדור שבו הוא מוצג + מדור ה‑URL), `content:encoded` עם תמונה ותיאור,
@@ -71,8 +71,17 @@
 אחרת ההגשות ייפסלו.
 
 - כתובת נשלחת **פעם אחת בלבד**; `state/mako_seen.json` זוכר מה נשלח ומתי. כתובת שההגשה שלה נכשלה תנוסה שוב בריצה הבאה.
-- נכללות רק כתובות על `www.mako.co.il` (המפתח לא מכסה `story.`/`fashionforward.`/דומיינים אחרים),
-  שאינן ממומנות ושאינן חסומות ב‑`robots.txt` של מאקו.
+- נכללות רק כתובות שאינן ממומנות ושאינן חסומות ב‑`robots.txt` של אותו אתר.
+
+### דומיינים
+
+IndexNow מתייחס לכל סאב‑דומיין כאתר נפרד, ולכן לכל אחד דרוש **קובץ מפתח משלו**. הסקריפט בודק את הקובץ לפני כל הגשה,
+מגיש רק דומיינים שעברו אימות, ומשאיר את השאר בתור. ברגע שקובץ המפתח יעלה, ההגשה תצא לבד בריצה הבאה, בלי שינוי קוד.
+
+| דומיין | מקור התוכן | קובץ מפתח | סטטוס |
+|---|---|---|---|
+| `www.mako.co.il` | דף הבית (`?platform=mobileApp`) | `https://www.mako.co.il/d5a26e08f7db8e599910507fb5dc73c4.txt` | מאומת, מגיש |
+| `fashionforward.mako.co.il` | הפיד של האתר (`/feed/`) + טיזרים בדף הבית | `https://fashionforward.mako.co.il/d5a26e08f7db8e599910507fb5dc73c4.txt` | **חסר** — הכתובות ממתינות בתור |
 - לכיבוי זמני: `MAKO_INDEXNOW=0`. להחלפת מפתח: `MAKO_INDEXNOW_KEY`.
 
 ## מפת אתר XML למאקו אוכל

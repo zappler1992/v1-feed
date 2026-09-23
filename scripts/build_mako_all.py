@@ -1,21 +1,25 @@
 #!/usr/bin/env python3
 """
-mako full-homepage feed + IndexNow submitter.
+mako full feed + IndexNow submitter (multi-host).
 
-Unlike build_mako_home.py (main item + slider only), this covers EVERY item linked
-from the mako.co.il homepage app JSON: news, celebs, finance, sport, VOD, recipes,
-magazine components - each teaser that points to a real page on www.mako.co.il.
+Sources
+  www.mako.co.il             every teaser on the homepage app JSON (news, celebs,
+                             finance, sport, VOD, recipes, magazine components ...)
+  fashionforward.mako.co.il  the site's own WordPress RSS (/feed/), plus any of its
+                             pages teased on the mako homepage
 
+Output
   docs/mako/all.xml       RSS 2.0 of those pages, newest first, WebSub hub declared
-  state/mako_seen.json    every URL ever seen here + when it was sent to IndexNow
+  state/mako_seen.json    every URL ever seen here + when it was accepted by IndexNow
 
-Every newly seen URL is submitted to IndexNow (Bing/Yandex) using the key verified at
-https://www.mako.co.il/<key>.txt. A URL is submitted once; nothing is resubmitted on
-later runs, per IndexNow's own guidance.
+Every newly seen URL is submitted to IndexNow (Bing/Yandex). IndexNow treats each
+host separately, so a host is only submitted once its key file is verified at
+https://<host>/<key>.txt. Pages of a host without that file stay queued and go out
+automatically on the first run after the file appears. A URL is submitted once;
+nothing is resubmitted, per IndexNow's own guidance.
 
-Excluded: sponsored/advertising teasers, anything not on www.mako.co.il (story.,
-fashionforward., auto.co.il ... are separate hosts the key does not cover), and
-anything mako's own robots.txt disallows.
+Excluded: sponsored/advertising teasers, hosts not listed below, and anything the
+host's own robots.txt disallows.
 
 Usage:
   python scripts/build_mako_all.py build   # fetch + diff + write feed + submit to IndexNow
@@ -23,10 +27,13 @@ Usage:
 """
 import json
 import os
+import re
 import sys
 import time
 import urllib.robotparser
+import xml.etree.ElementTree as ET
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlsplit
@@ -41,24 +48,30 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "docs" / "mako"
 STATE_FILE = ROOT / "state" / "mako_seen.json"
 
-SOURCE_URL = os.environ.get("MAKO_SOURCE_URL", "https://www.mako.co.il/?platform=mobileApp")
-SITE_HOST = "www.mako.co.il"
-ROBOTS_URL = f"https://{SITE_HOST}/robots.txt"
+HOME_URL = os.environ.get("MAKO_SOURCE_URL", "https://www.mako.co.il/?platform=mobileApp")
+MAIN_HOST = "www.mako.co.il"
+FF_HOST = "fashionforward.mako.co.il"
+FF_FEED_URL = os.environ.get("MAKO_FF_FEED_URL", f"https://{FF_HOST}/feed/")
+ALLOWED_HOSTS = (MAIN_HOST, FF_HOST)
+
 FEED_TITLE = os.environ.get("MAKO_ALL_FEED_TITLE", "mako - כל מה שבדף הבית")
 FEED_DESCRIPTION = os.environ.get(
     "MAKO_ALL_FEED_DESCRIPTION",
-    "כל הכתבות המקושרות מדף הבית של mako.co.il (ללא תוכן ממומן), מתעדכן כל 5 דקות")
-MAX_FEED_ITEMS = int(os.environ.get("MAKO_ALL_MAX_ITEMS", "200"))
+    "כל הכתבות המקושרות מדף הבית של mako.co.il ומ-Fashion Forward (ללא תוכן ממומן), מתעדכן כל 5 דקות")
+MAX_FEED_ITEMS = int(os.environ.get("MAKO_ALL_MAX_ITEMS", "250"))
 IL_TZ = ZoneInfo("Asia/Jerusalem")
 PAGES_WAIT_SECONDS = int(os.environ.get("PAGES_WAIT_SECONDS", "240"))
 
-# IndexNow: the key file must stay reachable at https://www.mako.co.il/<key>.txt
+# IndexNow: each host needs the key file at https://<host>/<key>.txt
 INDEXNOW_KEY = os.environ.get("MAKO_INDEXNOW_KEY", "d5a26e08f7db8e599910507fb5dc73c4")
 INDEXNOW_ENDPOINT = os.environ.get("INDEXNOW_ENDPOINT", "https://api.indexnow.org/IndexNow")
 INDEXNOW_MAX_PER_REQUEST = 10000
 INDEXNOW_ENABLED = os.environ.get("MAKO_INDEXNOW", "1") == "1"
 
 AD_ITEM_MARKERS = ("advertising", "Advertising")
+CONTENT_NS = "{http://purl.org/rss/1.0/modules/content/}encoded"
+DC_CREATOR = "{http://purl.org/dc/elements/1.1/}creator"
+IMG_SRC_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
 
 
 def feed_url():
@@ -73,17 +86,36 @@ def parse_local_dt(s):
         return None
 
 
-def load_robots():
-    rp = urllib.robotparser.RobotFileParser()
+def parse_rfc822(s):
     try:
-        _, body = http_get(ROBOTS_URL, timeout=30)
-        rp.parse(body.decode("utf-8", errors="replace").splitlines())
-        return rp
-    except (HTTPError, URLError, TimeoutError) as e:
-        log(f"mako-all: robots.txt unavailable ({e}); not filtering on it this run")
+        return int(parsedate_to_datetime(s).timestamp() * 1000)
+    except (TypeError, ValueError, IndexError):
         return None
 
 
+def blank_item(url):
+    return {"url": url, "title": "", "description": "", "author": "", "flach": "",
+            "image": "", "section": "", "content_type": "", "published_ms": None}
+
+
+# ---- robots -----------------------------------------------------------------
+def load_robots(host):
+    rp = urllib.robotparser.RobotFileParser()
+    try:
+        _, body = http_get(f"https://{host}/robots.txt", timeout=30)
+        rp.parse(body.decode("utf-8", errors="replace").splitlines())
+        return rp
+    except (HTTPError, URLError, TimeoutError) as e:
+        log(f"mako-all: robots.txt of {host} unavailable ({e}); not filtering on it this run")
+        return None
+
+
+def allowed(url, robots_by_host):
+    rp = robots_by_host.get(urlsplit(url).netloc)
+    return rp is None or rp.can_fetch("*", url)
+
+
+# ---- source 1: the mako homepage app JSON -----------------------------------
 def is_ad(item):
     itype = item.get("itemType") or ""
     click = (item.get("itemUrl") or {}).get("domoClick") or {}
@@ -92,24 +124,19 @@ def is_ad(item):
             or click.get("content_type") == "fabricated")
 
 
-def extract(data, robots):
-    """Every teaser on the homepage that links to a real, crawlable page on www.mako.co.il."""
-    found, skipped = {}, {"ad": 0, "other_host": 0, "robots": 0, "no_url": 0}
+def extract_homepage(data, robots_by_host, found, skipped):
+    def merge(cand):
+        cur = found.get(cand["url"])
+        if cur is None:
+            found[cand["url"]] = cand
+            return
+        for k in ("title", "description", "author", "flach", "image", "section", "content_type"):
+            if cand[k] and len(cand[k]) > len(cur[k]):
+                cur[k] = cand[k]
+        if cand["published_ms"] and (not cur["published_ms"] or cand["published_ms"] < cur["published_ms"]):
+            cur["published_ms"] = cand["published_ms"]
 
-    def walk(o, component=None, section=""):
-        if isinstance(o, dict):
-            if o.get("componentType"):
-                component = o["componentType"]
-                section = text_of(o.get("componentName")) or ""
-            if o.get("itemType"):
-                add(o, component, section)
-            for v in o.values():
-                walk(v, component, section)
-        elif isinstance(o, list):
-            for x in o:
-                walk(x, component, section)
-
-    def add(item, component, section):
+    def add(item, section):
         iu = item.get("itemUrl")
         raw = iu.get("url") if isinstance(iu, dict) else None
         if not isinstance(raw, str) or not raw.strip():
@@ -119,39 +146,80 @@ def extract(data, robots):
             skipped["ad"] += 1
             return
         url = normalize_url(raw)
-        if urlsplit(url).netloc != SITE_HOST:
+        if urlsplit(url).netloc not in ALLOWED_HOSTS:
             skipped["other_host"] += 1
             return
-        if robots is not None and not robots.can_fetch("*", url):
+        if not allowed(url, robots_by_host):
             skipped["robots"] += 1
             return
         pics = item.get("pics") or []
-        cand = {
-            "url": url,
+        cand = blank_item(url)
+        cand.update({
             "title": text_of(item.get("title")),
             "description": text_of(item.get("subTitle")) or text_of(item.get("subtitle")),
             "author": text_of(item.get("author")),
             "flach": text_of(item.get("flach")),
             "image": pics[0].get("url") if pics and isinstance(pics[0], dict) else "",
             "section": section,
-            "component": component or "",
             "content_type": ((iu.get("domoClick") or {}).get("content_type") or "").lower(),
             "published_ms": parse_local_dt((item.get("date") or {}).get("datetime"))
                             if isinstance(item.get("date"), dict) else None,
-        }
+        })
+        merge(cand)
+
+    def walk(o, section=""):
+        if isinstance(o, dict):
+            if o.get("componentType"):
+                section = text_of(o.get("componentName")) or ""
+            if o.get("itemType"):
+                add(o, section)
+            for v in o.values():
+                walk(v, section)
+        elif isinstance(o, list):
+            for x in o:
+                walk(x, section)
+
+    walk(data)
+
+
+# ---- source 2: the Fashion Forward WordPress RSS ----------------------------
+def extract_rss(xml_bytes, host, robots_by_host, found, skipped, default_section):
+    root = ET.fromstring(xml_bytes)
+    for item in root.iter("item"):
+        link = (item.findtext("link") or "").strip()
+        if not link:
+            skipped["no_url"] += 1
+            continue
+        url = normalize_url(link)
+        if urlsplit(url).netloc != host:
+            skipped["other_host"] += 1
+            continue
+        if not allowed(url, robots_by_host):
+            skipped["robots"] += 1
+            continue
+        encoded = item.findtext(CONTENT_NS) or ""
+        img = IMG_SRC_RE.search(encoded)
+        cats = [c.text.strip() for c in item.findall("category") if c.text and c.text.strip()]
+        cand = blank_item(url)
+        cand.update({
+            "title": (item.findtext("title") or "").strip(),
+            "description": re.sub(r"<[^>]+>", "", item.findtext("description") or "").strip(),
+            "author": (item.findtext(DC_CREATOR) or "").strip(),
+            "flach": cats[0] if cats else "",
+            "image": img.group(1) if img else "",
+            "section": default_section,
+            "content_type": "article",
+            "published_ms": parse_rfc822(item.findtext("pubDate")),
+        })
         cur = found.get(url)
         if cur is None:
             found[url] = cand
-            return
-        # same page teased twice: keep the richest text, the earliest date
-        for k in ("title", "description", "author", "flach", "image", "section", "content_type"):
-            if cand[k] and len(cand[k]) > len(cur[k]):
-                cur[k] = cand[k]
-        if cand["published_ms"] and (not cur["published_ms"] or cand["published_ms"] < cur["published_ms"]):
-            cur["published_ms"] = cand["published_ms"]
-
-    walk(data)
-    return found, skipped
+        else:  # already teased on the homepage: the site's own RSS has the better data
+            for k in ("title", "description", "author", "image"):
+                if cand[k] and len(cand[k]) > len(cur[k]):
+                    cur[k] = cand[k]
+            if cand["published_ms"] and not cur["published_ms"]:
+                cur["published_ms"] = cand["published_ms"]
 
 
 # ---- state ------------------------------------------------------------------
@@ -167,35 +235,53 @@ def save_state(state):
 
 
 # ---- IndexNow ---------------------------------------------------------------
-def submit_indexnow(urls):
-    """POST the URL list to IndexNow. Returns True when accepted (200/202)."""
+def key_verified(host):
+    """IndexNow only accepts a host whose key file serves the key itself."""
+    key_url = f"https://{host}/{INDEXNOW_KEY}.txt"
+    try:
+        status, body = http_get(key_url, timeout=30)
+    except HTTPError as e:
+        log(f"mako-all: IndexNow key missing on {host} (HTTP {e.code} for {key_url}); "
+            f"its pages stay queued until the file is added")
+        return False
+    except (URLError, TimeoutError) as e:
+        log(f"mako-all: could not check IndexNow key on {host} ({e}); skipping it this run")
+        return False
+    if status == 200 and body.decode("utf-8", errors="replace").strip().splitlines()[:1] == [INDEXNOW_KEY]:
+        return True
+    log(f"mako-all: IndexNow key file on {host} does not contain the key; skipping it")
+    return False
+
+
+def submit_indexnow(host, urls):
+    """POST one host's URL list to IndexNow. Returns True when accepted (200/202)."""
     if not urls:
         return True
     if not INDEXNOW_ENABLED:
-        log(f"mako-all: IndexNow disabled, would have submitted {len(urls)} url(s)")
+        log(f"mako-all: IndexNow disabled, would have submitted {len(urls)} url(s) for {host}")
+        return False
+    if not key_verified(host):
         return False
     ok = True
     for start in range(0, len(urls), INDEXNOW_MAX_PER_REQUEST):
         batch = urls[start:start + INDEXNOW_MAX_PER_REQUEST]
         payload = json.dumps({
-            "host": SITE_HOST,
+            "host": host,
             "key": INDEXNOW_KEY,
-            "keyLocation": f"https://{SITE_HOST}/{INDEXNOW_KEY}.txt",
+            "keyLocation": f"https://{host}/{INDEXNOW_KEY}.txt",
             "urlList": batch,
         }, ensure_ascii=False).encode("utf-8")
         req = Request(INDEXNOW_ENDPOINT, data=payload, headers={
             "User-Agent": USER_AGENT, "Content-Type": "application/json; charset=utf-8"})
         try:
             with urlopen(req, timeout=60) as r:
-                log(f"mako-all: IndexNow -> HTTP {r.status} for {len(batch)} url(s) "
-                    f"(200/202 = accepted)")
+                log(f"mako-all: IndexNow {host} -> HTTP {r.status} for {len(batch)} url(s) (200/202 = accepted)")
                 ok = ok and r.status in (200, 202)
         except HTTPError as e:
-            body = e.read()[:300]
-            log(f"mako-all: IndexNow error HTTP {e.code} for {len(batch)} url(s): {body!r}")
+            log(f"mako-all: IndexNow {host} error HTTP {e.code} for {len(batch)} url(s): {e.read()[:300]!r}")
             ok = False
         except (URLError, TimeoutError) as e:
-            log(f"mako-all: IndexNow unreachable: {e}")
+            log(f"mako-all: IndexNow {host} unreachable: {e}")
             ok = False
     return ok
 
@@ -211,7 +297,7 @@ def build_rss(items):
            'xmlns:content="http://purl.org/rss/1.0/modules/content/">',
            '<channel>',
            f'<title>{esc(FEED_TITLE)}</title>',
-           f'<link>https://{SITE_HOST}/</link>',
+           f'<link>https://{MAIN_HOST}/</link>',
            f'<description>{esc(FEED_DESCRIPTION)}</description>',
            '<language>he</language>',
            f'<lastBuildDate>{rfc822(last_build)}</lastBuildDate>',
@@ -244,25 +330,43 @@ def build_rss(items):
 
 
 # ---- commands ---------------------------------------------------------------
-def cmd_build():
-    now_ms = int(time.time() * 1000)
-    data = None
+def fetch_retry(url, label):
     for attempt in (1, 2, 3):
         try:
-            _, body = http_get(SOURCE_URL)
-            data = json.loads(body.decode("utf-8"))
-            break
-        except (json.JSONDecodeError, UnicodeDecodeError, HTTPError, URLError, TimeoutError) as e:
-            log(f"mako-all: source fetch/parse failed (attempt {attempt}/3): {type(e).__name__}: {str(e)[:120]}")
+            _, body = http_get(url)
+            return body
+        except (HTTPError, URLError, TimeoutError) as e:
+            log(f"mako-all: {label} fetch failed (attempt {attempt}/3): {type(e).__name__}: {str(e)[:120]}")
             time.sleep(15)
-    if data is None:
-        log("mako-all: source unavailable this run; feed left unchanged")
-        return 0
+    return None
 
-    found, skipped = extract(data, load_robots())
+
+def cmd_build():
+    now_ms = int(time.time() * 1000)
+    robots_by_host = {h: load_robots(h) for h in ALLOWED_HOSTS}
+    found = {}
+    skipped = {"ad": 0, "other_host": 0, "robots": 0, "no_url": 0}
+
+    body = fetch_retry(HOME_URL, "homepage")
+    if body is None:
+        log("mako-all: homepage unavailable this run; feed left unchanged")
+        return 0
+    try:
+        extract_homepage(json.loads(body.decode("utf-8")), robots_by_host, found, skipped)
+    except (json.JSONDecodeError, UnicodeDecodeError) as e:
+        log(f"mako-all: homepage JSON unparsable ({e}); feed left unchanged")
+        return 0
+    n_home = len(found)
+
+    ff_body = fetch_retry(FF_FEED_URL, "fashionforward RSS")
+    if ff_body is not None:
+        try:
+            extract_rss(ff_body, FF_HOST, robots_by_host, found, skipped, "Fashion Forward")
+        except ET.ParseError as e:
+            log(f"mako-all: fashionforward RSS unparsable ({e}); continuing without it")
+
     state = load_state()
     pages = state["pages"]
-
     new_urls = []
     for url, it in found.items():
         cur = pages.get(url)
@@ -278,11 +382,17 @@ def cmd_build():
             if it["published_ms"] and not cur.get("published_ms"):
                 cur["published_ms"] = it["published_ms"]
 
-    # anything seen before but never accepted by IndexNow gets retried
-    pending = sorted({u for u in new_urls} | {u for u, p in pages.items() if not p.get("indexnow_ms")})
-    if pending and submit_indexnow(pending):
-        for u in pending:
-            pages[u]["indexnow_ms"] = now_ms
+    # everything never accepted by IndexNow, grouped by host (a host without a key file stays queued)
+    pending = sorted(u for u, p in pages.items() if not p.get("indexnow_ms"))
+    by_host = {}
+    for u in pending:
+        by_host.setdefault(urlsplit(u).netloc, []).append(u)
+    submitted = 0
+    for host, urls in sorted(by_host.items()):
+        if submit_indexnow(host, urls):
+            for u in urls:
+                pages[u]["indexnow_ms"] = now_ms
+            submitted += len(urls)
 
     state["last_run_ms"] = now_ms
     save_state(state)
@@ -292,8 +402,12 @@ def cmd_build():
     if changed:
         (OUT_DIR / "all-build.txt").write_text(str(now_ms), encoding="utf-8")
 
-    log(f"mako-all: found={len(found)} feed={n_items} new={len(new_urls)} "
-        f"submitted={len(pending)} known={len(pages)} changed={changed} "
+    hosts = {}
+    for u in found:
+        hosts[urlsplit(u).netloc] = hosts.get(urlsplit(u).netloc, 0) + 1
+    log(f"mako-all: found={len(found)} (homepage={n_home}, ff_rss={len(found) - n_home}) "
+        f"per_host={hosts} feed={n_items} new={len(new_urls)} submitted={submitted} "
+        f"queued={len(pending) - submitted} known={len(pages)} changed={changed} "
         f"skipped(ad={skipped['ad']}, other_host={skipped['other_host']}, robots={skipped['robots']})")
     for u in new_urls[:25]:
         log(f"  mako-all NEW {u}  {pages[u]['title'][:60]}")
