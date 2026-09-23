@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790140949989,
+ "last_run_ms": 1790141250940,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1364,6 +1364,18 @@
    "published_ms": 1790094840000,
    "section": "ספורט",
    "title": "שווה 18 מיליארד יורו וטרם מצא קבוצה חדשה"
+  },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790141187459,
+   "content_type": "article",
+   "first_seen_ms": 1790141187459,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790140080000,
+   "section": "ספורט",
+   "title": "ריינדרס הודה: \"הלכתי לסעודיה בשביל הכסף\""
   },
   "https://www.mako.co.il/nexter-news/Article-2159d8b1a48c0a1026.htm": {
    "check_attempts": 1,
