@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790146349009,
+ "last_run_ms": 1790146648860,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1533,6 +1533,18 @@
    "section": "ספורט",
    "title": "ריינדרס הודה: \"הלכתי לסעודיה בשביל הכסף\""
   },
+  "https://www.mako.co.il/nexter-news/Article-065aab83efcc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790146587544,
+   "content_type": "article",
+   "first_seen_ms": 1790146587544,
+   "indexable": true,
+   "indexnow_ms": 1790146587544,
+   "published_ms": 1790145660000,
+   "section": "דיגיטל",
+   "title": "בהפרש של 90 דקות: ההכרזות של ענקיות ה-AI"
+  },
   "https://www.mako.co.il/nexter-news/Article-2159d8b1a48c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1819,7 +1831,7 @@
    "indexnow_ms": 1790142867200,
    "published_ms": 1790142300000,
    "section": "צבא וביטחון",
-   "title": "איראן מודה: \"המצור הכלכלי הורס אותנו\" - ומאיימת בתגובה"
+   "title": "ארה\"ב תסכים? התנאי האיראני החדש לסיום המלחמה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-dab9e288978c0a1026.htm": {
    "check_attempts": 1,
@@ -2144,6 +2156,18 @@
    "published_ms": 1789880400000,
    "section": "קשת 12",
    "title": "חיים אתגר על התקיפה שעבר: \"נפגעה לי השמיעה\""
+  },
+  "https://www.mako.co.il/tvbee-articles/Article-50274e0b300c0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790146587544,
+   "content_type": "article",
+   "first_seen_ms": 1790146587544,
+   "indexable": true,
+   "indexnow_ms": 1790146587544,
+   "published_ms": 1790146320000,
+   "section": "תרבות tvbee",
+   "title": "מה אמיתי ומה לא בלהיט של נטפליקס על הרוצחת?"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-0ae556ce12ac0a1027.htm": {
    "check_attempts": 1,
