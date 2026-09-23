@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790190148715,
+ "last_run_ms": 1790190449064,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3020,6 +3020,18 @@
    "published_ms": 1790136840000,
    "section": "",
    "title": "התיעוד המסעיר של טראמפ - והשאלות על מצבו הרפואי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q3/Article-8a5e486426fc0a1026.htm",
+   "checked_ms": 1790190267594,
+   "content_type": "article",
+   "first_seen_ms": 1790190267594,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790186940000,
+   "section": "",
+   "title": "לוחצות על טראמפ: המהלך של המעצמות האירופיות נגד ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
