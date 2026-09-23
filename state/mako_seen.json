@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790158648692,
+ "last_run_ms": 1790158948449,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1833,6 +1833,18 @@
    "section": "",
    "title": "הכלב נבח במשך שעות - בעליו נמצא מת בדירה"
   },
+  "https://www.mako.co.il/men-men_news/Article-b593f6a47bdc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790158827332,
+   "content_type": "article",
+   "first_seen_ms": 1790158827332,
+   "indexable": true,
+   "indexnow_ms": 1790158827332,
+   "published_ms": 1790158620000,
+   "section": "פלילים",
+   "title": "פוענח רצח הישאם חוג'יראת בשפרעם"
+  },
   "https://www.mako.co.il/men-men_news/Article-cb0a36db5a9c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2419,7 +2431,7 @@
    "indexnow_ms": null,
    "published_ms": 1790148480000,
    "section": "חדשות",
-   "title": "ועדת הבחירות פסלה את עופר כסיף, ההחלטה תועבר לבג\"ץ"
+   "title": "ועדת הבחירות פסלה את עופר כסיף ואבו שחאדה"
   },
   "https://www.mako.co.il/special-senses/coltura/Article-4c293f07dc8c0a1027.htm": {
    "check_attempts": 1,
