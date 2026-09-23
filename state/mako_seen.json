@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790163148955,
+ "last_run_ms": 1790163450412,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -479,6 +479,18 @@
    "section": "ספורט",
    "title": "מחפשת מחליף לארד? התוכנית של סטיאווה"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-fe60f11620ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790163387519,
+   "content_type": "article",
+   "first_seen_ms": 1790163387519,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790162880000,
+   "section": "ספורט",
+   "title": "\"סגרתי את הדלת\": הקאמבק לו שרי סירב"
+  },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a65e8f7db4dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -692,6 +704,18 @@
    "published_ms": 1790146500000,
    "section": "סלבס",
    "title": "הרים אותה באוויר: כוכבת הפופ והארוס לוהטים בפורטופינו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-97f6b8186cdc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790163387519,
+   "content_type": "article",
+   "first_seen_ms": 1790163387519,
+   "indexable": true,
+   "indexnow_ms": 1790163387519,
+   "published_ms": 1790163060000,
+   "section": "סלבס",
+   "title": "\"הוא שבור\": ההודעות ששלח השחקן לפני הטרגדיה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-99a9a46665dc0a1026.htm": {
    "check_attempts": 1,
@@ -2157,6 +2181,18 @@
    "section": "דיגיטל",
    "title": "אחרי האייפון: המוצר המסקרן הבא של אפל"
   },
+  "https://www.mako.co.il/nexter-news/Article-f0ce874f78dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790163450412,
+   "content_type": "article",
+   "first_seen_ms": 1790163450412,
+   "indexable": true,
+   "indexnow_ms": 1790163450412,
+   "published_ms": 1790161560000,
+   "section": "דיגיטל",
+   "title": "בן 24 פתר את הבעיה של כל מי שיוצא לטיול הגדול"
+  },
   "https://www.mako.co.il/nexter-reviews/Article-7fc3e926f5ab0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2756,6 +2792,18 @@
    "published_ms": 1790155320000,
    "section": "חופש",
    "title": "בניגוד לכל העולם - המדינה שמצביעה תמיד בעד ישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-f939f11620ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790163387519,
+   "content_type": "article",
+   "first_seen_ms": 1790163387519,
+   "indexable": true,
+   "indexnow_ms": 1790163387519,
+   "published_ms": 1790162340000,
+   "section": "",
+   "title": "משרד החוץ מזהיר ישראלים שנמצאים במדינה הזו"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0b41ab4ad68c0a1027.htm": {
    "check_attempts": 1,
