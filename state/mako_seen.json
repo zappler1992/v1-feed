@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790146948280,
+ "last_run_ms": 1790147265374,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -180,6 +180,18 @@
    "published_ms": 1790015181000,
    "section": "אופנה",
    "title": "זו החולצה המושלמת לעכשיו, והטוויסט המתוחכם הזה הוא בול מה שהיא צריכה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-2690d4f301dc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790147265374,
+   "content_type": "article",
+   "first_seen_ms": 1790147265374,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790146920000,
+   "section": "ספורט",
+   "title": "\"מכבי ת\"א תהיה הסוס השחור של היורוליג\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-7082402644cc0a1026.htm": {
    "check_attempts": 1,
@@ -416,6 +428,18 @@
    "published_ms": 1790144880000,
    "section": "סלבס",
    "title": "אחרי מותו הטרגי: מקורבים לבנה של דוגמנית העל מאשימים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-4d899b77cdcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790147265374,
+   "content_type": "article",
+   "first_seen_ms": 1790147265374,
+   "indexable": true,
+   "indexnow_ms": 1790147265374,
+   "published_ms": 1790146500000,
+   "section": "סלבס",
+   "title": "הרים אותה באוויר: כוכבת הפופ והארוס לוהטים בפורטופינו"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-cd4674d8139c0a1026.htm": {
    "check_attempts": 1,
@@ -1088,6 +1112,18 @@
    "published_ms": 1790049600000,
    "section": "עיצוב הבית",
    "title": "\"ככה אמא שלי הפתיעה את אבא ליום הולדת 50\""
+  },
+  "https://www.mako.co.il/living-diy/maintenance/Article-132cd635aaea0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790147187366,
+   "content_type": "article",
+   "first_seen_ms": 1790147187366,
+   "indexable": true,
+   "indexnow_ms": 1790147187366,
+   "published_ms": 1790146980000,
+   "section": "עיצוב הבית",
+   "title": "הכוסות יוצאות ככה מהמדיח? כך תצילו אותן"
   },
   "https://www.mako.co.il/living-diy/maintenance/Article-85cfa5b4e1830a1027.htm": {
    "check_attempts": 1,
