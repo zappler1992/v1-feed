@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-52e97b3ad3ec0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b7ba80154ec0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2281,7 +2281,8 @@
    "importance": 2,
    "published_ms": 1790148708000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "3 מיליון דולר: גל גדות למען נפגעי 7 באוקטובר",
    "type": "general",
@@ -7460,7 +7461,8 @@
    "importance": 2,
    "published_ms": 1790150520000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בתוך 42 שעות: ההוריקן שהגיע לדרגה הגבוהה ביותר",
    "type": "general",
@@ -7640,7 +7642,8 @@
    "importance": 1,
    "published_ms": 1790146549000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "רצח עשרות, התחפש לאישה והתחבא ביער",
    "type": "general",
@@ -25143,6 +25146,24 @@
    "updated_ms": 1790063520000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b32e4657e7c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/STABBING_MFIX/STABBING_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b7ba80154ec0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשאית מתחמקת - וניידת המשטרה מאגפת אותה מהצד: צפו בתיעוד המרדף שבסופו שני נהגים נעצרו",
+   "duration_s": 26,
+   "first_seen_ms": 1790167346524,
+   "image": "https://img.mako.co.il/2026/09/23/V1_karind_mirdaf_6365_23092026123809_1400_1790167174124_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790167180000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשאית מתחמקת - וניידת המשטרה מאגפת אותה מהצד: צפו בתיעוד המרדף שבסופו שני נהגים נעצרו",
+   "type": "mivzakim",
+   "updated_ms": 1790167180000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6b7ba80154ec0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_mirdaf_6365_23092026123809/V1_karind_mirdaf_6365_23092026123809_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6bf0ac21e2eb0a1027.htm": {
    "author": "מבזקים",
