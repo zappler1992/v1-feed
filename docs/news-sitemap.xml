@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-e15ac69ef9fc0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-23T19:00:00+00:00</news:publication_date>
+<news:title>עוזר מתוק במיוחד: גור גולדן רטריבר &quot;החליף&quot; את המאמנת והוביל סוס בקליפורניה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/23/V1_GOLDENPUPPY_6392_23092026065651_1400_1790189933958_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-a39ef31bd7ec0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1889,14 +1898,5 @@
 <news:title>דיווחים מעזה: בית הותקף במזרח העיר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/21/M_NEWS_15949_21092026072506_1400_1790018798417_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-21T19:00:55+00:00</news:publication_date>
-<news:title>עסקת הענק שתטלטל את הוליווד: פרמאונט רוכשת את וורנר ברוס ב־110 מיליארד דולר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/21/SHIR_HOLIWOOD_210926_1400_1790017248915_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
