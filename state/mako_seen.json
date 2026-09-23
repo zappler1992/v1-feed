@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790155349543,
+ "last_run_ms": 1790155649355,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1220,6 +1220,18 @@
    "published_ms": 1790068140000,
    "section": "HIX",
    "title": "\"שיחק\" באקדח – וירה למוות בחברתו"
+  },
+  "https://www.mako.co.il/hix-special/Article-f816874f78dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790155587331,
+   "content_type": "article",
+   "first_seen_ms": 1790155587331,
+   "indexable": true,
+   "indexnow_ms": 1790155587331,
+   "published_ms": 1790155320000,
+   "section": "HIX",
+   "title": "\"הם חטפו אותי, והם הולכים להרוג אותי\""
   },
   "https://www.mako.co.il/home-family-kids/Article-059d85a4f39c0a1026.htm": {
    "check_attempts": 1,
