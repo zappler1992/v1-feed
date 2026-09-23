@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790145148209,
+ "last_run_ms": 1790145449480,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -909,6 +909,18 @@
    "section": "בריאות",
    "title": "חריג: חטף התקף לב בגיל 100 - וניצל"
   },
+  "https://www.mako.co.il/hix-bizarre/Article-610657abaecc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790145387281,
+   "content_type": "article",
+   "first_seen_ms": 1790145387281,
+   "indexable": true,
+   "indexnow_ms": 1790145387281,
+   "published_ms": 1790145060000,
+   "section": "HIX",
+   "title": "\"בסך הכל שכבתי לידו וליטפתי אותו ליד המיטה\""
+  },
   "https://www.mako.co.il/hix-bizarre/Article-7ad74bb5618c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1268,6 +1280,18 @@
    "published_ms": 1789727700000,
    "section": "",
    "title": "על הבמה בחנוכה: הכוכבים יתחרו על 200 אלף ש\"ח"
+  },
+  "https://www.mako.co.il/makoz-news/Article-cf079b77cdcc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790145267312,
+   "content_type": "article",
+   "first_seen_ms": 1790145267312,
+   "indexable": true,
+   "indexnow_ms": 1790145267312,
+   "published_ms": 1790144880000,
+   "section": "",
+   "title": "כוכבת הרשת משתפת בדמעות"
   },
   "https://www.mako.co.il/makoz-viral/Article-22b0972fb08c0a1026.htm": {
    "check_attempts": 1,
@@ -1927,7 +1951,7 @@
    "indexnow_ms": 1790144787265,
    "published_ms": 1790143740000,
    "section": "",
-   "title": "\"סבל מהזיות וקדח מחום\": תיעוד מחופשת הבלהות"
+   "title": "\"סבלו מהזיות וקדח מחום\": תיעוד מחופשת הבלהות"
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,

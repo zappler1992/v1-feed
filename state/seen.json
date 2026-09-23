@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-5514d2900ecc0a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-d76c906a9ecc0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3522,6 +3522,24 @@
    "updated_ms": 1790054668000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-afed7c17c87c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_christina_6311_22092026052340/V1_christina_6311_22092026052340_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-d76c906a9ecc0a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "חלום של כל מעריץ: ג'סטין ביבר הופיע לפתע מול עוברי אורח בלוס אנג'לס",
+   "duration_s": 59,
+   "first_seen_ms": 1790145445845,
+   "image": "https://img.mako.co.il/2026/09/23/V1_karind_bieber_6347_23092026061840_1400_1790144430184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790144437000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "חלום של כל מעריץ: ג'סטין ביבר הופיע לפתע מול עוברי אורח בלוס אנג'לס",
+   "type": "mivzakim",
+   "updated_ms": 1790144437000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-d76c906a9ecc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_bieber_6347_23092026061840/V1_karind_bieber_6347_23092026061840_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -7433,20 +7451,20 @@
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-5514d2900ecc0a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "בקנדה תובעים את OpenAI: ג'סי ואן רוטסלאר, בת 18, רצחה בפברואר את אמה ואחיה החורג בביתם, המשיכה לבית הספר שבו למדה, שם רצחה חמישה תלמידים וסייעת חינוכית ופצעה עוד עשרות בני אדם. לאחר מכן שמה קץ לחייה. ב-OpenAI הודו שכבר חודשים לפני הטבח זיהו את השיחות המדאיגות שלה עם ChatGPT והשביתו את חשבונה, אך בהמשך התברר שהיא פתחה חשבון חדש והמשיכה לדבר עם הצ'ט. כעת הרשויות בקולומביה הבריטית תובעות את החברה בטענה שהייתה יכולה להתריע למשטרה ולמנוע את הטבח",
    "duration_s": 82,
    "first_seen_ms": 1790144545877,
    "image": "https://img.mako.co.il/2026/09/23/yoav_canada_230926_1400_1790144100987_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1790144109000,
    "sections": [
     "טכנולוגיה"
    ],
-   "title": "",
+   "title": "בקנדה תובעים: הרוצחת דיברה עם הצ'אט לפני הטבח",
    "type": "general",
-   "updated_ms": 1790144109000,
+   "updated_ms": 1790145120000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-5514d2900ecc0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/yoav_canada_230926/MASTER/yoav_canada_230926/yoav_canada_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/FIX_yoav_canada_230926/FIX_yoav_canada_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-5ef6fa1495ac0a1027.htm": {
    "author": "מהעולם",
