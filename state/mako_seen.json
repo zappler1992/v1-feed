@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790171254666,
+ "last_run_ms": 1790171549682,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2240,6 +2240,18 @@
    "published_ms": 1790159940000,
    "section": "מוזיקה",
    "title": "נפצעה קשה בהופעה: \"אני לא מרגישה את כפות הרגליים שלי\""
+  },
+  "https://www.mako.co.il/music-news/Article-fe91f31bd7ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790171426999,
+   "content_type": "article",
+   "first_seen_ms": 1790171426999,
+   "indexable": true,
+   "indexnow_ms": 1790171426999,
+   "published_ms": 1790171160000,
+   "section": "מוזיקה",
+   "title": "הקרב המכוער על ירושת מאות המיליונים של דולי פרטון"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-2186e609c2ec0a1026.htm": {
    "check_attempts": 1,
