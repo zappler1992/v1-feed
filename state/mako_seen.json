@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790146648860,
+ "last_run_ms": 1790146948280,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1964,6 +1964,18 @@
    "published_ms": null,
    "section": "חשוב לדעת",
    "title": ""
+  },
+  "https://www.mako.co.il/travel-israel/Article-0d232d1558db0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790146827424,
+   "content_type": "article",
+   "first_seen_ms": 1790146827424,
+   "indexable": true,
+   "indexnow_ms": 1790146827424,
+   "published_ms": 1790138820000,
+   "section": "חופש",
+   "title": "יקב, מעיין ונוף מדהים: האזור היפה שלא הרבה מכירים"
   },
   "https://www.mako.co.il/travel-israel/Article-2d60291bc85a0a1026.htm": {
    "check_attempts": 1,
