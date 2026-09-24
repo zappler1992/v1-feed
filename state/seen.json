@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ded113e9754d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f4e0fc1e64d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9cc629c2464d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25443,6 +25444,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f4a6b9c124d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_china_6426_24092026035725/V1_karind_china_6426_24092026035725_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f4e0fc1e64d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה פרסמה תיעוד המעצר של דורון ויצמן, החשוד ברצח בקיסריה של ראש המאפיה הקווקזית",
+   "duration_s": 20,
+   "first_seen_ms": 1790271147043,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16153_24092026052747_1400_1790270946919_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790270953000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה פרסמה תיעוד המעצר של דורון ויצמן, החשוד ברצח בקיסריה של ראש המאפיה הקווקזית",
+   "type": "mivzakim",
+   "updated_ms": 1790270953000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f4e0fc1e64d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16153_24092026052747/M_NEWS_16153_24092026052747_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f7a0dbde7cc0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -27160,6 +27179,24 @@
    "updated_ms": 1790092916000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9c259e819c9c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16011_22092026040037/M_NEWS_16011_22092026040037_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9cc629c2464d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רצח ראש \"המאפיה הקווקזית\": המשטרה פרסמה תיעוד  מרגע המעצר של דורון ויצמן - החשוד ברצח בקיסריה",
+   "duration_s": 20,
+   "first_seen_ms": 1790271147043,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_police_6432_24092026052553_1400_1790270827379_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790270834000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רצח ראש \"המאפיה הקווקזית\": המשטרה פרסמה תיעוד  מרגע המעצר של דורון ויצמן - החשוד ברצח בקיסריה",
+   "type": "mivzakim",
+   "updated_ms": 1790270834000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9cc629c2464d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_police_6432_24092026052553/V1_karind_police_6432_24092026052553_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9e7e6a0c5bac0a1027.htm": {
    "author": "מבזקים",
