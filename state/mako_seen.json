@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790274148038,
+ "last_run_ms": 1790274448568,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -552,6 +552,18 @@
    "published_ms": 1790242440000,
    "section": "ספורט",
    "title": "\"כמעט חזרתי למכבי. צלצלתי שעה מאוחר מדי\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-808905ab7a4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790274387246,
+   "content_type": "article",
+   "first_seen_ms": 1790274387246,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790274120000,
+   "section": "ספורט",
+   "title": "איטודיס: \"עשינו לבאיירן חיים קלים\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-88b51a29cddc0a1026.htm": {
    "check_attempts": 1,
