@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790278948217,
+ "last_run_ms": 1790279248534,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -636,6 +636,18 @@
    "published_ms": 1790183580000,
    "section": "ספורט",
    "title": "אופטימי או פסימי? תרחישי עונת הישראליות"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-d32c86bcee4d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790279187618,
+   "content_type": "article",
+   "first_seen_ms": 1790279187618,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790278980000,
+   "section": "ספורט",
+   "title": "\"מופע אימים\": ברשת קוטלים את מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-d3526027d8ec0a1026.htm": {
    "check_attempts": 1,
@@ -1448,6 +1460,18 @@
    "published_ms": 1790254800000,
    "section": "סלבס",
    "title": "80 קילו פחות: אשתו של שלומי יפרח מציגה מהפך"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-c94b5c280e4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790279067971,
+   "content_type": "article",
+   "first_seen_ms": 1790279067971,
+   "indexable": true,
+   "indexnow_ms": 1790279067971,
+   "published_ms": 1790277960000,
+   "section": "סלבס",
+   "title": "אורחים לא צפויים הגיעו: גל רובין חוגגת לבנות"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d4bcfa1495ac0a1027.htm": {
    "check_attempts": 1,
