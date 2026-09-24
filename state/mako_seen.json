@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790249548678,
+ "last_run_ms": 1790249787606,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1244,6 +1244,18 @@
    "published_ms": 1790229000000,
    "section": "סלבס",
    "title": "הרומן הסודי של המלכה אליזבת ואביה של הנסיכה דיאנה נחשף"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-38db124aa13d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790249667547,
+   "content_type": "article",
+   "first_seen_ms": 1790249667547,
+   "indexable": true,
+   "indexnow_ms": 1790249667547,
+   "published_ms": 1790248020000,
+   "section": "כסף",
+   "title": "מה-1.10: השינוי בוואטסאפ שהולך לעלות כסף"
   },
   "https://www.mako.co.il/finances-consumer/Article-5c12ecb39d7c0a1027.htm": {
    "check_attempts": 1,
@@ -3092,6 +3104,18 @@
    "published_ms": 1790223660000,
    "section": "חדשות",
    "title": "מאבק על חייו של נריה לייטר: \"עבר ניתוח מוח ממושך\""
+  },
+  "https://www.mako.co.il/news-money/tech12/Article-900fae29323d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790249787606,
+   "content_type": "article",
+   "first_seen_ms": 1790249787606,
+   "indexable": true,
+   "indexnow_ms": 1790249787606,
+   "published_ms": 1790248920000,
+   "section": "",
+   "title": "החברה הישראלית ששווה כבר 6.4 מיליארד דולר"
   },
   "https://www.mako.co.il/news-money/tech12/Article-e6f8e5bb4fe2f81026.htm": {
    "check_attempts": 1,
