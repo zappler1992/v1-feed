@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790242048719,
+ "last_run_ms": 1790242348510,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2421,6 +2421,18 @@
    "section": "",
    "title": "הדמויות מסדרות הנוער שחייבות לבקש סליחה"
   },
+  "https://www.mako.co.il/makoz-news/Article-2c93a07f592d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790242227114,
+   "content_type": "article",
+   "first_seen_ms": 1790242227114,
+   "indexable": true,
+   "indexnow_ms": 1790242227114,
+   "published_ms": 1790241660000,
+   "section": "",
+   "title": "ההפתעה שקיבלה ליר כהן מבן הזוג"
+  },
   "https://www.mako.co.il/makoz-news/Article-4b14ce1361fa0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3536,6 +3548,18 @@
    "published_ms": 1790142300000,
    "section": "צבא וביטחון",
    "title": "ארה\"ב תסכים? התנאי האיראני החדש לסיום המלחמה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-d98b9b007b2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790242348510,
+   "content_type": "article",
+   "first_seen_ms": 1790242348510,
+   "indexable": true,
+   "indexnow_ms": 1790242348510,
+   "published_ms": 1790241780000,
+   "section": "",
+   "title": "לראשונה מחומת מגן: המהלך החריג של צה\"ל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-dab9e288978c0a1026.htm": {
    "check_attempts": 1,
