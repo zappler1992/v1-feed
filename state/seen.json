@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-200c5b1bc43d0a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3715,11 +3715,11 @@
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-f7a0e931153d0a1026.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
-   "description": "הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת",
+   "description": "הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת.",
    "duration_s": 26,
    "first_seen_ms": 1790252246131,
    "image": "https://img.mako.co.il/2026/09/24/V1_edendor_6414_24092026121033_1400_1790251908462_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790251918000,
    "sections": [],
    "title": "הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת",
@@ -7809,7 +7809,7 @@
    ],
    "title": "השעון מתקתק: החשש שרוסיה עומדת לתקוף את אירופה",
    "type": "general",
-   "updated_ms": 1790251081000,
+   "updated_ms": 1790255580000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-6702cda1143d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Kim_Russia_24092026/MASTER/Kim_Russia_24092026/Kim_Russia_24092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -25289,7 +25289,8 @@
    "importance": 0,
    "published_ms": 1790251477000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "השתוללו בכבישים ביום כיפור והעלו לרשת: ארבעה נהגים אותרו ועוכבו לחקירה בירושלים",
    "type": "mivzakim",
@@ -38526,6 +38527,25 @@
    "updated_ms": 1790085720000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-b6f948a0569c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/dor_bibi_220926/MASTER/dor_bibi_220926/dor_bibi_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "בישראל זה עדיין נשמע די דמיוני, אבל ברחובות סן פרנסיסקו בקליפורניה כבר אפשר לראות כמה חברות של מוניות אוטונומיות, בלי נהג, מסתובבות לגמרי לבד על הכבישים. אז הורדנו את האפליקציה, הזמנו, ויצאנו לנסיעת מבחן מיוחדת.",
+   "duration_s": 69,
+   "first_seen_ms": 1790255846203,
+   "image": "https://img.mako.co.il/2026/09/24/STIV_MONIT_240926_M_1400_1790245549397_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790245556000,
+   "sections": [
+    "חדשות",
+    "הכי Vיראלים"
+   ],
+   "title": "בקרוב אצלנו? יצאנו לנסיעה במונית בלי נהג בסן פרנסיסקו",
+   "type": "general",
+   "updated_ms": 1790245556000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/STIV_MONIT_240926/MASTER/STIV_MONIT_240926_M/STIV_MONIT_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",

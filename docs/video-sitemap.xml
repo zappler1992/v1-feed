@@ -87,7 +87,7 @@
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/24/V1_edendor_6414_24092026121033_1400_1790251908462_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת</video:title>
-<video:description>הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת</video:description>
+<video:description>הרגע החריג בהופעה של עדן בן זקן בחולון: המעריץ התפרץ לבמה והבהיל את הזמרת.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_edendor_6414_24092026121033/V1_edendor_6414_24092026121033_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>26</video:duration>
 <video:publication_date>2026-09-24T12:11:58+00:00</video:publication_date>
@@ -129,6 +129,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -246,6 +247,24 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/24/STIV_MONIT_240926_M_1400_1790245549397_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בקרוב אצלנו? יצאנו לנסיעה במונית בלי נהג בסן פרנסיסקו</video:title>
+<video:description>בישראל זה עדיין נשמע די דמיוני, אבל ברחובות סן פרנסיסקו בקליפורניה כבר אפשר לראות כמה חברות של מוניות אוטונומיות, בלי נהג, מסתובבות לגמרי לבד על הכבישים. אז הורדנו את האפליקציה, הזמנו, ויצאנו לנסיעת מבחן מיוחדת.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/STIV_MONIT_240926/MASTER/STIV_MONIT_240926_M/STIV_MONIT_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>69</video:duration>
+<video:publication_date>2026-09-24T10:25:56+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מיוחד</video:uploader>
+<video:tag>חדשות</video:tag>
+<video:tag>הכי Vיראלים</video:tag>
+<video:tag>מיוחד</video:tag>
 </video:video>
 </url>
 <url>

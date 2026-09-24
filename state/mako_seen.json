@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790255548472,
+ "last_run_ms": 1790255848711,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1053,6 +1053,18 @@
    "section": "תרבות tvbee",
    "title": "הבמאי האגדי של סרטי הפולחן הלך לעולמו"
   },
+  "https://www.mako.co.il/culture-articles/Article-8bc9fc97e62d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255667029,
+   "content_type": "article",
+   "first_seen_ms": 1790255667029,
+   "indexable": true,
+   "indexnow_ms": 1790255667029,
+   "published_ms": 1790254800000,
+   "section": "",
+   "title": "\"היו לי כישלונות בכסף. הפסדתי מיליונים, הם ממש נמחקו\""
+  },
   "https://www.mako.co.il/culture-articles/Article-939cac880c1d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1137,6 +1149,18 @@
    "section": "סלבס",
    "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-2650460facab0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255667029,
+   "content_type": "article",
+   "first_seen_ms": 1790255667029,
+   "indexable": true,
+   "indexnow_ms": 1790255667029,
+   "published_ms": 1790254800000,
+   "section": "",
+   "title": "הנשיקה בפה והפרידה המפתיעה: הסערות של יהודה ומיכל"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-45b743a4ba2d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1208,6 +1232,18 @@
    "published_ms": 1790101680000,
    "section": "הכי חם",
    "title": "חודש אחרי החתונה: הצעד הבא של אמילי דמארי ודניאל עמית"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e4754072753d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255667029,
+   "content_type": "article",
+   "first_seen_ms": 1790255667029,
+   "indexable": true,
+   "indexnow_ms": 1790255667029,
+   "published_ms": 1790254800000,
+   "section": "",
+   "title": "קראו לי \"ברברית, פרחה\". זה לא מפריע לי, זה מחמיא לי"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-edde0b849d8c0a1026.htm": {
    "check_attempts": 1,
@@ -1556,6 +1592,18 @@
    "published_ms": 1790154600000,
    "section": "",
    "title": "בדרך לקריסה? הדרמה שסגרה את השמיים באיראן"
+  },
+  "https://www.mako.co.il/finances-news/Article-d1a569b1933d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255667029,
+   "content_type": "article",
+   "first_seen_ms": 1790255667029,
+   "indexable": true,
+   "indexnow_ms": 1790255667029,
+   "published_ms": 1790254800000,
+   "section": "",
+   "title": "אחת ולתמיד: האם אילת באמת זולה יותר מערים אחרות בארץ?"
   },
   "https://www.mako.co.il/finances-news/Article-fb01c0192edc0a1027.htm": {
    "check_attempts": 1,
@@ -3943,7 +3991,7 @@
    "indexnow_ms": 1790254048396,
    "published_ms": 1790253720000,
    "section": "",
-   "title": "\"הפיר ליד השרון\": ההבהרה החריגה של צה\"ל"
+   "title": "אחרי הודעה שעוררה בהלה: הבהרת צה\"ל על המנהרה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-68811f61762d0a1027.htm": {
    "check_attempts": 1,
@@ -4100,6 +4148,18 @@
    "published_ms": 1790112180000,
    "section": "חדשות",
    "title": "האמירויות התריעו לישראל לפני 7 באוקטובר: \"חמאס יפעל\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-42614ec09f1d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255667029,
+   "content_type": "article",
+   "first_seen_ms": 1790255667029,
+   "indexable": true,
+   "indexnow_ms": 1790255667029,
+   "published_ms": 1790254800000,
+   "section": "",
+   "title": "\"גדי איזנקוט ואני יכולנו להיות חברים\""
   },
   "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
    "check_attempts": 1,
