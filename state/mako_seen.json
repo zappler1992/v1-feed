@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790245648530,
+ "last_run_ms": 1790245948246,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1004,6 +1004,18 @@
    "published_ms": 1790163960000,
    "section": "סלבס",
    "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-45b743a4ba2d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790245827315,
+   "content_type": "article",
+   "first_seen_ms": 1790245827315,
+   "indexable": true,
+   "indexnow_ms": 1790245827315,
+   "published_ms": 1790245380000,
+   "section": "סלבס",
+   "title": "ב-30 מיליון: המהלך של האקס של טיילור מלכוב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
@@ -3260,6 +3272,18 @@
    "published_ms": 1790151720000,
    "section": "דיגיטל",
    "title": "אחרי האייפון: המוצר המסקרן הבא של אפל"
+  },
+  "https://www.mako.co.il/nexter-news/Article-e693e3cfa32d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790245827315,
+   "content_type": "article",
+   "first_seen_ms": 1790245827315,
+   "indexable": true,
+   "indexnow_ms": 1790245827315,
+   "published_ms": 1790233920000,
+   "section": "דיגיטל",
+   "title": "גייסו 400 מיליון ושווים כבר 6.4 מיליארד דולר"
   },
   "https://www.mako.co.il/nexter-news/Article-f0ce874f78dc0a1027.htm": {
    "check_attempts": 1,
