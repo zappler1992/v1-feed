@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-25c952f0c94d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2ffa05ab7a4d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25518,6 +25519,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f7a0dbde7cc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_scroll_6339_23092026042322/V1_scroll_6339_23092026042322_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2ffa05ab7a4d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שולחן המשלחת האיראנית בזמן נאום נתניהו באו\"ם",
+   "duration_s": 9,
+   "first_seen_ms": 1790274745762,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16156_24092026062614_1400_1790274462441_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790274468000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שולחן המשלחת האיראנית בזמן נאום נתניהו באו\"ם",
+   "type": "mivzakim",
+   "updated_ms": 1790274468000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2ffa05ab7a4d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16156_24092026062614/M_NEWS_16156_24092026062614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3027d8f122ec0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -28628,6 +28647,24 @@
    "updated_ms": 1790100600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e9c314a114ac0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_trumpiranshaot_6332_22092026060642/V1_trumpiranshaot_6332_22092026060642_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"זוכרים את הביפרים? בחיזבאללה בהחלט זוכרים אותם\": נתניהו מתייחס למבצע בלבנון בנאומו באו\"ם",
+   "duration_s": 26,
+   "first_seen_ms": 1790274745762,
+   "image": "https://img.mako.co.il/2026/09/24/V1_beeper_6436_24092026062516_1400_1790274391948_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790274400000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"זוכרים את הביפרים? בחיזבאללה בהחלט זוכרים אותם\": נתניהו מתייחס למבצע בלבנון בנאומו באו\"ם",
+   "type": "mivzakim",
+   "updated_ms": 1790274400000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_beeper_6436_24092026062516/V1_beeper_6436_24092026062516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ed3fd8f122ec0a1026.htm": {
    "author": "מבזקים",
