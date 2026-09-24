@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790281348367,
+ "last_run_ms": 1790281648673,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -780,6 +780,18 @@
    "published_ms": 1790251740000,
    "section": "ספורט",
    "title": "בשל פציעה: אבו פאני שוחרר מהנבחרת"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9765f050b05d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790281648673,
+   "content_type": "article",
+   "first_seen_ms": 1790281648673,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790281380000,
+   "section": "ספורט",
+   "title": "\"ההרחקה של אבו פרחי מהטיפשיות אי פעם\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-caad3780b7dc0a1026.htm": {
    "check_attempts": 1,
