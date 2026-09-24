@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-ba7cc68f023d0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T11:17:46+00:00</news:publication_date>
+<news:title>גשם מטורף, סופות רעמים, רוחות וחשש לשטפונות: מזג אוויר סוער תועד במקסיקו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_NOAY_MIVGESHEM_240926_6411_24092026111626_1400_1790248659342_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8132fb86403d0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1853,23 +1862,5 @@
 <news:title>מאבד שליטה בפנייה ומתנגש בעמוד: תיעוד התאונה הבוקר ברהט - צעיר כבן 20 נפצע קשה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/M_NEWS_16000_22092026112349_1400_1790076295010_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-2f541dd3888c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T11:22:00+00:00</news:publication_date>
-<news:title>מאריכים את מצב החירום בישראל - &quot;סבירות גבוהה למתקפה&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/ASAF_EMERGEMCY_22092026_M_1400_1790071211524_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be5938d36d8c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T11:18:46+00:00</news:publication_date>
-<news:title>נתניהו נגד ממדאני: &quot;אני בא לאו״ם כדי להילחם על האמת של החיילים הגיבורים שלנו - וכדי לחשוף את האמת על</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/M_NEWS_15997_22092026111717_1400_1790075920275_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

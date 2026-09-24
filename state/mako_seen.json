@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790248648242,
+ "last_run_ms": 1790248948645,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1027,7 +1027,7 @@
    "indexnow_ms": 1790245827315,
    "published_ms": 1790245380000,
    "section": "סלבס",
-   "title": "ב-30 מיליון: המהלך של האקס של טיילור מלכוב"
+   "title": "אחרי הפרידה: הצעד הבא של האקס של טיילור מלכוב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
@@ -1903,7 +1903,7 @@
    "indexnow_ms": 1790229448104,
    "published_ms": 1790228220000,
    "section": "בריאות",
-   "title": "כמה דקות שיכולות להציל חיים: אל תתעלמו מגורמי הסיכון"
+   "title": "האם את בסיכון מוגבר: השאלון שעשוי להציל חיים"
   },
   "https://www.mako.co.il/health-news/Article-6631022e848c0a1027.htm": {
    "check_attempts": 1,
@@ -1988,6 +1988,18 @@
    "published_ms": 1790161680000,
    "section": "HIX",
    "title": "נולדו כשהן מחוברות בראש, והופרדו אחרי שנתיים"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-4761124aa13d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790248827504,
+   "content_type": "article",
+   "first_seen_ms": 1790248827504,
+   "indexable": true,
+   "indexnow_ms": 1790248827504,
+   "published_ms": 1790248620000,
+   "section": "HIX",
+   "title": "בלשים גילו את הסוד שלה, והיא נעצרה באיסטנבול"
   },
   "https://www.mako.co.il/hix-bizarre/Article-610657abaecc0a1026.htm": {
    "check_attempts": 1,
@@ -2888,6 +2900,18 @@
    "published_ms": 1790089800000,
    "section": "פלילים",
    "title": "לינור ששון פונתה מנווה תרצה אחרי שלקתה בשבץ"
+  },
+  "https://www.mako.co.il/men-men_news/Article-d188ae29323d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790248948645,
+   "content_type": "article",
+   "first_seen_ms": 1790248948645,
+   "indexable": true,
+   "indexnow_ms": 1790248948645,
+   "published_ms": 1790248680000,
+   "section": "פלילים",
+   "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,
@@ -3872,6 +3896,18 @@
    "published_ms": 1789559940000,
    "section": "SENSES",
    "title": "בניתם על האייפון המתקפל? תהיו מוכנים להסתער"
+  },
+  "https://www.mako.co.il/special-senses/future/Article-e693e3cfa32d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/nexter-news/Article-e693e3cfa32d0a1027.htm",
+   "checked_ms": 1790248827504,
+   "content_type": "article",
+   "first_seen_ms": 1790248827504,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790233920000,
+   "section": "SENSES",
+   "title": "גייסו 400 מיליון ושווים כבר 6.4 מיליארד דולר"
   },
   "https://www.mako.co.il/spirituality-newage/horoscope": {
    "check_attempts": 1,
