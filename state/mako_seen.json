@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790225849278,
+ "last_run_ms": 1790227349677,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1699,7 +1699,7 @@
    "indexnow_ms": 1790166387647,
    "published_ms": 1790166180000,
    "section": "HIX",
-   "title": "עורכת הדין הגיעה לדיון בשמלה – וחטפה נזיפה"
+   "title": "עורכת הדין הגיעה לדיון בשמלה, השופטת הגיבה בצורה חריגה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-7ad74bb5618c0a1027.htm": {
    "check_attempts": 1,
@@ -1807,7 +1807,7 @@
    "indexnow_ms": 1790169749218,
    "published_ms": 1790169540000,
    "section": "HIX",
-   "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, עד שהאמת נחשפה"
+   "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, והכל נחשף"
   },
   "https://www.mako.co.il/hix-special/Article-c7d14e8291ec0a1026.htm": {
    "check_attempts": 1,
@@ -2637,6 +2637,18 @@
    "section": "ספורט",
    "title": "נחשף: השכר הממוצע לשחקן בליגת העל"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-ed9461da751d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790227227583,
+   "content_type": "article",
+   "first_seen_ms": 1790227227583,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790226660000,
+   "section": "ספורט",
+   "title": "יפספס מיליונים: סנטוס לא ישחק ב-NCAA"
+  },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2732,6 +2744,18 @@
    "published_ms": 1790081100000,
    "section": "דיגיטל",
    "title": "עקף את ChatGPT בקצב ההורדות: הלהיט החדש ברשת"
+  },
+  "https://www.mako.co.il/nexter-news/Article-b22b4e8291ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790227107584,
+   "content_type": "article",
+   "first_seen_ms": 1790227107584,
+   "indexable": true,
+   "indexnow_ms": 1790227107584,
+   "published_ms": 1790226780000,
+   "section": "דיגיטל",
+   "title": "כוכבי הרשת שמרוויחים מיליונים מהטרנד החם"
   },
   "https://www.mako.co.il/nexter-news/Article-b26560a4c09c0a1026.htm": {
    "check_attempts": 1,
@@ -3079,7 +3103,7 @@
    "indexnow_ms": 1790225067053,
    "published_ms": 1790222400000,
    "section": "",
-   "title": "החזית שטורקיה מתחזקת בה - והברית שישראל בונה נגדה"
+   "title": "לא מסתתרות: המדינות שאיתן פועלת ישראל נגד טורקיה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
@@ -3333,6 +3357,18 @@
    "section": "",
    "title": "קירות מתקלפים וזבל: מה קרה לבית המלון המפואר שננטש"
   },
+  "https://www.mako.co.il/travel-israel/Article-eab72d9c969b0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790227107584,
+   "content_type": "article",
+   "first_seen_ms": 1790227107584,
+   "indexable": true,
+   "indexnow_ms": 1790227107584,
+   "published_ms": 1790226900000,
+   "section": "חופש",
+   "title": "אווירה של חו\"ל: המקום הזה הוא סוד שמור במרכז הארץ"
+  },
   "https://www.mako.co.il/travel-news/Article-bc93e0e54cfc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3548,6 +3584,18 @@
    "published_ms": 1790051640000,
    "section": "חופש",
    "title": "חבילת הנופש הכי זולה שנשארה בסוכות"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790227107584,
+   "content_type": "article",
+   "first_seen_ms": 1790227107584,
+   "indexable": true,
+   "indexnow_ms": 1790227107584,
+   "published_ms": 1790224440000,
+   "section": "חופש",
+   "title": "כבר לא אותו הדבר: המלון המוכר בצפון שינה את השם שלו"
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-b52a9baec2ea0a1026.htm": {
    "check_attempts": 1,
