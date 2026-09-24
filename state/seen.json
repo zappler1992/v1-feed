@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6dba52925c1d0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-151a52925c1d0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e33652925c1d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2225,7 +2224,8 @@
    "published_ms": 1790176347000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי Vיראלים"
    ],
    "title": "הסערה החדשה ברשת: השמלה המוזרה של פמלה אנדרסון - \"היא לבשה וילון?\"",
    "type": "general",
@@ -9454,7 +9454,8 @@
    "published_ms": 1790088600000,
    "sections": [
     "כשהגלים מתחזקים 2",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 41: נפלתי חזק",
    "type": "series",
@@ -17175,6 +17176,22 @@
    "updated_ms": 1790146020000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e1732b6335ac0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/SHIRA_DVORI_220926/MASTER/SHIRA_DVORI_220926_M/SHIRA_DVORI_220926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e33652925c1d0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מה חיפשו שלושה בני אדם בביוב ליד המלון שבו צפוי לשהות נתניהו? רגע לפני עצרת האו\"ם בניו יורק, השלושה נצפו יוצאים מפתח ביוב סמוך למלון. בשלב הזה לא ברור אם יש קשר לביקור נתניהו, והמשטרה פתחה בחקירה.",
+   "duration_s": 54,
+   "first_seen_ms": 1790228246830,
+   "image": "https://img.mako.co.il/2026/09/24/yoav_BB_240926_1400_1790226694180_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790226960000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1790226960000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e33652925c1d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/yoav_BB_240926/MASTER/yoav_BB_240926/yoav_BB_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-f10b4853cddc0a1027.htm": {
    "author": "חדשות",
@@ -37702,7 +37719,8 @@
    "published_ms": 1789645346000,
    "sections": [
     "מאחורי הגלים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשידין גילה שתומר ומיה בזוגיות",
    "type": "general",
@@ -43554,7 +43572,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי Vיראלים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "התיעוד מאוקראינה שמיליונים צפו בו: במגבת על המרפסת באודסה - בתוך הבניין שהותקף והתפוצץ",
    "type": "mivzakim",
@@ -44525,7 +44544,8 @@
    "published_ms": 1790172078000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "רגעים אחרי ההמראה: מטוס חיל האוויר הבריטי התרסק סמוך לבסיס צבאי באנגלסי, ויילס | תיעוד",
    "type": "mivzakim",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790227949568,
+ "last_run_ms": 1790228249992,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1640,6 +1640,18 @@
    "published_ms": 1790067000000,
    "section": "בריאות",
    "title": "ההרה חזרה מחופשה חולה בנגיף: \"בסכנת חיים\""
+  },
+  "https://www.mako.co.il/health-news/Article-67923654e1dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790228067784,
+   "content_type": "article",
+   "first_seen_ms": 1790228067784,
+   "indexable": true,
+   "indexnow_ms": 1790228067784,
+   "published_ms": 1790227920000,
+   "section": "בריאות",
+   "title": "בגיל 30 או 90 - כמה קפה כדאי לשתות ביום?"
   },
   "https://www.mako.co.il/health-news/Article-85929d28b97c0a1027.htm": {
    "check_attempts": 1,

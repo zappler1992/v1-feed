@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e33652925c1d0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T05:16:00+00:00</news:publication_date>
+<news:title>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e33652925c1d0a1026.htm</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/yoav_BB_240926_1400_1790226694180_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6dba52925c1d0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1889,14 +1898,5 @@
 <news:title>אירוע מחריד בהודו: קוף דחף אישה בת 91 על הקרקע - והרג אותה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/V1_MONKEY_6312_22092026055018_1400_1790056296133_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-b118a965a97c0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T05:33:01+00:00</news:publication_date>
-<news:title>צמודים בבוורלי הילס: דני לוי והחבר שצעיר ממנה ב-14 שנה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/Kim_Danilevi_22092026_1400_1790055174798_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
