@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790252849119,
+ "last_run_ms": 1790253148316,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2085,6 +2085,18 @@
    "section": "בריאות",
    "title": "חריג: חטף התקף לב בגיל 100 - וניצל"
   },
+  "https://www.mako.co.il/health-news/Article-d393fd86953d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790253148316,
+   "content_type": "article",
+   "first_seen_ms": 1790253148316,
+   "indexable": true,
+   "indexnow_ms": 1790253148316,
+   "published_ms": 1790252640000,
+   "section": "בריאות",
+   "title": "נקבע מותו של בן ה-9 שנדבק ב\"אמבה אוכלת מוח\""
+  },
   "https://www.mako.co.il/hix-bizarre/Article-06074ddddedc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2515,7 +2527,7 @@
    "indexnow_ms": 1790246564333,
    "published_ms": 1790243880000,
    "section": "עיצוב הבית",
-   "title": "המותג היוקרתי הגיע לרשת הסטוק ועורר סערה"
+   "title": "\"600 שקל לקומקום? מי הפראייר?\""
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-2f611eda56ec0a1027.htm": {
    "check_attempts": 1,
