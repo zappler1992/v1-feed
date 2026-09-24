@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790254048396,
+ "last_run_ms": 1790254348429,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -517,6 +517,18 @@
    "section": "ספורט",
    "title": "פארקר בפאניקה: \"אנחנו לא מוכנים למכבי\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790254348429,
+   "content_type": "article",
+   "first_seen_ms": 1790254348429,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790254080000,
+   "section": "ספורט",
+   "title": "\"חלאילי יותר ממוכן להוביל אותנו ליורו\""
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-1c8ec0d43dec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1003,7 +1015,7 @@
    "indexnow_ms": 1790252548816,
    "published_ms": 1790252160000,
    "section": "תרבות tvbee",
-   "title": "הבמאי האגדי של \"אבא גנוב\" הלך לעולמו"
+   "title": "הבמאי האגדי של סרטי הפולחן הלך לעולמו"
   },
   "https://www.mako.co.il/culture-articles/Article-939cac880c1d0a1027.htm": {
    "check_attempts": 1,
@@ -1688,6 +1700,18 @@
    "published_ms": null,
    "section": "נדל\"ן",
    "title": "האם פרויקטים להשכרה עדיין משתלמים?"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-c5865b1bc43d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790254348429,
+   "content_type": "article",
+   "first_seen_ms": 1790254348429,
+   "indexable": true,
+   "indexnow_ms": 1790254348429,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "מינוף הגבוה הכריע: אפי מוכרת שטח ברעננה כעת"
   },
   "https://www.mako.co.il/finances-real-estate/Article-cd2959e5cf8c0a1027.htm": {
    "check_attempts": 1,
@@ -2792,6 +2816,18 @@
    "published_ms": 1790218800000,
    "section": "",
    "title": "האב לא ענה לטלפונים, הבן הגיע לביתו - וגילה את הזוועה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-0b56e288263d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790254348429,
+   "content_type": "article",
+   "first_seen_ms": 1790254348429,
+   "indexable": true,
+   "indexnow_ms": 1790254348429,
+   "published_ms": 1790253540000,
+   "section": "פלילים",
+   "title": "הסולחה המפתיעה של ראשי ארגוני הפשע בצפון"
   },
   "https://www.mako.co.il/men-men_news/Article-0f59d8b1a48c0a1026.htm": {
    "check_attempts": 1,
