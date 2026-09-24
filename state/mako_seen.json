@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790219548670,
+ "last_run_ms": 1790219848892,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -288,6 +288,18 @@
    "published_ms": 1790165100000,
    "section": "ספורט",
    "title": "מעל קיירי ובאם: הדירוג של אבדיה ב-ESPN"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-10af61da751d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790219786669,
+   "content_type": "article",
+   "first_seen_ms": 1790219786669,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790219520000,
+   "section": "ספורט",
+   "title": "עם סגל מלא לקטש: מכבי ת\"א פותחת עונה"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-258a549085dc0a1027.htm": {
    "check_attempts": 1,
