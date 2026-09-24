@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790273549819,
+ "last_run_ms": 1790273848708,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -457,6 +457,18 @@
    "section": "ספורט",
    "title": "נראים מצוין: צפו בצמד החדש של הפועל ת\"א"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-35fd52f0c94d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790273787308,
+   "content_type": "article",
+   "first_seen_ms": 1790273787308,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790273520000,
+   "section": "ספורט",
+   "title": "ניסו להפתיע, וכשלו: המהלך האחרון בהפועל"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-4281ecc97e2d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -612,6 +624,18 @@
    "published_ms": 1790172120000,
    "section": "ספורט",
    "title": "פארקר בפאניקה: \"אנחנו לא מוכנים למכבי\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-e80e52f0c94d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790273848708,
+   "content_type": "article",
+   "first_seen_ms": 1790273848708,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790273520000,
+   "section": "ספורט",
+   "title": "\"בראיינט לא הורגש. יש להפועל ת\"א בעיות\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -4411,7 +4435,7 @@
    "indexnow_ms": 1790196027080,
    "published_ms": 1790195760000,
    "section": "",
-   "title": "קריאות \"עם ישראל חי\", נציגים עזבו: נתניהו נואם באו\"ם"
+   "title": "\"השמדת מתקני הגרעין הייתה קשה, אבל החלטה קלה עבורי\""
   },
   "https://www.mako.co.il/special-mako-news/Article-2d58fa1495ac0a1027.htm": {
    "check_attempts": 1,
