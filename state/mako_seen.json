@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790239948487,
+ "last_run_ms": 1790240248179,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2060,6 +2060,18 @@
    "published_ms": 1790164680000,
    "section": "HIX",
    "title": "\"אנחנו חושבים שמשהו לא היה בסדר כשזה קרה\""
+  },
+  "https://www.mako.co.il/hix-special/Article-cf57a07f592d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790240186981,
+   "content_type": "article",
+   "first_seen_ms": 1790240186981,
+   "indexable": true,
+   "indexnow_ms": 1790240186981,
+   "published_ms": 1790239920000,
+   "section": "HIX",
+   "title": "כתב \"פוטין שמוק\" על פתק בחירות, ונענש בחומרה"
   },
   "https://www.mako.co.il/hix-special/Article-ec33cf13758c0a1027.htm": {
    "check_attempts": 1,
