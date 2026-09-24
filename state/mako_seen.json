@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790281048569,
+ "last_run_ms": 1790281348367,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -685,6 +685,18 @@
    "section": "ספורט",
    "title": "\"חלאילי יותר ממוכן להוביל אותנו ליורו\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0d9ef050b05d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790281348367,
+   "content_type": "article",
+   "first_seen_ms": 1790281348367,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790280960000,
+   "section": "ספורט",
+   "title": "הסעיף בחוקת הכדורגל בגללו אבו פרחי הורחק"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-17f651e5af4d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1255,7 +1267,7 @@
    "indexnow_ms": 1790255248422,
    "published_ms": 1790255040000,
    "section": "תרבות tvbee",
-   "title": "חוזר לצה\"ל: התפקיד החדש של שחר חסון"
+   "title": "התפקיד החדש של שחר חסון - ומי שתככב לצדו"
   },
   "https://www.mako.co.il/culture-articles/Article-880142a42d2d0a1026.htm": {
    "check_attempts": 1,
@@ -5084,6 +5096,18 @@
    "published_ms": 1789880400000,
    "section": "קשת 12",
    "title": "\"הפחד הכי גדול היה להגיע לניתוח קיסרי חירום\""
+  },
+  "https://www.mako.co.il/tv-exposure/articles/Article-617986bcee4d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790281348367,
+   "content_type": "article",
+   "first_seen_ms": 1790281348367,
+   "indexable": true,
+   "indexnow_ms": 1790281348367,
+   "published_ms": 1790280120000,
+   "section": "חדשות",
+   "title": "\"הוא ננטש\": המיליארדר שתרם לכולם ונשאר לבד מדבר"
   },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-54734b0c63f90a1026.htm": {
    "check_attempts": 1,
