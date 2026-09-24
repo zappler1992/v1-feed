@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790252548816,
+ "last_run_ms": 1790252849119,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -276,6 +276,18 @@
    "published_ms": 1790015181000,
    "section": "אופנה",
    "title": "זו החולצה המושלמת לעכשיו, והטוויסט המתוחכם הזה הוא בול מה שהיא צריכה"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-485d83fde53d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790252786835,
+   "content_type": "article",
+   "first_seen_ms": 1790252786835,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790252640000,
+   "section": "ספורט",
+   "title": "סורקין סיכם על חוזה חדש ומשודרג במכבי"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-56f9f6a47bdc0a1027.htm": {
    "check_attempts": 1,
@@ -991,7 +1003,7 @@
    "indexnow_ms": 1790252548816,
    "published_ms": 1790252160000,
    "section": "תרבות tvbee",
-   "title": "הבמאי האגדי של \"אבא גנוב\" הלך לעולמו"
+   "title": "הבמאי האגדי של \"אבא גנוב\" ו\"מתחת לאף\" הלך לעולמו"
   },
   "https://www.mako.co.il/culture-articles/Article-939cac880c1d0a1027.htm": {
    "check_attempts": 1,
@@ -3031,7 +3043,7 @@
    "indexnow_ms": 1790248948645,
    "published_ms": 1790248680000,
    "section": "פלילים",
-   "title": "\"ערן לא מתכוון לשבת יום אחד בכלא הישראלי\""
+   "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,

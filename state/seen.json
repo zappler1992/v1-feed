@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-f7a0e931153d0a1026.htm"
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-a94ee09caf2d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-80c5fd86953d0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9fccfd86953d0a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-7127cda1143d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4529,6 +4532,22 @@
    "updated_ms": 1790065163000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-4032e25ed28c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/yonatan_tamar_2209/MASTER/yonatan_tamar_2209_m/yonatan_tamar_2209_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-a94ee09caf2d0a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "הבמאי והמפיק המיתולוגי יעקב גולדווסר, שאחראי לכמה מהסרטים הישראליים שכולנו מכירים, בהם \"אבא גנוב\", \"מתחת לאף\" ו\"מעבר לים\", הלך לעולמו בגיל 76",
+   "duration_s": 39,
+   "first_seen_ms": 1790252846123,
+   "image": "https://img.mako.co.il/2026/09/24/FIX_yoav_jacob_240926_1400_1790248068411_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790252580000,
+   "sections": [],
+   "title": "בגיל 76: הבמאי המיתולוגי יעקב גולדווסר הלך לעולמו",
+   "type": "general",
+   "updated_ms": 1790252580000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-a94ee09caf2d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/FIX_yoav_jacob_240926/FIX_yoav_jacob_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -26312,6 +26331,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-804969d3bc4c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15935_21092026042825/M_NEWS_15935_21092026042825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-80c5fd86953d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל בהבהרה על הפיר בקלקיליה: \"בניגוד להודעות רשמיות ולא אחראיות שיצאו בנושא, בתום חקר נשללה הימצאות",
+   "duration_s": 9,
+   "first_seen_ms": 1790252846123,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16137_24092026122415_1400_1790252736710_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790252743000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל בהבהרה על הפיר בקלקיליה: \"בניגוד להודעות רשמיות ולא אחראיות שיצאו בנושא, בתום חקר נשללה הימצאות",
+   "type": "mivzakim",
+   "updated_ms": 1790252743000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-80c5fd86953d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16137_24092026122415/M_NEWS_16137_24092026122415_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8132fb86403d0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -26818,6 +26855,24 @@
    "updated_ms": 1790240963000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f97d7c44a2d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_AZHARA_BRIUT_6407_24092026090737/V1_AZHARA_BRIUT_6407_24092026090737_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9fccfd86953d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרגדיה: נפטר בן ה-9 ששחה בכינרת ולקה ב\"אמבה אוכלת מוח\"",
+   "duration_s": 7,
+   "first_seen_ms": 1790252846123,
+   "image": "https://img.mako.co.il/2026/09/24/V1_AMEBA_6415_24092026122043_1400_1790252497850_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790252513000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרגדיה: נפטר בן ה-9 ששחה בכינרת ולקה ב\"אמבה אוכלת מוח\"",
+   "type": "mivzakim",
+   "updated_ms": 1790252513000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9fccfd86953d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_AMEBA_6415_24092026122043/V1_AMEBA_6415_24092026122043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a017f6dc5f4c0a1026.htm": {
    "author": "מבזקים",
@@ -38365,6 +38420,24 @@
    "updated_ms": 1790155641000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-3d053a8019dc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/NOAB_MAYA_GIL_230926_FIX/NOAB_MAYA_GIL_230926_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-7127cda1143d0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "די ג'יי דרוויש הגיע להתארח בפודקאסט של רומי גונן שם סיפר על היצירה מתוך השכול, הבחירה להמשיך בטראנס גם אחרי שבנו נרצח בנובה ומשמעות החיבור למוזיקה",
+   "duration_s": 64,
+   "first_seen_ms": 1790252846123,
+   "image": "https://img.mako.co.il/2026/09/24/Amit_ROMI_DARWISH_M_1400_1790251151930_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790251158000,
+   "sections": [
+    "רומי גונן: הפודקאסט"
+   ],
+   "title": "החיים החדשים של רומי גונן: די ג'יי דרוויש",
+   "type": "general",
+   "updated_ms": 1790251158000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-7127cda1143d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Amit_ROMI_DARWISH/MASTER/Amit_ROMI_DARWISH_M/Amit_ROMI_DARWISH_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-b6f948a0569c0a1026.htm": {
    "author": "מיוחד",
