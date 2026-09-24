@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790269949175,
+ "last_run_ms": 1790270249334,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -432,6 +432,18 @@
    "published_ms": 1790254920000,
    "section": "ספורט",
    "title": "תחזית מומחי ערוץ הספורט לעונת היורוליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-328390ac064d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790270187056,
+   "content_type": "article",
+   "first_seen_ms": 1790270187056,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790269860000,
+   "section": "ספורט",
+   "title": "נראים מצוין: צפו בצמד החדש של הפועל ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-4281ecc97e2d0a1026.htm": {
    "check_attempts": 1,
