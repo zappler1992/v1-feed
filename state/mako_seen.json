@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790229448104,
+ "last_run_ms": 1790229748405,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1581,6 +1581,18 @@
    "section": "הכי חם",
    "title": "פחות ממשולש פיצה: מצאנו את הקבב הכי זול בארץ"
   },
+  "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-f8140209869a0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790229626787,
+   "content_type": "article",
+   "first_seen_ms": 1790229626787,
+   "indexable": true,
+   "indexnow_ms": 1790229626787,
+   "published_ms": 1790220600000,
+   "section": "",
+   "title": "הייתם משלמים על צלחת שווארמה 90 שקל?"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-46c621542aea0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2827,7 +2839,7 @@
    "indexnow_ms": 1790227107584,
    "published_ms": 1790226780000,
    "section": "דיגיטל",
-   "title": "כוכבי הרשת מרוויחים מיליונים מהטרנד החם בטיקטוק"
+   "title": "כוכבי הרשת שמרוויחים מיליונים מהטרנד החם"
   },
   "https://www.mako.co.il/nexter-news/Article-b26560a4c09c0a1026.htm": {
    "check_attempts": 1,
@@ -3656,6 +3668,18 @@
    "published_ms": 1790051640000,
    "section": "חופש",
    "title": "חבילת הנופש הכי זולה שנשארה בסוכות"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-afc6b05b6bfc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790229748405,
+   "content_type": "article",
+   "first_seen_ms": 1790229748405,
+   "indexable": true,
+   "indexnow_ms": 1790229748405,
+   "published_ms": 1790224800000,
+   "section": "חופש",
+   "title": "זה המטוס הלא רגיל שהחזיר את החולים מסיישל"
   },
   "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
    "check_attempts": 1,
