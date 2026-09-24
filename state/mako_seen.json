@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790244449600,
+ "last_run_ms": 1790244748508,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2984,6 +2984,18 @@
    "published_ms": 1790223660000,
    "section": "חדשות",
    "title": "מאבק על חייו של נריה לייטר: \"עבר ניתוח מוח ממושך\""
+  },
+  "https://www.mako.co.il/news-money/tech12/Article-e6f8e5bb4fe2f81026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.globes.co.il/news/article.aspx",
+   "checked_ms": 1790244507185,
+   "content_type": "article",
+   "first_seen_ms": 1790244507185,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1714508400000,
+   "section": "דיגיטל",
+   "title": "הסטארט-אפ הישראלי ששווה כבר 3 מיליארד דולר"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-01a0fc97e62d0a1026.htm": {
    "check_attempts": 1,
