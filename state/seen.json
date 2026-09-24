@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2d4161da751d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-975461da751d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3646,7 +3646,8 @@
    "importance": 0,
    "published_ms": 1790186953000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"מכור אליה\": כוכב הרשת אביתר עוזרי בזוגיות עם כוכבת הריאליטי ענבל אלדן",
    "type": "mivzakim",
@@ -17144,7 +17145,9 @@
    "image": "https://img.mako.co.il/2026/09/23/biata_rashitneriya_230926_1400_1790196420475_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790196427000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "נריה לייטר: הפצוע הקשה בפיגוע הדריסה",
    "type": "news",
    "updated_ms": 1790198880000,
@@ -26143,6 +26146,24 @@
    "updated_ms": 1790016968000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-96d5f36d745c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15945_21092026065447/M_NEWS_15945_21092026065447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-975461da751d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מפקד הצוללת אח\"י דרקון, שתגיע היום לישראל: \"אחרי כמעט חודש בלב ים, אין גאים ומתרגשים מאיתנו לראות את",
+   "duration_s": 51,
+   "first_seen_ms": 1790220746382,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16095_24092026032757_1400_1790220566184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790220577000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מפקד הצוללת אח\"י דרקון, שתגיע היום לישראל: \"אחרי כמעט חודש בלב ים, אין גאים ומתרגשים מאיתנו לראות את",
+   "type": "mivzakim",
+   "updated_ms": 1790220577000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-975461da751d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16095_24092026032757/M_NEWS_16095_24092026032757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-98d6d6000aec0a1026.htm": {
    "author": "מבזקים",
