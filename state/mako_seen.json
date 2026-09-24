@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790231248462,
+ "last_run_ms": 1790231548949,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1640,6 +1640,18 @@
    "published_ms": 1790055060000,
    "section": "בריאות",
    "title": "למה הגב כואב דווקא בחגים – ומה כדאי לעשות"
+  },
+  "https://www.mako.co.il/health-news/Article-08ac4fe2012d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790231548949,
+   "content_type": "article",
+   "first_seen_ms": 1790231548949,
+   "indexable": true,
+   "indexnow_ms": 1790231548949,
+   "published_ms": 1790230860000,
+   "section": "בריאות",
+   "title": "בת 12 לא התעוררה משנתה – נקבע מותה"
   },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
