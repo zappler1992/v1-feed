@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790255248422,
+ "last_run_ms": 1790255548472,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -397,6 +397,18 @@
    "section": "ספורט",
    "title": "\"מכבי ת\"א תהיה הסוס השחור של היורוליג\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-2d6b7f51483d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790255427002,
+   "content_type": "article",
+   "first_seen_ms": 1790255427002,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790254920000,
+   "section": "ספורט",
+   "title": "תחזית מומחי ערוץ הספורט לעונת היורוליג"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-4281ecc97e2d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -480,6 +492,18 @@
    "published_ms": 1790160720000,
    "section": "ספורט",
    "title": "יום לפני שמתחילים: יחסי הזכייה ביורוליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-ad7a7f51483d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790255427002,
+   "content_type": "article",
+   "first_seen_ms": 1790255427002,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790254920000,
+   "section": "ספורט",
+   "title": "\"ביקשו שאשחק עבור הנבחרת, עניתי `לא`\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c3985aed2e1d0a1026.htm": {
    "check_attempts": 1,
@@ -1160,6 +1184,18 @@
    "published_ms": 1790154900000,
    "section": "",
    "title": "יונתן שמריז ואשתו הביאו לעולם בת שלישית"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255306992,
+   "content_type": "article",
+   "first_seen_ms": 1790255306992,
+   "indexable": true,
+   "indexnow_ms": 1790255306992,
+   "published_ms": 1790254800000,
+   "section": "סלבס",
+   "title": "80 קילו פחות: אשתו של שלומי יפרח מציגה מהפך"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d4bcfa1495ac0a1027.htm": {
    "check_attempts": 1,
