@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790239348471,
+ "last_run_ms": 1790239648098,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -276,6 +276,18 @@
    "published_ms": 1790148000000,
    "section": "ספורט",
    "title": "אשתו של בראון אישרה: יחתום בהפועל י-ם"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-aff6cc0fe82d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790239586955,
+   "content_type": "article",
+   "first_seen_ms": 1790239586955,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790239260000,
+   "section": "ספורט",
+   "title": "תביעת הענק של דיץ נגד לוין וגיא הראל"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-5976e870beec0a1027.htm": {
    "check_attempts": 1,
@@ -1795,7 +1807,7 @@
    "indexnow_ms": 1790235448401,
    "published_ms": 1790232480000,
    "section": "",
-   "title": "אחרי 8 חודשים: התרופה שחסרה חוזרת למדפים"
+   "title": "התרופה שצפויה לחזור למדפים אחרי חודשים של מחסור"
   },
   "https://www.mako.co.il/health-news/Article-6455549085dc0a1027.htm": {
    "check_attempts": 1,
@@ -2035,7 +2047,7 @@
    "indexnow_ms": 1790236226829,
    "published_ms": 1790236020000,
    "section": "HIX",
-   "title": "בשביל תמונה לרשתות: התאונה המזעזעת של בת ה-12 בספרד"
+   "title": "\"אף תמונה, סרטון או פוסט לא שווים את הסיכון\""
   },
   "https://www.mako.co.il/hix-special/Article-c7d14e8291ec0a1026.htm": {
    "check_attempts": 1,
@@ -2553,6 +2565,18 @@
    "section": "פלילים",
    "title": "\"מטילים אימה על אנשי עסקים ביישוב היוקרתי\""
   },
+  "https://www.mako.co.il/men-men_news/Article-39e7c1dc282d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790239648098,
+   "content_type": "article",
+   "first_seen_ms": 1790239648098,
+   "indexable": true,
+   "indexnow_ms": 1790239648098,
+   "published_ms": 1790238960000,
+   "section": "פלילים",
+   "title": "איים בגרזן על מתרחצים בכנרת והסתתר בשיחים"
+  },
   "https://www.mako.co.il/men-men_news/Article-4c8b2653dfdc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3019,7 +3043,7 @@
    "indexnow_ms": 1790239226925,
    "published_ms": 1790238360000,
    "section": "דיגיטל",
-   "title": "מדאיג: ראש הממשלה חשף שסוכן AI פרץ לאתר ממשלתי"
+   "title": "ראש ממשלת אוסטרליה חשף פרט שצריך להדאיג את כולם"
   },
   "https://www.mako.co.il/nexter-news/Article-2159d8b1a48c0a1026.htm": {
    "check_attempts": 1,
@@ -4148,6 +4172,18 @@
    "published_ms": 1790064060000,
    "section": "תרבות tvbee",
    "title": "בגיל 36: עובדת פוקס ניוז שהתלוננה על אונס התאבדה"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-55f445a937a00a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790239586955,
+   "content_type": "article",
+   "first_seen_ms": 1790239586955,
+   "indexable": true,
+   "indexnow_ms": 1790239586955,
+   "published_ms": 1790239380000,
+   "section": "תרבות tvbee",
+   "title": "הסדרה הזאת תגרום לכם להאמין שהאגדה נכונה"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-659dffa2b1aa0a1026.htm": {
    "check_attempts": 1,
