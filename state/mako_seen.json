@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790284048252,
+ "last_run_ms": 1790284348385,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1460,6 +1460,18 @@
    "published_ms": 1790077800000,
    "section": "סלבס",
    "title": "\"לא חשבתם שזה יעבור בשקט, כן? לא על הגב שלי\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-669211fda05d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790284226970,
+   "content_type": "article",
+   "first_seen_ms": 1790284226970,
+   "indexable": true,
+   "indexnow_ms": 1790284226970,
+   "published_ms": 1790281320000,
+   "section": "",
+   "title": "אחרי הסערה: מלי לוי בהלבשה תחתונה במטבח"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7966e609c2ec0a1026.htm": {
    "check_attempts": 1,
@@ -3619,7 +3631,7 @@
    "indexnow_ms": 1790248948645,
    "published_ms": 1790248680000,
    "section": "פלילים",
-   "title": "\"הוא לא מתכוון לשבת יום אחד בכלא הישראלי\""
+   "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,
@@ -4808,6 +4820,18 @@
    "published_ms": 1790226900000,
    "section": "חופש",
    "title": "אווירה של חו\"ל: המקום הזה הוא סוד שמור במרכז הארץ"
+  },
+  "https://www.mako.co.il/travel-news/Article-1e73e7c41d4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790284226970,
+   "content_type": "article",
+   "first_seen_ms": 1790284226970,
+   "indexable": true,
+   "indexnow_ms": 1790284226970,
+   "published_ms": 1790283600000,
+   "section": "",
+   "title": "ל-48 שעות בלבד: טיסה לתאילנד ב-499 דולרים"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
