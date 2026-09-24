@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790227649325,
+ "last_run_ms": 1790227949568,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -372,6 +372,18 @@
    "published_ms": 1790160720000,
    "section": "ספורט",
    "title": "יום לפני שמתחילים: יחסי הזכייה ביורוליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c3985aed2e1d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790227949568,
+   "content_type": "article",
+   "first_seen_ms": 1790227949568,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790227560000,
+   "section": "ספורט",
+   "title": "חזק מאי פעם: קטש רוצה להיפטר מה\"גיבנת\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-caba6610e3fc0a1027.htm": {
    "check_attempts": 1,
