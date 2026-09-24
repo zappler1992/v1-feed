@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7ff9bd272c4d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7bb1bd272c4d0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-94a0bd272c4d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26803,6 +26804,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-79eab946769c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16008_22092026020100/M_NEWS_16008_22092026020100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7bb1bd272c4d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"יש השלכות לשקרים שאתה ואנטישמים אחרים מפיצים על יהודים\": נתניהו לראש עיריית ניו יורק ממדאני",
+   "duration_s": 153,
+   "first_seen_ms": 1790276545812,
+   "image": "https://img.mako.co.il/2026/09/24/V1_mamdani_6443_24092026065730_1400_1790276429074_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790276439000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"יש השלכות לשקרים שאתה ואנטישמים אחרים מפיצים על יהודים\": נתניהו לראש עיריית ניו יורק ממדאני",
+   "type": "mivzakim",
+   "updated_ms": 1790276439000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7bb1bd272c4d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_mamdani_6443_24092026065730/V1_mamdani_6443_24092026065730_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7cec702579db0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -27181,6 +27200,24 @@
    "updated_ms": 1790046417000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-93bc7a2c307c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15955_22092026030507/M_NEWS_15955_22092026030507_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-94a0bd272c4d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלה הכותרות המרכזיות מנאום נתניהו באו\"ם: צפו בפרשנות של ירון אברהם",
+   "duration_s": 81,
+   "first_seen_ms": 1790276545812,
+   "image": "https://img.mako.co.il/2026/09/24/V1_Yarondor_6442_24092026065719_1400_1790276400748_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790276407000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלה הכותרות המרכזיות מנאום נתניהו באו\"ם: צפו בפרשנות של ירון אברהם",
+   "type": "mivzakim",
+   "updated_ms": 1790276407000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-94a0bd272c4d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_Yarondor_6442_24092026065719/V1_Yarondor_6442_24092026065719_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-95c6fe15f07c0a1026.htm": {
    "author": "מבזקים",
@@ -28788,7 +28825,7 @@
    ],
    "title": "\"זוכרים את הביפרים? בחיזבאללה בהחלט זוכרים אותם\": נתניהו מתייחס למבצע בלבנון בנאומו באו\"ם",
    "type": "mivzakim",
-   "updated_ms": 1790274400000,
+   "updated_ms": 1790276280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_beeper_6436_24092026062516/V1_beeper_6436_24092026062516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
