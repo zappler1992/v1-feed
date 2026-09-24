@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790244148164,
+ "last_run_ms": 1790244449600,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1161,6 +1161,18 @@
    "section": "סלבס",
    "title": "אחרי עשור בנפרד: הכוכב ואשתו סוף-סוף מתגרשים"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-abd6dd73b52d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790244387196,
+   "content_type": "article",
+   "first_seen_ms": 1790244387196,
+   "indexable": true,
+   "indexnow_ms": 1790244387196,
+   "published_ms": 1790242860000,
+   "section": "",
+   "title": "לא תאמינו: הסכסוך הביזארי של הוריה של הכוכבת"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-cd4674d8139c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2095,7 +2107,7 @@
    "indexnow_ms": 1790240186981,
    "published_ms": 1790239920000,
    "section": "HIX",
-   "title": "ברוסיה נדהמו לגלות מה נכתב על פתק ההצבעה - והעונש"
+   "title": "כתב \"פוטין שמוק\" על פתק בחירות, ונענש בחומרה"
   },
   "https://www.mako.co.il/hix-special/Article-ec33cf13758c0a1027.htm": {
    "check_attempts": 1,
@@ -2455,7 +2467,7 @@
    "indexnow_ms": 1790242227114,
    "published_ms": 1790241660000,
    "section": "",
-   "title": "בשווי של כ-20 אלף דולר: ההפתעה שקיבלה ליר כהן"
+   "title": "ההפתעה שקיבלה ליר כהן מבן הזוג"
   },
   "https://www.mako.co.il/makoz-news/Article-4b14ce1361fa0a1027.htm": {
    "check_attempts": 1,
@@ -2589,6 +2601,18 @@
    "section": "פלילים",
    "title": "הדרישה החדשה של ניבי זגורי: \"אין לו מה להפסיד\""
   },
+  "https://www.mako.co.il/men-men_news/Article-1dd22b295d2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790244387196,
+   "content_type": "article",
+   "first_seen_ms": 1790244387196,
+   "indexable": true,
+   "indexnow_ms": 1790244387196,
+   "published_ms": 1790244000000,
+   "section": "פלילים",
+   "title": "הוחמר עונשו של גנב הרכבים מבארי ב-7 באוקטובר"
+  },
   "https://www.mako.co.il/men-men_news/Article-200ad7c44a2d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2599,7 +2623,7 @@
    "indexnow_ms": 1790240786978,
    "published_ms": 1790240400000,
    "section": "פלילים",
-   "title": "\"המשטרה בעיר לא קיימת, מסכנים את החיים שלנו\""
+   "title": "הפחד יוצא מגבולות העיר: \"חוששים להיכנס לנתניה\""
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
@@ -3103,7 +3127,7 @@
    "indexnow_ms": 1790239226925,
    "published_ms": 1790238360000,
    "section": "דיגיטל",
-   "title": "ראש ממשלת אוסטרליה חשף פרט שצריך להדאיג את כולם"
+   "title": "מדאיג: ראש הממשלה חשף שסוכן AI פרץ לאתר ממשלתי"
   },
   "https://www.mako.co.il/nexter-news/Article-2159d8b1a48c0a1026.htm": {
    "check_attempts": 1,
