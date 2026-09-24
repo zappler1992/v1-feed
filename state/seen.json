@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5c7e6b9c124d0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-824c6b9c124d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-09cf6b9c124d0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-78be6b9c124d0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7dad6525df3d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17115,6 +17116,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-73483c9aeeeb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/FIX_MAIN_PIGUA/FIX_MAIN_PIGUA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7dad6525df3d0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 31,
+   "first_seen_ms": 1790266346547,
+   "image": "https://img.mako.co.il/2026/09/24/SHIRA_OKINAWA_240926_M_1400_1790263284780_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790263291000,
+   "sections": [
+    "אוכל"
+   ],
+   "title": "מסעדת הסושי האהובה שנסגרת",
+   "type": "news",
+   "updated_ms": 1790263291000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7dad6525df3d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/SHIRA_OKINAWA_240926/MASTER/SHIRA_OKINAWA_240926_M/SHIRA_OKINAWA_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7e50e209e7dc0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24725,6 +24744,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-07557e5c2a2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16122_24092026090400/M_NEWS_16122_24092026090400_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-09cf6b9c124d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב קורקינט בן 20 נפצע בינוני בחריש",
+   "duration_s": 9,
+   "first_seen_ms": 1790266346547,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16146_24092026040424_1400_1790265978636_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790265985000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב קורקינט בן 20 נפצע בינוני בחריש",
+   "type": "mivzakim",
+   "updated_ms": 1790265985000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-09cf6b9c124d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16146_24092026040424/M_NEWS_16146_24092026040424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0e7efe63eecb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -26531,6 +26568,24 @@
    "updated_ms": 1790219690000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-788f61da751d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16093_24092026031330/M_NEWS_16093_24092026031330_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-78be6b9c124d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"שקט! אני רוצה שתלכו מפה\": הפקחיות בדקו שלא משאירים פסולת ברחוב בבית שמש - ותושב חרדי איים עליהן",
+   "duration_s": 19,
+   "first_seen_ms": 1790266346547,
+   "image": "https://img.mako.co.il/2026/09/24/V1_KARIND_HAREDIM_6428_24092026040414_1400_1790265936266_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790265944000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"שקט! אני רוצה שתלכו מפה\": הפקחיות בדקו שלא משאירים פסולת ברחוב בבית שמש - ותושב חרדי איים עליהן",
+   "type": "mivzakim",
+   "updated_ms": 1790265944000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-78be6b9c124d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_KARIND_HAREDIM_6428_24092026040414/V1_KARIND_HAREDIM_6428_24092026040414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-79eab946769c0a1027.htm": {
    "author": "מבזקים",
