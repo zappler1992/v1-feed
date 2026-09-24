@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8ec5dea89e2d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba9b65fb703d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3614,7 +3614,7 @@
    ],
    "title": "בראדלי קופר וליידי גאגא הישראליים: נינט טייב וגורי אלפי בביצוע משותף ביום ההולדת ה-50 של אלפי",
    "type": "mivzakim",
-   "updated_ms": 1790232598000,
+   "updated_ms": 1790246940000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-60df9afc822d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_NOAY_NINET_240926_6400_24092026064704/V1_NOAY_NINET_240926_6400_24092026064704_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -27000,6 +27000,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b7f2470e86bb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_karind_bibi_6273_19092026085959/V1_karind_bibi_6273_19092026085959_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba9b65fb703d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הסרט התיעודי \"נז\"א\" יופץ ב-56 מדינות ברחבי העולם, ובהמשך יהיה זמין לצפייה חופשית ברשת",
+   "duration_s": 13,
+   "first_seen_ms": 1790247146053,
+   "image": "https://img.mako.co.il/2026/09/24/V1_NAZA_6409_24092026104826_1400_1790246975364_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790246987000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הסרט התיעודי \"נז\"א\" יופץ ב-56 מדינות ברחבי העולם, ובהמשך יהיה זמין לצפייה חופשית ברשת",
+   "type": "mivzakim",
+   "updated_ms": 1790246987000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba9b65fb703d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_NAZA_6409_24092026104826/V1_NAZA_6409_24092026104826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bc68d57000fb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -28437,7 +28455,9 @@
    "image": "https://img.mako.co.il/2026/09/24/V1_DanielAmit_6408_24092026092017_1400_1790241692779_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790241699000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "ירח הדבש המפתיע של דניאל עמית ואמילי דמארי: ספארי באפריקה.",
    "type": "mivzakim",
    "updated_ms": 1790241699000,
