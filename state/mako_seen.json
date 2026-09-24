@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790254948428,
+ "last_run_ms": 1790255248422,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1004,6 +1004,18 @@
    "published_ms": 1790233320000,
    "section": "",
    "title": "העיתונאי ואיש הטלוויזיה מנשה רז הלך לעולמו"
+  },
+  "https://www.mako.co.il/culture-articles/Article-6ba227ce773d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255248422,
+   "content_type": "article",
+   "first_seen_ms": 1790255248422,
+   "indexable": true,
+   "indexnow_ms": 1790255248422,
+   "published_ms": 1790255040000,
+   "section": "תרבות tvbee",
+   "title": "חוזר לצה\"ל: התפקיד החדש של שחר חסון"
   },
   "https://www.mako.co.il/culture-articles/Article-880142a42d2d0a1026.htm": {
    "check_attempts": 1,
@@ -3201,6 +3213,18 @@
    "section": "מוזיקה",
    "title": "אחרי התיעוד המדאיג: אשתו של רוד סטיוארט חושפת את מצבו"
   },
+  "https://www.mako.co.il/music-news/Article-758e27ce773d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255066960,
+   "content_type": "article",
+   "first_seen_ms": 1790255066960,
+   "indexable": true,
+   "indexnow_ms": 1790255066960,
+   "published_ms": 1790254800000,
+   "section": "מוזיקה",
+   "title": "מה נזכרתם? המדינה שנטפלת לנועם בתן"
+  },
   "https://www.mako.co.il/music-news/Article-964f5f3f7cea0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -4388,6 +4412,18 @@
    "published_ms": 1790055600000,
    "section": "חופש",
    "title": "הותקף בגלל ויכוח על מיטת שיזוף בחוף ים - ומת"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-8f47cda1143d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790255186975,
+   "content_type": "article",
+   "first_seen_ms": 1790255186975,
+   "indexable": true,
+   "indexnow_ms": 1790255186975,
+   "published_ms": 1790252880000,
+   "section": "חופש",
+   "title": "\"ביקשנו מהנהג לעצור, הוא לא הקשיב לנו\""
   },
   "https://www.mako.co.il/travel-news/international/Article-8f7b08c864dc0a1027.htm": {
    "check_attempts": 1,
