@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790239048131,
+ "last_run_ms": 1790239348471,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -551,7 +551,7 @@
    "indexnow_ms": null,
    "published_ms": 1790181540000,
    "section": "ספורט",
-   "title": "\"זו משימת חיינו. תעשו כל מה שאתם יכולים\""
+   "title": "\"זו משימת חיינו\": צפו בנאום של שינו"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eb85b94c8fec0a1026.htm": {
    "check_attempts": 1,
@@ -3008,6 +3008,18 @@
    "published_ms": 1790145660000,
    "section": "דיגיטל",
    "title": "בהפרש של 90 דקות: ההכרזות של ענקיות ה-AI"
+  },
+  "https://www.mako.co.il/nexter-news/Article-1bbdc1dc282d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790239226925,
+   "content_type": "article",
+   "first_seen_ms": 1790239226925,
+   "indexable": true,
+   "indexnow_ms": 1790239226925,
+   "published_ms": 1790238360000,
+   "section": "דיגיטל",
+   "title": "מדאיג: ראש הממשלה חשף שסוכן AI פרץ לאתר ממשלתי"
   },
   "https://www.mako.co.il/nexter-news/Article-2159d8b1a48c0a1026.htm": {
    "check_attempts": 1,
