@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790264848919,
+ "last_run_ms": 1790265149183,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -516,6 +516,18 @@
    "published_ms": 1790254920000,
    "section": "ספורט",
    "title": "\"ביקשו שאשחק עבור הנבחרת, עניתי `לא`\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-bca230a4c04d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790265149183,
+   "content_type": "article",
+   "first_seen_ms": 1790265149183,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790264700000,
+   "section": "ספורט",
+   "title": "צפו: אולפן היורוליג לקראת הפועל תל אביב"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c3985aed2e1d0a1026.htm": {
    "check_attempts": 1,
