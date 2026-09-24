@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790223449105,
+ "last_run_ms": 1790223749148,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2553,6 +2553,18 @@
    "section": "מוזיקה",
    "title": "הקרב המכוער על ירושת מאות המיליונים של דולי פרטון"
   },
+  "https://www.mako.co.il/news-military/2026_q3/Article-0968581a69ec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790223749148,
+   "content_type": "article",
+   "first_seen_ms": 1790223749148,
+   "indexable": true,
+   "indexnow_ms": 1790223749148,
+   "published_ms": 1790223660000,
+   "section": "חדשות",
+   "title": "מאבק על חייו של נריה לייטר: \"עבר ניתוח מוח ממושך\""
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-2186e609c2ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3139,7 +3151,7 @@
    "indexnow_ms": 1790196027080,
    "published_ms": 1790195760000,
    "section": "",
-   "title": "נשקפת סכנה לחייו: מצבו של נריה לייטר עדיין קשה מאוד"
+   "title": "הלם בארה\"ב: המשלוח הרגיש שנתפס על ידי סין"
   },
   "https://www.mako.co.il/special-mako-news/Article-2d58fa1495ac0a1027.htm": {
    "check_attempts": 1,
