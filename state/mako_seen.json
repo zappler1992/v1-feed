@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790251648799,
+ "last_run_ms": 1790251964448,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -552,6 +552,18 @@
    "published_ms": 1790135340000,
    "section": "ספורט",
    "title": "לפני המשחק: השיחה של בן שמעון עם החלוצים"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-750d5b1bc43d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790251964448,
+   "content_type": "article",
+   "first_seen_ms": 1790251964448,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790251740000,
+   "section": "ספורט",
+   "title": "בשל פציעה: אבו פאני שוחרר מהנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-caad3780b7dc0a1026.htm": {
    "check_attempts": 1,
@@ -1220,6 +1232,18 @@
    "published_ms": 1790146500000,
    "section": "סלבס",
    "title": "הרים אותה באוויר: כוכבת הפופ והארוס לוהטים בפורטופינו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-81fe124aa13d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790251964448,
+   "content_type": "article",
+   "first_seen_ms": 1790251964448,
+   "indexable": true,
+   "indexnow_ms": 1790251964448,
+   "published_ms": 1790251620000,
+   "section": "סלבס",
+   "title": "\"יש לי את זה\": השחקן מתייחס לאבהות בגיל 58"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-97f6b8186cdc0a1027.htm": {
    "check_attempts": 1,
