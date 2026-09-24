@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790245948246,
+ "last_run_ms": 1790246248249,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2109,6 +2109,18 @@
    "section": "HIX",
    "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, והכל נחשף"
   },
+  "https://www.mako.co.il/hix-special/Article-ba7110fb2f2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790246187329,
+   "content_type": "article",
+   "first_seen_ms": 1790246187329,
+   "indexable": true,
+   "indexnow_ms": 1790246187329,
+   "published_ms": 1790246040000,
+   "section": "HIX",
+   "title": "האשימה את ישראל ב\"טרור רצחני\" והתבררה כמתחזה"
+  },
   "https://www.mako.co.il/hix-special/Article-c65dd5b2d52d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2659,7 +2671,7 @@
    "indexnow_ms": 1790240786978,
    "published_ms": 1790240400000,
    "section": "פלילים",
-   "title": "הפחד יוצא מגבולות העיר: \"חוששים להיכנס לנתניה\""
+   "title": "\"המשטרה בעיר לא קיימת, אנחנו כמו ברווזים במטווח\""
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
