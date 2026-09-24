@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-a39a0fc1e64d0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be9e51e5af4d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8548e80fdf4d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3628,7 +3629,9 @@
    "image": "https://img.mako.co.il/2026/09/24/V1_karind_omernudelman_6429_24092026041731_1400_1790266743435_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790266751000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "ואו! הדוגמנית והשחקנית עומר נודלמן בשמלת כלה - ומתחתנת הערב עם שון סימנוביץ'",
    "type": "mivzakim",
    "updated_ms": 1790266751000,
@@ -17230,7 +17233,8 @@
    "importance": 2,
    "published_ms": 1790263291000,
    "sections": [
-    "אוכל"
+    "אוכל",
+    "הכי נצפים עכשיו"
    ],
    "title": "מסעדת הסושי האהובה שנסגרת",
    "type": "news",
@@ -26963,6 +26967,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-817fad9f0cec0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_FIRE_6377_23092026025457/V1_FIRE_6377_23092026025457_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8548e80fdf4d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את הפגיעה בשוק התקשורת החופשית - בגלל חוק התקשורת של קרעי",
+   "duration_s": 9,
+   "first_seen_ms": 1790280145984,
+   "image": "https://img.mako.co.il/2026/09/24/V1_KARIND_GALI_6446_24092026075442_1400_1790279804970_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790279813000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היועמ\"שית לבג\"ץ: תוציאו צו שיקפיא את הפגיעה בשוק התקשורת החופשית - בגלל חוק התקשורת של קרעי",
+   "type": "mivzakim",
+   "updated_ms": 1790279813000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8548e80fdf4d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_KARIND_GALI_6446_24092026075442/V1_KARIND_GALI_6446_24092026075442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-85fdac21e2eb0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -27938,6 +27960,24 @@
    "updated_ms": 1790075926000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be5938d36d8c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15997_22092026111717/M_NEWS_15997_22092026111717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be9e51e5af4d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ממדאני: \"נתניהו השתמש בנאום שלו באו\"ם כדי לחזור על שקרים שנועדו לחטא את 'רצח העם בפלסטינים' שלו\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790280145984,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_mamdani_6447_24092026075650_1400_1790279889441_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790279899000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ממדאני: \"נתניהו השתמש בנאום שלו באו\"ם כדי לחזור על שקרים שנועדו לחטא את 'רצח העם בפלסטינים' שלו\"",
+   "type": "mivzakim",
+   "updated_ms": 1790279899000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-be9e51e5af4d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_mamdani_6447_24092026075650/V1_karind_mamdani_6447_24092026075650_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-bea47936b9dc0a1026.htm": {
    "author": "מבזקים",
