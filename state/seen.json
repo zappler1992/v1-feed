@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cf2b9d2a4a3d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-532e9d2a4a3d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7915,7 +7915,8 @@
    "importance": 2,
    "published_ms": 1790229799000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "לא פלסטינית - יהודיה: המתחזה שמשגעת את העולם",
    "type": "general",
@@ -25821,6 +25822,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-51c73e3e20eb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/FIXDEAD/FIXDEAD_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-532e9d2a4a3d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בהתאם להנחיות גורמי הביטחון: אל על משהה את הטיסות לדובאי עד 30 בנובמבר",
+   "duration_s": 9,
+   "first_seen_ms": 1790257946662,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16142_24092026014438_1400_1790257543460_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790257554000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בהתאם להנחיות גורמי הביטחון: אל על משהה את הטיסות לדובאי עד 30 בנובמבר",
+   "type": "mivzakim",
+   "updated_ms": 1790257554000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-532e9d2a4a3d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16142_24092026014438/M_NEWS_16142_24092026014438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-538d402644cc0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39942,7 +39961,8 @@
    "importance": 2,
    "published_ms": 1790241420000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הכדורגלן האגדי חושף את השורשים היהודיים",
    "type": "general",
@@ -45339,7 +45359,8 @@
    "importance": 1,
    "published_ms": 1790249024000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"אנחנו חוזרים לטהרן\": הטייס האיראני הודיע לנוסעים שמדינות שכנות מסרבות לאפשר מעבר בשל הסנקציות",
    "type": "mivzakim",
