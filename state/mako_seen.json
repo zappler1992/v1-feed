@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790224649178,
+ "last_run_ms": 1790224949207,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3572,6 +3572,18 @@
    "published_ms": 1790054580000,
    "section": "קשת 12",
    "title": "\"מפחד שירד מנכסיו ופשוט לא יודעים את זה\""
+  },
+  "https://www.mako.co.il/tv-morning-news/articles/Article-af0b13c93a1d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790224707040,
+   "content_type": "article",
+   "first_seen_ms": 1790224707040,
+   "indexable": true,
+   "indexnow_ms": 1790224707040,
+   "published_ms": 1790224500000,
+   "section": "קשת 12",
+   "title": "הפתיעה בשידור: \"האקס המיתולוגי שלי משם\""
   },
   "https://www.mako.co.il/tv-morning-news/articles/Article-d7d34b439bcc0a1027.htm": {
    "check_attempts": 1,
