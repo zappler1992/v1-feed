@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790271190187,
+ "last_run_ms": 1790271449873,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -385,6 +385,18 @@
    "section": "ספורט",
    "title": "עם סגל מלא לקטש: מכבי ת\"א פותחת עונה"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-1aac2c23674d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790271449873,
+   "content_type": "article",
+   "first_seen_ms": 1790271449873,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790271240000,
+   "section": "ספורט",
+   "title": "\"קשה לצפייה, שפל\": הפועל ואיטודיס חוטפים"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-258a549085dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -624,6 +636,18 @@
    "published_ms": 1790219700000,
    "section": "ספורט",
    "title": "אבו פרחי ונחמיאס בפנים: ההרכב של ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-38dc2c23674d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790271449873,
+   "content_type": "article",
+   "first_seen_ms": 1790271449873,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790271240000,
+   "section": "ספורט",
+   "title": "ישתלם? ההימור של בן שמעון מול אוסטריה"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-6ea69bce732d0a1026.htm": {
    "check_attempts": 1,
