@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790278048442,
+ "last_run_ms": 1790278348159,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -588,6 +588,18 @@
    "published_ms": 1790254920000,
    "section": "ספורט",
    "title": "\"ביקשו שאשחק עבור הנבחרת, עניתי `לא`\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-b9c003569d4d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790278348159,
+   "content_type": "article",
+   "first_seen_ms": 1790278348159,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790277960000,
+   "section": "ספורט",
+   "title": "לפני משחק מכבי ת\"א: דיץ` נצפה לצד רקנאטי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-bca230a4c04d0a1027.htm": {
    "check_attempts": 1,
