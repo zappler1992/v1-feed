@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-694d1f61762d0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T07:56:03+00:00</news:publication_date>
+<news:title>&quot;בתי ילדה ושוכבת 40 מטר מאחיה בטיפול נמרץ&quot;: השגריר לייטר מדבר מבית החולים שערי צדק</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_LYTER_6405_24092026075425_1400_1790236556488_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8a66d5b2d52d0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1898,23 +1907,5 @@
 <news:title>ההסתבכות המינית של  חברת הקונגרס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/Kim_Congress_22092026_1400_1790057500870_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-e8328345c8aa0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T08:00:00+00:00</news:publication_date>
-<news:title>אמת או חובה: יונתן שלו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/16/DANIEL_YONATAN_160926_1400_1789568609987_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-c3e0e1bbd18c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T07:59:23+00:00</news:publication_date>
-<news:title>הדר תמר ואיתן: הסופות על שמכם בדרך</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/biata_storms_220926_1400_1790063956908_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

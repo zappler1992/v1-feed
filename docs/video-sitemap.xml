@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-694d1f61762d0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/24/V1_LYTER_6405_24092026075425_1400_1790236556488_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;בתי ילדה ושוכבת 40 מטר מאחיה בטיפול נמרץ&quot;: השגריר לייטר מדבר מבית החולים שערי צדק</video:title>
+<video:description>&quot;בתי ילדה ושוכבת 40 מטר מאחיה בטיפול נמרץ&quot;: השגריר לייטר מדבר מבית החולים שערי צדק</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_LYTER_6405_24092026075425/V1_LYTER_6405_24092026075425_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>44</video:duration>
+<video:publication_date>2026-09-24T07:56:03+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8a66d5b2d52d0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/24/Kim_Neria_24092026_1400_1790236301551_FirstFrame.jpg</video:thumbnail_loc>
@@ -191,6 +207,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>חדשות אמריקה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
