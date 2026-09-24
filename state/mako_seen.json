@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790243548602,
+ "last_run_ms": 1790243848447,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3980,6 +3980,18 @@
    "published_ms": 1790148900000,
    "section": "חופש",
    "title": "לראשונה: טיסה ישראלית נחתה בגן העדן של אירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790243787164,
+   "content_type": "article",
+   "first_seen_ms": 1790243787164,
+   "indexable": true,
+   "indexnow_ms": 1790243787164,
+   "published_ms": 1790233440000,
+   "section": "חופש",
+   "title": "עושים צרכים בכל מקום: זה מה שקורה במקום היפה באירופה"
   },
   "https://www.mako.co.il/travel-news/international/Article-e8dc26a7f8dc0a1026.htm": {
    "check_attempts": 1,
