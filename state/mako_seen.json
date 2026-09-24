@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790230827025,
+ "last_run_ms": 1790231248462,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3848,6 +3848,18 @@
    "published_ms": 1790098440000,
    "section": "תרבות tvbee",
    "title": "לאחר כחודש: זו הסיבה הרשמית למותה של הכוכבת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-4357471a4f1d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790231067079,
+   "content_type": "article",
+   "first_seen_ms": 1790231067079,
+   "indexable": true,
+   "indexnow_ms": 1790231067079,
+   "published_ms": 1790230440000,
+   "section": "תרבות tvbee",
+   "title": "כוכב הסדרה האהובה נעצר: \"נראה שיכור, לא שיתף פעולה\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-bcd0f27e9acc0a1027.htm": {
    "check_attempts": 1,
