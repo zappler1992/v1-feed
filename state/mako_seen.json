@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790237249452,
+ "last_run_ms": 1790237548428,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1533,6 +1533,18 @@
    "section": "משפט",
    "title": "\"יש קייס לתביעה\"?: הבוט שמנבא פסקי דין"
   },
+  "https://www.mako.co.il/food-chefs/ben_shai/Recipe-f946a9f0552d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237548428,
+   "content_type": "recipe",
+   "first_seen_ms": 1790237548428,
+   "indexable": true,
+   "indexnow_ms": 1790237548428,
+   "published_ms": 1790237220000,
+   "section": "",
+   "title": "לא סתם היא זכתה בתואר \"המנה הטובה בעולם\""
+  },
   "https://www.mako.co.il/food-cooking_magazine/new_products/Article-f5ad1af011fa0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2804,6 +2816,18 @@
    "published_ms": 1790223660000,
    "section": "חדשות",
    "title": "מאבק על חייו של נריה לייטר: \"עבר ניתוח מוח ממושך\""
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-01a0fc97e62d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790237548428,
+   "content_type": "article",
+   "first_seen_ms": 1790237548428,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790237340000,
+   "section": "ספורט",
+   "title": "יש הסכם: הפיצוי שהפועל ת\"א העבירה למדר"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-2186e609c2ec0a1026.htm": {
    "check_attempts": 1,
