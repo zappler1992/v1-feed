@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790235148254,
+ "last_run_ms": 1790235448401,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1713,6 +1713,18 @@
    "section": "בריאות",
    "title": "החפץ המסוכן שבלעה בת ה-16 הוביל להליך דחוף"
   },
+  "https://www.mako.co.il/health-news/Article-478c9afc822d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790235448401,
+   "content_type": "article",
+   "first_seen_ms": 1790235448401,
+   "indexable": true,
+   "indexnow_ms": 1790235448401,
+   "published_ms": 1790232480000,
+   "section": "",
+   "title": "אחרי 8 חודשים: התרופה שחסרה חוזרת למדפים"
+  },
   "https://www.mako.co.il/health-news/Article-6455549085dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1903,7 +1915,7 @@
    "indexnow_ms": 1790220266695,
    "published_ms": 1790218800000,
    "section": "HIX",
-   "title": "המורה נעצרה עם שני נערים, והואשמה בתכנון רצח"
+   "title": "הסיפור המטורף על המורה מסידני, שני הנערים ופרשת הרצח"
   },
   "https://www.mako.co.il/hix-special/Article-226d307e92dc0a1027.htm": {
    "check_attempts": 1,
