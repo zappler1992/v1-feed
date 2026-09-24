@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790220148907,
+ "last_run_ms": 1790220448907,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1713,6 +1713,18 @@
    "section": "HIX",
    "title": "10 אריות נמצאו מתים בשמורת הטבע, חשד שהורעלו"
   },
+  "https://www.mako.co.il/hix-nature/Article-3f504e2eeffc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790220266695,
+   "content_type": "article",
+   "first_seen_ms": 1790220266695,
+   "indexable": true,
+   "indexnow_ms": 1790220266695,
+   "published_ms": 1790218800000,
+   "section": "HIX",
+   "title": "מדריך צלילה הרג צב בסכנת הכחדה, ותועד במצלמה"
+  },
   "https://www.mako.co.il/hix-nature/Article-f6089f6168ac0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1724,6 +1736,18 @@
    "published_ms": 1790132400000,
    "section": "",
    "title": "מזג אוויר נוח בערב סוכות, התקררות בתחילת השבוע"
+  },
+  "https://www.mako.co.il/hix-special/Article-22034e2eeffc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790220266695,
+   "content_type": "article",
+   "first_seen_ms": 1790220266695,
+   "indexable": true,
+   "indexnow_ms": 1790220266695,
+   "published_ms": 1790218800000,
+   "section": "HIX",
+   "title": "המורה נעצרה עם שני נערים, והואשמה בתכנון רצח"
   },
   "https://www.mako.co.il/hix-special/Article-226d307e92dc0a1027.htm": {
    "check_attempts": 1,
@@ -1916,6 +1940,18 @@
    "published_ms": 1790074680000,
    "section": "עיצוב הבית",
    "title": "מדהים: במקום לזרוק, השרו את קליפת הבננה במים"
+  },
+  "https://www.mako.co.il/living-garden-and-porch/gardening/Article-015f8cb698a80a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790220266695,
+   "content_type": "article",
+   "first_seen_ms": 1790220266695,
+   "indexable": true,
+   "indexnow_ms": 1790220266695,
+   "published_ms": 1790222400000,
+   "section": "עיצוב הבית",
+   "title": "מגדלים נענע? כדאי שתכירו את הבעיה הנפוצה"
   },
   "https://www.mako.co.il/living-garden-and-porch/gardening/Article-3fc641d8ed3c0a1026.htm": {
    "check_attempts": 1,
