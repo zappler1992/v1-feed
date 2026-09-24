@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-2f4a6b9c124d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5c7e6b9c124d0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-824c6b9c124d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26005,6 +26006,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5a606a0b60fc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16079_23092026041857/M_NEWS_16079_23092026041857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5c7e6b9c124d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מפעילות כוחות צה״ל במרחב יהודה ושומרון",
+   "duration_s": 20,
+   "first_seen_ms": 1790266046535,
+   "image": "https://img.mako.co.il/2026/09/24/M_NEWS_16145_24092026040345_1400_1790265900937_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790265908000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מפעילות כוחות צה״ל במרחב יהודה ושומרון",
+   "type": "mivzakim",
+   "updated_ms": 1790265908000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5c7e6b9c124d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16145_24092026040345/M_NEWS_16145_24092026040345_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5cabfa1495ac0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45609,6 +45628,24 @@
    "updated_ms": 1790056303000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-805ec0613a7c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_MONKEY_6312_22092026055018/V1_MONKEY_6312_22092026055018_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-824c6b9c124d0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המסעדה רעדה - והאורחים ברחו: צפו בתיעוד מרעידת האדמה בעוצמה 5.5 בטורקיה",
+   "duration_s": 23,
+   "first_seen_ms": 1790266046535,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_turkey_6427_24092026035942_1400_1790265669229_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790265678000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המסעדה רעדה - והאורחים ברחו: צפו בתיעוד מרעידת האדמה בעוצמה 5.5 בטורקיה",
+   "type": "mivzakim",
+   "updated_ms": 1790265678000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-824c6b9c124d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_turkey_6427_24092026035942/V1_karind_turkey_6427_24092026035942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-8fde7772b93d0a1027.htm": {
    "author": "מבזקים מהעולם",
