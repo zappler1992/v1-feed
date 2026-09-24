@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-feee5f2a384d0a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-5c5f5ec3144d0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24605ab7a4d0a1026.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-92349aa2594d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -28469,6 +28469,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e1020dbde7cc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_KOTAROT2309_6341_23092026043037/V1_KOTAROT2309_6341_23092026043037_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24605ab7a4d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו: \"הכנסנו לעזה כמויות מזון עצומות, להאשים את ישראל ברצח עם זה שקר המאה\"",
+   "duration_s": 34,
+   "first_seen_ms": 1790275645765,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_bibigaza_6439_24092026064042_1400_1790275333237_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790275343000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו: \"הכנסנו לעזה כמויות מזון עצומות, להאשים את ישראל ברצח עם זה שקר המאה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790275343000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24605ab7a4d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_bibigaza_6439_24092026064042/V1_karind_bibigaza_6439_24092026064042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e24fd8b1a48c0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39181,6 +39199,24 @@
    "updated_ms": 1790251158000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-7127cda1143d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Amit_ROMI_DARWISH/MASTER/Amit_ROMI_DARWISH_M/Amit_ROMI_DARWISH_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-92349aa2594d0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מVינים בחירות: עופר וינטר יו\"ר מפלגת עמך ישראל מציב תנאים לממשלה הבאה, אבל מה קורה כשמשמיעים את האמירות שלו זו לצד זו?  ניסינו להבין לאיזה וינטר להאמין. חכו שנגיע לנתניהו.",
+   "duration_s": 98,
+   "first_seen_ms": 1790275645765,
+   "image": "https://img.mako.co.il/2026/09/24/dor_vint_240926_1400_1790273745372_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790275380000,
+   "sections": [
+    "מVינים חדשות"
+   ],
+   "title": "מVינים בחירות: האיש שלא מסכים עם עצמו יכריע את הבחירות?",
+   "type": "general",
+   "updated_ms": 1790275380000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-92349aa2594d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/dor_vint_240926/MASTER/dor_vint_240926/dor_vint_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-b6f948a0569c0a1026.htm": {
    "author": "מיוחד",
