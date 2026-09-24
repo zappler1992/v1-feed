@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790237848124,
+ "last_run_ms": 1790238148438,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1641,6 +1641,18 @@
    "section": "",
    "title": "עוד לא מכירים את המתכון האגדי שלנו לפנקייק? הגיע הזמן"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-16e524193f8c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790238148438,
+   "content_type": "recipe",
+   "first_seen_ms": 1790238148438,
+   "indexable": true,
+   "indexnow_ms": 1790238148438,
+   "published_ms": 1790227320000,
+   "section": "",
+   "title": "תגידו מה שתרצו על הטורקים - מה ששלהם שלהם"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-b3d3181958aa0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -2420,6 +2432,18 @@
    "published_ms": 1789727700000,
    "section": "",
    "title": "על הבמה בחנוכה: הכוכבים יתחרו על 200 אלף ש\"ח"
+  },
+  "https://www.mako.co.il/makoz-news/Article-c5464d6bd62d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237906883,
+   "content_type": "article",
+   "first_seen_ms": 1790237906883,
+   "indexable": true,
+   "indexnow_ms": 1790237906883,
+   "published_ms": 1790237580000,
+   "section": "",
+   "title": "ההישג הבין-לאומי של כוכבת הנוער"
   },
   "https://www.mako.co.il/makoz-news/Article-cf079b77cdcc0a1026.htm": {
    "check_attempts": 1,

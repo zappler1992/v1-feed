@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-63519224772d0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T08:17:45+00:00</news:publication_date>
+<news:title>מאות דגלי ישראל נתלו ע״י מפלגת הציונות הדתית סביב מג׳ד אל-כרום אחרי הסערה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/M_NEWS_16117_24092026081606_1400_1790237854952_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-14f64d6bd62d0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -131,9 +140,9 @@
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-09-24T06:03:19+00:00</news:publication_date>
-<news:title>לא פרו פלסטינית - יהודיה: המתחזה שמשגעת את העולם</news:title>
+<news:title>לא פלסטינית - יהודיה: המתחזה שמשגעת את העולם</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/NOAY_PALESINE_240926_1400_1790229792539_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/FIXNOAY_PALESINE_240926_1_1400_1790237517131_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9931931c6e1d0a1027.htm</loc>
@@ -1898,14 +1907,5 @@
 <news:title>אחרי &quot;ליל המיקרופונים&quot; שהביך את טראמפ: הנשיא משיק את &quot;Trump TV&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/ASAF_TRUMPTV_22092026_M_1400_1790054774237_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-4032e25ed28c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T08:19:23+00:00</news:publication_date>
-<news:title>הנס של יונתן רזאל: חזר לנגן אחרי שאושפז במצב קשה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/yonatan_tamar_2209_m_1400_1790065154861_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
