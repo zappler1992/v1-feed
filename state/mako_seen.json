@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790237548428,
+ "last_run_ms": 1790237848124,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -204,6 +204,18 @@
    "published_ms": 1790170490000,
    "section": "",
    "title": "\"ז*ן על ישראל\": הזמינה מהאתר האהוב, וזה מה שחיכה לה בחבילה"
+  },
+  "https://fashionforward.mako.co.il/news/320764/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237666880,
+   "content_type": "article",
+   "first_seen_ms": 1790237666880,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790237099000,
+   "section": "Fashion Forward",
+   "title": "לא רואה אף אחת ממטר: בגיל 57 ג'ניפר לופז ניצחה את כולן בשבוע האופנה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -1052,6 +1064,18 @@
    "published_ms": 1790144880000,
    "section": "סלבס",
    "title": "אחרי מותו הטרגי: מקורבים לבנה של דוגמנית העל מאשימים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-0a4bbc6c232d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237666880,
+   "content_type": "article",
+   "first_seen_ms": 1790237666880,
+   "indexable": true,
+   "indexnow_ms": 1790237666880,
+   "published_ms": 1790236080000,
+   "section": "",
+   "title": "\"מה קרה לה?\": הכוכבת חטפה בגלל המראה שלה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-18f9159289dc0a1027.htm": {
    "check_attempts": 1,
