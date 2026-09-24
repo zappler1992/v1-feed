@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4fad1fd8da2d0a1027.htm"
+  "https://www.v-1.co.il/sport-magazine/2026-m09_w04/shorts-b7cc1fd8da2d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26629,7 +26629,8 @@
    "importance": 0,
    "published_ms": 1790233104000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "איים על מתרחצים בגרזן וברח לשיחים: המעצר הדרמטי בכנרת",
    "type": "mivzakim",
@@ -39514,6 +39515,24 @@
    "type": "general",
    "updated_ms": 1789223760000,
    "url": "https://www.v-1.co.il/sport-magazine/2026-m09_w02/shorts-2c57dfcfde590a1027.htm"
+  },
+  "https://www.v-1.co.il/sport-magazine/2026-m09_w04/shorts-b7cc1fd8da2d0a1027.htm": {
+   "author": "ספורט",
+   "date_source": "json-publishDate",
+   "description": "וויין רוני, משלנו? כוכב העבר של מנצ'סטר יונייטד ונבחרת אנגליה חושף בדוקו חדש תגלית משפחתית מפתיעה: משפחתה של סבתו הייתה יהודית מפולין. \"אני קתולי, אבל תמיד שאלתי למה אנחנו לא יהודים\".",
+   "duration_s": 21,
+   "first_seen_ms": 1790242045959,
+   "image": "https://img.mako.co.il/2026/09/24/yoav_Rooney_240926_1400_1790241247328_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790241420000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הכדורגלן האגדי חושף את השורשים היהודיים",
+   "type": "general",
+   "updated_ms": 1790241420000,
+   "url": "https://www.v-1.co.il/sport-magazine/2026-m09_w04/shorts-b7cc1fd8da2d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/yoav_Rooney_240926/MASTER/yoav_Rooney_240926/yoav_Rooney_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m04_w01/shorts-27d8d7a024e4d91026.htm": {
    "author": "טכנולוגיה",
