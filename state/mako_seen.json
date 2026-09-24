@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790235448401,
+ "last_run_ms": 1790235748177,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -754,6 +754,18 @@
    "published_ms": 1790187000000,
    "section": "ספורט",
    "title": "\"תמיד היה שם\": הקשר של סובוסלאי ודאבור"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-8006fd28452d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790235748177,
+   "content_type": "article",
+   "first_seen_ms": 1790235748177,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790235600000,
+   "section": "ספורט",
+   "title": "\"תמיד חשבתי\": וויין רוני חשף שהוא יהודי"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a65e8f7db4dc0a1026.htm": {
    "check_attempts": 1,
