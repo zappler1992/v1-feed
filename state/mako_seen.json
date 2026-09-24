@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790251048691,
+ "last_run_ms": 1790251348346,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -396,6 +396,18 @@
    "published_ms": 1790245140000,
    "section": "ספורט",
    "title": "באדום או צהוב? השחקנים הכי נבחרים בפנטזי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-4fa4ae29323d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790251106683,
+   "content_type": "article",
+   "first_seen_ms": 1790251106683,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790249880000,
+   "section": "ספורט",
+   "title": "קופי ייעדר מול באיירן: זמן ההחלמה המשוער"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-551bd6000aec0a1026.htm": {
    "check_attempts": 1,
@@ -1039,7 +1051,7 @@
    "indexnow_ms": 1790245827315,
    "published_ms": 1790245380000,
    "section": "סלבס",
-   "title": "אחרי הפרידה: הצעד הבא של האקס של טיילור מלכוב"
+   "title": "ב-30 מיליון: המהלך של האקס של טיילור מלכוב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
@@ -2179,7 +2191,7 @@
    "indexnow_ms": 1790246187329,
    "published_ms": 1790246040000,
    "section": "HIX",
-   "title": "פרטים חדשים על הפעילה האנטישמית שהתגלתה כיהודייה"
+   "title": "\"אנטישמית מובילה בעיר\": העבר של המורה שזעזע את אמריקה"
   },
   "https://www.mako.co.il/hix-special/Article-c65dd5b2d52d0a1027.htm": {
    "check_attempts": 1,
@@ -2947,7 +2959,7 @@
    "indexnow_ms": 1790248948645,
    "published_ms": 1790248680000,
    "section": "פלילים",
-   "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
+   "title": "\"ערן לא מתכוון לשבת יום אחד בכלא הישראלי\""
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,
@@ -3465,6 +3477,18 @@
    "section": "הורים",
    "title": "אחת מכל שש אמהות נמצאת בסיכון לסבול מזה"
   },
+  "https://www.mako.co.il/pride-culture/Article-5ba6c68f023d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790251106683,
+   "content_type": "article",
+   "first_seen_ms": 1790251106683,
+   "indexable": true,
+   "indexnow_ms": 1790251106683,
+   "published_ms": 1790248860000,
+   "section": "גאווה",
+   "title": "שיתוף הפעולה החדש של עופרה: \"זה יהיה להיט\""
+  },
   "https://www.mako.co.il/pride-culture/Article-b5deea6d14490a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3559,7 +3583,7 @@
    "indexnow_ms": 1790186427486,
    "published_ms": 1790182620000,
    "section": "",
-   "title": "הדבר שגברים מוכנים לקבל בדייטים - יותר מנשים"
+   "title": "נשים פחות מוכנות לצאת עם ביסקסואלים - מאשר גברים"
   },
   "https://www.mako.co.il/pride-news/Article-89ffee595f9a0a1026.htm": {
    "check_attempts": 1,
