@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790280148349,
+ "last_run_ms": 1790280448569,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2876,6 +2876,30 @@
    "published_ms": 1790057040000,
    "section": "הורים",
    "title": "\"שנים הסתובבתי עם תחושה של בושה\""
+  },
+  "https://www.mako.co.il/living-architecture/local-renovation/Article-6e79c0d43dec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790280266733,
+   "content_type": "article",
+   "first_seen_ms": 1790280266733,
+   "indexable": true,
+   "indexnow_ms": 1790280266733,
+   "published_ms": 1790243580000,
+   "section": "עיצוב הבית",
+   "title": "הצפון החדש: דירת גג התחילה חשוכה וככה סיימה"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-1b24331b3cec0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790280266733,
+   "content_type": "article",
+   "first_seen_ms": 1790280266733,
+   "indexable": true,
+   "indexnow_ms": 1790280266733,
+   "published_ms": 1790241840000,
+   "section": "עיצוב הבית",
+   "title": "עומר אדם ודירות בשחקים: זו כיכר המדינה החדשה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-325e5020638c0a1027.htm": {
    "check_attempts": 1,
