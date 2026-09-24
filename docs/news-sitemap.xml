@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7ff9bd272c4d0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T18:53:23+00:00</news:publication_date>
+<news:title>בזמן נאום נתניהו: המשלחת האיראנית הותירה שולחן ריק - עם תמונתו של קאסם סולימאני</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_mishlahat_6441_24092026065155_1400_1790275993323_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b483fffdea4d0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2006,14 +2015,5 @@
 <news:title>טראמפ תקף ותקף את איראן בעצרת האו&quot;ם - וכך נראה הנציג מטהרן באותם רגעים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/trampos220926m_1400_1790103578561_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-5ef6fa1495ac0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T18:53:00+00:00</news:publication_date>
-<news:title>נכנס לזירה עם הרובוט מ&quot;שליחות קטלנית&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/FIX_yoav_robot_220926_1400_1790102883814_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
