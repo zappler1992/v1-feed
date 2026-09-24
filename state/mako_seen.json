@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790267549258,
+ "last_run_ms": 1790267848818,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3331,7 +3331,7 @@
    "indexnow_ms": 1790236466812,
    "published_ms": 1790236140000,
    "section": "",
-   "title": "פרטים חדשים על מעצר בנה של הזמרת בחשד לסחר בסמים"
+   "title": "בנה של זמרת מוכרת נעצר בחשד לסחר בסמים"
   },
   "https://www.mako.co.il/music-news/Article-0790fe63eecb0a1027.htm": {
    "check_attempts": 1,
@@ -4076,6 +4076,18 @@
    "published_ms": 1790156880000,
    "section": "",
    "title": "עם תמונת חיילת צה\"ל: ההסתה החמורה נגד ישראל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-1ca5cab9314d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
+   "checked_ms": 1790267848818,
+   "content_type": "article",
+   "first_seen_ms": 1790267848818,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790266500000,
+   "section": "",
+   "title": "הצוללת השישית הגיעה לישראל: \"מסר חשוב לאיראן\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-223c3a9747f90a1026.htm": {
    "check_attempts": 1,
