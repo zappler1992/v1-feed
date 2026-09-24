@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790280626762,
+ "last_run_ms": 1790281048569,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -684,6 +684,18 @@
    "published_ms": 1790254080000,
    "section": "ספורט",
    "title": "\"חלאילי יותר ממוכן להוביל אותנו ליורו\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-17f651e5af4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790280866812,
+   "content_type": "article",
+   "first_seen_ms": 1790280866812,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790280480000,
+   "section": "ספורט",
+   "title": "כבש וקיבל אדום: הרגע המטורף של אבו פרחי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-1c8ec0d43dec0a1026.htm": {
    "check_attempts": 1,
@@ -1615,7 +1627,7 @@
    "indexnow_ms": 1790250627736,
    "published_ms": 1790250000000,
    "section": "סלבס",
-   "title": "\"היא צבועה\": הכוכבת חוטפת אש בעקבות ההחלטה החדשה"
+   "title": "\"צבועה\": הכוכבת חוטפת אש בעקבות ההחלטה החדשה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-4d899b77cdcc0a1026.htm": {
    "check_attempts": 1,
@@ -3535,7 +3547,7 @@
    "indexnow_ms": 1790276067395,
    "published_ms": 1790272560000,
    "section": "",
-   "title": "החשוד לא נכנע לחוקרים: \"שתק יותר מדג באקווריום\""
+   "title": "החשוד ברצח לא נכנע לחוקרים: \"שתק יותר מדג באקווריום\""
   },
   "https://www.mako.co.il/men-men_news/Article-cb0a36db5a9c0a1027.htm": {
    "check_attempts": 1,
@@ -3559,7 +3571,7 @@
    "indexnow_ms": 1790248948645,
    "published_ms": 1790248680000,
    "section": "פלילים",
-   "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
+   "title": "\"הוא לא מתכוון לשבת יום אחד בכלא הישראלי\""
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,
