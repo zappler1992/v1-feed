@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790284348385,
+ "last_run_ms": 1790284648292,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4676,6 +4676,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q3/Article-ce263e40bb4d0a1026.htm",
+   "checked_ms": 1790284586955,
+   "content_type": "article",
+   "first_seen_ms": 1790284586955,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790277000000,
+   "section": "",
+   "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
