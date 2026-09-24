@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-07557e5c2a2d0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-4bed7e5c2a2d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f97d7c44a2d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7652,6 +7653,22 @@
    "updated_ms": 1790141356000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-37eb4b439bcc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/inbie_argenina_230926/MASTER/inbie_argenina_230926/inbie_argenina_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-4bed7e5c2a2d0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "צוללן תועד יורה מטווח קצר בצב ים קרני במהלך צלילה באזור השימור הימי ראג'ה אמפאט באינדונזיה.\nהמשטרה טוענת כי הצב הובא לאחר מכן למקום הלינה של הקבוצה, שם בושל ונאכל. \nהחשוד מכחיש כי הוא האדם שנראה בסרטון. במקרה של הרשעה הוא עלול להישלח ל־3 עד 15 שנות מאסר\n ולהיקנס עד כ - 280 אלף דולר.",
+   "duration_s": 33,
+   "first_seen_ms": 1790241145881,
+   "image": "https://img.mako.co.il/2026/09/24/Kim_Seaturtle_24092026_1400_1790240467104_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790240473000,
+   "sections": [],
+   "title": "צוללן תועד יורה בצב ים בסכנת הכחדה – ונעצר",
+   "type": "general",
+   "updated_ms": 1790240473000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-4bed7e5c2a2d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Kim_Seaturtle_24092026/MASTER/Kim_Seaturtle_24092026/Kim_Seaturtle_24092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-4f2cff17d89c0a1026.htm": {
    "author": "מהעולם",
@@ -26638,6 +26655,24 @@
    "updated_ms": 1790046610000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f5cfe15f07c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15956_22092026030910/M_NEWS_15956_22092026030910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f97d7c44a2d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד הבריאות מזהיר מרחצה בחוף השקמים בכנרת בעקבות ממצאים מיקרוביאליים חריגים במים",
+   "duration_s": 14,
+   "first_seen_ms": 1790241145881,
+   "image": "https://img.mako.co.il/2026/09/24/V1_AZHARA_BRIUT_6407_24092026090737_1400_1790240956386_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790240963000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד הבריאות מזהיר מרחצה בחוף השקמים בכנרת בעקבות ממצאים מיקרוביאליים חריגים במים",
+   "type": "mivzakim",
+   "updated_ms": 1790240963000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9f97d7c44a2d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_AZHARA_BRIUT_6407_24092026090737/V1_AZHARA_BRIUT_6407_24092026090737_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a017f6dc5f4c0a1026.htm": {
    "author": "מבזקים",
