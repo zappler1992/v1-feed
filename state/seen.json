@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7bb1bd272c4d0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-94a0bd272c4d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9862b77b6c4d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -27292,6 +27291,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-975461da751d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16095_24092026032757/M_NEWS_16095_24092026032757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9862b77b6c4d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו מניף מכשיר סטארלינק: ״כשהאיראנים יערקו - הם יוכלו לספר את הסיפור שלהם ברשתות״",
+   "duration_s": 71,
+   "first_seen_ms": 1790276845840,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_starlink_6444_24092026070147_1400_1790276682510_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790276693000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו מניף מכשיר סטארלינק: ״כשהאיראנים יערקו - הם יוכלו לספר את הסיפור שלהם ברשתות״",
+   "type": "mivzakim",
+   "updated_ms": 1790276693000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9862b77b6c4d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_starlink_6444_24092026070147/V1_karind_starlink_6444_24092026070147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-98d6d6000aec0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -28825,7 +28842,7 @@
    ],
    "title": "\"זוכרים את הביפרים? בחיזבאללה בהחלט זוכרים אותם\": נתניהו מתייחס למבצע בלבנון בנאומו באו\"ם",
    "type": "mivzakim",
-   "updated_ms": 1790276280000,
+   "updated_ms": 1790276520000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_beeper_6436_24092026062516/V1_beeper_6436_24092026062516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
