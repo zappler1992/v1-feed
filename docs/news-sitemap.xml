@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-8fde7772b93d0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-24T13:33:16+00:00</news:publication_date>
+<news:title>תקלה בצינור מים הציפה את הרחובות - וגרמה לפקקים בניו ג&#x27;רזי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_karind_newjersy_6417_24092026013143_1400_1790256785169_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8949fcfc5adc0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1907,14 +1916,5 @@
 <news:title>צעירה בסכנת חיים בגלל שפעת A רופאים קוראים: &quot;תתחסנו&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/22/SHIRA_HOSPITAL_220926_M_1400_1790085229454_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b515c3c8749c0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-22T13:33:50+00:00</news:publication_date>
-<news:title>מזכ״ל האו״ם תוקף את ישראל: &quot;ההרס בעזה הוא הנרחב ביותר שראיתי. סוללת את הדרך לטיהור אתני&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/22/V1_un_6324_22092026013209_1400_1790084019410_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
