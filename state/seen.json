@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-541b2c23674d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-906e5f2a384d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9669,7 +9669,8 @@
    "importance": 1,
    "published_ms": 1790262000000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 43: רותי נשברת",
    "type": "series",
@@ -17211,7 +17212,9 @@
    "image": "https://img.mako.co.il/2026/09/23/alice_230926_kfar_1400_1790156630028_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790256060000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "אימה ביישוב היוקרתי בישראל: מכת רימונים",
    "type": "news",
    "updated_ms": 1790262000000,
@@ -26961,6 +26964,24 @@
    "updated_ms": 1790234520000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-90469bce732d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/FIX_yoav_MENASHE_240926_MIV/FIX_yoav_MENASHE_240926_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-906e5f2a384d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד נוסף מההפגנות הפרו-פלסטיניות על רקע נאומו של בנימין נתניהו בניו יורק",
+   "duration_s": 24,
+   "first_seen_ms": 1790272350923,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_hafgana_6434_24092026054834_1400_1790272195953_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790272206000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד נוסף מההפגנות הפרו-פלסטיניות על רקע נאומו של בנימין נתניהו בניו יורק",
+   "type": "mivzakim",
+   "updated_ms": 1790272206000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-906e5f2a384d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_hafgana_6434_24092026054834/V1_karind_hafgana_6434_24092026054834_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-90bf2c0f76dc0a1027.htm": {
    "author": "מבזקים",
@@ -45638,7 +45659,8 @@
    "importance": 0,
    "published_ms": 1790258034000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מפולת ענקית באתר האהוב על הישראלים: שלג רב גלש במורד הר הומנטאי בפרו | צפו בתיעוד שהתיירים צילמו",
    "type": "mivzakim",
@@ -45888,7 +45910,8 @@
    "importance": 0,
    "published_ms": 1790256796000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תקלה בצינור מים הציפה את הרחובות - וגרמה לפקקים בניו ג'רזי",
    "type": "mivzakim",
