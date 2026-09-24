@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790236826864,
+ "last_run_ms": 1790237249452,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1711,7 +1711,7 @@
    "indexnow_ms": 1790231548949,
    "published_ms": 1790230860000,
    "section": "בריאות",
-   "title": "תינוק בן שבועיים ישן עם הוריו במיטה - ונמחץ למוות"
+   "title": "תינוק מת בביתו לאחר שישן עם הוריו ונמחץ"
   },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
@@ -3321,6 +3321,18 @@
    "section": "צבא וביטחון",
    "title": "המידע המודיעיני שנחשף על רוסיה - והתרחיש לאירופה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-68811f61762d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237249452,
+   "content_type": "article",
+   "first_seen_ms": 1790237249452,
+   "indexable": true,
+   "indexnow_ms": 1790237249452,
+   "published_ms": 1790236740000,
+   "section": "",
+   "title": "המדינות שקיבלו את האזהרה: \"רוסיה תתקוף אתכן\""
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3728,6 +3740,18 @@
    "published_ms": 1790102160000,
    "section": "חדשות",
    "title": "\"המשפחה בחרדה\": אבד הקשר עם ישראלי שמטייל ביוון"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790237186864,
+   "content_type": "article",
+   "first_seen_ms": 1790237186864,
+   "indexable": true,
+   "indexnow_ms": 1790237186864,
+   "published_ms": 1790236320000,
+   "section": "חופש",
+   "title": "חיפושים נרחבים אחרי המטייל הישראלי שנעדר בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-6d5795fed58c0a1027.htm": {
    "check_attempts": 1,
