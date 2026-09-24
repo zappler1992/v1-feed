@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-8fde7772b93d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-42667772b93d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17234,9 +17234,9 @@
    "sections": [],
    "title": "טרגדיה בכינרת: ברוך בן התשע חטף אמבה אוכלת מוח ונפטר",
    "type": "news",
-   "updated_ms": 1790254202000,
+   "updated_ms": 1790257200000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-970780c0e63d0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Kim_Kinneret_24092026/MASTER/Kim_Kinneret_24092026/Kim_Kinneret_24092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/FIX_AMEBA/FIX_AMEBA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-9c5615ba459c0a1027.htm": {
    "author": "חדשות",
@@ -25549,6 +25549,24 @@
    "updated_ms": 1790008005000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-40f6006f4b4c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/M_NEWS_15934_21092026042519/M_NEWS_15934_21092026042519_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-42667772b93d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופנוע בן 35 נפצע קשה מפגיעת משאית במחלף אשדוד צפון, מותו נקבע בבית החולים",
+   "duration_s": 9,
+   "first_seen_ms": 1790257346564,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_ashdod_6418_24092026013723_1400_1790257115123_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790257124000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופנוע בן 35 נפצע קשה מפגיעת משאית במחלף אשדוד צפון, מותו נקבע בבית החולים",
+   "type": "mivzakim",
+   "updated_ms": 1790257124000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-42667772b93d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_ashdod_6418_24092026013723/V1_karind_ashdod_6418_24092026013723_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-428939c681fc0a1026.htm": {
    "author": "מבזקים",
