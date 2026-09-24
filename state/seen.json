@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-09cf6b9c124d0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-78be6b9c124d0a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-7dad6525df3d0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-b7d6a2fa1d3d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7907,6 +7905,24 @@
    "updated_ms": 1790016052000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-9d66a918635c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/biata_coldplay_210926/MASTER/biata_coldplay_210926/biata_coldplay_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-b7d6a2fa1d3d0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מאות צופים הגיעו לצפות ב\"מרוץ הזרע\" בהונג קונג - אירוע שבו נבחן הזרע המהיר ביותר. בשנים האחרונות נערכו כמה מרוצים דומים גם בארצות הברית ששולבו בפרסומות לתוספי תזונה ומעבירים מסר מרכזי כי בריאות הזרע נמצאת בירידה",
+   "duration_s": 44,
+   "first_seen_ms": 1790266646521,
+   "image": "https://img.mako.co.il/2026/09/24/SHIRA_SPERM_240926_M_1400_1790260848136_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790260856000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "המרוץ הכי זעיר ומשונה בעולם: למי יש את הזרע הכי מהיר",
+   "type": "general",
+   "updated_ms": 1790260856000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-b7d6a2fa1d3d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/SHIRA_SPERM_240926/MASTER/SHIRA_SPERM_240926_M/SHIRA_SPERM_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-b826471a4f1d0a1027.htm": {
    "author": "מהעולם",
@@ -38894,7 +38910,7 @@
    ],
    "title": "בקרוב אצלנו? יצאנו לנסיעה במונית בלי נהג בסן פרנסיסקו",
    "type": "general",
-   "updated_ms": 1790262600000,
+   "updated_ms": 1790266380000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/STIV_MONIT_240926/MASTER/STIV_MONIT_240926_M/STIV_MONIT_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
