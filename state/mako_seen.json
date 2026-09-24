@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790253748326,
+ "last_run_ms": 1790254048396,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1003,7 +1003,7 @@
    "indexnow_ms": 1790252548816,
    "published_ms": 1790252160000,
    "section": "תרבות tvbee",
-   "title": "הבמאי האגדי של \"אבא גנוב\" ו\"מתחת לאף\" הלך לעולמו"
+   "title": "הבמאי האגדי של \"אבא גנוב\" הלך לעולמו"
   },
   "https://www.mako.co.il/culture-articles/Article-939cac880c1d0a1027.htm": {
    "check_attempts": 1,
@@ -2911,7 +2911,7 @@
    "indexnow_ms": 1790252186770,
    "published_ms": 1790251020000,
    "section": "",
-   "title": "האי שהפך למקלט לפושעים ישראלים"
+   "title": "\"עבריינים מישראל השתלטו על האי - ועושים מאות מיליונים\""
   },
   "https://www.mako.co.il/men-men_news/Article-5d3ff908328c0a1026.htm": {
    "check_attempts": 1,
@@ -3836,6 +3836,18 @@
    "published_ms": 1790147880000,
    "section": "צבא וביטחון",
    "title": "המידע המודיעיני שנחשף על רוסיה - והתרחיש לאירופה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790254048396,
+   "content_type": "article",
+   "first_seen_ms": 1790254048396,
+   "indexable": true,
+   "indexnow_ms": 1790254048396,
+   "published_ms": 1790253720000,
+   "section": "",
+   "title": "\"הפיר ליד השרון\": ההבהרה החריגה של צה\"ל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-68811f61762d0a1027.htm": {
    "check_attempts": 1,
