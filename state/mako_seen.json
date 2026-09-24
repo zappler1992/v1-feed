@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790268448929,
+ "last_run_ms": 1790268748905,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -898,6 +898,18 @@
    "published_ms": 1790234760000,
    "section": "ספורט",
    "title": "העתיד כבר כאן: הבלם הבכיר של נבחרת ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-27345ec3144d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790268748905,
+   "content_type": "article",
+   "first_seen_ms": 1790268748905,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790268600000,
+   "section": "ספורט",
+   "title": "\"נייקי\" ביטלה קמפיין בכיכובו של בנזמה"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-f573906a9ecc0a1027.htm": {
    "check_attempts": 1,
@@ -4160,6 +4172,18 @@
    "published_ms": 1790075220000,
    "section": "צבא וביטחון",
    "title": "לוחמים הופתעו: מסתור יצירתי לנשק שנגנב מצה\"ל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-87e7c986fb2d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-87e7c986fb2d0a1026.htm",
+   "checked_ms": 1790268626968,
+   "content_type": "article",
+   "first_seen_ms": 1790268626968,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790263800000,
+   "section": "",
+   "title": "תצלומי לווין למתקפות טרור: הסוד של איראן נחשף"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ae564ec09f1d0a1026.htm": {
    "check_attempts": 1,
