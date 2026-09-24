@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790245348591,
+ "last_run_ms": 1790245648530,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1329,6 +1329,18 @@
    "section": "כסף",
    "title": "הארנונה קפצה מ-31 אלף ל-4.8 מיליון שקל בשנה"
   },
+  "https://www.mako.co.il/finances-news/Article-73cd2b295d2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790245467283,
+   "content_type": "article",
+   "first_seen_ms": 1790245467283,
+   "indexable": true,
+   "indexnow_ms": 1790245467283,
+   "published_ms": 1790243520000,
+   "section": "כסף",
+   "title": "הדולר זינק בעולם – וזה יגיע היישר לכיס שלנו"
+  },
   "https://www.mako.co.il/finances-news/Article-823f7babaa4a0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1867,7 +1879,7 @@
    "indexnow_ms": 1790229448104,
    "published_ms": 1790228220000,
    "section": "בריאות",
-   "title": "האם את בסיכון מוגבר: השאלון שעשוי להציל חיים"
+   "title": "כמה דקות שיכולות להציל חיים: אל תתעלמו מגורמי הסיכון"
   },
   "https://www.mako.co.il/health-news/Article-6631022e848c0a1027.htm": {
    "check_attempts": 1,
@@ -2623,7 +2635,7 @@
    "indexnow_ms": 1790244387196,
    "published_ms": 1790244000000,
    "section": "פלילים",
-   "title": "הוחמר עונשו של גנב הרכבים מבארי ב-7 באוקטובר"
+   "title": "גנב רכבים מבארי אחרי 7 באוקטובר, זה העונש שקיבל"
   },
   "https://www.mako.co.il/men-men_news/Article-200ad7c44a2d0a1027.htm": {
    "check_attempts": 1,
@@ -3991,7 +4003,19 @@
    "indexnow_ms": 1790237186864,
    "published_ms": 1790236320000,
    "section": "חופש",
-   "title": "חיפושים נרחבים אחרי המטייל הישראלי שנעדר בחו\"ל"
+   "title": "נמשכים החיפושים אחר הישראלי שנעלם ביוון"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-6d09af8eeb2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790245467283,
+   "content_type": "article",
+   "first_seen_ms": 1790245467283,
+   "indexable": true,
+   "indexnow_ms": 1790245467283,
+   "published_ms": 1790242020000,
+   "section": "חופש",
+   "title": "הישראלי שגורש מתאילנד: \"קיבלתי איומים על חיי הילדים\""
   },
   "https://www.mako.co.il/travel-news/international/Article-6d5795fed58c0a1027.htm": {
    "check_attempts": 1,
