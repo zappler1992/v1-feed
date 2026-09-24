@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790236348438,
+ "last_run_ms": 1790236648504,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -276,6 +276,18 @@
    "published_ms": 1790178600000,
    "section": "ספורט",
    "title": "בדרך לפרישה. לונזו בול: \"נתתי את כולי\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-adef9afc822d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790236586838,
+   "content_type": "article",
+   "first_seen_ms": 1790236586838,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790233260000,
+   "section": "ספורט",
+   "title": "קרי חשף: ה\"מצב הרפואי הנדיר\" איתו התמודד"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-c030d8f122ec0a1026.htm": {
    "check_attempts": 1,
@@ -2649,6 +2661,18 @@
    "section": "פלילים",
    "title": "התחזה לאיש שב\"כ, ניהל קשר רומנטי - ועקץ אלפי שקלים"
   },
+  "https://www.mako.co.il/men-men_news/Article-ebd1d5b2d52d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790236466812,
+   "content_type": "article",
+   "first_seen_ms": 1790236466812,
+   "indexable": true,
+   "indexnow_ms": 1790236466812,
+   "published_ms": 1790236140000,
+   "section": "",
+   "title": "בנה של זמרת מוכרת נעצר - וזה מה שמצאו ברכבו"
+  },
   "https://www.mako.co.il/music-news/Article-0790fe63eecb0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3283,7 +3307,7 @@
    "indexnow_ms": 1790218827586,
    "published_ms": 1790218560000,
    "section": "",
-   "title": "המחבלים התפצלו ל-3 חוליות וכבשו מוצב מגולני"
+   "title": "כך כבשו המחבלים את המוצב שבו נפלו 18 לוחמים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-2fbc3654e1dc0a1027.htm": {
    "check_attempts": 1,
