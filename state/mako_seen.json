@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790222248653,
+ "last_run_ms": 1790222549081,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -348,6 +348,18 @@
    "published_ms": 1790221560000,
    "section": "ספורט",
    "title": "איפה מכבי? דירוג הכוח של אלייז`ה בראיינט"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-62bf00c6f71d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790222549081,
+   "content_type": "article",
+   "first_seen_ms": 1790222549081,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790222400000,
+   "section": "ספורט",
+   "title": "שחקן פאו חשף: \"הייתה לי הצעה ממכבי ת\"א\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-88b51a29cddc0a1026.htm": {
    "check_attempts": 1,
@@ -3163,7 +3175,7 @@
    "indexnow_ms": null,
    "published_ms": 1790186940000,
    "section": "",
-   "title": "לוחצות על טראמפ: המהלך של המעצמות האירופיות נגד ישראל"
+   "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
