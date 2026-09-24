@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790281648673,
+ "last_run_ms": 1790281964597,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -625,6 +625,18 @@
    "section": "ספורט",
    "title": "חזק מאי פעם: קטש רוצה להיפטר מה\"גיבנת\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c8f7f050b05d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790281964597,
+   "content_type": "article",
+   "first_seen_ms": 1790281964597,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790281680000,
+   "section": "ספורט",
+   "title": "המשחק השני הכי גרוע אי פעם: בכורת מוטלי"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-caba6610e3fc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -695,7 +707,7 @@
    "indexnow_ms": null,
    "published_ms": 1790280960000,
    "section": "ספורט",
-   "title": "הסעיף בחוקת הכדורגל בגללו אבו פרחי הורחק"
+   "title": "מוגזם? הסבר החוקה להרחקתו של אבו פרחי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-17f651e5af4d0a1026.htm": {
    "check_attempts": 1,
