@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790242648212,
+ "last_run_ms": 1790242949011,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -225,9 +225,9 @@
    "first_seen_ms": 1790242648212,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1790242274000,
    "section": "אופנה",
-   "title": "כוכבי \"כשהגלים מתחזקים\" בחופשה רומנטית מלאת סטייל"
+   "title": "מתוקים גם במציאות: כוכבי \"כשהגלים מתחזקים\" בחופשה רומנטית מלאת סטייל"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -408,6 +408,18 @@
    "published_ms": 1790222400000,
    "section": "ספורט",
    "title": "שחקן פאו חשף: \"הייתה לי הצעה ממכבי ת\"א\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-7951af8eeb2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790242707083,
+   "content_type": "article",
+   "first_seen_ms": 1790242707083,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790242440000,
+   "section": "ספורט",
+   "title": "\"כמעט חזרתי למכבי. צלצלתי שעה מאוחר מדי\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-88b51a29cddc0a1026.htm": {
    "check_attempts": 1,

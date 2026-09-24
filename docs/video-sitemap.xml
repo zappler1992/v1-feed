@@ -6,8 +6,8 @@
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/24/V1_DanielAmit_6408_24092026092017_1400_1790241692779_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>ירח הדבש המפתיע של דניאל עמית ואמילי דמארי: ספארי באפריקה.</video:title>
 <video:description>ירח הדבש המפתיע של דניאל עמית ואמילי דמארי: ספארי באפריקה</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_DanielAmit_6408_24092026092017/V1_DanielAmit_6408_24092026092017_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>24</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/KimFIX_DanielEmily/KimFIX_DanielEmily_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>30</video:duration>
 <video:publication_date>2026-09-24T09:21:39+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -315,6 +315,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-6a18cf92d12d0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/24/yoav_trump_240926_1400_1790231532205_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ההצדעה שהבהילה את טראמפ</video:title>
+<video:description>קבלת פנים עם הרבה רעש: במהלך ביקורו של נשיא סין שי ג&#x27;ינפינג בארצות הברית, מפציצים ומטוסי קרב אמריקאיים חלפו מעל השניים במפגן כוח עוצמתי. אבל כשהמטוסים חלפו מעליהם, דווקא טראמפ היה זה שהתקשה להסתיר את התגובה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/yoav_trump_240926/MASTER/yoav_trump_240926/yoav_trump_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>18</video:duration>
+<video:publication_date>2026-09-24T06:38:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-f90052a7212d0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/24/M_NEWS_16107_24092026062532_1400_1790231215180_FirstFrame.jpg</video:thumbnail_loc>
@@ -359,6 +376,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
+<video:tag>חדשות</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>
@@ -392,6 +410,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות אמריקה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
