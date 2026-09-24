@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-bbf286bcee4d0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-00deba4fc15d0a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c35ce465dd3d0a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-aac3f4f3ee4d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2458,6 +2458,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c20f5b344c8c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/biata_clavicular_220926/MASTER/biata_clavicular_220926/biata_clavicular_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c35ce465dd3d0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "ג'ונתן טיילור תומאס, כוכב הניינטיז שמוכר מ\"שפץ ביתך\" ובתור קולו של סימבה בסרט מלך האריות, נעצר לאחר שלכאורה תקף שוטר, כשבעט בבטנו בזמן שרכב בו היה נוסע נעצר לבדיקת שכרות.",
+   "duration_s": 49,
+   "first_seen_ms": 1790283746045,
+   "image": "https://img.mako.co.il/2026/09/24/biata_sherrffkick_240926_1400_1790261042462_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790261050000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "סימבה מ\"מלך האריות\" מסתבך עם החוק",
+   "type": "general",
+   "updated_ms": 1790261050000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c35ce465dd3d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/biata_sherrffkick_240926/MASTER/biata_sherrffkick_240926/biata_sherrffkick_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c5ebfcfc5adc0a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -3708,6 +3726,24 @@
    "updated_ms": 1790270553000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-a39a0fc1e64d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_KARIND_BRIDE_6431_24092026052056/V1_KARIND_BRIDE_6431_24092026052056_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-aac3f4f3ee4d0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"הוא לא צריך ללכת להציל את העולם?\": סרטון של יון תומרקין ברכבת הקלה כבש את הרשת",
+   "duration_s": 10,
+   "first_seen_ms": 1790283746045,
+   "image": "https://img.mako.co.il/2026/09/24/V1_karind_tomarkin_6445_24092026074717_1400_1790279327532_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790279334000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"הוא לא צריך ללכת להציל את העולם?\": סרטון של יון תומרקין ברכבת הקלה כבש את הרשת",
+   "type": "mivzakim",
+   "updated_ms": 1790279334000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-aac3f4f3ee4d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_tomarkin_6445_24092026074717/V1_karind_tomarkin_6445_24092026074717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-afed7c17c87c0a1027.htm": {
    "author": "מבזקי סלבס",
@@ -17498,7 +17534,7 @@
    ],
    "title": "הכותרות החשובות מנאום נתניהו בעצרת האו\"ם",
    "type": "news",
-   "updated_ms": 1790282520000,
+   "updated_ms": 1790283660000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-bbf286bcee4d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/biata_fullspeech_240926_fix/biata_fullspeech_240926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
