@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-303aefa47a9d0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3e806f7b4ad0a1027.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-45ce5615069d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4769,6 +4770,24 @@
    "updated_ms": 1790065163000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-4032e25ed28c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/yonatan_tamar_2209/MASTER/yonatan_tamar_2209_m/yonatan_tamar_2209_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-45ce5615069d0a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "ענקית יצרניות הבובות ברבי השיקה לראשונה בובת ברבי יהודייה, במסגרת ליין מיוחד לכבוד עונת החגים, הכוללת סוודר חגיגי עם איור של חנוכייה. הבובה הושקה לצד שתי בובות נוספות הלבושות בסוודרים בהשראת חג המולד, וכבר מעוררת באזז ברשתות החברתיות. לצד תגובות אוהדות, ההשקה גררה גם תגובות אנטישמיות הקוראות להחרים את הבובה, וכן שיח סביב מראה פניה וגודל אפה, שלטענת גולשים מזוהה עם הסטריאוטיפ של \"האף היהודי\". ברשת אף הופצו אילוסטרציות ולעג סביב עיצוב הבובה.",
+   "duration_s": 20,
+   "first_seen_ms": 1790368946365,
+   "image": "https://img.mako.co.il/2026/09/25/alona_barbie_m_250629_1400_1790353915577_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790353925000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "ברבי השיקו: בובה יהודיה עם סוודר חנוכה",
+   "type": "general",
+   "updated_ms": 1790353925000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-45ce5615069d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/alona_barbie_250926/MASTER/alona_barbie_m_250629/alona_barbie_m_250629_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-a94ee09caf2d0a1026.htm": {
    "author": "תרבות",
@@ -29747,6 +29766,24 @@
    "updated_ms": 1790169133000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3cca78416ec0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16071_23092026011044/M_NEWS_16071_23092026011044_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3e806f7b4ad0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפה בחיפה: לוחמי אש חילצו 6 דיירים ממבנה הבוער, בהם תינוק כבן שנה ללא פגע. 2 פונו במצב קל",
+   "duration_s": 33,
+   "first_seen_ms": 1790368946365,
+   "image": "https://img.mako.co.il/2026/09/25/M_NEWS_16201_25092026083851_1400_1790368820970_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790368827000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפה בחיפה: לוחמי אש חילצו 6 דיירים ממבנה הבוער, בהם תינוק כבן שנה ללא פגע. 2 פונו במצב קל",
+   "type": "mivzakim",
+   "updated_ms": 1790368827000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3e806f7b4ad0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16201_25092026083851/M_NEWS_16201_25092026083851_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3f65431567c0a1027.htm": {
    "author": "מבזקים",
