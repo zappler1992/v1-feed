@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790316149741,
+ "last_run_ms": 1790316450102,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3513,6 +3513,18 @@
    "section": "+12",
    "title": ""
   },
+  "https://www.mako.co.il/makoz-extra/Article-053b95fed58c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790316267349,
+   "content_type": "article",
+   "first_seen_ms": 1790316267349,
+   "indexable": true,
+   "indexnow_ms": 1790316267349,
+   "published_ms": 1790312400000,
+   "section": "",
+   "title": "הבתים מהסדרות שהיינו קופצים אליהם בחג"
+  },
   "https://www.mako.co.il/makoz-extra/Article-79cd675b09eb0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3583,7 +3595,7 @@
    "indexnow_ms": 1790316027656,
    "published_ms": 1790314200000,
    "section": "",
-   "title": "הכוכבת משתפת בתקרית המסוכנת שעברה: \"נוער מסריח\""
+   "title": "\"נוער מסריח. היו צריכים לתת להם בוקס לפרצוף\""
   },
   "https://www.mako.co.il/makoz-news/Article-ac45c2e3604b0a1027.htm": {
    "check_attempts": 1,
