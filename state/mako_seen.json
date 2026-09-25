@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790308049345,
+ "last_run_ms": 1790308366973,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -540,6 +540,18 @@
    "published_ms": 1790249880000,
    "section": "ספורט",
    "title": "קופי ייעדר מול באיירן: זמן ההחלמה המשוער"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-5271444f996d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790308366973,
+   "content_type": "article",
+   "first_seen_ms": 1790308366973,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790308020000,
+   "section": "ספורט",
+   "title": "ברגל שמאל: מכבי סיכמה את הופעת הבכורה"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-551bd6000aec0a1026.htm": {
    "check_attempts": 1,
@@ -2971,7 +2983,7 @@
    "indexnow_ms": 1790265386733,
    "published_ms": 1790264460000,
    "section": "HIX",
-   "title": "\"כבר הרג את הבת שלי\": הדוגמנית נמצאה מתה ברכב של האקס"
+   "title": "\"הוא כבר הרג את הבת שלי\": הדוגמנית נמצאה מתה"
   },
   "https://www.mako.co.il/hix-special/Article-415716d1fe9c0a1027.htm": {
    "check_attempts": 1,
