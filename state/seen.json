@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-53370dfc507d0a1026.htm"
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w04/shorts-760731b6c37d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8098,7 +8098,9 @@
    "image": "https://img.mako.co.il/2026/09/25/SHIRA_FALL_250926_M_1400_1790316650634_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790316657000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "\"היה לי דימום במוח\": מלכת היופי שהתרסקה על הבמה מספרת מה באמת קרה שם",
    "type": "general",
    "updated_ms": 1790318700000,
@@ -42495,6 +42497,22 @@
    "type": "general",
    "updated_ms": 1789406160000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w03/shorts-f2a1db747d0a0a1026.htm"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w04/shorts-760731b6c37d0a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 20,
+   "first_seen_ms": 1790322445923,
+   "image": "https://img.mako.co.il/2026/09/25/ASAF_THAILAND_25092026_M_1400_1790319097230_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790319104000,
+   "sections": [],
+   "title": "רק ל-48 שעות: טיסות לתאילנד החל מ-449 דולר",
+   "type": "general",
+   "updated_ms": 1790319104000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w04/shorts-760731b6c37d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/ASAF_THAILAND_25092026/MASTER/ASAF_THAILAND_25092026_M/ASAF_THAILAND_25092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-1e7fad516007291027.htm": {
    "author": "TV1",
