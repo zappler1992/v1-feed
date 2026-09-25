@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a63ce3be8c6d0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-976066d10c6d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24792,14 +24792,14 @@
    "duration_s": 14,
    "first_seen_ms": 1790282245998,
    "image": "https://img.mako.co.il/2026/09/24/V1_KARIN_BENNET_6448_24092026083412_1400_1790282134493_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790282144000,
    "sections": [
     "מבזקים"
    ],
    "title": "בנט למרדכי דוד בבני ברק: ״מציע לך להתגייס מהר כי מהרגע שאני ראש ממשלה אתה לא תקבל שקל מהמדינה\"",
    "type": "mivzakim",
-   "updated_ms": 1790282144000,
+   "updated_ms": 1790310420000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-02ecff8ad15d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_KARIN_BENNET_6448_24092026083412/V1_KARIN_BENNET_6448_24092026083412_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -27493,6 +27493,24 @@
    "updated_ms": 1790220577000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-975461da751d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16095_24092026032757/M_NEWS_16095_24092026032757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-976066d10c6d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נער בן 15 נפצע קשה ו-2 צעירים בינוני בתאונת דרכים ליד היישוב עמנואל בשומרון",
+   "duration_s": 9,
+   "first_seen_ms": 1790310746964,
+   "image": "https://img.mako.co.il/2026/09/25/M_NEWS_16166_25092026042740_1400_1790310544290_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790310554000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נער בן 15 נפצע קשה ו-2 צעירים בינוני בתאונת דרכים ליד היישוב עמנואל בשומרון",
+   "type": "mivzakim",
+   "updated_ms": 1790310554000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-976066d10c6d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16166_25092026042740/M_NEWS_16166_25092026042740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9862b77b6c4d0a1026.htm": {
    "author": "מבזקים",
