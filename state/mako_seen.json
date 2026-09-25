@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790340148607,
+ "last_run_ms": 1790340448653,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -384,6 +384,18 @@
    "published_ms": 1790239260000,
    "section": "ספורט",
    "title": "תביעת הענק של דיץ נגד לוין וגיא הראל"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-fbb548ed578d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790340387416,
+   "content_type": "article",
+   "first_seen_ms": 1790340387416,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790340000000,
+   "section": "ספורט",
+   "title": "\"רק אינדבידואל יעשה שינוי\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-51787772b93d0a1027.htm": {
    "check_attempts": 1,
@@ -5696,6 +5708,18 @@
    "published_ms": 1790283600000,
    "section": "",
    "title": "ל-48 שעות בלבד: טיסה לתאילנד ב-499 דולרים"
+  },
+  "https://www.mako.co.il/travel-news/Article-312648ed578d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790340387416,
+   "content_type": "article",
+   "first_seen_ms": 1790340387416,
+   "indexable": true,
+   "indexnow_ms": 1790340387416,
+   "published_ms": 1790339760000,
+   "section": "",
+   "title": "משרד החוץ מזהיר: להימנע מכל נסיעה לאזור הבא"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
