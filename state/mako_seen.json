@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790311648933,
+ "last_run_ms": 1790311948457,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4221,6 +4221,18 @@
    "section": "דיגיטל",
    "title": "הסטארט-אפ הישראלי ששווה כבר 3 מיליארד דולר"
   },
+  "https://www.mako.co.il/news-politics/2026_q3/Article-ce263e40bb4d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790311707721,
+   "content_type": "article",
+   "first_seen_ms": 1790311707721,
+   "indexable": true,
+   "indexnow_ms": 1790311707721,
+   "published_ms": 1790284500000,
+   "section": "חדשות",
+   "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-01a0fc97e62d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4460,6 +4472,18 @@
    "published_ms": 1790247780000,
    "section": "דיגיטל",
    "title": "הטמגוצ'י החדש של צוקרברג עומד לשנות את העולם"
+  },
+  "https://www.mako.co.il/nexter-news/Article-7d8c6626ad6d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790311707721,
+   "content_type": "article",
+   "first_seen_ms": 1790311707721,
+   "indexable": true,
+   "indexnow_ms": 1790311707721,
+   "published_ms": 1790310600000,
+   "section": "",
+   "title": "הפוסט האנטישמי שגרם לזעזוע בכל ארגנטינה"
   },
   "https://www.mako.co.il/nexter-news/Article-b22b4e8291ec0a1026.htm": {
    "check_attempts": 1,
