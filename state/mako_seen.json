@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790336548651,
+ "last_run_ms": 1790336848857,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1164,6 +1164,18 @@
    "published_ms": 1790148540000,
    "section": "ספורט",
    "title": "הפגרה תעזור? מצב הפצועים של מכבי תל אביב"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-4037d44ce48d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790336787189,
+   "content_type": "article",
+   "first_seen_ms": 1790336787189,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790336400000,
+   "section": "ספורט",
+   "title": "ירדן כהן נותח. זה משך הזמן הצפוי לחזרתו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-5a2014a114ac0a1026.htm": {
    "check_attempts": 0,
