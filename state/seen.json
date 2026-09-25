@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c35ce465dd3d0a1026.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-aac3f4f3ee4d0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7a2339a1a86d0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1d139a1a86d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26917,6 +26917,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-79eab946769c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_16008_22092026020100/M_NEWS_16008_22092026020100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7a2339a1a86d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עם חיוכים וחיבוקים: נתניהו נפגש עם נשיא ארגנטינה בשולי העצרת באו\"ם",
+   "duration_s": 120,
+   "first_seen_ms": 1790307446685,
+   "image": "https://img.mako.co.il/2026/09/25/M_NEWS_16162_25092026033328_1400_1790307337238_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790307347000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עם חיוכים וחיבוקים: נתניהו נפגש עם נשיא ארגנטינה בשולי העצרת באו\"ם",
+   "type": "mivzakim",
+   "updated_ms": 1790307347000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7a2339a1a86d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16162_25092026033328/M_NEWS_16162_25092026033328_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7bb1bd272c4d0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -28126,6 +28144,24 @@
    "updated_ms": 1790154235000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1d13780b7dc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16054_23092026090155/M_NEWS_16054_23092026090155_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1d139a1a86d0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נשיא איראן נשאל בראיון האם מדינתו רוצה פצצה גרעינית והשיב: \"ממש ממש לא\", והדגיש שטהרן לא חותרת להשגת",
+   "duration_s": 53,
+   "first_seen_ms": 1790307446685,
+   "image": "https://img.mako.co.il/2026/09/25/M_NEWS_16161_25092026033057_1400_1790307149485_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790307159000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נשיא איראן נשאל בראיון האם מדינתו רוצה פצצה גרעינית והשיב: \"ממש ממש לא\", והדגיש שטהרן לא חותרת להשגת",
+   "type": "mivzakim",
+   "updated_ms": 1790307159000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1d139a1a86d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16161_25092026033057/M_NEWS_16161_25092026033057_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c3663081722d0a1027.htm": {
    "author": "",

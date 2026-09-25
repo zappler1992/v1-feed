@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790307149327,
+ "last_run_ms": 1790307449143,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -649,6 +649,18 @@
    "section": "ספורט",
    "title": "לפני משחק מכבי ת\"א: דיץ` נצפה לצד רקנאטי"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-bb0339a1a86d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790307387298,
+   "content_type": "article",
+   "first_seen_ms": 1790307387298,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790307060000,
+   "section": "ספורט",
+   "title": "צעקות בחדר ההלבשה: האכזבה בהפועל ת\"א"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-bca230a4c04d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -876,6 +888,18 @@
    "published_ms": 1790153940000,
    "section": "ספורט",
    "title": "לא ילחצו יד לישראל? המחאה שנשקלת באירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-cae239a1a86d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790307387298,
+   "content_type": "article",
+   "first_seen_ms": 1790307387298,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790307180000,
+   "section": "ספורט",
+   "title": "אבו פרחי התנצל: \"טעות שהרסה את המשחק\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-cf2a39a1a86d0a1026.htm": {
    "check_attempts": 1,
