@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790364448745,
+ "last_run_ms": 1790364748905,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -696,6 +696,18 @@
    "published_ms": 1790317680000,
    "section": "ספורט",
    "title": "מה היא באמת שווה? השחקן שחסר למכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-84472a222f9d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790364748905,
+   "content_type": "article",
+   "first_seen_ms": 1790364748905,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790364540000,
+   "section": "ספורט",
+   "title": "סל ניצחון לשורטס, ולנסיה ניצחה בבשיקטאש"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-88b51a29cddc0a1026.htm": {
    "check_attempts": 1,
