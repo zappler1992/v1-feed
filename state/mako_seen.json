@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790351848470,
+ "last_run_ms": 1790352148410,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -888,6 +888,18 @@
    "published_ms": 1790342880000,
    "section": "ספורט",
    "title": "\"הרשויות יבחנו\": סולומון יענש על דבריו?"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-12cf8034f39d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790352148410,
+   "content_type": "article",
+   "first_seen_ms": 1790352148410,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790351820000,
+   "section": "ספורט",
+   "title": "למרות הכאבים: בריבו ייכלל בסגל לאירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-17f651e5af4d0a1026.htm": {
    "check_attempts": 1,
@@ -5635,7 +5647,7 @@
    "indexnow_ms": 1790255667029,
    "published_ms": 1790254800000,
    "section": "",
-   "title": "\"הייתי שותף של ביבי, פתאום לא להצטלם איתי – זה מעליב\""
+   "title": "\"גדי איזנקוט ואני יכולנו להיות חברים\""
   },
   "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
    "check_attempts": 1,
@@ -5660,6 +5672,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-99063a8019dc0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-n12_magazine/2026_q3/Article-99063a8019dc0a1027.htm",
+   "checked_ms": 1790352148410,
+   "content_type": "article",
+   "first_seen_ms": 1790352148410,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790352060000,
+   "section": "",
+   "title": "\"גורם מטורף\": המהלך החות'י – והאזהרה לישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
