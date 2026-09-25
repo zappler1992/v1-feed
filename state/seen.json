@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b86e3eae327d0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d7fe3eae327d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17614,6 +17614,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d6da831397ec0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/alice_230926_money/MASTER/alice_230926_money/alice_230926_money_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d7fe3eae327d0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 46,
+   "first_seen_ms": 1790317046444,
+   "image": "https://img.mako.co.il/2026/09/25/ASAF_SOCCER_25092026_M_1400_1790316441492_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790316448000,
+   "sections": [
+    "ספורט"
+   ],
+   "title": "החגיגה לאחר הגול - והסערה: שחקן נבחרת ישראל שמטריף את העולם",
+   "type": "news",
+   "updated_ms": 1790316448000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d7fe3eae327d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/ASAF_SOCCER_25092026/MASTER/ASAF_SOCCER_25092026_M/ASAF_SOCCER_25092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-e02a71e8100d0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -28078,19 +28096,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "חשד לרצח בחיפה: אישה כבת 30 אותרה במצב אנוש ונפטרה בבית החולים- בן זוגה נעצר",
-   "duration_s": 9,
+   "duration_s": 16,
    "first_seen_ms": 1790316746507,
-   "image": "https://img.mako.co.il/2026/09/25/V1_POLICE_6454_25092026060425_1400_1790316423182_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/09/25/FIX_POLICE_M_1400_1790316710958_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1790316430000,
    "sections": [
     "מבזקים"
    ],
    "title": "חשד לרצח בחיפה: אישה כבת 30 אותרה במצב אנוש ונפטרה בבית החולים- בן זוגה נעצר",
    "type": "mivzakim",
-   "updated_ms": 1790316430000,
+   "updated_ms": 1790316720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b86e3eae327d0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/V1_POLICE_6454_25092026060425/V1_POLICE_6454_25092026060425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/FIX_POLICE_M/FIX_POLICE_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba620fc1e64d0a1026.htm": {
    "author": "מבזקים",
