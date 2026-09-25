@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790365348868,
+ "last_run_ms": 1790365664768,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1438,6 +1438,18 @@
    "published_ms": 1790345280000,
    "section": "ספורט",
    "title": "הרחקה ושלילת תארים: עונשי סיטי האפשריים"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-5f245f6070ad0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790365587292,
+   "content_type": "article",
+   "first_seen_ms": 1790365587292,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790365440000,
+   "section": "ספורט",
+   "title": "\"מספר מועדונים שוקלים צעדים משפטיים\""
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-8006fd28452d0a1027.htm": {
    "check_attempts": 1,
@@ -5767,7 +5779,7 @@
    "indexnow_ms": null,
    "published_ms": 1790360160000,
    "section": "",
-   "title": "העסקה בשווי מיליארדים - והחשש בארצות הברית"
+   "title": "עסקת המיליארדים עם סעודיה - והחשש בארצות הברית"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
