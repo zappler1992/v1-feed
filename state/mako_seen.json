@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790347949648,
+ "last_run_ms": 1790348250335,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -372,6 +372,18 @@
    "published_ms": 1790148000000,
    "section": "ספורט",
    "title": "אשתו של בראון אישרה: יחתום בהפועל י-ם"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-8555f9f45f8d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790348066980,
+   "content_type": "article",
+   "first_seen_ms": 1790348066980,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790347680000,
+   "section": "ספורט",
+   "title": "בראון חתם בי-ם, זה השכר והמתווה המיוחד"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-aff6cc0fe82d0a1027.htm": {
    "check_attempts": 1,
@@ -1748,6 +1760,18 @@
    "published_ms": 1790254800000,
    "section": "",
    "title": "הסיפור של הזוג הזה לא יוצא לכם מהראש, ובצדק"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-282ba6b8ef8d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790348066980,
+   "content_type": "article",
+   "first_seen_ms": 1790348066980,
+   "indexable": true,
+   "indexnow_ms": 1790348066980,
+   "published_ms": 1790347080000,
+   "section": "סלבס",
+   "title": "\"עשיתי התרת קללות ונדרים, התפללתי\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-45b743a4ba2d0a1026.htm": {
    "check_attempts": 1,
@@ -4039,7 +4063,7 @@
    "indexnow_ms": 1790346506901,
    "published_ms": 1790343360000,
    "section": "",
-   "title": "\"הם ירו בו כדי למנוע את העדות שלו\""
+   "title": "הרצח בצפון: \"הם ירו בו כדי למנוע את העדות שלו\""
   },
   "https://www.mako.co.il/men-men_news/Article-4642bb27608d0a1027.htm": {
    "check_attempts": 1,
