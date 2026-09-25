@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790323348717,
+ "last_run_ms": 1790323665682,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5324,6 +5324,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-b88b13fb667d0a1027.htm",
+   "checked_ms": 1790323665682,
+   "content_type": "article",
+   "first_seen_ms": 1790323665682,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790320320000,
+   "section": "",
+   "title": "הצעד של צה\"ל אחרי האסון הקשה ברצועת עזה"
   },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
