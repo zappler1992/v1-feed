@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790349448565,
+ "last_run_ms": 1790349748432,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1463,6 +1463,18 @@
    "section": "ספורט",
    "title": "אי של חלומות: הסינדרלה של הסריה A"
   },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-64d1e9eaf09d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790349748432,
+   "content_type": "article",
+   "first_seen_ms": 1790349748432,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790349540000,
+   "section": "ספורט",
+   "title": "אירלנד שוקלת את תרומת המענקים לפלסטינים"
+  },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a65e8f7db4dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1580,6 +1592,18 @@
    "published_ms": 1790233320000,
    "section": "",
    "title": "העיתונאי ואיש הטלוויזיה מנשה רז הלך לעולמו"
+  },
+  "https://www.mako.co.il/culture-articles/Article-3df7961de09d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790349627156,
+   "content_type": "article",
+   "first_seen_ms": 1790349627156,
+   "indexable": true,
+   "indexnow_ms": 1790349627156,
+   "published_ms": 1790348460000,
+   "section": "",
+   "title": "הצצה ראשונה לסרט \"נז\"א\" - והמחאה שצפויה נגדו"
   },
   "https://www.mako.co.il/culture-articles/Article-59196270638d0a1026.htm": {
    "check_attempts": 1,
@@ -4063,7 +4087,7 @@
    "indexnow_ms": 1790346506901,
    "published_ms": 1790343360000,
    "section": "",
-   "title": "הרצח בצפון: \"הם ירו בו כדי למנוע את העדות שלו\""
+   "title": "הרצח בצפון: \"ירו בו כדי למנוע את העדות שלו\""
   },
   "https://www.mako.co.il/men-men_news/Article-4642bb27608d0a1027.htm": {
    "check_attempts": 1,
@@ -5479,7 +5503,7 @@
    "indexnow_ms": 1790305587166,
    "published_ms": 1790305200000,
    "section": "צבא וביטחון",
-   "title": "המערך המתקדם שספג את המכה הקשה ביותר מאיראן"
+   "title": "מחיר המלחמה לארה\"ב - והמערך שלה שספג מכה מאיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d98b9b007b2d0a1027.htm": {
    "check_attempts": 1,
