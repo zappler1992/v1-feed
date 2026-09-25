@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e4b7bb27608d0a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-333e7a5a568d0a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-8708f9ab268d0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2365,6 +2366,24 @@
    "updated_ms": 1790148708000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-7ac58c8852dc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/inbie_gadot_230926/MASTER/inbie_gadot_230926/inbie_gadot_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-8708f9ab268d0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "דקוטה ג'ונסון כבשה את השטיח האדום בפרמיירת הסרט \"ווריטי\" בלוק נועז, שכלל שמלת תחרה שקופה והלבשה תחתונה שחורה",
+   "duration_s": 21,
+   "first_seen_ms": 1790337746353,
+   "image": "https://img.mako.co.il/2026/09/25/FIX_SHIRA_DAKOTA_250926_M_1400_1790337439351_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790337420000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "בתחתונים שחורים: הלוק הנועז של דקוטה ג'ונסון כוכבת 50 גוונים של אפור",
+   "type": "general",
+   "updated_ms": 1790337420000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-8708f9ab268d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/FIX_SHIRA_DAKOTA_250926_M/FIX_SHIRA_DAKOTA_250926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-929ddb58787d0a1026.htm": {
    "author": "סלבס",
@@ -17296,7 +17315,8 @@
    "importance": 2,
    "published_ms": 1790268049000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "חדשות"
    ],
    "title": "בצמרת השלילית: נתב\"ג מוביל את שיבושי העולם בטיסות",
    "type": "news",
@@ -46694,6 +46714,24 @@
    "updated_ms": 1790168099000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-24e58c7cc4ec0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_viatnam_6366_23092026125331/V1_karind_viatnam_6366_23092026125331_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-333e7a5a568d0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "במסגרת גל אכיפה אכזרי: נשים אפגניות נאספו ונגררו לתוך ואן על ידי שוטרות של הטאליבן",
+   "duration_s": 23,
+   "first_seen_ms": 1790337746353,
+   "image": "https://img.mako.co.il/2026/09/25/V1_AFGANISTAN_6461_25092026115645_1400_1790337498043_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790337504000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "במסגרת גל אכיפה אכזרי: נשים אפגניות נאספו ונגררו לתוך ואן על ידי שוטרות של הטאליבן",
+   "type": "mivzakim",
+   "updated_ms": 1790337504000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-333e7a5a568d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/V1_AFGANISTAN_6461_25092026115645/V1_AFGANISTAN_6461_25092026115645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-335d455029cc0a1027.htm": {
    "author": "מבזקים מהעולם",

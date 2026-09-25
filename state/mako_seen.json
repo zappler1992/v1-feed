@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790337448910,
+ "last_run_ms": 1790337748672,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5252,6 +5252,18 @@
    "published_ms": 1790263800000,
    "section": "",
    "title": "תצלומי לווין למתקפות טרור: הסוד של איראן נחשף"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-a5d7d44ce48d0a1026.htm",
+   "checked_ms": 1790337748672,
+   "content_type": "article",
+   "first_seen_ms": 1790337748672,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790336640000,
+   "section": "",
+   "title": "נער ישראלי בן 14 נהרג מפגיעת כטב\"ם רוסי בקייב"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ae564ec09f1d0a1026.htm": {
    "check_attempts": 1,
