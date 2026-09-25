@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790360548621,
+ "last_run_ms": 1790360849671,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2275,7 +2275,7 @@
    "indexnow_ms": 1790257950324,
    "published_ms": 1790256600000,
    "section": "משפט",
-   "title": "נדחתה בקשת אב לחידוש קשר אחרי 8 שנים"
+   "title": "האב ביקש לחדש את הקשר עם ילדיו - ונדחה"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-bdc253b16c7c0a1026.htm": {
    "check_attempts": 1,
@@ -4351,7 +4351,7 @@
    "indexnow_ms": 1790351787255,
    "published_ms": 1790351280000,
    "section": "",
-   "title": "\"הוא שלף אקדח, ירה באוויר כמה כדורים וברח\""
+   "title": "מקרה חריג באוניברסיטת ת\"א: \"הוא ירה באוויר כמה כדורים\""
   },
   "https://www.mako.co.il/men-men_news/Article-c7816b95bdfc0a1026.htm": {
    "check_attempts": 1,
@@ -5719,7 +5719,7 @@
    "indexnow_ms": null,
    "published_ms": 1790353200000,
    "section": "",
-   "title": "החיפושים אחר הנעדר שטבע באשקלון נמשכים"
+   "title": "טביעה באשקלון: אדם אחד נעדר, שניים חולצו במצב קשה וקל"
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
@@ -5744,6 +5744,18 @@
    "published_ms": 1790352060000,
    "section": "",
    "title": "\"גורם מטורף\": המהלך החות'י – והאזהרה לישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-adf589d3d89d0a1027.htm",
+   "checked_ms": 1790360786958,
+   "content_type": "article",
+   "first_seen_ms": 1790360786958,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790360160000,
+   "section": "",
+   "title": "העסקה בשווי מיליארדים - והחשש בארצות הברית"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
