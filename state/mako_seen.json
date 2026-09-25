@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790326048756,
+ "last_run_ms": 1790326348862,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4472,6 +4472,18 @@
    "published_ms": 1790143440000,
    "section": "ספורט",
    "title": "נחשף: השכר הממוצע לשחקן בליגת העל"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-e2f545fdfa7d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790326348862,
+   "content_type": "article",
+   "first_seen_ms": 1790326348862,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790326080000,
+   "section": "ספורט",
+   "title": "מספיק או לא? הערכת השווי הראשונה של גורן"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-ed9461da751d0a1027.htm": {
    "check_attempts": 1,
