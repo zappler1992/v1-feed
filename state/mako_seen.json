@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790353348448,
+ "last_run_ms": 1790353648332,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4568,6 +4568,18 @@
    "published_ms": 1790139960000,
    "section": "מוזיקה",
    "title": "הסכום הענק שקיבלה הכוכבת על הופעה של 20 דקות"
+  },
+  "https://www.mako.co.il/music-news/Article-c8078034f39d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790353587359,
+   "content_type": "article",
+   "first_seen_ms": 1790353587359,
+   "indexable": true,
+   "indexnow_ms": 1790353587359,
+   "published_ms": 1790352660000,
+   "section": "מוזיקה",
+   "title": "הכוכבת הבריטית בטענות מופרכות נגד ישראל"
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
