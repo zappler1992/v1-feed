@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790320648734,
+ "last_run_ms": 1790320948760,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -984,6 +984,18 @@
    "published_ms": 1790157540000,
    "section": "ספורט",
    "title": "גם בלי קבוצה, יש לו מקום: על זימון דסה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d4df13fb667d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790320948760,
+   "content_type": "article",
+   "first_seen_ms": 1790320948760,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790320740000,
+   "section": "ספורט",
+   "title": "השינויים של בן שמעון בהרכב לקראת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d4e005cd98fc0a1027.htm": {
    "check_attempts": 1,
@@ -5840,6 +5852,18 @@
    "published_ms": 1790280120000,
    "section": "חדשות",
    "title": "\"הוא ננטש\": המיליארדר שתרם לכולם ונשאר לבד מדבר"
+  },
+  "https://www.mako.co.il/tv-galit_and_yoav/articles/Article-6cef288d657d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790320827183,
+   "content_type": "article",
+   "first_seen_ms": 1790320827183,
+   "indexable": true,
+   "indexnow_ms": 1790320827183,
+   "published_ms": 1790319780000,
+   "section": "הכי חם",
+   "title": "ליאור אשכנזי מודה: \"אני חושב שמיצינו את זה\""
   },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-54734b0c63f90a1026.htm": {
    "check_attempts": 1,
