@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790341048994,
+ "last_run_ms": 1790341348648,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1210,6 +1210,18 @@
    "published_ms": 1790105100000,
    "section": "ספורט",
    "title": "מכה לבית\"ר: מצבו העדכני של ירדן כהן"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-78ef5c05898d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790341348648,
+   "content_type": "article",
+   "first_seen_ms": 1790341348648,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790341020000,
+   "section": "ספורט",
+   "title": "כך נפל מעבר בוניפייס לקבוצה מליגת העל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-7eb2bb7dd3ec0a1027.htm": {
    "check_attempts": 1,
@@ -5731,7 +5743,7 @@
    "indexnow_ms": 1790340387416,
    "published_ms": 1790339760000,
    "section": "",
-   "title": "משרד החוץ מזהיר: להימנע מכל נסיעה לאזור הבא"
+   "title": "משרד החוץ מזהיר: האזור שצריך להימנע מכל נסיעה אליו"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
