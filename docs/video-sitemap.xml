@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-29b7174f8c9d0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/25/V1_Konenut_250926_6467_25092026065231_1400_1790362434057_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כוננות שיא בחג: צה&quot;ל מתגבר את השטח בשתי אוגדות נוספות מחשש להתחממות</video:title>
+<video:description>כוננות שיא בחג: צה&quot;ל מתגבר את השטח בשתי אוגדות נוספות מחשש להתחממות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/V1_Konenut_250926_6467_25092026065231/V1_Konenut_250926_6467_25092026065231_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>26</video:duration>
+<video:publication_date>2026-09-25T18:54:04+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-a8c0174f8c9d0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/25/V1_stiv_garin_6466_25092026063531_1400_1790361413420_FirstFrame.jpg</video:thumbnail_loc>
@@ -94,6 +110,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -142,6 +159,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -159,6 +177,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
