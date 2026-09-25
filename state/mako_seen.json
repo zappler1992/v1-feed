@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790354248507,
+ "last_run_ms": 1790354548449,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4784,6 +4784,18 @@
    "published_ms": 1790226660000,
    "section": "ספורט",
    "title": "יפספס מיליונים: סנטוס לא ישחק ב-NCAA"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-ef425615069d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790354548449,
+   "content_type": "article",
+   "first_seen_ms": 1790354548449,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790354220000,
+   "section": "ספורט",
+   "title": "ג`ורדן החדש? פריצת הדרך הכלכלית של אמבפה"
   },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
    "check_attempts": 1,
