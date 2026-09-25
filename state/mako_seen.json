@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790324548548,
+ "last_run_ms": 1790324848508,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -793,6 +793,18 @@
    "section": "ספורט",
    "title": "\"חלאילי יותר ממוכן להוביל אותנו ליורו\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0b1c858d7a7d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790324787422,
+   "content_type": "article",
+   "first_seen_ms": 1790324787422,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790324580000,
+   "section": "ספורט",
+   "title": "לא רק הדגל: הצהוב הראשון ההזוי לאבו פרחי"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0d9ef050b05d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1423,7 +1435,7 @@
    "indexnow_ms": 1790318787045,
    "published_ms": 1790317680000,
    "section": "",
-   "title": "\"אדריכל רצח העם\": הכוכבת שנעצרה בהפגנה מגיבה לראשונה"
+   "title": "הכוכבת שנעצרה בהפגנה נגד נתניהו מגיבה"
   },
   "https://www.mako.co.il/culture-articles/Article-27750fc1e64d0a1026.htm": {
    "check_attempts": 1,
