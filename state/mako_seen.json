@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790353948800,
+ "last_run_ms": 1790354248507,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5672,6 +5672,18 @@
    "published_ms": 1790136840000,
    "section": "",
    "title": "התיעוד המסעיר של טראמפ - והשאלות על מצבו הרפואי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-507c0d18959d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-507c0d18959d0a1027.htm",
+   "checked_ms": 1790354187421,
+   "content_type": "article",
+   "first_seen_ms": 1790354187421,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790353200000,
+   "section": "",
+   "title": "שלושה צעירים נכנסו לשחות יחד וטבעו, אחד נעדר"
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
