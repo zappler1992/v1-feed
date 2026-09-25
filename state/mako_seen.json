@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790310151142,
+ "last_run_ms": 1790310450605,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -779,7 +779,19 @@
    "indexnow_ms": null,
    "published_ms": 1790280960000,
    "section": "ספורט",
-   "title": "מוגזם? הסבר החוקה להרחקתו של אבו פרחי"
+   "title": "\"פעל באופן מתריס\": סערה בגלל חגיגת השחקן הישראלי"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-120de3be8c6d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790310387705,
+   "content_type": "article",
+   "first_seen_ms": 1790310387705,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790310000000,
+   "section": "ספורט",
+   "title": "לראשונה. שחקן אירי: \"אין לשחק נגד ישראל\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-17f651e5af4d0a1026.htm": {
    "check_attempts": 1,
