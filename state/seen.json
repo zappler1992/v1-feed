@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5bcf9dbfd88d0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-8d9f9dbfd88d0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b52f9dbfd88d0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-48c29dbfd88d0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4c99076dfa8d0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17249,6 +17248,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-41473605ecdc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/yoav_ronaldo_230926/MASTER/yoav_ronaldo_230926/yoav_ronaldo_230926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-48c29dbfd88d0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי הנאום של נתניהו באומות המאוחדות - בדקנו באיזה אמירותיו הוא הצליח, ובאיזה נכשל. חיסול הבכירים, הקשר עם קטאר והגרעין האיראני, האם אמירותיו באמת מוצדקות?",
+   "duration_s": 79,
+   "first_seen_ms": 1790342246474,
+   "image": "https://img.mako.co.il/2026/09/25/ASAF_BIBI_25092026_M_1400_1790341257910_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790341920000,
+   "sections": [],
+   "title": "נאום נתניהו באו\"ם - מבחן המציאות",
+   "type": "news",
+   "updated_ms": 1790341920000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-48c29dbfd88d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/ASAF_BIBI_25092026/MASTER/ASAF_BIBI_25092026_M/ASAF_BIBI_25092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-53370dfc507d0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26467,7 +26482,8 @@
    "importance": 0,
    "published_ms": 1790329523000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "המיליונר האמריקאי, יואלי לנדאו, תועד מחלק מזומנים לאברכים נשואים",
    "type": "mivzakim",
@@ -26528,6 +26544,24 @@
    "updated_ms": 1790223991000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4c5a13c93a1d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16101_24092026042448/M_NEWS_16101_24092026042448_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4c99076dfa8d0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל חיסל השבוע שני מחבלי חמאס: אחד מהם פשט לישראל ב-7 באוקטובר ולקח חלק בהחזקת חטופים בשבי",
+   "duration_s": 9,
+   "first_seen_ms": 1790342246474,
+   "image": "https://img.mako.co.il/2026/09/25/M_NEWS_16193_25092026010944_1400_1790341876459_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790341887000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל חיסל השבוע שני מחבלי חמאס: אחד מהם פשט לישראל ב-7 באוקטובר ולקח חלק בהחזקת חטופים בשבי",
+   "type": "mivzakim",
+   "updated_ms": 1790341887000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4c99076dfa8d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16193_25092026010944/M_NEWS_16193_25092026010944_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-4e07ac7f747d0a1026.htm": {
    "author": "מבזקים",
