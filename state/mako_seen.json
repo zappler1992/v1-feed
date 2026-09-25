@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790337748672,
+ "last_run_ms": 1790338048673,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1892,6 +1892,18 @@
    "published_ms": 1790156400000,
    "section": "סלבס",
    "title": "אחרי שנים סוערות: הצעד הבא של המשפיענית"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local/Article-10a0f9ab268d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790337987307,
+   "content_type": "article",
+   "first_seen_ms": 1790337987307,
+   "indexable": true,
+   "indexnow_ms": 1790337987307,
+   "published_ms": 1790336220000,
+   "section": "",
+   "title": "אן זיוי ובעלה חושפים שמו של בנם השני"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-d8336a0b60fc0a1026.htm": {
    "check_attempts": 1,
@@ -4532,6 +4544,18 @@
    "published_ms": 1790171940000,
    "section": "ספורט",
    "title": "כמה? השכר הממוצע לכדורגלנית בליגת העל"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-74b6f9ab268d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790337987307,
+   "content_type": "article",
+   "first_seen_ms": 1790337987307,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790337780000,
+   "section": "ספורט",
+   "title": "הפך למיליארדר: ההצלחה הכלכלית של בקהאם"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-7fd3cb683dcc0a1026.htm": {
    "check_attempts": 1,
