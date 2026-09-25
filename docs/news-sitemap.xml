@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-53370dfc507d0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-25T07:35:00+00:00</news:publication_date>
+<news:title>מחיר הדלק שוב מזנק: בדרך ליותר מ-8 שקלים לליטר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/25/Kim_Delek_25092026_1400_1790314661506_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b2b013fb667d0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1979,14 +1988,5 @@
 <news:title>במהלך חיפוש במבנה: המשטרה איתרה אקדח שהוסווה כאייפון בכפר ג&#x27;דיידה מכר בגליל המערבי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/23/M_NEWS_16048_23092026074449_1400_1790149559944_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-548e09c123dc0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-23T07:40:29+00:00</news:publication_date>
-<news:title>ככה הרופאים הצילו מטופל שחטף התקף לב - בגיל 100</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/23/alice_230926_heart_1400_1790149217676_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
