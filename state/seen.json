@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-9f69df9ed0dd0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-55e7be5840dd0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18094,7 +18094,9 @@
    "image": "https://img.mako.co.il/2026/09/26/biata_mauritius_260926_1400_1790413996096_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790414004000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "האי שמסרב למטוסים ישראלים לנחות בו",
    "type": "news",
    "updated_ms": 1790414004000,
@@ -27021,6 +27023,24 @@
    "updated_ms": 1790134471000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-538d402644cc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16030_23092026033253/M_NEWS_16030_23092026033253_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-55e7be5840dd0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקבע מותו של גבר כבן 30 לאחר שנמשה מהמים כשהוא מחוסר הכרה סמוך לחוף הנפרד בכינרת",
+   "duration_s": 9,
+   "first_seen_ms": 1790416645846,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16220_26092026094938_1400_1790416259384_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790416267000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקבע מותו של גבר כבן 30 לאחר שנמשה מהמים כשהוא מחוסר הכרה סמוך לחוף הנפרד בכינרת",
+   "type": "mivzakim",
+   "updated_ms": 1790416267000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-55e7be5840dd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16220_26092026094938/M_NEWS_16220_26092026094938_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5883e8673f3d0a1027.htm": {
    "author": "מבזקים",
