@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3a918a82a5fd0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-26T20:28:48+00:00</news:publication_date>
+<news:title>מה נתניהו ידע - לפני ה7.10?</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/26/SHIR_BIBI_260926_1_1400_1790454520444_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-eaea511374fd0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1142,14 +1151,5 @@
 <news:title>נשיא איראן נשאל בראיון האם מדינתו רוצה פצצה גרעינית והשיב: &quot;ממש ממש לא&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/25/M_NEWS_16161_25092026033057_1400_1790307149485_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-00deba4fc15d0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T20:38:25+00:00</news:publication_date>
-<news:title>לאחר הוויכוח עם בנט בבני ברק: מרדכי דוד חוסם את מכוניתו של ראש הממשלה לשעבר | צפו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_KARIN_MORDECHAI_6449_24092026083614_1400_1790282296381_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
