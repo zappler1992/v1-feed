@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790438850716,
+ "last_run_ms": 1790439150058,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -876,6 +876,18 @@
    "published_ms": 1790273520000,
    "section": "ספורט",
    "title": "\"בראיינט לא הורגש. יש להפועל ת\"א בעיות\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-03414cc5f5ed0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790439150058,
+   "content_type": "article",
+   "first_seen_ms": 1790439150058,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790437860000,
+   "section": "ספורט",
+   "title": "הצעד של ההתאחדות לאחר האדום של אבו פרחי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -4963,7 +4975,7 @@
    "indexnow_ms": 1790424748724,
    "published_ms": 1790424600000,
    "section": "",
-   "title": "שר את השיר שכולכם מכירים - ומת רגע לפני ההצלחה הגדולה"
+   "title": "כיכב בלהקת הענק - ומת רגע לפני ההצלחה הגדולה"
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
