@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790416048451,
+ "last_run_ms": 1790416348700,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1450,6 +1450,18 @@
    "published_ms": 1790403480000,
    "section": "ספורט",
    "title": "שכטר סיפר: החלוץ שהיה במו\"מ עם מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/q3_2026/Article-ca37be5840dd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790416348700,
+   "content_type": "article",
+   "first_seen_ms": 1790416348700,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790415960000,
+   "section": "ספורט",
+   "title": "כולל קנס גבוה: העונש שבית\"ר קיבלה מאופ\"א"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-1452ed86b42d0a1026.htm": {
    "check_attempts": 1,
