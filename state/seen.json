@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5abc997a4bed0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-d3d9399298ed0a1027.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-2be3d5d24aed0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e848399298ed0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2642,6 +2644,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-c5ebfcfc5adc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/rinat_biles_23092026/MASTER/rinat_biles_23092026_M/rinat_biles_23092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-d3d9399298ed0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "הזמרת טיפאני, שכיכבה בשנות ה־90, חזרה לבמה בבכורה שלה באוף-ברודוויי וביצעה מחדש את הלהיט האייקוני שלה מ-1987, \"I Think We’re Alone Now\".",
+   "duration_s": 34,
+   "first_seen_ms": 1790444246520,
+   "image": "https://img.mako.co.il/2026/09/26/SHIR_STAR_260926_1400_1790440185045_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790443800000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "בלתי ניתנת לזיהוי: כוכבת שנות ה-90 משחזרת את הלהיט שלה",
+   "type": "general",
+   "updated_ms": 1790443800000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-d3d9399298ed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/SHIR_STAR_260926/MASTER/SHIR_STAR_260926/SHIR_STAR_260926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-df51a931f7ec0a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -3823,6 +3843,24 @@
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-0cb96098434d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_omernudelman_6429_24092026041731/V1_karind_omernudelman_6429_24092026041731_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-2be3d5d24aed0a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "עם דמעות וצרחות מהתרגשות: כך הגיבו הקרובים להצעת הנישואין של אגם בוחבוט ובר ברימר",
+   "duration_s": 125,
+   "first_seen_ms": 1790444246520,
+   "image": "https://img.mako.co.il/2026/09/26/V1_karind_buhbut_6497_26092026050918_1400_1790442687190_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790442697000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "עם דמעות וצרחות מהתרגשות: כך הגיבו הקרובים להצעת הנישואין של אגם בוחבוט ובר ברימר",
+   "type": "mivzakim",
+   "updated_ms": 1790442697000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-2be3d5d24aed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_karind_buhbut_6497_26092026050918/V1_karind_buhbut_6497_26092026050918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-346116d1fe9c0a1027.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
@@ -4766,7 +4804,8 @@
    "importance": 2,
    "published_ms": 1790431707000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "כוכב נטפליקס היהודי: \"שחררו את פלסטין, מדובר ברצח עם\"",
    "type": "general",
@@ -8480,6 +8519,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e4b7bb27608d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/FIX_SHIRA_TEIBA_250926_M/FIX_SHIRA_TEIBA_250926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e848399298ed0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "קרוליין לוויט, לשעבר דוברת הבית הלבן מספרת בפודקאסט של שון האניטי, על הרגע המביך שבו טראמפ נזף בקיר סטארמר (לשעבר ר\"מ בריטניה) וביקר אותו על המדיניות הפוליטית שלו על המהגרים במדינה בזמן ארוחת ערב בביתו.",
+   "duration_s": 42,
+   "first_seen_ms": 1790444246520,
+   "image": "https://img.mako.co.il/2026/09/26/AVISHAI_KAROLIN_M_2609_1400_1790439972784_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790439983000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "המקורבת לנשיא חושפת: הרגע שטראמפ הביך את ראש ממשלת בריטניה בארוחת הערב",
+   "type": "general",
+   "updated_ms": 1790439983000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e848399298ed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/AVISHAI_KAROLIN_2609/MASTER/AVISHAI_KAROLIN_M_2609/AVISHAI_KAROLIN_M_2609_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
    "date_source": null,
@@ -10063,7 +10120,8 @@
    "importance": 1,
    "published_ms": 1790434320000,
    "sections": [
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים עכשיו"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 44: אין לך תחליף",
    "type": "series",
@@ -48048,7 +48106,8 @@
    "importance": 0,
    "published_ms": 1790429606000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אש פרצה בספינת מטען מצפון למיקונוס: 29 בני אדם פונו בסירות הצלה | צפו",
    "type": "mivzakim",
@@ -48142,7 +48201,8 @@
    "importance": 0,
    "published_ms": 1790422567000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "שתה יותר מדי: קוף נכנס לחנות אלכוהול בהודו, השתכר ונרדם בתוך החנות",
    "type": "mivzakim",
@@ -48408,7 +48468,8 @@
    "importance": 0,
    "published_ms": 1790427021000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "טסים לתאילנד? שימו לב - בנגקוק טובעת בגלל הצפות ענק | צפו בתיעודים הבלתי נתפסים",
    "type": "mivzakim",
