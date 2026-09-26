@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-42f3f3279ddd0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c6d9a72d0fdd0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-bff641983ddd0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -29435,6 +29436,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c557fe63eecb0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_warning_6275_20092026041249/V1_warning_6275_20092026041249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c6d9a72d0fdd0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נבחרת אירלנד הודיעה כי תעלה למשחק מול ישראל: \"רוב השחקנים רוצים לשחק\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790430146223,
+   "image": "https://img.mako.co.il/2026/09/26/V1_karind_irland_6485_26092026013912_1400_1790430027717_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790430034000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נבחרת אירלנד הודיעה כי תעלה למשחק מול ישראל: \"רוב השחקנים רוצים לשחק\"",
+   "type": "mivzakim",
+   "updated_ms": 1790430034000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c6d9a72d0fdd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_karind_irland_6485_26092026013912/V1_karind_irland_6485_26092026013912_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c77b552390eb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -48054,6 +48073,24 @@
    "updated_ms": 1790248666000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-ba7cc68f023d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_NOAY_MIVGESHEM_240926_6411_24092026111626/V1_NOAY_MIVGESHEM_240926_6411_24092026111626_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-bff641983ddd0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המטוס התרסק ועלה באש: יותר מ-14 בני אדם נהרגו בקונגו | צפו בזירה הקטלנית",
+   "duration_s": 63,
+   "first_seen_ms": 1790430146223,
+   "image": "https://img.mako.co.il/2026/09/26/V1_karind_congo_6484_26092026013734_1400_1790429952943_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790429963000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המטוס התרסק ועלה באש: יותר מ-14 בני אדם נהרגו בקונגו | צפו בזירה הקטלנית",
+   "type": "mivzakim",
+   "updated_ms": 1790429963000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-bff641983ddd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_karind_congo_6484_26092026013734/V1_karind_congo_6484_26092026013734_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-c1b96626ad6d0a1026.htm": {
    "author": "מבזקים מהעולם",
