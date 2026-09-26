@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790411549527,
+ "last_run_ms": 1790411849405,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1534,6 +1534,18 @@
    "published_ms": 1790250900000,
    "section": "ספורט",
    "title": "\"הותקפתי מינית ע\"י גבר, לא יכול לשכוח\""
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-9e5706091ccd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790411787612,
+   "content_type": "article",
+   "first_seen_ms": 1790411787612,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790411520000,
+   "section": "ספורט",
+   "title": "אם סיטי תיענש: טבלת האליפויות של אנגליה"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-a0b1cab9314d0a1026.htm": {
    "check_attempts": 1,
@@ -6727,7 +6739,7 @@
    "indexnow_ms": 1790305587166,
    "published_ms": 1790305200000,
    "section": "תרבות tvbee",
-   "title": "הכוכב מדבר על הסערה בסט: \"תפס אותי משום מקום\""
+   "title": "כוכב הסדרה לא מתרגש מהסערה בסט: \"בא לעבוד\""
   },
   "https://www.mako.co.il/tvbee-articles/Article-50274e0b300c0a1026.htm": {
    "check_attempts": 1,
