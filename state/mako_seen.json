@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790440049373,
+ "last_run_ms": 1790440348932,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1810,6 +1810,18 @@
    "published_ms": 1790431080000,
    "section": "ספורט",
    "title": "צפו: \"לא יהיו לחיצות ידיים עם ישראל\""
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-d7457509c6ed0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790440348932,
+   "content_type": "article",
+   "first_seen_ms": 1790440348932,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790439600000,
+   "section": "ספורט",
+   "title": "\"כל הזמן רבתי עם המוסלמים בחדר ההלבשה\""
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-fb73d18b8fbd0a1027.htm": {
    "check_attempts": 1,
