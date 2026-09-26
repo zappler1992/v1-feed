@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790431049702,
+ "last_run_ms": 1790431348939,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1774,6 +1774,18 @@
    "published_ms": 1790150760000,
    "section": "ספורט",
    "title": "מאיפה זה בא? הבית החדש של דויד אלאבה"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a854a72d0fdd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790431348939,
+   "content_type": "article",
+   "first_seen_ms": 1790431348939,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790431080000,
+   "section": "ספורט",
+   "title": "\"לא יהיו לחיצות ידיים עם ישראל\""
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-fb73d18b8fbd0a1027.htm": {
    "check_attempts": 1,
