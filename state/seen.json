@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-29179fa75ced0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fde23a7d7fed0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-38823a7d7fed0a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-e9ad3a7d7fed0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-79e7a8417bed0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2401,6 +2404,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-794a24193f8c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/Kim_Liky_22092026/MASTER/Kim_Liky_22092026/Kim_Liky_22092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-79e7a8417bed0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 25,
+   "first_seen_ms": 1790448446560,
+   "image": "https://img.mako.co.il/2026/09/26/SHIR_SEX_260926_1400_1790443867555_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790443874000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "גרושתו של כוכב העבר חושפת - עשיתי סקס ארבע פעמים בלילה",
+   "type": "general",
+   "updated_ms": 1790443874000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-79e7a8417bed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/SHIR_SEX_260926/MASTER/SHIR_SEX_260926/SHIR_SEX_260926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-7ac58c8852dc0a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -4027,6 +4048,24 @@
    "updated_ms": 1790150520000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-d76c906a9ecc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_karind_bieber_6347_23092026061840/V1_karind_bieber_6347_23092026061840_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-e9ad3a7d7fed0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "בעיר הכי רומנטית: קים קרדשיאן ובן הזוג לואיס המילטון מבלים בפריז",
+   "duration_s": 19,
+   "first_seen_ms": 1790448446560,
+   "image": "https://img.mako.co.il/2026/09/26/V1_karind_kim_6501_26092026063319_1400_1790447669312_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790447676000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "בעיר הכי רומנטית: קים קרדשיאן ובן הזוג לואיס המילטון מבלים בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1790447676000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-e9ad3a7d7fed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_karind_kim_6501_26092026063319/V1_karind_kim_6501_26092026063319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w04/shorts-f7a0e931153d0a1026.htm": {
    "author": "מבזקי סלבס",
@@ -26903,6 +26942,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-379d9202ec9c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/V1_lionel_6328_22092026035415/V1_lionel_6328_22092026035415_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-38823a7d7fed0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הצהרת ראשי גוש השינוי: \"החלפת הממשלה היא מטרת-העל המשותפת שלנו, וחובתנו לפעול יחד להגשמתה\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790448446560,
+   "image": "https://img.mako.co.il/2026/09/26/V1_KARIND_OPOZI_6502_26092026064200_1400_1790448203165_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790448209000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הצהרת ראשי גוש השינוי: \"החלפת הממשלה היא מטרת-העל המשותפת שלנו, וחובתנו לפעול יחד להגשמתה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790448209000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-38823a7d7fed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_KARIND_OPOZI_6502_26092026064200/V1_KARIND_OPOZI_6502_26092026064200_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3a18bea880fb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31116,6 +31173,24 @@
    "updated_ms": 1790048154000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fdb7fe15f07c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/M_NEWS_15961_22092026033434/M_NEWS_15961_22092026033434_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fde23a7d7fed0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראשי גוש השינוי נפגשו בביתו של לפיד והצהירו: \"החלפת הממשלה היא מטרת-העל המשותפת שלנו״",
+   "duration_s": 9,
+   "first_seen_ms": 1790448446560,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16244_26092026064229_1400_1790448231418_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790448242000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראשי גוש השינוי נפגשו בביתו של לפיד והצהירו: \"החלפת הממשלה היא מטרת-העל המשותפת שלנו״",
+   "type": "mivzakim",
+   "updated_ms": 1790448242000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fde23a7d7fed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16244_26092026064229/M_NEWS_16244_26092026064229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-fe27cf13758c0a1027.htm": {
    "author": "מבזקים",
