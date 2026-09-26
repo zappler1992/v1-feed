@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790398348956,
+ "last_run_ms": 1790398648879,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1594,6 +1594,18 @@
    "published_ms": 1790150760000,
    "section": "ספורט",
    "title": "מאיפה זה בא? הבית החדש של דויד אלאבה"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-fb73d18b8fbd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790398586733,
+   "content_type": "article",
+   "first_seen_ms": 1790398586733,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790398440000,
+   "section": "ספורט",
+   "title": "נשארו לבד: הכעס של שחקני נבחרת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-9d4de89306dc0a1027.htm": {
    "check_attempts": 1,
