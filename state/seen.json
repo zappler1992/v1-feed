@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-74503a6c62fd0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-341e3a6c62fd0a1026.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2250,6 +2251,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-303aefa47a9d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/inbie_LIKI_250926/MASTER/inbie_LIKI_250926/inbie_LIKI_250926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-341e3a6c62fd0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "לא נגענו: דנה זרמון העלתה את בעלה בעירום (מצונזר) אך מלא לסטורי, במהלך החופשה המשפחתית שלהם באיטליה",
+   "duration_s": 60,
+   "first_seen_ms": 1790452046730,
+   "image": "https://img.mako.co.il/2026/09/26/FIXDANA_1_1400_1790451635169_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790450838000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "דנה זרמון מתעדת את בעלה בעירום מצונזר במהלך החופשה המשפחתית באיטליה",
+   "type": "general",
+   "updated_ms": 1790450838000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-341e3a6c62fd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/FIXDANA_1/FIXDANA_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-49f7331b3cec0a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -2280,7 +2299,8 @@
    "importance": 2,
    "published_ms": 1790431992000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הסלבס שהם גם משפחה: אין מצב שידעתם שהם יפגשו בחג",
    "type": "general",
@@ -2670,7 +2690,8 @@
    "importance": 2,
    "published_ms": 1790443800000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "בלתי ניתנת לזיהוי: כוכבת שנות ה-80 משחזרת את הלהיט שלה",
    "type": "general",
@@ -4883,6 +4904,24 @@
    "updated_ms": 1790397600000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-192e5f6070ad0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/alona_golda_250926/MASTER/alona_golda_m_250926/alona_golda_m_250926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "הניו יורק טיימס דירג את 100 הסדרות הכי טובות של המאה ה-21, במקום הראשון זכתה \"שובר שורות\" ומיד אחריה גם \"מד מן\" ו\"יורשים\". במה כבר צפיתם ומה עוד יש לכם להשלים? | אלה חמש הסדרות הטובות ביותר של העשור",
+   "duration_s": 53,
+   "first_seen_ms": 1790452046730,
+   "image": "https://img.mako.co.il/2026/09/26/AVISHAI_TVSHOWS_2609_M_1400_1790451455417_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790451465000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "הניו יורק טיימס קבע: חמש הסדרות הטובות של המאה",
+   "type": "general",
+   "updated_ms": 1790451465000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/AVISHAI_TVSHOWS_2609/MASTER/AVISHAI_TVSHOWS_2609_M/AVISHAI_TVSHOWS_2609_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-1b6d88e3885c0a1027.htm": {
    "author": "תרבות",
@@ -18001,7 +18040,8 @@
    "importance": 2,
    "published_ms": 1790435276000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "העיתונאית הישראלית שהשתיקה את הבכיר האיראני: \"הוצאתם מאות אזרחים להורג!\"",
    "type": "news",
@@ -18262,7 +18302,8 @@
    "importance": 2,
    "published_ms": 1790438978000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "טראמפ על סף תקיפה באיראן: מתי זה יקרה ואיך נערכים בישראל",
    "type": "news",
