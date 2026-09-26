@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790446349159,
+ "last_run_ms": 1790446649250,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6188,6 +6188,18 @@
    "published_ms": 1790393400000,
    "section": "",
    "title": "לקראת חידוש המלחמה עם איראן: ההכרזה הדרמטית של טראמפ"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026_q4/Article-195ef5f365ad0a1026.htm",
+   "checked_ms": 1790446587507,
+   "content_type": "article",
+   "first_seen_ms": 1790446587507,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790441400000,
+   "section": "",
+   "title": "איזנקוט הכריז: המפלגה ש\"לא תהיה חלק מהממשלה הבאה\""
   },
   "https://www.mako.co.il/special-mako-news/Article-2d58fa1495ac0a1027.htm": {
    "check_attempts": 1,
