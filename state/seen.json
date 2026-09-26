@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-1eefe9eaf09d0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-909c0a40dcbd0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-18f509ec5abd0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25595,6 +25596,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-187aeb588fec0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/M_NEWS_16077_23092026035428/M_NEWS_16077_23092026035428_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-18f509ec5abd0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שר החוץ האיראני עראקצ׳י: \"אי אפשר להפציץ מדינה, להטיל עליה מצור ואז לצפות שהביטחון וחופש השיט יחזרו",
+   "duration_s": 33,
+   "first_seen_ms": 1790395346174,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16203_26092026035421_1400_1790394963287_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790394971000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שר החוץ האיראני עראקצ׳י: \"אי אפשר להפציץ מדינה, להטיל עליה מצור ואז לצפות שהביטחון וחופש השיט יחזרו",
+   "type": "mivzakim",
+   "updated_ms": 1790394971000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-18f509ec5abd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16203_26092026035421/M_NEWS_16203_26092026035421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-192651b949cb0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -27928,6 +27947,24 @@
    "updated_ms": 1790272206000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-906e5f2a384d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_karind_hafgana_6434_24092026054834/V1_karind_hafgana_6434_24092026054834_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-909c0a40dcbd0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אישה כבת 50 נפצעה קשה מפגיעת רכב בדרך חיפה בקריית אתא",
+   "duration_s": 9,
+   "first_seen_ms": 1790395346174,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16204_26092026035539_1400_1790395012078_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790395018000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אישה כבת 50 נפצעה קשה מפגיעת רכב בדרך חיפה בקריית אתא",
+   "type": "mivzakim",
+   "updated_ms": 1790395018000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-909c0a40dcbd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16204_26092026035539/M_NEWS_16204_26092026035539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-90bf2c0f76dc0a1027.htm": {
    "author": "מבזקים",
