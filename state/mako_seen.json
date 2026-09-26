@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790445149144,
+ "last_run_ms": 1790445449159,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -432,6 +432,18 @@
    "published_ms": 1790444100000,
    "section": "ספורט",
    "title": "152 הופעות ב-NBA: הגארד החדש של נס ציונה"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-c8339fa75ced0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790445449159,
+   "content_type": "article",
+   "first_seen_ms": 1790445449159,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790445120000,
+   "section": "ספורט",
+   "title": "איטודיס חשף: מה באמת קורה מול תמיר בלאט?"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-fbb548ed578d0a1026.htm": {
    "check_attempts": 1,
@@ -3740,6 +3752,18 @@
    "published_ms": 1790246040000,
    "section": "HIX",
    "title": "האשימה את ישראל ב\"טרור רצחני\" והתבררה כמתחזה"
+  },
+  "https://www.mako.co.il/hix-special/Article-c20423036ced0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790445267457,
+   "content_type": "article",
+   "first_seen_ms": 1790445267457,
+   "indexable": true,
+   "indexnow_ms": 1790445267457,
+   "published_ms": 1790445000000,
+   "section": "",
+   "title": "אחרי שנים: הסוד המזעזע של המטפל בילדים נחשף"
   },
   "https://www.mako.co.il/hix-special/Article-c65dd5b2d52d0a1027.htm": {
    "check_attempts": 1,
