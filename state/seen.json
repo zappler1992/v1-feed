@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w04/shorts-37e13c85b0dc0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6ab9308b63ed0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-16a0871e84ed0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25765,6 +25764,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-151a52925c1d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/M_NEWS_16103_24092026045632/M_NEWS_16103_24092026045632_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-16a0871e84ed0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מפגינים בעשרות מוקדים בקריאה להקמת וועדת חקירה ממלכתית לטבח 7 באוקטובר והחלפת הממשלה",
+   "duration_s": 9,
+   "first_seen_ms": 1790436746730,
+   "image": "https://img.mako.co.il/2026/09/26/V1_KARIND_HAFGANA_6490_26092026032815_1400_1790436589036_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790436600000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מפגינים בעשרות מוקדים בקריאה להקמת וועדת חקירה ממלכתית לטבח 7 באוקטובר והחלפת הממשלה",
+   "type": "mivzakim",
+   "updated_ms": 1790436600000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-16a0871e84ed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_KARIND_HAFGANA_6490_26092026032815/V1_KARIND_HAFGANA_6490_26092026032815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-16c1abcb0b3d0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -48115,7 +48132,8 @@
    "importance": 0,
    "published_ms": 1790415356000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "קרב ההיאבקות הגדול בין האדם ל....ציפור האמו",
    "type": "mivzakim",
