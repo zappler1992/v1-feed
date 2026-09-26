@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790420248485,
+ "last_run_ms": 1790420548508,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6008,6 +6008,18 @@
    "published_ms": 1790136840000,
    "section": "",
    "title": "התיעוד המסעיר של טראמפ - והשאלות על מצבו הרפואי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-49d0be5840dd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-49d0be5840dd0a1027.htm",
+   "checked_ms": 1790420306918,
+   "content_type": "article",
+   "first_seen_ms": 1790420306918,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790419620000,
+   "section": "",
+   "title": "מתבצרים במלון, לא מתאמנים: המחאה נגד נבחרת ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-507c0d18959d0a1027.htm": {
    "check_attempts": 1,
