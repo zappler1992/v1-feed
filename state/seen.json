@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-341e3a6c62fd0a1026.htm",
-  "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-eaea511374fd0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4919,7 +4918,7 @@
    ],
    "title": "הניו יורק טיימס קבע: חמש הסדרות הטובות של המאה",
    "type": "general",
-   "updated_ms": 1790451465000,
+   "updated_ms": 1790452320000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/AVISHAI_TVSHOWS_2609/MASTER/AVISHAI_TVSHOWS_2609_M/AVISHAI_TVSHOWS_2609_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -30887,6 +30886,24 @@
    "updated_ms": 1790276520000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ea6652f0c94d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/V1_beeper_6436_24092026062516/V1_beeper_6436_24092026062516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-eaea511374fd0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דור פרץ לכתבים הזרים: ״אתם לא יכולים להבין את המציאות בה אנחנו חיים״",
+   "duration_s": 41,
+   "first_seen_ms": 1790452646695,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16248_26092026075307_1400_1790452477292_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790452483000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דור פרץ לכתבים הזרים: ״אתם לא יכולים להבין את המציאות בה אנחנו חיים״",
+   "type": "mivzakim",
+   "updated_ms": 1790452483000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-eaea511374fd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16248_26092026075307/M_NEWS_16248_26092026075307_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ed3fd8f122ec0a1026.htm": {
    "author": "מבזקים",
