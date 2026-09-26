@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d2e17509c6ed0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba777509c6ed0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8ad0308b63ed0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17881,6 +17882,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8a66d5b2d52d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/Kim_Neria_24092026/MASTER/Kim_Neria_24092026/Kim_Neria_24092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8ad0308b63ed0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אפרת לכטר עימתה את שר החוץ האיראני עם השאלה כיצד הוא מגדיר את עצמו \"קורבן טרור\", בזמן שמאות איראנים הוצאו להורג ונכלאו. התגובה שלו? חיוך - ללא תשובה",
+   "duration_s": 17,
+   "first_seen_ms": 1790439746445,
+   "image": "https://img.mako.co.il/2026/09/26/SHIR_IRAN_260926_1400_1790435269734_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790435276000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "העיתונאית הישראלית שהשתיקה את הבכיר האיראני: \"הוצאתם מאות אזרחים להורג!\"",
+   "type": "news",
+   "updated_ms": 1790435276000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8ad0308b63ed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/SHIR_IRAN_260926/MASTER/SHIR_IRAN_260926/SHIR_IRAN_260926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8b4fc18101ec0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26735,7 +26754,7 @@
    ],
    "title": "מפגש נדיר במעמקי מפרץ אילת עם \"חתול ים\", היצור הימי טריגון מנגרובים שמצוי בסכנת הכחדה",
    "type": "mivzakim",
-   "updated_ms": 1790434447000,
+   "updated_ms": 1790439480000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-36f5283182ed0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_CATSEAA_6488_26092026025210/V1_CATSEAA_6488_26092026025210_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -29343,6 +29362,24 @@
    "updated_ms": 1790272740000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba620fc1e64d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/SUAZN/SUAZN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba777509c6ed0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשתי תקיפות ברצועת עזה: צה\"ל חיסל מפקד מחלקת נוח'בה ומחבל נוסף מחמאס",
+   "duration_s": 6,
+   "first_seen_ms": 1790439746445,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16232_26092026041701_1400_1790439493841_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790439500000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשתי תקיפות ברצועת עזה: צה\"ל חיסל מפקד מחלקת נוח'בה ומחבל נוסף מחמאס",
+   "type": "mivzakim",
+   "updated_ms": 1790439500000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba777509c6ed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16232_26092026041701/M_NEWS_16232_26092026041701_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ba9b65fb703d0a1027.htm": {
    "author": "מבזקים",
