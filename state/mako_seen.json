@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790447249172,
+ "last_run_ms": 1790447549128,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1044,6 +1044,18 @@
    "published_ms": 1790440620000,
    "section": "ספורט",
    "title": "\"שיקראו יותר ויבואו לישראל לפני ששופטים\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-26078b9faeed0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790447549128,
+   "content_type": "article",
+   "first_seen_ms": 1790447549128,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790447220000,
+   "section": "ספורט",
+   "title": "המשחק הכי חשוב שלנו ב-56 השנים האחרונות"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-2907997a4bed0a1026.htm": {
    "check_attempts": 1,
@@ -2288,6 +2300,18 @@
    "published_ms": 1790275200000,
    "section": "סלבס",
    "title": "הכוכב הבינלאומי שוב בזוגיות עם ישראלית"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-aa03728ffded0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790447307521,
+   "content_type": "article",
+   "first_seen_ms": 1790447307521,
+   "indexable": true,
+   "indexnow_ms": 1790447307521,
+   "published_ms": 1790446860000,
+   "section": "",
+   "title": "הפעם זה לנצח? הקאמבק של מלכת היופי לשעבר ובעלה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
