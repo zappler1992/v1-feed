@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-ab2eb98f6bdd0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-1abcb98f6bdd0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1e8f3279ddd0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7979,7 +7978,8 @@
    "importance": 2,
    "published_ms": 1790416800000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "כולם מנסים לפענח: הסימן המסתורי של טראמפ",
    "type": "general",
@@ -8070,7 +8070,8 @@
    "importance": 2,
    "published_ms": 1790420771000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "התיעוד שנשיא טורקיה לא רוצה שהעולם יראה",
    "type": "general",
@@ -17371,7 +17372,8 @@
    "importance": 2,
    "published_ms": 1790412420000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "דיווח: 11 ימים לפני הטבח: מצרים הזהירה  את נתניהו",
    "type": "news",
@@ -29323,6 +29325,24 @@
    "updated_ms": 1790307159000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1d139a1a86d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16161_25092026033057/M_NEWS_16161_25092026033057_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1e8f3279ddd0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"לאיראן לעולם לא יהיה נשק גרעיני!!!\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790428946167,
+   "image": "https://img.mako.co.il/2026/09/26/V1_KARIND_TRUMP_6481_26092026011349_1400_1790428525606_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790428532000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"לאיראן לעולם לא יהיה נשק גרעיני!!!\"",
+   "type": "mivzakim",
+   "updated_ms": 1790428532000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1e8f3279ddd0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_KARIND_TRUMP_6481_26092026011349/V1_KARIND_TRUMP_6481_26092026011349_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c3663081722d0a1027.htm": {
    "author": "",

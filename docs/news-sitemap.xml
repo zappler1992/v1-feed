@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1e8f3279ddd0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-26T13:15:32+00:00</news:publication_date>
+<news:title>טראמפ: &quot;לאיראן לעולם לא יהיה נשק גרעיני!!!&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_KARIND_TRUMP_6481_26092026011349_1400_1790428525606_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-ab2eb98f6bdd0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1259,23 +1268,5 @@
 <news:title>תקלה בצינור מים הציפה את הרחובות - וגרמה לפקקים בניו ג&#x27;רזי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_karind_newjersy_6417_24092026013143_1400_1790256785169_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-8949fcfc5adc0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T13:21:00+00:00</news:publication_date>
-<news:title>אימה ביישוב היוקרתי בישראל: מכת רימונים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/23/alice_230926_kfar_1400_1790156630028_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-e3a23e3cb83d0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T13:19:13+00:00</news:publication_date>
-<news:title>דיווחים בעזה: צה&quot;ל תקף רכב בדרום-מערב העיר עזה, יש נפגעים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_KARIND_GAZA_6416_24092026011749_1400_1790255942940_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
