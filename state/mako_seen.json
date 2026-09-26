@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790415448234,
+ "last_run_ms": 1790415748480,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -889,6 +889,18 @@
    "section": "ספורט",
    "title": "\"חלאילי יותר ממוכן להוביל אותנו ליורו\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-089adf9ed0dd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790415748480,
+   "content_type": "article",
+   "first_seen_ms": 1790415748480,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790415600000,
+   "section": "ספורט",
+   "title": "תחרים את ישראל? העונש שמחכה לאירלנד"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0b1c858d7a7d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1690,6 +1702,18 @@
    "published_ms": 1790410620000,
    "section": "ספורט",
    "title": "לא יצאו מהמלון, לא מתאמנים: כאוס באירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-9dbadf9ed0dd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790415748480,
+   "content_type": "article",
+   "first_seen_ms": 1790415748480,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790415480000,
+   "section": "ספורט",
+   "title": "מה הוא יעשה? היהודי שמייצג את אירלנד"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-a65e8f7db4dc0a1026.htm": {
    "check_attempts": 1,
@@ -5347,7 +5371,7 @@
    "indexnow_ms": 1790305587166,
    "published_ms": 1790305200000,
    "section": "דיגיטל",
-   "title": "הסוד של בית הקפה המצליח בעולם"
+   "title": "מגע זהב: זה הסוד של בית הקפה המצליח בעולם"
   },
   "https://www.mako.co.il/ninemonth-birth/Article-21b02bdfe04a0a1027.htm": {
    "check_attempts": 1,
