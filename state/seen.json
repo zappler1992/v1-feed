@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-509c566404cd0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6960a48b77cd0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4804,7 +4804,8 @@
    "importance": 1,
    "published_ms": 1790353925000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "ברבי השיקו: בובה יהודיה עם סוודר חנוכה",
    "type": "general",
@@ -47421,6 +47422,24 @@
    "updated_ms": 1790325157000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-5ad945fdfa7d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/V1_squirrel_6457_25092026083045/V1_squirrel_6457_25092026083045_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6960a48b77cd0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אימה בספארי באפריקה: קרנף הסתער על רכב וניסה להפוך אותו | תיעוד",
+   "duration_s": 36,
+   "first_seen_ms": 1790406146837,
+   "image": "https://img.mako.co.il/2026/09/26/V1_AFRICA_6473_26092026065746_1400_1790405963725_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790405970000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "אימה בספארי באפריקה: קרנף הסתער על רכב וניסה להפוך אותו | תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1790405970000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6960a48b77cd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_AFRICA_6473_26092026065746/V1_AFRICA_6473_26092026065746_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-706cd5b2d52d0a1027.htm": {
    "author": "מבזקים מהעולם",

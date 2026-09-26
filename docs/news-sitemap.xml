@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6960a48b77cd0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-26T06:59:30+00:00</news:publication_date>
+<news:title>אימה בספארי באפריקה: קרנף הסתער על רכב וניסה להפוך אותו | תיעוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_AFRICA_6473_26092026065746_1400_1790405963725_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-509c566404cd0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1421,14 +1430,5 @@
 <news:title>בנה של זמרת מפורסמת נעצר בירושלים כשברכבו יותר מקילוגרם קנאביס, שיועדו להפצה בעיר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_DRUGS_6402_24092026070423_1400_1790233539057_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-9eaabc6c232d0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T06:58:24+00:00</news:publication_date>
-<news:title>איים על מתרחצים בגרזן וברח לשיחים: המעצר הדרמטי בכנרת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_KINERET_6401_24092026065646_1400_1790233097028_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
