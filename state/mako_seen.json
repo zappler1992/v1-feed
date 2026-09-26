@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790443649203,
+ "last_run_ms": 1790443949125,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4424,6 +4424,18 @@
    "published_ms": 1790240400000,
    "section": "פלילים",
    "title": "\"המשטרה בעיר לא קיימת, אנחנו כמו ברווזים במטווח\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-29fea8417bed0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790443707380,
+   "content_type": "article",
+   "first_seen_ms": 1790443707380,
+   "indexable": true,
+   "indexnow_ms": 1790443707380,
+   "published_ms": 1790443140000,
+   "section": "",
+   "title": "אלימות יוצאת דופן באילת: \"הייתה בהתקף זעם מטורף\""
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
