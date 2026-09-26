@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790424449079,
+ "last_run_ms": 1790424748724,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4892,6 +4892,18 @@
    "published_ms": 1790352660000,
    "section": "מוזיקה",
    "title": "הכוכבת הבריטית בטענות מופרכות נגד ישראל"
+  },
+  "https://www.mako.co.il/music-news/Article-dc65e465dd3d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790424748724,
+   "content_type": "article",
+   "first_seen_ms": 1790424748724,
+   "indexable": true,
+   "indexnow_ms": 1790424748724,
+   "published_ms": 1790424600000,
+   "section": "",
+   "title": "שר את השיר שכולכם מכירים - ומת רגע לפני ההצלחה הגדולה"
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
