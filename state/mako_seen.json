@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790407949190,
+ "last_run_ms": 1790408249580,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1546,6 +1546,18 @@
    "published_ms": 1790264940000,
    "section": "ספורט",
    "title": "איפה חלאילי? השחקנים המהירים באנגליה"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-a287b78bf7cd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790408187424,
+   "content_type": "article",
+   "first_seen_ms": 1790408187424,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790408040000,
+   "section": "ספורט",
+   "title": "ממנצ`יני ועד טורה: האישומים נגד סיטי"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-f81f6216ec8d0a1027.htm": {
    "check_attempts": 1,
@@ -5984,6 +5996,18 @@
    "published_ms": 1790132400000,
    "section": "חדשות",
    "title": "המפלגה הקטנה שמתחזקת ומשפיעה על הגושים"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-fb73d18b8fbd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790408067393,
+   "content_type": "article",
+   "first_seen_ms": 1790408067393,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790406120000,
+   "section": "",
+   "title": "\"חלק משחקני נבחרת אירלנד יחרימו את המשחק נגד ישראל\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-9833906a9ecc0a1027.htm": {
    "check_attempts": 1,
