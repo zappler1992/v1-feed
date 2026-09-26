@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-7b49f4ededbd0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-26T04:03:38+00:00</news:publication_date>
+<news:title>מזג אוויר נוח במהלך החג. בשני: ייתכנו גשמים בעיקר בצפון הארץ | התחזית המלאה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_tahazit_6469_26092026040142_1400_1790395412119_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-909c0a40dcbd0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1511,14 +1520,5 @@
 <news:title>אסון: נער בן 13 נפגע בתאונת דרכים קשה בקריית ביאליק, בבית החולים רמב&quot;ם קבעו את מותו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_NOAY_MIVVVNAAR_230926_6397_24092026041249_1400_1790223239581_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6e07da6ea71d0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T04:03:46+00:00</news:publication_date>
-<news:title>היום מעונן, אבל בקרוב יתקרר - וייתכן אפילו טפטוף: התחזית המלאה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/V1_WEATHERERER_6396_24092026040151_1400_1790222620266_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
