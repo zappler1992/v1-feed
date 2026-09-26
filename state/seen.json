@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0cb3e71348ed0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1f21a77e89ed0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26070,6 +26070,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1eea873df57d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/M_NEWS_16176_25092026070703/M_NEWS_16176_25092026070703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1f21a77e89ed0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט ב\"פגוש את העיתונות\": \"רע\"ם לא תהיה חלק מהממשלה הבאה\"",
+   "duration_s": 43,
+   "first_seen_ms": 1790441546459,
+   "image": "https://img.mako.co.il/2026/09/26/V1_karind_izenkot_6495_26092026044806_1400_1790441381698_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790441392000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט ב\"פגוש את העיתונות\": \"רע\"ם לא תהיה חלק מהממשלה הבאה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790441392000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1f21a77e89ed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_karind_izenkot_6495_26092026044806/V1_karind_izenkot_6495_26092026044806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1fcc57fad1cd0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -41193,7 +41211,7 @@
    ],
    "title": "מVינים בחירות: האיש שלא מסכים עם עצמו יכריע את הבחירות?",
    "type": "general",
-   "updated_ms": 1790275380000,
+   "updated_ms": 1790441220000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-92349aa2594d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/dor_vint_240926/MASTER/dor_vint_240926/dor_vint_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
