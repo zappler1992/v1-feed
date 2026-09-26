@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790412448307,
+ "last_run_ms": 1790412748400,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -660,6 +660,18 @@
    "published_ms": 1790221560000,
    "section": "ספורט",
    "title": "איפה מכבי? דירוג הכוח של אלייז`ה בראיינט"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-6165999d1dcd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790412748400,
+   "content_type": "article",
+   "first_seen_ms": 1790412748400,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790412480000,
+   "section": "ספורט",
+   "title": "2 דרכים, אותה עיר: עתיד הישראליות בעונה"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-62bf00c6f71d0a1027.htm": {
    "check_attempts": 1,
@@ -2479,7 +2491,7 @@
    "indexnow_ms": 1790257950324,
    "published_ms": 1790256600000,
    "section": "משפט",
-   "title": "האב ביקש לחדש את הקשר עם ילדיו - ונדחה"
+   "title": "נדחתה בקשת אב לחידוש קשר אחרי 8 שנים"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-bdc253b16c7c0a1026.htm": {
    "check_attempts": 1,
@@ -6380,6 +6392,18 @@
    "published_ms": 1790141760000,
    "section": "חופש",
    "title": "עולם אחר: הגענו לאי הפרטי שכולם מדברים עליו כרגע"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-4d1db9ffbdcd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790412627653,
+   "content_type": "article",
+   "first_seen_ms": 1790412627653,
+   "indexable": true,
+   "indexnow_ms": 1790412627653,
+   "published_ms": 1790412120000,
+   "section": "",
+   "title": "במדינה לא אישרו את נחיתת הטיסה מישראל - והיא בוטלה"
   },
   "https://www.mako.co.il/travel-news/international/Article-56e3fa1495ac0a1027.htm": {
    "check_attempts": 1,
