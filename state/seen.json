@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-c1e8f3279ddd0a1026.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-1457bd272c4d0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d6141983ddd0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26703,6 +26704,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d5d566404cd0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16208_26092026055741/M_NEWS_16208_26092026055741_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d6141983ddd0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נשיא איראן פזשכיאן טוען: המנהיג העליון מוג'תבא חמינאי החלים לחלוטין",
+   "duration_s": 9,
+   "first_seen_ms": 1790429546245,
+   "image": "https://img.mako.co.il/2026/09/26/V1_SHIR_IRAN_6482_26092026012659_1400_1790429290424_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790429298000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נשיא איראן פזשכיאן טוען: המנהיג העליון מוג'תבא חמינאי החלים לחלוטין",
+   "type": "mivzakim",
+   "updated_ms": 1790429298000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d6141983ddd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_SHIR_IRAN_6482_26092026012659/V1_SHIR_IRAN_6482_26092026012659_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3ff76003e8ac0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40762,6 +40781,22 @@
    "updated_ms": 1790064000000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w03/shorts-e8328345c8aa0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/DANIEL_YONATAN_160926/MASTER/DANIEL_YONATAN_160926/DANIEL_YONATAN_160926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-1457bd272c4d0a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "בלב מדינה מוסלמית, שגובלת באיראן מצאנו מקומיים שאוהבים את ישראל, טבע עוצר נשימה וכפרים עם תרבות עתיקה. הכירו את אזרבייג׳ן, אותה מדינה שמוכרת לנו נפט וקונה מאיתנו מערכות נשק מתקדמות. מעטים מכירים את מסלולי ההליכה המבודדים, בין כפרים מרתקים. כתבת V1 קרן קוזלוב ביקרה במדינה בהזמנת לשכת התיירות של אזרבייג׳ן. צפו:",
+   "duration_s": 141,
+   "first_seen_ms": 1790429546245,
+   "image": "https://img.mako.co.il/2026/09/24/keren_trek_240926_1400_1790276662889_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790428500000,
+   "sections": [],
+   "title": "בלעדי: ביקור במדינה שגובלת באיראן ומתה על ישראלים",
+   "type": "general",
+   "updated_ms": 1790428500000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-1457bd272c4d0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/keren_trek_240926/MASTER/keren_trek_240926/keren_trek_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-30cd7f3a965c0a1026.htm": {
    "author": "מיוחד",

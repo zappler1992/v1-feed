@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790429248520,
+ "last_run_ms": 1790429548848,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1140,6 +1140,18 @@
    "published_ms": 1790307180000,
    "section": "ספורט",
    "title": "אבו פרחי התנצל: \"טעות שהרסה את המשחק\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-caf6b98f6bdd0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790429548848,
+   "content_type": "article",
+   "first_seen_ms": 1790429548848,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790429340000,
+   "section": "ספורט",
+   "title": "צפו בשידור: מסיבת העיתונאים של אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-cf2a39a1a86d0a1026.htm": {
    "check_attempts": 1,
