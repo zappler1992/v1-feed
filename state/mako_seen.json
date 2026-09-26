@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790450249642,
+ "last_run_ms": 1790450549466,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1617,7 +1617,7 @@
    "indexnow_ms": null,
    "published_ms": 1790449800000,
    "section": "ספורט",
-   "title": "ישחק לצד עם מסי: זלצר זובידה חתם במיאמי"
+   "title": "ישחק לצד מסי: זלצר זובידה חתם במיאמי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-f573906a9ecc0a1027.htm": {
    "check_attempts": 1,
@@ -4532,6 +4532,18 @@
    "published_ms": 1790443140000,
    "section": "",
    "title": "אלימות יוצאת דופן באילת: \"הייתה בהתקף זעם מטורף\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-2d57b472f0fd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790450549466,
+   "content_type": "article",
+   "first_seen_ms": 1790450549466,
+   "indexable": true,
+   "indexnow_ms": 1790450549466,
+   "published_ms": 1790450100000,
+   "section": "",
+   "title": "עם מזוודות ומיליון יורו: ההסתבכות של הזוג הישראלי"
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
