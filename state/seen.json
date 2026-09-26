@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-55e7be5840dd0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-413c439504dd0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17416,6 +17416,22 @@
    "updated_ms": 1790017255000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-3799f7ee555c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/21/SHIR_HOLIWOOD_210926/MASTER/SHIR_HOLIWOOD_210926/SHIR_HOLIWOOD_210926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-413c439504dd0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1790419345837,
+   "image": "https://img.mako.co.il/2026/09/26/yoav_soccer_260926_1400_1790418891597_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790418900000,
+   "sections": [],
+   "title": "רגע לפני המשחק מול ישראל: בלגן בנבחרת אירלנד",
+   "type": "news",
+   "updated_ms": 1790418900000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-413c439504dd0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/yoav_soccer_260926/MASTER/yoav_soccer_260926/yoav_soccer_260926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-41473605ecdc0a1026.htm": {
    "author": "חדשות",
@@ -47541,14 +47557,14 @@
    "duration_s": 36,
    "first_seen_ms": 1790406146837,
    "image": "https://img.mako.co.il/2026/09/26/V1_AFRICA_6473_26092026065746_1400_1790405963725_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790405970000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "אימה בספארי באפריקה: קרנף הסתער על רכב וניסה להפוך אותו | תיעוד",
    "type": "mivzakim",
-   "updated_ms": 1790405970000,
+   "updated_ms": 1790417520000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-6960a48b77cd0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/V1_AFRICA_6473_26092026065746/V1_AFRICA_6473_26092026065746_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
