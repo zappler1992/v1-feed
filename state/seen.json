@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-16a0871e84ed0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cd65871e84ed0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-14cf5671f4ed0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25728,6 +25729,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-142c5615069d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/V1_fire_ship_6463_25092026042622/V1_fire_ship_6463_25092026042622_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-14cf5671f4ed0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר בן 51 נפצע בינוני באירוע אלימות בטמרה",
+   "duration_s": 9,
+   "first_seen_ms": 1790437346385,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16229_26092026033447_1400_1790436974184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790436980000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר בן 51 נפצע בינוני באירוע אלימות בטמרה",
+   "type": "mivzakim",
+   "updated_ms": 1790436980000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-14cf5671f4ed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16229_26092026033447/M_NEWS_16229_26092026033447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-14f64d6bd62d0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -29669,6 +29688,24 @@
    "updated_ms": 1790336460000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cc5cd44ce48d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/FIX_KEIV/FIX_KEIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cd65871e84ed0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים על תקיפות של צה\"ל בדרום לבנון",
+   "duration_s": 7,
+   "first_seen_ms": 1790437346385,
+   "image": "https://img.mako.co.il/2026/09/26/M_NEWS_16230_26092026033623_1400_1790437058641_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790437065000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים על תקיפות של צה\"ל בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790437065000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cd65871e84ed0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/M_NEWS_16230_26092026033623/M_NEWS_16230_26092026033623_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cdb09bce732d0a1026.htm": {
    "author": "מבזקים",
