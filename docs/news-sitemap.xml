@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-0cb3e71348ed0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-26T16:35:47+00:00</news:publication_date>
+<news:title>מאמן נבחרת ישראל רן בן שמעון: &quot;אני מתכוון ללחוץ את ידו של מאמן נבחרת אירלנד&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_KARIND_FOOTBALL_6494_26092026043423_1400_1790440540840_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-205e399298ed0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1250,14 +1259,5 @@
 <news:title>דובר צה&quot;ל פרסם תיעוד מחקירת הפירים ליד כפר סבא: ״מדובר בפיר בעומק של כ-12 מטרים&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/24/M_NEWS_16148_24092026045106_1400_1790268735899_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-5c5f5ec3144d0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-24T16:40:49+00:00</news:publication_date>
-<news:title>בצמרת השלילית: נתב&quot;ג מוביל את שיבושי העולם בטיסות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/SHIRA_NATBAG_240926_M_1400_1790268038741_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790440649559,
+ "last_run_ms": 1790440949405,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1008,6 +1008,18 @@
    "published_ms": 1790176740000,
    "section": "ספורט",
    "title": "\"זה כבוד ענק עבור סבע לא להיות בנבחרת\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-1cf5e71348ed0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790440949405,
+   "content_type": "article",
+   "first_seen_ms": 1790440949405,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790440620000,
+   "section": "ספורט",
+   "title": "\"שיקראו יותר ויבואו לישראל לפני ששופטים\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-310035d5a51d0a1026.htm": {
    "check_attempts": 1,
