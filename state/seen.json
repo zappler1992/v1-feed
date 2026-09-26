@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-49c14cc5f5ed0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-6eac7509c6ed0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d2e17509c6ed0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18124,6 +18123,24 @@
    "updated_ms": 1790073720000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-c3e0e1bbd18c0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/biata_storms_220926/MASTER/biata_storms_220926/biata_storms_220926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d2e17509c6ed0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ניצן שפירא מסביר על ההתפתחויות מול איראן: טראמפ דוחה את הצעת הפסקת האש, ובארה\"ב מדווחים כי הוא נערך לחידוש המערכה.",
+   "duration_s": 62,
+   "first_seen_ms": 1790439446464,
+   "image": "https://img.mako.co.il/2026/09/26/PREV_SHIR_STAR_260926_1400_1790438968842_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790438978000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "טראמפ על סף תקיפה באיראן: מתי זה יקרה ואיך נערכים בישראל",
+   "type": "news",
+   "updated_ms": 1790439000000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d2e17509c6ed0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/SHIR_TRUMP_260926/MASTER/PREV_SHIR_STAR_260926/PREV_SHIR_STAR_260926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w04/shorts-d6da831397ec0a1027.htm": {
    "author": "חדשות",
@@ -41025,7 +41042,9 @@
    "image": "https://img.mako.co.il/2026/09/24/keren_trek_240926_1400_1790276662889_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790428500000,
-   "sections": [],
+   "sections": [
+    "המיוחדים"
+   ],
    "title": "בלעדי: ביקור במדינה שגובלת באיראן ומתה על ישראלים",
    "type": "general",
    "updated_ms": 1790428500000,
