@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790492252525,
+ "last_run_ms": 1790492550446,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1871,6 +1871,18 @@
    "section": "ספורט",
    "title": "אמבפה כבש ונפצע, צרפת ניצחה 0:1 בטורקיה"
   },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-34737928f91e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790492550446,
+   "content_type": "article",
+   "first_seen_ms": 1790492550446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790492280000,
+   "section": "ספורט",
+   "title": "חשש באירלנד: האם פין עזז יפרוש מהנבחרת?"
+  },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-64d1e9eaf09d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2744,6 +2756,18 @@
    "published_ms": 1790248020000,
    "section": "כסף",
    "title": "מה-1.10: השינוי בוואטסאפ שהולך לעלות כסף"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-4c966270638d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790492550446,
+   "content_type": "article",
+   "first_seen_ms": 1790492550446,
+   "indexable": true,
+   "indexnow_ms": 1790492550446,
+   "published_ms": 1790335260000,
+   "section": "כסף",
+   "title": "לפני שכולם קונים: 10 מוצרים ששווה להכיר"
   },
   "https://www.mako.co.il/finances-consumer/Article-5c12ecb39d7c0a1027.htm": {
    "check_attempts": 1,
