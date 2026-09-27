@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790501548558,
+ "last_run_ms": 1790501848512,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5649,6 +5649,18 @@
    "section": "מוזיקה",
    "title": "השמלה של כוכבת העל התפוררה - וחשפה את מה שמתחת"
   },
+  "https://www.mako.co.il/music-news/Article-beec9b0f022e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790501666814,
+   "content_type": "article",
+   "first_seen_ms": 1790501666814,
+   "indexable": true,
+   "indexnow_ms": 1790501666814,
+   "published_ms": 1790501220000,
+   "section": "מוזיקה",
+   "title": "אחרי שבוטל בגלל המלחמה: הפסטיבל שהישראלים אוהבים חוזר"
+  },
   "https://www.mako.co.il/music-news/Article-c8078034f39d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7327,7 +7339,7 @@
    "indexnow_ms": 1790500949426,
    "published_ms": 1790500440000,
    "section": "חופש",
-   "title": "חלקם זקוקים לטיפול: עשרות ישראלים תקועים בנפאל"
+   "title": "עשרות ישראלים תקועים, חלקם זקוקים לטיפול רפואי"
   },
   "https://www.mako.co.il/travel-news/Article-108b528294fd0a1027.htm": {
    "check_attempts": 1,
