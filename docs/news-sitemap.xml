@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b475da42861e0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-27T06:02:32+00:00</news:publication_date>
+<news:title>בעקבות רכב שעולה באש: כביש 1 נחסם לתנועה סמוך למחלף חמד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_KARIND_KVISH1_6513_27092026060105_1400_1790488942402_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-9efb5201961e0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1142,14 +1151,5 @@
 <news:title>החגיגה לאחר הגול - והסערה: שחקן נבחרת ישראל שמטריף את העולם</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/25/ASAF_SOCCER_25092026_M_1400_1790316441492_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-b86e3eae327d0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-25T06:07:10+00:00</news:publication_date>
-<news:title>חשד לרצח בחיפה: אישה כבת 30 אותרה במצב אנוש ונפטרה בבית החולים- בן זוגה נעצר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/25/FIX_POLICE_M_1400_1790316710958_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
