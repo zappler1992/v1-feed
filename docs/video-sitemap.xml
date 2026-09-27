@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-89cc6058383e0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/27/V1_beitshemesh_6535_27092026034255_1400_1790523857424_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בעקבות דיווחים של תושבים מודאגים על מנצח רחיפה בבית שמש, כוחות הוקפצו - אין חשש להתרסקות.</video:title>
+<video:description>בעקבות דיווחים של תושבים מודאגים על מנצח רחיפה בבית שמש, כוחות הוקפצו - אין חשש להתרסקות.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_beitshemesh_6535_27092026034255/V1_beitshemesh_6535_27092026034255_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>16</video:duration>
+<video:publication_date>2026-09-27T15:44:25+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5439957cb73e0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/27/V1_fall_6534_27092026032901_1400_1790523022458_FirstFrame.jpg</video:thumbnail_loc>
@@ -418,6 +434,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חופש וטיולים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>

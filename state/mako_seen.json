@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790524648849,
+ "last_run_ms": 1790524948898,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6176,6 +6176,18 @@
    "published_ms": 1790284500000,
    "section": "חדשות",
    "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
+  },
+  "https://www.mako.co.il/news-sport/basketball-2026_q3/Article-6cc20aea643e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790524948898,
+   "content_type": "article",
+   "first_seen_ms": 1790524948898,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790524560000,
+   "section": "ספורט",
+   "title": "האזינו, רבע 1: מכבי - קריית אתא 0:0"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q3/Article-8166d5b45f0e0a1027.htm": {
    "check_attempts": 1,
