@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790537549198,
+ "last_run_ms": 1790537849229,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1296,6 +1296,18 @@
    "published_ms": 1790438640000,
    "section": "ספורט",
    "title": "בן שמעון: \"אושיט יד לכל מי שירצה ללחוץ\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-901f7ac8354e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790537849229,
+   "content_type": "article",
+   "first_seen_ms": 1790537849229,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790537580000,
+   "section": "ספורט",
+   "title": "בלם אירי התעמת עם מנור: \"אנחנו גזענים?\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9765f050b05d0a1027.htm": {
    "check_attempts": 1,
