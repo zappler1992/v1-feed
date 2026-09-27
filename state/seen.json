@@ -1,6 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f730e2743c2e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-77573e1a8c2e0a1026.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -31895,6 +31898,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75ea9b0f022e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_idf_6520_27092026091102/V1_karind_idf_6520_27092026091102_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-77573e1a8c2e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תושב שוקבא שברשות הפלסטינית נעצר בחשד שהתפרץ לדירה במודיעין עילית וגנב תכשיטים וכסף מזומן",
+   "duration_s": 9,
+   "first_seen_ms": 1790511746076,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16314_27092026121826_1400_1790511598637_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790511608000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תושב שוקבא שברשות הפלסטינית נעצר בחשד שהתפרץ לדירה במודיעין עילית וגנב תכשיטים וכסף מזומן",
+   "type": "mivzakim",
+   "updated_ms": 1790511608000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-77573e1a8c2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16314_27092026121826/M_NEWS_16314_27092026121826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7fdcb54c4f1e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32345,6 +32366,24 @@
    "updated_ms": 1790506786000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ddeae810482e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16299_27092026105752/M_NEWS_16299_27092026105752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f730e2743c2e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רשות שדות התעופה: בשל העלייה במספר הנוסעים - אל תגיעו לנתב\"ג ברכב פרטי",
+   "duration_s": 9,
+   "first_seen_ms": 1790511746076,
+   "image": "https://img.mako.co.il/2026/09/27/V1_KARIND_NATBAG_6525_27092026121404_1400_1790511374458_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790511383000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רשות שדות התעופה: בשל העלייה במספר הנוסעים - אל תגיעו לנתב\"ג ברכב פרטי",
+   "type": "mivzakim",
+   "updated_ms": 1790511383000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f730e2743c2e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_NATBAG_6525_27092026121404/V1_KARIND_NATBAG_6525_27092026121404_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f87b7928f91e0a1027.htm": {
    "author": "מבזקים",
