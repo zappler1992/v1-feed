@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790498248238,
+ "last_run_ms": 1790498548831,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6020,6 +6020,18 @@
    "published_ms": 1790081100000,
    "section": "דיגיטל",
    "title": "עקף את ChatGPT בקצב ההורדות: הלהיט החדש ברשת"
+  },
+  "https://www.mako.co.il/nexter-news/Article-5a83beb18e1e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790498548831,
+   "content_type": "article",
+   "first_seen_ms": 1790498548831,
+   "indexable": true,
+   "indexnow_ms": 1790498548831,
+   "published_ms": 1790496900000,
+   "section": "דיגיטל",
+   "title": "סכנה אמיתית: OpenAI עוצרת את הפיתוח"
   },
   "https://www.mako.co.il/nexter-news/Article-5d19581a69ec0a1026.htm": {
    "check_attempts": 1,
