@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-52772dae162e0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-e67f4abccb2e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3883c772bd2e0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-124ac772bd2e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2832,6 +2832,24 @@
    "updated_ms": 1790313000000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-feee5f2a384d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/SHIRA_NATE_240926/MASTER/SHIRA_NATE_240926_M/SHIRA_NATE_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-124ac772bd2e0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "סרטון של בריטני ספירס רוקדת בביתה מול עובד תחזוקה עורר סערה ברשת - כשחלק מהגולשים תהו מה חשב העובד על הסיטואציה, ואחרים האשימו אותה בהתנהגות לא הולמת.",
+   "duration_s": 43,
+   "first_seen_ms": 1790513246092,
+   "image": "https://img.mako.co.il/2026/09/27/SHIR_BRITNEY_270926_1400_1790512565901_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790512572000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "בריטני ספירס רקדה בעירום מול עובד בביתה",
+   "type": "general",
+   "updated_ms": 1790512560000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-124ac772bd2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_BRITNEY_270926/MASTER/SHIR_BRITNEY_270926/SHIR_BRITNEY_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-1e78e90c962e0a1027.htm": {
    "author": "סלבס",
@@ -18793,7 +18811,8 @@
    "importance": 2,
    "published_ms": 1790500680000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "מהעולם"
    ],
    "title": "התלוננה על המחירים בבית קפה באושוויץ - וחטפה",
    "type": "news",
@@ -31734,6 +31753,24 @@
    "updated_ms": 1790489307000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16258_27092026060717/M_NEWS_16258_27092026060717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3883c772bd2e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלוף! ארטיום דולגופיאט זכה במדליית זהב בגביע האתגר בפריז",
+   "duration_s": 9,
+   "first_seen_ms": 1790513246092,
+   "image": "https://img.mako.co.il/2026/09/27/V1_KARIND_ARTIUM_6526_27092026124124_1400_1790512966783_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790512973000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלוף! ארטיום דולגופיאט זכה במדליית זהב בגביע האתגר בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1790512973000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3883c772bd2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_ARTIUM_6526_27092026124124/V1_KARIND_ARTIUM_6526_27092026124124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b7ae4dda72e0a1027.htm": {
    "author": "מבזקים",
