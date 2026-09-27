@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8754215c6d0e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31323,6 +31324,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-ff61af0055fc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/V1_NOAY_LETTER_230926_1_6390_23092026054514/V1_NOAY_LETTER_230926_1_6390_23092026054514_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המאבטח של איסמאעיל הנייה קיבל אזרחות בבריטניה - וכעת מואשם בתכנון פיגועים באירופה",
+   "duration_s": 5,
+   "first_seen_ms": 1790482049454,
+   "image": "https://img.mako.co.il/2026/09/27/V1_HANIYEH_6505_27092026040225_1400_1790481813680_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790481820000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המאבטח של איסמאעיל הנייה קיבל אזרחות בבריטניה - וכעת מואשם בתכנון פיגועים באירופה",
+   "type": "mivzakim",
+   "updated_ms": 1790481820000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_HANIYEH_6505_27092026040225/V1_HANIYEH_6505_27092026040225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8754215c6d0e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31358,6 +31377,24 @@
    "updated_ms": 1790479143000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92d9cbe2dd0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16252_27092026031712/M_NEWS_16252_27092026031712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תוציאו את הז'קטים - כי הגשם בדרך: צפו בתחזית המלאה",
+   "duration_s": 51,
+   "first_seen_ms": 1790482049454,
+   "image": "https://img.mako.co.il/2026/09/27/V1_mezeg_6504_27092026035927_1400_1790481662959_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790481670000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תוציאו את הז'קטים - כי הגשם בדרך: צפו בתחזית המלאה",
+   "type": "mivzakim",
+   "updated_ms": 1790481670000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_mezeg_6504_27092026035927/V1_mezeg_6504_27092026035927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
