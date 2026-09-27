@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790543848380,
+ "last_run_ms": 1790544148497,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1548,6 +1548,18 @@
    "published_ms": 1790542620000,
    "section": "ספורט",
    "title": "\"לראשונה בקריירה - מרגיש צורך להתנצל\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-e294f8078a4e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790544148497,
+   "content_type": "article",
+   "first_seen_ms": 1790544148497,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790543700000,
+   "section": "ספורט",
+   "title": "\"אם אגיד מה אני חושב על האירים, אורחק\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eaa30b68782e0a1026.htm": {
    "check_attempts": 1,
