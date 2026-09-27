@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790532448748,
+ "last_run_ms": 1790532749025,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7676,6 +7676,18 @@
    "published_ms": 1790277000000,
    "section": "",
    "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-ec780197bd3e0a1026.htm",
+   "checked_ms": 1790532626748,
+   "content_type": "article",
+   "first_seen_ms": 1790532626748,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790529600000,
+   "section": "",
+   "title": "רגע לפני שריקת הפתיחה: ישראל תוקפת את אירלנד"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
