@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-80155b645b3e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fbc1d4c8c3e0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-fdbc1d4c8c3e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18864,7 +18865,9 @@
    "image": "https://img.mako.co.il/2026/09/27/SHIR_BABY_270629_FIX_1400_1790515137898_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790514911000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "סכנה לילדים: העגלה המוזלת מרמי לוי התפרקה - כשהילד בתוכה",
    "type": "news",
    "updated_ms": 1790515080000,
@@ -31789,6 +31792,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1758108ac53e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16320_27092026025335/M_NEWS_16320_27092026025335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fbc1d4c8c3e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אשדוד: שריפה עם לכודים בבניין בעיר",
+   "duration_s": 5,
+   "first_seen_ms": 1790528546395,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16322_27092026045711_1400_1790528306121_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790528316000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אשדוד: שריפה עם לכודים בבניין בעיר",
+   "type": "mivzakim",
+   "updated_ms": 1790528316000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fbc1d4c8c3e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16322_27092026045711/M_NEWS_16322_27092026045711_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32028,7 +32049,7 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6d984aa69e2e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "איראן: לכדנו צוללת אוטונומית אמריקנית נוספת במצר הורמוז",
+   "description": "איראן: לכדנו צוללת אוטונומית אמריקנית במצר הורמוז",
    "duration_s": 75,
    "first_seen_ms": 1790513546096,
    "image": "https://img.mako.co.il/2026/09/27/V1_KARIND_IRAN_6527_27092026124824_1400_1790513409114_FirstFrame.jpg",
@@ -32037,7 +32058,7 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "איראן: לכדנו צוללת אוטונומית אמריקנית נוספת במצר הורמוז",
+   "title": "איראן: לכדנו צוללת אוטונומית אמריקנית במצר הורמוז",
    "type": "mivzakim",
    "updated_ms": 1790526900000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6d984aa69e2e0a1026.htm",
@@ -50461,7 +50482,8 @@
    "importance": 0,
    "published_ms": 1790523032000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "מהעולם"
    ],
    "title": "הלוליינית נתלתה על החישוק באוויר - והנפילה שלה הפכה למופע המרכזי",
    "type": "mivzakim",
@@ -50545,6 +50567,24 @@
    "updated_ms": 1790495264000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-b265696cdc1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_SHIR_BUS_6517_27092026074514/V1_SHIR_BUS_6517_27092026074514_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-fdbc1d4c8c3e0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מלחיץ: מיישר דשא דרס את שחקן הכדורגל אנדרוס טאונסנד",
+   "duration_s": 11,
+   "first_seen_ms": 1790528546395,
+   "image": "https://img.mako.co.il/2026/09/27/V1_soccer_6537_27092026045701_1400_1790528305353_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790528315000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מלחיץ: מיישר דשא דרס את שחקן הכדורגל אנדרוס טאונסנד",
+   "type": "mivzakim",
+   "updated_ms": 1790528315000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-fdbc1d4c8c3e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_soccer_6537_27092026045701/V1_soccer_6537_27092026045701_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
