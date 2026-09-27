@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790512648526,
+ "last_run_ms": 1790512948810,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1188,6 +1188,18 @@
    "published_ms": 1790135340000,
    "section": "ספורט",
    "title": "לפני המשחק: השיחה של בן שמעון עם החלוצים"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-70ffc772bd2e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790512948810,
+   "content_type": "article",
+   "first_seen_ms": 1790512948810,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790512800000,
+   "section": "ספורט",
+   "title": "3 שחקני אירלנד שתמכו בהחלטתו של בזונו"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-750d5b1bc43d0a1027.htm": {
    "check_attempts": 1,
@@ -4148,6 +4160,18 @@
    "published_ms": 1790076000000,
    "section": "HIX",
    "title": "ריסס גז פלפל בבית הקולנוע - והסיבה מופרעת"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-b986fda32d2e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790512948810,
+   "content_type": "article",
+   "first_seen_ms": 1790512948810,
+   "indexable": true,
+   "indexnow_ms": 1790512948810,
+   "published_ms": 1790512620000,
+   "section": "HIX",
+   "title": "יצא לדוג בנהר, והזעיק משטרה בעקבות מה שמצא"
   },
   "https://www.mako.co.il/hix-bizarre/Article-bfab033b343d0a1027.htm": {
    "check_attempts": 1,
