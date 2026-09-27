@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790525248926,
+ "last_run_ms": 1790525549018,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1774,6 +1774,18 @@
    "published_ms": 1790449800000,
    "section": "ספורט",
    "title": "ישחק לצד מסי: זלצר זובידה חתם במיאמי"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-ece21acd743e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790525549018,
+   "content_type": "article",
+   "first_seen_ms": 1790525549018,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790521200000,
+   "section": "ספורט",
+   "title": "ההייפ היה מוגזם? מה שקרה ללהיט המונדיאל"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-f573906a9ecc0a1027.htm": {
    "check_attempts": 1,
@@ -6451,7 +6463,7 @@
    "indexnow_ms": 1790515048525,
    "published_ms": 1790514420000,
    "section": "דיגיטל",
-   "title": "\"חשבתי על זה במקלחת. למחרת זה היה בטלוויזיה\""
+   "title": "הישראלי שזוכה למיליוני צפיות: \"חשבתי על זה במקלחת\""
   },
   "https://www.mako.co.il/nexter-news/Article-207e65fb703d0a1027.htm": {
    "check_attempts": 1,
