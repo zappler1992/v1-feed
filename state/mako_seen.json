@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790506348128,
+ "last_run_ms": 1790506648501,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1116,6 +1116,18 @@
    "published_ms": 1790444160000,
    "section": "ספורט",
    "title": "\"קטסטרופה\": האיש שינהל את ישראל - אירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-2ef2e4dda72e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790506648501,
+   "content_type": "article",
+   "first_seen_ms": 1790506648501,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790506260000,
+   "section": "ספורט",
+   "title": "\"ברור שאבו פרחי קיבל אדום כי הוא ישראלי\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-310035d5a51d0a1026.htm": {
    "check_attempts": 1,
@@ -5696,6 +5708,18 @@
    "published_ms": 1790254800000,
    "section": "מוזיקה",
    "title": "מה נזכרתם? המדינה שנטפלת לנועם בתן"
+  },
+  "https://www.mako.co.il/music-news/Article-7e224672072e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790506467108,
+   "content_type": "article",
+   "first_seen_ms": 1790506467108,
+   "indexable": true,
+   "indexnow_ms": 1790506467108,
+   "published_ms": 1790506200000,
+   "section": "מוזיקה",
+   "title": "זה העונש שתקבל האיראנית שהופיעה ללא חיג'אב"
   },
   "https://www.mako.co.il/music-news/Article-964f5f3f7cea0a1027.htm": {
    "check_attempts": 1,
