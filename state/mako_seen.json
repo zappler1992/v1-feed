@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790507848170,
+ "last_run_ms": 1790508148229,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4161,6 +4161,18 @@
    "section": "",
    "title": "מזג אוויר נוח בערב סוכות, התקררות בתחילת השבוע"
   },
+  "https://www.mako.co.il/hix-special/Article-18fcef91e82e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790507907247,
+   "content_type": "article",
+   "first_seen_ms": 1790507907247,
+   "indexable": true,
+   "indexnow_ms": 1790507907247,
+   "published_ms": 1790507700000,
+   "section": "HIX",
+   "title": "ממצאים קשים: 1,600 שיני חלב נמצאו בקבר האחים"
+  },
   "https://www.mako.co.il/hix-special/Article-22034e2eeffc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5288,6 +5300,18 @@
    "published_ms": 1790064360000,
    "section": "פלילים",
    "title": "בעקבות המעצר: המראה החדש של ראש ארגון הפשע"
+  },
+  "https://www.mako.co.il/men-men_news/Article-5d730b68782e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790508148229,
+   "content_type": "article",
+   "first_seen_ms": 1790508148229,
+   "indexable": true,
+   "indexnow_ms": 1790508148229,
+   "published_ms": 1790507340000,
+   "section": "פלילים",
+   "title": "המלונית שבה נאנסה תיירת נפתחה בניגוד לצו"
   },
   "https://www.mako.co.il/men-men_news/Article-630f554064ea0a1026.htm": {
    "check_attempts": 1,
