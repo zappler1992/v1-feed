@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75ea9b0f022e0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-f6649a19912e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18679,7 +18677,23 @@
    "type": "news",
    "updated_ms": 1790500439000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_ELECTIONS_27092026/MASTER/ASAF_ELECTIONS_27092026_M/ASAF_ELECTIONS_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_ELECTIONS_27092026_MFIX/ASAF_ELECTIONS_27092026_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-f6649a19912e0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שייק דליל, לימונדה עם ריח של חומר ניקוי וחשבון של 9 פאונד: התלונות של תיירת בריטית על בית הקפה ליד אושוויץ הפכו לוויראליות והגיעו למעל למיליון צפיות - והתגובות בהתאם.",
+   "duration_s": 41,
+   "first_seen_ms": 1790501245786,
+   "image": "https://img.mako.co.il/2026/09/27/SHIR_COFFEE_270926_1400_1790500088080_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790500680000,
+   "sections": [],
+   "title": "התלוננה על המחירים בבית קפה באושוויץ - וחטפה",
+   "type": "news",
+   "updated_ms": 1790500080000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-f6649a19912e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_COFFEE_270926/MASTER/SHIR_COFFEE_270926/SHIR_COFFEE_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
