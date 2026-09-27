@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790493148291,
+ "last_run_ms": 1790493448623,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1881,7 +1881,7 @@
    "indexnow_ms": null,
    "published_ms": 1790492280000,
    "section": "ספורט",
-   "title": "חשש באירלנד: האם פין עזז יפרוש מהנבחרת?"
+   "title": "חשש אירי: הכוכב הישראלי יפרוש מהנבחרת?"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-64d1e9eaf09d0a1027.htm": {
    "check_attempts": 1,
@@ -5001,6 +5001,18 @@
    "section": "",
    "title": "\"הפכו את התלמידים לבני ערובה\": מה שאותר בגן ילדים"
   },
+  "https://www.mako.co.il/men-men_news/Article-95ef0845c91e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790493267373,
+   "content_type": "article",
+   "first_seen_ms": 1790493267373,
+   "indexable": true,
+   "indexnow_ms": 1790493267373,
+   "published_ms": 1790491740000,
+   "section": "פלילים",
+   "title": "הנאשמת בסיוע לרצח תעבור ניתוח דחוף: \"סכנה ממשית לחייה\""
+  },
   "https://www.mako.co.il/men-men_news/Article-9da0bd272c4d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6260,6 +6272,18 @@
    "published_ms": 1790150400000,
    "section": "צבא וביטחון",
    "title": "חיזבאללה נערך מחדש - מחוץ לטווח האש של צה\"ל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-0d34adf9881e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790493267373,
+   "content_type": "article",
+   "first_seen_ms": 1790493267373,
+   "indexable": true,
+   "indexnow_ms": 1790493267373,
+   "published_ms": 1790491020000,
+   "section": "",
+   "title": "טנקים ואלף חיילים אמריקאים בדרך לגבול המתוח"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1092e65b3adc0a1027.htm": {
    "check_attempts": 1,

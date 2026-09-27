@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-97967928f91e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3305a5821b1e0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-2342a5821b1e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13514,7 +13515,7 @@
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
    "date_source": null,
-   "description": "היום לפני שנתיים, ב-27.09.2024, צה\"ל חיסל את מזכ\"ל חיזבאללה - חסן נסראללה. במבצע חסר תקדים, חיל האוויר ביצע תקיפה כבדה בלב ביירות שבה הפיל 83 פצצות במשקל טונה כל אחת על מנת לחדור את הבונקר של חיזבאללה - וחיסל את נסראללה בהצלחה",
+   "description": "היום לפני שנתיים, ב-27.09.2024, צה\"ל חיסל את מזכ\"ל חיזבאללה - חסן נסראללה. במבצע חסר תקדים, חיל האוויר ביצע תקיפה כבדה בלב ביירות שבה הפיל 83 פצצות במשקל טונה כל אחת על מנת לחדור את הבונקר של חיזבאללה - וחיסל את נסראללה בהצלחה.",
    "duration_s": 19,
    "first_seen_ms": 1790491645827,
    "image": "https://img.mako.co.il/2024/10/03/INBAR_HISUL_031024_1400_1727971884530_FirstFrame.jpg",
@@ -31413,6 +31414,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/HANIYEH_MFIX/HANIYEH_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3305a5821b1e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לראשונה בחטיבת החשמונאים החרדית: גדוד המילואים והסדיר פועלים במקביל בגזרה הצפונית, כחלק מהעלאת הכוננ",
+   "duration_s": 28,
+   "first_seen_ms": 1790493445845,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16271_27092026071234_1400_1790493246272_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790493252000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לראשונה בחטיבת החשמונאים החרדית: גדוד המילואים והסדיר פועלים במקביל בגזרה הצפונית, כחלק מהעלאת הכוננ",
+   "type": "mivzakim",
+   "updated_ms": 1790493252000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3305a5821b1e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16271_27092026071234/M_NEWS_16271_27092026071234_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49242,6 +49261,24 @@
    "updated_ms": 1789881617000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_AIRES_6277_20092026051857/V1_AIRES_6277_20092026051857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-2342a5821b1e0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בילו בטברנה - ואז חמושים פתחו באש: 17 נהרגו ו-15 נפצעו בעיירה וולדה בדרום אפריקה",
+   "duration_s": 30,
+   "first_seen_ms": 1790493445845,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_southafrica_6515_27092026071027_1400_1790493133754_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790493140000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בילו בטברנה - ואז חמושים פתחו באש: 17 נהרגו ו-15 נפצעו בעיירה וולדה בדרום אפריקה",
+   "type": "mivzakim",
+   "updated_ms": 1790493140000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-2342a5821b1e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_southafrica_6515_27092026071027/V1_karind_southafrica_6515_27092026071027_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-871eae14031e0a1026.htm": {
    "author": "מבזקים מהעולם",
