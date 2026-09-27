@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c342e90c962e0a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-1e78e90c962e0a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-38a58a529f1e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b7ae4dda72e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d2e6e90c962e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31652,6 +31651,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16258_27092026060717/M_NEWS_16258_27092026060717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b7ae4dda72e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שלושה רובי ציד שהוסלקו בין שיחים בשטח פתוח בירכא אותרו על ידי לוחמי מג\"ב",
+   "duration_s": 25,
+   "first_seen_ms": 1790506345878,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16297_27092026104917_1400_1790506237268_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790506244000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שלושה רובי ציד שהוסלקו בין שיחים בשטח פתוח בירכא אותרו על ידי לוחמי מג\"ב",
+   "type": "mivzakim",
+   "updated_ms": 1790506244000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b7ae4dda72e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16297_27092026104917/M_NEWS_16297_27092026104917_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32102,6 +32119,24 @@
    "updated_ms": 1790502683000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16290_27092026094949/M_NEWS_16290_27092026094949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d2e6e90c962e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות מטיילים ישראלים תקועים בנפאל בשל מזג האוויר החריג | תיעוד נחיתת מסוק החילוץ",
+   "duration_s": 7,
+   "first_seen_ms": 1790506345878,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_israelim_6523_27092026104614_1400_1790506047589_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790506054000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות מטיילים ישראלים תקועים בנפאל בשל מזג האוויר החריג | תיעוד נחיתת מסוק החילוץ",
+   "type": "mivzakim",
+   "updated_ms": 1790506054000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d2e6e90c962e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_israelim_6523_27092026104614/V1_karind_israelim_6523_27092026104614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm": {
    "author": "מבזקים",
