@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae69fb7f721e0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-871eae14031e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31327,10 +31328,10 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "המאבטח של איסמאעיל הנייה קיבל אזרחות בבריטניה - וכעת מואשם בתכנון פיגועים באירופה",
-   "duration_s": 5,
+   "duration_s": 40,
    "first_seen_ms": 1790482049454,
    "image": "https://img.mako.co.il/2026/09/27/V1_HANIYEH_6505_27092026040225_1400_1790481813680_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790481820000,
    "sections": [
     "מבזקים"
@@ -31339,7 +31340,7 @@
    "type": "mivzakim",
    "updated_ms": 1790481820000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_HANIYEH_6505_27092026040225/V1_HANIYEH_6505_27092026040225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/HANIYEH_MFIX/HANIYEH_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5071ae51c01e0a1027.htm": {
    "author": "מבזקים",
@@ -31394,6 +31395,24 @@
    "updated_ms": 1790479143000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92d9cbe2dd0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16252_27092026031712/M_NEWS_16252_27092026031712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae69fb7f721e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משאית עולה באש בכביש 6, אחרי מחלף ניצני עוז לכיוון דרום, עומסים כבדים במקום",
+   "duration_s": 10,
+   "first_seen_ms": 1790485346684,
+   "image": "https://img.mako.co.il/2026/09/27/FIX_FIRE_1400_1790485213266_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790485080000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משאית עולה באש בכביש 6, אחרי מחלף ניצני עוז לכיוון דרום, עומסים כבדים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1790485080000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae69fb7f721e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FIX_FIRE/FIX_FIRE_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm": {
    "author": "מבזקים",
@@ -49005,6 +49024,24 @@
    "updated_ms": 1789881617000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_AIRES_6277_20092026051857/V1_AIRES_6277_20092026051857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-871eae14031e0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "צפו: הר הגעש אתנה בסיציליה התפרץ שוב, ונמל התעופה בקטניה נסגר להמראות ונחיתות",
+   "duration_s": 39,
+   "first_seen_ms": 1790485346684,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_sicily_6509_27092026045504_1400_1790484999233_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790485009000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "צפו: הר הגעש אתנה בסיציליה התפרץ שוב, ונמל התעופה בקטניה נסגר להמראות ונחיתות",
+   "type": "mivzakim",
+   "updated_ms": 1790485009000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-871eae14031e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_sicily_6509_27092026045504/V1_karind_sicily_6509_27092026045504_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
