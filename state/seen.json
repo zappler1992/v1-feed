@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b0a6ef91e82e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-898e77c30a2e0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2884,6 +2885,24 @@
    "updated_ms": 1790489421000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-4d8a0feb971e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/eden_tamar_2709/MASTER/eden_tamar_2709_m/eden_tamar_2709_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "ג'ני גארת' העלתה סרטון שבו היא מסתכלת על התלבושות הישנות שלבשה בשנות ה-90. אחת התלבושות הייתה בזמן הביקור שלה בישראל, והיא מספרת על כמה היא נהנתה במדינה ואומרת: \"אלה היו זמנים טובים\".",
+   "duration_s": 25,
+   "first_seen_ms": 1790509046001,
+   "image": "https://img.mako.co.il/2026/09/27/ASAF_JENNIE_27092026_M_1400_1790508368164_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790508374000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "ג'ני גארת', כוכבת \"בברלי הילס 90210\", נזכרת בביקור בישראל: \"אלה היו זמנים טובים\"",
+   "type": "general",
+   "updated_ms": 1790508374000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_JENNIE_27092026/MASTER/ASAF_JENNIE_27092026_M/ASAF_JENNIE_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-cac9adf9881e0a1026.htm": {
    "author": "סלבס",
@@ -31868,6 +31887,24 @@
    "updated_ms": 1790494089000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16274_27092026072653/M_NEWS_16274_27092026072653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-898e77c30a2e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "החשודים נעצרו סמוך לבסיס בריטי שממנו פעלו מפציצים אמריקניים - והופשטו בחיפוש אחר חגורות נפץ",
+   "duration_s": 47,
+   "first_seen_ms": 1790509046001,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_hashudim_6524_27092026113152_1400_1790508805704_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790508816000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "החשודים נעצרו סמוך לבסיס בריטי שממנו פעלו מפציצים אמריקניים - והופשטו בחיפוש אחר חגורות נפץ",
+   "type": "mivzakim",
+   "updated_ms": 1790508816000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-898e77c30a2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_hashudim_6524_27092026113152/V1_karind_hashudim_6524_27092026113152_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-905ce810482e0a1027.htm": {
    "author": "מבזקים",
