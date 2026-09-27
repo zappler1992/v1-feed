@@ -14,6 +14,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -162,6 +163,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-096989d5024e0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/27/SHIRA_HOLAND_270926_M_1400_1790533900191_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הולנד בצעד חריג: בדיקת מוצרים במזוודות של ישראלים לפני כניסה לאמסטרדם</video:title>
+<video:description>ממשלת הולנד יוצאת בצעד חריג ומחמירה את תנאי הכניסה לישראלים המגיעים לאמסטרדם: תיאסר הכנסת מוצרים שמקורם ביהודה ושומרון ורמת הגולן, והנוסעים יידרשו להוכיח את מקור הייצור של המוצרים שהביאו עמם מישראל. על פי הדיווחים, נוסעי טיסה שלמה של אל על כבר נדרשו לעבור בדיקה קפדנית</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIRA_HOLAND_270926/MASTER/SHIRA_HOLAND_270926_M/SHIRA_HOLAND_270926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>74</video:duration>
+<video:publication_date>2026-09-27T18:31:46+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-fa7c0fca714e0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/27/V1_tomcruise_6540_27092026062204_1400_1790533430510_FirstFrame.jpg</video:thumbnail_loc>
@@ -192,6 +210,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
