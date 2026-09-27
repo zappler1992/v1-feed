@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790496448697,
+ "last_run_ms": 1790496748332,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2769,6 +2769,18 @@
    "section": "סלבס",
    "title": "\"הם יודעים שלשניהם יש נטיות ודפוסים רעילים\""
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-d9a40845c91e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790496507523,
+   "content_type": "article",
+   "first_seen_ms": 1790496507523,
+   "indexable": true,
+   "indexnow_ms": 1790496507523,
+   "published_ms": 1790496180000,
+   "section": "סלבס",
+   "title": "כבר לא בצד שלה: שרון סטון נגד סידני סוויני"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-f878fa021ddc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -4197,6 +4209,18 @@
    "section": "הורים",
    "title": "איך לצפות בדוגמניות ולשמור על דימוי גוף נכון"
   },
+  "https://www.mako.co.il/home-family-kids/Article-a46030d07d1e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790496748332,
+   "content_type": "article",
+   "first_seen_ms": 1790496748332,
+   "indexable": true,
+   "indexnow_ms": 1790496748332,
+   "published_ms": 1790495280000,
+   "section": "הורים",
+   "title": "סגנון ההורות שמבטיח לילדים שלכם ביטחון עצמי"
+  },
   "https://www.mako.co.il/home-family-kids/Article-ad4ad61dfe08481027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5300,6 +5324,18 @@
    "published_ms": 1790185260000,
    "section": "",
    "title": "פגש \"בליינית\" - וכשגילה מי היא באמת הבין שהסתבך"
+  },
+  "https://www.mako.co.il/men-men_news/Article-dcfab1dedd1e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790496748332,
+   "content_type": "article",
+   "first_seen_ms": 1790496748332,
+   "indexable": true,
+   "indexnow_ms": 1790496748332,
+   "published_ms": 1790495880000,
+   "section": "פלילים",
+   "title": "ופלים ודגים קפואים: מסע הגניבות של תושב ת\"א"
   },
   "https://www.mako.co.il/men-men_news/Article-e19401a10f3d0a1026.htm": {
    "check_attempts": 1,
