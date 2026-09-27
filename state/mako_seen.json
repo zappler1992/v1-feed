@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790514748923,
+ "last_run_ms": 1790515048525,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5481,6 +5481,18 @@
    "section": "",
    "title": "הראיות שהפלילו את החשוד ברצח ראש המאפיה הקווקזית"
   },
+  "https://www.mako.co.il/men-men_news/Article-89a99581af2e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790514867609,
+   "content_type": "article",
+   "first_seen_ms": 1790514867609,
+   "indexable": true,
+   "indexnow_ms": 1790514867609,
+   "published_ms": 1790514420000,
+   "section": "פלילים",
+   "title": "נשלח לבידוד: ראש ארגון הפשע הסתבך בכלא"
+  },
   "https://www.mako.co.il/men-men_news/Article-8ceb8a82a5fd0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6320,6 +6332,18 @@
    "published_ms": 1790238360000,
    "section": "דיגיטל",
    "title": "מדאיג: ראש הממשלה חשף שסוכן AI פרץ לאתר ממשלתי"
+  },
+  "https://www.mako.co.il/nexter-news/Article-1ca99581af2e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790515048525,
+   "content_type": "article",
+   "first_seen_ms": 1790515048525,
+   "indexable": true,
+   "indexnow_ms": 1790515048525,
+   "published_ms": 1790514420000,
+   "section": "דיגיטל",
+   "title": "\"חשבתי על זה במקלחת. למחרת זה היה בטלוויזיה\""
   },
   "https://www.mako.co.il/nexter-news/Article-207e65fb703d0a1027.htm": {
    "check_attempts": 1,
