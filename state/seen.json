@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-d98553b9303e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cee86d44633e0a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-10c6e61e813e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2831,6 +2832,24 @@
    "updated_ms": 1790313000000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w04/shorts-feee5f2a384d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/SHIRA_NATE_240926/MASTER/SHIRA_NATE_240926_M/SHIRA_NATE_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-10c6e61e813e0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "מתוקה לגמרי: דנה גרוצקי מרחה על עצמה נוטלה - ובעלה לא יכל לעמוד בפיתוי",
+   "duration_s": 34,
+   "first_seen_ms": 1790518646179,
+   "image": "https://img.mako.co.il/2026/09/27/SHIR_DANA_270926_1400_1790517224159_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790517233000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "דנה גרוצקי מרחה על עצמה נוטלה- ואז בעלה הגיע",
+   "type": "general",
+   "updated_ms": 1790517233000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-10c6e61e813e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_DANA_270926/MASTER/SHIR_DANA_270926/SHIR_DANA_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-124ac772bd2e0a1026.htm": {
    "author": "סלבס",
@@ -32437,6 +32456,24 @@
    "updated_ms": 1790502683000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16290_27092026094949/M_NEWS_16290_27092026094949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cee86d44633e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד החוץ למטיילים בנפאל: מזג האוויר החריג צפוי עד שלישי, הימנעו מטיולים רגליים ואזורים הרריים",
+   "duration_s": 9,
+   "first_seen_ms": 1790518646179,
+   "image": "https://img.mako.co.il/2026/09/27/V1_nepal_6530_27092026021304_1400_1790518489108_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790518495000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד החוץ למטיילים בנפאל: מזג האוויר החריג צפוי עד שלישי, הימנעו מטיולים רגליים ואזורים הרריים",
+   "type": "mivzakim",
+   "updated_ms": 1790518495000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cee86d44633e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_nepal_6530_27092026021304/V1_nepal_6530_27092026021304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d2e6e90c962e0a1027.htm": {
    "author": "מבזקים",
