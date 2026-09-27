@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790480549112,
+ "last_run_ms": 1790480849935,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1762,6 +1762,18 @@
    "published_ms": 1790344800000,
    "section": "ספורט",
    "title": "דרמה: סיטי נמצאה אשמה בפרשת הפייר פליי"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-014bd5b45f0e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790480786818,
+   "content_type": "article",
+   "first_seen_ms": 1790480786818,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790480640000,
+   "section": "ספורט",
+   "title": "\"באזונו מרגיש מנודה, הומלץ לו לעזוב\""
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-021e64c413ad0a1027.htm": {
    "check_attempts": 1,
