@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de1e1acd743e0a1026.htm"
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w05/shorts-90b998a7951e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1758108ac53e0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-cbd26d44633e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8778,6 +8780,24 @@
    "updated_ms": 1790439983000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w04/shorts-e848399298ed0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/26/AVISHAI_KAROLIN_2609/MASTER/AVISHAI_KAROLIN_M_2609/AVISHAI_KAROLIN_M_2609_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-cbd26d44633e0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "ניל הרלנד, עיתונאי יהודי בתאגיד השידור הקנדי CBC, הושעה מתפקידו והורד מהאוויר לאחר שתיעד הפגנה פרו-פלסטינית מחוץ לבית הכנסת שלו בטורונטו בערב יום הכיפורים, והעלה לחשבון הטוויטר שלו. הצעד עורר סערה וגרר טענות קשות למוסר כפול מצד תאגיד השידור בטענה שעיתונאים רשאים לכתוב על חווית חיים אישיות. דובר CBC טען כי התאגיד אינו מגיב על \"ענייני משאב אנוש\"",
+   "duration_s": 51,
+   "first_seen_ms": 1790521046193,
+   "image": "https://img.mako.co.il/2026/09/27/SHIRA_NIL_270926_M_1400_1790519009650_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790519020000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "העיתונאי היהודי ניל הרלנד דיווח על הפגנה פרו פלסטינית בקנדה- והודח",
+   "type": "general",
+   "updated_ms": 1790519020000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-cbd26d44633e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIRA_NIL_270926/MASTER/SHIRA_NIL_270926_M/SHIRA_NIL_270926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-e67f4abccb2e0a1026.htm": {
    "author": "מהעולם",
@@ -31716,6 +31736,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16275_27092026072740/M_NEWS_16275_27092026072740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1758108ac53e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילד בן 3 נפצע קשה במהלך רכיבה על בימבה צעצוע בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1790521046193,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16320_27092026025335_1400_1790520903659_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790520914000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילד בן 3 נפצע קשה במהלך רכיבה על בימבה צעצוע בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1790520914000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1758108ac53e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16320_27092026025335/M_NEWS_16320_27092026025335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45545,6 +45583,22 @@
    "updated_ms": 1790326920000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w04/shorts-760731b6c37d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/25/ASAF_THAILAND_25092026/MASTER/ASAF_THAILAND_25092026_M/ASAF_THAILAND_25092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m09_w05/shorts-90b998a7951e0a1026.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "משרד החוץ פרסם הודעה שבה הוא מזהיר את הישראלים הנמצאים בתאילנד, עקב השטפונות הקשים בבנגקוק. עקב הצפות הענק, המשרד ממליץ לישראלים לעקוב אחר מזג האוויר - ולעקוב אחר ההנחיות המקומיות",
+   "duration_s": 37,
+   "first_seen_ms": 1790521046193,
+   "image": "https://img.mako.co.il/2026/09/27/ASAF_BANGKOK_27092026_M_1400_1790487298984_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790520840000,
+   "sections": [],
+   "title": "הצפות ענק ושיבושים משמעותיים בבנגקוק: האזהרה של משרד החוץ",
+   "type": "general",
+   "updated_ms": 1790520840000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w05/shorts-90b998a7951e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_BANGKOK_27092026/MASTER/ASAF_BANGKOK_27092026_M/ASAF_BANGKOK_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-1e7fad516007291027.htm": {
    "author": "TV1",
