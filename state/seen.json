@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b18d53b9303e0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-afd09581af2e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18782,6 +18782,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-52772dae162e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_UN_270927/MASTER/SHIR_UN_270927/SHIR_UN_270927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-afd09581af2e0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "עגלה שנמכרת ברמי לוי ב-200 שקל בלבד התפרקה בזמן שילד היה עליה, ואף הידרדרה במדרגות. בבדיקה התגלה כי מדובר במוצר לא תקין ומסוכן, ובעקבות זאת הרשת הודיעה על החזרת העגלות וזיכוי מלא לרוכשים.",
+   "duration_s": 49,
+   "first_seen_ms": 1790515946202,
+   "image": "https://img.mako.co.il/2026/09/27/SHIR_BABY_270629_FIX_1400_1790515137898_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790514911000,
+   "sections": [],
+   "title": "סכנה לילדים: העגלה המוזלת מרמי לוי התפרקה - כשהילד בתוכה",
+   "type": "news",
+   "updated_ms": 1790515080000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-afd09581af2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_BABY_270629_FIX/SHIR_BABY_270629_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -32525,7 +32541,7 @@
    ],
    "title": "נתב\"ג: החניונים בתפוסה מלאה - אל תגיעו לשדה במכונית פרטית",
    "type": "mivzakim",
-   "updated_ms": 1790512680000,
+   "updated_ms": 1790514000000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f730e2743c2e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FISHER_MFIX/FISHER_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
