@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790514448868,
+ "last_run_ms": 1790514748923,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5829,6 +5829,18 @@
    "section": "מוזיקה",
    "title": "הכוכב האנטי ישראלי תוקף את הכוכבת היהודייה"
   },
+  "https://www.mako.co.il/music-news/Article-25b14aa69e2e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790514507577,
+   "content_type": "article",
+   "first_seen_ms": 1790514507577,
+   "indexable": true,
+   "indexnow_ms": 1790514507577,
+   "published_ms": 1790514300000,
+   "section": "מוזיקה",
+   "title": "הרופא התייעץ עם ה-ChatGPT איך להחיות, בינתיים הזמר מת"
+  },
   "https://www.mako.co.il/music-news/Article-3791908cb88c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6895,7 +6907,7 @@
    "indexnow_ms": 1790499267099,
    "published_ms": 1790498220000,
    "section": "צבא וביטחון",
-   "title": "בלי לירות כדור: המבצע האזורי נגד איראן נחשף"
+   "title": "כך סוגרים על טהרן: הבקשה החריגה מהמדינה הערבית"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-0d34adf9881e0a1026.htm": {
    "check_attempts": 1,
