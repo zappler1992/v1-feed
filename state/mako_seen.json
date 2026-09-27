@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790541148307,
+ "last_run_ms": 1790541448388,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1308,6 +1308,18 @@
    "published_ms": 1790537580000,
    "section": "ספורט",
    "title": "בלם אירי התעמת עם מנור: \"אנחנו גזענים?\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9349b765294e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790541387389,
+   "content_type": "article",
+   "first_seen_ms": 1790541387389,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790541300000,
+   "section": "ספורט",
+   "title": "ביזית אותנו: בן שמעון חייב ללכת הביתה"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9765f050b05d0a1027.htm": {
    "check_attempts": 1,
@@ -7771,7 +7783,7 @@
    "indexnow_ms": null,
    "published_ms": 1790529600000,
    "section": "",
-   "title": "השפלה בהונגריה: אירלנד מביסה את ישראל"
+   "title": "השפלה בהונגריה: אירלנד הביסה את נבחרת ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
