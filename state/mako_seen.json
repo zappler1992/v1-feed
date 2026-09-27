@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790479048693,
+ "last_run_ms": 1790479348776,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3727,7 +3727,7 @@
    "indexnow_ms": 1790478987604,
    "published_ms": 1790478840000,
    "section": "",
-   "title": "כך ייראה שבוע חול המועד - ומתי צפוי להתקרר?"
+   "title": "התחזית לשבוע חול המועד - והגשמים שבדרך"
   },
   "https://www.mako.co.il/hix-nature/Article-cef503569d4d0a1027.htm": {
    "check_attempts": 1,
@@ -5421,6 +5421,18 @@
    "section": "ספורט",
    "title": "ג`ורדן החדש? פריצת הדרך הכלכלית של אמבפה"
   },
+  "https://www.mako.co.il/news-sport/sports_others-2026_q3/Article-b6fa215c6d0e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790479348776,
+   "content_type": "article",
+   "first_seen_ms": 1790479348776,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790479020000,
+   "section": "ספורט",
+   "title": "מבהיל: לוחם UFC פונה על אלונקה לביה\"ח"
+  },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -6655,7 +6667,7 @@
    "indexnow_ms": 1790457027165,
    "published_ms": 1790456400000,
    "section": "",
-   "title": "בניין באתונה התפוצץ - שישה תיירים נהרגו"
+   "title": "טרגדיה בחופשה: בניין התפוצץ - שישה תיירים נהרגו"
   },
   "https://www.mako.co.il/travel-news/Article-1e73e7c41d4d0a1026.htm": {
    "check_attempts": 1,
@@ -6933,6 +6945,18 @@
    "section": "חופש",
    "title": "לראשונה: טיסה ישראלית נחתה בגן העדן של אירופה"
   },
+  "https://www.mako.co.il/travel-news/international/Article-a32cd44ce48d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790479227636,
+   "content_type": "article",
+   "first_seen_ms": 1790479227636,
+   "indexable": true,
+   "indexnow_ms": 1790479227636,
+   "published_ms": 1790483160000,
+   "section": "חופש",
+   "title": "7 דיילות פונו לטיפול רפואי - לנוסעים לא קרה כלום"
+  },
   "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7040,6 +7064,18 @@
    "published_ms": 1790310840000,
    "section": "חופש",
    "title": "בלי אנטישמיות בכלל: פעם היהודים שגשגו כאן"
+  },
+  "https://www.mako.co.il/travel-world/Article-462bf277c0ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790479227636,
+   "content_type": "article",
+   "first_seen_ms": 1790479227636,
+   "indexable": true,
+   "indexnow_ms": 1790479227636,
+   "published_ms": 1790483640000,
+   "section": "חופש",
+   "title": "למה המדינה הזו כל כך שונאת אותנו כבר המון שנים?"
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-16199bce732d0a1026.htm": {
    "check_attempts": 1,
