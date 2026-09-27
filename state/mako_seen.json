@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790538449281,
+ "last_run_ms": 1790538749310,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2660,6 +2660,18 @@
    "published_ms": 1790245380000,
    "section": "סלבס",
    "title": "ב-30 מיליון: המהלך של האקס של טיילור מלכוב"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-47f3382a844e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790538507161,
+   "content_type": "article",
+   "first_seen_ms": 1790538507161,
+   "indexable": true,
+   "indexnow_ms": 1790538507161,
+   "published_ms": 1790538060000,
+   "section": "סלבס",
+   "title": "יוצא הריאליטי ו\"האקסית האובסיסית\": \"שנים של הטרדות\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
@@ -6691,7 +6703,7 @@
    "indexnow_ms": 1790498548831,
    "published_ms": 1790496900000,
    "section": "דיגיטל",
-   "title": "צריך להתחיל לחשוש? הצעד החריג בגלל סכנת ה-AI"
+   "title": "סכנה אמיתית: OpenAI עוצרת את הפיתוח"
   },
   "https://www.mako.co.il/nexter-news/Article-5d19581a69ec0a1026.htm": {
    "check_attempts": 1,
@@ -7687,7 +7699,7 @@
    "indexnow_ms": 1790529867536,
    "published_ms": 1790528340000,
    "section": "",
-   "title": "סטודנט פלסטיני צפה בסרטון מ-7.10 והודה: \"זה אני\""
+   "title": "הסטודנט צפה בסרטון מטבח 7 באוקטובר: \"זה אני\""
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
@@ -8000,6 +8012,18 @@
    "published_ms": 1790339760000,
    "section": "",
    "title": "משרד החוץ מזהיר: האזור שצריך להימנע מכל נסיעה אליו"
+  },
+  "https://www.mako.co.il/travel-news/Article-69de9995c53e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790538627161,
+   "content_type": "article",
+   "first_seen_ms": 1790538627161,
+   "indexable": true,
+   "indexnow_ms": 1790538627161,
+   "published_ms": 1790538000000,
+   "section": "",
+   "title": "29 אנשים חולצו: כמעט אסון מול חופי מיקונוס"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
