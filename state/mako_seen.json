@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790499448599,
+ "last_run_ms": 1790499748707,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2359,7 +2359,7 @@
    "indexnow_ms": 1790499387288,
    "published_ms": 1790499000000,
    "section": "סלבס",
-   "title": "רגע אחרי הפרידה: עדי הימלבלוי נופשת עם הגרוש"
+   "title": "רגע אחרי הפרידה: עדי הימלבלוי נופשת - והיא לא לבד"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-2650460facab0a1027.htm": {
    "check_attempts": 1,
@@ -6920,6 +6920,18 @@
    "published_ms": 1790112180000,
    "section": "חדשות",
    "title": "האמירויות התריעו לישראל לפני 7 באוקטובר: \"חמאס יפעל\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-3f95c8bd2df70a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-3f95c8bd2df70a1027.htm",
+   "checked_ms": 1790499748707,
+   "content_type": "article",
+   "first_seen_ms": 1790499748707,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790498160000,
+   "section": "",
+   "title": "נקבע סופית: אלו האותיות שיהיו על הפתק של המפלגה שלכם"
   },
   "https://www.mako.co.il/special-mako-news/Article-42614ec09f1d0a1026.htm": {
    "check_attempts": 1,

@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-c1d08c7fd0750a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
-  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-44b20dd55d1e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bb4a1e5ce02e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -707,7 +704,7 @@
    ],
    "title": "בקצב השקר פרק 1: קבלת פנים אכזרית",
    "type": "series",
-   "updated_ms": 1790498760000,
+   "updated_ms": 1790499420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/ACADEMY_OF_LIES_EP01/MASTER/ACADEMY_OF_LIES_EP01/ACADEMY_OF_LIES_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -13545,11 +13542,12 @@
    "importance": 1,
    "published_ms": 1790498700000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 14: נתפסים על חם",
    "type": "series",
-   "updated_ms": 1790498700000,
+   "updated_ms": 1790499120000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-c1d08c7fd0750a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/31/LOVE_CORNER_EP14/MASTER/LOVE_CORNER_EP14_M/LOVE_CORNER_EP14_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -31796,6 +31794,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b475da42861e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_KVISH1_6513_27092026060105/V1_KARIND_KVISH1_6513_27092026060105_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bb4a1e5ce02e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כתובת נאצה אותרה על אחד הקירות בבית הסוהר קציעות, אחד האסירים התבקש לצבוע אותו מחדש",
+   "duration_s": 18,
+   "first_seen_ms": 1790499745916,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16282_27092026084952_1400_1790499086064_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790499096000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כתובת נאצה אותרה על אחד הקירות בבית הסוהר קציעות, אחד האסירים התבקש לצבוע אותו מחדש",
+   "type": "mivzakim",
+   "updated_ms": 1790499096000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bb4a1e5ce02e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16282_27092026084952/M_NEWS_16282_27092026084952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32153,7 +32169,7 @@
    ],
    "title": "פולישוק פרק 1: ברוך הבא לממשלה",
    "type": "series",
-   "updated_ms": 1790497739000,
+   "updated_ms": 1790499300000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/POLISHUK_EP01/MASTER/POLISHUK_EP01/POLISHUK_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
