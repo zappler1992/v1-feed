@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-322865bc7b1e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-93a33dd7eb1e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31394,6 +31396,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0b90e445681e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16262_27092026062824/M_NEWS_16262_27092026062824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל מאשר: חוסל המחבל שתועד חוטף על אופנוע את נועה ארגמני ואבינתן אור בטבח 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1790494345881,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16275_27092026072740_1400_1790494124349_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790494131000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל מאשר: חוסל המחבל שתועד חוטף על אופנוע את נועה ארגמני ואבינתן אור בטבח 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1790494131000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16275_27092026072740/M_NEWS_16275_27092026072740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31524,7 +31544,7 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "דיווחים בעזה: חוסל המחבל שחטף על אופנוע את נועה ארגמני ב-7 באוקטובר",
+   "description": "צה\"ל מאשר: חוסל המחבל שחטף על אופנוע את נועה ארגמני ב-7 באוקטובר",
    "duration_s": 10,
    "first_seen_ms": 1790487746693,
    "image": "https://img.mako.co.il/2026/09/27/FIX_NOA_1400_1790488037204_FirstFrame.jpg",
@@ -31534,9 +31554,9 @@
     "מבזקים",
     "חדשות"
    ],
-   "title": "דיווחים בעזה: חוסל המחבל שחטף על אופנוע את נועה ארגמני ב-7 באוקטובר",
+   "title": "צה\"ל מאשר: חוסל המחבל שחטף על אופנוע את נועה ארגמני ב-7 באוקטובר",
    "type": "mivzakim",
-   "updated_ms": 1790488020000,
+   "updated_ms": 1790493960000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FIX_NOA/FIX_NOA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -31558,6 +31578,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8754215c6d0e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16254_27092026033852/M_NEWS_16254_27092026033852_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשוד תושב השטחים נעצר על רקע ביטחוני בסמוך לשכונות החומה השלישית ומאה שערים בירושלים",
+   "duration_s": 29,
+   "first_seen_ms": 1790494345881,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16274_27092026072653_1400_1790494081951_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790494089000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשוד תושב השטחים נעצר על רקע ביטחוני בסמוך לשכונות החומה השלישית ומאה שערים בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1790494089000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16274_27092026072653/M_NEWS_16274_27092026072653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92d9cbe2dd0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31575,6 +31613,24 @@
    "updated_ms": 1790479143000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92d9cbe2dd0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16252_27092026031712/M_NEWS_16252_27092026031712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-93a33dd7eb1e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שר הביטחון ישראל כ\"ץ הנחה את צה\"ל על הטלת סגר כללי ביהודה ושומרון",
+   "duration_s": 9,
+   "first_seen_ms": 1790494345881,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16273_27092026072611_1400_1790494060745_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790494068000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שר הביטחון ישראל כ\"ץ הנחה את צה\"ל על הטלת סגר כללי ביהודה ושומרון",
+   "type": "mivzakim",
+   "updated_ms": 1790494068000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-93a33dd7eb1e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16273_27092026072611/M_NEWS_16273_27092026072611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-97967928f91e0a1027.htm": {
    "author": "מבזקים",
@@ -49283,10 +49339,10 @@
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
    "description": "בילו בטברנה - ואז חמושים פתחו באש: 17 נהרגו ו-15 נפצעו בעיירה וולדה בדרום אפריקה",
-   "duration_s": 30,
+   "duration_s": 36,
    "first_seen_ms": 1790493445845,
-   "image": "https://img.mako.co.il/2026/09/27/V1_karind_southafrica_6515_27092026071027_1400_1790493133754_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/09/27/fix_southafrica_1400_1790493661873_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1790493140000,
    "sections": [
     "מבזקים מהעולם"
@@ -49295,7 +49351,7 @@
    "type": "mivzakim",
    "updated_ms": 1790493140000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-2342a5821b1e0a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_southafrica_6515_27092026071027/V1_karind_southafrica_6515_27092026071027_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/fix_southafrica/fix_southafrica_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-871eae14031e0a1026.htm": {
    "author": "מבזקים מהעולם",
