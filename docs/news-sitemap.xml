@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e1ba4aa69e2e0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-27T12:53:41+00:00</news:publication_date>
+<news:title>רובוטים במקום חבלנים: כך נוטרלו הטנדרים החשודים ליד בסיס RAF Fairford</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_Karind_robot_6528_27092026125212_1400_1790513612879_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6d984aa69e2e0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1403,14 +1412,5 @@
 <news:title>צה&quot;ל חיסל השבוע שני מחבלי חמאס: אחד מהם פשט לישראל ב-7 באוקטובר ולקח חלק בהחזקת חטופים בשבי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/25/M_NEWS_16193_25092026010944_1400_1790341876459_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-5bcf9dbfd88d0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-25T12:52:40+00:00</news:publication_date>
-<news:title>בני ברק: בן 39 נפל מסולם במהלך בניית סוכה ונפצע בינוני</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/25/M_NEWS_16191_25092026125106_1400_1790340753674_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
