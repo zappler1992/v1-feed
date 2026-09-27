@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f87b7928f91e0a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -31627,6 +31629,24 @@
    "updated_ms": 1790483160000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_NAZA_6507_27092026042442/V1_KARIND_NAZA_6507_27092026042442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f87b7928f91e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "במהלך חיפוש במתחם השייך למשפחה שמעורבת בסכסוך פלילי בכפר מוקייבלה: המשטרה איתרה עט יורה - טעון בכדור",
+   "duration_s": 9,
+   "first_seen_ms": 1790492247888,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16269_27092026064910_1400_1790491842301_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790491850000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "במהלך חיפוש במתחם השייך למשפחה שמעורבת בסכסוך פלילי בכפר מוקייבלה: המשטרה איתרה עט יורה - טעון בכדור",
+   "type": "mivzakim",
+   "updated_ms": 1790491850000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f87b7928f91e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16269_27092026064910/M_NEWS_16269_27092026064910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
