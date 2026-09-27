@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790530649060,
+ "last_run_ms": 1790530949173,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1212,6 +1212,18 @@
    "published_ms": 1790251740000,
    "section": "ספורט",
    "title": "בשל פציעה: אבו פאני שוחרר מהנבחרת"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-76abfbdffe3e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790530949173,
+   "content_type": "article",
+   "first_seen_ms": 1790530949173,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790530800000,
+   "section": "ספורט",
+   "title": "לבקשתו? עזז לא ב-11 של אירלנד נגד ישראל"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-790077c30a2e0a1026.htm": {
    "check_attempts": 1,
@@ -6487,7 +6499,7 @@
    "indexnow_ms": 1790515048525,
    "published_ms": 1790514420000,
    "section": "דיגיטל",
-   "title": "הישראלי שזוכה למיליוני צפיות: \"חשבתי על זה במקלחת\""
+   "title": "\"חשבתי על זה במקלחת. למחרת זה היה בטלוויזיה\""
   },
   "https://www.mako.co.il/nexter-news/Article-207e65fb703d0a1027.htm": {
    "check_attempts": 1,
