@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790507248158,
+ "last_run_ms": 1790507548189,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1393,6 +1393,18 @@
    "section": "ספורט",
    "title": "\"זו משימת חיינו\": צפו בנאום של שינו"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eaa30b68782e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790507548189,
+   "content_type": "article",
+   "first_seen_ms": 1790507548189,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790507280000,
+   "section": "ספורט",
+   "title": "חידון: שיחקו בנבחרת, כמה תצליחו לזהות?"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-eb85b94c8fec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2479,7 +2491,7 @@
    "indexnow_ms": 1790502026808,
    "published_ms": 1790501760000,
    "section": "סלבס",
-   "title": "יובל כספית ובעלה בתיעוד מוזר שלא משאיר מקום לדמיון"
+   "title": "\"אפילו האצבעות ברגליים שלך אלוהיות\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-669211fda05d0a1026.htm": {
    "check_attempts": 1,
@@ -5731,7 +5743,7 @@
    "indexnow_ms": 1790506467108,
    "published_ms": 1790506200000,
    "section": "מוזיקה",
-   "title": "זה העונש שתקבל האיראנית שהופיעה ללא חיג'אב"
+   "title": "העונש האכזרי שתקבל הזמרת האיראנית שהופיעה ללא חיג'אב"
   },
   "https://www.mako.co.il/music-news/Article-964f5f3f7cea0a1027.htm": {
    "check_attempts": 1,
