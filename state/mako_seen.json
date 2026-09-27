@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790490148850,
+ "last_run_ms": 1790490448347,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3296,6 +3296,18 @@
    "published_ms": null,
    "section": "",
    "title": "כל המתכונים שיעשו לכם סוכות שמח"
+  },
+  "https://www.mako.co.il/food-holiday-recipes/sukkot-recipes/Article-6c24bb7dd3ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790490267192,
+   "content_type": "article",
+   "first_seen_ms": 1790490267192,
+   "indexable": true,
+   "indexnow_ms": 1790490267192,
+   "published_ms": 1790480400000,
+   "section": "",
+   "title": "כל המאפים המלוחים שנשמח לנשנש השנה בסוכה"
   },
   "https://www.mako.co.il/food-meals/recipes_for_shabath/Article-a0f00489558c0a1026.htm": {
    "check_attempts": 1,
@@ -7508,6 +7520,18 @@
    "published_ms": 1790248200000,
    "section": "",
    "title": "\"זה היה מקריפ ברמות. כאילו שהמתה קמה לתחייה\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-755898a7951e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790490387318,
+   "content_type": "article",
+   "first_seen_ms": 1790490387318,
+   "indexable": true,
+   "indexnow_ms": 1790490387318,
+   "published_ms": 1790489640000,
+   "section": "",
+   "title": "שוב מסתבך: כך הציג ה-BBC מחבלים"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-bcd0f27e9acc0a1027.htm": {
    "check_attempts": 1,

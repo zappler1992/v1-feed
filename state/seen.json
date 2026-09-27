@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c298e445681e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31399,6 +31400,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5071ae51c01e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KOTAROT_6506_27092026042326/V1_KOTAROT_6506_27092026042326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני נוער מחו בלוס אנג'לס מול אישה שלבשה חולצה עם הכיתוב \"ישראל הורגת ילדים\"",
+   "duration_s": 69,
+   "first_seen_ms": 1790490445840,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16259_27092026062222_1400_1790490305016_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790490315000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני נוער מחו בלוס אנג'לס מול אישה שלבשה חולצה עם הכיתוב \"ישראל הורגת ילדים\"",
+   "type": "mivzakim",
+   "updated_ms": 1790490315000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16259_27092026062222/M_NEWS_16259_27092026062222_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31506,6 +31525,24 @@
    "updated_ms": 1790481670000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_mezeg_6504_27092026035927/V1_mezeg_6504_27092026035927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c298e445681e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "החלום של כל ילד: שחקן הכדורגל הישראלי עידו זלצר-זובידה חתם על חוזה באינטר מיאמי - וישחק לצד מסי",
+   "duration_s": 9,
+   "first_seen_ms": 1790490445840,
+   "image": "https://img.mako.co.il/2026/09/27/V1_KARIND_MESSI_6514_27092026062030_1400_1790490121702_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790490128000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "החלום של כל ילד: שחקן הכדורגל הישראלי עידו זלצר-זובידה חתם על חוזה באינטר מיאמי - וישחק לצד מסי",
+   "type": "mivzakim",
+   "updated_ms": 1790490128000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c298e445681e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_MESSI_6514_27092026062030/V1_KARIND_MESSI_6514_27092026062030_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm": {
    "author": "מבזקים",
