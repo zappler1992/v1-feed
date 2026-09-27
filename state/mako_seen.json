@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790536949176,
+ "last_run_ms": 1790537249162,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7544,6 +7544,18 @@
    "published_ms": 1790441400000,
    "section": "",
    "title": "איזנקוט הכריז: המפלגה ש\"לא תהיה חלק מהממשלה הבאה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-27b99423824e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q3/Article-27b99423824e0a1027.htm",
+   "checked_ms": 1790537067037,
+   "content_type": "article",
+   "first_seen_ms": 1790537067037,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790535780000,
+   "section": "",
+   "title": "נתניהו המריא למדינה הערבית - ונפגש עם הנשיא שלה"
   },
   "https://www.mako.co.il/special-mako-news/Article-2d58fa1495ac0a1027.htm": {
    "check_attempts": 1,
