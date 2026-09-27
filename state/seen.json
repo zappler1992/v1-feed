@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-898e77c30a2e0a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5a3cba83ea2e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31742,6 +31741,24 @@
    "updated_ms": 1790483111000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5071ae51c01e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KOTAROT_6506_27092026042326/V1_KOTAROT_6506_27092026042326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5a3cba83ea2e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מטוסי קרב תקפו יעדים בעיירה חדאת'א בדרום לבנון",
+   "duration_s": 6,
+   "first_seen_ms": 1790509946087,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16309_27092026114703_1400_1790509696872_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790509705000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מטוסי קרב תקפו יעדים בעיירה חדאת'א בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790509705000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5a3cba83ea2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16309_27092026114703/M_NEWS_16309_27092026114703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5e7341a9312e0a1026.htm": {
    "author": "מבזקים",

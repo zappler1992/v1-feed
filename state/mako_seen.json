@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790509648291,
+ "last_run_ms": 1790509948725,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7232,6 +7232,18 @@
    "published_ms": 1790112180000,
    "section": "חדשות",
    "title": "האמירויות התריעו לישראל לפני 7 באוקטובר: \"חמאס יפעל\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-381b0dd55d1e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-381b0dd55d1e0a1027.htm",
+   "checked_ms": 1790509948725,
+   "content_type": "article",
+   "first_seen_ms": 1790509948725,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790504640000,
+   "section": "",
+   "title": "\"הכי שנוי במחלוקת\": בכל העולם עקבו אחרי החרם נגד ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-3f95c8bd2df70a1027.htm": {
    "check_attempts": 1,
