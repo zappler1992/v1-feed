@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790481149632,
+ "last_run_ms": 1790481466655,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6416,6 +6416,18 @@
    "published_ms": 1790353200000,
    "section": "",
    "title": "הטביעה באשקלון: נקבע מותו של בן 17"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm",
+   "checked_ms": 1790481466655,
+   "content_type": "article",
+   "first_seen_ms": 1790481466655,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790481240000,
+   "section": "",
+   "title": "יוסגר לגרמניה: האישום הקשה נגד מאבטחו של הנייה"
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
