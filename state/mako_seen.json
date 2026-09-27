@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790505148511,
+ "last_run_ms": 1790505448582,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5349,6 +5349,18 @@
    "section": "פלילים",
    "title": "\"הם מרשים לעצמם להשתולל, משאירים אחריהם הרס\""
   },
+  "https://www.mako.co.il/men-men_news/Article-9de91e7fe42e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790505387648,
+   "content_type": "article",
+   "first_seen_ms": 1790505387648,
+   "indexable": true,
+   "indexnow_ms": 1790505387648,
+   "published_ms": 1790504820000,
+   "section": "",
+   "title": "ההערכה בטורקיה: \"יגאל עמית הוא איש קש - שהופעל\""
+  },
   "https://www.mako.co.il/men-men_news/Article-a03e9d7e2aac0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5420,6 +5432,18 @@
    "published_ms": 1790158620000,
    "section": "פלילים",
    "title": "חייל צה\"ל חשוד ברצח בצפון בחודש שעבר"
+  },
+  "https://www.mako.co.il/men-men_news/Article-c04b2dae162e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790505267098,
+   "content_type": "article",
+   "first_seen_ms": 1790505267098,
+   "indexable": true,
+   "indexnow_ms": 1790505267098,
+   "published_ms": 1790504580000,
+   "section": "פלילים",
+   "title": "\"בנה של הזמרת שתק בחקירה, אך יש מספיק ראיות\""
   },
   "https://www.mako.co.il/men-men_news/Article-c0945ec3144d0a1026.htm": {
    "check_attempts": 1,
