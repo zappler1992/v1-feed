@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790483549244,
+ "last_run_ms": 1790483849225,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3945,6 +3945,18 @@
    "section": "HIX",
    "title": "\"הם חטפו אותי, והם הולכים להרוג אותי\""
   },
+  "https://www.mako.co.il/hix-special/Article-fdded5d24aed0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790483667628,
+   "content_type": "article",
+   "first_seen_ms": 1790483667628,
+   "indexable": true,
+   "indexnow_ms": 1790483667628,
+   "published_ms": 1790483580000,
+   "section": "",
+   "title": "\"השתעשע\" בנגרייה, וגרם למוות אכזרי"
+  },
   "https://www.mako.co.il/home-family-kids/Article-059d85a4f39c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6115,7 +6127,19 @@
    "indexnow_ms": 1790320467132,
    "published_ms": 1790319600000,
    "section": "",
-   "title": "ההתבטאות החריגה של המנהיג שצריכה להדאיג את כל אירופה"
+   "title": "הכוננות באירופה מפני מתקפה רוסית - והשאלה הגדולה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-31e7e705bf0e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790483787709,
+   "content_type": "article",
+   "first_seen_ms": 1790483787709,
+   "indexable": true,
+   "indexnow_ms": 1790483787709,
+   "published_ms": 1790482980000,
+   "section": "צבא וביטחון",
+   "title": "המהלך של הצבא הגדול בעולם נגד האיום הבליסטי"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
    "check_attempts": 1,
