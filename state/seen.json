@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5e7341a9312e0a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-80f441a9312e0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75ea9b0f022e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18664,6 +18665,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-510ea5adea1e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_HATAN_270926/MASTER/SHIR_HATAN_270926/SHIR_HATAN_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1790500946752,
+   "image": "https://img.mako.co.il/2026/09/27/ASAF_ELECTIONS_27092026_M_1400_1790500432785_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790500439000,
+   "sections": [],
+   "title": "ועדת הבחירות אישרה: אלה האותיות של המפלגות בקלפי",
+   "type": "news",
+   "updated_ms": 1790500439000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_ELECTIONS_27092026/MASTER/ASAF_ELECTIONS_27092026_M/ASAF_ELECTIONS_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
    "date_source": null,
@@ -31580,6 +31597,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16258_27092026060717/M_NEWS_16258_27092026060717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות תיירים ישראלים תקועים בנפאל בעקבות מזג האוויר הסוער",
+   "duration_s": 9,
+   "first_seen_ms": 1790500946752,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16284_27092026091122_1400_1790500363625_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790500371000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות תיירים ישראלים תקועים בנפאל בעקבות מזג האוויר הסוער",
+   "type": "mivzakim",
+   "updated_ms": 1790500371000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16284_27092026091122/M_NEWS_16284_27092026091122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-42fd0c1cc31e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31670,6 +31705,24 @@
    "updated_ms": 1790493960000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FIX_NOA/FIX_NOA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75ea9b0f022e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כך ארגוני הטרור בעזה משתמשים בילדים לצרכי טרור | צפו בילד המעביר אמצעי לחימה",
+   "duration_s": 28,
+   "first_seen_ms": 1790500946752,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_idf_6520_27092026091102_1400_1790500356547_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790500372000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כך ארגוני הטרור בעזה משתמשים בילדים לצרכי טרור | צפו בילד המעביר אמצעי לחימה",
+   "type": "mivzakim",
+   "updated_ms": 1790500372000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75ea9b0f022e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_idf_6520_27092026091102/V1_karind_idf_6520_27092026091102_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7fdcb54c4f1e0a1027.htm": {
    "author": "מבזקים",
