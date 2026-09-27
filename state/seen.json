@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9195fbdffe3e0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-22bcb573004e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2842,7 +2842,8 @@
    "importance": 2,
    "published_ms": 1790517233000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "דנה גרוצקי מרחה על עצמה נוטלה- ואז בעלה הגיע",
    "type": "general",
@@ -18919,7 +18920,8 @@
    "importance": 2,
    "published_ms": 1790514911000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "סכנה לילדים: העגלה המוזלת מרמי לוי התפרקה - כשהילד בתוכה",
    "type": "news",
@@ -50612,6 +50614,24 @@
    "updated_ms": 1789881617000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w04/shorts-f631aba003db0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/V1_AIRES_6277_20092026051857/V1_AIRES_6277_20092026051857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-22bcb573004e0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "טסים לתוך עין הסופה בשביל לאסוף \"מידע אטמוספרי קריטי\": ככה זה נראה מתא הטייס",
+   "duration_s": 32,
+   "first_seen_ms": 1790532446505,
+   "image": "https://img.mako.co.il/2026/09/27/V1_storm_6539_27092026060142_1400_1790532200803_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790532211000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "טסים לתוך עין הסופה בשביל לאסוף \"מידע אטמוספרי קריטי\": ככה זה נראה מתא הטייס",
+   "type": "mivzakim",
+   "updated_ms": 1790532211000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-22bcb573004e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_storm_6539_27092026060142/V1_storm_6539_27092026060142_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-2342a5821b1e0a1026.htm": {
    "author": "מבזקים מהעולם",
