@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790542348403,
+ "last_run_ms": 1790542648450,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6200,6 +6200,18 @@
    "published_ms": 1790053200000,
    "section": "מוזיקה",
    "title": "\"אנחנו עדיין בתוך צונאמי של הפגנות\""
+  },
+  "https://www.mako.co.il/music-news/Article-b1d97ea4d94e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790542587441,
+   "content_type": "article",
+   "first_seen_ms": 1790542587441,
+   "indexable": true,
+   "indexnow_ms": 1790542587441,
+   "published_ms": 1790542020000,
+   "section": "מוזיקה",
+   "title": "באמצע הופעה: ירדנה ארזי מעדה והתרסקה על הבמה"
   },
   "https://www.mako.co.il/music-news/Article-b2bac7f82acc0a1026.htm": {
    "check_attempts": 1,
