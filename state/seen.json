@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-f6649a19912e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-dc297ef5342e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72987ef5342e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b838004c242e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92c71ee0532e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-db961ee0532e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2859,7 +2863,8 @@
    "importance": 2,
    "published_ms": 1790490322000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "מה הוא עושה? התיעוד המוזר של ג'וני דפ",
    "type": "general",
@@ -31703,6 +31708,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16259_27092026062222/M_NEWS_16259_27092026062222_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72987ef5342e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תוקף בדרום לבנון",
+   "duration_s": 5,
+   "first_seen_ms": 1790502745788,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16289_27092026094627_1400_1790502447828_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790502476000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל תוקף בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790502476000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72987ef5342e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16289_27092026094627/M_NEWS_16289_27092026094627_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31794,6 +31817,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16274_27092026072653/M_NEWS_16274_27092026072653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92c71ee0532e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כוחותינו בפעילות כעת בשוק העיר העתיקה בשכם",
+   "duration_s": 11,
+   "first_seen_ms": 1790502745788,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16288_27092026094534_1400_1790502412459_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790502419000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כוחותינו בפעילות כעת בשוק העיר העתיקה בשכם",
+   "type": "mivzakim",
+   "updated_ms": 1790502419000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92c71ee0532e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16288_27092026094534/M_NEWS_16288_27092026094534_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-92d9cbe2dd0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -31883,6 +31924,24 @@
    "updated_ms": 1790488952000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b475da42861e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_KVISH1_6513_27092026060105/V1_KARIND_KVISH1_6513_27092026060105_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b838004c242e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד של תקיפות אוויריות של צבא סעודיה במחוז תעז בתימן שנכבש לאחרונה על ידי החות'ים",
+   "duration_s": 54,
+   "first_seen_ms": 1790502745788,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16287_27092026094506_1400_1790502440718_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790502448000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד של תקיפות אוויריות של צבא סעודיה במחוז תעז בתימן שנכבש לאחרונה על ידי החות'ים",
+   "type": "mivzakim",
+   "updated_ms": 1790502448000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b838004c242e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16287_27092026094506/M_NEWS_16287_27092026094506_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bb4a1e5ce02e0a1027.htm": {
    "author": "מבזקים",
@@ -31991,6 +32050,43 @@
    "updated_ms": 1790483160000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_NAZA_6507_27092026042442/V1_KARIND_NAZA_6507_27092026042442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-db961ee0532e0a1026.htm": {
+   "author": "",
+   "date_source": "page-jsonld",
+   "description": "",
+   "duration_s": null,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1790502745788,
+   "image": "https://img.mako.co.il/2026/09/27/V1_KARIND_KVISH40_6521_27092026094421_1400_1790502356006_FirstFrame.jpg",
+   "importance": null,
+   "published_ms": 1790502363000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב התנגש במעקה בטיחות בכביש 40, גבר בן 48 נפצע באורח בינוני",
+   "type": "",
+   "updated_ms": 1790502363000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-db961ee0532e0a1026.htm",
+   "video_url": ""
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-dc297ef5342e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים בלבנון: חיל האוויר ביצעו תקיפות לעבר מרכז מסחרי בכפר מיפדון ולעבר בית בכפר קבריח'א",
+   "duration_s": 17,
+   "first_seen_ms": 1790502745788,
+   "image": "https://img.mako.co.il/2026/09/27/V1_karind_lebanon_6522_27092026094717_1400_1790502511184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790502518000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים בלבנון: חיל האוויר ביצעו תקיפות לעבר מרכז מסחרי בכפר מיפדון ולעבר בית בכפר קבריח'א",
+   "type": "mivzakim",
+   "updated_ms": 1790502518000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-dc297ef5342e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_karind_lebanon_6522_27092026094717/V1_karind_lebanon_6522_27092026094717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f87b7928f91e0a1027.htm": {
    "author": "מבזקים",
@@ -49616,7 +49712,8 @@
    "published_ms": 1790493140000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בילו בטברנה - ואז חמושים פתחו באש: 17 נהרגו ו-15 נפצעו בעיירה וולדה בדרום אפריקה",
    "type": "mivzakim",
