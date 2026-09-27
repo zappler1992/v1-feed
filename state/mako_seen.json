@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790534548845,
+ "last_run_ms": 1790534849085,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1236,6 +1236,18 @@
    "published_ms": 1790508840000,
    "section": "ספורט",
    "title": "בן שמעון הודיע לשחקנים: ההרכב מול אירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-831c9423824e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790534786976,
+   "content_type": "article",
+   "first_seen_ms": 1790534786976,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790534520000,
+   "section": "ספורט",
+   "title": "כך ביזו האירים את ההמנון הישראלי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-89a6a3a47fbd0a1026.htm": {
    "check_attempts": 1,
