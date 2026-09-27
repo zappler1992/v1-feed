@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790543248393,
+ "last_run_ms": 1790543548379,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1380,6 +1380,18 @@
    "published_ms": 1790419140000,
    "section": "ספורט",
    "title": "\"הלב שלי עם תושבי עזה. החיים שלהם נהרסו\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-ba585e1e3b4e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790543548379,
+   "content_type": "article",
+   "first_seen_ms": 1790543548379,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790543400000,
+   "section": "ספורט",
+   "title": "\"אנשים בורים\": תגובת פרץ למחאה של האירים"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-caad3780b7dc0a1026.htm": {
    "check_attempts": 1,
@@ -7831,7 +7843,7 @@
    "indexnow_ms": null,
    "published_ms": 1790529600000,
    "section": "",
-   "title": "השפלה בהונגריה: אירלנד הביסה את נבחרת ישראל"
+   "title": "השפלה בהונגריה: אירלנד הביסה את ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
@@ -8456,6 +8468,18 @@
    "published_ms": 1790069520000,
    "section": "חופש",
    "title": "אחרי שקיבלה איומים מארדואן: הבשורה המשמחת לתומכת ישראל"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-4693f069184e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790543427570,
+   "content_type": "article",
+   "first_seen_ms": 1790543427570,
+   "indexable": true,
+   "indexnow_ms": 1790543427570,
+   "published_ms": 1790541000000,
+   "section": "",
+   "title": "המדינה הזו החלו לבדוק ישראלים בצורה קפדנית"
   },
   "https://www.mako.co.il/travel-news/israel/Article-65bc19e77b7c0a1026.htm": {
    "check_attempts": 1,
