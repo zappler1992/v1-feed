@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-352f9423824e0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d56589d5024e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6c569423824e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d688395e434e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32192,6 +32192,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-65931d4c8c3e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16323_27092026050211/M_NEWS_16323_27092026050211_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6c569423824e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו טס לפגישה חשאית עם נשיא איחוד האמירויות ברקע הסערה על האזהרה שנתנו לפני הטבח",
+   "duration_s": 103,
+   "first_seen_ms": 1790535446571,
+   "image": "https://img.mako.co.il/2026/09/27/V1_yaron_6542_27092026065154_1400_1790535226278_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790535236000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו טס לפגישה חשאית עם נשיא איחוד האמירויות ברקע הסערה על האזהרה שנתנו לפני הטבח",
+   "type": "mivzakim",
+   "updated_ms": 1790535236000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6c569423824e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_yaron_6542_27092026065154/V1_yaron_6542_27092026065154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6d984aa69e2e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32858,6 +32876,24 @@
    "updated_ms": 1790483160000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d6793010a11e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_NAZA_6507_27092026042442/V1_KARIND_NAZA_6507_27092026042442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d688395e434e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בזמן התקווה: שחקני אירלנד הרכינו את ראשם",
+   "duration_s": 9,
+   "first_seen_ms": 1790535446571,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16333_27092026064945_1400_1790535097429_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790535104000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בזמן התקווה: שחקני אירלנד הרכינו את ראשם",
+   "type": "mivzakim",
+   "updated_ms": 1790535104000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d688395e434e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16333_27092026064945/M_NEWS_16333_27092026064945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-db961ee0532e0a1026.htm": {
    "author": "",
