@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790508148229,
+ "last_run_ms": 1790508448183,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2780,6 +2780,18 @@
    "published_ms": 1790250000000,
    "section": "סלבס",
    "title": "\"צבועה\": הכוכבת חוטפת אש בעקבות ההחלטה החדשה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-2e341433b52e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790508387207,
+   "content_type": "article",
+   "first_seen_ms": 1790508387207,
+   "indexable": true,
+   "indexnow_ms": 1790508387207,
+   "published_ms": 1790508120000,
+   "section": "סלבס",
+   "title": "הלכה רחוק מדי הפעם עם השחרור? \"זו הטרדה מינית\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-33e513fb667d0a1027.htm": {
    "check_attempts": 1,
@@ -8288,6 +8300,18 @@
    "published_ms": 1790136900000,
    "section": "תרבות tvbee",
    "title": "האישה שהקימה אימפריה צריכה ללמוד מגיתית פישר"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-a877e75f8f570a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790508267194,
+   "content_type": "article",
+   "first_seen_ms": 1790508267194,
+   "indexable": true,
+   "indexnow_ms": 1790508267194,
+   "published_ms": 1790507220000,
+   "section": "תרבות tvbee",
+   "title": "הקושי עם הריאליטי של נטפילקס מגיע כבר בהתחלה"
   },
   "ttps://fashionforward.mako.co.il/news/320755/": {
    "check_attempts": 3,

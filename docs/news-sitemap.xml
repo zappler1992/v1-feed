@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b0a6ef91e82e0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-27T11:21:32+00:00</news:publication_date>
+<news:title>הלוחמים הופתעו - דוקרן מאולתר אותר במהלך חיפוש יזום במקלחת התא בבית מעצר בירושלים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/27/M_NEWS_16303_27092026112008_1400_1790508082961_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-905ce810482e0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1331,14 +1340,5 @@
 <news:title>בתחתונים שחורים: הלוק הנועז של דקוטה ג&#x27;ונסון כוכבת 50 גוונים של אפור</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/25/FIX_SHIRA_DAKOTA_250926_M_1400_1790337439351_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-cc5cd44ce48d0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-25T11:27:11+00:00</news:publication_date>
-<news:title>ישראלי כבן 14 נהרג בקייב - כתוצאה מפגיעת רחפן בבית</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/25/FIX_KEIV_1400_1790336506596_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

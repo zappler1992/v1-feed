@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-905ce810482e0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ddeae810482e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b0a6ef91e82e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18694,7 +18693,9 @@
    "image": "https://img.mako.co.il/2026/09/27/SHIR_HATAN_270926_1400_1790492951348_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790492958000,
-   "sections": [],
+   "sections": [
+    "רק בישראל"
+   ],
    "title": "החתן נדהם: נעצר בחשד לירי רגע לפני החתונה",
    "type": "news",
    "updated_ms": 1790497800000,
@@ -31975,6 +31976,24 @@
    "updated_ms": 1790485080000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae69fb7f721e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FIX_FIRE/FIX_FIRE_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b0a6ef91e82e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הלוחמים הופתעו - דוקרן מאולתר אותר במהלך חיפוש יזום במקלחת התא בבית מעצר בירושלים",
+   "duration_s": 24,
+   "first_seen_ms": 1790508445956,
+   "image": "https://img.mako.co.il/2026/09/27/M_NEWS_16303_27092026112008_1400_1790508082961_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790508092000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הלוחמים הופתעו - דוקרן מאולתר אותר במהלך חיפוש יזום במקלחת התא בבית מעצר בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1790508092000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b0a6ef91e82e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16303_27092026112008/M_NEWS_16303_27092026112008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b475da42861e0a1027.htm": {
    "author": "מבזקים",
