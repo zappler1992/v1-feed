@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790497048239,
+ "last_run_ms": 1790497348546,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -276,6 +276,18 @@
    "published_ms": 1790286884000,
    "section": "Fashion Forward",
    "title": "התגובה של מעצבי העל למה שקרה ב\"תצוגת האופנה\" הזאת היא הזהב הוויראלי של השבוע"
+  },
+  "https://fashionforward.mako.co.il/news/320858/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790497348546,
+   "content_type": "article",
+   "first_seen_ms": 1790497348546,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790497191000,
+   "section": "Fashion Forward",
+   "title": "על רקע הכותל: דני לוי במסר ברור לכל מי שריכל עליה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -4604,6 +4616,18 @@
    "published_ms": 1789904040000,
    "section": "",
    "title": "הדמויות מסדרות הנוער שחייבות לבקש סליחה"
+  },
+  "https://www.mako.co.il/makoz-juice/Article-0cfdbeb18e1e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790497227632,
+   "content_type": "article",
+   "first_seen_ms": 1790497227632,
+   "indexable": true,
+   "indexnow_ms": 1790497227632,
+   "published_ms": 1790496900000,
+   "section": "",
+   "title": "\"בוגד. נמאס להרגיש אשמה\": ענבל רז במסר לאקס המפורסם?"
   },
   "https://www.mako.co.il/makoz-news/Article-2c93a07f592d0a1027.htm": {
    "check_attempts": 1,
