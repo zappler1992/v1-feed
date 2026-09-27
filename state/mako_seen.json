@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790536649121,
+ "last_run_ms": 1790536949176,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1164,6 +1164,18 @@
    "published_ms": 1790312160000,
    "section": "ספורט",
    "title": "אופ\"א הסבירה: הסיבה להרחקת אבו פרחי"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-4524382a844e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790536949176,
+   "content_type": "article",
+   "first_seen_ms": 1790536949176,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790536680000,
+   "section": "ספורט",
+   "title": "נפנף בסרט השחור: ההתרסה המקוממת באירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-6ea69bce732d0a1026.htm": {
    "check_attempts": 1,
@@ -6080,6 +6092,18 @@
    "published_ms": 1790233740000,
    "section": "מוזיקה",
    "title": "אחרי התיעוד המדאיג: אשתו של רוד סטיוארט חושפת את מצבו"
+  },
+  "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790536707067,
+   "content_type": "article",
+   "first_seen_ms": 1790536707067,
+   "indexable": true,
+   "indexnow_ms": 1790536707067,
+   "published_ms": 1790536440000,
+   "section": "מוזיקה",
+   "title": "מאחורי הלהיט הכי גדול באמריקה הלטינית עומד ישראלי"
   },
   "https://www.mako.co.il/music-news/Article-758e27ce773d0a1027.htm": {
    "check_attempts": 1,
