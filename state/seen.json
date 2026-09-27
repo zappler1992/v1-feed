@@ -1,8 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-510ea5adea1e0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7fdcb54c4f1e0a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-c1d08c7fd0750a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
+  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-44b20dd55d1e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -690,6 +692,24 @@
    "updated_ms": 1790176200000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w04/shorts-83c871ed1fcc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/biata_eliyaziv_fix/biata_eliyaziv_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 1: מיה מגיעה לאקדמיית מונטקלייר עם החלטה ברורה: שיכירו את הכישרון שלה לפני שיגלו שהיא הבת של אוליביה קמפבל. את בגדי המעצבים של אמה היא נותנת לנהג מייקל עבור בתו, ובוחרת להגיע בבגדי רחוב. אלא שכבר בשער תלמידות האקדמיה שופטות אותה לפי המראה שלה, חושבות שהיא מסיגת גבול ענייה ותוקפות אותה.",
+   "duration_s": 164,
+   "first_seen_ms": 1790499445918,
+   "image": "https://img.mako.co.il/2026/09/23/ACADEMY_OF_LIES_EP01_1400_1790182197920_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790498760000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "בקצב השקר פרק 1: קבלת פנים אכזרית",
+   "type": "series",
+   "updated_ms": 1790498760000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/ACADEMY_OF_LIES_EP01/MASTER/ACADEMY_OF_LIES_EP01/ACADEMY_OF_LIES_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -13279,6 +13299,25 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w04/shorts-be9e906a9ecc0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/LOADED_EP42/MASTER/LOADED_EP42/LOADED_EP42_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-44b20dd55d1e0a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 45: תומר בטוח שהחיוך של הדוגמנית יעל שני בדרך לשירותים הוא סימן ללכת אחריה. החברים צוחקים על התיאוריה, עד שברלד מחליט שגם החברה שלה, שנשארה לשבת לבד, מסמנת לו משהו. במקביל ארז מתווכח עם המאמן על האימונים שלפני המשחק, וביציאה יוצר לעצמו צרה בלתי צפויה. הוא מיד מתקשר לגיא - שמגיב בבהלה: ״נדרס?!״\nPowered by Spikes",
+   "duration_s": 119,
+   "first_seen_ms": 1790499445918,
+   "image": "https://img.mako.co.il/2026/09/27/LOADED_EP45_1400_1790495728824_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790498880000,
+   "sections": [
+    "מיקרו סדרות",
+    "מסודרים"
+   ],
+   "title": "מסודרים פרק 45: רוורס אחד יותר מדי",
+   "type": "series",
+   "updated_ms": 1790498880000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-44b20dd55d1e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/LOADED_EP45/MASTER/LOADED_EP45/LOADED_EP45_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -13495,6 +13534,24 @@
    "updated_ms": 1790412300000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-085b5bfcf0750a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/LOVE_CORNER_EP13_MAINLASTFIX/LOVE_CORNER_EP13_MAINLASTFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-c1d08c7fd0750a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 14: ליסה מנסה להרגיע את עדן ומשכנעת אותה להפסיק ללחוץ על ליאור ולתת לו זמן להחליט מה הוא באמת רוצה. בינתיים, ליאור ואלונה סוף סוף מקבלים הזדמנות לשבת יחד בשקט, והשיחה ביניהם זורמת כשהם נפתחים ומדברים על החיים. אלא שהרגע הנעים נקטע כשעדן מגיעה למקום ורואה את ליאור יושב עם אלונה – בדיוק כשהחליטה לתת לו קצת מרחב.",
+   "duration_s": 163,
+   "first_seen_ms": 1790499445918,
+   "image": "https://img.mako.co.il/2026/08/31/LOVE_CORNER_EP14_M_1400_1788167306785_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790498700000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 14: נתפסים על חם",
+   "type": "series",
+   "updated_ms": 1790498700000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-c1d08c7fd0750a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/31/LOVE_CORNER_EP14/MASTER/LOVE_CORNER_EP14_M/LOVE_CORNER_EP14_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-ca1a972958150a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -32081,6 +32138,24 @@
    "updated_ms": 1790241699000,
    "url": "https://www.v-1.co.il/newsflash_sport-2026/m09_w04/shorts-aa0913617b2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/KimFIX_DanielEmily/KimFIX_DanielEmily_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 1: כשהשר לקידום חברתי נחקר, במפלגת מל\"ל כבר מחפשים לו מחליף - רצוי כזה שיחתום על מה שיגידו לו ולא ישאל שאלות. בזמן שהפרשה מגיעה לחדשות, יו״ר המפלגה ויועצו מתכננים את המינוי הבא. פולישוק מחכה בלשכה בלי להבין מה רוצים ממנו, עד שיו״ר המפלגה מבשר לו: הוא עומד להתמנות לשר.\nPowered by Spikes",
+   "duration_s": 212,
+   "first_seen_ms": 1790499445918,
+   "image": "https://img.mako.co.il/2026/09/27/POLISHUK_EP01_1400_1790497732501_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790497739000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "פולישוק פרק 1: ברוך הבא לממשלה",
+   "type": "series",
+   "updated_ms": 1790497739000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/POLISHUK_EP01/MASTER/POLISHUK_EP01/POLISHUK_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/she_has_it-magazine/2026-m04_w02/shorts-6a837bb15ad5d91027.htm": {
    "author": "יש לה את זה",

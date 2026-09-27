@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790499149326,
+ "last_run_ms": 1790499448599,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2348,6 +2348,18 @@
    "published_ms": 1790163960000,
    "section": "סלבס",
    "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-12d6b1dedd1e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790499387288,
+   "content_type": "article",
+   "first_seen_ms": 1790499387288,
+   "indexable": true,
+   "indexnow_ms": 1790499387288,
+   "published_ms": 1790499000000,
+   "section": "סלבס",
+   "title": "רגע אחרי הפרידה: עדי הימלבלוי נופשת עם הגרוש"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-2650460facab0a1027.htm": {
    "check_attempts": 1,
@@ -4893,6 +4905,18 @@
    "section": "פלילים",
    "title": "הדרישה החדשה של ניבי זגורי: \"אין לו מה להפסיד\""
   },
+  "https://www.mako.co.il/men-men_news/Article-1c00a668702e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790499267099,
+   "content_type": "article",
+   "first_seen_ms": 1790499267099,
+   "indexable": true,
+   "indexnow_ms": 1790499267099,
+   "published_ms": 1790498880000,
+   "section": "פלילים",
+   "title": "בן 78 ביקש להזיז פח זבל שחסם את רכבו והותקף"
+  },
   "https://www.mako.co.il/men-men_news/Article-1dd22b295d2d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5636,6 +5660,18 @@
    "published_ms": 1790437020000,
    "section": "",
    "title": "אחרי שהאשימה את הכוכב באונס: \"מעולם לא פגשתי אותו\""
+  },
+  "https://www.mako.co.il/news-israel-elections/2026/Article-3f95c8bd2df70a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790499387288,
+   "content_type": "article",
+   "first_seen_ms": 1790499387288,
+   "indexable": true,
+   "indexnow_ms": 1790499387288,
+   "published_ms": 1790498160000,
+   "section": "",
+   "title": "נקבע סופית: אלו האותיות שיהיו על הפתק של המפלגה שלכם"
   },
   "https://www.mako.co.il/news-military/2026_q3/Article-0968581a69ec0a1026.htm": {
    "check_attempts": 1,
@@ -6500,6 +6536,18 @@
    "published_ms": 1790150400000,
    "section": "צבא וביטחון",
    "title": "חיזבאללה נערך מחדש - מחוץ לטווח האש של צה\"ל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-0845a82bbf1e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790499267099,
+   "content_type": "article",
+   "first_seen_ms": 1790499267099,
+   "indexable": true,
+   "indexnow_ms": 1790499267099,
+   "published_ms": 1790498220000,
+   "section": "צבא וביטחון",
+   "title": "בלי לירות כדור: המבצע האזורי נגד איראן נחשף"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-0d34adf9881e0a1026.htm": {
    "check_attempts": 1,
