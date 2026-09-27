@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790488348306,
+ "last_run_ms": 1790488649253,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1606,6 +1606,18 @@
    "published_ms": 1790268600000,
    "section": "ספורט",
    "title": "\"נייקי\" ביטלה קמפיין בכיכובו של בנזמה"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-2a0cae14031e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790488586991,
+   "content_type": "article",
+   "first_seen_ms": 1790488586991,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790485440000,
+   "section": "ספורט",
+   "title": "משער ישראלי: ניצחון בבכורה לקינן ב-USL"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-3a54b472f0fd0a1026.htm": {
    "check_attempts": 1,
