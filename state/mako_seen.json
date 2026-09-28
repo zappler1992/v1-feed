@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790616448684,
+ "last_run_ms": 1790616749063,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1080,6 +1080,18 @@
    "published_ms": 1790437860000,
    "section": "ספורט",
    "title": "הצעד של ההתאחדות לאחר האדום של אבו פרחי"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0479744ef09e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790616749063,
+   "content_type": "article",
+   "first_seen_ms": 1790616749063,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790616600000,
+   "section": "ספורט",
+   "title": "\"בליץ` חי לפי התורה. הוא שוקל גיור\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -3283,7 +3295,7 @@
    "indexnow_ms": 1790600426919,
    "published_ms": 1790599800000,
    "section": "סלבס",
-   "title": "לינור סביניק שמעה גברים גונחים, והכריזה: \"יורדת מהארץ\""
+   "title": "לינור סביניק שמעה גברים גונחים במקום הזה - ונחרדה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
@@ -5144,6 +5156,18 @@
    "published_ms": 1790564400000,
    "section": "HIX",
    "title": "\"אם אתם נתקלים בטורף, כמעט שאין לכם סיכוי\""
+  },
+  "https://www.mako.co.il/hix-special/Article-219494d10f8e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790616749063,
+   "content_type": "article",
+   "first_seen_ms": 1790616749063,
+   "indexable": true,
+   "indexnow_ms": 1790616749063,
+   "published_ms": 1790614920000,
+   "section": "HIX",
+   "title": "פנסיונר גייס 700 אלף דולר, ואז האמת נחשפה"
   },
   "https://www.mako.co.il/hix-special/Article-22034e2eeffc0a1026.htm": {
    "check_attempts": 1,
