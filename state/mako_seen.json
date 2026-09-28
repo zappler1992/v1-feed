@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790572953371,
+ "last_run_ms": 1790573250421,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1416,6 +1416,18 @@
    "published_ms": 1790419140000,
    "section": "ספורט",
    "title": "\"הלב שלי עם תושבי עזה. החיים שלהם נהרסו\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-b1299734376e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790573067777,
+   "content_type": "article",
+   "first_seen_ms": 1790573067777,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790572500000,
+   "section": "ספורט",
+   "title": "קרע ביחסים: השבר העמוק שיצרה נבחרת ישראל"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-ba585e1e3b4e0a1027.htm": {
    "check_attempts": 1,
