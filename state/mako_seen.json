@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790581348311,
+ "last_run_ms": 1790581648287,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1200,6 +1200,18 @@
    "published_ms": 1790536680000,
    "section": "ספורט",
    "title": "נפנף בסרט השחור: ההתרסה המקוממת באירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-473659ee0d6e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790581648287,
+   "content_type": "article",
+   "first_seen_ms": 1790581648287,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790581080000,
+   "section": "ספורט",
+   "title": "בזכות מילה אחת: ישראל לא תועמד לדין"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-4dfb2af35e5e0a1027.htm": {
    "check_attempts": 1,
