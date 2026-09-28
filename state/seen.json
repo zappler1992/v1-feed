@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3271744ef09e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0e79a77a129e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6782,7 +6782,8 @@
    "importance": 1,
    "published_ms": 1790598360000,
    "sections": [
-    "אוכל"
+    "אוכל",
+    "הכי נצפים עכשיו"
    ],
    "title": "הדרישה החריגה של המסעדה בהרצליה מהלקוחות",
    "type": "general",
@@ -19307,7 +19308,8 @@
    "importance": 2,
    "published_ms": 1790597350000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הגיבורה המפתיעה: חקלאית חזרה ממסיבה - ומנעה פיגוע ענק בבסיס צבאי בבריטניה",
    "type": "news",
@@ -32468,6 +32470,24 @@
    "updated_ms": 1790604889000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0d9c5280958e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16392_28092026021329/M_NEWS_16392_28092026021329_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0e79a77a129e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מיירט שוגר לפני זמן קצר לעבר דרום לבנון. בצה\"ל בודקים את הפרטים",
+   "duration_s": 7,
+   "first_seen_ms": 1790617946530,
+   "image": "https://img.mako.co.il/2026/09/28/V1_NOAY_LEB_280926_6583_28092026054834_1400_1790617776097_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790617783000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מיירט שוגר לפני זמן קצר לעבר דרום לבנון. בצה\"ל בודקים את הפרטים",
+   "type": "mivzakim",
+   "updated_ms": 1790617783000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0e79a77a129e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_NOAY_LEB_280926_6583_28092026054834/V1_NOAY_LEB_280926_6583_28092026054834_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm": {
    "author": "מבזקים",
@@ -52273,7 +52293,8 @@
    "importance": 0,
    "published_ms": 1790599285000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הבניין כולו עולה באש: תיעוד נוסף מהשריפה באקדמיה למדעים בקייב",
    "type": "mivzakim",
