@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790589748577,
+ "last_run_ms": 1790590048634,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -357,9 +357,9 @@
    "first_seen_ms": 1790589748577,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1790589229000,
    "section": "אופנה",
-   "title": "טיילור מלכוב מציגה מחשוף גב שאי אפשר להתעלם ממנו"
+   "title": "בשמלת זהב: טיילור מלכוב מציגה מחשוף גב שאי אפשר להתעלם ממנו"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -8972,6 +8972,18 @@
    "published_ms": 1790102160000,
    "section": "חדשות",
    "title": "\"המשפחה בחרדה\": אבד הקשר עם ישראלי שמטייל ביוון"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-577f61f9fe6e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790589987361,
+   "content_type": "article",
+   "first_seen_ms": 1790589987361,
+   "indexable": true,
+   "indexnow_ms": 1790589987361,
+   "published_ms": 1790586720000,
+   "section": "",
+   "title": "\"זה קורה תמיד בישראל. יש חיתולים במטבחון\""
   },
   "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
    "check_attempts": 1,
