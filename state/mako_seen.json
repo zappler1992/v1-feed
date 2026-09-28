@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790608948887,
+ "last_run_ms": 1790609248899,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1224,6 +1224,18 @@
    "published_ms": 1790585340000,
    "section": "ספורט",
    "title": "אובדן עשתונות מוחלט: ההתפרקות של הנבחרת"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-38b4849c588e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790609187298,
+   "content_type": "article",
+   "first_seen_ms": 1790609187298,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790608560000,
+   "section": "ספורט",
+   "title": "התמכרות לליגיונר: הטעות החוזרת בנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-38dc2c23674d0a1027.htm": {
    "check_attempts": 1,
