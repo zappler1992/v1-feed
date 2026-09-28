@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-21b04b6c166e0a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-e21af7c6276e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4353,7 +4353,8 @@
    "importance": 1,
    "published_ms": 1790533437000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "טום קרוז מוודא שהנוכחות שלו מורגשת - על ידי כולם",
    "type": "mivzakim",
@@ -10548,7 +10549,8 @@
    "published_ms": 1790434320000,
    "sections": [
     "כשהגלים מתחזקים 2",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 44: אין לך תחליף",
    "type": "series",
@@ -49073,7 +49075,8 @@
    "published_ms": 1789848325000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "קיבלה ציון גרוע במבחן - ודקרה את המורה באמצע הכיתה: תיעוד חריג מברזיל",
    "type": "mivzakim",
@@ -50276,7 +50279,8 @@
    "published_ms": 1790337504000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "במסגרת גל אכיפה אכזרי: נשים אפגניות נאספו ונגררו לתוך ואן על ידי שוטרות של הטאליבן",
    "type": "mivzakim",
@@ -50738,7 +50742,8 @@
    "published_ms": 1790090873000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בין הבתים: מטוס קרב אמריקני מסוג F-16 התרסק בבסיס חיל האוויר בגרמניה",
    "type": "mivzakim",
@@ -51167,6 +51172,24 @@
    "updated_ms": 1790569586000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-bed63de1036e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_colombia_6548_28092026042451/V1_karind_colombia_6548_28092026042451_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-e21af7c6276e0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מפחיד: כריש שחה במי ההצפות בניו ג'רזי - והתקדם עד לבית של תושב",
+   "duration_s": 33,
+   "first_seen_ms": 1790572947489,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_shark_6552_28092026051659_1400_1790572716448_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790572723000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מפחיד: כריש שחה במי ההצפות בניו ג'רזי - והתקדם עד לבית של תושב",
+   "type": "mivzakim",
+   "updated_ms": 1790572723000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-e21af7c6276e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_shark_6552_28092026051659/V1_karind_shark_6552_28092026051659_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-fdbc1d4c8c3e0a1027.htm": {
    "author": "מבזקים מהעולם",
