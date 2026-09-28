@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-65f89e5ee58e0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-3c37df5e638e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9057,6 +9057,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-1dc16d44633e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/yotkus270629/MASTER/yorkus270629m/yorkus270629m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-3c37df5e638e0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בזמן משחק בייסבול בארצות הברית, המצלמות תפסו רגע שלא יכלו להתעלם ממנו: האם לוקחת את התינוק, האוכל והתיק - בזמן שהבעל יושב ומנשנש.",
+   "duration_s": 43,
+   "first_seen_ms": 1790605946273,
+   "image": "https://img.mako.co.il/2026/09/28/ASAF_MOTHER_28092026_M_1400_1790603392259_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790603399000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "\"אם השנה\": לוקחת את התינוק, את האוכל ואת התיק, בזמן שהבעל מנשנש",
+   "type": "general",
+   "updated_ms": 1790603399000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-3c37df5e638e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/ASAF_MOTHER_28092026/MASTER/ASAF_MOTHER_28092026_M/ASAF_MOTHER_28092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-c0e71d4c8c3e0a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -9085,7 +9103,9 @@
    "image": "https://img.mako.co.il/2026/09/28/inbie_tesla_280926_1400_1790603290734_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790603300000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "בתוך שניות: נהג טסלה ניסה לחצות שיטפון - ונסחף בזרם העז בקונטיקט",
    "type": "general",
    "updated_ms": 1790603300000,
@@ -32498,7 +32518,8 @@
    "published_ms": 1790588731000,
    "sections": [
     "מבזקים",
-    "חדשות"
+    "חדשות",
+    "רק בישראל"
    ],
    "title": "אגרופים, דחיפות ומכות מול המבלים: קטטה ענקית בסניף ארומה באצטדיון טדי בירושלים | צפו ברגעי הבהלה",
    "type": "mivzakim",
