@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-24b425f78d8e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6059a67bce8e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-eee525f78d8e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33140,6 +33141,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-60404abccb2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16311_27092026120539/M_NEWS_16311_27092026120539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6059a67bce8e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב עולה באש בכביש מספר 1 ליד כפר חב״ד. עומסי תנועה במקום",
+   "duration_s": 15,
+   "first_seen_ms": 1790614646477,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16398_28092026044950_1400_1790614268154_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790614281000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב עולה באש בכביש מספר 1 ליד כפר חב״ד. עומסי תנועה במקום",
+   "type": "mivzakim",
+   "updated_ms": 1790614281000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6059a67bce8e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16398_28092026044950/M_NEWS_16398_28092026044950_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-60829443b16e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34332,6 +34351,24 @@
    "updated_ms": 1790576040000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ec4913ad396e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_KARIND_YZAVOA_6553_28092026055319/V1_KARIND_YZAVOA_6553_28092026055319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-eee525f78d8e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל השמיד בימים האחרונים למעלה מ-600 מטרות בכפר אל מנצורי בדרום לבנון",
+   "duration_s": 17,
+   "first_seen_ms": 1790614646477,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16399_28092026045012_1400_1790614268461_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790614274000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל השמיד בימים האחרונים למעלה מ-600 מטרות בכפר אל מנצורי בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790614274000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-eee525f78d8e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16399_28092026045012/M_NEWS_16399_28092026045012_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f48886b6e56e0a1026.htm": {
    "author": "מבזקים",
