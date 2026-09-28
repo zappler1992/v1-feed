@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790576850063,
+ "last_run_ms": 1790577150688,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2219,6 +2219,18 @@
    "section": "ספורט",
    "title": "\"המצב לא טוב\": אמבפה שוחרר מנבחרת צרפת"
   },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-2c2113ad396e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790577150688,
+   "content_type": "article",
+   "first_seen_ms": 1790577150688,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790575020000,
+   "section": "ספורט",
+   "title": "כמו שחקן נוער: סערת רונאלדו בפורטוגל"
+  },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-2cc1fbdffe3e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4052,6 +4064,18 @@
    "published_ms": 1790148060000,
    "section": "",
    "title": "עוד לא מכירים את המתכון האגדי שלנו לפנקייק? הגיע הזמן"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-desserts/Recipe-992321ef75eea31006.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790576908134,
+   "content_type": "recipe",
+   "first_seen_ms": 1790576908134,
+   "indexable": true,
+   "indexnow_ms": 1790576908134,
+   "published_ms": 1790570520000,
+   "section": "",
+   "title": "חוזרים לקלאסיקה: עוגת ביסקוויטים בקלי קלות"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-16e524193f8c0a1027.htm": {
    "check_attempts": 1,
