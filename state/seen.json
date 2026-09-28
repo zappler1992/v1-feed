@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ab75f7c6276e0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-179d807e596e0a1027.htm"
+  "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-d7d5387a386e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6606,6 +6605,24 @@
    "updated_ms": 1790098680000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w04/shorts-6ef29202ec9c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/saqladfic/saqladfic_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-d7d5387a386e0a1027.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "סרטון ויראלי חדש ברשתות החברתיות מציג שיטה חלופית לחיתוך ולאחסון אבוקדו שגרף למעלה מ-10 מיליון צפיות. בשיטה הזאת נחתך רק החלק העליון של הפרי במקום חצייתו לאורכו כמקובל. לפי השיטה, אפשר להוציא את הכמות הרצויה דרך הפתח שנוצר, בזמן ששאר הפרי נותר מוגן בקליפתו הטבעית כדי למנוע חשיפה לאוויר והשחמה.",
+   "duration_s": 40,
+   "first_seen_ms": 1790577446819,
+   "image": "https://img.mako.co.il/2026/09/28/inbie_avocado_280926_1400_1790574873292_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790574883000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "יותר מ-10 מיליון צפיות: מתברר שכל החיים חתכנו אבוקדו לא נכון",
+   "type": "general",
+   "updated_ms": 1790574883000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-d7d5387a386e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/inbie_avocado_280926/MASTER/inbie_avocado_280926/inbie_avocado_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m04_w01/shorts-51ef9d3fcfc4d91027.htm": {
    "author": "מהעולם",
@@ -18996,7 +19013,9 @@
    "image": "https://img.mako.co.il/2026/09/28/yoav_haredi_280926_1400_1790573530840_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790573940000,
-   "sections": [],
+   "sections": [
+    "הכי Vיראלים"
+   ],
    "title": "אירוע חריג בתחנה בבית שמש: פקח קילל נוסעים חרדים שחיכו לאוטובוס",
    "type": "news",
    "updated_ms": 1790576340000,
