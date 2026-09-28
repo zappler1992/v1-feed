@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-878d8105647e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5b41b93d357e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19107,7 +19107,8 @@
    "importance": 2,
    "published_ms": 1790573940000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "אירוע חריג בתחנה בבית שמש: פקח קילל נוסעים חרדים שחיכו לאוטובוס",
    "type": "news",
@@ -32612,6 +32613,24 @@
    "updated_ms": 1790509705000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5a3cba83ea2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16309_27092026114703/M_NEWS_16309_27092026114703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5b41b93d357e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפה פרצה בדירה בבת ים, צוותי כבאות והצלה בדרכם למקום",
+   "duration_s": 3,
+   "first_seen_ms": 1790588245942,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_batyam_6565_28092026093244_1400_1790588027856_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790588038000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפה פרצה בדירה בבת ים, צוותי כבאות והצלה בדרכם למקום",
+   "type": "mivzakim",
+   "updated_ms": 1790588038000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5b41b93d357e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_batyam_6565_28092026093244/V1_karind_batyam_6565_28092026093244_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5e7341a9312e0a1026.htm": {
    "author": "מבזקים",
@@ -51437,7 +51456,8 @@
    "importance": 0,
    "published_ms": 1790575137000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בתוך שניות: צלע הר שלמה קורסת בנפאל בעקבות המפולות הקטלניות ברחבי המדינה | צפו",
    "type": "mivzakim",
