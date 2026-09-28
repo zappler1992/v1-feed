@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790609548895,
+ "last_run_ms": 1790609848590,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7376,6 +7376,18 @@
    "published_ms": 1790094840000,
    "section": "ספורט",
    "title": "שווה 18 מיליארד יורו וטרם מצא קבוצה חדשה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-50672d55f88e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790609787326,
+   "content_type": "article",
+   "first_seen_ms": 1790609787326,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790609520000,
+   "section": "ספורט",
+   "title": "פנטסיל: \"הרווחתי 1,500 ד` לחודש בישראל\""
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-5feaec00f8ec0a1027.htm": {
    "check_attempts": 1,
