@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790621849051,
+ "last_run_ms": 1790622148856,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9104,6 +9104,18 @@
    "published_ms": 1790529600000,
    "section": "",
    "title": "השפלה בהונגריה: אירלנד הביסה את ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f4111b40338e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-f4111b40338e0a1026.htm",
+   "checked_ms": 1790621907173,
+   "content_type": "article",
+   "first_seen_ms": 1790621907173,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790615700000,
+   "section": "",
+   "title": "שנתיים אחרי מבצע הביפרים: הפרט החדש שהותר לפרסום"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
