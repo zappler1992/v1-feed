@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-30009527808e0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-137a870bf08e0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2888,6 +2889,24 @@
    "updated_ms": 1790512560000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-124ac772bd2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_BRITNEY_270926/MASTER/SHIR_BRITNEY_270926/SHIR_BRITNEY_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-137a870bf08e0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "סרטון איפור תמים של ליידי גאגא הפך במהירות לסערה ברשת, עם תגובות על המראה שלה והשוואות לאריאנה גרנדה – לצד ביקורת על אידיאל הרזון בתעשיית הבידור.",
+   "duration_s": 36,
+   "first_seen_ms": 1790601146171,
+   "image": "https://img.mako.co.il/2026/09/28/SHIR_GAGA_280927_1400_1790599927217_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790599933000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"כמו שלד\": סרטון האיפור שהצית סערה סביב ליידי גאגא",
+   "type": "general",
+   "updated_ms": 1790599920000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-137a870bf08e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/SHIR_GAGA_280927/MASTER/SHIR_GAGA_280927/SHIR_GAGA_280927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-1e78e90c962e0a1027.htm": {
    "author": "סלבס",
@@ -19149,6 +19168,24 @@
    "updated_ms": 1790599440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-30009527808e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/SHIR_LIKUD_280926/MASTER/SHIR_LIKUD_280926/SHIR_LIKUD_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "סוכלה מתקפת טרור גדולה נגד בסיס חיל האוויר פיירפורד שבבריטניה. חמישה חשודים נעצרו ברגע האחרון בסמוך לגדרות הבסיס כשברשותם מטעני חבלה בשלושה רכבים מסחריים, וזאת בעקבות שיחת טלפון ל-999 של חקלאית מקומית שהבחינה בהם באחת לפנות בוקר כשחזרה ממסיבה.",
+   "duration_s": 51,
+   "first_seen_ms": 1790601146171,
+   "image": "https://img.mako.co.il/2026/09/28/inbie_terror_280926_1400_1790597344172_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790597350000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "הגיבורה המפתיעה: חקלאית חזרה ממסיבה - ומנעה פיגוע ענק בבסיס צבאי בבריטניה",
+   "type": "news",
+   "updated_ms": 1790597350000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/inbie_terror_280926/MASTER/inbie_terror_280926/inbie_terror_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-510ea5adea1e0a1027.htm": {
    "author": "חדשות",
