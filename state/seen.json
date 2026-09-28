@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-de2638dc4c7e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-be6d39480d7e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19160,7 +19160,9 @@
    "image": "https://img.mako.co.il/2026/09/28/SHIR_DAYELET_280926_1400_1790594839230_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790594853000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "תיעוד הדיילת מהמטוס: \"בכל טיסה לישראל המטוס נראה ככה, אנשים צריכים לנקות אחריהם\"",
    "type": "news",
    "updated_ms": 1790594853000,
@@ -33478,6 +33480,24 @@
    "updated_ms": 1790588570000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bcdc870a367e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_KARIND_HOLON_6567_28092026094115/V1_KARIND_HOLON_6567_28092026094115_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-be6d39480d7e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חמישה צוותי כיבוי וחילוץ פעלו בשריפה בדירה ברחוב יוספטל בבת ים. דייר נכה חולץ מלובי הקומתי אשר היה א",
+   "duration_s": 6,
+   "first_seen_ms": 1790596046105,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16389_28092026114321_1400_1790595873440_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790595880000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חמישה צוותי כיבוי וחילוץ פעלו בשריפה בדירה ברחוב יוספטל בבת ים. דייר נכה חולץ מלובי הקומתי אשר היה א",
+   "type": "mivzakim",
+   "updated_ms": 1790595880000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-be6d39480d7e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16389_28092026114321/M_NEWS_16389_28092026114321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm": {
    "author": "מבזקים",
