@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790582548356,
+ "last_run_ms": 1790582848314,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -60,6 +60,18 @@
    "published_ms": 1790286874000,
    "section": "Fashion Forward",
    "title": "יותר מסתם יפה: העולם התעלף (בצדק) על לילי ריינהרט בשמלה הזאת"
+  },
+  "https://fashionforward.mako.co.il/industry/productions/320117/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790582786925,
+   "content_type": "post",
+   "first_seen_ms": 1790582786925,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "ככה זה נראה כשקלאסיקה נפגשת עם טוויסט"
   },
   "https://fashionforward.mako.co.il/industry/productions/320607/": {
    "check_attempts": 1,
@@ -6331,7 +6343,7 @@
    "indexnow_ms": 1790579666732,
    "published_ms": 1790578980000,
    "section": "פלילים",
-   "title": "רווחי העתק של הקזינו שפעל ללא הפרעה במרכז הארץ"
+   "title": "\"ניהלו קזינו שגלגל מיליונים וסחטו מהמרים\""
   },
   "https://www.mako.co.il/men-men_news/Article-ca945f2a384d0a1026.htm": {
    "check_attempts": 1,
@@ -7135,7 +7147,7 @@
    "indexnow_ms": 1790582306869,
    "published_ms": 1790580420000,
    "section": "דיגיטל",
-   "title": "\"ה-AI יכול להוביל לאירוע של מיליארד מתים\""
+   "title": "האזהרה של ביל גייטס: \"עלול להוביל למיליארד מתים\""
   },
   "https://www.mako.co.il/nexter-news/Article-3b1bd8ac4b8c0a1026.htm": {
    "check_attempts": 1,
