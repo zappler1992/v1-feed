@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790588848593,
+ "last_run_ms": 1790589150153,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6033,6 +6033,18 @@
    "section": "",
    "title": "\"מהפרשות החמורות שידענו\": המעשה המזעזע של האב"
   },
+  "https://www.mako.co.il/men-men_news/Article-4956be8fa57e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790589027331,
+   "content_type": "article",
+   "first_seen_ms": 1790589027331,
+   "indexable": true,
+   "indexnow_ms": 1790589027331,
+   "published_ms": 1790588340000,
+   "section": "",
+   "title": "חשד שרימון נזרק לדירה: בן 15 במצב קשה בחולון"
+  },
   "https://www.mako.co.il/men-men_news/Article-4c8b2653dfdc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7243,7 +7255,7 @@
    "indexnow_ms": 1790584707040,
    "published_ms": 1790584380000,
    "section": "דיגיטל",
-   "title": "הסיבה שהתיעוד של \"ילד ישראלי חטוף\" שוב רץ - והאמת"
+   "title": "עזתים מתנכלים ל\"ילד ישראלי חטוף\": הסרטון ששוב רץ והאמת"
   },
   "https://www.mako.co.il/nexter-news/Article-3318b2289e6e0a1026.htm": {
    "check_attempts": 1,
@@ -7916,6 +7928,18 @@
    "published_ms": 1790482980000,
    "section": "צבא וביטחון",
    "title": "המהלך של הצבא הגדול בעולם נגד האיום הבליסטי"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-35bdb93d357e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790589150153,
+   "content_type": "article",
+   "first_seen_ms": 1790589150153,
+   "indexable": true,
+   "indexnow_ms": 1790589150153,
+   "published_ms": 1790588400000,
+   "section": "צבא וביטחון",
+   "title": "\"איבדה 10,000 חיילים בתוך שבוע\": המכה למעצמה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
    "check_attempts": 1,
