@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-326b849c588e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-39142d55f88e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cc932d55f88e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32745,6 +32746,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3883c772bd2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_ARTIUM_6526_27092026124124/V1_KARIND_ARTIUM_6526_27092026124124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-39142d55f88e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כוחות צוות הקרב החטיבתי 55 השלימו את משימתם בדרום לבנון. כך אותרה מנהרה באזור",
+   "duration_s": 29,
+   "first_seen_ms": 1790609546297,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16396_28092026032816_1400_1790609379978_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790609386000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כוחות צוות הקרב החטיבתי 55 השלימו את משימתם בדרום לבנון. כך אותרה מנהרה באזור",
+   "type": "mivzakim",
+   "updated_ms": 1790609386000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-39142d55f88e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16396_28092026032816/M_NEWS_16396_28092026032816_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-39f762b3816e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33845,6 +33864,24 @@
    "updated_ms": 1790502683000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16290_27092026094949/M_NEWS_16290_27092026094949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cc932d55f88e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כוחות צה\"ל השמידו יותר מ-600 תשתיות טרור ואיתרו עשרות משגרים בכפר אל-מנצורי בדרום לבנון",
+   "duration_s": 29,
+   "first_seen_ms": 1790609546297,
+   "image": "https://img.mako.co.il/2026/09/28/V1_NOAY_AMB_280926_6579_28092026032717_1400_1790609302541_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790609309000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כוחות צה\"ל השמידו יותר מ-600 תשתיות טרור ואיתרו עשרות משגרים בכפר אל-מנצורי בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790609309000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cc932d55f88e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_NOAY_AMB_280926_6579_28092026032717/V1_NOAY_AMB_280926_6579_28092026032717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ce575280958e0a1027.htm": {
    "author": "מבזקים",
