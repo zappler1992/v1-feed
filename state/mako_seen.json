@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790599948799,
+ "last_run_ms": 1790600249743,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8684,6 +8684,18 @@
    "published_ms": 1790528340000,
    "section": "",
    "title": "הסטודנט צפה בסרטון מטבח 7 באוקטובר: \"זה אני\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-81aa2ca33f7e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q3/Article-81aa2ca33f7e0a1026.htm",
+   "checked_ms": 1790600249743,
+   "content_type": "article",
+   "first_seen_ms": 1790600249743,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790599440000,
+   "section": "חדשות",
+   "title": "מועמד הליכוד תוקף את שורדת שבי: \"להחזיר אותך לחמאס\""
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
