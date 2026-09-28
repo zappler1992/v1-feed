@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790628748438,
+ "last_run_ms": 1790629048399,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2602,6 +2602,18 @@
    "published_ms": 1790492280000,
    "section": "ספורט",
    "title": "חשש אירי: הכוכב הישראלי יפרוש מהנבחרת?"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-53f056a1eb9e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790629048399,
+   "content_type": "article",
+   "first_seen_ms": 1790629048399,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790628840000,
+   "section": "ספורט",
+   "title": "0:1 דרמטי לצרפת בבלגיה, 1:4 גדול לאיטליה"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-64d1e9eaf09d0a1027.htm": {
    "check_attempts": 1,
