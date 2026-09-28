@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-3c37df5e638e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ce575280958e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33792,6 +33792,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16290_27092026094949/M_NEWS_16290_27092026094949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ce575280958e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל תוקף בדרום לבנון",
+   "duration_s": 39,
+   "first_seen_ms": 1790606246227,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16393_28092026023057_1400_1790605933485_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790605940000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל תוקף בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790605940000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ce575280958e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16393_28092026023057/M_NEWS_16393_28092026023057_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cee858ee387e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34037,7 +34055,8 @@
    "importance": 0,
    "published_ms": 1790603680000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "מהעולם"
    ],
    "title": "מטורף: SpaceX משגרת לחלל את טיל ה-Starship, שמוגדר כטיל החזק ביותר שנבנה אי פעם",
    "type": "mivzakim",
