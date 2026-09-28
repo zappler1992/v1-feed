@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790599648798,
+ "last_run_ms": 1790599948799,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2875,7 +2875,7 @@
    "indexnow_ms": 1790593587672,
    "published_ms": 1790592960000,
    "section": "תרבות tvbee",
-   "title": "\"זה לא הזמן\": הסיבה לביטול ההופעה של הסטנדאפיסט"
+   "title": "המופע של גיא הוכמן בוטל: \"זה לא הזמן\""
   },
   "https://www.mako.co.il/culture-articles/Article-fb9714a6d8fc0a1026.htm": {
    "check_attempts": 1,
@@ -3007,7 +3007,7 @@
    "indexnow_ms": 1790598148716,
    "published_ms": 1790597700000,
    "section": "סלבס",
-   "title": "טרוד ומעשן סיגריה: השחקן הוותיק תועד לפני הכניסה לכלא"
+   "title": "טרוד עם סיגריה, לפני שירצה מאסר: כך תפסנו את השחקן"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-2650460facab0a1027.htm": {
    "check_attempts": 1,
@@ -6883,7 +6883,7 @@
    "indexnow_ms": 1790598748375,
    "published_ms": 1790598420000,
    "section": "מוזיקה",
-   "title": "\"מחמם לב\": ירדה ארזי על הנפילה - והאהבה מהקהל"
+   "title": "\"כואב, אבל הכל במקום\": ירדנה ארזי על רגעי הפחד בהופעה"
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
@@ -7136,6 +7136,18 @@
    "published_ms": 1714508400000,
    "section": "דיגיטל",
    "title": "הסטארט-אפ הישראלי ששווה כבר 3 מיליארד דולר"
+  },
+  "https://www.mako.co.il/news-politics/2026_q3/Article-81aa2ca33f7e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790599826910,
+   "content_type": "article",
+   "first_seen_ms": 1790599826910,
+   "indexable": true,
+   "indexnow_ms": 1790599826910,
+   "published_ms": 1790599440000,
+   "section": "חדשות",
+   "title": "מועמד הליכוד תוקף את שורדת שבי: \"להחזיר אותך לחמאס\""
   },
   "https://www.mako.co.il/news-politics/2026_q3/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
@@ -7483,7 +7495,7 @@
    "indexnow_ms": 1790598866845,
    "published_ms": 1790598360000,
    "section": "דיגיטל",
-   "title": "זה הסטודנט העזתי בהולנד שטען שהיה מעורב ב-7.10"
+   "title": "הדרישה נגד הסטודנט העזתי שטען שהיה מעורב ב-7 באוקטובר"
   },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
@@ -8215,7 +8227,7 @@
    "indexnow_ms": 1790589150153,
    "published_ms": 1790588400000,
    "section": "צבא וביטחון",
-   "title": "\"איבדה 10,000 חיילים בתוך שבוע\": המכה הקשה למעצמה"
+   "title": "\"איבדה 10,000 חיילים בתוך שבוע\": המכה למעצמה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -8732,6 +8744,18 @@
    "published_ms": 1790320320000,
    "section": "",
    "title": "ההחלטה של צה\"ל אחרי האסון הקשה ברצועת עזה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bae18c6e107e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-bae18c6e107e0a1027.htm",
+   "checked_ms": 1790599826910,
+   "content_type": "article",
+   "first_seen_ms": 1790599826910,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790592600000,
+   "section": "",
+   "title": "יוצא דופן: צבא ארה\"ב החל להילחם במדינה נוספת"
   },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
@@ -9259,7 +9283,7 @@
    "indexnow_ms": 1790589987361,
    "published_ms": 1790586720000,
    "section": "",
-   "title": "\"הדיילים בהלם. זה לא קורה בקו לאירופה אלא רק לישראל\""
+   "title": "מביך: \"זה קורה תמיד בקו לישראל, לא במקומות אחרים\""
   },
   "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
    "check_attempts": 1,
