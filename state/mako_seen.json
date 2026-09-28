@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790578049418,
+ "last_run_ms": 1790578349339,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1199,7 +1199,7 @@
    "indexnow_ms": null,
    "published_ms": 1790564100000,
    "section": "ספורט",
-   "title": "פרטים חדשים מהעימות בין סולומון לאירי"
+   "title": "פרטים חדשים מהעימות בין האירי לסולומון"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-6ea69bce732d0a1026.htm": {
    "check_attempts": 1,
@@ -1548,6 +1548,18 @@
    "published_ms": 1790189040000,
    "section": "ספורט",
    "title": "ההסבר: איך המיקום ישפיע על עלייה ליורו?"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d7244ed5bb6e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790578349339,
+   "content_type": "article",
+   "first_seen_ms": 1790578349339,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790578140000,
+   "section": "ספורט",
+   "title": "זעזוע: השינויים הצפויים בהרכב הנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-d7cb455029cc0a1027.htm": {
    "check_attempts": 1,
