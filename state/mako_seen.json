@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790581948412,
+ "last_run_ms": 1790582248328,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8228,6 +8228,18 @@
    "published_ms": 1790360160000,
    "section": "",
    "title": "עסקת המיליארדים עם סעודיה - והחשש בארצות הברית"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b00ecee5335e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-b00ecee5335e0a1027.htm",
+   "checked_ms": 1790582248328,
+   "content_type": "article",
+   "first_seen_ms": 1790582248328,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790582040000,
+   "section": "",
+   "title": "חזרה ממסיבה - וסיכלה מגה פיגוע בבריטניה"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
