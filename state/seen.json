@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4aeac273047e0a1027.htm"
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-878d8105647e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2932,14 +2932,14 @@
    "duration_s": 47,
    "first_seen_ms": 1790577746732,
    "image": "https://img.mako.co.il/2026/09/28/SHIR_MADONNA_280926_1400_1790576652010_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1790576658000,
    "sections": [
     "סלבס"
    ],
    "title": "מדונה הופיעה בטקס VMAS הנחשק - אבל כולם דיברו רק על הישבן שלה",
    "type": "general",
-   "updated_ms": 1790576658000,
+   "updated_ms": 1790587080000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-3ce9b3b1ea6e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/SHIR_MADONNA_280926/MASTER/SHIR_MADONNA_280926/SHIR_MADONNA_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -13670,6 +13670,24 @@
    "updated_ms": 1790498880000,
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-44b20dd55d1e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/LOADED_EP45/MASTER/LOADED_EP45/LOADED_EP45_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-878d8105647e0a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 46: ארז מתחנן לג'ובאני התרנגול להחזיק מעמד אצל הווטרינר, בזמן שהרופא כבר ממהר לטפל באוגר הבא. בחדר ההמתנה גיא עוזר לאביגיל להשתלט על הצלצול המעצבן בטלפון שלה, ועל הדרך מצליח להשיג את המספר שלה. הם מחליפים חיוכים לפני שהוא הולך, והיא מאחלת לו בהצלחה עם התרנגול.",
+   "duration_s": 128,
+   "first_seen_ms": 1790587345892,
+   "image": "https://img.mako.co.il/2026/09/28/LOADED_EP46_1400_1790586806503_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790586000000,
+   "sections": [
+    "מסודרים"
+   ],
+   "title": "מסודרים פרק 46: חיזור בחדר ההמתנה",
+   "type": "series",
+   "updated_ms": 1790586000000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-878d8105647e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/LOADED_EP46/MASTER/LOADED_EP46/LOADED_EP46_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
