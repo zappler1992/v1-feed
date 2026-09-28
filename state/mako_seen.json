@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790598148716,
+ "last_run_ms": 1790598448379,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1368,6 +1368,18 @@
    "published_ms": 1790563740000,
    "section": "ספורט",
    "title": "\"פירקו אותנו וצרחתם לשופט. איפה הכבוד?\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-79ee2ca33f7e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790598386886,
+   "content_type": "article",
+   "first_seen_ms": 1790598386886,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790598180000,
+   "section": "ספורט",
+   "title": "אלו חברי הועדה המקצועית למנוי מאמן נבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-7dd26602f87e0a1026.htm": {
    "check_attempts": 1,
@@ -9475,7 +9487,7 @@
    "indexnow_ms": 1790564666933,
    "published_ms": 1790568960000,
    "section": "חופש",
-   "title": "המלון המוכר באילת הופך להיות \"הכלול כלול אקסטרה\""
+   "title": "המלון המוכר באילת הופך להיות \"הכל כלול אקסטרה\""
   },
   "https://www.mako.co.il/travel-world/Article-283c43f3529c0a1027.htm": {
    "check_attempts": 1,
