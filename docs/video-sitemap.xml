@@ -79,6 +79,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -129,6 +130,24 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ab254426939e0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/28/NOAY_AMIT_280926_1_1400_1790619968397_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הצנזורה מאשרת לפרסם: פרטים חדשים על המבצע שהסעיר את העולם</video:title>
+<video:description>שנה וחצי אחרי מבצע הביפרים נגד חיזבאללה, פרטים דרמטיים שנפסלו אז לפרסום על ידי הצנזורה מותרים כעת לראשונה בחשיפה: המבצע, שבמסגרתו התפוצצו אלפי מכשירים שנשאו פעילי חיזבאללה בספטמבר 2024, היה קרוב מאוד להיחשף עוד לפני הפעלתו. הפרטים נמסרו כבר אז על ידי שר הביטחון לשעבר יואב גלנט בריאיון הראשון לאחר פיטוריו, אך נותרו חסויים עד היום. גלנט סיפר כי בתחילת אוגוסט התברר בישראל שמישהו בחיזבאללה החל לחשוד בביפרים, ובהמשך אף הגיעו מאיראן מכשירי בדיקה שנועדו לבחון אותם - ואלה הושמדו. כשהתברר כי ביפרים כבר נמצאים בבדיקה, בישראל הבינו שהמבצע ניצב בפני נקודת הכרעה: להפעיל את המכשירים או להסתכן בחשיפת התוכנית כולה. ב-17 בספטמבר 2024 התקבלה ההחלטה להפעיל.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/NOAY_AMIT_280926_1/MASTER/NOAY_AMIT_280926_1/NOAY_AMIT_280926_1_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>61</video:duration>
+<video:publication_date>2026-09-28T18:26:20+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -312,6 +331,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -327,6 +347,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>
