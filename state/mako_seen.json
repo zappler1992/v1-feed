@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790623647914,
+ "last_run_ms": 1790623947941,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1332,6 +1332,18 @@
    "published_ms": 1790312160000,
    "section": "ספורט",
    "title": "אופ\"א הסבירה: הסיבה להרחקת אבו פרחי"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-42908b62579e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790623947941,
+   "content_type": "article",
+   "first_seen_ms": 1790623947941,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790623680000,
+   "section": "ספורט",
+   "title": "\"שחררו מהשם שלי, גאה לייצג את הנבחרת\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-4524382a844e0a1026.htm": {
    "check_attempts": 1,
