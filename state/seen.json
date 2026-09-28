@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-c16ea9224a7e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-141edf5e638e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2953,7 +2953,8 @@
    "importance": 2,
    "published_ms": 1790576658000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "מדונה הופיעה בטקס VMAS הנחשק - אבל כולם דיברו רק על הישבן שלה",
    "type": "general",
@@ -3007,7 +3008,8 @@
    "importance": 2,
    "published_ms": 1790588340000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "סידני סוויני שוקלת גיור",
    "type": "general",
@@ -19107,7 +19109,8 @@
    "importance": 2,
    "published_ms": 1790586627000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "התחזית המפחידה של ביל גייטס על עתיד ה-AI: \"ימותו מיליארד אנשים\"",
    "type": "news",
@@ -32305,6 +32308,24 @@
    "updated_ms": 1790494131000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16275_27092026072740/M_NEWS_16275_27092026072740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-141edf5e638e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לאחר האמירה המקוממת, מועמד הליכוד איציק בונצל מתנצל בפני שורדת השבי יוכבד ליפשיץ",
+   "duration_s": 5,
+   "first_seen_ms": 1790602946140,
+   "image": "https://img.mako.co.il/2026/09/28/V1_NOAY_SORRY_280926_6576_28092026013652_1400_1790602684904_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790602695000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לאחר האמירה המקוממת, מועמד הליכוד איציק בונצל מתנצל בפני שורדת השבי יוכבד ליפשיץ",
+   "type": "mivzakim",
+   "updated_ms": 1790602695000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-141edf5e638e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_NOAY_SORRY_280926_6576_28092026013652/V1_NOAY_SORRY_280926_6576_28092026013652_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-143eb765294e0a1026.htm": {
    "author": "מבזקים",
@@ -51837,7 +51858,8 @@
    "importance": 0,
    "published_ms": 1790593020000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "משלוח מסריח: שליח אמזון תועד משתין ברחבי הלובי בבניין יוקרתי בניו יורק",
    "type": "mivzakim",
