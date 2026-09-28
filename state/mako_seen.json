@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790613749042,
+ "last_run_ms": 1790614049138,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -612,6 +612,18 @@
    "published_ms": 1790233260000,
    "section": "ספורט",
    "title": "קרי חשף: ה\"מצב הרפואי הנדיר\" איתו התמודד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-bdff25f78d8e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790613987574,
+   "content_type": "article",
+   "first_seen_ms": 1790613987574,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790613900000,
+   "section": "ספורט",
+   "title": "ה-GM של פורטלנד אופטימי: דני יאריך חוזה?"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-c030d8f122ec0a1026.htm": {
    "check_attempts": 1,
@@ -8720,6 +8732,18 @@
    "published_ms": 1790441400000,
    "section": "",
    "title": "איזנקוט הכריז: המפלגה ש\"לא תהיה חלק מהממשלה הבאה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-26dd69d27d8e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q3/Article-26dd69d27d8e0a1027.htm",
+   "checked_ms": 1790614049138,
+   "content_type": "article",
+   "first_seen_ms": 1790614049138,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790613720000,
+   "section": "",
+   "title": "רונן בר נגד רה\"מ: \"אלו שקרים - אגיש נגדו תביעת דיבה\""
   },
   "https://www.mako.co.il/special-mako-news/Article-27b99423824e0a1027.htm": {
    "check_attempts": 1,
