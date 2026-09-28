@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-ed1259ee0d6e0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3db3f6e44f6e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e9694a639f6e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32375,6 +32376,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b7ae4dda72e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16297_27092026104917/M_NEWS_16297_27092026104917_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3db3f6e44f6e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צרורות ללא הפסקה: תיעוד נוסף מהאירוע ברהט - כשהיורים עם חצי גוף מחוץ למכונית",
+   "duration_s": 15,
+   "first_seen_ms": 1790581945804,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_yerirahat_6560_28092026074812_1400_1790581761228_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790581771000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צרורות ללא הפסקה: תיעוד נוסף מהאירוע ברהט - כשהיורים עם חצי גוף מחוץ למכונית",
+   "type": "mivzakim",
+   "updated_ms": 1790581771000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3db3f6e44f6e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_yerirahat_6560_28092026074812/V1_karind_yerirahat_6560_28092026074812_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3dca5674c15e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33440,6 +33459,24 @@
    "updated_ms": 1790531145000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e732fbdffe3e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16325_27092026054411/M_NEWS_16325_27092026054411_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e9694a639f6e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הסתיו הגיע - וגם הגשם: יורה יורד בחיפה - במקביל לבילויים בחול המועד",
+   "duration_s": 18,
+   "first_seen_ms": 1790581945804,
+   "image": "https://img.mako.co.il/2026/09/28/V1_KARIND_HAIFA_6559_28092026074410_1400_1790581522469_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790581530000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הסתיו הגיע - וגם הגשם: יורה יורד בחיפה - במקביל לבילויים בחול המועד",
+   "type": "mivzakim",
+   "updated_ms": 1790581530000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e9694a639f6e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_KARIND_HAIFA_6559_28092026074410/V1_KARIND_HAIFA_6559_28092026074410_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ec4913ad396e0a1026.htm": {
    "author": "מבזקים",
