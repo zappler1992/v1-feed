@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790592448645,
+ "last_run_ms": 1790592748721,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -360,6 +360,18 @@
    "published_ms": 1790589229000,
    "section": "אופנה",
    "title": "בשמלת זהב: טיילור מלכוב מציגה מחשוף גב שאי אפשר להתעלם ממנו"
+  },
+  "https://fashionforward.mako.co.il/news/320932/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790592748721,
+   "content_type": "post",
+   "first_seen_ms": 1790592748721,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790592300000,
+   "section": "אופנה",
+   "title": "בבגד גוף בלבד: בר רפאלי יודעת מה נלבש בסתיו"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
