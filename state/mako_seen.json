@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790591848628,
+ "last_run_ms": 1790592148892,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1357,6 +1357,18 @@
    "section": "ספורט",
    "title": "\"פירקו אותנו וצרחתם לשופט. איפה הכבוד?\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-7dd26602f87e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790592148892,
+   "content_type": "article",
+   "first_seen_ms": 1790592148892,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790592000000,
+   "section": "ספורט",
+   "title": "בשל התבוסה: בוטל המופע של הוכמן לנבחרת"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-831c9423824e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2002,6 +2014,18 @@
    "published_ms": 1790403480000,
    "section": "ספורט",
    "title": "שכטר סיפר: החלוץ שהיה במו\"מ עם מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-e373ad94487e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790592148892,
+   "content_type": "article",
+   "first_seen_ms": 1790592148892,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790590800000,
+   "section": "ספורט",
+   "title": "\"בני פלדמן - מהבלמים הטובים בעולם לגילו\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-e80f9b0f022e0a1026.htm": {
    "check_attempts": 1,
@@ -4303,7 +4327,7 @@
    "indexnow_ms": 1790583026924,
    "published_ms": 1790582100000,
    "section": "",
-   "title": "המקום התל-אביבי מגיש רק מאכל אחד - וכולם בטירוף"
+   "title": "המקום החדש שמגיש רק טירמיסו כבר מעורר מחלוקת"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-80ea61b88e8c0a1027.htm": {
    "check_attempts": 1,
@@ -7315,7 +7339,7 @@
    "indexnow_ms": 1790584707040,
    "published_ms": 1790584380000,
    "section": "דיגיטל",
-   "title": "עזתים מתנכלים ל\"ילד ישראלי חטוף\": הסרטון ששוב רץ והאמת"
+   "title": "הפייק על \"הילד הישראלי החטוף בעזה\" שוב רץ"
   },
   "https://www.mako.co.il/nexter-news/Article-3318b2289e6e0a1026.htm": {
    "check_attempts": 1,
@@ -7436,6 +7460,18 @@
    "published_ms": 1790310600000,
    "section": "",
    "title": "הפוסט האנטישמי שגרם לזעזוע בכל ארגנטינה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-a59c5f45d67e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790592148892,
+   "content_type": "article",
+   "first_seen_ms": 1790592148892,
+   "indexable": true,
+   "indexnow_ms": 1790592148892,
+   "published_ms": 1790589360000,
+   "section": "דיגיטל",
+   "title": "\"הרס ברמה אפוקליפטית\": ככה עזה נראית מהלוויין"
   },
   "https://www.mako.co.il/nexter-news/Article-b22b4e8291ec0a1026.htm": {
    "check_attempts": 1,
@@ -9248,6 +9284,18 @@
    "published_ms": 1790500560000,
    "section": "",
    "title": "הזעם של טייס אל על: \"למה המטוס נראה ככה?\""
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-b7886602f87e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790592148892,
+   "content_type": "article",
+   "first_seen_ms": 1790592148892,
+   "indexable": true,
+   "indexnow_ms": 1790592148892,
+   "published_ms": 1790591760000,
+   "section": "",
+   "title": "הקו הישיר והבלעדי מנתב\"ג ליעד שהישראלים אוהבים חוזר"
   },
   "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
    "check_attempts": 1,
