@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790581048284,
+ "last_run_ms": 1790581348311,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3415,7 +3415,7 @@
    "indexnow_ms": 1790570251307,
    "published_ms": 1790570160000,
    "section": "",
-   "title": "בלי טיסה ומלון: הסכום שכל משפחה מפסידה בתקופת החגים"
+   "title": "בלי טיסה ובלי מלון: חגי תשרי עולים 3,500 שקל"
   },
   "https://www.mako.co.il/finances-consumer/Article-9f9caf03838d0a1027.htm": {
    "check_attempts": 1,
@@ -4747,7 +4747,7 @@
    "indexnow_ms": 1790564666933,
    "published_ms": 1790564400000,
    "section": "HIX",
-   "title": "יצאה לחצר, ראתה שיש שם דוב - וזה נגמר באסון"
+   "title": "יצאה לחצר, ראתה שם יצור מפחיד - וזה נגמר באסון"
   },
   "https://www.mako.co.il/hix-special/Article-22034e2eeffc0a1026.htm": {
    "check_attempts": 1,
@@ -5745,6 +5745,18 @@
    "section": "פלילים",
    "title": "הדרישה החדשה של ניבי זגורי: \"אין לו מה להפסיד\""
   },
+  "https://www.mako.co.il/men-men_news/Article-143ef4a1ce6e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790581226855,
+   "content_type": "article",
+   "first_seen_ms": 1790581226855,
+   "indexable": true,
+   "indexnow_ms": 1790581226855,
+   "published_ms": 1790580840000,
+   "section": "פלילים",
+   "title": "השכנה חסמה את הרכב - והעבריינים דרשו שתשלם"
+  },
   "https://www.mako.co.il/men-men_news/Article-1c00a668702e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6079,7 +6091,7 @@
    "indexnow_ms": 1790580626744,
    "published_ms": 1790580000000,
    "section": "פלילים",
-   "title": "נהג גרר העמיס רכבים, וניסה להעביר אותם ליו\"ש"
+   "title": "נהג גרר העמיס רכבים, וניסה להעביר אותם לשטחי הרשות"
   },
   "https://www.mako.co.il/men-men_news/Article-89a99581af2e0a1026.htm": {
    "check_attempts": 1,
@@ -7819,7 +7831,7 @@
    "indexnow_ms": 1790575227589,
    "published_ms": 1790574720000,
    "section": "",
-   "title": "מדינת ערב שנמצאת \"בין הפטיש האמריקאי לסדן האיראני\""
+   "title": "הקלף מול איראן שצובר תאוצה: בת הברית שמסתבכת"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -8708,6 +8720,18 @@
    "published_ms": 1790412120000,
    "section": "",
    "title": "לא אישרו את נחיתת הטיסה מישראל - והיא בוטלה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-4f88439bac6e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790581226855,
+   "content_type": "article",
+   "first_seen_ms": 1790581226855,
+   "indexable": true,
+   "indexnow_ms": 1790581226855,
+   "published_ms": 1790579760000,
+   "section": "",
+   "title": "\"הזמן - גורם קריטי\": עשרות ישראלים ממתינים לחילוץ"
   },
   "https://www.mako.co.il/travel-news/international/Article-56e3fa1495ac0a1027.htm": {
    "check_attempts": 1,
