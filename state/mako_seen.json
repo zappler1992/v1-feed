@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790572053120,
+ "last_run_ms": 1790572354514,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3896,6 +3896,18 @@
    "published_ms": 1790234220000,
    "section": "",
    "title": "\"כשהגעתי ל'מאסטר שף' לא ידעתי לבשל\""
+  },
+  "https://www.mako.co.il/food-cooking_magazine/Article-69db08f6a8da751006.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790572354514,
+   "content_type": "article",
+   "first_seen_ms": 1790572354514,
+   "indexable": true,
+   "indexnow_ms": 1790572354514,
+   "published_ms": 1790572140000,
+   "section": "הכי חם",
+   "title": "ארוחה בסוכה? זה המתכון המושלם"
   },
   "https://www.mako.co.il/food-cooking_magazine/new_products/Article-f5ad1af011fa0a1026.htm": {
    "check_attempts": 1,
