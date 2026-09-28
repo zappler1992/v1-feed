@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ab75f7c6276e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-179d807e596e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18986,6 +18987,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-52772dae162e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_UN_270927/MASTER/SHIR_UN_270927/SHIR_UN_270927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ab75f7c6276e0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אירוע חריג בתחנה בבית שמש: פקח קילל נוסעים חרדים שחיכו לאוטובוס. לא ברור מה הוביל לעימות, אבל מהאנשים שנשמעים בסרטון עולה שזו כנראה לא הפעם הראשונה שיש בעיות עם הפקח במקום במהלך העימות הוא קילל את הצעיר, ובהמשך יצא גם באמירות קשות נגד הציבור החרדי כולו.",
+   "duration_s": 31,
+   "first_seen_ms": 1790575646616,
+   "image": "https://img.mako.co.il/2026/09/28/yoav_haredi_280926_1400_1790573530840_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790573940000,
+   "sections": [],
+   "title": "אירוע חריג בתחנה בבית שמש: פקח קילל נוסעים חרדים שחיכו לאוטובוס",
+   "type": "news",
+   "updated_ms": 1790573940000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ab75f7c6276e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/yoav_haredi_280926/MASTER/yoav_haredi_280926/yoav_haredi_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-afd09581af2e0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -32012,6 +32029,24 @@
    "updated_ms": 1790520914000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1758108ac53e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16320_27092026025335/M_NEWS_16320_27092026025335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-179d807e596e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ירה לעבר בית ורכב בעראבה - וניסה לברוח דרך בית הספר: שני חשודים נעצרו",
+   "duration_s": 58,
+   "first_seen_ms": 1790575646616,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_police_6555_28092026060015_1400_1790575287570_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790575294000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ירה לעבר בית ורכב בעראבה - וניסה לברוח דרך בית הספר: שני חשודים נעצרו",
+   "type": "mivzakim",
+   "updated_ms": 1790575294000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-179d807e596e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_police_6555_28092026060015/V1_karind_police_6555_28092026060015_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fbc1d4c8c3e0a1027.htm": {
    "author": "מבזקים",
