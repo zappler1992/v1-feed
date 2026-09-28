@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790593348765,
+ "last_run_ms": 1790593648348,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2816,6 +2816,18 @@
    "published_ms": 1790151000000,
    "section": "",
    "title": "בעיתון האמריקאי: התגובה של עומר שם טוב לנז\"א"
+  },
+  "https://www.mako.co.il/culture-articles/Article-ea3ba9224a7e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790593587672,
+   "content_type": "article",
+   "first_seen_ms": 1790593587672,
+   "indexable": true,
+   "indexnow_ms": 1790593587672,
+   "published_ms": 1790592960000,
+   "section": "תרבות tvbee",
+   "title": "המופע של גיא הוכמן בוטל: \"זה לא הזמן\""
   },
   "https://www.mako.co.il/culture-articles/Article-fb9714a6d8fc0a1026.htm": {
    "check_attempts": 1,
