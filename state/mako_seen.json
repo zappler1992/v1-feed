@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790619449168,
+ "last_run_ms": 1790619749330,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -624,6 +624,18 @@
    "published_ms": 1790233260000,
    "section": "ספורט",
    "title": "קרי חשף: ה\"מצב הרפואי הנדיר\" איתו התמודד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-b414887df29e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790619749330,
+   "content_type": "article",
+   "first_seen_ms": 1790619749330,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790619600000,
+   "section": "ספורט",
+   "title": "\"סומך על התהליך\": התייחסות אבדיה לעתידו"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-bdff25f78d8e0a1026.htm": {
    "check_attempts": 1,
@@ -3319,7 +3331,7 @@
    "indexnow_ms": 1790600426919,
    "published_ms": 1790599800000,
    "section": "סלבס",
-   "title": "לינור סביניק שמעה גברים גונחים במקום הזה - ונחרדה"
+   "title": "\"מה זה האירוע הזה? אני רוצה לעזוב את הארץ\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
@@ -9919,7 +9931,7 @@
    "indexnow_ms": 1790581826854,
    "published_ms": 1790571600000,
    "section": "הכי חם",
-   "title": "\"התחלנו לחיות\": ליהיא גרינר חוזרת לטלוויזיה"
+   "title": "אחרי שנים מול המצלמות, הטייטל החדש של ליהיא גרינר"
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-60fdc9b82cdd0a1026.htm": {
    "check_attempts": 1,
