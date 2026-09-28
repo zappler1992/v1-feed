@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790595448298,
+ "last_run_ms": 1790595748346,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1476,6 +1476,18 @@
    "published_ms": 1790393820000,
    "section": "ספורט",
    "title": "\"זה לא רק כדורגל, צריך לסתום להם את הפה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9e3e8e96cc7e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790595748346,
+   "content_type": "article",
+   "first_seen_ms": 1790595748346,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790595420000,
+   "section": "ספורט",
+   "title": "נזק לשנים? ההשפעה של ירידת דרג באומות"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-a3d49b0f022e0a1026.htm": {
    "check_attempts": 1,
@@ -4387,7 +4399,7 @@
    "indexnow_ms": 1790579186720,
    "published_ms": 1790492280000,
    "section": "",
-   "title": "המסעדה החדשה בהרצליה דורשת שתשלמו סכום שערורייתי"
+   "title": "הבקשה השערורייתית של המסעדה החדשה"
   },
   "https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-c2545710fe7c0a1027.htm": {
    "check_attempts": 1,
@@ -7809,6 +7821,18 @@
    "section": "גאווה",
    "title": "\"נמחק את האפליה הפסולה שקיימת במדינה שנים\""
   },
+  "https://www.mako.co.il/pride-news/Article-6f6addc6327e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790595626738,
+   "content_type": "article",
+   "first_seen_ms": 1790595626738,
+   "indexable": true,
+   "indexnow_ms": 1790595626738,
+   "published_ms": 1790595420000,
+   "section": "",
+   "title": "\"נתנו לי אגרופים, סטירות ובעיטות. התחננתי שיפסיקו\""
+  },
   "https://www.mako.co.il/pride-news/Article-74635aa5229a0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9139,7 +9163,7 @@
    "indexnow_ms": 1790589987361,
    "published_ms": 1790586720000,
    "section": "",
-   "title": "\"הדיילים המומים, זה לא קורה בקו לאירופה אלא רק בישראל\""
+   "title": "\"הדיילים בהלם. זה לא קורה בקו לאירופה אלא רק לישראל\""
   },
   "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
    "check_attempts": 1,

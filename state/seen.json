@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9c9c7d952c7e0a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-de2638dc4c7e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6708,7 +6708,8 @@
    "importance": 2,
    "published_ms": 1790574883000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "יותר מ-10 מיליון צפיות: מתברר שכל החיים חתכנו אבוקדו לא נכון",
    "type": "general",
@@ -19153,14 +19154,14 @@
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9c9c7d952c7e0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "דיילת יונייטד שעובדת בקווים לישראל טוענת שהבלגן במטוסים אחרי הטיסות הפך לתופעה חוזרת: שאריות אוכל, משקאות שנשפכו ואפילו חיתולים מלוכלכים שנשארים במטבחון. לדבריה, דיילים שלא רגילים לטוס בקו לישראל פשוט \"מזדעזעים\" מהמראה.",
    "duration_s": 29,
    "first_seen_ms": 1790595146079,
    "image": "https://img.mako.co.il/2026/09/28/SHIR_DAYELET_280926_1400_1790594839230_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1790594853000,
    "sections": [],
-   "title": "",
+   "title": "תיעוד הדיילת מהמטוס: \"בכל טיסה לישראל המטוס נראה ככה, אנשים צריכים לנקות אחריהם\"",
    "type": "news",
    "updated_ms": 1790594853000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9c9c7d952c7e0a1027.htm",
@@ -51829,6 +51830,24 @@
    "updated_ms": 1790569586000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-bed63de1036e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_colombia_6548_28092026042451/V1_karind_colombia_6548_28092026042451_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-de2638dc4c7e0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "פיצוץ עז - ועשן כבד: רוסיה תקפה את האקדמיה הלאומית למדעים בקייב | צפו",
+   "duration_s": 32,
+   "first_seen_ms": 1790595746080,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_kiyv_6573_28092026113504_1400_1790595398453_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790595404000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "פיצוץ עז - ועשן כבד: רוסיה תקפה את האקדמיה הלאומית למדעים בקייב | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1790595404000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-de2638dc4c7e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_kiyv_6573_28092026113504/V1_karind_kiyv_6573_28092026113504_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-e21af7c6276e0a1027.htm": {
    "author": "מבזקים מהעולם",
