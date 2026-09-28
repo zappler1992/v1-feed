@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790564848967,
+ "last_run_ms": 1790565148684,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1475,7 +1475,7 @@
    "indexnow_ms": null,
    "published_ms": 1790564040000,
    "section": "ספורט",
-   "title": "\"אל תזרקו דברים\". שיחת המחצית בנבחרת"
+   "title": "שיחת המחצית בחדר ההלבשה של הנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-cf2a39a1a86d0a1026.htm": {
    "check_attempts": 1,
@@ -4556,6 +4556,18 @@
    "published_ms": 1790305200000,
    "section": "",
    "title": "החורף כאן? אלו האזורים בהם עשוי לרדת גשם בחג"
+  },
+  "https://www.mako.co.il/hix-nature/Article-ea982dae162e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790565148684,
+   "content_type": "article",
+   "first_seen_ms": 1790565148684,
+   "indexable": true,
+   "indexnow_ms": 1790565148684,
+   "published_ms": 1790564400000,
+   "section": "",
+   "title": "האזור שבו צפוי היום גשם - והיום שבו הוא יגיע גם למרכז"
   },
   "https://www.mako.co.il/hix-nature/Article-f6089f6168ac0a1027.htm": {
    "check_attempts": 1,
@@ -7676,6 +7688,18 @@
    "published_ms": 1790078400000,
    "section": "צבא וביטחון",
    "title": "כולל 7 באוקטובר: העלה 45 פרסומי הסתה בטיקטוק"
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-17325e1e3b4e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790565026975,
+   "content_type": "liveblog",
+   "first_seen_ms": 1790565026975,
+   "indexable": true,
+   "indexnow_ms": 1790565026975,
+   "published_ms": 1790564640000,
+   "section": "",
+   "title": "\"נתניהו קיבל אזהרה על מתקפה בעזה ימים לפני 7 באוקטובר\""
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-72f3ac587bac0a1026.htm": {
    "check_attempts": 1,
