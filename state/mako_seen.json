@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790584348327,
+ "last_run_ms": 1790584648498,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3415,7 +3415,7 @@
    "indexnow_ms": 1790583148372,
    "published_ms": 1790582820000,
    "section": "סלבס",
-   "title": "ילדיו של הכוכב לועגים לו: \"כאילו אתה מבין בזוגיות\""
+   "title": "על הנקודה הכי רגישה: ילדיו של בן אפלק לועגים לו"
   },
   "https://www.mako.co.il/finances-consumer/Article-38db124aa13d0a1027.htm": {
    "check_attempts": 1,
@@ -5241,6 +5241,18 @@
    "section": "עיצוב הבית",
    "title": "גבעת שמואל: הילדים שלכם יעופו על הפארק החדש"
   },
+  "https://www.mako.co.il/living-architecture/local/Article-bdd31680eee90a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790584467029,
+   "content_type": "article",
+   "first_seen_ms": 1790584467029,
+   "indexable": true,
+   "indexnow_ms": 1790584467029,
+   "published_ms": 1790577120000,
+   "section": "עיצוב הבית",
+   "title": "שילמתם למעצבת עשרות אלפי שקלים - מה בדיוק מגיע לכם?"
+  },
   "https://www.mako.co.il/living-architecture/world/Article-35b29224772d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6715,7 +6727,7 @@
    "indexnow_ms": 1790580749236,
    "published_ms": 1790580420000,
    "section": "מוזיקה",
-   "title": "ההחלטה האמיצה של הכוכבת: \"ההצגה חייבת להימשך\""
+   "title": "רגע לפני ההופעה קרה הדבר שאתם רואים פה. ככה זה נגמר"
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
@@ -7171,7 +7183,7 @@
    "indexnow_ms": 1790582306869,
    "published_ms": 1790580420000,
    "section": "דיגיטל",
-   "title": "האזהרה של ביל גייטס: \"עלול להוביל למיליארד מתים\""
+   "title": "תרחיש האימים ביל גייטס: \"עלול להוביל למיליארד מתים\""
   },
   "https://www.mako.co.il/nexter-news/Article-3b1bd8ac4b8c0a1026.htm": {
    "check_attempts": 1,
@@ -7736,6 +7748,18 @@
    "published_ms": 1790156880000,
    "section": "",
    "title": "עם תמונת חיילת צה\"ל: ההסתה החמורה נגד ישראל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-1526f6e44f6e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790584467029,
+   "content_type": "article",
+   "first_seen_ms": 1790584467029,
+   "indexable": true,
+   "indexnow_ms": 1790584467029,
+   "published_ms": 1790581920000,
+   "section": "צבא וביטחון",
+   "title": "הדרמה הביטחונית: ארה\"ב באזהרה חריגה לאזרחיה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1ca5cab9314d0a1026.htm": {
    "check_attempts": 1,
