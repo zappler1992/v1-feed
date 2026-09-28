@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790629648418,
+ "last_run_ms": 1790629948493,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3379,7 +3379,7 @@
    "indexnow_ms": 1790600426919,
    "published_ms": 1790599800000,
    "section": "סלבס",
-   "title": "לינור סביניק שמעה גברים גונחים במקום הזה - ונחרדה"
+   "title": "\"מה זה האירוע הזה? אני רוצה לעזוב את הארץ\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
@@ -6175,7 +6175,7 @@
    "indexnow_ms": 1790608948887,
    "published_ms": 1790608140000,
    "section": "",
-   "title": "\"אני אכנס לבית החולים - ההחלמה לא תהיה קצרה\""
+   "title": "\"אני אכנס לבית חולים, ההחלמה לא תהיה קצרה\""
   },
   "https://www.mako.co.il/makoz-news/Article-cf079b77cdcc0a1026.htm": {
    "check_attempts": 1,
@@ -9452,6 +9452,18 @@
    "published_ms": 1790339760000,
    "section": "",
    "title": "משרד החוץ מזהיר: האזור שצריך להימנע מכל נסיעה אליו"
+  },
+  "https://www.mako.co.il/travel-news/Article-4929aa470b9e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790629706763,
+   "content_type": "article",
+   "first_seen_ms": 1790629706763,
+   "indexable": true,
+   "indexnow_ms": 1790629706763,
+   "published_ms": 1790629440000,
+   "section": "",
+   "title": "קורה המון לאחרונה: המטוס נאלץ לבצע נחיתת חירום"
   },
   "https://www.mako.co.il/travel-news/Article-69de9995c53e0a1026.htm": {
    "check_attempts": 1,
