@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790575649302,
+ "last_run_ms": 1790575949252,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2685,6 +2685,18 @@
    "section": "",
    "title": "15 שנות מאסר נגזרו על המפיק הארווי ויינשטיין"
   },
+  "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-455869b1933d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790575827567,
+   "content_type": "article",
+   "first_seen_ms": 1790575827567,
+   "indexable": true,
+   "indexnow_ms": 1790575827567,
+   "published_ms": 1790575620000,
+   "section": "תרבות tvbee",
+   "title": "\"אני פשוט מחפש את השקט שאבד לי\""
+  },
   "https://www.mako.co.il/culture-movies/Article-a1063c85b0dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -4232,6 +4244,18 @@
    "published_ms": 1790230860000,
    "section": "בריאות",
    "title": "תינוק מת בביתו לאחר שישן עם הוריו ונמחץ"
+  },
+  "https://www.mako.co.il/health-news/Article-1aef9b007b2d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790575827567,
+   "content_type": "article",
+   "first_seen_ms": 1790575827567,
+   "indexable": true,
+   "indexnow_ms": 1790575827567,
+   "published_ms": 1790574960000,
+   "section": "בריאות",
+   "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
   },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
