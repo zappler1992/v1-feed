@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790618548757,
+ "last_run_ms": 1790618849107,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1572,6 +1572,18 @@
    "published_ms": 1790393820000,
    "section": "ספורט",
    "title": "\"זה לא רק כדורגל, צריך לסתום להם את הפה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9dd02d55f88e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790618786971,
+   "content_type": "article",
+   "first_seen_ms": 1790618786971,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790609160000,
+   "section": "ספורט",
+   "title": "אוריין גורן: \"גאה להיות חלק מהנבחרת הזו\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-9e3e8e96cc7e0a1027.htm": {
    "check_attempts": 1,
@@ -8659,7 +8671,7 @@
    "indexnow_ms": 1790617049064,
    "published_ms": 1790616900000,
    "section": "",
-   "title": "לקראת הסלמה? ארה\"ב נוקטת בצעד הזה במזרח התיכון, שוב"
+   "title": "לקראת הסלמה? הצעד שארה\"ב נוקטת במזרח התיכון, שוב"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d2faa180b23d0a1027.htm": {
    "check_attempts": 1,
