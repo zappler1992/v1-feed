@@ -1,8 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9ac3b93d357e0a1026.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-4d5f59f1617e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2761870a367e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0d08fdb4667e0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bcdc870a367e0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-aa5dbe8fa57e0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2979,6 +2981,24 @@
    "updated_ms": 1790508374000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_JENNIE_27092026/MASTER/ASAF_JENNIE_27092026_M/ASAF_JENNIE_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-aa5dbe8fa57e0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "סידני סוויני שוב מסעירה את הרשת - והפעם מסיבה מפתיעה במיוחד: הכוכבת נצפתה מגיעה עם בן זוגה היהודי סקוטר בראון לתפילות ראש השנה בבית כנסת בקונטיקט, ומאז הרשת משתגעת משמועות שלפיהן סוויני שוקלת להתגייר.",
+   "duration_s": 25,
+   "first_seen_ms": 1790588845948,
+   "image": "https://img.mako.co.il/2026/09/28/yoav_sydney_280926_1400_1790588099800_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790588340000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "סידני סוויני שוקלת גיור",
+   "type": "general",
+   "updated_ms": 1790588340000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-aa5dbe8fa57e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/yoav_sydney_280926/MASTER/yoav_sydney_280926/yoav_sydney_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-b9fe1488d63e0a1027.htm": {
    "author": "סלבס",
@@ -19070,7 +19090,8 @@
    "importance": 2,
    "published_ms": 1790533906000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "הולנד בצעד חריג: בדיקת מוצרים במזוודות של ישראלים לפני כניסה לאמסטרדם",
    "type": "news",
@@ -32144,6 +32165,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0c66cb9ed84e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16341_27092026084135/M_NEWS_16341_27092026084135_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0d08fdb4667e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נער בן 15 נפצע קשה בחולון, חשד: רימון רסס הושלך לדירה בחולון - ופצע קשה נער בן 15",
+   "duration_s": 9,
+   "first_seen_ms": 1790588845948,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16382_28092026094221_1400_1790588631999_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790588642000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נער בן 15 נפצע קשה בחולון, חשד: רימון רסס הושלך לדירה בחולון - ופצע קשה נער בן 15",
+   "type": "mivzakim",
+   "updated_ms": 1790588642000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0d08fdb4667e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16382_28092026094221/M_NEWS_16382_28092026094221_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1380965dab1e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -32269,6 +32308,24 @@
    "updated_ms": 1790572144000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-21b04b6c166e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16360_28092026050749/M_NEWS_16360_28092026050749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2761870a367e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אגרופים, דחיפות ומכות מול המבלים: קטטה ענקית בסניף ארומה באצטדיון טדי בירושלים | צפו ברגעי הבהלה",
+   "duration_s": 27,
+   "first_seen_ms": 1790588845948,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_aroma_6568_28092026094401_1400_1790588723546_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790588731000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אגרופים, דחיפות ומכות מול המבלים: קטטה ענקית בסניף ארומה באצטדיון טדי בירושלים | צפו ברגעי הבהלה",
+   "type": "mivzakim",
+   "updated_ms": 1790588731000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2761870a367e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_aroma_6568_28092026094401/V1_karind_aroma_6568_28092026094401_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-277059ee0d6e0a1027.htm": {
    "author": "מבזקים",
@@ -33318,6 +33375,24 @@
    "updated_ms": 1790499096000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bb4a1e5ce02e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16282_27092026084952/M_NEWS_16282_27092026084952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bcdc870a367e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נער בן 15 נפצע באורח קשה בחולון, נבדק החשד כי נפגע מפיצוץ רימון",
+   "duration_s": 9,
+   "first_seen_ms": 1790588845948,
+   "image": "https://img.mako.co.il/2026/09/28/V1_KARIND_HOLON_6567_28092026094115_1400_1790588561452_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790588570000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נער בן 15 נפצע באורח קשה בחולון, נבדק החשד כי נפגע מפיצוץ רימון",
+   "type": "mivzakim",
+   "updated_ms": 1790588570000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-bcdc870a367e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_KARIND_HOLON_6567_28092026094115/V1_KARIND_HOLON_6567_28092026094115_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm": {
    "author": "מבזקים",
