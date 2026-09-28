@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790607148769,
+ "last_run_ms": 1790607448470,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2615,6 +2615,18 @@
    "section": "ספורט",
    "title": "האזהרה של שחקני נבחרת אירלנד לפני המפגש עם ישראל"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-643671dcf68e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790607387225,
+   "content_type": "article",
+   "first_seen_ms": 1790607387225,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790607240000,
+   "section": "ספורט",
+   "title": "\"ויני הוחלף בכפיל\": הקונספירציה ההזויה"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-9d4de89306dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3967,7 +3979,7 @@
    "indexnow_ms": 1790605348550,
    "published_ms": 1790604960000,
    "section": "נדל\"ן",
-   "title": "ירדו או עלו? האמת מאחורי מחירי הדירות"
+   "title": "ירדו או עלו? זו האמת מאחורי מחירי הדירות"
   },
   "https://www.mako.co.il/finances-real-estate/Article-37c88f1a0bf90a1027.htm": {
    "check_attempts": 1,
@@ -7052,6 +7064,18 @@
    "published_ms": 1790352660000,
    "section": "מוזיקה",
    "title": "הכוכבת הבריטית בטענות מופרכות נגד ישראל"
+  },
+  "https://www.mako.co.il/music-news/Article-d0070e21b68e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790607267183,
+   "content_type": "article",
+   "first_seen_ms": 1790607267183,
+   "indexable": true,
+   "indexnow_ms": 1790607267183,
+   "published_ms": 1790606820000,
+   "section": "מוזיקה",
+   "title": "ביקשה החזר בגלל מופע החימום האנטי-ישראלי, זה מה שקרה"
   },
   "https://www.mako.co.il/music-news/Article-dc65e465dd3d0a1026.htm": {
    "check_attempts": 1,
