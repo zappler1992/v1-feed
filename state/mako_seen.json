@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790580449353,
+ "last_run_ms": 1790580749236,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -324,6 +324,18 @@
    "published_ms": 1790551780000,
    "section": "Fashion Forward",
    "title": "זוג יונים: שניים מהאנשים הרותחים בעולם התחתנו, וזה היה בדיוק כמו שדמיינו"
+  },
+  "https://fashionforward.mako.co.il/news/320899/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790580749236,
+   "content_type": "article",
+   "first_seen_ms": 1790580749236,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790580490000,
+   "section": "Fashion Forward",
+   "title": "המחוך של איוונקה טראמפ מרהיב, אבל הבת גנבה לה את ההצגה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -4315,7 +4327,7 @@
    "indexnow_ms": 1790575827567,
    "published_ms": 1790574960000,
    "section": "בריאות",
-   "title": "ברגע האחרון: ההברקה של אמא של אריאל העלימה את הגידול"
+   "title": "ההברקה של אמא של אריאל העלימה את הגידול"
   },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
@@ -6057,6 +6069,18 @@
    "section": "",
    "title": "הראיות שהפלילו את החשוד ברצח ראש המאפיה הקווקזית"
   },
+  "https://www.mako.co.il/men-men_news/Article-881be6790e6e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790580626744,
+   "content_type": "article",
+   "first_seen_ms": 1790580626744,
+   "indexable": true,
+   "indexnow_ms": 1790580626744,
+   "published_ms": 1790580000000,
+   "section": "פלילים",
+   "title": "נהג גרר העמיס רכבים, וניסה להעביר אותם ליו\"ש"
+  },
   "https://www.mako.co.il/men-men_news/Article-89a99581af2e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6271,7 +6295,7 @@
    "indexnow_ms": 1790579666732,
    "published_ms": 1790578980000,
    "section": "פלילים",
-   "title": "\"ניהלו קזינו שגלגל מיליונים וסחטו מהמרים\""
+   "title": "רווחי העתק של הקזינו שפעל ללא הפרעה במרכז הארץ"
   },
   "https://www.mako.co.il/men-men_news/Article-ca945f2a384d0a1026.htm": {
    "check_attempts": 1,
@@ -6608,6 +6632,18 @@
    "published_ms": 1790424600000,
    "section": "",
    "title": "כיכב בלהקת הענק - ומת רגע לפני ההצלחה הגדולה"
+  },
+  "https://www.mako.co.il/music-news/Article-e3b437828d6e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790580749236,
+   "content_type": "article",
+   "first_seen_ms": 1790580749236,
+   "indexable": true,
+   "indexnow_ms": 1790580749236,
+   "published_ms": 1790580420000,
+   "section": "מוזיקה",
+   "title": "הכוכבת האמריקאית נכוותה ברגלה רגע לפני הופעה"
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
