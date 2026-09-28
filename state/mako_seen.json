@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790590048634,
+ "last_run_ms": 1790590348669,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4568,6 +4568,18 @@
    "published_ms": 1790144400000,
    "section": "בריאות",
    "title": "התוכנית החדשה שתקל את הסבל של החולים"
+  },
+  "https://www.mako.co.il/health-news/Article-b11333ec627e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790590227448,
+   "content_type": "article",
+   "first_seen_ms": 1790590227448,
+   "indexable": true,
+   "indexnow_ms": 1790590227448,
+   "published_ms": 1790589240000,
+   "section": "בריאות",
+   "title": "עשרות נפגעות: איך תמנעו את נזקי ההחלקה?"
   },
   "https://www.mako.co.il/health-news/Article-c2e14ed8aba80a1026.htm": {
    "check_attempts": 1,
