@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-24b425f78d8e0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-28T16:50:33+00:00</news:publication_date>
+<news:title>פקקים מטורפים בדרך לכותל: מכונית עולה באש בכביש 1 לכיוון ירושלים ליד כפר חבד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/28/V1_NOAY_KVISH111_280926_6581_28092026044900_1400_1790614227186_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4fca25f78d8e0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1817,14 +1826,5 @@
 <news:title>צמוד מדי: צפו במטוס קרב שחלף בגובה נמוך מעל אצטדיון הפוטבול בטנסי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_karind_airforce_6496_26092026045305_1400_1790441662560_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-1f21a77e89ed0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-26T16:49:52+00:00</news:publication_date>
-<news:title>איזנקוט ב&quot;פגוש את העיתונות&quot;: &quot;רע&quot;ם לא תהיה חלק מהממשלה הבאה&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_karind_izenkot_6495_26092026044806_1400_1790441381698_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

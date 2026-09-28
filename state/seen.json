@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4fca25f78d8e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-24b425f78d8e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9096,7 +9096,7 @@
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-1a60cfb4eb8e0a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "תורים נפרדים לגברים ולנשים בסופר ברומפורד שבמחוז אסקס, אנגליה, עוררו זעם ציבורי, כשרבים מהתושבים המקומיים הביעו מחאה על השינויים במרחב הציבורי.",
+   "description": "תורים נפרדים לגברים ולנשים בסופר ברומפורד שבמחוז אסקס, אנגליה, עוררו זעם ציבורי, כשרבים מהתושבים המקומיים הביעו מחאה על השינויים במרחב הציבורי",
    "duration_s": 22,
    "first_seen_ms": 1790613746408,
    "image": "https://img.mako.co.il/2026/09/28/superengle_tamar_2809_m_1400_1790612217451_FirstFrame.jpg",
@@ -32612,6 +32612,24 @@
    "updated_ms": 1790572144000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-21b04b6c166e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16360_28092026050749/M_NEWS_16360_28092026050749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-24b425f78d8e0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פקקים מטורפים בדרך לכותל: מכונית עולה באש בכביש 1 לכיוון ירושלים ליד כפר חבד",
+   "duration_s": 15,
+   "first_seen_ms": 1790614346422,
+   "image": "https://img.mako.co.il/2026/09/28/V1_NOAY_KVISH111_280926_6581_28092026044900_1400_1790614227186_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790614233000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פקקים מטורפים בדרך לכותל: מכונית עולה באש בכביש 1 לכיוון ירושלים ליד כפר חבד",
+   "type": "mivzakim",
+   "updated_ms": 1790614233000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-24b425f78d8e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_NOAY_KVISH111_280926_6581_28092026044900/V1_NOAY_KVISH111_280926_6581_28092026044900_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-26834dffd87e0a1027.htm": {
    "author": "מבזקים",
