@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790582248328,
+ "last_run_ms": 1790582548356,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1200,6 +1200,18 @@
    "published_ms": 1790536680000,
    "section": "ספורט",
    "title": "נפנף בסרט השחור: ההתרסה המקוממת באירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-46cc8c6e107e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790582548356,
+   "content_type": "article",
+   "first_seen_ms": 1790582548356,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790582400000,
+   "section": "ספורט",
+   "title": "\"תודה\": הישראלי שהילל את האירי שהתריס"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-473659ee0d6e0a1027.htm": {
    "check_attempts": 1,
@@ -7112,6 +7124,18 @@
    "published_ms": 1790258820000,
    "section": "דיגיטל",
    "title": "סומכים על התשובות מהצ'אט? כדאי שתתחילו לפקפק"
+  },
+  "https://www.mako.co.il/nexter-news/Article-3318b2289e6e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790582306869,
+   "content_type": "article",
+   "first_seen_ms": 1790582306869,
+   "indexable": true,
+   "indexnow_ms": 1790582306869,
+   "published_ms": 1790580420000,
+   "section": "דיגיטל",
+   "title": "\"ה-AI יכול להוביל לאירוע של מיליארד מתים\""
   },
   "https://www.mako.co.il/nexter-news/Article-3b1bd8ac4b8c0a1026.htm": {
    "check_attempts": 1,
