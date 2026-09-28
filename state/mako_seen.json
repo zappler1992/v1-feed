@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790592748721,
+ "last_run_ms": 1790593048721,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1547,7 +1547,7 @@
    "indexnow_ms": null,
    "published_ms": 1790585220000,
    "section": "ספורט",
-   "title": "כמו סלט בלי טעם: מה שחסר לנבחרת ישראל"
+   "title": "לא יכול להמשיך ככה: כל הבעיות בנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-caad3780b7dc0a1026.htm": {
    "check_attempts": 1,
@@ -3320,6 +3320,18 @@
    "published_ms": 1790250000000,
    "section": "סלבס",
    "title": "\"צבועה\": הכוכבת חוטפת אש בעקבות ההחלטה החדשה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-29b7b93d357e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790592867631,
+   "content_type": "article",
+   "first_seen_ms": 1790592867631,
+   "indexable": true,
+   "indexnow_ms": 1790592867631,
+   "published_ms": 1790592600000,
+   "section": "סלבס",
+   "title": "\"ג'יזל מודאגת\": התגובה של הדוגמנית לחשיפה של האקס"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-2e341433b52e0a1027.htm": {
    "check_attempts": 1,
