@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790627848406,
+ "last_run_ms": 1790628148428,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8900,6 +8900,18 @@
    "published_ms": 1790393400000,
    "section": "",
    "title": "לקראת חידוש המלחמה עם איראן: ההכרזה הדרמטית של טראמפ"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-095775c9e89e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q3/Article-095775c9e89e0a1027.htm",
+   "checked_ms": 1790628027671,
+   "content_type": "article",
+   "first_seen_ms": 1790628027671,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790626320000,
+   "section": "",
+   "title": "\"פייק ניוז\": נתניהו חושף את הסיבה לביקור באמירויות"
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
