@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790624248218,
+ "last_run_ms": 1790624548356,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4892,6 +4892,18 @@
    "published_ms": 1790074680000,
    "section": "בריאות",
    "title": "הזמינה מהמסעדה המוכרת ונדהמה: \"משהו זז בסלט\""
+  },
+  "https://www.mako.co.il/health-news/Article-8f468b62579e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790624427345,
+   "content_type": "article",
+   "first_seen_ms": 1790624427345,
+   "indexable": true,
+   "indexnow_ms": 1790624427345,
+   "published_ms": 1790623980000,
+   "section": "",
+   "title": "משרד הבריאות סגר בי\"ח בתל אביב: \"סכנה חמורה למטופלים\""
   },
   "https://www.mako.co.il/health-news/Article-9e20e4657e7c0a1026.htm": {
    "check_attempts": 1,

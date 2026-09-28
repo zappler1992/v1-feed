@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-b4618b62579e0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-28T19:31:50+00:00</news:publication_date>
+<news:title>משרד הבריאות סוגר את המרכז הרפואי &quot;מדיקה&quot; רמת החייל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/28/NOAY_HOSPITAL_280926_1400_1790623903323_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-51e1bdf8669e0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1808,14 +1817,5 @@
 <news:title>דור פרץ לכתבים הזרים: ״אתם לא יכולים להבין את המציאות בה אנחנו חיים״</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/26/M_NEWS_16248_26092026075307_1400_1790452477292_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/culture-magazine/2026-m09_w04/shorts-19673a6c62fd0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-26T19:37:45+00:00</news:publication_date>
-<news:title>הניו יורק טיימס קבע: חמש הסדרות הטובות של המאה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/26/AVISHAI_TVSHOWS_2609_M_1400_1790451455417_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
