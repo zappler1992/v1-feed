@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790578649950,
+ "last_run_ms": 1790578949367,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2756,6 +2756,18 @@
    "published_ms": 1790499540000,
    "section": "תרבות tvbee",
    "title": "הבדיחה הזו ב\"בחורים טובים\" כואבת במיוחד"
+  },
+  "https://www.mako.co.il/culture-movies/reviews/Article-c0dfe7ea6edc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790578826759,
+   "content_type": "article",
+   "first_seen_ms": 1790578826759,
+   "indexable": true,
+   "indexnow_ms": 1790578826759,
+   "published_ms": 1790578680000,
+   "section": "תרבות tvbee",
+   "title": "בראד פיט והכלב בזוגיות מרגשת, שאר הסרט פחות"
   },
   "https://www.mako.co.il/culture-tv/articles/Article-c75a4149b6ef091027.htm": {
    "check_attempts": 1,
@@ -8144,6 +8156,18 @@
    "published_ms": 1790277000000,
    "section": "",
    "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ceddef91e82e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-ceddef91e82e0a1027.htm",
+   "checked_ms": 1790578706755,
+   "content_type": "article",
+   "first_seen_ms": 1790578706755,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790577600000,
+   "section": "",
+   "title": "למדה לקח מאיראן: המעצמה שמתכוננת למלחמה עם ארה\"ב"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,
