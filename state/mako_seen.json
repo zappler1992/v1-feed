@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790600249743,
+ "last_run_ms": 1790600548770,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -371,7 +371,7 @@
    "indexnow_ms": null,
    "published_ms": 1790592300000,
    "section": "אופנה",
-   "title": "בבגד גוף בלבד: בר רפאלי יודעת מה נלבש בקרוב מאוד"
+   "title": "בבגד גוף בלבד: בר רפאלי יודעת מה נלבש בסתיו"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -3164,6 +3164,18 @@
    "published_ms": 1790446860000,
    "section": "",
    "title": "הפעם זה לנצח? הקאמבק של מור ממן ובעלה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-abf8e2aa9f7e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790600426919,
+   "content_type": "article",
+   "first_seen_ms": 1790600426919,
+   "indexable": true,
+   "indexnow_ms": 1790600426919,
+   "published_ms": 1790599800000,
+   "section": "סלבס",
+   "title": "\"מה זה האירוע הזה? אני רוצה לעזוב את הארץ\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
@@ -6223,7 +6235,7 @@
    "indexnow_ms": 1790589027331,
    "published_ms": 1790588340000,
    "section": "",
-   "title": "חולון: נער בן 15 נפצע קשה לאחר שרימון נזרק לדירה"
+   "title": "הרימון שהושלך לבית בחולון: זה העבריין שהיה יעד החיסול"
   },
   "https://www.mako.co.il/men-men_news/Article-4c8b2653dfdc0a1026.htm": {
    "check_attempts": 1,
@@ -6883,7 +6895,7 @@
    "indexnow_ms": 1790598748375,
    "published_ms": 1790598420000,
    "section": "מוזיקה",
-   "title": "\"כואב, אבל הכל במקום\": ירדנה ארזי על רגעי הפחד בהופעה"
+   "title": "אחרי הנפילה הכואבת: עדכון במצבה של ירדנה ארזי"
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
@@ -8323,7 +8335,7 @@
    "indexnow_ms": 1790575227589,
    "published_ms": 1790574720000,
    "section": "",
-   "title": "מדינת ערב ש\"בין הפטיש האמריקאי לסדן האיראני\""
+   "title": "האזהרה האמריקאית - והעימות הפנימי במדינה הערבית"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -8695,7 +8707,7 @@
    "indexnow_ms": null,
    "published_ms": 1790599440000,
    "section": "חדשות",
-   "title": "מועמד הליכוד תוקף את שורדת שבי: \"להחזיר אותך לחמאס\""
+   "title": "מועמד הליכוד נגד שורדת שבי: \"להחזיר אותך לחמאס\""
   },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
