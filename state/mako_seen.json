@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790608348870,
+ "last_run_ms": 1790608648571,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2135,6 +2135,18 @@
    "section": "ספורט",
    "title": "העתיד כבר כאן: הבלם הבכיר של נבחרת ישראל"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-2716dd1d3656971026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790608587259,
+   "content_type": "article",
+   "first_seen_ms": 1790608587259,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790608440000,
+   "section": "ספורט",
+   "title": "\"בזכותי עד היום מוכרים דגלי ישראל בגאנה\""
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-27345ec3144d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3991,7 +4003,7 @@
    "indexnow_ms": 1790605348550,
    "published_ms": 1790604960000,
    "section": "נדל\"ן",
-   "title": "מחירי הדירות ירדו, אבל יש נתון שמסתיר את האמת הקשה"
+   "title": "מחירי הדירות ירדו, אבל נתון אחד מסתיר את האמת הקשה"
   },
   "https://www.mako.co.il/finances-real-estate/Article-37c88f1a0bf90a1027.htm": {
    "check_attempts": 1,
