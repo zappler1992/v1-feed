@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ec4913ad396e0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32241,7 +32241,8 @@
    "importance": 2,
    "published_ms": 1790550821000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "וול סטריט ז'ורנל: ראש המודיעין המצרי צלצל לנתניהו ימים לפני הטבח והזהיר מפני \"מתקפה שתגיע מעזה\"",
    "type": "mivzakim",
@@ -51077,6 +51078,24 @@
    "updated_ms": 1790532900000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5439957cb73e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_fall_6534_27092026032901/V1_fall_6534_27092026032901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בתוך שניות: צלע הר שלמה קורסת בנפאל בעקבות המפולות הקטלניות ברחבי המדינה | צפו",
+   "duration_s": 106,
+   "first_seen_ms": 1790575346604,
+   "image": "https://img.mako.co.il/2026/09/28/V1_karind_nepal_280926_6554_28092026055703_1400_1790575130228_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790575137000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בתוך שניות: צלע הר שלמה קורסת בנפאל בעקבות המפולות הקטלניות ברחבי המדינה | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1790575137000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_nepal_280926_6554_28092026055703/V1_karind_nepal_280926_6554_28092026055703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-80f441a9312e0a1026.htm": {
    "author": "מבזקים מהעולם",

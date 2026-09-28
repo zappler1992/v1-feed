@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-28T05:58:57+00:00</news:publication_date>
+<news:title>בתוך שניות: צלע הר שלמה קורסת בנפאל בעקבות המפולות הקטלניות ברחבי המדינה | צפו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/28/V1_karind_nepal_280926_6554_28092026055703_1400_1790575130228_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ec4913ad396e0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1682,14 +1691,5 @@
 <news:title>רחובות שלמים מתחת למים: התיעודים החריגים מבנגקוק המוצפת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/26/V1_flood_6472_26092026061013_1400_1790403086121_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w04/shorts-3d5d566404cd0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-26T05:59:16+00:00</news:publication_date>
-<news:title>רוכב אופניים כבן 40 נהרג לאחר שנפגע מרכב בכביש 98 סמוך לצומת מגשימים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/26/M_NEWS_16208_26092026055741_1400_1790402345899_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
