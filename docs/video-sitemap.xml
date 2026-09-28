@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-b8ba7478ee7e0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/28/yoav_restaurant_280926_1400_1790597705682_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הדרישה החריגה של המסעדה בהרצליה מהלקוחות</video:title>
+<video:description>הדרישה החריגה של המסעדה בהרצליה מהלקוחות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/yoav_restaurant_280926/MASTER/yoav_restaurant_280926/yoav_restaurant_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>30</video:duration>
+<video:publication_date>2026-09-28T12:26:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>אוכל</video:uploader>
+<video:tag>אוכל</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-901e7478ee7e0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/28/V1_karind_usa_6574_28092026121639_1400_1790597881833_FirstFrame.jpg</video:thumbnail_loc>
@@ -245,8 +261,8 @@
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5b41b93d357e0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/28/V1_karind_batyam_6565_28092026093244_1400_1790588027856_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>שריפה פרצה בדירה בבת ים, צוותי כבאות והצלה בדרכם למקום</video:title>
-<video:description>שריפה פרצה בדירה בבת ים, צוותי כבאות והצלה בדרכם למקום</video:description>
+<video:title>שריפה פרצה בדירה בבת ים. דייר נכה חולץ מהלובי הקומתי, דיירים יצאו מחלון הקומה השלישית</video:title>
+<video:description>שריפה פרצה בדירה בבת ים. דייר נכה חולץ מהלובי הקומתי, דיירים יצאו מחלון הקומה השלישית</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_batyam_6565_28092026093244/V1_karind_batyam_6565_28092026093244_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>3</video:duration>
 <video:publication_date>2026-09-28T09:33:58+00:00</video:publication_date>
@@ -321,6 +337,7 @@
 <video:live>no</video:live>
 <video:uploader>מסודרים</video:uploader>
 <video:tag>מסודרים</video:tag>
+<video:tag>מיקרו סדרות</video:tag>
 </video:video>
 </url>
 <url>
