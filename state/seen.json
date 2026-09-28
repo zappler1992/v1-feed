@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8c4addc6327e0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0c2ebeac537e0a1027.htm",
+  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-dd2fee12fc2e0a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-694648f7107e0a1026.htm",
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w01/shorts-849591611d060a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -707,6 +710,24 @@
    "updated_ms": 1790499420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/ACADEMY_OF_LIES_EP01/MASTER/ACADEMY_OF_LIES_EP01/ACADEMY_OF_LIES_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-694648f7107e0a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 2: העימות בשער האקדמיה מקבל תפנית: מיה מציגה את עצמה בשם בדוי, בזמן שנערה אחרת זוכה ליחס מלכותי כשהתלמידים מאמינים שהיא הבת של אוליביה קמפבל. מיה יכולה לומר את האמת, אבל בוחרת לשמור על הסוד שלה. כשהנערה שמולה מתחילה לעקוץ גם את הריקוד שלה, השתיקה הזאת נעשית קשה יותר ויותר.",
+   "duration_s": 163,
+   "first_seen_ms": 1790585845858,
+   "image": "https://img.mako.co.il/2026/09/28/ACADEMY_OF_LIES_EP02_1400_1790582554395_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790585520000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "בקצב השקר פרק 2: זהות גנובה",
+   "type": "series",
+   "updated_ms": 1790585520000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-694648f7107e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/ACADEMY_OF_LIES_EP02/MASTER/ACADEMY_OF_LIES_EP02/ACADEMY_OF_LIES_EP02_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -13906,6 +13927,25 @@
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w06/shorts-ca1a972958150a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/LOVE_CORNER_EP12_MAINLASTFIX/LOVE_CORNER_EP12_MAINLASTFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w01/shorts-849591611d060a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 15: עדן מפתיעה את ליאור ואלונה בבית הקפה, וליאור ממהר להציג את אלונה כמזכירה של אביו - תירוץ שמשאיר את אלונה מופתעת מהצד. בהמשך, עדן מחליטה לנסות את הגישה החדשה של ליסה ומפסיקה ללחוץ על ליאור לקבל החלטה מיד. היא נותנת לו את הזמן שהוא ביקש, אבל מבהירה שנושא הנישואים עדיין רחוק מלהיעלם.",
+   "duration_s": 119,
+   "first_seen_ms": 1790585845858,
+   "image": "https://img.mako.co.il/2026/09/02/LOVE_CORNER_EP15_M_1400_1788331771718_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790585400000,
+   "sections": [
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 15: התירוץ המפתיע",
+   "type": "series",
+   "updated_ms": 1790585400000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w01/shorts-849591611d060a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/02/LOVE_CORNER_EP15/MASTER/LOVE_CORNER_EP15_M/LOVE_CORNER_EP15_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
    "date_source": null,
@@ -18998,7 +19038,7 @@
    ],
    "title": "הולנד בצעד חריג: בדיקת מוצרים במזוודות של ישראלים לפני כניסה לאמסטרדם",
    "type": "news",
-   "updated_ms": 1790584740000,
+   "updated_ms": 1790585340000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-096989d5024e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/FIX_HOLAND/FIX_HOLAND_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -32031,6 +32071,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0b90e445681e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16262_27092026062824/M_NEWS_16262_27092026062824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0c2ebeac537e0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחלה כריסטיאנו: המאבטחים עצרו את הילדים, ורונאלדו הרגיע את העניינים",
+   "duration_s": 12,
+   "first_seen_ms": 1790585845858,
+   "image": "https://img.mako.co.il/2026/09/28/M_NEWS_16380_28092026085249_1400_1790585644805_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790585652000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחלה כריסטיאנו: המאבטחים עצרו את הילדים, ורונאלדו הרגיע את העניינים",
+   "type": "mivzakim",
+   "updated_ms": 1790585652000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0c2ebeac537e0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/M_NEWS_16380_28092026085249/M_NEWS_16380_28092026085249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0c66cb9ed84e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33838,6 +33896,24 @@
    "updated_ms": 1790241699000,
    "url": "https://www.v-1.co.il/newsflash_sport-2026/m09_w04/shorts-aa0913617b2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/KimFIX_DanielEmily/KimFIX_DanielEmily_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-dd2fee12fc2e0a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 2: פולישוק עדיין מנסה לעכל את המינוי, אבל יו״ר המפלגה ממהר להסביר לו את כללי התפקיד: להחליף את השר הנחקר, לא לגעת במשרד ולא להפריע לאף אחד. פולישוק דווקא רוצה לדעת מה אפשר לעשות כשר לקידום חברתי, ומגלה שקיבל משרד שאיש לא ממש רוצה לנהל. כשהוא מספר לאביו שמינו אותו לשר, הוא מצפה לקצת התלהבות - ומקבל שיעור בצניעות.",
+   "duration_s": 212,
+   "first_seen_ms": 1790585845858,
+   "image": "https://img.mako.co.il/2026/09/27/POLISHUK_EP02_1400_1790512008856_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790585460000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "פולישוק פרק 2: חותמת גומי בכיסא השר",
+   "type": "series",
+   "updated_ms": 1790585460000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-dd2fee12fc2e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/POLISHUK_EP02/MASTER/POLISHUK_EP02/POLISHUK_EP02_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-de6c8a529f1e0a1026.htm": {
    "author": "פולישוק",
@@ -51328,7 +51404,7 @@
    ],
    "title": "בתוך שניות: צלע הר שלמה קורסת בנפאל בעקבות המפולות הקטלניות ברחבי המדינה | צפו",
    "type": "mivzakim",
-   "updated_ms": 1790575137000,
+   "updated_ms": 1790585580000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-5dae13ad396e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_nepal_280926_6554_28092026055703/V1_karind_nepal_280926_6554_28092026055703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
