@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-050bbfc6eebe0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75e7bfc6eebe0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cb51cf452fbe0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19527,6 +19528,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-619c1e2f149e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/Kim_Melirson_28092026/MASTER/Kim_Melirson_28092026/Kim_Melirson_28092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75e7bfc6eebe0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1790665646903,
+   "image": "https://img.mako.co.il/2026/09/29/biata_fuel_290926_1400_1790665349325_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790665356000,
+   "sections": [],
+   "title": "שיא של כל הזמנים: מחיר הדלק מזנק - שוב",
+   "type": "news",
+   "updated_ms": 1790665356000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75e7bfc6eebe0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_fuel_290926/MASTER/biata_fuel_290926/biata_fuel_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-8e0b1f3df7be0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -34472,6 +34489,24 @@
    "updated_ms": 1790502683000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16290_27092026094949/M_NEWS_16290_27092026094949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cb51cf452fbe0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היועצת המשפטית לממשלה ופרקליט המדינה הגישו לבג״ץ עמדה התומכת בפסילתו של סמי אבו שחאדה",
+   "duration_s": 6,
+   "first_seen_ms": 1790665646903,
+   "image": "https://img.mako.co.il/2026/09/29/V1_SHADA_6593_29092026065952_1400_1790665244257_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790665250000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היועצת המשפטית לממשלה ופרקליט המדינה הגישו לבג״ץ עמדה התומכת בפסילתו של סמי אבו שחאדה",
+   "type": "mivzakim",
+   "updated_ms": 1790665250000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cb51cf452fbe0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHADA_6593_29092026065952/V1_SHADA_6593_29092026065952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cc932d55f88e0a1026.htm": {
    "author": "מבזקים",
