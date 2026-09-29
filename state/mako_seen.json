@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790666249239,
+ "last_run_ms": 1790666549331,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5805,6 +5805,18 @@
    "section": "הורים",
    "title": "הכי מוכשרים: הילדים שהגיעו לספר שיאי גינס"
   },
+  "https://www.mako.co.il/home-family-kids/Article-40e6d0af49be0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790666549331,
+   "content_type": "article",
+   "first_seen_ms": 1790666549331,
+   "indexable": true,
+   "indexnow_ms": 1790666549331,
+   "published_ms": 1790666340000,
+   "section": "הורים",
+   "title": "הורים: הילדים שלכם לא צריכים עוד אטרקציות"
+  },
   "https://www.mako.co.il/home-family-kids/Article-72b039480d7e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9296,6 +9308,18 @@
    "published_ms": 1790626320000,
    "section": "",
    "title": "נתניהו חושף את הסיבה לביקור באמירויות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-0ae92ca33f7e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-0ae92ca33f7e0a1026.htm",
+   "checked_ms": 1790666549331,
+   "content_type": "article",
+   "first_seen_ms": 1790666549331,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790658360000,
+   "section": "",
+   "title": "הפילה עשרות אנשים: זו \"הנוכלת עם פני המלאך\""
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
