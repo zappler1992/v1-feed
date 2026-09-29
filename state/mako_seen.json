@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790677348603,
+ "last_run_ms": 1790677648037,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -396,6 +396,18 @@
    "published_ms": 1790675791000,
    "section": "Fashion Forward",
    "title": "יש רק אישה אחת שמסוגלת להיראות ככה במחשוף המטורלל הזה"
+  },
+  "https://fashionforward.mako.co.il/news/320992/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790677467342,
+   "content_type": "article",
+   "first_seen_ms": 1790677467342,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790677190000,
+   "section": "Fashion Forward",
+   "title": "אושפיזין בסטייל: עינב בובליל במכנסיים מאוד לא שגרתיים ועקבים מטורפים"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -7521,6 +7533,18 @@
    "section": "פלילים",
    "title": "כך הסתבך המאפיונר הישראלי בפרשת ההימורים"
   },
+  "https://www.mako.co.il/men-men_news/Article-cf1e85740ace0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790677587379,
+   "content_type": "article",
+   "first_seen_ms": 1790677587379,
+   "indexable": true,
+   "indexnow_ms": 1790677587379,
+   "published_ms": 1790676480000,
+   "section": "פלילים",
+   "title": "\"היה פיצוץ חזק, כל הבניין רעד. הילדים נבהלו\""
+  },
   "https://www.mako.co.il/men-men_news/Article-d188ae29323d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8721,6 +8745,18 @@
    "section": "דיגיטל",
    "title": "\"הטעתה את המשתמשים\": הסיבה שטיקטוק תשלם 100 מיליון"
   },
+  "https://www.mako.co.il/nexter-news/Article-e3e31e13f2ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790677467342,
+   "content_type": "article",
+   "first_seen_ms": 1790677467342,
+   "indexable": true,
+   "indexnow_ms": 1790677467342,
+   "published_ms": 1790677140000,
+   "section": "דיגיטל",
+   "title": "\"העליתי את הסרטון, בבוקר היו מאות אלפי צפיות\""
+  },
   "https://www.mako.co.il/nexter-news/Article-e693e3cfa32d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9187,7 +9223,7 @@
    "indexnow_ms": 1790674107225,
    "published_ms": 1790673120000,
    "section": "צבא וביטחון",
-   "title": "המגמה מתרחבת: הכוחות שארה\"ב מקדמת לאזור"
+   "title": "עם שם קוד: הטיסה המסתורית של האמריקאים לאזור"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-25f30dd55d1e0a1027.htm": {
    "check_attempts": 1,
