@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b64c5bfae5be0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/29/V1_kotarot_6586_29092026042511_1400_1790656021102_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אלה חמש הכותרות החשובות של הבוקר</video:title>
+<video:description>אלה חמש הכותרות החשובות של הבוקר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_kotarot_6586_29092026042511/V1_kotarot_6586_29092026042511_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>55</video:duration>
+<video:publication_date>2026-09-29T04:27:07+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-10cd3f0883be0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/29/V1_ganav_6585_29092026034816_1400_1790653777877_FirstFrame.jpg</video:thumbnail_loc>
@@ -1373,6 +1389,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -1640,6 +1657,7 @@
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -2053,6 +2071,7 @@
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -11218,6 +11237,7 @@ Powered by Spikes</video:description>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
