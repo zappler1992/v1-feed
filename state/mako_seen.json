@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790661749958,
+ "last_run_ms": 1790662052803,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1307,7 +1307,7 @@
    "indexnow_ms": null,
    "published_ms": 1790661600000,
    "section": "ספורט",
-   "title": "משנה מסלול: ההפתעות של בן שמעון לקוסובו"
+   "title": "\"ניסינו לנצח בכדורגל, זה לא היה חכם\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-2ef2e4dda72e0a1027.htm": {
    "check_attempts": 1,
@@ -4545,6 +4545,30 @@
    "section": "הכי חם",
    "title": "ארוחה בסוכה? זה המתכון המושלם"
   },
+  "https://www.mako.co.il/food-cooking_magazine/healthy-recipes/Recipe-db8b76a28310a41006.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-recipes/recipes_column-healthy/Recipe-db8b76a28310a41006.htm",
+   "checked_ms": 1790661867923,
+   "content_type": "recipe",
+   "first_seen_ms": 1790661867923,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790653260000,
+   "section": "",
+   "title": "אין כיף כמו ניגוב של חומוס ביתי טוב בסוכה"
+  },
+  "https://www.mako.co.il/food-cooking_magazine/new_products-alcoholic_beverages/Article-d94543f3529c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790661867923,
+   "content_type": "article",
+   "first_seen_ms": 1790661867923,
+   "indexable": true,
+   "indexnow_ms": 1790661867923,
+   "published_ms": 1790652600000,
+   "section": "",
+   "title": "הבירה הוותיקה חוזרת לארץ - ובמחיר מפתיע"
+  },
   "https://www.mako.co.il/food-cooking_magazine/new_products/Article-f5ad1af011fa0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7208,6 +7232,18 @@
    "published_ms": 1790568900000,
    "section": "",
    "title": "בן ה-53 לא ענה לטלפון - ואז השכנים גילו את הטרגדיה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-f69abbd5abbe0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790661989278,
+   "content_type": "article",
+   "first_seen_ms": 1790661989278,
+   "indexable": true,
+   "indexnow_ms": 1790661989278,
+   "published_ms": 1790661360000,
+   "section": "פלילים",
+   "title": "עובד במלון נעצר: \"עקב אחריה והטריד אותה\""
   },
   "https://www.mako.co.il/men-stories/eyes_of_golan/Article-c663b77b6c4d0a1026.htm": {
    "check_attempts": 1,
