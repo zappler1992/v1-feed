@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790653349226,
+ "last_run_ms": 1790653649297,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -684,6 +684,18 @@
    "published_ms": 1790165100000,
    "section": "ספורט",
    "title": "מעל קיירי ובאם: הדירוג של אבדיה ב-ESPN"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-d00c3f0883be0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790653587452,
+   "content_type": "article",
+   "first_seen_ms": 1790653587452,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790653260000,
+   "section": "ספורט",
+   "title": "\"מרגיש יותר בנוח בנטס. מוכן לתחרות שלי\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-fbaa80f88a8e0a1026.htm": {
    "check_attempts": 1,
@@ -6715,7 +6727,7 @@
    "indexnow_ms": 1790585067071,
    "published_ms": 1790584500000,
    "section": "פלילים",
-   "title": "\"יש חשש שהוא יחזור לפעול בשטח, נערכים לזה\""
+   "title": "אחרי 3 שנים: \"יש חשש שהוא יחזור לפעול בשטח\""
   },
   "https://www.mako.co.il/men-men_news/Article-69a4d8f122ec0a1026.htm": {
    "check_attempts": 1,
@@ -7460,6 +7472,18 @@
    "published_ms": 1790437020000,
    "section": "",
    "title": "אחרי שהאשימה את הכוכב באונס: \"מעולם לא פגשתי אותו\""
+  },
+  "https://www.mako.co.il/news-diplomatic/2026_q3/Article-095775c9e89e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790653587452,
+   "content_type": "article",
+   "first_seen_ms": 1790653587452,
+   "indexable": true,
+   "indexnow_ms": 1790653587452,
+   "published_ms": 1790626320000,
+   "section": "",
+   "title": "נתניהו חושף את הסיבה לביקורו באמירויות"
   },
   "https://www.mako.co.il/news-diplomatic/2026_q3/Article-26dd69d27d8e0a1027.htm": {
    "check_attempts": 1,
