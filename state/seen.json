@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-646ae21efade0a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-798038efdade0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-b959bf74dcde0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19870,7 +19869,9 @@
    "image": "https://img.mako.co.il/2026/09/29/NOAY_OFIR_290926_1400_1790685384637_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790689740000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "המוות שאיש לא ציפה לו: פרידה מהמנכ\"ל המוערך",
    "type": "news",
    "updated_ms": 1790692440000,
@@ -20082,6 +20083,24 @@
    "updated_ms": 1790629260000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-b4618b62579e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/NOAY_HOSPITAL_280926/MASTER/NOAY_HOSPITAL_280926/NOAY_HOSPITAL_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-b959bf74dcde0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 59,
+   "first_seen_ms": 1790697446302,
+   "image": "https://img.mako.co.il/2026/09/29/FIX_SHIRA_FLIGHTS_290926_M_1400_1790696427243_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790696400000,
+   "sections": [
+    "חופש וטיולים"
+   ],
+   "title": "זה מה שקורה בתא הטייס בזמן טיסות ארוכות",
+   "type": "news",
+   "updated_ms": 1790696400000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-b959bf74dcde0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/FIX_SHIRA_FLIGHTS_290926_M/FIX_SHIRA_FLIGHTS_290926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-c0be3751122e0a1027.htm": {
    "author": "חדשות",
