@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-140950c4dace0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T10:20:30+00:00</news:publication_date>
+<news:title>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-140950c4dace0a1026.htm</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/RINAT_KINDER_290926_M_1400_1790677223779_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -26,6 +35,15 @@
 <news:title>&quot;הכשל במנוע חזר&quot;: תיעוד מטיסת אל על למיאמי שנאלצת לשוב לישראל אחרי 6 שעות באוויר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_EL_AL_PLANE_6599_29092026101103_1400_1790676765087_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75d62fb6f7ce0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T09:47:25+00:00</news:publication_date>
+<news:title>תעלומת השלטים הפרו-פלסטיניים בבתי הספר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/biata_signs_290926_1400_1790675239209_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9dfff49f57ce0a1027.htm</loc>
@@ -1754,14 +1772,5 @@
 <news:title>הרשימה השחורה של האו&quot;ם - גם בורגראנץ&#x27; בפנים!</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/SHIR_UN_270927_1400_1790505374239_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-1e78e90c962e0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T10:30:46+00:00</news:publication_date>
-<news:title>הכוכבת העלתה סרטון איפור לטיקטוק - אבל כולם שמו לב לדבר אחד</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/ASAF_BIBER_27092026_M_1400_1790505037567_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
