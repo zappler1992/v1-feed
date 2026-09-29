@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790662949510,
+ "last_run_ms": 1790663249292,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4653,6 +4653,18 @@
    "section": "",
    "title": "שעה ומוכן: לחם בירה של קרין גורן"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-df29cf2e4721731006.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790663186763,
+   "content_type": "recipe",
+   "first_seen_ms": 1790663186763,
+   "indexable": true,
+   "indexnow_ms": 1790663186763,
+   "published_ms": 1790662560000,
+   "section": "",
+   "title": "שמרו לכם: המתכון המנצח לפיצה ביתית כמו באיטליה"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/Article-2e662ab6188c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5888,6 +5900,18 @@
    "published_ms": 1790065560000,
    "section": "עיצוב הבית",
    "title": "גבעת שמואל: הילדים שלכם יעופו על הפארק החדש"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-6d378d6ffabe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790663186763,
+   "content_type": "article",
+   "first_seen_ms": 1790663186763,
+   "indexable": true,
+   "indexnow_ms": 1790663186763,
+   "published_ms": 1790661420000,
+   "section": "",
+   "title": "70 אלף שקלים על בית שלא שלהם: תראו מה הם עשו איתו"
   },
   "https://www.mako.co.il/living-architecture/local/Article-bdd31680eee90a1026.htm": {
    "check_attempts": 1,
@@ -10401,6 +10425,18 @@
    "section": "קשת 12",
    "title": "\"לא תפקדתי, היה קשה והכל החריף. התקף בלתי נשלט\""
   },
+  "https://www.mako.co.il/tv-life_is_difficult/articles/Article-dc107fd7413e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790663066722,
+   "content_type": "article",
+   "first_seen_ms": 1790663066722,
+   "indexable": true,
+   "indexnow_ms": 1790663066722,
+   "published_ms": 1790661300000,
+   "section": "קשת 12",
+   "title": "\"הרגשנו את הדבר עצמו. זה היה משמעותי\""
+  },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-ddbaaea73c8c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10519,7 +10555,7 @@
    "indexnow_ms": 1790662351072,
    "published_ms": 1790661120000,
    "section": "",
-   "title": "צחי הלוי מתוודה: \"הייתי חייל בודד, אני זוכר רגעים\""
+   "title": "\"לא מדברים על זה, אתה גדל על לשמור בבטן\""
   },
   "https://www.mako.co.il/tv-special_interview/season1-articles/Article-4cb49baec2ea0a1026.htm": {
    "check_attempts": 1,
