@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7a08cfc591ce0a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-673d349aecbe0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-443c679852ce0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19531,10 +19530,10 @@
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-673d349aecbe0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "לעיניי הצופים בלייב בטיקטוק: איש מבוגר ממוצא ערבי הותקף בירושלים - סמוך לכותל.",
+   "description": "לעיניי הצופים בלייב בטיקטוק: איש מבוגר ממוצא ערבי הותקף בירושלים על ידי חבורה של חרדים בשער שכם, מנסה לברוח מהם ונופל.",
    "duration_s": 25,
    "first_seen_ms": 1790667746792,
-   "image": "https://img.mako.co.il/2026/09/29/biata_kotel_290926_1400_1790662750235_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/29/biata_kotel_290926_fix_1400_1790668275241_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790662760000,
    "sections": [
@@ -19542,9 +19541,9 @@
    ],
    "title": "\"מז**נים שם ערבי\": התקיפה האלימה בכותל",
    "type": "news",
-   "updated_ms": 1790662760000,
+   "updated_ms": 1790668260000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-673d349aecbe0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_kotel_290926/MASTER/biata_kotel_290926/biata_kotel_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_kotel_290926_fix/biata_kotel_290926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75e7bfc6eebe0a1026.htm": {
    "author": "חדשות",
@@ -33353,6 +33352,24 @@
    "updated_ms": 1790485705000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-42fd0c1cc31e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16256_27092026050704/M_NEWS_16256_27092026050704_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-443c679852ce0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 19 פונה לבי\"ח הדסה עין כרם במצב קשה לאחר שהתהפך עם טרקטורון ליד פצאל",
+   "duration_s": 35,
+   "first_seen_ms": 1790668646744,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16429_29092026075225_1400_1790668422983_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790668429000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 19 פונה לבי\"ח הדסה עין כרם במצב קשה לאחר שהתהפך עם טרקטורון ליד פצאל",
+   "type": "mivzakim",
+   "updated_ms": 1790668429000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-443c679852ce0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16429_29092026075225/M_NEWS_16429_29092026075225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4aeac273047e0a1027.htm": {
    "author": "מבזקים",
