@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-99b51e13f2ce0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cfab848c03ce0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-40e48d6244ce0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-47f0cbd664ce0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33320,6 +33320,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3dca5674c15e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/FIX_yoav_rashit_280926/FIX_yoav_rashit_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-40e48d6244ce0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דרמה בשמיים: אחרי שש שעות באוויר - טיסת אל על למיאמי חוזרת לארץ בגלל תקלה",
+   "duration_s": 9,
+   "first_seen_ms": 1790671046541,
+   "image": "https://img.mako.co.il/2026/09/29/V1_elal_6598_29092026083223_1400_1790670815896_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790670826000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דרמה בשמיים: אחרי שש שעות באוויר - טיסת אל על למיאמי חוזרת לארץ בגלל תקלה",
+   "type": "mivzakim",
+   "updated_ms": 1790670826000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-40e48d6244ce0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_elal_6598_29092026083223/V1_elal_6598_29092026083223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-415d3751122e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -33373,6 +33391,24 @@
    "updated_ms": 1790668429000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-443c679852ce0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16429_29092026075225/M_NEWS_16429_29092026075225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-47f0cbd664ce0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כשלוש שנים לאחר שהופעתה בוטלה בעקבות אירועי 7 באוקטובר - התזמורת האנדלוסית הישראלית אשדוד חוזרת למרו",
+   "duration_s": 9,
+   "first_seen_ms": 1790671046541,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16433_29092026083033_1400_1790670724368_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790670731000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כשלוש שנים לאחר שהופעתה בוטלה בעקבות אירועי 7 באוקטובר - התזמורת האנדלוסית הישראלית אשדוד חוזרת למרו",
+   "type": "mivzakim",
+   "updated_ms": 1790670731000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-47f0cbd664ce0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16433_29092026083033/M_NEWS_16433_29092026083033_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4aeac273047e0a1027.htm": {
    "author": "מבזקים",
@@ -52900,7 +52936,8 @@
    "importance": 1,
    "published_ms": 1790659178000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "שלוש שעות אחרי ההמראה לחלל: \"הטיל הכי עוצמתי בעולם\" של אילון מאסק איבד מנוע - וצלל לים",
    "type": "mivzakim",
