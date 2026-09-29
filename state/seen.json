@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-cc6388a3cfde0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a8da2fa9a1ee0a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-aecb462afdde0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46274,6 +46273,24 @@
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/STIV_MONIT_240926/MASTER/STIV_MONIT_240926_M/STIV_MONIT_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-aecb462afdde0a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מVינים בחירות: שרי הליכוד שכחו? המצלמה דווקא זוכרת. \nארבעה שרים בכירים הבטיחו אחרי 7 באוקטובר להקים ועדת חקירה ממלכתית. \nהיום הם כבר מסבירים למה דווקא ועדה כזאת לא יכולה לקום. אז מה השתנה בדרך?",
+   "duration_s": 114,
+   "first_seen_ms": 1790701946610,
+   "image": "https://img.mako.co.il/2026/09/29/dor_hakira_290926_1400_1790697863349_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790697870000,
+   "sections": [
+    "מVינים חדשות"
+   ],
+   "title": "מVינים בחירות: שרי הליכוד שכחו? המצלמה זוכרת הכול",
+   "type": "general",
+   "updated_ms": 1790697870000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-aecb462afdde0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/dor_hakira_290926/MASTER/dor_hakira_290926/dor_hakira_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-c16ea9224a7e0a1027.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
@@ -48724,7 +48741,9 @@
    "image": "https://img.mako.co.il/2026/09/29/alice_290926_iphone_1400_1790699936648_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790699943000,
-   "sections": [],
+   "sections": [
+    "טכנולוגיה"
+   ],
    "title": "פאדיחת ענק לאפל: האייפון החדש - מתקלף",
    "type": "general",
    "updated_ms": 1790699943000,
