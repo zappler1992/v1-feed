@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790684848683,
+ "last_run_ms": 1790685148527,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3115,7 +3115,7 @@
    "indexnow_ms": 1790684848683,
    "published_ms": 1790684400000,
    "section": "תרבות tvbee",
-   "title": "השחקנית מדברת על \"הטראומה הכי גדולה\""
+   "title": "השחקנית הישראלית לא דיברה 30 שנה. עד עכשיו"
   },
   "https://www.mako.co.il/culture-articles/Article-27750fc1e64d0a1026.htm": {
    "check_attempts": 1,
@@ -5384,6 +5384,18 @@
    "published_ms": 1790227920000,
    "section": "בריאות",
    "title": "בגיל 30 או 90 - כמה קפה כדאי לשתות ביום?"
+  },
+  "https://www.mako.co.il/health-news/Article-729efffe5fce0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790685148527,
+   "content_type": "article",
+   "first_seen_ms": 1790685148527,
+   "indexable": true,
+   "indexnow_ms": 1790685148527,
+   "published_ms": 1790682300000,
+   "section": "בריאות",
+   "title": "סלמונלה ושלשולים: עלייה במחלות מעיים בחג"
   },
   "https://www.mako.co.il/health-news/Article-72cf1ee0532e0a1026.htm": {
    "check_attempts": 1,
