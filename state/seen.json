@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-9a29b49bf08e0a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-a8cf2d55f88e0a1026.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-2bfd850a80180a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-cc3d7d952c7e0a1027.htm"
+  "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-49ae8d6244ce0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -741,7 +738,8 @@
    "importance": 1,
    "published_ms": 1790671320000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 3: מבחן הריקוד של המתחזה",
    "type": "series",
@@ -6851,6 +6849,22 @@
    "updated_ms": 1790098680000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w04/shorts-6ef29202ec9c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/saqladfic/saqladfic_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-49ae8d6244ce0a1027.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "תשכחו ממחית ובננה: כשאבא שלך שף, גם הארוחות בכיסא התינוק הופכות לחוויית פיין דיינינג. השף Arnis Ansons מגיש לבנו הקטן פעם אחר פעם מנות מושקעות ומוקפדות שנראות כאילו יצאו ממסעדת יוקרה - והתגובות של הפעוט ליצירות של אבא הופכות את הכול להרבה יותר מתוק.",
+   "duration_s": 67,
+   "first_seen_ms": 1790672247032,
+   "image": "https://img.mako.co.il/2026/09/29/INBAR_MICHELIN_290926_1400_1790670593015_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790670599000,
+   "sections": [],
+   "title": "כשאבא שלך שף: הפעוט שמקבל מנות שנראות כאילו יצאו ממסעדת יוקרה",
+   "type": "general",
+   "updated_ms": 1790670599000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-49ae8d6244ce0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/INBAR_MICHELIN_290926/MASTER/INBAR_MICHELIN_290926/INBAR_MICHELIN_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-b8ba7478ee7e0a1027.htm": {
    "author": "אוכל",
@@ -14037,7 +14051,8 @@
    "importance": 1,
    "published_ms": 1790671500000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "מסודרים"
    ],
    "title": "מסודרים פרק 47: יהלום עוד לפני הדייט",
    "type": "series",
@@ -14329,7 +14344,8 @@
    "importance": 1,
    "published_ms": 1790671380000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 16: חושב על אחרת",
    "type": "series",
