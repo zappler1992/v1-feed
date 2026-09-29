@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-aecb462afdde0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a2012fa9a1ee0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e42ebe8922ee0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-e95814991fde0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3202,6 +3204,24 @@
    "updated_ms": 1790529103000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-d51826bb9d3e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/FIX_SHIRA_DOLLY_270926/FIX_SHIRA_DOLLY_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-e95814991fde0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "מישל פרו חוזרת למדים בסרט הקולנוע \"הטובים לטיס\", בבימויו של אלון גור אריה, ותגלם חניכה בקורס טיס. לצדה יככבו שחר חסון, יעל אלקנה ואברהם ארנסון.",
+   "duration_s": 16,
+   "first_seen_ms": 1790702246448,
+   "image": "https://img.mako.co.il/2026/09/29/SHIR_MISHEL_290926_1_1400_1790698465163_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790698471000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "חוזרת למדים: התפקיד החדש של מישל פרו",
+   "type": "general",
+   "updated_ms": 1790698500000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-e95814991fde0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/SHIR_MISHEL_290926/MASTER/SHIR_MISHEL_290926_1/SHIR_MISHEL_290926_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-ed1259ee0d6e0a1027.htm": {
    "author": "סלבס",
@@ -34917,6 +34937,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a14dbf74dcde0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_shir_spotify_6605_29092026033902/V1_shir_spotify_6605_29092026033902_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a2012fa9a1ee0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הערכה בישראל: זה המועד שבו האיראנים עשויים לתקוף",
+   "duration_s": 40,
+   "first_seen_ms": 1790702246448,
+   "image": "https://img.mako.co.il/2026/09/29/V1_IRANIM_6609_29092026051356_1400_1790702128915_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790702137000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הערכה בישראל: זה המועד שבו האיראנים עשויים לתקוף",
+   "type": "mivzakim",
+   "updated_ms": 1790702137000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a2012fa9a1ee0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_IRANIM_6609_29092026051356/V1_IRANIM_6609_29092026051356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a8da2fa9a1ee0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -35727,6 +35765,24 @@
    "updated_ms": 1790513621000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e1ba4aa69e2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_Karind_robot_6528_27092026125212/V1_Karind_robot_6528_27092026125212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e42ebe8922ee0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט ללא אבטחת שב\"כ: בגוש השינוי טוענים לפגיעה ביכולת לקיים בחירות הוגנות",
+   "duration_s": 40,
+   "first_seen_ms": 1790702246448,
+   "image": "https://img.mako.co.il/2026/09/29/V1_SHIR_GADI1_6608_29092026051322_1400_1790702100702_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790702107000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט ללא אבטחת שב\"כ: בגוש השינוי טוענים לפגיעה ביכולת לקיים בחירות הוגנות",
+   "type": "mivzakim",
+   "updated_ms": 1790702107000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e42ebe8922ee0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHIR_GADI1_6608_29092026051322/V1_SHIR_GADI1_6608_29092026051322_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4d153ec548e0a1026.htm": {
    "author": "מבזקים",
