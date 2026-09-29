@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790695048486,
+ "last_run_ms": 1790695348812,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4497,6 +4497,18 @@
    "section": "",
    "title": "בדרך לקריסה? הדרמה שסגרה את השמיים באיראן"
   },
+  "https://www.mako.co.il/finances-news/Article-ac7f8290f9de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790695107195,
+   "content_type": "article",
+   "first_seen_ms": 1790695107195,
+   "indexable": true,
+   "indexnow_ms": 1790695107195,
+   "published_ms": 1790693520000,
+   "section": "",
+   "title": "הזינוק הצפוי במחיר הדלק והניסיונות למנוע את ההתייקרות"
+  },
   "https://www.mako.co.il/finances-news/Article-baeabe8fa57e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6931,7 +6943,7 @@
    "indexnow_ms": 1790689467080,
    "published_ms": 1790689200000,
    "section": "",
-   "title": "אחרי הניתוח - אשתו של אהבת השם מעדכנת במצבו"
+   "title": "אשתו של אהבת השם מעדכנת במצבו"
   },
   "https://www.mako.co.il/makoz-viral/Article-09123dd7eb1e0a1026.htm": {
    "check_attempts": 1,
@@ -11023,7 +11035,7 @@
    "indexnow_ms": 1790678848555,
    "published_ms": 1790676960000,
    "section": "חופש",
-   "title": "חברת תעופה: \"אין מלחמה, תטוסו לתל אביב\""
+   "title": "ישראל במוקד: הקרב בין חברת הענק לעובדים הזועמים"
   },
   "https://www.mako.co.il/travel-news/international/Article-8371c0613a7c0a1026.htm": {
    "check_attempts": 1,
