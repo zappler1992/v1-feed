@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790663549342,
+ "last_run_ms": 1790663849208,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2137,6 +2137,18 @@
    "section": "ספורט",
    "title": "ירדן כהן נותח. זה משך הזמן הצפוי לחזרתו"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-4079be62fdbe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790663786783,
+   "content_type": "article",
+   "first_seen_ms": 1790663786783,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790663520000,
+   "section": "ספורט",
+   "title": "אופטימית: התחזית לשובו של פייר קורנו"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-4861a48b77cd0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4136,6 +4148,18 @@
    "published_ms": 1789876080000,
    "section": "כסף",
    "title": "הוא מנכ\"ל ביום וכוכב טיקטוק בלילה ומסרב לכסף"
+  },
+  "https://www.mako.co.il/finances-news/Article-89da5af68dbe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790663666785,
+   "content_type": "article",
+   "first_seen_ms": 1790663666785,
+   "indexable": true,
+   "indexnow_ms": 1790663666785,
+   "published_ms": 1790662980000,
+   "section": "כסף",
+   "title": "שיא כל הזמנים: המחיר המטורף לליטר בנזין - החל ממחר"
   },
   "https://www.mako.co.il/finances-news/Article-9c38b54c4f1e0a1027.htm": {
    "check_attempts": 1,
@@ -9643,7 +9667,7 @@
    "indexnow_ms": 1790653827482,
    "published_ms": 1790657880000,
    "section": "",
-   "title": "מים, חניון לילה ופסטיבל - וכל זה בארץ"
+   "title": "בתזמון מושלם: טיול של יומיים באזור קסום בארץ"
   },
   "https://www.mako.co.il/travel-israel/Article-eab72d9c969b0a1026.htm": {
    "check_attempts": 1,
@@ -9739,7 +9763,7 @@
    "indexnow_ms": 1790629706763,
    "published_ms": 1790629440000,
    "section": "",
-   "title": "הנוהל שהופעל לאחר שהסוללה עלתה באש, באוויר"
+   "title": "קורה המון לאחרונה: המטוס ביצע נחיתת חירום"
   },
   "https://www.mako.co.il/travel-news/Article-69de9995c53e0a1026.htm": {
    "check_attempts": 1,

@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-f28d8d6ffabe0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b7e35af68dbe0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-993bf9f49cbe0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -2954,7 +2955,8 @@
    "importance": 1,
    "published_ms": 1790627229000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"מה קרה לצ'ארלי?\" – הכוכבת עוררה סערה ב-VMA",
    "type": "general",
@@ -19534,13 +19536,32 @@
    "importance": 2,
    "published_ms": 1790657940000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "חלון או מעבר? הדרך החדשה לבחור מושב בטיסה",
    "type": "news",
    "updated_ms": 1790657940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-8e0b1f3df7be0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/yoav_chair_290926/MASTER/yoav_chair_290926/yoav_chair_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-993bf9f49cbe0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "המפכ\"ל לשעבר משה קראדי יצא לטיול בנחל צלמון עם קבוצת חברים, כשבמהלך המסלול נתקל באבן, נפל מגובה של כ-5 מטרים ונחבט בסלעים. למרות הנפילה הקשה, קראדי בן ה-66 יצא במזל גדול מהאירוע ללא פגיעה משמעותית.",
+   "duration_s": 53,
+   "first_seen_ms": 1790663846619,
+   "image": "https://img.mako.co.il/2026/09/29/yoav_police_290926_1400_1790662544991_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790662620000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מפכ\"ל המשטרה לשעבר נפל מגובה 5 מטרים",
+   "type": "news",
+   "updated_ms": 1790662620000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-993bf9f49cbe0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/yoav_police_290926/MASTER/yoav_police_290926/yoav_police_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9c9c7d952c7e0a1027.htm": {
    "author": "חדשות",
@@ -34179,6 +34200,24 @@
    "updated_ms": 1790653394000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b750c65053be0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_forecast_6584_29092026034125/V1_forecast_6584_29092026034125_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b7e35af68dbe0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ושב\"כ מאשרים את חיסולו של מפקד חטיבת צפון הרצועה של ארגון הטרור חמאס",
+   "duration_s": 9,
+   "first_seen_ms": 1790663846619,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16423_29092026063108_1400_1790663541835_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790663548000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ושב\"כ מאשרים את חיסולו של מפקד חטיבת צפון הרצועה של ארגון הטרור חמאס",
+   "type": "mivzakim",
+   "updated_ms": 1790663548000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b7e35af68dbe0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16423_29092026063108/M_NEWS_16423_29092026063108_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b838004c242e0a1026.htm": {
    "author": "מבזקים",
