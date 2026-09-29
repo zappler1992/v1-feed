@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790680048489,
+ "last_run_ms": 1790680348262,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5576,6 +5576,18 @@
    "published_ms": 1790250960000,
    "section": "הכי חם",
    "title": "\"גירושים. מיד\": התיעוד מהיציע שחרפן את כולם"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-c997c5ba9cce0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790680227417,
+   "content_type": "article",
+   "first_seen_ms": 1790680227417,
+   "indexable": true,
+   "indexnow_ms": 1790680227417,
+   "published_ms": 1790679900000,
+   "section": "HIX",
+   "title": "\"בבקשה, אל תזרקו אותי. בבקשה, אני מפחדת\""
   },
   "https://www.mako.co.il/hix-bizarre/Article-ffd1033b343d0a1027.htm": {
    "check_attempts": 1,
