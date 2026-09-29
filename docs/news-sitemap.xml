@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-c035350e27de0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T14:10:39+00:00</news:publication_date>
+<news:title>השינוי המעצבן שמגיע לווטסאפ</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/SHIRA_WHATSAPP_290926_M_1400_1790691032374_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-71607c9d12de0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -8,6 +17,15 @@
 <news:title>המוות שאיש לא ציפה לו: פרידה מהמנכ&quot;ל המוערך</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/NOAY_OFIR_290926_1400_1790685384637_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-ba50fc2346de0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T13:46:10+00:00</news:publication_date>
+<news:title>נהג האוטובוס איבד הכרה - הנערות תפסו פיקוד: התיעוד הדרמטי מארצות הברית</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/NOAY_BUS_290926_1400_1790689563538_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-19472dc3e3de0a1026.htm</loc>
@@ -1664,14 +1682,5 @@
 <news:title>העיתונאי היהודי ניל הרלנד דיווח על הפגנה פרו פלסטינית בקנדה- והודח</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/SHIRA_NIL_270926_M_1400_1790519009650_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-1dc16d44633e0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T14:22:14+00:00</news:publication_date>
-<news:title>הרופאים שאלו את ה-ChatGPT &quot;איך להחיות&quot; - ובינתיים הזמר היווני מת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/yorkus270629m_1400_1790518926838_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
