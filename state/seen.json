@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6f134d2975ce0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-6b898d6244ce0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19657,6 +19657,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-673d349aecbe0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_kotel_290926_fix/biata_kotel_290926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-6b898d6244ce0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "גל תביעות נגד יצרניות תרופות ההרזיה: מאות מטופלים שהשתמשו באוזמפיק, ויגובי ומונג'רו טוענים כי סבלו מפגיעה נדירה בעצב הראייה, שבחלק מהמקרים הובילה לאובדן ראייה פתאומי. בשלב זה עדיין לא הוכח כי התרופות הן שגרמו לפגיעה, והיצרניות דוחות את הטענות. מומחים מדגישים כי מדובר בסיכון נמוך, אך התביעות מעוררות שאלות חדשות סביב התרופות שהפכו לתופעה עולמית.",
+   "duration_s": 66,
+   "first_seen_ms": 1790674945784,
+   "image": "https://img.mako.co.il/2026/09/29/NOAY_OZEMPIK_290926_1400_1790670346927_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790670357000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "גל תביעות דרמטי: \"תרופות ההרזיה הפכו אותנו לעיוורים\"",
+   "type": "news",
+   "updated_ms": 1790670357000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-6b898d6244ce0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/NOAY_OZEMPIK_290926/MASTER/NOAY_OZEMPIK_290926/NOAY_OZEMPIK_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75e7bfc6eebe0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -19739,7 +19757,9 @@
    "image": "https://img.mako.co.il/2026/09/29/NOAY_KETSHOP_290926_1400_1790672926635_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790672934000,
-   "sections": [],
+   "sections": [
+    "אוכל"
+   ],
    "title": "התקלה החריפה בקטשופ של אסם",
    "type": "news",
    "updated_ms": 1790672934000,
