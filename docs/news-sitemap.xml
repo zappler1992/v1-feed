@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-71607c9d12de0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T13:49:00+00:00</news:publication_date>
+<news:title>המוות שאיש לא ציפה לו: פרידה מהמנכ&quot;ל המוערך</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/NOAY_OFIR_290926_1400_1790685384637_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-19472dc3e3de0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1673,14 +1682,5 @@
 <news:title>משרד החוץ למטיילים בנפאל: מזג האוויר החריג צפוי עד שלישי, הימנעו מטיולים רגליים ואזורים הרריים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/biata_nepal_miv_1400_1790519649863_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-10c6e61e813e0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T13:53:53+00:00</news:publication_date>
-<news:title>דנה גרוצקי מרחה על עצמה נוטלה- ואז בעלה הגיע</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/SHIR_DANA_270926_1400_1790517224159_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
