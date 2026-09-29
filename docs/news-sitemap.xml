@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a8da2fa9a1ee0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T17:02:33+00:00</news:publication_date>
+<news:title>בן 25 נפצע באורח בינוני עם פציעות חודרות ברחוב הר גלעד בצפת</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/M_NEWS_16461_29092026050101_1400_1790701342832_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e7f24a3310ee0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -8,6 +17,15 @@
 <news:title>משרד הבריאות סגר את &quot;מדיקה&quot;: ניתוחים ללא סמכות וליקויים חמורים בהרדמה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_SHIR_MEDICA_6607_29092026045300_1400_1790700858553_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-cc6388a3cfde0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T16:39:03+00:00</news:publication_date>
+<news:title>פאדיחת ענק לאפל: האייפון החדש - מתקלף</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/alice_290926_iphone_1400_1790699936648_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-dd86fc2346de0a1026.htm</loc>
@@ -1673,14 +1691,5 @@
 <news:title>כך נראית סגירת מעגל: התיעוד מחיסול המחבל שחטף  את נועה ארגמני</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_hit_6538_27092026050623_1400_1790528888331_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-65931d4c8c3e0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T17:04:02+00:00</news:publication_date>
-<news:title>כך חוסל המחבל שחטף את נועה ארגמני</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/M_NEWS_16323_27092026050211_1400_1790528635450_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
