@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-9ffcf46e1d8c0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-671c8d6b24de0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4c027c9d12de0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19600,6 +19601,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/inbie_terror_280926/MASTER/inbie_terror_280926/inbie_terror_280926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4c027c9d12de0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 17,
+   "first_seen_ms": 1790687546069,
+   "image": "https://img.mako.co.il/2026/09/29/yoav_google_290926_1400_1790685497111_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790685504000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1790685504000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4c027c9d12de0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/yoav_google_290926/MASTER/yoav_google_290926/yoav_google_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4fca25f78d8e0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -33975,6 +33994,24 @@
    "updated_ms": 1790605021000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-65f89e5ee58e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/FIXNOAY_DOCH_280926_1/FIXNOAY_DOCH_280926_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-671c8d6b24de0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שתי צעירות נפצעו בינוני בתאונת דרכים בין אוטובוס ל-2 כלי רכב פרטיים בכביש 90 בסמוך לצומת עמיעד",
+   "duration_s": 9,
+   "first_seen_ms": 1790687546069,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16456_29092026010805_1400_1790687367172_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790687374000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שתי צעירות נפצעו בינוני בתאונת דרכים בין אוטובוס ל-2 כלי רכב פרטיים בכביש 90 בסמוך לצומת עמיעד",
+   "type": "mivzakim",
+   "updated_ms": 1790687374000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-671c8d6b24de0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16456_29092026010805/M_NEWS_16456_29092026010805_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6c569423824e0a1027.htm": {
    "author": "מבזקים",
