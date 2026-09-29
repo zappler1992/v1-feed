@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790712448013,
+ "last_run_ms": 1790712748443,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -924,6 +924,18 @@
    "published_ms": 1790245140000,
    "section": "ספורט",
    "title": "באדום או צהוב? השחקנים הכי נבחרים בפנטזי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-466cbc072cee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790712748443,
+   "content_type": "article",
+   "first_seen_ms": 1790712748443,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790712480000,
+   "section": "ספורט",
+   "title": "\"מוטלי לא מצליח לתפוס כדור. מה זה?!\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-4fa4ae29323d0a1027.htm": {
    "check_attempts": 1,
