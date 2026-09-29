@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a14dbf74dcde0a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-646ae21efade0a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-798038efdade0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3073,6 +3074,24 @@
    "updated_ms": 1790625180000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-4ef93a71848e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/FIX_Kim_Turgeman_28092026/FIX_Kim_Turgeman_28092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-646ae21efade0a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "אוליביה קולמן, זוכרת האוסקר וכוכבת הסדרה המצליחה \"הכתר\", הגיעה לשטיח האדום בלוק חדש ואמיץ במיוחד: שיער אפור",
+   "duration_s": 32,
+   "first_seen_ms": 1790697146290,
+   "image": "https://img.mako.co.il/2026/09/29/alice_290926_gray_1400_1790694339149_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790694346000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הכוכבת הענקית מציגה לוק חדש - עם שיער אפור",
+   "type": "general",
+   "updated_ms": 1790694346000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-646ae21efade0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/alice_290926_gray/MASTER/alice_290926_gray/alice_290926_gray_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-66d41b6e192e0a1026.htm": {
    "author": "סלבס",
@@ -9374,6 +9393,24 @@
    "updated_ms": 1790689440000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6f134d2975ce0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/yoav_NYT_290926/MASTER/yoav_NYT_290926/yoav_NYT_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-798038efdade0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שני תיירים מאוקראינה תועדו כשהם יושבים על גבו של צב ים בעומאן, בתיעוד שעורר סערה ברשת. הרשויות פתחו בצעדים משפטיים, אחד התיירים התנצל, והדיווחים על מעצרם טרם אושרו רשמית.",
+   "duration_s": 34,
+   "first_seen_ms": 1790697146290,
+   "image": "https://img.mako.co.il/2026/09/29/SHIR_TURTLE_290926_1_1400_1790695281156_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790695291000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "סערה בעומאן בעקבות תיירים שרכבו על צבת ים ושיחקו עם הביצים שהטילה",
+   "type": "general",
+   "updated_ms": 1790695320000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-798038efdade0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/SHIR_TURTLE_290926/MASTER/SHIR_TURTLE_290926_1/SHIR_TURTLE_290926_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-7a60d0af49be0a1026.htm": {
    "author": "מהעולם",
