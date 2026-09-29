@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5eebd2ce05ee0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T18:00:49+00:00</news:publication_date>
+<news:title>טרגדיה בשמי קליפורניה: השחקן והטייס גיא קפולניק נהרג בהתרסקות מטוס קל בגיל 46</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_SHIR_GUY_6610_29092026055910_1400_1790704838475_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a2012fa9a1ee0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1673,14 +1682,5 @@
 <news:title>טום קרוז מוודא שהנוכחות שלו מורגשת - על ידי כולם</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_tomcruise_6540_27092026062204_1400_1790533430510_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-22bcb573004e0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T18:03:31+00:00</news:publication_date>
-<news:title>טסים לתוך עין הסופה בשביל לאסוף &quot;מידע אטמוספרי קריטי&quot;: ככה זה נראה מתא הטייס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_storm_6539_27092026060142_1400_1790532200803_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
