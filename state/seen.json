@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-fccd350e27de0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ef2d58ee387e0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6a2ed85dc8de0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20097,6 +20098,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e5848b62579e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/Kim_Music_Onboard_28092026/MASTER/Kim_Music_Onboard_28092026/Kim_Music_Onboard_28092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ef2d58ee387e0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מקדונלד'ס מתכננת את המהפך הגדול בתולדותיה: השקעה של 8.5 מיליארד דולר, יותר בינה מלאכותית בסניפים ותפריט שמנסה להתאים את עצמו לעידן של חלבון ותרופות הרזיה. כן, גם מלכת הג'אנק פוד הבינה שהלקוחות השתנו.",
+   "duration_s": 51,
+   "first_seen_ms": 1790692346135,
+   "image": "https://img.mako.co.il/2026/09/28/SHIR_MCDONALDS_280926_FIX1_1400_1790601702820_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790692140000,
+   "sections": [],
+   "title": "בעלות של מליארדי דולרים - המהפך הענק של מקדונלד'ס",
+   "type": "news",
+   "updated_ms": 1790601660000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ef2d58ee387e0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/SHIR_MCDONALDS_280926_FIX1/SHIR_MCDONALDS_280926_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-f1c69646293e0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -34081,6 +34098,24 @@
    "updated_ms": 1790687374000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-671c8d6b24de0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16456_29092026010805/M_NEWS_16456_29092026010805_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6a2ed85dc8de0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 70 התמוטט ומת באתר בנייה בלוד",
+   "duration_s": 9,
+   "first_seen_ms": 1790692346135,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16458_29092026022757_1400_1790692158448_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790692179000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 70 התמוטט ומת באתר בנייה בלוד",
+   "type": "mivzakim",
+   "updated_ms": 1790692179000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6a2ed85dc8de0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16458_29092026022757/M_NEWS_16458_29092026022757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6c569423824e0a1027.htm": {
    "author": "מבזקים",
