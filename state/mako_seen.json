@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790714548512,
+ "last_run_ms": 1790714848469,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7375,7 +7375,7 @@
    "indexnow_ms": 1790714067402,
    "published_ms": 1790711880000,
    "section": "",
-   "title": "זו המחלה הממאירה השכיחה בישראל אצל נשים"
+   "title": "זו המחלה הממאירה הנפוצה בישראל אצל נשים"
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
@@ -10245,6 +10245,18 @@
    "section": "",
    "title": "\"נתניהו קיבל אזהרה על מתקפה מעזה ימים לפני 7 באוקטובר\""
   },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-3d6ac9d81eee0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790714667473,
+   "content_type": "liveblog",
+   "first_seen_ms": 1790714667473,
+   "indexable": true,
+   "indexnow_ms": 1790714667473,
+   "published_ms": 1790714040000,
+   "section": "חדשות",
+   "title": "\"איראן במצב קשה מאוד. לא יודע אם הם הולכים לוותר\""
+  },
   "https://www.mako.co.il/pzm-soldiers/liveblog-5d0c4a847e9e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10616,6 +10628,18 @@
    "published_ms": 1790592600000,
    "section": "",
    "title": "לא עוצרת: היעד הנוסף בו החל לפעול צבא ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-cbfafc2e86ee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-cbfafc2e86ee0a1027.htm",
+   "checked_ms": 1790714667473,
+   "content_type": "article",
+   "first_seen_ms": 1790714667473,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790710320000,
+   "section": "חדשות",
+   "title": "רחובות שלמים בי-ם נחסמו: תהלוכת ענק של חרדים נגד צה\"ל"
   },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
