@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790661450548,
+ "last_run_ms": 1790661749958,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1297,6 +1297,18 @@
    "section": "ספורט",
    "title": "\"קטסטרופה\": האיש שינהל את ישראל - אירלנד"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-2b578d6ffabe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790661749958,
+   "content_type": "article",
+   "first_seen_ms": 1790661749958,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790661600000,
+   "section": "ספורט",
+   "title": "משנה מסלול: ההפתעות של בן שמעון לקוסובו"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-2ef2e4dda72e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2374,6 +2386,18 @@
    "published_ms": 1790449800000,
    "section": "ספורט",
    "title": "ישחק לצד מסי: זלצר זובידה חתם במיאמי"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-c7e28d6ffabe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790661749958,
+   "content_type": "article",
+   "first_seen_ms": 1790661749958,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790661120000,
+   "section": "ספורט",
+   "title": "\"ניסינו לקחת אותו\": הקבוצות שרצו את מנור"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-ece21acd743e0a1026.htm": {
    "check_attempts": 1,
@@ -9007,7 +9031,7 @@
    "indexnow_ms": 1790661267811,
    "published_ms": 1790660940000,
    "section": "",
-   "title": "הפרט החריג על המחוסל - והמכה ל\"שדרה\" של חמאס"
+   "title": "מבוקש בכיר: פרטים נוספים על החיסול בלב עזה"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-17325e1e3b4e0a1027.htm": {
    "check_attempts": 1,
