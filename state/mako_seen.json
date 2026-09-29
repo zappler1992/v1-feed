@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790680948535,
+ "last_run_ms": 1790681248522,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -793,6 +793,18 @@
    "section": "ספורט",
    "title": "עם סגל מלא לקטש: מכבי ת\"א פותחת עונה"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-110879c49ece0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790681248522,
+   "content_type": "article",
+   "first_seen_ms": 1790681248522,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790681040000,
+   "section": "ספורט",
+   "title": "\"בלאט? תמיד הערצתי את מה שהוא מביא\""
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-1aac2c23674d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1164,6 +1176,18 @@
    "published_ms": 1790273520000,
    "section": "ספורט",
    "title": "\"בראיינט לא הורגש. יש להפועל ת\"א בעיות\""
+  },
+  "https://www.mako.co.il/Sports-basketball/q3_2026/Article-193879c49ece0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790681248522,
+   "content_type": "article",
+   "first_seen_ms": 1790681248522,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790681040000,
+   "section": "ספורט",
+   "title": "\"לופטון ההצגה הכי טובה, הופתעתי מזוסמן\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-03414cc5f5ed0a1027.htm": {
    "check_attempts": 1,
