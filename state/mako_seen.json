@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790716048455,
+ "last_run_ms": 1790716348499,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7315,7 +7315,7 @@
    "indexnow_ms": 1790696907338,
    "published_ms": 1790695920000,
    "section": "",
-   "title": "מקרה החטיפה החריג בתל אביב - והמפגש הלא צפוי בתא המעצר"
+   "title": "\"הכניס אותו לרכב\": החטיפה בתל אביב - והמעצר"
   },
   "https://www.mako.co.il/men-men_news/Article-200ad7c44a2d0a1027.htm": {
    "check_attempts": 1,
@@ -10568,6 +10568,18 @@
    "published_ms": 1790352060000,
    "section": "",
    "title": "\"גורם מטורף\": המהלך החות'י – והאזהרה לישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-a02550ba63ee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-a02550ba63ee0a1027.htm",
+   "checked_ms": 1790716227551,
+   "content_type": "article",
+   "first_seen_ms": 1790716227551,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790711100000,
+   "section": "",
+   "title": "האזהרה של נתניהו - והתגובה במערכת הביטחון"
   },
   "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
    "check_attempts": 1,
