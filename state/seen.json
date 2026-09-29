@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4a68bfd8bdee0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e17bfd8bdee0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-d376b98e2dee0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20196,6 +20197,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-cdc76058383e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/inbalmah270926/MASTER/inbalmah270926m/inbalmah270926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-d376b98e2dee0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מתוך \"המהדורה המרכזית\", חדשות 12: חשש לגל התייקרויות במשק בעקבות העלייה במחירי הדלק, שעלולה להתגלגל לעלויות של מגוון שירותים ומוצרים. בין היתר, צפויה השפעה על מחירי התחבורה הציבורית, המים ושירותים נוספים, בשל העלייה בעלויות השינוע והתפעול. החשש הוא שההתייקרויות יצטברו ויגדילו את יוקר המחיה עבור הציבור.",
+   "duration_s": 41,
+   "first_seen_ms": 1790715445833,
+   "image": "https://img.mako.co.il/2026/09/29/alona_ddelek_master_290926_1400_1790714005316_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790714011000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "בעקבות עליית מחירי הדלק: החשש לגל התייקרות במשק",
+   "type": "news",
+   "updated_ms": 1790714011000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-d376b98e2dee0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/alona_delek_290926/MASTER/alona_ddelek_master_290926/alona_ddelek_master_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-d54175e63fce0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -34561,6 +34580,24 @@
    "updated_ms": 1790667484000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7a08cfc591ce0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_BB_6596_29092026073655/V1_BB_6596_29092026073655_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e17bfd8bdee0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לפיד בתום העדכון הביטחוני עם רוה\"מ:\"צה\"ל, השב\"כ והמשטרה ערוכים לבחירות ואין סיבה להיכנס לפאניקה\"",
+   "duration_s": 9,
+   "first_seen_ms": 1790715445833,
+   "image": "https://img.mako.co.il/2026/09/29/V1_SHIR_LAPID_6614_29092026085416_1400_1790715336820_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790715346000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לפיד בתום העדכון הביטחוני עם רוה\"מ:\"צה\"ל, השב\"כ והמשטרה ערוכים לבחירות ואין סיבה להיכנס לפאניקה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790715346000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e17bfd8bdee0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHIR_LAPID_6614_29092026085416/V1_SHIR_LAPID_6614_29092026085416_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e3084fab1de0a1026.htm": {
    "author": "מבזקים",
