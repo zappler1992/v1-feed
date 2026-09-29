@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c86185740ace0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c1a1f8274ace0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34081,6 +34082,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-80155b645b3e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/biata_ashdod_miv3/biata_ashdod_miv3_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חיפה: רוכב אופנוע פונה במצב בינוני לאחר תאונת דרכים",
+   "duration_s": 9,
+   "first_seen_ms": 1790677345839,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16439_29092026101704_1400_1790677103971_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790677112000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חיפה: רוכב אופנוע פונה במצב בינוני לאחר תאונת דרכים",
+   "type": "mivzakim",
+   "updated_ms": 1790677112000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16439_29092026101704/M_NEWS_16439_29092026101704_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8754215c6d0e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34674,6 +34693,24 @@
    "updated_ms": 1790481670000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c105d5b45f0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_mezeg_6504_27092026035927/V1_mezeg_6504_27092026035927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c1a1f8274ace0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לאחר שטיסת אל על למיאמי חזרה לישראל בשל תקלה אחרי שש שעות באוויר: טיסה חלופית תצא ב-16:50",
+   "duration_s": 9,
+   "first_seen_ms": 1790677345839,
+   "image": "https://img.mako.co.il/2026/09/29/M_NEWS_16438_29092026101407_1400_1790676926690_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790676937000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לאחר שטיסת אל על למיאמי חזרה לישראל בשל תקלה אחרי שש שעות באוויר: טיסה חלופית תצא ב-16:50",
+   "type": "mivzakim",
+   "updated_ms": 1790676937000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c1a1f8274ace0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16438_29092026101407/M_NEWS_16438_29092026101407_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c298e445681e0a1027.htm": {
    "author": "מבזקים",
