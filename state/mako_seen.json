@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790672252942,
+ "last_run_ms": 1790672548799,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2241,7 +2241,7 @@
    "indexnow_ms": null,
    "published_ms": 1790670660000,
    "section": "ספורט",
-   "title": "סדר כוחות חדש: מאחורי סיום דרכו של זיו"
+   "title": "סדר חדש: מאחורי סיום דרכו של יואב זיו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-78ef5c05898d0a1026.htm": {
    "check_attempts": 1,
@@ -5961,6 +5961,18 @@
    "section": "הורים",
    "title": "הורים: הילדים שלכם לא צריכים עוד אטרקציות"
   },
+  "https://www.mako.co.il/home-family-kids/Article-41af7d4e4c8e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790672548799,
+   "content_type": "article",
+   "first_seen_ms": 1790672548799,
+   "indexable": true,
+   "indexnow_ms": 1790672548799,
+   "published_ms": 1790672400000,
+   "section": "חדשות",
+   "title": "ישראל שוברת שיא בתקציב - אבל המצב בכיתות עדיין עגום"
+  },
   "https://www.mako.co.il/home-family-kids/Article-72b039480d7e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6224,6 +6236,18 @@
    "published_ms": 1790654400000,
    "section": "עיצוב הבית",
    "title": "האוכמניות לא מספיק מתוקות? תעשו את זה"
+  },
+  "https://www.mako.co.il/living-diy/maintenance/Article-cdc0957cb73e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790672548799,
+   "content_type": "article",
+   "first_seen_ms": 1790672548799,
+   "indexable": true,
+   "indexnow_ms": 1790672548799,
+   "published_ms": 1790672280000,
+   "section": "",
+   "title": "הטעות שכולכם עושים עם התנור - והיא משנה הכל"
   },
   "https://www.mako.co.il/living-diy/maintenance/Article-d18a53f3be1e0a1027.htm": {
    "check_attempts": 1,
@@ -6969,6 +6993,18 @@
    "section": "פלילים",
    "title": "במתחם במושב: סמים בשווי כ-90 מיליון שקל"
   },
+  "https://www.mako.co.il/men-men_news/Article-51b581cde4ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790672428414,
+   "content_type": "article",
+   "first_seen_ms": 1790672428414,
+   "indexable": true,
+   "indexnow_ms": 1790672428414,
+   "published_ms": 1790671560000,
+   "section": "פלילים",
+   "title": "איים על בני משפחתו: \"היום אני אדקור אתכם אחד אחד\""
+  },
   "https://www.mako.co.il/men-men_news/Article-51bc033b343d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7063,7 +7099,7 @@
    "indexnow_ms": 1790585067071,
    "published_ms": 1790584500000,
    "section": "פלילים",
-   "title": "אחרי 3 שנים: השינוי בחייו של העבריין, והחשש בשטח"
+   "title": "\"יש חשש שהוא יחזור לפעול בשטח, נערכים לזה\""
   },
   "https://www.mako.co.il/men-men_news/Article-69a4d8f122ec0a1026.htm": {
    "check_attempts": 1,
@@ -8479,7 +8515,7 @@
    "indexnow_ms": 1790670868866,
    "published_ms": 1790669040000,
    "section": "דיגיטל",
-   "title": "החברה שמזהירה מהמוצר של עצמה: \"מסכן את קיום האנושות\""
+   "title": "החברה שהפסידה 42 מיליארד ועדיין שווה 2 טריליון דולר"
   },
   "https://www.mako.co.il/nexter-news/Article-7161c9b82cdd0a1026.htm": {
    "check_attempts": 1,
