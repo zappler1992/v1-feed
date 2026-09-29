@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790689349094,
+ "last_run_ms": 1790689648398,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6885,6 +6885,18 @@
    "section": "",
    "title": "כוכבת הרשת נשברת: \"לא הייתי במצב כזה בחיים\""
   },
+  "https://www.mako.co.il/makoz-news/Article-ef89fc2346de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790689467080,
+   "content_type": "article",
+   "first_seen_ms": 1790689467080,
+   "indexable": true,
+   "indexnow_ms": 1790689467080,
+   "published_ms": 1790689200000,
+   "section": "",
+   "title": "אחרי הניתוח - אשתו של אהבת השם מעדכנת במצבו"
+  },
   "https://www.mako.co.il/makoz-viral/Article-09123dd7eb1e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10940,6 +10952,18 @@
    "published_ms": 1790518560000,
    "section": "",
    "title": "\"המים ששוטפים את הרחובות עלולים להיות מסוכנים\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-7a262dc3e3de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790689467080,
+   "content_type": "article",
+   "first_seen_ms": 1790689467080,
+   "indexable": true,
+   "indexnow_ms": 1790689467080,
+   "published_ms": 1790687700000,
+   "section": "חופש",
+   "title": "פחות תיירים, יותר כסף: העיר הופכת יקרה בהרבה"
   },
   "https://www.mako.co.il/travel-news/international/Article-802585740ace0a1026.htm": {
    "check_attempts": 1,
