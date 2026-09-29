@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790657249125,
+ "last_run_ms": 1790657549204,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4832,6 +4832,18 @@
    "published_ms": 1790310120000,
    "section": "בריאות",
    "title": "איך גיל היולדת משפיע על התינוק?"
+  },
+  "https://www.mako.co.il/health-magazine/Article-3a4c48e3e3590a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790657426892,
+   "content_type": "article",
+   "first_seen_ms": 1790657426892,
+   "indexable": true,
+   "indexnow_ms": 1790657426892,
+   "published_ms": 1790657220000,
+   "section": "בריאות",
+   "title": "עצם דג נתקעה בגרון בארוחה? אל תעשו את זה"
   },
   "https://www.mako.co.il/health-magazine/Article-b3db17fd7cdc0a1026.htm": {
    "check_attempts": 1,
