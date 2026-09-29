@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790673987181,
+ "last_run_ms": 1790674348468,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5169,6 +5169,18 @@
    "section": "בריאות",
    "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
   },
+  "https://www.mako.co.il/health-news/Article-34e8f49f57ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790674348468,
+   "content_type": "article",
+   "first_seen_ms": 1790674348468,
+   "indexable": true,
+   "indexnow_ms": 1790674348468,
+   "published_ms": 1790673540000,
+   "section": "בריאות",
+   "title": "בגלל טעות: הריקול לבקבוקי הקטשופ של אסם-נטסלה"
+  },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9117,6 +9129,18 @@
    "section": "",
    "title": "כך כבשו המחבלים את המוצב שבו נפלו 18 לוחמים"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-245856ffb6ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790674107225,
+   "content_type": "article",
+   "first_seen_ms": 1790674107225,
+   "indexable": true,
+   "indexnow_ms": 1790674107225,
+   "published_ms": 1790673120000,
+   "section": "צבא וביטחון",
+   "title": "המגמה מתרחבת: הכוחות שארה\"ב מקדמת לאזור"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-25f30dd55d1e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10244,6 +10268,18 @@
    "published_ms": 1790148420000,
    "section": "חופש",
    "title": "נוסע ישראלי נעצר בזמן הטיסה באירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-098615cabdbe0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790674227196,
+   "content_type": "article",
+   "first_seen_ms": 1790674227196,
+   "indexable": true,
+   "indexnow_ms": 1790674227196,
+   "published_ms": 1790671500000,
+   "section": "חופש",
+   "title": "\"כמה את לוקחת ללילה\": ישראלית הוטרדה בטיול"
   },
   "https://www.mako.co.il/travel-news/international/Article-0b9fe89306dc0a1027.htm": {
    "check_attempts": 1,
