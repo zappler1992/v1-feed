@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790670449668,
+ "last_run_ms": 1790670752867,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9668,6 +9668,18 @@
    "published_ms": 1790582040000,
    "section": "",
    "title": "גיבורה בלתי צפויה: חזרה ממסיבה - וסיכלה מגה פיגוע"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b4889cfc9dae0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-law/2026_q3/Article-b4889cfc9dae0a1026.htm",
+   "checked_ms": 1790670507227,
+   "content_type": "article",
+   "first_seen_ms": 1790670507227,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790667540000,
+   "section": "",
+   "title": "אדם מבוגר הוטח לקרקע: התיעוד המחריד מירושלים"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
