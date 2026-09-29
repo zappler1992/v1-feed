@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790667450849,
+ "last_run_ms": 1790667749468,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2183,6 +2183,18 @@
    "section": "ספורט",
    "title": "מכה לבית\"ר: מצבו העדכני של ירדן כהן"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-71788ae591ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790667749468,
+   "content_type": "article",
+   "first_seen_ms": 1790667749468,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790667540000,
+   "section": "ספורט",
+   "title": "זיו צפוי לסיים את תפקידו כמנהל מכבי ת\"א"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-78ef5c05898d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3020,6 +3032,18 @@
    "published_ms": 1790348460000,
    "section": "",
    "title": "הצצה ראשונה לסרט \"נז\"א\" - והמחאה שצפויה נגדו"
+  },
+  "https://www.mako.co.il/culture-articles/Article-3e70be62fdbe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790667749468,
+   "content_type": "article",
+   "first_seen_ms": 1790667749468,
+   "indexable": true,
+   "indexnow_ms": 1790667749468,
+   "published_ms": 1790663880000,
+   "section": "תרבות tvbee",
+   "title": "בכיר בניו יורק טיימס נרצח. החשודים: הוריה של אשתו"
   },
   "https://www.mako.co.il/culture-articles/Article-59196270638d0a1026.htm": {
    "check_attempts": 1,
@@ -4195,7 +4219,7 @@
    "indexnow_ms": 1790663666785,
    "published_ms": 1790662980000,
    "section": "כסף",
-   "title": "שיא כל הזמנים: המחיר שנשלם החל ממחר על לליטר בנזין"
+   "title": "שיא כל הזמנים: מחיר הדלק יזנק ל-8.27 שקלים"
   },
   "https://www.mako.co.il/finances-news/Article-9c38b54c4f1e0a1027.htm": {
    "check_attempts": 1,
@@ -6751,7 +6775,7 @@
    "indexnow_ms": 1790667149858,
    "published_ms": 1790666940000,
    "section": "פלילים",
-   "title": "\"מי שמימנו וארגנו את רצח יושבייב ברחו מהארץ\""
+   "title": "\"הוא לא ביצע את הרצח בחינם, מי ששלחו אותו ברחו לחו\"ל\""
   },
   "https://www.mako.co.il/men-men_news/Article-3efb3dd7eb1e0a1026.htm": {
    "check_attempts": 1,
@@ -9139,7 +9163,7 @@
    "indexnow_ms": 1790658448656,
    "published_ms": 1790658300000,
    "section": "",
-   "title": "100 פורעים יהודים הציתו רכוש, 3 לוחמים נפצעו"
+   "title": "\"קיבלו מידע פנימי\": פרטים חדשים על האירוע ביו\"ש"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c5ae8ea57ccc0a1027.htm": {
    "check_attempts": 1,
@@ -9247,7 +9271,7 @@
    "indexnow_ms": 1790661267811,
    "published_ms": 1790660940000,
    "section": "",
-   "title": "הפרט החריג על המחוסל - והמכה ל\"שדרה\" של חמאס"
+   "title": "השלישי בתוך שבועיים: המח\"ט שחוסל אחרי 4 ניסיונות"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-17325e1e3b4e0a1027.htm": {
    "check_attempts": 1,
