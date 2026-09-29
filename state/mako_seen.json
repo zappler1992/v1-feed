@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790708849230,
+ "last_run_ms": 1790709149257,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5673,6 +5673,18 @@
    "section": "בריאות",
    "title": "עשרות נפגעות: איך תמנעו את נזקי ההחלקה?"
   },
+  "https://www.mako.co.il/health-news/Article-b125432be4ee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790708907152,
+   "content_type": "article",
+   "first_seen_ms": 1790708907152,
+   "indexable": true,
+   "indexnow_ms": 1790708907152,
+   "published_ms": 1790705700000,
+   "section": "",
+   "title": "הפועל איבד הכרה בגובה 55 מטרים - וקיבל טיפול באוויר"
+  },
   "https://www.mako.co.il/health-news/Article-c2e14ed8aba80a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10364,6 +10376,18 @@
    "published_ms": 1790353200000,
    "section": "",
    "title": "הטביעה באשקלון: נקבע מותו של בן 17"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-55544a3310ee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-55544a3310ee0a1027.htm",
+   "checked_ms": 1790709149257,
+   "content_type": "article",
+   "first_seen_ms": 1790709149257,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790703120000,
+   "section": "חדשות",
+   "title": "\"אלימות קשה כמו הלילה לא זכורה לנו בחיים\""
   },
   "https://www.mako.co.il/special-mako-news/Article-669c41a9312e0a1026.htm": {
    "check_attempts": 1,
