@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790679448501,
+ "last_run_ms": 1790679748556,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7988,6 +7988,18 @@
    "published_ms": 1790083680000,
    "section": "מוזיקה",
    "title": "לא מספיק אומנית השנה: הישג גדול נוסף לאודיה"
+  },
+  "https://www.mako.co.il/music-news/Article-f49dbccb8cce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790679748556,
+   "content_type": "article",
+   "first_seen_ms": 1790679748556,
+   "indexable": true,
+   "indexnow_ms": 1790679748556,
+   "published_ms": 1790679480000,
+   "section": "מוזיקה",
+   "title": "בונו תוקף את בן גביר ומשווה אותו לפושע מלחמה נאצי"
   },
   "https://www.mako.co.il/music-news/Article-f692fa021ddc0a1027.htm": {
    "check_attempts": 1,
