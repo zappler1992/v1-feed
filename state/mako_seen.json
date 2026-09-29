@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790671651181,
+ "last_run_ms": 1790671956716,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -372,6 +372,18 @@
    "published_ms": 1790592300000,
    "section": "אופנה",
    "title": "בבגד גוף בלבד: בר רפאלי יודעת מה נלבש בסתיו"
+  },
+  "https://fashionforward.mako.co.il/news/320966/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790671956716,
+   "content_type": "post",
+   "first_seen_ms": 1790671956716,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790671625000,
+   "section": "אופנה",
+   "title": "בלגן ברודוס: בר זומר נופשת בביקיני משולשים מסוכן במיוחד"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -2217,7 +2229,7 @@
    "indexnow_ms": null,
    "published_ms": 1790670660000,
    "section": "ספורט",
-   "title": "מאחורי סיום דרכו של יואב זיו במכבי ת\"א"
+   "title": "סדר כוחות חדש: מאחורי סיום דרכו של זיו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-78ef5c05898d0a1026.htm": {
    "check_attempts": 1,
@@ -10196,6 +10208,18 @@
    "published_ms": 1790493900000,
    "section": "",
    "title": "שבוע ללא סימן חיים מהישראלי שנעדר: \"המצב מורכב\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-1ca1679852ce0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790671727692,
+   "content_type": "article",
+   "first_seen_ms": 1790671727692,
+   "indexable": true,
+   "indexnow_ms": 1790671727692,
+   "published_ms": 1790667120000,
+   "section": "חופש",
+   "title": "\"לא יכולים לבדוק כל מטוס – אין לנו כוח אדם\""
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,
