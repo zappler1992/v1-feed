@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790692348799,
+ "last_run_ms": 1790692648831,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1801,6 +1801,18 @@
    "section": "ספורט",
    "title": "קרע ביחסים: השבר העמוק שיצרה נבחרת ישראל"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-b761d85dc8de0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790692587089,
+   "content_type": "article",
+   "first_seen_ms": 1790692587089,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790692200000,
+   "section": "ספורט",
+   "title": "משחק קריטי: על מה נלחמת הנבחרת הצעירה?"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-ba4ec65053be0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2974,6 +2986,18 @@
    "published_ms": 1790431080000,
    "section": "ספורט",
    "title": "צפו: \"לא יהיו לחיצות ידיים עם ישראל\""
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-d0cdb23529de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790692587089,
+   "content_type": "article",
+   "first_seen_ms": 1790692587089,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790692440000,
+   "section": "ספורט",
+   "title": "הסתכן בפציעה חמורה: מצבו של אמבפה"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-d12771d0823e0a1026.htm": {
    "check_attempts": 1,
