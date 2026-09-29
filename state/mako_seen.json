@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790698348970,
+ "last_run_ms": 1790698648986,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1872,6 +1872,18 @@
    "published_ms": 1790671920000,
    "section": "ספורט",
    "title": "\"יכול להביא יותר\". בן הרוש נפתח בראיון"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-c8dcc2636ede0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790698467437,
+   "content_type": "article",
+   "first_seen_ms": 1790698467437,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790698200000,
+   "section": "ספורט",
+   "title": "בטירוף שלו: צפו בחגיגה המשוגעת של לוזון"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-ca8e38efdade0a1027.htm": {
    "check_attempts": 1,
@@ -4543,7 +4555,7 @@
    "indexnow_ms": 1790695107195,
    "published_ms": 1790693520000,
    "section": "",
-   "title": "לפני הבחירות: סמוטריץ' מנסה לבלום עליית מחירי הדלק"
+   "title": "הזינוק הצפוי במחיר הדלק והניסיונות למנוע את ההתייקרות"
   },
   "https://www.mako.co.il/finances-news/Article-baeabe8fa57e0a1027.htm": {
    "check_attempts": 1,
@@ -5468,6 +5480,18 @@
    "published_ms": 1790523960000,
    "section": "",
    "title": "סייעה למטופל והותקפה: \"היום זה בקבוק, מחר זה נשק\""
+  },
+  "https://www.mako.co.il/health-news/Article-5bfcc2636ede0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790698467437,
+   "content_type": "article",
+   "first_seen_ms": 1790698467437,
+   "indexable": true,
+   "indexnow_ms": 1790698467437,
+   "published_ms": 1790697900000,
+   "section": "",
+   "title": "נחשפו הסיבות לסגירת בית החולים הפרטי בתל אביב"
   },
   "https://www.mako.co.il/health-news/Article-6455549085dc0a1027.htm": {
    "check_attempts": 1,
@@ -7423,7 +7447,7 @@
    "indexnow_ms": 1790685506817,
    "published_ms": 1790679600000,
    "section": "פלילים",
-   "title": "הצעד שעלול לסמן את חזרת המלחמה בין ארגוני הפשע"
+   "title": "\"עזבו את ג'פניקה, עכשיו הולכים על הראשים\""
   },
   "https://www.mako.co.il/men-men_news/Article-58f03e40bb4d0a1026.htm": {
    "check_attempts": 1,
@@ -9763,7 +9787,7 @@
    "indexnow_ms": 1790676387510,
    "published_ms": 1790676000000,
    "section": "",
-   "title": "ממדינה ערבית שלא ביחסים: הבכיר שנתניהו פגש"
+   "title": "מצבא מפתיע: דיווח - הבכיר שנפגש עם נתניהו"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-68811f61762d0a1027.htm": {
    "check_attempts": 1,
