@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6a0b23529de0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T14:37:57+00:00</news:publication_date>
+<news:title>דיווח בלבנון: תקיפה מהאוויר בפאתי כפר קנטרה שבדרום המדינה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_SHIR_LEBANON_6603_29092026023638_1400_1790692670658_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6a2ed85dc8de0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1682,14 +1691,5 @@
 <news:title>השמלה של אוליביה רודריגו מתמוססת במים בביצוע של השיר &quot;The Cure&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_olivia_6532_27092026024212_1400_1790520278976_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de1e1acd743e0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T14:38:05+00:00</news:publication_date>
-<news:title>גבר כבן 62 אותר ללא רוח חיים בביתו בצפון תל אביב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/M_NEWS_16319_27092026023642_1400_1790519878579_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
