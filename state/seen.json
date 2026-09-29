@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9eb87c9d12de0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-74977c9d12de0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19722,7 +19722,8 @@
    "importance": 2,
    "published_ms": 1790670357000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "גל תביעות דרמטי: \"תרופות ההרזיה הפכו אותנו לעיוורים\"",
    "type": "news",
@@ -19851,7 +19852,8 @@
    "importance": 2,
    "published_ms": 1790672934000,
    "sections": [
-    "אוכל"
+    "אוכל",
+    "הכי נצפים עכשיו"
    ],
    "title": "התקלה החריפה בקטשופ של אסם",
    "type": "news",
@@ -34064,6 +34066,24 @@
    "updated_ms": 1790585340000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-742048dca07e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/fix_mada/fix_mada_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-74977c9d12de0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מזג האוויר מתהפך: גשם שוטף החל בחיפה",
+   "duration_s": 24,
+   "first_seen_ms": 1790686045977,
+   "image": "https://img.mako.co.il/2026/09/29/V1_HAIFA_RAIN_6602_29092026124136_1400_1790685775095_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790685781000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מזג האוויר מתהפך: גשם שוטף החל בחיפה",
+   "type": "mivzakim",
+   "updated_ms": 1790685781000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-74977c9d12de0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_HAIFA_RAIN_6602_29092026124136/V1_HAIFA_RAIN_6602_29092026124136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-75e998a7951e0a1026.htm": {
    "author": "מבזקים",

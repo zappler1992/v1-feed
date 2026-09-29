@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-74977c9d12de0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-29T12:43:01+00:00</news:publication_date>
+<news:title>מזג האוויר מתהפך: גשם שוטף החל בחיפה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_HAIFA_RAIN_6602_29092026124136_1400_1790685775095_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-9eb87c9d12de0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1700,14 +1709,5 @@
 <news:title>איראן: לכדנו צוללת אוטונומית אמריקנית במצר הורמוז</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_KARIND_IRAN_6527_27092026124824_1400_1790513409114_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3883c772bd2e0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-27T12:42:53+00:00</news:publication_date>
-<news:title>אלוף! ארטיום דולגופיאט זכה במדליית זהב בגביע האתגר בפריז</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/27/V1_KARIND_ARTIUM_6526_27092026124124_1400_1790512966783_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
