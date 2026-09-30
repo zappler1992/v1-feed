@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790778749007,
+ "last_run_ms": 1790779048971,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1848,6 +1848,18 @@
    "published_ms": 1790508840000,
    "section": "ספורט",
    "title": "בן שמעון הודיע לשחקנים: ההרכב מול אירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-79126c93aa2f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790778987093,
+   "content_type": "article",
+   "first_seen_ms": 1790778987093,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790778840000,
+   "section": "ספורט",
+   "title": "צפו בשידור: מאמן קוסובו מדבר לקראת ישראל"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-79d92af35e5e0a1027.htm": {
    "check_attempts": 1,
@@ -12643,7 +12655,7 @@
    "indexnow_ms": 1790769267310,
    "published_ms": 1790768820000,
    "section": "",
-   "title": "המוסד אישר את צוות המטוס, כל הנוסעים עלו לטיסת החילוץ"
+   "title": "המוסד אישר את צוות המטוס, טיסת החילוץ המריאה לישראל"
   },
   "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
    "check_attempts": 1,
