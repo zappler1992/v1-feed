@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4ddc6c93aa2f0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f79b9a5ea2f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-95956c93aa2f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-039ad962fb2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33534,6 +33534,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0373584a840f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16473_30092026033931/M_NEWS_16473_30092026033931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-039ad962fb2f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כל הנוסעים הישראלים בדרך הביתה",
+   "duration_s": 15,
+   "first_seen_ms": 1790779646937,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16523_30092026024140_1400_1790779378375_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790779385000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כל הנוסעים הישראלים בדרך הביתה",
+   "type": "mivzakim",
+   "updated_ms": 1790779385000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-039ad962fb2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16523_30092026024140/M_NEWS_16523_30092026024140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-050bbfc6eebe0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -36194,6 +36212,24 @@
    "updated_ms": 1790519165000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-93efc204933e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_car_6531_27092026022439/V1_car_6531_27092026022439_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-95956c93aa2f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד ראשון מטיסת החילוץ שיצאה מסעודיה: הישראלים בדרכם הביתה",
+   "duration_s": 15,
+   "first_seen_ms": 1790779646937,
+   "image": "https://img.mako.co.il/2026/09/30/V1_backhome_6675_30092026024017_1400_1790779272884_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790779279000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד ראשון מטיסת החילוץ שיצאה מסעודיה: הישראלים בדרכם הביתה",
+   "type": "mivzakim",
+   "updated_ms": 1790779279000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-95956c93aa2f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_backhome_6675_30092026024017/V1_backhome_6675_30092026024017_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-97967928f91e0a1027.htm": {
    "author": "מבזקים",
