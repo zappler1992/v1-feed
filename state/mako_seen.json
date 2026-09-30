@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790738549799,
+ "last_run_ms": 1790738849472,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1189,6 +1189,18 @@
    "section": "ספורט",
    "title": "חזק מאי פעם: קטש רוצה להיפטר מה\"גיבנת\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c629c1ea550f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790738787205,
+   "content_type": "article",
+   "first_seen_ms": 1790738787205,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790738460000,
+   "section": "ספורט",
+   "title": "\"הפועל ת\"א שיחקה רע ובכל זאת ניצחה\""
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-c8f7f050b05d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1260,6 +1272,18 @@
    "published_ms": 1790681040000,
    "section": "ספורט",
    "title": "\"לופטון ההצגה הכי טובה, הופתעתי מזוסמן\""
+  },
+  "https://www.mako.co.il/Sports-basketball/q3_2026/Article-9c09c1ea550f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790738787205,
+   "content_type": "article",
+   "first_seen_ms": 1790738787205,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790738520000,
+   "section": "ספורט",
+   "title": "מועד הבכורה של לורנזו בראון בהפועל י-ם"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-03414cc5f5ed0a1027.htm": {
    "check_attempts": 1,
@@ -7411,7 +7435,7 @@
    "indexnow_ms": 1790714067402,
    "published_ms": 1790711880000,
    "section": "",
-   "title": "זו המחלה הממאירה הנפוצה בישראל אצל נשים"
+   "title": "אלפי נשים אובחנו בשנה: המחלה הממאירה השכיחה בישראל"
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
@@ -11948,6 +11972,18 @@
    "published_ms": 1790179020000,
    "section": "הכי חם",
    "title": "יחידת העילית נחשפת: ההקרנה החגיגית בת\"א"
+  },
+  "https://www.mako.co.il/tv-special/Article-e0a0867d6aee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790738667135,
+   "content_type": "article",
+   "first_seen_ms": 1790738667135,
+   "indexable": true,
+   "indexnow_ms": 1790738667135,
+   "published_ms": 1790737200000,
+   "section": "",
+   "title": "\"היו שם עינויים של שבירת עצמות וכריתת אצבעות\""
   },
   "https://www.mako.co.il/tv-special/Article-e81fda42861e0a1027.htm": {
    "check_attempts": 1,
