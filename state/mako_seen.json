@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790755048184,
+ "last_run_ms": 1790755349857,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5683,7 +5683,7 @@
    "indexnow_ms": 1790748387478,
    "published_ms": 1790748060000,
    "section": "בריאות",
-   "title": "טלי הייתה בתרדמת 3 חודשים, ואז התרש האירוע המדהים"
+   "title": "טלי הייתה בתרדמת 3 חודשים, ואז התרחש האירוע המדהים"
   },
   "https://www.mako.co.il/health-news/Article-34e8f49f57ce0a1027.htm": {
    "check_attempts": 1,
@@ -9657,6 +9657,18 @@
    "section": "דיגיטל",
    "title": "גייסו 400 מיליון ושווים כבר 6.4 מיליארד דולר"
   },
+  "https://www.mako.co.il/nexter-news/Article-e8525af7041f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790755349857,
+   "content_type": "article",
+   "first_seen_ms": 1790755349857,
+   "indexable": true,
+   "indexnow_ms": 1790755349857,
+   "published_ms": 1790754360000,
+   "section": "",
+   "title": "לא חיכו לנחיתה: \"זאת טיסת השוקולד דובאי\""
+  },
   "https://www.mako.co.il/nexter-news/Article-ec0b004c242e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10279,7 +10291,7 @@
    "indexnow_ms": 1790748387478,
    "published_ms": 1790746980000,
    "section": "צבא וביטחון",
-   "title": "חשש במדינה שכנה: \"לא נצליח לבלום את האיראנים\""
+   "title": "ארה\"ב יוצאת, איראן נכנסת? המהלך הדרמטי באזור"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
@@ -11347,7 +11359,7 @@
    "indexnow_ms": 1790749707620,
    "published_ms": 1790749440000,
    "section": "",
-   "title": "המטוס צלל 14 אלף רגל, הטייסים רבו בקוקפיט"
+   "title": "החשד שנבדק: הטייס ניסה להתאבד - ולרסק את המטוס"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
@@ -11420,6 +11432,18 @@
    "published_ms": 1790143740000,
    "section": "",
    "title": "\"סבל מהזיות וקדח מחום\": תיעוד מחופשת הבלהות"
+  },
+  "https://www.mako.co.il/travel-news/Article-cc39c62ec41f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790755349857,
+   "content_type": "article",
+   "first_seen_ms": 1790755349857,
+   "indexable": true,
+   "indexnow_ms": 1790755349857,
+   "published_ms": 1790754780000,
+   "section": "",
+   "title": "\"הייתה אלימות קשה, הבנו שהטייס נדקר\""
   },
   "https://www.mako.co.il/travel-news/Article-df8b97156eec0a1026.htm": {
    "check_attempts": 1,
