@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790772748672,
+ "last_run_ms": 1790773048491,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -419,7 +419,7 @@
    "indexnow_ms": null,
    "published_ms": 1790760498000,
    "section": "אופנה",
-   "title": "אניה טיילור ג'וי הגיעה לתצוגה של דיור בלוק שקוף ומשגע"
+   "title": "מריחים את הסתיו: מלי לוי בג'ינס הכי מחמיא שיש"
   },
   "https://fashionforward.mako.co.il/news/321029/": {
    "check_attempts": 1,
@@ -6297,6 +6297,18 @@
    "section": "HIX",
    "title": "נולדו כשהן מחוברות בראש, והופרדו אחרי שנתיים"
   },
+  "https://www.mako.co.il/hix-bizarre/Article-23407c7d8e1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790772867577,
+   "content_type": "article",
+   "first_seen_ms": 1790772867577,
+   "indexable": true,
+   "indexnow_ms": 1790772867577,
+   "published_ms": 1790772720000,
+   "section": "HIX",
+   "title": "\"היא יצאה לקרוז והשאירה את הילדים לבד בבית\""
+  },
   "https://www.mako.co.il/hix-bizarre/Article-4761124aa13d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9645,6 +9657,18 @@
    "section": "ספורט",
    "title": "סיטי תעלם מהמפה? היום שאחרי ההרשעה"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-d0256638852f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790772987585,
+   "content_type": "article",
+   "first_seen_ms": 1790772987585,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790772840000,
+   "section": "ספורט",
+   "title": "פירוט הסכומים נחשף: פרטים חדשים על סיטי"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-e2f545fdfa7d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -12475,7 +12499,7 @@
    "indexnow_ms": 1790769267310,
    "published_ms": 1790768820000,
    "section": "",
-   "title": "נוסעים ישראלים סירבו לעלות על טיסת החילוץ"
+   "title": "נוסעים ישראלים מסרבים לעלות על טיסת החילוץ"
   },
   "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
    "check_attempts": 1,
