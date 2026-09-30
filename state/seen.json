@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27c5eb17533f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4b5eb17533f0a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-69a3659b672f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12973,7 +12971,9 @@
    "image": "https://img.mako.co.il/2026/09/30/rinat_adidas_30092026_m_1400_1790780023424_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790780029000,
-   "sections": [],
+   "sections": [
+    "לייף & סטייל"
+   ],
    "title": "אדידס חשפה כפכפים שצריך להקפיא",
    "type": "general",
    "updated_ms": 1790780029000,
@@ -20007,6 +20007,24 @@
    "updated_ms": 1790756236000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-3643f122f51f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/SHIRA_FUNNY_300926/MASTER/SHIRA_FUNNY_300926_M/SHIRA_FUNNY_300926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ניד דבורי על כך שגבורתם של הנוסעים הוא הסיפור האמיתי כאן ושבלעדיהם המטוס היה מתרסק. מתוך חדשות 12",
+   "duration_s": 34,
+   "first_seen_ms": 1790789846455,
+   "image": "https://img.mako.co.il/2026/09/30/inbaldvori300926m_1400_1790783016643_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790783023000,
+   "sections": [
+    "הפרשנים"
+   ],
+   "title": "גבורתם של הנוסעים הוא הסיפור האמיתי",
+   "type": "news",
+   "updated_ms": 1790783023000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbaldvori300926/MASTER/inbaldvori300926m/inbaldvori300926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm": {
    "author": "חדשות",
@@ -36168,9 +36186,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הנוסע שנטרל את הטייס חושף את רגעי האימה: \"היה ברור שמדובר בפיגוע\"",
-   "duration_s": 8,
+   "duration_s": 103,
    "first_seen_ms": 1790786546357,
-   "image": "https://img.mako.co.il/2026/09/30/herofixfixfix_1400_1790787311268_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/30/herooootrt_1400_1790789485991_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790786391000,
    "sections": [
@@ -36180,7 +36198,7 @@
    "type": "mivzakim",
    "updated_ms": 1790786391000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8410e0d9723f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/yaldaspre/yaldaspre_,550,850,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/herooootrt/herooootrt_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm": {
    "author": "מבזקים",
