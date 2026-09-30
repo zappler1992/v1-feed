@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790755648518,
+ "last_run_ms": 1790755948657,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2461,6 +2461,18 @@
    "section": "ספורט",
    "title": "אופטימית: התחזית לשובו של פייר קורנו"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-44a39d88151f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790755706798,
+   "content_type": "article",
+   "first_seen_ms": 1790755706798,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790755440000,
+   "section": "ספורט",
+   "title": "מחאה בקריית שלום: \"רוצים את יואב במכבי\""
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-4861a48b77cd0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3391,7 +3403,7 @@
    "indexnow_ms": 1790684848683,
    "published_ms": 1790684400000,
    "section": "תרבות tvbee",
-   "title": "השחקנית לא דיברה 30 שנה: \"הטראומה הכי גדולה\""
+   "title": "השחקנית מדברת על \"הטראומה הכי גדולה\""
   },
   "https://www.mako.co.il/culture-articles/Article-27750fc1e64d0a1026.htm": {
    "check_attempts": 1,
@@ -3464,6 +3476,18 @@
    "published_ms": 1790663880000,
    "section": "תרבות tvbee",
    "title": "בכיר בניו יורק טיימס נרצח. החשודים: הוריה של אשתו"
+  },
+  "https://www.mako.co.il/culture-articles/Article-4d5d9d88151f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790755826803,
+   "content_type": "article",
+   "first_seen_ms": 1790755826803,
+   "indexable": true,
+   "indexnow_ms": 1790755826803,
+   "published_ms": 1790755380000,
+   "section": "תרבות tvbee",
+   "title": "הבת של כוכבת העבר משגעת את המעריצים: \"קופי פייסט\""
   },
   "https://www.mako.co.il/culture-articles/Article-59196270638d0a1026.htm": {
    "check_attempts": 1,
