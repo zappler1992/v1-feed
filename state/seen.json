@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72a5b97d472f0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4c15b97d472f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-300d0a2c682f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34194,6 +34193,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f090b7dfc1f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_tisa_6657_30092026101401/V1_karind_tisa_6657_30092026101401_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-300d0a2c682f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "למטוסים ישראלים עדיין אין אישור לנחות בסעודיה, נוסעי טיסת פליי-דובאי מפחדים לעלות על טיסת החילוץ",
+   "duration_s": 53,
+   "first_seen_ms": 1790776046285,
+   "image": "https://img.mako.co.il/2026/09/30/V1_dean_6671_30092026013944_1400_1790775687742_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790775694000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "למטוסים ישראלים עדיין אין אישור לנחות בסעודיה, נוסעי טיסת פליי-דובאי מפחדים לעלות על טיסת החילוץ",
+   "type": "mivzakim",
+   "updated_ms": 1790775694000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-300d0a2c682f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_dean_6671_30092026013944/V1_dean_6671_30092026013944_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-31c6c0e1d0be0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -35678,18 +35695,18 @@
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7fb2b97d472f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "\"האירוע הזה ישנה את עולם התעופה\": הטייס הישראלי מסביר את המשמעות הדרמטית",
+   "description": "\"האירוע הזה ישנה את עולם התעופה\": הטייס הישראלי מסביר את המשמעות הדרמטית.",
    "duration_s": 57,
    "first_seen_ms": 1790775146296,
    "image": "https://img.mako.co.il/2026/09/30/V1_TAYAS_EXPLAIN_6669_30092026012718_1400_1790774922281_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1790774928000,
    "sections": [
     "מבזקים"
    ],
    "title": "\"האירוע הזה ישנה את עולם התעופה\": הטייס הישראלי מסביר את המשמעות הדרמטית",
    "type": "mivzakim",
-   "updated_ms": 1790774928000,
+   "updated_ms": 1790775780000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7fb2b97d472f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_TAYAS_EXPLAIN_6669_30092026012718/V1_TAYAS_EXPLAIN_6669_30092026012718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
