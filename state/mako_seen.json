@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790743649175,
+ "last_run_ms": 1790743948887,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5708,6 +5708,18 @@
    "published_ms": 1790074680000,
    "section": "בריאות",
    "title": "הזמינה מהמסעדה המוכרת ונדהמה: \"משהו זז בסלט\""
+  },
+  "https://www.mako.co.il/health-news/Article-8f41f4a1ce6e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790743948887,
+   "content_type": "article",
+   "first_seen_ms": 1790743948887,
+   "indexable": true,
+   "indexnow_ms": 1790743948887,
+   "published_ms": 1790676480000,
+   "section": "בריאות",
+   "title": "מחסור בוויטמין הזה עלול להחמיר מחלות"
   },
   "https://www.mako.co.il/health-news/Article-8f468b62579e0a1026.htm": {
    "check_attempts": 1,
