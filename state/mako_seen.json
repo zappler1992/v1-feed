@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790793749186,
+ "last_run_ms": 1790794065356,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -924,6 +924,18 @@
    "published_ms": 1790701140000,
    "section": "ספורט",
    "title": "סורקין חתם על חוזה חדש: זהו שכרו המשודרג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-1bfef89c893f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790793986838,
+   "content_type": "article",
+   "first_seen_ms": 1790793986838,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790793780000,
+   "section": "ספורט",
+   "title": "\"חרפה בהגנה ובהתקפה\": אוהדי מכבי מודאגים"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-258a549085dc0a1027.htm": {
    "check_attempts": 1,
@@ -12944,6 +12956,18 @@
    "published_ms": 1790669700000,
    "section": "",
    "title": "דרמה באוויר: הטיסה לארצות הברית חזרה לישראל"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-5f086a03f93f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790794065356,
+   "content_type": "article",
+   "first_seen_ms": 1790794065356,
+   "indexable": true,
+   "indexnow_ms": 1790794065356,
+   "published_ms": 1790793660000,
+   "section": "",
+   "title": "ההחלטה הדרמטית לגבי הטיסות של פליי דובאי"
   },
   "https://www.mako.co.il/travel-news/israel/Article-65bc19e77b7c0a1026.htm": {
    "check_attempts": 1,
