@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a4ba4a49d61f0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-09-30T08:30:30+00:00</news:publication_date>
+<news:title>בכיר ישראלי: טייס המשנה נחקר. גוברות האינדיקציות כי רצה להשתלט על המטוס ולרסק אותו עם הנוסעים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_karind_bachir_6638_30092026082925_1400_1790757022706_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d09996bca51f0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1664,14 +1673,5 @@
 <news:title>אהבה מעבר לפינה פרק 15: התירוץ המפתיע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/02/LOVE_CORNER_EP15_M_1400_1788331771718_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8c4addc6327e0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-28T08:32:30+00:00</news:publication_date>
-<news:title>הכוכב החדש של הספארי: תכירו את דני, הנמר הפרסי שנקרא על דני אבדיה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/28/FIX_SAFARI_1400_1790584997401_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
