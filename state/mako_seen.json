@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790760448755,
+ "last_run_ms": 1790764373200,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -409,6 +409,18 @@
    "section": "Fashion Forward",
    "title": "אושפיזין בסטייל: עינב בובליל במכנסיים מאוד לא שגרתיים ועקבים מטורפים"
   },
+  "https://fashionforward.mako.co.il/news/321025/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "post",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790760498000,
+   "section": "אופנה",
+   "title": "מריחים את הסתיו: מלי לוי בג'ינס הכי מחמיא שיש"
+  },
   "https://fashionforward.mako.co.il/news/321029/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -624,6 +636,18 @@
    "published_ms": 1790445120000,
    "section": "ספורט",
    "title": "איטודיס חשף: מה באמת קורה מול תמיר בלאט?"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-d4cb16ee8a1f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790761560000,
+   "section": "ספורט",
+   "title": "התקציב, ה-NBA וינאי: אדלסון מדבר על הכל"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-fbb548ed578d0a1026.htm": {
    "check_attempts": 1,
@@ -1296,6 +1320,18 @@
    "published_ms": 1790172120000,
    "section": "ספורט",
    "title": "פארקר בפאניקה: \"אנחנו לא מוכנים למכבי\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-e05789445d1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790764373200,
+   "content_type": "article",
+   "first_seen_ms": 1790764373200,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790764020000,
+   "section": "ספורט",
+   "title": "\"להיות רעים יותר\": תוכנית מכבי לבשיקטאש"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-e80e52f0c94d0a1027.htm": {
    "check_attempts": 1,
@@ -2341,6 +2377,18 @@
    "section": "ספורט",
    "title": "אוחנה ופרימו חשפו: הסיבות שסבע לא בנבחרת"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-faf180f90a1f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790760300000,
+   "section": "ספורט",
+   "title": "\"תאכלו להם את הראש\": הנאום של לוזון נחשף"
+  },
   "https://www.mako.co.il/Sports-football-il/national-league-q3_2026/Article-92fee2743c2e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3226,6 +3274,18 @@
    "published_ms": 1790618880000,
    "section": "ספורט",
    "title": "לא כבלם: ליסב עיסאת בהרכב רומניה לבוסניה"
+  },
+  "https://www.mako.co.il/Sports-football-world/q3_2026/Article-8b989fc91a1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790758260000,
+   "section": "ספורט",
+   "title": "\"הפר כלל קדוש\": לאמין הרתיח את אוהדיו"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-9b2f439504dd0a1027.htm": {
    "check_attempts": 1,
@@ -4363,7 +4423,7 @@
    "indexnow_ms": 1790757266952,
    "published_ms": 1790755260000,
    "section": "",
-   "title": "שעות לפני מותו: התיעוד האחרון של בנה של סינדי קרופורד"
+   "title": "שעות לפני מותו: התיעוד האחרון של פרסלי גרבר"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-7ed0a77b4ebe0a1026.htm": {
    "check_attempts": 1,
@@ -5433,6 +5493,18 @@
    "section": "",
    "title": "המרק הזה קל בצורה מביכה והוא מושלם לכל שעה"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-3333caa6461f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "recipe",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790757480000,
+   "section": "הכי חם",
+   "title": "המאפים הגבינתיים האלה ייעלמו מהתבנית עוד לפני שיוגשו"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-6760972fb08c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6020,6 +6092,18 @@
    "published_ms": 1790705700000,
    "section": "",
    "title": "איבד הכרה בגובה 55 מטרים בקריית ביאליק - וחולץ בחבלים"
+  },
+  "https://www.mako.co.il/health-news/Article-b30d5793a71f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790757900000,
+   "section": "בריאות",
+   "title": "החפץ היה תקוע בין מיתרי הקול של התינוק ימים"
   },
   "https://www.mako.co.il/health-news/Article-c2e14ed8aba80a1026.htm": {
    "check_attempts": 1,
@@ -7003,7 +7087,7 @@
    "indexnow_ms": 1790755466845,
    "published_ms": 1790754000000,
    "section": "עיצוב הבית",
-   "title": "זאת נראית מנורה רגילה – עד שמדליקים את האור"
+   "title": "זאת נראית מנורה רגילה - עד שמדליקים את האור"
   },
   "https://www.mako.co.il/living-architecture/local/Article-bdd31680eee90a1026.htm": {
    "check_attempts": 1,
@@ -8097,6 +8181,18 @@
    "section": "פלילים",
    "title": "ישראלי שלח מזוודה עם גת לקפריסין - ולא חשב שכך יסתבך"
   },
+  "https://www.mako.co.il/men-men_news/Article-6b2c0b7dfc1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790763420000,
+   "section": "פלילים",
+   "title": "תעלומת המוות התגלתה כרצח: יונית נדקרה על ידי בן זוגה"
+  },
   "https://www.mako.co.il/men-men_news/Article-7250bdf8669e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8168,6 +8264,18 @@
    "published_ms": 1790514420000,
    "section": "פלילים",
    "title": "נשלח לבידוד: ראש ארגון הפשע הסתבך בכלא"
+  },
+  "https://www.mako.co.il/men-men_news/Article-8b251a31aa1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790761140000,
+   "section": "פלילים",
+   "title": "\"הם מסוכנים, הדור הבא של העבריינים בעיר\""
   },
   "https://www.mako.co.il/men-men_news/Article-8ceb8a82a5fd0a1027.htm": {
    "check_attempts": 1,
@@ -8792,6 +8900,18 @@
    "published_ms": 1790254800000,
    "section": "מוזיקה",
    "title": "מה נזכרתם? המדינה שנטפלת לנועם בתן"
+  },
+  "https://www.mako.co.il/music-news/Article-78325c70bb1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790762340000,
+   "section": "מוזיקה",
+   "title": "חומרים בשווי מיליונים: תביעת הענק של האחים גלאגר"
   },
   "https://www.mako.co.il/music-news/Article-7ceafffe5fce0a1026.htm": {
    "check_attempts": 1,
@@ -9895,7 +10015,19 @@
    "indexnow_ms": 1790755349857,
    "published_ms": 1790754360000,
    "section": "",
-   "title": "בזמן שכל המדינה הייתה במתח - יש מי שבחר לעשות את זה"
+   "title": "אם זה מה שקרה בתוך המטוס, אז עם ישראל באמת חי"
+  },
+  "https://www.mako.co.il/nexter-news/Article-eaca1a31aa1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790760900000,
+   "section": "דיגיטל",
+   "title": "המפגש של דונלד טראמפ עם האנשים החזקים בעולם"
   },
   "https://www.mako.co.il/nexter-news/Article-ec0b004c242e0a1026.htm": {
    "check_attempts": 1,
@@ -10257,6 +10389,18 @@
    "section": "גאווה",
    "title": "זעם בטורקיה ובאירופה בעקבות הצעדים של ארדואן"
   },
+  "https://www.mako.co.il/pzm-magazine/Article-14b49fc91a1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790761140000,
+   "section": "צבא וביטחון",
+   "title": "פרטים חדשים על המבצע הנועז להשמדת המתקן האיראני"
+  },
   "https://www.mako.co.il/pzm-magazine/Article-15c9fffe5fce0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10591,7 +10735,7 @@
    "indexnow_ms": 1790742627349,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "עם נשק \"יום הדין\": באירופה מתכוננים למתקפה רוסית"
+   "title": "המעצמה שתרגלה את \"נשק יום הדין\" בתרחיש קיצון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -11529,6 +11673,18 @@
    "section": "חופש",
    "title": "עשרות ישראלים תקועים, חלקם זקוקים לטיפול רפואי"
   },
+  "https://www.mako.co.il/travel-news/Article-0c661eba5c1f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790763300000,
+   "section": "",
+   "title": "טיסה נוספת מדובאי לת\"א הסתובבה באוויר"
+  },
   "https://www.mako.co.il/travel-news/Article-108b528294fd0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11635,7 +11791,7 @@
    "indexnow_ms": 1790749707620,
    "published_ms": 1790749440000,
    "section": "",
-   "title": "היה עלול להסתיים באסון כבד: החשד שנבדק בישראל"
+   "title": "מסתמן: הטייסים התקוטטו – אות מצוקה שודר"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
@@ -11937,6 +12093,18 @@
    "section": "",
    "title": "מביך: \"זה קורה תמיד בקו לישראל, לא במקומות אחרים\""
   },
+  "https://www.mako.co.il/travel-news/international/Article-5a3fc4bd8c1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790762760000,
+   "section": "",
+   "title": "הטייס שכוב על הרצפה כשהוא מגואל בדם"
+  },
   "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11948,6 +12116,18 @@
    "published_ms": 1790236320000,
    "section": "חופש",
    "title": "נמשכים החיפושים אחר הישראלי שנעלם ביוון"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-61a580f90a1f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790764227062,
+   "content_type": "article",
+   "first_seen_ms": 1790764227062,
+   "indexable": true,
+   "indexnow_ms": 1790764227062,
+   "published_ms": 1790759880000,
+   "section": "",
+   "title": "\"זה היה מחבל ולא ריב - תחלצו אותנו מפה\""
   },
   "https://www.mako.co.il/travel-news/international/Article-662ce65b3adc0a1027.htm": {
    "check_attempts": 1,
@@ -12559,7 +12739,7 @@
    "indexnow_ms": 1790738667135,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "\"היו שם עינויים של שבירת עצמות וכריתת אצבעות\""
+   "title": "\"היו ביחידה מכות רצח, זאת הרמה של המגע בעזה\""
   },
   "https://www.mako.co.il/tv-special/Article-e81fda42861e0a1027.htm": {
    "check_attempts": 1,
