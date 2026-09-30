@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790782349106,
+ "last_run_ms": 1790782650283,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -12679,7 +12679,7 @@
    "indexnow_ms": 1790769267310,
    "published_ms": 1790768820000,
    "section": "",
-   "title": "המוסד אישר את צוות המטוס, טיסת החילוץ בדרך לישראל"
+   "title": "אחרי שישראלים סירבו לעלות: המוסד אישר את הצוות המטוס"
   },
   "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
    "check_attempts": 1,
@@ -12728,6 +12728,18 @@
    "published_ms": 1790069520000,
    "section": "חופש",
    "title": "אחרי שקיבלה איומים מארדואן: הבשורה המשמחת לתומכת ישראל"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-2eda49263d2f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790782587473,
+   "content_type": "article",
+   "first_seen_ms": 1790782587473,
+   "indexable": true,
+   "indexnow_ms": 1790782587473,
+   "published_ms": 1790782200000,
+   "section": "",
+   "title": "נוסעי טיסת הבלהות של פליי-דובאי נחתו בארץ"
   },
   "https://www.mako.co.il/travel-news/israel/Article-4693f069184e0a1026.htm": {
    "check_attempts": 1,
