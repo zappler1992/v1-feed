@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790748149204,
+ "last_run_ms": 1790748448981,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5637,6 +5637,18 @@
    "section": "בריאות",
    "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
   },
+  "https://www.mako.co.il/health-news/Article-315fac880c1d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790748387478,
+   "content_type": "article",
+   "first_seen_ms": 1790748387478,
+   "indexable": true,
+   "indexnow_ms": 1790748387478,
+   "published_ms": 1790748060000,
+   "section": "בריאות",
+   "title": "הצעירה התעוררה מתרדמת אחרי חודשים"
+  },
   "https://www.mako.co.il/health-news/Article-34e8f49f57ce0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10185,6 +10197,18 @@
    "section": "",
    "title": "בזירות מרוחקות: פרטים חדשים על פעילות חיל הים"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-72b227014c0f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790748387478,
+   "content_type": "article",
+   "first_seen_ms": 1790748387478,
+   "indexable": true,
+   "indexnow_ms": 1790748387478,
+   "published_ms": 1790746980000,
+   "section": "צבא וביטחון",
+   "title": "ארה\"ב יוצאת, איראן נכנסת? המהלך הדרמטי באזור"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10243,7 +10267,7 @@
    "indexnow_ms": 1790742627349,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "עם נשק \"יום הדין\": באירופה מתכוננים למתקפה רוסית"
+   "title": "המעצמה שתרגלה את \"נשק יום הדין\" בתרחיש קיצון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
