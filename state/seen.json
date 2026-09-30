@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b874e0d9723f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fc1beb17533f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -36054,10 +36054,10 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הנוסע שנטרל את הטייס חושף את רגעי האימה: \"היה ברור שמדובר בפיגוע\"",
-   "duration_s": 73,
+   "duration_s": 103,
    "first_seen_ms": 1790786546357,
-   "image": "https://img.mako.co.il/2026/09/30/V1_heromatos_6685_30092026043751_1400_1790786384447_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/09/30/herofixfixfix_1400_1790787311268_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1790786391000,
    "sections": [
     "מבזקים"
@@ -36066,7 +36066,7 @@
    "type": "mivzakim",
    "updated_ms": 1790786391000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8410e0d9723f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_heromatos_6685_30092026043751/V1_heromatos_6685_30092026043751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/herofixfixfix/herofixfixfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm": {
    "author": "מבזקים",
@@ -37290,7 +37290,7 @@
    ],
    "title": "הם בבית! טיסת החילוץ של פליי-דובאי מסעודיה נחתה בשלום בשדה התעופה בן גוריון",
    "type": "mivzakim",
-   "updated_ms": 1790784180000,
+   "updated_ms": 1790787300000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c5c7c736fe2f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/biata_landing_mivfix2/biata_landing_mivfix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -38323,6 +38323,24 @@
    "updated_ms": 1790755578000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fa849d88151f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_zamir_6635_30092026080436/V1_karind_zamir_6635_30092026080436_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fc1beb17533f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר בן 51 שנחת בטיסת פליי דובאי פונה לבית חולים במצב קל עם חבלות בפלג הגוף העליון",
+   "duration_s": 9,
+   "first_seen_ms": 1790787447357,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16537_30092026045137_1400_1790787177944_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790787184000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר בן 51 שנחת בטיסת פליי דובאי פונה לבית חולים במצב קל עם חבלות בפלג הגוף העליון",
+   "type": "mivzakim",
+   "updated_ms": 1790787184000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fc1beb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16537_30092026045137/M_NEWS_16537_30092026045137_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fd59ff6820de0a1026.htm": {
    "author": "מבזקים",
