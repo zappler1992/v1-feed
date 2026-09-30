@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2dd5384bdd2f0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6e95836ce2f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0133c736fe2f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9532c736fe2f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33533,6 +33533,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0067ecd3610f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16472_30092026030529/M_NEWS_16472_30092026030529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0133c736fe2f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"עוד אבינו חי!\": החגיגות במטוס החילוץ - ברגע הנחיתה בחזרה בישראל",
+   "duration_s": 4,
+   "first_seen_ms": 1790783246339,
+   "image": "https://img.mako.co.il/2026/09/30/V1_avinu_6678_30092026034348_1400_1790783091363_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790783097000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"עוד אבינו חי!\": החגיגות במטוס החילוץ - ברגע הנחיתה בחזרה בישראל",
+   "type": "mivzakim",
+   "updated_ms": 1790783097000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-0133c736fe2f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_avinu_6678_30092026034348/V1_avinu_6678_30092026034348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-02ddf4a1ce6e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -36284,6 +36302,24 @@
    "updated_ms": 1790519165000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-93efc204933e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_car_6531_27092026022439/V1_car_6531_27092026022439_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9532c736fe2f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשירת \"עוד יותר טוב\": הנוסעים הנרגשים ברגע החזרה לישראל",
+   "duration_s": 50,
+   "first_seen_ms": 1790783246339,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16529_30092026034149_1400_1790783021031_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790783027000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשירת \"עוד יותר טוב\": הנוסעים הנרגשים ברגע החזרה לישראל",
+   "type": "mivzakim",
+   "updated_ms": 1790783027000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-9532c736fe2f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16529_30092026034149/M_NEWS_16529_30092026034149_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-95956c93aa2f0a1027.htm": {
    "author": "מבזקים",
