@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b020ee0f842f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5376ee0f842f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34878,6 +34878,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5376c62ec41f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_itaabdut_6634_30092026075937/V1_karind_itaabdut_6634_30092026075937_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5376ee0f842f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חלק מהנוסעים הישראלים מסרבים לעלות על טיסת החילוץ לארץ",
+   "duration_s": 6,
+   "first_seen_ms": 1790772446567,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16515_30092026124347_1400_1790772297532_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790772304000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חלק מהנוסעים הישראלים מסרבים לעלות על טיסת החילוץ לארץ",
+   "type": "mivzakim",
+   "updated_ms": 1790772304000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5376ee0f842f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16515_30092026124347/M_NEWS_16515_30092026124347_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-556b898fd02f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -47859,7 +47877,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-9ffcf46e1d8c0a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "הקסם של פרק סיום העונה - שהשאיר את סקאזי בהלם",
+   "description": "הקסם של פרק סיום העונה - שהשאיר את סקאזי בהלם.",
    "duration_s": 107,
    "first_seen_ms": 1790686646045,
    "image": "https://img.mako.co.il/2026/09/22/lior_majik_SKAZY_1400_1790075781332_FirstFrame.jpg",
@@ -47870,7 +47888,7 @@
    ],
    "title": "הקסם שהשאיר את הדיג'יי המפורסם בהלם",
    "type": "general",
-   "updated_ms": 1790691180000,
+   "updated_ms": 1790772300000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-9ffcf46e1d8c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/lior_majik_SKAZY/MASTER/lior_majik_SKAZY/lior_majik_SKAZY_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
