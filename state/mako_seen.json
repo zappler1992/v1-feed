@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790765848762,
+ "last_run_ms": 1790766148860,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2520,6 +2520,18 @@
    "published_ms": 1790681400000,
    "section": "ספורט",
    "title": "שחקני מכבי ת\"א המומים: \"כולנו עם יואב\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-306bb9c75f1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790766148860,
+   "content_type": "article",
+   "first_seen_ms": 1790766148860,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790765940000,
+   "section": "ספורט",
+   "title": "\"הגישה שלי לא הייתה טובה מספיק לחיפה\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-3baa307e92dc0a1027.htm": {
    "check_attempts": 1,
