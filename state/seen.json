@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-12c734de3f3f0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f8aceb17533f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3158,7 +3158,9 @@
    "image": "https://img.mako.co.il/2026/09/30/inbalpre300926m_1400_1790790271246_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1790790278000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "שעות לפני מותו: התיעוד האחרון של הבן של סינדי קרופורד ממכון הגמילה",
    "type": "general",
    "updated_ms": 1790790278000,
@@ -9813,6 +9815,24 @@
    "updated_ms": 1790573580000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-e67f4abccb2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_SINGER_27092026/MASTER/ASAF_SINGER_27092026_M/ASAF_SINGER_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f8aceb17533f0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חברת Six Flags הודיעה כי תסגור לצמיתות את רכבת ההרים המפורסמת X2, כחודש לאחר תחקיר CNN שחשף שורת דיווחים על פציעות קשות ואף מקרי מוות הקשורים למתקן.",
+   "duration_s": 37,
+   "first_seen_ms": 1790801545745,
+   "image": "https://img.mako.co.il/2026/09/30/rinat_rollercoaster_30092026_m_1400_1790787486354_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790787492000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "אחרי התלונות על מקרי מוות ונזק מוחי: סיקס סוגרים את רכבת ההרים המפורסמת",
+   "type": "general",
+   "updated_ms": 1790787492000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f8aceb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/rinat_rollercoaster_30092026/MASTER/rinat_rollercoaster_30092026_m/rinat_rollercoaster_30092026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
@@ -36303,7 +36323,8 @@
    "importance": 2,
    "published_ms": 1790786391000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "הנוסע שנטרל את הטייס חושף את רגעי האימה: \"היה ברור שמדובר בפיגוע\"",
    "type": "mivzakim",
