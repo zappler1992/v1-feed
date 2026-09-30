@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790777548786,
+ "last_run_ms": 1790777849108,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -11492,6 +11492,18 @@
    "published_ms": 1790254800000,
    "section": "",
    "title": "\"גדי איזנקוט ואני יכולנו להיות חברים\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-45704a49d61f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-45704a49d61f0a1026.htm",
+   "checked_ms": 1790777666993,
+   "content_type": "article",
+   "first_seen_ms": 1790777666993,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790777520000,
+   "section": "",
+   "title": "עימות חריף בין רגב לראש השב\"כ על הפסקת הטיסות מדובאי"
   },
   "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
    "check_attempts": 1,
