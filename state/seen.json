@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-42b449263d2f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c01e384bdd2f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2dd5384bdd2f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6e95836ce2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9624,7 +9624,9 @@
    "image": "https://img.mako.co.il/2026/09/30/SHIRA_DRESS_300926_M_1400_1790762677660_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790766360000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "עשויה כולה מבלונים: זו השמלה הכי הזויה ומיוחדת שתראו",
    "type": "general",
    "updated_ms": 1790766360000,
@@ -34243,6 +34245,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2bf2e52c803e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_matosmcam_6529_27092026013209/V1_matosmcam_6529_27092026013209_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2dd5384bdd2f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טיסת החילוץ עומדת לנחות, בני המשפחה נכנסים לטרמינל",
+   "duration_s": 8,
+   "first_seen_ms": 1790782346364,
+   "image": "https://img.mako.co.il/2026/09/30/V1_family_6677_30092026032508_1400_1790781996365_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790782003000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טיסת החילוץ עומדת לנחות, בני המשפחה נכנסים לטרמינל",
+   "type": "mivzakim",
+   "updated_ms": 1790782003000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2dd5384bdd2f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_family_6677_30092026032508/V1_family_6677_30092026032508_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f090b7dfc1f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -37944,6 +37964,24 @@
    "updated_ms": 1790692677000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6a0b23529de0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHIR_LEBANON_6603_29092026023638/V1_SHIR_LEBANON_6603_29092026023638_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6e95836ce2f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"זמן נחיתה 18:25\": לוח הטיסות בנתב\"ג התעדכן",
+   "duration_s": 9,
+   "first_seen_ms": 1790782346364,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16527_30092026032516_1400_1790781996329_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790782002000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"זמן נחיתה 18:25\": לוח הטיסות בנתב\"ג התעדכן",
+   "type": "mivzakim",
+   "updated_ms": 1790782002000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f6e95836ce2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16527_30092026032516/M_NEWS_16527_30092026032516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-f730e2743c2e0a1027.htm": {
    "author": "מבזקים",
