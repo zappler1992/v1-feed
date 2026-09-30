@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790758348818,
+ "last_run_ms": 1790758648707,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -408,6 +408,18 @@
    "published_ms": 1790677190000,
    "section": "Fashion Forward",
    "title": "אושפיזין בסטייל: עינב בובליל במכנסיים מאוד לא שגרתיים ועקבים מטורפים"
+  },
+  "https://fashionforward.mako.co.il/news/321029/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790758587046,
+   "content_type": "article",
+   "first_seen_ms": 1790758587046,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790758107000,
+   "section": "Fashion Forward",
+   "title": "רומי פרנקל נראית וואו בלוק בייסיקי לכאורה, אבל הנעליים הן יציאה מטורפת"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -3417,6 +3429,18 @@
    "section": "",
    "title": "הכוכבת שנעצרה בהפגנה נגד נתניהו מגיבה"
   },
+  "https://www.mako.co.il/culture-articles/Article-24f1892fd61f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790758467082,
+   "content_type": "article",
+   "first_seen_ms": 1790758467082,
+   "indexable": true,
+   "indexnow_ms": 1790758467082,
+   "published_ms": 1790757420000,
+   "section": "תרבות tvbee",
+   "title": "בתו של השחקן מתה בגיל 13: \"האור של חיינו\""
+  },
   "https://www.mako.co.il/culture-articles/Article-267288a6c47e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -3511,7 +3535,7 @@
    "indexnow_ms": 1790755826803,
    "published_ms": 1790755380000,
    "section": "תרבות tvbee",
-   "title": "הבת של כוכבת העבר משגעת את המעריצים: \"קופי פייסט\""
+   "title": "התמונה של כוכבת העבר משגעת את המעריצים: \"קופי פייסט\""
   },
   "https://www.mako.co.il/culture-articles/Article-59196270638d0a1026.htm": {
    "check_attempts": 1,
@@ -7533,6 +7557,18 @@
    "section": "פלילים",
    "title": "הסולחה המפתיעה של ראשי ארגוני הפשע בצפון"
   },
+  "https://www.mako.co.il/men-men_news/Article-0c0a5793a71f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790758587046,
+   "content_type": "article",
+   "first_seen_ms": 1790758587046,
+   "indexable": true,
+   "indexnow_ms": 1790758587046,
+   "published_ms": 1790757720000,
+   "section": "פלילים",
+   "title": "שכנים התלוננו על רעש ולכלוך - וזה מה שנחשף בדירה בנשר"
+  },
   "https://www.mako.co.il/men-men_news/Article-0f3f696cdc1e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10435,7 +10471,7 @@
    "indexnow_ms": 1790748387478,
    "published_ms": 1790746980000,
    "section": "צבא וביטחון",
-   "title": "ארה\"ב יוצאת, איראן נכנסת? המהלך הדרמטי באזור"
+   "title": "חשש במדינה שכנה: \"לא נצליח לבלום את האיראנים\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
@@ -11156,6 +11192,18 @@
    "published_ms": 1790577600000,
    "section": "",
    "title": "למדה לקח מאיראן: המעצמה שמתכוננת למלחמה עם ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-dc5c84b5ceee0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-dc5c84b5ceee0a1026.htm",
+   "checked_ms": 1790758648707,
+   "content_type": "article",
+   "first_seen_ms": 1790758648707,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790752680000,
+   "section": "חדשות",
+   "title": "בלי מילה על ישראל: ממדאני הציג תוכנית נגד אנטישמיות"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,
