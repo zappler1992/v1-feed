@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-a50427014c0f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae0447a94d0f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-71ad82289d0f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34579,6 +34580,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16259_27092026062222/M_NEWS_16259_27092026062222_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-71ad82289d0f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טיסה של פליי דובאי בדרך לישראל הכריזה על מצב חירום - וככל הנראה לא תנחת בנתב\"ג",
+   "duration_s": 9,
+   "first_seen_ms": 1790747846578,
+   "image": "https://img.mako.co.il/2026/09/30/V1_KARIND_FLYDUBAI_6622_30092026055027_1400_1790747492012_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790747502000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טיסה של פליי דובאי בדרך לישראל הכריזה על מצב חירום - וככל הנראה לא תנחת בנתב\"ג",
+   "type": "mivzakim",
+   "updated_ms": 1790747502000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-71ad82289d0f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_KARIND_FLYDUBAI_6622_30092026055027/V1_KARIND_FLYDUBAI_6622_30092026055027_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72987ef5342e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -35299,6 +35318,24 @@
    "updated_ms": 1790541658000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ad14cb9ed84e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16339_27092026083936/M_NEWS_16339_27092026083936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae0447a94d0f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ ובכירי תעשיית הטכנולוגיה בהסכם חדש: פיקוח עצמי על פיתוח הבינה המלאכותית",
+   "duration_s": 9,
+   "first_seen_ms": 1790747846578,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_trump_300926_6623_30092026055146_1400_1790747590577_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790747600000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ ובכירי תעשיית הטכנולוגיה בהסכם חדש: פיקוח עצמי על פיתוח הבינה המלאכותית",
+   "type": "mivzakim",
+   "updated_ms": 1790747600000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae0447a94d0f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_trump_300926_6623_30092026055146/V1_karind_trump_300926_6623_30092026055146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae69fb7f721e0a1027.htm": {
    "author": "מבזקים",
