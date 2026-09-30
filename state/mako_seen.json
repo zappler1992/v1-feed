@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790753848570,
+ "last_run_ms": 1790754148426,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -10339,7 +10339,7 @@
    "indexnow_ms": 1790742627349,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "המעצמה שתרגלה את \"נשק יום הדין\" בתרחיש קיצון"
+   "title": "עם נשק \"יום הדין\": באירופה מתכוננים למתקפה רוסית"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -11300,6 +11300,30 @@
    "published_ms": 1790703180000,
    "section": "",
    "title": "אחרי ימים של סכנה: הישראלים באזור הלחימה חולצו בשלום"
+  },
+  "https://www.mako.co.il/travel-news/Article-58be759d221f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-58be759d221f0a1026.htm",
+   "checked_ms": 1790754148426,
+   "content_type": "article",
+   "first_seen_ms": 1790754148426,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790753280000,
+   "section": "",
+   "title": "\"גילינו שאמא על המטוס\": הדרמה בטיסה שנחתה בסעודיה"
+  },
+  "https://www.mako.co.il/travel-news/Article-624982289d0f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790754026776,
+   "content_type": "article",
+   "first_seen_ms": 1790754026776,
+   "indexable": true,
+   "indexnow_ms": 1790754026776,
+   "published_ms": 1790747580000,
+   "section": "חדשות",
+   "title": "26 שעות באוויר: הסיוט שעבר על הנוסעים למיאמי"
   },
   "https://www.mako.co.il/travel-news/Article-69de9995c53e0a1026.htm": {
    "check_attempts": 1,
