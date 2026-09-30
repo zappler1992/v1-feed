@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6da4630b021f0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/30/V1_karind_rusi_300926_6632_30092026071221_1400_1790752419907_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>דין פישר מסביר: הקטטת טייסים הייתה בין טייס אוקראיני לטייס רוסי</video:title>
+<video:description>דין פישר מסביר: הקטטת טייסים הייתה בין טייס אוקראיני לטייס רוסי</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_rusi_300926_6632_30092026071221/V1_karind_rusi_300926_6632_30092026071221_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>39</video:duration>
+<video:publication_date>2026-09-30T07:13:54+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fef6832411f0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/30/V1_COCKPIT_6631_30092026065800_1400_1790751563945_FirstFrame.jpg</video:thumbnail_loc>
@@ -161,6 +177,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-2a1747a94d0f0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/30/inbie_FIFA_300926_1400_1790747882859_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>באג מביך במשחק EA FC27: שחקניות ומאמנות מופיעות במשחק בהלבשה תחתונה</video:title>
+<video:description>משחק הכדורגל החדש EA FC27 בקושי הושק, וכבר השחקנים נתקלים בבאג ביזארי במיוחד: תקלה מוזרה גורמת לשחקניות, ולפעמים אפילו למאמנות על הקווים, להופיע על המגרש, בחדרי ההלבשה ובראיונות כשהן לבושות בהלבשה תחתונה ובחזיות ספורט במקום במדי הקבוצה. הבעיה המביכה צצה כבר בשלב הגישה המוקדמת למשחק והובילה לגל של ממים ותגובות ברשתות החברתיות, אבל נכון לעכשיו חברת EA עדיין לא סיפקה הסבר או פתרון רשמי לתקלה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbie_FIFA_300926/MASTER/inbie_FIFA_300926/inbie_FIFA_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>12</video:duration>
+<video:publication_date>2026-09-30T05:58:09+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>טכנולוגיה</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>טכנולוגיה</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae0447a94d0f0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/30/V1_karind_trump_300926_6623_30092026055146_1400_1790747590577_FirstFrame.jpg</video:thumbnail_loc>
@@ -253,6 +286,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
@@ -303,6 +337,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

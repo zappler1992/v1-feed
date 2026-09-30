@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fef6832411f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6da4630b021f0a1027.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-2a1747a94d0f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4652,7 +4653,9 @@
    "image": "https://img.mako.co.il/2026/09/30/fix_pididi_1400_1790745531056_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790744063000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מקבל הטבות - ומשלם אלפי דולרים בחודש: תיעוד נדיר של פי דידי עם טלפון בכלא",
    "type": "mivzakim",
    "updated_ms": 1790745540000,
@@ -34615,6 +34618,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6d984aa69e2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_KARIND_IRAN_6527_27092026124824/V1_KARIND_IRAN_6527_27092026124824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6da4630b021f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דין פישר מסביר: הקטטת טייסים הייתה בין טייס אוקראיני לטייס רוסי",
+   "duration_s": 39,
+   "first_seen_ms": 1790752646696,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_rusi_300926_6632_30092026071221_1400_1790752419907_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790752434000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דין פישר מסביר: הקטטת טייסים הייתה בין טייס אוקראיני לטייס רוסי",
+   "type": "mivzakim",
+   "updated_ms": 1790752434000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-6da4630b021f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_rusi_300926_6632_30092026071221/V1_karind_rusi_300926_6632_30092026071221_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-70c9adf9881e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49313,6 +49334,24 @@
    "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w04/shorts-f2bb20f2fedb0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/20/AVISHAI_AI_2009/MASTER/AVISHAI_AI_2009_M/AVISHAI_AI_2009_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-2a1747a94d0f0a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "משחק הכדורגל החדש EA FC27 בקושי הושק, וכבר השחקנים נתקלים בבאג ביזארי במיוחד: תקלה מוזרה גורמת לשחקניות, ולפעמים אפילו למאמנות על הקווים, להופיע על המגרש, בחדרי ההלבשה ובראיונות כשהן לבושות בהלבשה תחתונה ובחזיות ספורט במקום במדי הקבוצה. הבעיה המביכה צצה כבר בשלב הגישה המוקדמת למשחק והובילה לגל של ממים ותגובות ברשתות החברתיות, אבל נכון לעכשיו חברת EA עדיין לא סיפקה הסבר או פתרון רשמי לתקלה.",
+   "duration_s": 12,
+   "first_seen_ms": 1790752646696,
+   "image": "https://img.mako.co.il/2026/09/30/inbie_FIFA_300926_1400_1790747882859_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790747889000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "באג מביך במשחק EA FC27: שחקניות ומאמנות מופיעות במשחק בהלבשה תחתונה",
+   "type": "general",
+   "updated_ms": 1790747889000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-2a1747a94d0f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbie_FIFA_300926/MASTER/inbie_FIFA_300926/inbie_FIFA_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-c035350e27de0a1026.htm": {
    "author": "טכנולוגיה",
    "date_source": "json-publishDate",
@@ -54702,7 +54741,8 @@
    "importance": 0,
    "published_ms": 1790742953000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "רגעי אימה בלונה פארק המפורסם: נתקעו ב-90 מעלות על רכבת ההרים המפחידה באוסטין",
    "type": "mivzakim",
