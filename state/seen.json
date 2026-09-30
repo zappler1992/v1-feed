@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e34eb17533f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27c5eb17533f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4b5eb17533f0a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-69a3659b672f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11460,7 +11462,9 @@
    "image": "https://img.mako.co.il/2026/09/27/GROWING_WAVES_2_EP46_1400_1790505036841_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790780280000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "כשהגלים מתחזקים 2 פרק 46: בקרוב אצלם",
    "type": "series",
    "updated_ms": 1790780340000,
@@ -20172,6 +20176,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-673d349aecbe0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_kotel_290926_fix/biata_kotel_290926_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-69a3659b672f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "במהלך אירוע חריג במטוס, שודר קוד שמעיד על חטיפת מטוס, \nפרוטוקול הפעולה המלא חסוי אבל הנה שלבי הפעולה המרכזיים שלו",
+   "duration_s": 78,
+   "first_seen_ms": 1790789546488,
+   "image": "https://img.mako.co.il/2026/09/30/rinat_protocol_300926_m_1400_1790775073791_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790775080000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "ראש הממשלה מחליט אם ליירט את מטוס הנוסעים: כך נראה פרוטוקול חטיפת טיסה",
+   "type": "news",
+   "updated_ms": 1790775080000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-69a3659b672f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/rinat_protocol_300926/MASTER/rinat_protocol_300926_m/rinat_protocol_300926_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-6b898d6244ce0a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -20627,7 +20649,9 @@
    "image": "https://img.mako.co.il/2026/09/30/SHIRA_AMERICA_300926_M_1400_1790775631091_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790775637000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "אמריקה מתעוררת לדרמה: כך נראים הדיווחים על טיסת פליי דובאי ברשתות הגדולות",
    "type": "news",
    "updated_ms": 1790775637000,
@@ -34203,6 +34227,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-277059ee0d6e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/V1_karind_shabahim_6556_28092026070741/V1_karind_shabahim_6556_28092026070741_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27c5eb17533f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בישראל בוחנים האם המחבל תכנן לרסק את המטוס בתוך שטח ישראל",
+   "duration_s": 17,
+   "first_seen_ms": 1790789546488,
+   "image": "https://img.mako.co.il/2026/09/30/V1_crash_6689_30092026052608_1400_1790789242239_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790789249000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בישראל בוחנים האם המחבל תכנן לרסק את המטוס בתוך שטח ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1790789249000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27c5eb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_crash_6689_30092026052608/V1_crash_6689_30092026052608_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -36126,7 +36168,7 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הנוסע שנטרל את הטייס חושף את רגעי האימה: \"היה ברור שמדובר בפיגוע\"",
-   "duration_s": 103,
+   "duration_s": 8,
    "first_seen_ms": 1790786546357,
    "image": "https://img.mako.co.il/2026/09/30/herofixfixfix_1400_1790787311268_FirstFrame.jpg",
    "importance": 2,
@@ -36138,7 +36180,7 @@
    "type": "mivzakim",
    "updated_ms": 1790786391000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8410e0d9723f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/herofixfixfix/herofixfixfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/yaldaspre/yaldaspre_,550,850,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8616f8274ace0a1027.htm": {
    "author": "מבזקים",
@@ -38051,6 +38093,24 @@
    "updated_ms": 1790702107000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e42ebe8922ee0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHIR_GADI1_6608_29092026051322/V1_SHIR_GADI1_6608_29092026051322_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4b5eb17533f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "״מקצוען גם בגובה רב״: הישראלים מפרגנים בדירוג בגוגל לד״ר שוטה שטיפל בפצועים בטיסה",
+   "duration_s": 9,
+   "first_seen_ms": 1790789546488,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16541_30092026052517_1400_1790789199947_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790789206000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "״מקצוען גם בגובה רב״: הישראלים מפרגנים בדירוג בגוגל לד״ר שוטה שטיפל בפצועים בטיסה",
+   "type": "mivzakim",
+   "updated_ms": 1790789206000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4b5eb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16541_30092026052517/M_NEWS_16541_30092026052517_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e4d153ec548e0a1026.htm": {
    "author": "מבזקים",
