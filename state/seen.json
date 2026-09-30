@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ba460897e83f0a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-b1e1e7ab404f0a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f00796995c3f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9725,6 +9726,22 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-b0e68b62579e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/ASAF_BABY_28092026/MASTER/ASAF_BABY_28092026_M/ASAF_BABY_28092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-b1e1e7ab404f0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שנה וחצי לפני שנדקר היום במהלך טיסת פליי דובאי, העניק הקברניט ההודי סמיט מצ'צ'אר ראיון מיוחד. הוא סיפר אז על התמודדות עם מצבי חירום והאחריות להצלת חיי הנוסעים. היום, לאחר שנפצע במהלך ניסיון ההשתלטות על המטוס, הראיון מקבל משמעות מצמררת.",
+   "duration_s": 30,
+   "first_seen_ms": 1790802145800,
+   "image": "https://img.mako.co.il/2026/09/30/rinat_hero_30092026_m_1400_1790801316810_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790801880000,
+   "sections": [],
+   "title": "גיבור הקוקפיט: הראיון של הטייס שנדקר והציל את הישראלים, לפני כשנה וחצי",
+   "type": "general",
+   "updated_ms": 1790801880000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-b1e1e7ab404f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/rinat_hero_30092026/MASTER/rinat_hero_30092026_m/rinat_hero_30092026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-ba50fc2346de0a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -9815,6 +9832,24 @@
    "updated_ms": 1790573580000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-e67f4abccb2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/ASAF_SINGER_27092026/MASTER/ASAF_SINGER_27092026_M/ASAF_SINGER_27092026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f00796995c3f0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "גל חדש של עדויות: סטודנטיות באוניברסיטת קורנל משתפות בחוויות של תקיפות מיניות, בעקבות פרשת האונס הקבוצתי בקמפוס. המתלוננות מעלות גם טענות בנוגע לאופן הטיפול בתלונות מצד האוניברסיטה.",
+   "duration_s": 64,
+   "first_seen_ms": 1790802145800,
+   "image": "https://img.mako.co.il/2026/09/30/rinat_metwo_30092026_m_1400_1790797910620_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790797917000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "גל מי טו חדש: נשים חושפות תקיפות מיניות בעקבות אונס קבוצתי באוניברסיטת קורנל",
+   "type": "general",
+   "updated_ms": 1790797917000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f00796995c3f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/rinat_metwo_30092026/MASTER/rinat_metwo_30092026_m/rinat_metwo_30092026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f8aceb17533f0a1026.htm": {
    "author": "מהעולם",
@@ -20598,7 +20633,7 @@
    "sections": [],
    "title": "גיבורי פליי דובאי: כך ניטרלנו את המחבל",
    "type": "news",
-   "updated_ms": 1790801640000,
+   "updated_ms": 1790802000000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ba460897e83f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/biata_allheroes_300926/MASTER/biata_allheroes_300926/biata_allheroes_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
