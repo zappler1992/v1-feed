@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-ae0447a94d0f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-71ad82289d0f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-159582289d0f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de6582289d0f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33475,6 +33475,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-143eb765294e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_loss_6543_27092026083854/V1_loss_6543_27092026083854_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-159582289d0f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מח\"ט גולני ללוחמים: \"בחודשים האחרונים שילמנו מחיר כבד, אך היישובים בגבול מנהלים שיגרה וחוגגים את החג",
+   "duration_s": 24,
+   "first_seen_ms": 1790748146605,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16479_30092026055822_1400_1790747978256_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790747984000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מח\"ט גולני ללוחמים: \"בחודשים האחרונים שילמנו מחיר כבד, אך היישובים בגבול מנהלים שיגרה וחוגגים את החג",
+   "type": "mivzakim",
+   "updated_ms": 1790747984000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-159582289d0f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16479_30092026055822/M_NEWS_16479_30092026055822_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-16d886b6e56e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -36039,6 +36057,24 @@
    "updated_ms": 1790519885000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de1e1acd743e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16319_27092026023642/M_NEWS_16319_27092026023642_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de6582289d0f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד ממצלמות הגוף של הלוחמים: כוחות צוות הקרב החטיבתי גולני יוצאים לריענון לאחר 7 חודשי פעילות בדרו",
+   "duration_s": 37,
+   "first_seen_ms": 1790748146605,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16478_30092026055748_1400_1790747969695_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790747976000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד ממצלמות הגוף של הלוחמים: כוחות צוות הקרב החטיבתי גולני יוצאים לריענון לאחר 7 חודשי פעילות בדרו",
+   "type": "mivzakim",
+   "updated_ms": 1790747976000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de6582289d0f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16478_30092026055748/M_NEWS_16478_30092026055748_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-de965accc0de0a1026.htm": {
    "author": "מבזקים",
