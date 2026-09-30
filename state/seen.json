@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3fcb407af81f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-289880f90a1f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a7967dc4991f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33789,6 +33790,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-27e5d5b45f0e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/HANIYEH_MFIX/HANIYEH_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-289880f90a1f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"עוד אבינו חי\": רגע נחיתת המטוס מדובאי לתל אביב - בסעודיה | צפו",
+   "duration_s": 9,
+   "first_seen_ms": 1790760445973,
+   "image": "https://img.mako.co.il/2026/09/30/V1_KARIND_KAPIIM_6645_30092026092306_1400_1790760251610_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790760258000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"עוד אבינו חי\": רגע נחיתת המטוס מדובאי לתל אביב - בסעודיה | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1790760258000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-289880f90a1f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_KARIND_KAPIIM_6645_30092026092306/V1_KARIND_KAPIIM_6645_30092026092306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2a1d74d40b0f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -35629,6 +35648,24 @@
    "updated_ms": 1790757030000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a4ba4a49d61f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_bachir_6638_30092026082925/V1_karind_bachir_6638_30092026082925_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a7967dc4991f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ניר דבורי מסביר: לא ברור אם מדובר בניסיון חטיפה, ריסוק המטוס או אירוע אובדני",
+   "duration_s": 93,
+   "first_seen_ms": 1790760445973,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_dvori_6644_30092026092054_1400_1790760174253_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790760181000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ניר דבורי מסביר: לא ברור אם מדובר בניסיון חטיפה, ריסוק המטוס או אירוע אובדני",
+   "type": "mivzakim",
+   "updated_ms": 1790760181000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a7967dc4991f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_dvori_6644_30092026092054/V1_karind_dvori_6644_30092026092054_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a8a25793a71f0a1026.htm": {
    "author": "מבזקים",
