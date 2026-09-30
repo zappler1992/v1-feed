@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e81ba6bd882f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cbd81f5a992f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4ddc6c93aa2f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f79b9a5ea2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34210,6 +34210,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f090b7dfc1f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_tisa_6657_30092026101401/V1_karind_tisa_6657_30092026101401_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f79b9a5ea2f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תוקף בדרום לבנון",
+   "duration_s": 14,
+   "first_seen_ms": 1790778446371,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16521_30092026022008_1400_1790778086920_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790778093000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל תוקף בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1790778093000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-2f79b9a5ea2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16521_30092026022008/M_NEWS_16521_30092026022008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-300d0a2c682f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -34859,6 +34877,24 @@
    "updated_ms": 1790762568000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4cecf2ae1c1f0a1027.htm",
    "video_url": ""
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4ddc6c93aa2f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"המטוס היה צריך לנחות בשדה התעופה בן גביר\": הטעות המביכה של שדרנית רשת BBC הבריטית",
+   "duration_s": 16,
+   "first_seen_ms": 1790778446371,
+   "image": "https://img.mako.co.il/2026/09/30/V1_bengvirinternational_6672_30092026022139_1400_1790778171313_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790778178000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"המטוס היה צריך לנחות בשדה התעופה בן גביר\": הטעות המביכה של שדרנית רשת BBC הבריטית",
+   "type": "mivzakim",
+   "updated_ms": 1790778178000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4ddc6c93aa2f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_bengvirinternational_6672_30092026022139/V1_bengvirinternational_6672_30092026022139_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5051a77b4ebe0a1026.htm": {
    "author": "מבזקים",
