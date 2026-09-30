@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-3e65b9a5ea2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20008,6 +20008,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-3643f122f51f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/SHIRA_FUNNY_300926/MASTER/SHIRA_FUNNY_300926_M/SHIRA_FUNNY_300926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-3e65b9a5ea2f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "בשידור חי: המשוריין של הליכוד אלי גולדשמידט תקף בגסות את עדי זריפי באמצע ריאיון שלו בהשתתפות שלו ושל נאור שירי מטעם \"יש עתיד\" והיא חתכה את הראיון בלי למצמץ. \nמתוך חדשות 12",
+   "duration_s": 89,
+   "first_seen_ms": 1790790146414,
+   "image": "https://img.mako.co.il/2026/09/30/sociaklza5ridi_1400_1790780016905_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790789880000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "צעק על זריפי בשידור והיא לא נשארה חייבת",
+   "type": "news",
+   "updated_ms": 1790789880000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-3e65b9a5ea2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/sociaklza5ridi/sociaklza5ridi_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -37003,7 +37021,8 @@
    "importance": 1,
    "published_ms": 1790774710000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "\"ניצחנו, עם ישראל חי\": הרגע בו הישראלים יוצאים לבשר לנוסעים שהצליחו להשתלט על הטייס",
    "type": "mivzakim",
