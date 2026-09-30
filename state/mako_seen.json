@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790756548452,
+ "last_run_ms": 1790756848382,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -756,6 +756,18 @@
    "published_ms": 1790165100000,
    "section": "ספורט",
    "title": "מעל קיירי ובאם: הדירוג של אבדיה ב-ESPN"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-c661caa6461f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790756848382,
+   "content_type": "article",
+   "first_seen_ms": 1790756848382,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790756520000,
+   "section": "ספורט",
+   "title": "עזב את ה-NBA: היעד החדש של דיאנג`לו ראסל"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-d00c3f0883be0a1026.htm": {
    "check_attempts": 1,
@@ -4219,7 +4231,7 @@
    "indexnow_ms": 1790749948976,
    "published_ms": 1790749560000,
    "section": "סלבס",
-   "title": "הכוכבת חושפת שנעצרה בחשד לרצח של ילד בן 4"
+   "title": "הכוכבת חושפת: \"הייתי חשודה ברצח של ילד בן 4\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-18f9159289dc0a1027.htm": {
    "check_attempts": 1,
@@ -10629,6 +10641,18 @@
    "section": "צבא וביטחון",
    "title": "כולל 7 באוקטובר: העלה 45 פרסומי הסתה בטיקטוק"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-eed6932f551f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790756667093,
+   "content_type": "article",
+   "first_seen_ms": 1790756667093,
+   "indexable": true,
+   "indexnow_ms": 1790756667093,
+   "published_ms": 1790755800000,
+   "section": "צבא וביטחון",
+   "title": "המחבלים שנתפסו - והדיווח על הירי שתכננו לישראל"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-f8513c429abe0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12056,6 +12080,18 @@
    "published_ms": 1790224440000,
    "section": "חופש",
    "title": "כבר לא אותו הדבר: המלון המוכר בצפון שינה את השם שלו"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-e61ef122f51f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790756787031,
+   "content_type": "article",
+   "first_seen_ms": 1790756787031,
+   "indexable": true,
+   "indexnow_ms": 1790756787031,
+   "published_ms": 1790754060000,
+   "section": "",
+   "title": "\"אנשים עם חולצות מלאות בדם, הישראלים התערבו\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-f899f069184e0a1026.htm": {
    "check_attempts": 1,
