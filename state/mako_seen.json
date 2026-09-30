@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790776649281,
+ "last_run_ms": 1790776950592,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1201,6 +1201,18 @@
    "section": "ספורט",
    "title": "אופי אחר: הפועל ת\"א חוגגת ניצחון בכורה"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-ac4a1f5a992f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790776950592,
+   "content_type": "article",
+   "first_seen_ms": 1790776950592,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790776740000,
+   "section": "ספורט",
+   "title": "סורקין בדרך למלכות הסלים של מכבי באירופה"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-ad7a7f51483d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1427,7 +1439,7 @@
    "indexnow_ms": null,
    "published_ms": 1790776380000,
    "section": "ספורט",
-   "title": "מנור במוקד: פרטים חדשים על סערת אירלנד"
+   "title": "מתקפה על מנור: פרטים חדשים מסערת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
    "check_attempts": 1,

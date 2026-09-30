@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-300d0a2c682f0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e81ba6bd882f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cbd81f5a992f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20565,6 +20566,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e5848b62579e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/Kim_Music_Onboard_28092026/MASTER/Kim_Music_Onboard_28092026/Kim_Music_Onboard_28092026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e81ba6bd882f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ארצות הברית מתעוררת לאירוע החירום שהתרחש בטיסת פליי דובאי שתפס את הכותרות ברשתות החדשות הגדולות כגון ABC CNN ו - FOX NEWS. מה שחשדו בהתחלה כאירוע חטיפה, התברר כאירוע אלימות חריג בקוקפיט - כשטייס אחד ניסה ככל הנראה לדקור את השני.",
+   "duration_s": 55,
+   "first_seen_ms": 1790776946616,
+   "image": "https://img.mako.co.il/2026/09/30/SHIRA_AMERICA_300926_M_1400_1790775631091_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790775637000,
+   "sections": [],
+   "title": "אמריקה מתעוררת לדרמה: כך נראים הדיווחים על טיסת פליי דובאי ברשתות הגדולות",
+   "type": "news",
+   "updated_ms": 1790775637000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-e81ba6bd882f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/SHIRA_AMERICA_300926/MASTER/SHIRA_AMERICA_300926_M/SHIRA_AMERICA_300926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-ef2d58ee387e0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -36917,6 +36934,24 @@
    "updated_ms": 1790665250000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cb51cf452fbe0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_SHADA_6593_29092026065952/V1_SHADA_6593_29092026065952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cbd81f5a992f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד משדה התעופה בסעודיה: צוות רפואי מקומי מעניק טיפול לנוסעי הטיסה הישראלים",
+   "duration_s": 14,
+   "first_seen_ms": 1790776946616,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16520_30092026015540_1400_1790776606704_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790776613000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד משדה התעופה בסעודיה: צוות רפואי מקומי מעניק טיפול לנוסעי הטיסה הישראלים",
+   "type": "mivzakim",
+   "updated_ms": 1790776613000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cbd81f5a992f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16520_30092026015540/M_NEWS_16520_30092026015540_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cc932d55f88e0a1026.htm": {
    "author": "מבזקים",
