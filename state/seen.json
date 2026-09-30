@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-95956c93aa2f0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-039ad962fb2f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c57ed962fb2f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34960,7 +34959,8 @@
    "importance": 0,
    "published_ms": 1790763067000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "תיעוד קשה לצפייה מתוך הקוקפייט: הטייס הפצוע רגע לאחר הדקירה",
    "type": "mivzakim",
@@ -36934,6 +36934,24 @@
    "updated_ms": 1790496900000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c4ecbeb18e1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/fix_britania/fix_britania_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c57ed962fb2f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"והעיקר לא לפחד כלל\": הישראלים בדרך הביתה",
+   "duration_s": 17,
+   "first_seen_ms": 1790779946550,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16524_30092026024914_1400_1790779827419_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790779833000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"והעיקר לא לפחד כלל\": הישראלים בדרך הביתה",
+   "type": "mivzakim",
+   "updated_ms": 1790779833000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c57ed962fb2f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16524_30092026024914/M_NEWS_16524_30092026024914_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c5c3965dab1e0a1027.htm": {
    "author": "מבזקים",
