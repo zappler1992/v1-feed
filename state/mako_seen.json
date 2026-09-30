@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790759248465,
+ "last_run_ms": 1790759548864,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4605,6 +4605,18 @@
    "section": "כסף",
    "title": "ויקטורי שוברת את השוק עם אייפון ב-4,399 שקל"
   },
+  "https://www.mako.co.il/finances-consumer/Article-c82b4264081f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790759427113,
+   "content_type": "article",
+   "first_seen_ms": 1790759427113,
+   "indexable": true,
+   "indexnow_ms": 1790759427113,
+   "published_ms": 1790758020000,
+   "section": "כסף",
+   "title": "בגלל המלחמה: ענקית האופנה רשמה הפסדי ענק"
+  },
   "https://www.mako.co.il/finances-consumer/Article-de044cfb609c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6368,6 +6380,18 @@
    "published_ms": 1790507700000,
    "section": "HIX",
    "title": "ממצאים קשים: 1,600 שיני חלב נמצאו בקבר האחים"
+  },
+  "https://www.mako.co.il/hix-special/Article-1d8b5046a81f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790759427113,
+   "content_type": "article",
+   "first_seen_ms": 1790759427113,
+   "indexable": true,
+   "indexnow_ms": 1790759427113,
+   "published_ms": 1790758860000,
+   "section": "HIX",
+   "title": "רקדה על הספה בדירתה, ונפלה מהקומה השמינית"
   },
   "https://www.mako.co.il/hix-special/Article-1f1c34616e2e0a1027.htm": {
    "check_attempts": 1,
