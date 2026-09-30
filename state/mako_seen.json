@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790752949115,
+ "last_run_ms": 1790753249074,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1524,6 +1524,18 @@
    "published_ms": 1790219700000,
    "section": "ספורט",
    "title": "אבו פרחי ונחמיאס בפנים: ההרכב של ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-35c379d2c21f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790753186731,
+   "content_type": "article",
+   "first_seen_ms": 1790753186731,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790753040000,
+   "section": "ספורט",
+   "title": "\"הפלסטיני הבכיר באנגליה\" הילל את ההתרסה"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-38823017c27e0a1026.htm": {
    "check_attempts": 1,
@@ -11408,6 +11420,18 @@
    "published_ms": 1790671500000,
    "section": "חופש",
    "title": "\"כמה את לוקחת ללילה\": ישראלית הוטרדה בטיול"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-0b68333d48de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790753186731,
+   "content_type": "article",
+   "first_seen_ms": 1790753186731,
+   "indexable": true,
+   "indexnow_ms": 1790753186731,
+   "published_ms": 1790742660000,
+   "section": "חופש",
+   "title": "\"הכניסה לציונים סלולה – סכנה לביטחון הלאומי\""
   },
   "https://www.mako.co.il/travel-news/international/Article-0b9fe89306dc0a1027.htm": {
    "check_attempts": 1,
