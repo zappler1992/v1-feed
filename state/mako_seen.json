@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790776048946,
+ "last_run_ms": 1790776348655,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8863,7 +8863,7 @@
    "indexnow_ms": 1790755648518,
    "published_ms": 1790755140000,
    "section": "פלילים",
-   "title": "\"אמר שהוא שוטר, לא הייתה לי סיבה לא להאמין\""
+   "title": "\"הוא אמר שהוא שוטר, לא הייתה לי סיבה לא להאמין\""
   },
   "https://www.mako.co.il/men-men_news/Article-dcfab1dedd1e0a1026.htm": {
    "check_attempts": 1,
@@ -9740,6 +9740,18 @@
    "published_ms": 1790772840000,
    "section": "ספורט",
    "title": "פירוט הסכומים נחשף: פרטים חדשים על סיטי"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-d592a6bd882f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790776348655,
+   "content_type": "article",
+   "first_seen_ms": 1790776348655,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790775900000,
+   "section": "ספורט",
+   "title": "סכום נאה: כמות הקהל שתגיע להפועל - ריאל"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-e2f545fdfa7d0a1026.htm": {
    "check_attempts": 1,
