@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790742449241,
+ "last_run_ms": 1790742749148,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -10149,6 +10149,18 @@
    "section": "",
    "title": "האזהרה האמריקאית - והעימות הפנימי במדינה הערבית"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-97b8fc2e86ee0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790742627349,
+   "content_type": "article",
+   "first_seen_ms": 1790742627349,
+   "indexable": true,
+   "indexnow_ms": 1790742627349,
+   "published_ms": 1790737200000,
+   "section": "",
+   "title": "עם נשק גרעיני: התגובה באירופה לאיומים של רוסיה"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-a5d7d44ce48d0a1026.htm",
@@ -10687,7 +10699,7 @@
    "indexnow_ms": null,
    "published_ms": 1790711100000,
    "section": "",
-   "title": "האזהרה החריגה: הזירות שבהן צה\"ל נערך להסלמה אפשרית"
+   "title": "האזהרה בדיונים הסגורים - וההיערכות של צה\"ל"
   },
   "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
    "check_attempts": 1,
