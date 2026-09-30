@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-556b898fd02f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5d198050d12f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4c67898fd02f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34588,6 +34589,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4b814351ac3e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_hit_6538_27092026050623/V1_hit_6538_27092026050623_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4c67898fd02f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הישראלים ממתינים לחילוץ בשדה התעופה בסעודיה | צפו",
+   "duration_s": 6,
+   "first_seen_ms": 1790768546126,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_sudialogo_6663_30092026113745_1400_1790768338997_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790768345000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הישראלים ממתינים לחילוץ בשדה התעופה בסעודיה | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1790768345000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4c67898fd02f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_sudialogo_6663_30092026113745/V1_karind_sudialogo_6663_30092026113745_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-4cecf2ae1c1f0a1027.htm": {
    "author": "",
    "date_source": "page-jsonld",
@@ -34729,7 +34748,7 @@
    ],
    "title": "לא קרה כלום, זה כיס אוויר\": צפו בתיעוד נוסף מהדרמה בטיסה מדובאי לתל אביב",
    "type": "mivzakim",
-   "updated_ms": 1790767860000,
+   "updated_ms": 1790768280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-556b898fd02f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_Karind_dubaikis_6662_30092026112557/V1_Karind_dubaikis_6662_30092026112557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -34840,6 +34859,24 @@
    "updated_ms": 1790664060000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5c13be62fdbe0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_delek_6591_29092026063955/V1_delek_6591_29092026063955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5d198050d12f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד החוץ: קבוצת ישראלים שנתקעה בצפון אתיופיה חולצה בשלום בתום 3 ימים במבצע מוסק",
+   "duration_s": 9,
+   "first_seen_ms": 1790768546126,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_adisababa_6664_30092026113849_1400_1790768409404_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790768415000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד החוץ: קבוצת ישראלים שנתקעה בצפון אתיופיה חולצה בשלום בתום 3 ימים במבצע מוסק",
+   "type": "mivzakim",
+   "updated_ms": 1790768415000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5d198050d12f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_adisababa_6664_30092026113849/V1_karind_adisababa_6664_30092026113849_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-5e7341a9312e0a1026.htm": {
    "author": "מבזקים",
