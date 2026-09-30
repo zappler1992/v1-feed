@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790753249074,
+ "last_run_ms": 1790753549043,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9093,6 +9093,18 @@
    "section": "ספורט",
    "title": "נחשף: השכר הממוצע לשחקן בליגת העל"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-a85bbdbb431f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790753549043,
+   "content_type": "article",
+   "first_seen_ms": 1790753549043,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790753160000,
+   "section": "ספורט",
+   "title": "סיטי תעלם מהמפה? היום שאחרי ההרשעה"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-e2f545fdfa7d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -11311,7 +11323,7 @@
    "indexnow_ms": 1790749707620,
    "published_ms": 1790749440000,
    "section": "",
-   "title": "צוות הטיסה הורכב מטייס רוסי וטייס משנה אוקראיני"
+   "title": "מסתמן: הטייסים התקוטטו – אות מצוקה שודר"
   },
   "https://www.mako.co.il/travel-news/Article-7eb1ae577c3d0a1026.htm": {
    "check_attempts": 1,
