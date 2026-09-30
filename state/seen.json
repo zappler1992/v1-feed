@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b885e4a1a0f0a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-e3f1ed99f90f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4642,6 +4642,22 @@
    "updated_ms": 1790520286000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-5c7e0aea643e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_olivia_6532_27092026024212/V1_olivia_6532_27092026024212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-e3f1ed99f90f0a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "מקבל הטבות - ומשלם אלפי דולרים בחודש: תיעוד נדיר של פי דידי עם טלפון בכלא",
+   "duration_s": 17,
+   "first_seen_ms": 1790744846528,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_pididi_6619_30092026045303_1400_1790744054364_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790744063000,
+   "sections": [],
+   "title": "מקבל הטבות - ומשלם אלפי דולרים בחודש: תיעוד נדיר של פי דידי עם טלפון בכלא",
+   "type": "mivzakim",
+   "updated_ms": 1790744063000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-e3f1ed99f90f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_pididi_6619_30092026045303/V1_karind_pididi_6619_30092026045303_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-f28d8d6ffabe0a1027.htm": {
    "author": "מבזקי סלבס",
@@ -11240,7 +11256,8 @@
    "published_ms": 1790693880000,
    "sections": [
     "כשהגלים מתחזקים 2",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 45: מתעורר מאוהב",
    "type": "series",
@@ -20208,7 +20225,8 @@
    "importance": 1,
    "published_ms": 1790714011000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "בעקבות עליית מחירי הדלק: החשש לגל התייקרות במשק",
    "type": "news",
@@ -49037,7 +49055,8 @@
    "importance": 1,
    "published_ms": 1790691039000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "השינוי המעצבן שמגיע לווטסאפ",
    "type": "general",
@@ -54181,7 +54200,8 @@
    "published_ms": 1790659178000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "שלוש שעות אחרי ההמראה לחלל: \"הטיל הכי עוצמתי בעולם\" של אילון מאסק איבד מנוע - וצלל לים",
    "type": "mivzakim",
@@ -54221,7 +54241,8 @@
    "published_ms": 1790612843000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מרדף מסוג אחר: שוטר מהודו אחז בגג של מכונית נוסעת כ-40 ק\"מ, לאחר שנחשד כי היו בתוכה 300 ק\"ג טבק",
    "type": "mivzakim",
@@ -54260,7 +54281,8 @@
    "published_ms": 1790593020000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "משלוח מסריח: שליח אמזון תועד משתין ברחבי הלובי בבניין יוקרתי בניו יורק",
    "type": "mivzakim",
