@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790775148938,
+ "last_run_ms": 1790775449901,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1380,6 +1380,18 @@
    "published_ms": 1790738520000,
    "section": "ספורט",
    "title": "מועד הבכורה של לורנזו בראון בהפועל י-ם"
+  },
+  "https://www.mako.co.il/Sports-basketball/q3_2026/Article-d86c659b672f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790775386806,
+   "content_type": "article",
+   "first_seen_ms": 1790775386806,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790774280000,
+   "section": "ספורט",
+   "title": "מפתיע: אוליניק קרוב לחתום בקבוצה אירופית"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-03414cc5f5ed0a1027.htm": {
    "check_attempts": 1,
