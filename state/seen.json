@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cdb6b9c75f1f0a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6d89407af81f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9465,6 +9465,24 @@
    "updated_ms": 1790690820000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-619179b98bce0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/FIX_yoav_bangkok_290926/FIX_yoav_bangkok_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6d89407af81f0a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1790767646156,
+   "image": "https://img.mako.co.il/2026/09/30/SHIRA_ZARA_300926_M_1400_1790759165582_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790759179000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "זארה מסתבכת שוב עם זיכרון השואה",
+   "type": "general",
+   "updated_ms": 1790759179000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6d89407af81f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/SHIRA_ZARA_300926/MASTER/SHIRA_ZARA_300926_M/SHIRA_ZARA_300926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-6f134d2975ce0a1026.htm": {
    "author": "מהעולם",
@@ -19850,7 +19868,8 @@
    "importance": 2,
    "published_ms": 1790756236000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "האירוע הדרמטי בטיסה 1073 שרף את הרשת: כל הממים המצחיקים",
    "type": "news",
@@ -20068,17 +20087,19 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "טיסה מדובאי לתל אביב שלחה אות מצוקה ונחשדה כחטופה - והסיקור מסביב לעולם לא איחר להגיע.",
-   "duration_s": 47,
+   "duration_s": 73,
    "first_seen_ms": 1790758045846,
-   "image": "https://img.mako.co.il/2026/09/30/inbie_reports_300926_1400_1790755741188_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/30/FIX_inbie_reports_300926_1400_1790763256232_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790755754000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "כולם מדברים על טיסה 1073 הישראלית: כך נראה הסיקור מסביב לעולם",
    "type": "news",
-   "updated_ms": 1790759160000,
+   "updated_ms": 1790763240000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-728b1824b51f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbie_reports_300926/MASTER/inbie_reports_300926/inbie_reports_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/FIX_inbie_reports_300926/FIX_inbie_reports_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75d62fb6f7ce0a1026.htm": {
    "author": "חדשות",
@@ -33767,23 +33788,23 @@
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_COCKPIT_6631_30092026065800/V1_COCKPIT_6631_30092026065800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-20e9f2ae1c1f0a1027.htm": {
-   "author": "",
+   "author": "מבזקים",
    "date_source": "page-jsonld",
-   "description": "",
-   "duration_s": null,
+   "description": "מפחיד: כך צלל המטוס 4,000 מטרים בתוך דקה | צפו",
+   "duration_s": 10,
    "enrich_attempts": 1,
    "first_seen_ms": 1790764346810,
-   "image": "https://img.mako.co.il/2026/09/30/V1_karind_Crash_6654_30092026095927_1400_1790762435744_FirstFrame.jpg",
-   "importance": null,
+   "image": "https://img.mako.co.il/2026/09/30/FIX_CRASH_1400_1790767305820_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1790762442000,
    "sections": [
     "מבזקים"
    ],
    "title": "מפחיד: כך צלל המטוס 4,000 מטרים בתוך דקה | צפו",
-   "type": "",
-   "updated_ms": 1790762442000,
+   "type": "mivzakim",
+   "updated_ms": 1790767260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-20e9f2ae1c1f0a1027.htm",
-   "video_url": ""
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/FIX_CRASH/FIX_CRASH_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-21b04b6c166e0a1027.htm": {
    "author": "מבזקים",
