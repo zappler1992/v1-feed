@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790737351406,
+ "last_run_ms": 1790737651391,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6801,6 +6801,18 @@
    "section": "עיצוב הבית",
    "title": "\"600 שקל לקומקום? מי הפראייר?\""
   },
+  "https://www.mako.co.il/living-rooms/kitchen/Article-31ce7a1e297d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790737468786,
+   "content_type": "article",
+   "first_seen_ms": 1790737468786,
+   "indexable": true,
+   "indexnow_ms": 1790737468786,
+   "published_ms": 1790740800000,
+   "section": "עיצוב הבית",
+   "title": "כבר הכי לא קורה: תשכחו מהטרנד הזה במטבח"
+  },
   "https://www.mako.co.il/living-rooms/living-room/Article-2f611eda56ec0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9284,6 +9296,18 @@
    "published_ms": 1790310600000,
    "section": "",
    "title": "הפוסט האנטישמי שגרם לזעזוע בכל ארגנטינה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-9717350e27de0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790737468786,
+   "content_type": "article",
+   "first_seen_ms": 1790737468786,
+   "indexable": true,
+   "indexnow_ms": 1790737468786,
+   "published_ms": 1790737200000,
+   "section": "דיגיטל",
+   "title": "עובדים עם AI? חמישה סימנים שהוא יצא משליטה"
   },
   "https://www.mako.co.il/nexter-news/Article-a59c5f45d67e0a1026.htm": {
    "check_attempts": 1,
