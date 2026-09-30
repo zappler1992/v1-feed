@@ -1,12 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-91a25046a81f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-72a85046a81f0a1026.htm",
-  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-31e2f53b828e0a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-ba145793a71f0a1026.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-41b523d023180a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-d9d99888561f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3fcb407af81f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -762,7 +757,8 @@
    "importance": 1,
    "published_ms": 1790758560000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 4: מסתבכת עם השקרים",
    "type": "series",
@@ -14357,7 +14353,8 @@
    "importance": 1,
    "published_ms": 1790758740000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "מסודרים"
    ],
    "title": "מסודרים פרק 48: אחד מפזר, אחד מסתיר",
    "type": "series",
@@ -14668,7 +14665,8 @@
    "importance": 1,
    "published_ms": 1790758680000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 17: הגיע הזמן לספר",
    "type": "series",
@@ -20046,7 +20044,7 @@
    "sections": [],
    "title": "כולם מדברים על טיסה 1073 הישראלית: כך נראה הסיקור מסביב לעולם",
    "type": "news",
-   "updated_ms": 1790755754000,
+   "updated_ms": 1790759160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-728b1824b51f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbie_reports_300926/MASTER/inbie_reports_300926/inbie_reports_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -20190,7 +20188,8 @@
    "importance": 2,
    "published_ms": 1790746769000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "תשכחו מ-AI, תגידו SI: טראמפ הכריז על שם חדש לבינה המלאכותית",
    "type": "news",
@@ -34133,6 +34132,24 @@
    "updated_ms": 1790745773000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3e932ad58b0f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_samim_6621_30092026052128/V1_karind_samim_6621_30092026052128_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3fcb407af81f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לפי נתוני אפליקציות מעקב מטוסים: במהלך הדרמה - המטוס ביצע ירידה חדה של כ-15 אלף רגל תוך דקה",
+   "duration_s": 9,
+   "first_seen_ms": 1790759845977,
+   "image": "https://img.mako.co.il/2026/09/30/NOAY_NEHITA_300926_1400_1790759226944_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790759240000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לפי נתוני אפליקציות מעקב מטוסים: במהלך הדרמה - המטוס ביצע ירידה חדה של כ-15 אלף רגל תוך דקה",
+   "type": "mivzakim",
+   "updated_ms": 1790759240000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3fcb407af81f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/NOAY_NEHITA_300926/NOAY_NEHITA_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-40bce21efade0a1026.htm": {
    "author": "מבזקים",
