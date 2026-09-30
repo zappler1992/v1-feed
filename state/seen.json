@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-a4ba4a49d61f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-728b1824b51f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-89554a49d61f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3107,7 +3108,7 @@
    ],
    "title": "הכוכבת הענקית מציגה לוק חדש - עם שיער אפור",
    "type": "general",
-   "updated_ms": 1790694346000,
+   "updated_ms": 1790757240000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-646ae21efade0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/alice_290926_gray/MASTER/alice_290926_gray/alice_290926_gray_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -7014,7 +7015,7 @@
    ],
    "title": "בשורה לצליאקים: התפריט החדש של אמורה מיו",
    "type": "general",
-   "updated_ms": 1790670393000,
+   "updated_ms": 1790757180000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-b9479f4ba3ce0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/biata_amoremio_290926/MASTER/biata_amoremio_290926/biata_amoremio_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -19957,6 +19958,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-71607c9d12de0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/NOAY_OFIR_290926/MASTER/NOAY_OFIR_290926/NOAY_OFIR_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-728b1824b51f0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "טיסה מדובאי לתל אביב שלחה אות מצוקה ונחשדה כחטופה - והסיקור מסביב לעולם לא איחר להגיע.",
+   "duration_s": 47,
+   "first_seen_ms": 1790758045846,
+   "image": "https://img.mako.co.il/2026/09/30/inbie_reports_300926_1400_1790755741188_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790755754000,
+   "sections": [],
+   "title": "כולם מדברים על טיסה 1073 הישראלית: כך נראה הסיקור מסביב לעולם",
+   "type": "news",
+   "updated_ms": 1790755754000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-728b1824b51f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbie_reports_300926/MASTER/inbie_reports_300926/inbie_reports_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-75d62fb6f7ce0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -20096,7 +20113,9 @@
    "image": "https://img.mako.co.il/2026/09/30/inbie_SI_300926_1400_1790746758826_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790746769000,
-   "sections": [],
+   "sections": [
+    "טכנולוגיה"
+   ],
    "title": "תשכחו מ-AI, תגידו SI: טראמפ הכריז על שם חדש לבינה המלאכותית",
    "type": "news",
    "updated_ms": 1790746769000,
@@ -35049,6 +35068,24 @@
    "updated_ms": 1790494089000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-87d33dd7eb1e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/M_NEWS_16274_27092026072653/M_NEWS_16274_27092026072653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-89554a49d61f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לפי נתוני אפליקציות מעקב מטוסים: במהלך הדרמה - המטוס ביצע ירידה חדה של כ-15 אלף רגל תוך דקה",
+   "duration_s": 9,
+   "first_seen_ms": 1790758045846,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_nehita_6639_30092026083807_1400_1790757563042_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790757570000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לפי נתוני אפליקציות מעקב מטוסים: במהלך הדרמה - המטוס ביצע ירידה חדה של כ-15 אלף רגל תוך דקה",
+   "type": "mivzakim",
+   "updated_ms": 1790757570000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-89554a49d61f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_nehita_6639_30092026083807/V1_karind_nehita_6639_30092026083807_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-898e77c30a2e0a1026.htm": {
    "author": "מבזקים",
