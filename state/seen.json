@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fc1beb17533f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b9deb17533f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34658,6 +34658,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b885e4a1a0f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16477_30092026044518/M_NEWS_16477_30092026044518_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b9deb17533f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו: \"דיברתי עם נשיא האמירויות ואמרנו שנעשה סדר בנושא האבטחה\"",
+   "duration_s": 73,
+   "first_seen_ms": 1790788046699,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16538_30092026050043_1400_1790787732404_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790787739000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו: \"דיברתי עם נשיא האמירויות ואמרנו שנעשה סדר בנושא האבטחה\"",
+   "type": "mivzakim",
+   "updated_ms": 1790787739000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3b9deb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16538_30092026050043/M_NEWS_16538_30092026050043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3c177c7d8e1f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -38103,7 +38121,7 @@
    ],
    "title": "\"אני רואה תעופה בחקירה\": הגיבור שנטרל את המחבל בטיסה משחזר את רגעי ההשתלטות בקוקפיט",
    "type": "mivzakim",
-   "updated_ms": 1790786460000,
+   "updated_ms": 1790787840000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-eadee0d9723f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_hero_6684_30092026043522/V1_hero_6684_30092026043522_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
