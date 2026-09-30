@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790793448701,
+ "last_run_ms": 1790793749186,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3825,6 +3825,18 @@
    "section": "",
    "title": "הצצה ראשונה לסרט על מבצע פיצוץ הביפרים"
   },
+  "https://www.mako.co.il/culture-articles/Article-60640897e83f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790793506823,
+   "content_type": "article",
+   "first_seen_ms": 1790793506823,
+   "indexable": true,
+   "indexnow_ms": 1790793506823,
+   "published_ms": 1790793120000,
+   "section": "",
+   "title": "הכותרת המעצבנת ב\"ניו יורק טיימס\" על טיסת הבלהות"
+  },
   "https://www.mako.co.il/culture-articles/Article-614f7d952c7e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6151,7 +6163,7 @@
    "indexnow_ms": 1790756186832,
    "published_ms": 1790748900000,
    "section": "בריאות",
-   "title": "\"לא ברור איך זה הצליח לעבור מתחת לרדאר כ\"כ הרבה זמן\""
+   "title": "\"רצף הכשלים היה עלול להסתיים במוות\""
   },
   "https://www.mako.co.il/health-news/Article-315fac880c1d0a1027.htm": {
    "check_attempts": 1,
@@ -6571,7 +6583,7 @@
    "indexnow_ms": 1790772627639,
    "published_ms": 1790764980000,
    "section": "HIX",
-   "title": "טסה לצד השני של העולם בשביל גבר - ואז האמת הקשה התבררה"
+   "title": "חצתה אוקיינוס בשביל בחור – ואז האמת התבררה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-9906d78e1f1e0a1026.htm": {
    "check_attempts": 1,
@@ -11167,7 +11179,7 @@
    "indexnow_ms": 1790769507307,
    "published_ms": 1790769000000,
    "section": "צבא וביטחון",
-   "title": "עוד דרמה בשמיים: בזמן שמאיימת - רוסיה ספגה מכה"
+   "title": "מכה לפוטין: ממדי התאונה המבצעית הקטלנית נחשפים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-72b227014c0f0a1027.htm": {
    "check_attempts": 1,
