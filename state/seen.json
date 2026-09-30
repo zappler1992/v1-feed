@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/60_seconds-magazine/2026-m09_w05/shorts-b9ce12a17f0f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8d6772bc103f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -36122,6 +36122,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8c4addc6327e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/FIX_SAFARI/FIX_SAFARI_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8d6772bc103f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מלווים בדגלי ישראל: הנוסעים יורדים מהמטוס לאחר שנחתו בבטחה בארץ",
+   "duration_s": 13,
+   "first_seen_ms": 1790784446360,
+   "image": "https://img.mako.co.il/2026/09/30/V1_dgalim_6680_30092026040130_1400_1790784172825_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790784179000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מלווים בדגלי ישראל: הנוסעים יורדים מהמטוס לאחר שנחתו בבטחה בארץ",
+   "type": "mivzakim",
+   "updated_ms": 1790784179000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8d6772bc103f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_dgalim_6680_30092026040130/V1_dgalim_6680_30092026040130_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-8dead7e2c0ce0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -37136,9 +37154,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הם בבית! טיסת החילוץ של פליי-דובאי מסעודיה נחתה בשלום בשדה התעופה בן גוריון",
-   "duration_s": 58,
+   "duration_s": 72,
    "first_seen_ms": 1790783546425,
-   "image": "https://img.mako.co.il/2026/09/30/biata_landing_mivfix_1400_1790783579870_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/09/30/biata_landing_mivfix2_1400_1790784211884_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790783372000,
    "sections": [
@@ -37146,9 +37164,9 @@
    ],
    "title": "הם בבית! טיסת החילוץ של פליי-דובאי מסעודיה נחתה בשלום בשדה התעופה בן גוריון",
    "type": "mivzakim",
-   "updated_ms": 1790783580000,
+   "updated_ms": 1790784180000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c5c7c736fe2f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/biata_landing_mivfix/biata_landing_mivfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/biata_landing_mivfix2/biata_landing_mivfix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-c6dc7ef5342e0a1027.htm": {
    "author": "מבזקים",
