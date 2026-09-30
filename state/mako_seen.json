@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790737950578,
+ "last_run_ms": 1790738251215,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9585,6 +9585,18 @@
    "section": "",
    "title": "\"שאלו אותנו 'למה לתרום למשהו שהוא לא טבעי?'\""
   },
+  "https://www.mako.co.il/pride-culture/Article-c26b2b4fa7ee0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790738068042,
+   "content_type": "article",
+   "first_seen_ms": 1790738068042,
+   "indexable": true,
+   "indexnow_ms": 1790738068042,
+   "published_ms": 1790737200000,
+   "section": "הכי חם",
+   "title": "לזה לא ציפינו: הרומן הקולנועי המפתיע של אנחל בונני"
+  },
   "https://www.mako.co.il/pride-culture/Article-d8db21e10fc80a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10676,6 +10688,18 @@
    "published_ms": 1790592600000,
    "section": "",
    "title": "לא עוצרת: היעד הנוסף בו החל לפעול צבא ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-c5cc0b55e5fe0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-c5cc0b55e5fe0a1027.htm",
+   "checked_ms": 1790738068042,
+   "content_type": "article",
+   "first_seen_ms": 1790738068042,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790737200000,
+   "section": "חדשות",
+   "title": "המגעים תקועים והחשש מחידוש הלחימה גובר"
   },
   "https://www.mako.co.il/special-mako-news/Article-cbfafc2e86ee0a1027.htm": {
    "check_attempts": 1,
