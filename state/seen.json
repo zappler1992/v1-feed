@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3c177c7d8e1f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3d4fb9c75f1f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7f3fb9c75f1f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34280,6 +34281,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3c177c7d8e1f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/fix_kisavir/fix_kisavir_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3d4fb9c75f1f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שרת התחבורה מירי רגב דורשת לעצור את טיסות פליי-דובאי לישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1790766446101,
+   "image": "https://img.mako.co.il/2026/09/30/V1_karind_regev_6661_30092026110250_1400_1790766360043_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790766366000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שרת התחבורה מירי רגב דורשת לעצור את טיסות פליי-דובאי לישראל",
+   "type": "mivzakim",
+   "updated_ms": 1790766366000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3d4fb9c75f1f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_karind_regev_6661_30092026110250/V1_karind_regev_6661_30092026110250_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3db3f6e44f6e0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -35274,6 +35293,24 @@
    "updated_ms": 1790684785000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7e3084fab1de0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16454_29092026122452/M_NEWS_16454_29092026122452_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7f3fb9c75f1f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד נוסף מרגעי צלילת המטוס",
+   "duration_s": 91,
+   "first_seen_ms": 1790766446101,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16507_30092026110254_1400_1790766338826_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790766345000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד נוסף מרגעי צלילת המטוס",
+   "type": "mivzakim",
+   "updated_ms": 1790766345000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7f3fb9c75f1f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16507_30092026110254/M_NEWS_16507_30092026110254_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7f6e9581af2e0a1026.htm": {
    "author": "מבזקים",
