@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790755948657,
+ "last_run_ms": 1790756265350,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2352,6 +2352,18 @@
    "published_ms": 1790327040000,
    "section": "ספורט",
    "title": "בליץ`: \"שוקל להשאר בישראל כל החיים שלי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-07cc1824b51f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790756186832,
+   "content_type": "article",
+   "first_seen_ms": 1790756186832,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790755860000,
+   "section": "ספורט",
+   "title": "הטייסים, גרסת הספורט: הממים הקורעים ברשת"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q3_2026/Article-08643654e1dc0a1027.htm": {
    "check_attempts": 1,
@@ -5697,6 +5709,18 @@
    "section": "בריאות",
    "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
   },
+  "https://www.mako.co.il/health-news/Article-2b93b0657e0f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790756186832,
+   "content_type": "article",
+   "first_seen_ms": 1790756186832,
+   "indexable": true,
+   "indexnow_ms": 1790756186832,
+   "published_ms": 1790748900000,
+   "section": "בריאות",
+   "title": "\"רצף הכשלים היה עלול להסתיים במוות\""
+  },
   "https://www.mako.co.il/health-news/Article-315fac880c1d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6271,7 +6295,7 @@
    "indexnow_ms": 1790751867699,
    "published_ms": 1790751600000,
    "section": "HIX",
-   "title": "שעות אחרונות לחייה: האישה היחידה שנידונה למוות בטנסי"
+   "title": "הרוצחת כריסטה פייק סירבה לבחור ארוחה אחרונה"
   },
   "https://www.mako.co.il/hix-special/Article-112db06962de0a1026.htm": {
    "check_attempts": 1,
