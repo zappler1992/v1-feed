@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790745149235,
+ "last_run_ms": 1790745448773,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5229,6 +5229,18 @@
    "section": "הכי חם",
    "title": "בלי לשקוע ובלי להסתבך: זאת ארוחת הסוכות שלנו"
   },
+  "https://www.mako.co.il/food-meals/recipes_for_shabath/Article-f5771e13f2ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790745387364,
+   "content_type": "article",
+   "first_seen_ms": 1790745387364,
+   "indexable": true,
+   "indexnow_ms": 1790745387364,
+   "published_ms": 1790739300000,
+   "section": "",
+   "title": "פוש אחרון וגמרנו: 5 מתכונים לארוחת שמחת תורה"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-asian_recipes/Recipe-d619994bedea0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -5731,7 +5743,7 @@
    "indexnow_ms": 1790743948887,
    "published_ms": 1790676480000,
    "section": "בריאות",
-   "title": "מחסור בוויטמין הזה עלול להחמיר מחלות"
+   "title": "המחסור בחומר הזה בגוף עלול להחמיר אצלכם מחלות"
   },
   "https://www.mako.co.il/health-news/Article-8f468b62579e0a1026.htm": {
    "check_attempts": 1,
@@ -10183,7 +10195,7 @@
    "indexnow_ms": 1790742627349,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "עם נשק גרעיני: התגובה באירופה לאיומים של רוסיה"
+   "title": "עם נשק \"יום הדין\": באירופה מתכוננים למתקפה רוסית"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -12043,7 +12055,7 @@
    "indexnow_ms": 1790738667135,
    "published_ms": 1790737200000,
    "section": "",
-   "title": "\"היו שם עינויים של שבירת עצמות וכריתת אצבעות\""
+   "title": "\"היו ביחידה מכות רצח, זאת הרמה של המגע בעזה\""
   },
   "https://www.mako.co.il/tv-special/Article-e81fda42861e0a1027.htm": {
    "check_attempts": 1,
