@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790776348655,
+ "last_run_ms": 1790776649281,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1416,6 +1416,18 @@
    "published_ms": 1790616600000,
    "section": "ספורט",
    "title": "\"בליץ` חי לפי התורה. הוא שוקל גיור\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-0487a6bd882f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790776586898,
+   "content_type": "article",
+   "first_seen_ms": 1790776586898,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790776380000,
+   "section": "ספורט",
+   "title": "מנור במוקד: פרטים חדשים על סערת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q3_2026/Article-084780c0e63d0a1027.htm": {
    "check_attempts": 1,
