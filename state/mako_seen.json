@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790769748788,
+ "last_run_ms": 1790770048463,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9044,6 +9044,18 @@
    "published_ms": 1790506200000,
    "section": "מוזיקה",
    "title": "זה העונש שתקבל האיראנית שהופיעה ללא חיג'אב"
+  },
+  "https://www.mako.co.il/music-news/Article-926d529c522f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790769867352,
+   "content_type": "article",
+   "first_seen_ms": 1790769867352,
+   "indexable": true,
+   "indexnow_ms": 1790769867352,
+   "published_ms": 1790769480000,
+   "section": "מוזיקה",
+   "title": "המדינה שפורשת מהאירוויזיון -  ודווקא לא בגלל ישראל"
   },
   "https://www.mako.co.il/music-news/Article-964f5f3f7cea0a1027.htm": {
    "check_attempts": 1,
