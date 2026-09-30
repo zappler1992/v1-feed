@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-77efeb17533f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-35f0aca1643f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cf81eb17533f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -34550,6 +34551,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3593f4a6b9ee0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/M_NEWS_16465_29092026072503/M_NEWS_16465_29092026072503_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-35f0aca1643f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"כשדברים משתבשים אתם צריכים אותנו\": הטייס ההודי שנדקר עי המחבל בריאיון מלפני שנה בפודקאסט",
+   "duration_s": 32,
+   "first_seen_ms": 1790788646428,
+   "image": "https://img.mako.co.il/2026/09/30/M_NEWS_16539_30092026051333_1400_1790788497696_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790788505000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"כשדברים משתבשים אתם צריכים אותנו\": הטייס ההודי שנדקר עי המחבל בריאיון מלפני שנה בפודקאסט",
+   "type": "mivzakim",
+   "updated_ms": 1790788505000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-35f0aca1643f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/M_NEWS_16539_30092026051333/M_NEWS_16539_30092026051333_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-368aa27b771e0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -37510,6 +37529,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cee86d44633e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/biata_nepal_miv/biata_nepal_miv_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cf81eb17533f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"כפתנו אותו עם אזיקונים\": אסף רג'ואן, אחד הנוסעים שנטרלו את המחבל, משחזר",
+   "duration_s": 44,
+   "first_seen_ms": 1790788646428,
+   "image": "https://img.mako.co.il/2026/09/30/V1_azikonim_6688_30092026051305_1400_1790788490610_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790788497000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"כפתנו אותו עם אזיקונים\": אסף רג'ואן, אחד הנוסעים שנטרלו את המחבל, משחזר",
+   "type": "mivzakim",
+   "updated_ms": 1790788497000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cf81eb17533f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_azikonim_6688_30092026051305/V1_azikonim_6688_30092026051305_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-cfab848c03ce0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -38139,7 +38176,7 @@
    ],
    "title": "\"אני רואה תעופה בחקירה\": הגיבור שנטרל את המחבל בטיסה משחזר את רגעי ההשתלטות בקוקפיט",
    "type": "mivzakim",
-   "updated_ms": 1790788140000,
+   "updated_ms": 1790788260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-eadee0d9723f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/V1_hero_6684_30092026043522/V1_hero_6684_30092026043522_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
