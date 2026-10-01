@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-3fa769ba117f0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-01T10:58:56+00:00</news:publication_date>
+<news:title>השרברב הישראלי שהציל את המטוס מהתרסקות - מכבב גם בעבודתו עם ציון 9.9</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/01/inbalplumer011026m_1400_1790852329623_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-174369ba117f0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2123,14 +2132,5 @@
 <news:title>מרגש: אח קטן נולד לאלמוג סרוסי שנרצח בשבי - מביצית שהוריו הקפיאו לפני 25 שנה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/NOAY_ALMOG_290926_1400_1790682362156_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-b2d6fb0f5dce0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T11:22:26+00:00</news:publication_date>
-<news:title>הסרטון שהמשטר לא רוצה שתראו: המורה צילמה את הכיתה וחשפה את המחסור החמור בבתי הספר באיראן</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/V1_IRAN_6600_29092026112056_1400_1790680939898_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
