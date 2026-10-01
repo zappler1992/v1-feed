@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cee7c5ba786f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-719198d4f86f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-063f98d4f86f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38916,6 +38917,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_500_6702_01102026060025/V1_SHIR_500_6702_01102026060025_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-063f98d4f86f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הראפר ג'ה רול יגיע להופעה אחת בישראל בסוף החודש",
+   "duration_s": 34,
+   "first_seen_ms": 1790843545841,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16570_01102026082624_1400_1790843240768_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790843247000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הראפר ג'ה רול יגיע להופעה אחת בישראל בסוף החודש",
+   "type": "mivzakim",
+   "updated_ms": 1790843247000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-063f98d4f86f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16570_01102026082624/M_NEWS_16570_01102026082624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -38966,7 +38985,7 @@
    ],
    "title": "סא\"ל אריה עמידרור, בנו של יעקב עמידרור, הוא קצין המודיעין של אוגדת עזה ב7.10",
    "type": "mivzakim",
-   "updated_ms": 1790843040000,
+   "updated_ms": 1790843280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2b604a45966f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_4/MIVZAKIM_BOKER_011026_4_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -39041,6 +39060,24 @@
    "updated_ms": 1790824998000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4bddbbca035f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16551_01102026032124/M_NEWS_16551_01102026032124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-719198d4f86f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אל על תפעיל מערך טיסות חילוץ להשבת ישראלים מדובאי. המחיר: 249 דולר לכרטיס מסוג לייט (כולל טרולי)",
+   "duration_s": 9,
+   "first_seen_ms": 1790843545841,
+   "image": "https://img.mako.co.il/2026/10/01/V1_STIV_ELAL_6710_01102026082732_1400_1790843325179_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790843331000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אל על תפעיל מערך טיסות חילוץ להשבת ישראלים מדובאי. המחיר: 249 דולר לכרטיס מסוג לייט (כולל טרולי)",
+   "type": "mivzakim",
+   "updated_ms": 1790843331000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-719198d4f86f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_STIV_ELAL_6710_01102026082732/V1_STIV_ELAL_6710_01102026082732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-774dec4d8d5f0a1027.htm": {
    "author": "מבזקים",

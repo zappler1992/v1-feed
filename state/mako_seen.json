@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790843248169,
+ "last_run_ms": 1790843548584,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3081,7 +3081,7 @@
    "indexnow_ms": null,
    "published_ms": 1790840700000,
    "section": "ספורט",
-   "title": "חריג: שחקני מכבי ת\"א בתמיכה ביואב זיו"
+   "title": "חריג: שחקני מכבי בתמיכה פומבית ביואב זיו"
   },
   "https://www.mako.co.il/Sports-football-il/q3_2026/Article-0b6c1b40338e0a1026.htm": {
    "check_attempts": 1,
@@ -6453,6 +6453,18 @@
    "section": "בריאות",
    "title": "תינוק מת בביתו לאחר שישן עם הוריו ונמחץ"
   },
+  "https://www.mako.co.il/health-news/Article-0b277852046f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790843548584,
+   "content_type": "article",
+   "first_seen_ms": 1790843548584,
+   "indexable": true,
+   "indexnow_ms": 1790843548584,
+   "published_ms": 1790838360000,
+   "section": "בריאות",
+   "title": "\"כמו רכבת הרים בלונה פארק, אבל הסוף לא ברור\""
+  },
   "https://www.mako.co.il/health-news/Article-1aef9b007b2d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9465,6 +9477,18 @@
    "section": "פלילים",
    "title": "לינור ששון פונתה מנווה תרצה אחרי שלקתה בשבץ"
   },
+  "https://www.mako.co.il/men-men_news/Article-cb83c5ba786f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790843426945,
+   "content_type": "article",
+   "first_seen_ms": 1790843426945,
+   "indexable": true,
+   "indexnow_ms": 1790843426945,
+   "published_ms": 1790842860000,
+   "section": "פלילים",
+   "title": "העיר לרוכבי אופנוע - וספג מכות בראש עם קסדה"
+  },
   "https://www.mako.co.il/men-men_news/Article-ce2e05ab7a4d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10652,6 +10676,18 @@
    "published_ms": 1790514420000,
    "section": "דיגיטל",
    "title": "\"חשבתי על זה במקלחת. למחרת זה היה בטלוויזיה\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-1de4ef40402f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790843548584,
+   "content_type": "article",
+   "first_seen_ms": 1790843548584,
+   "indexable": true,
+   "indexnow_ms": 1790843548584,
+   "published_ms": 1790843400000,
+   "section": "דיגיטל",
+   "title": "\"רוצים להיות הישראלים הראשונים שעושים את זה\""
   },
   "https://www.mako.co.il/nexter-news/Article-207e65fb703d0a1027.htm": {
    "check_attempts": 1,
