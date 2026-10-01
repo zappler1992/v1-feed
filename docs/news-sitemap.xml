@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-49d743dc4b8f0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-01T18:47:33+00:00</news:publication_date>
+<news:title>בכיר ישראלי: טייס המשנה הועבר לאיחוד האמירויות, צוותים ישראליים יבקשו לצאת לשם כבר בשבוע הבא</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_karind_flydubai_6752_01102026064601_1400_1790880446679_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fdfd0c1a1b8f0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2285,14 +2294,5 @@
 <news:title>הזמרת האגדית שהפתיעה את כולם בסוף התצוגה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/SHIR_CELINE_290926_1400_1790708120636_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-4d9b2b4fa7ee0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T18:48:48+00:00</news:publication_date>
-<news:title>הזמין פיצה - וקיבל אותה עם בורג בפנים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/SHIRA_PIZZA_290926_M_1400_1790707721434_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
