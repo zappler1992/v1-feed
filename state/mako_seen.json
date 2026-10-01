@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790878349197,
+ "last_run_ms": 1790878649154,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1619,7 +1619,7 @@
    "indexnow_ms": null,
    "published_ms": 1790877600000,
    "section": "ספורט",
-   "title": "\"בראיינט מנהיג. הצליח לעצור הוריקן לבדו\""
+   "title": "המשחק הטוב בקריירה: השיא של בראיינט"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cf7027fe6f5f0a1027.htm": {
    "check_attempts": 1,
@@ -13328,6 +13328,18 @@
    "published_ms": 1790711100000,
    "section": "",
    "title": "צה\"ל נערך להסלמה - וביותר מגזרה אחת"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-a35265de178f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-a35265de178f0a1026.htm",
+   "checked_ms": 1790878587613,
+   "content_type": "article",
+   "first_seen_ms": 1790878587613,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790875500000,
+   "section": "",
+   "title": "הקשר האיראני נבדק: פרטים חדשים מתוך החקירה"
   },
   "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
    "check_attempts": 1,
