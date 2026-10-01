@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790835465381,
+ "last_run_ms": 1790835749318,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8205,6 +8205,18 @@
    "section": "",
    "title": "כוכבת הרשת נשברת: \"לא הייתי במצב כזה בחיים\""
   },
+  "https://www.mako.co.il/makoz-news/Article-e3ea5261416f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790835749318,
+   "content_type": "article",
+   "first_seen_ms": 1790835749318,
+   "indexable": true,
+   "indexnow_ms": 1790835749318,
+   "published_ms": 1790835420000,
+   "section": "",
+   "title": "האיחוד המרגש של כוכבי דיסני"
+  },
   "https://www.mako.co.il/makoz-news/Article-ef89fc2346de0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13340,6 +13352,18 @@
    "published_ms": 1790500560000,
    "section": "",
    "title": "הזעם של טייס אל על: \"למה המטוס נראה ככה?\""
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-b4a28a2d5e3f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790835749318,
+   "content_type": "article",
+   "first_seen_ms": 1790835749318,
+   "indexable": true,
+   "indexnow_ms": 1790835749318,
+   "published_ms": 1790827380000,
+   "section": "חופש",
+   "title": "במיליוני שקלים: החוף היפה בארץ יעבור מהפך"
   },
   "https://www.mako.co.il/travel-news/israel/Article-b7886602f87e0a1026.htm": {
    "check_attempts": 1,

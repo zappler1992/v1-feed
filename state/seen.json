@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-6b6227fe6f5f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fb365261416f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2fd35261416f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38842,6 +38843,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-281786153b5f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_cotarot_6697_01102026043705/V1_cotarot_6697_01102026043705_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2fd35261416f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"כפיים, מגיע לו\": הרצוג הודיע ליניב חיון, שבלם את צלילת המטוס, כי יקבל את אות הגבורה",
+   "duration_s": 44,
+   "first_seen_ms": 1790835746667,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_YANIV_6704_01102026061543_1400_1790835437951_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790835444000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"כפיים, מגיע לו\": הרצוג הודיע ליניב חיון, שבלם את צלילת המטוס, כי יקבל את אות הגבורה",
+   "type": "mivzakim",
+   "updated_ms": 1790835444000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2fd35261416f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_YANIV_6704_01102026061543/V1_SHIR_YANIV_6704_01102026061543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-432ebbca035f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39057,6 +39076,24 @@
    "updated_ms": 1790824538000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-f6e2d9f6a35f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16550_01102026031408/M_NEWS_16550_01102026031408_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fb365261416f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הוזלה של 50 אגורות בדלק אושרה: העלות למדינה - 150 מיליון שקלים בחודש",
+   "duration_s": 9,
+   "first_seen_ms": 1790835746667,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_DELEK_6705_01102026061810_1400_1790835564493_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790835571000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הוזלה של 50 אגורות בדלק אושרה: העלות למדינה - 150 מיליון שקלים בחודש",
+   "type": "mivzakim",
+   "updated_ms": 1790835571000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fb365261416f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_DELEK_6705_01102026061810/V1_SHIR_DELEK_6705_01102026061810_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
