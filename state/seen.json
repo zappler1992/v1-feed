@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2b604a45966f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20980,7 +20981,9 @@
    "image": "https://img.mako.co.il/2026/10/01/MIVZAKIM_BOKER_011026_4_1400_1790836525524_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790836532000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "ישראלי נרצח באי קופנגן שבתאילנד",
    "type": "news",
    "updated_ms": 1790837580000,
@@ -38911,6 +38914,24 @@
    "updated_ms": 1790834531000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_500_6702_01102026060025/V1_SHIR_500_6702_01102026060025_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רצח הישראלי בקופנגן: הרקע לאירוע מסתמן כפלילי. משרד החוץ ושגרירות ישראל בבנגקוק מטפלים באירוע ובקשר",
+   "duration_s": 9,
+   "first_seen_ms": 1790841445808,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16568_01102026075353_1400_1790841304265_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790841311000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רצח הישראלי בקופנגן: הרקע לאירוע מסתמן כפלילי. משרד החוץ ושגרירות ישראל בבנגקוק מטפלים באירוע ובקשר",
+   "type": "mivzakim",
+   "updated_ms": 1790841311000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16568_01102026075353/M_NEWS_16568_01102026075353_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-281786153b5f0a1026.htm": {
    "author": "מבזקים",
@@ -57499,6 +57520,24 @@
    "updated_ms": 1790838707000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_PIZZA_6707_01102026071020/V1_SHIR_PIZZA_6707_01102026071020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הבניינים רעדו והרכבות נעצרו: רעידת אדמה בעוצמה 4.3 טלטלה את קונמינג בסין",
+   "duration_s": 29,
+   "first_seen_ms": 1790841445808,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_earthquake_6709_01102026075225_1400_1790841226866_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790841233000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הבניינים רעדו והרכבות נעצרו: רעידת אדמה בעוצמה 4.3 טלטלה את קונמינג בסין",
+   "type": "mivzakim",
+   "updated_ms": 1790841233000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_earthquake_6709_01102026075225/V1_SHIR_earthquake_6709_01102026075225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
