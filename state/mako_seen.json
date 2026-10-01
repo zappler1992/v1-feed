@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790876849216,
+ "last_run_ms": 1790877150037,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4857,6 +4857,18 @@
    "section": "סלבס",
    "title": "\"שנים של הטרדות\": יוצא הריאליטי בצעד חריף נגד האקסית"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-50c23796268f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790876907585,
+   "content_type": "article",
+   "first_seen_ms": 1790876907585,
+   "indexable": true,
+   "indexnow_ms": 1790876907585,
+   "published_ms": 1790874420000,
+   "section": "סלבס",
+   "title": "במאות אלפי שקלים: הצעד הבא של מירן בוזגלו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -4975,7 +4987,7 @@
    "indexnow_ms": 1790866106872,
    "published_ms": 1790864040000,
    "section": "",
-   "title": "\"סתמי ת'פה ושבי בשקט\": התקרית של רונה-לי שמעון"
+   "title": "\"סתמי ת'פה ושבי בשקט\": התקרית של רונה-לי באוטובוס"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-940d219f263f0a1026.htm": {
    "check_attempts": 1,
@@ -9775,7 +9787,7 @@
    "indexnow_ms": 1790851948667,
    "published_ms": 1790851380000,
    "section": "פלילים",
-   "title": "ההסתבכות של אח של עד המדינה: \"מאות אלפי שקלים\""
+   "title": "אחיו של עד המדינה שנרצח נעצר: \"גנב תכשיטים\""
   },
   "https://www.mako.co.il/men-men_news/Article-73dee209e7dc0a1027.htm": {
    "check_attempts": 1,
@@ -12332,6 +12344,18 @@
    "published_ms": 1790170080000,
    "section": "הכי חם",
    "title": "יחידת העילית נחשפת: \"נישקתי ונפרדתי מהילדים\""
+  },
+  "https://www.mako.co.il/pzm-magazine/Article-d4f86137437f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790877150037,
+   "content_type": "article",
+   "first_seen_ms": 1790877150037,
+   "indexable": true,
+   "indexnow_ms": 1790877150037,
+   "published_ms": 1790876940000,
+   "section": "",
+   "title": "\"לוחם שמתחבא לא שומע או רואה. רק מריח פחד וסירחון\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-0254a9dfe41e0a1027.htm": {
    "check_attempts": 1,
