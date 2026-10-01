@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790875680875,
+ "last_run_ms": 1790875948812,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1511,7 +1511,7 @@
    "indexnow_ms": null,
    "published_ms": 1790872800000,
    "section": "ספורט",
-   "title": "\"הפועל התמוטטה. איך חוטפים ריצת 19:0\""
+   "title": "\"הפועל התמוטטה. איך חוטפים ריצת 21:4?!\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-0f6021d4807f0a1027.htm": {
    "check_attempts": 1,
@@ -2760,6 +2760,18 @@
    "published_ms": 1790866140000,
    "section": "ספורט",
    "title": "על מה משחקים? תמונת המצב של ישראל באומות"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-829a4f5bb78f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790875948812,
+   "content_type": "article",
+   "first_seen_ms": 1790875948812,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790875560000,
+   "section": "ספורט",
+   "title": "לראשונה: השחקנים שיפתחו בהרכב הנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
    "check_attempts": 1,
