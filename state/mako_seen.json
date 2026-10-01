@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790861850137,
+ "last_run_ms": 1790862154574,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3251,6 +3251,18 @@
    "section": "ספורט",
    "title": "\"כבר ראינו את הסוף\": העדות מהמטוס מדובאי"
   },
+  "https://www.mako.co.il/Sports-football-il/q4_2026/Article-8c3c43ca8073381027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790862154574,
+   "content_type": "article",
+   "first_seen_ms": 1790862154574,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790861820000,
+   "section": "ספורט",
+   "title": "\"הבושה הכי גדולה\": הכתם של פ.ס.ז` בחיפה"
+  },
   "https://www.mako.co.il/Sports-football-world/europe-league-q3_2026/Article-faf18050d12f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4387,7 +4399,7 @@
    "indexnow_ms": 1790860827528,
    "published_ms": 1790859600000,
    "section": "תרבות tvbee",
-   "title": "\"הופעות מבוטלות. יהודים מוכנסים לרשימות שחורות\""
+   "title": "יהודים מוכנסים לרשימות שחורות: \"המצב גרוע ממה שחשבנו\""
   },
   "https://www.mako.co.il/culture-articles/Article-d615ee0f842f0a1026.htm": {
    "check_attempts": 1,
