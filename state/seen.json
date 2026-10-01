@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/tech-magazine/2026-m10_w01/shorts-213343dc4b8f0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-4accf9cd6f8f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -53254,7 +53254,7 @@
    "description": "",
    "duration_s": 31,
    "first_seen_ms": 1790882846139,
-   "image": "https://img.mako.co.il/2026/10/01/SHIRA_WHATSAPP_011026M_1400_1790879955311_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/01/FIX_SHIRA_WHATSAPP_011026_1400_1790882833041_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1790879962000,
    "sections": [
@@ -53262,9 +53262,9 @@
    ],
    "title": "העדכון הכי חשוב להורים מגיע לוואטסאפ",
    "type": "general",
-   "updated_ms": 1790879962000,
+   "updated_ms": 1790882820000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w01/shorts-213343dc4b8f0a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIRA_WHATSAPP_011026/MASTER/SHIRA_WHATSAPP_011026M/SHIRA_WHATSAPP_011026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/FIX_SHIRA_WHATSAPP_011026/FIX_SHIRA_WHATSAPP_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
@@ -58723,6 +58723,24 @@
    "updated_ms": 1790863976000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-406e8e6e9c7f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_bus_6730_01102026021120/V1_karind_bus_6730_01102026021120_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-4accf9cd6f8f0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אש ולבה זורמות מההר: התפרצות הר הגעש קילאואה בהוואי בתיעוד מרהיב",
+   "duration_s": 93,
+   "first_seen_ms": 1790883746449,
+   "image": "https://img.mako.co.il/2026/10/01/V1_karind_hawai_6754_01102026073800_1400_1790883624764_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790883631000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "אש ולבה זורמות מההר: התפרצות הר הגעש קילאואה בהוואי בתיעוד מרהיב",
+   "type": "mivzakim",
+   "updated_ms": 1790883631000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-4accf9cd6f8f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_hawai_6754_01102026073800/V1_karind_hawai_6754_01102026073800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-61f2113c7b7f0a1027.htm": {
    "author": "מבזקים מהעולם",
