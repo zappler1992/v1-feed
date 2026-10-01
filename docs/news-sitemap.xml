@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-432ebbca035f0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-01T03:26:13+00:00</news:publication_date>
+<news:title>נתניהו בריאיון לפוקס ניוז: ״ישראל תשתתף בחקירת הטייס״</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/01/M_NEWS_16552_01102026032443_1400_1790825167443_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4bddbbca035f0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2114,14 +2123,5 @@
 <news:title>בן 30 נהרג בתאונת דרכים ליד עילבון לאחר שהתנגש עם רכבו בסוס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/M_NEWS_16412_29092026033111_1400_1790652756057_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-31c6c0e1d0be0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T03:28:05+00:00</news:publication_date>
-<news:title>שני רכבים עלו הלילה באש באור יהודה. הנסיבות נחקרות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/M_NEWS_16411_29092026032638_1400_1790652477853_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
