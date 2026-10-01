@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790852248741,
+ "last_run_ms": 1790852548818,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -8649,6 +8649,18 @@
    "section": "",
    "title": "על הבמה בחנוכה: הכוכבים יתחרו על 200 אלף ש\"ח"
   },
+  "https://www.mako.co.il/makoz-news/Article-c0b2892fd61f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790852548818,
+   "content_type": "article",
+   "first_seen_ms": 1790852548818,
+   "indexable": true,
+   "indexnow_ms": 1790852548818,
+   "published_ms": 1790766000000,
+   "section": "",
+   "title": "מופע חנוכה על הטרנד הסקווישים"
+  },
   "https://www.mako.co.il/makoz-news/Article-c5464d6bd62d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10137,6 +10149,18 @@
    "section": "מוזיקה",
    "title": "אחרי הנפילה הכואבת: עדכון במצבה של ירדנה ארזי"
   },
+  "https://www.mako.co.il/music-news/Article-487578f6117f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790852427460,
+   "content_type": "article",
+   "first_seen_ms": 1790852427460,
+   "indexable": true,
+   "indexnow_ms": 1790852427460,
+   "published_ms": 1790852040000,
+   "section": "מוזיקה",
+   "title": "אחרי שנים בחו\"ל: המפיק הישראלי המצליח חוזר לגור בארץ"
+  },
   "https://www.mako.co.il/music-news/Article-53c83a91da6f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11275,7 +11299,7 @@
    "indexnow_ms": 1790842466896,
    "published_ms": 1790841900000,
    "section": "דיגיטל",
-   "title": "אלפי ציוצים בשעות: הקונספירציה על פליי-דובאי"
+   "title": "בעולם בטוחים: \"מצאנו מי אשם באירוע בטיסת פליי-דובאי\""
   },
   "https://www.mako.co.il/nexter-news/Article-a59c5f45d67e0a1026.htm": {
    "check_attempts": 1,
@@ -13843,7 +13867,7 @@
    "indexnow_ms": 1790845227065,
    "published_ms": 1790844660000,
    "section": "",
-   "title": "צעיר ישראלי טבע למוות במהלך חופשה בנורווגיה"
+   "title": "אסון בחופשה: צעיר ישראלי טבע למוות"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
