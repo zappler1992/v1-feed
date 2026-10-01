@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-f29e3eecb67f0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/01/V1_SHIR_FRANCE2_6722_01102026122825_1400_1790857801033_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>התיעוד החריג שהוסר מהרשתות בצרפת: בית הספר הופך למלכודת אש ענקית</video:title>
+<video:description>התיעוד החריג שהוסר מהרשתות בצרפת: בית הספר הופך למלכודת אש ענקית</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE2_6722_01102026122825/V1_SHIR_FRANCE2_6722_01102026122825_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>28</video:duration>
+<video:publication_date>2026-10-01T12:30:07+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים מהעולם</video:uploader>
+<video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/01/V1_SHIR_FRANCE1_6721_01102026122602_1400_1790857632329_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>התושבים מתעדים ולא מאמינים: צרפת עולה באש - ועשן בכל מקום בגלל הפגנת התלמידים</video:title>
+<video:description>התושבים מתעדים ולא מאמינים: צרפת עולה באש - ועשן בכל מקום בגלל הפגנת התלמידים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE1_6721_01102026122602/V1_SHIR_FRANCE1_6721_01102026122602_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>11</video:duration>
+<video:publication_date>2026-10-01T12:27:19+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים מהעולם</video:uploader>
+<video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c376abd3c57f0a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/01/M_NEWS_16586_01102026121420_1400_1790856945895_FirstFrame.jpg</video:thumbnail_loc>
@@ -125,6 +157,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>חדשות מהמסך</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -173,6 +206,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>תרבות</video:uploader>
+<video:tag>הכי Vיראלים</video:tag>
 <video:tag>תרבות</video:tag>
 </video:video>
 </url>

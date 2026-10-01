@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c376abd3c57f0a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-68c2abd3c57f0a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-f29e3eecb67f0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5844,7 +5844,9 @@
    "image": "https://img.mako.co.il/2026/10/01/rinat_meme_01102026_m_1400_1790848814309_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790848821000,
-   "sections": [],
+   "sections": [
+    "הכי Vיראלים"
+   ],
    "title": "\"בינתיים בקוקפיט\": המים שמשגע את הרשת",
    "type": "general",
    "updated_ms": 1790848821000,
@@ -21093,7 +21095,9 @@
    "image": "https://img.mako.co.il/2026/10/01/SHIR_PARAMOUNT_011026_1400_1790852189027_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790852195000,
-   "sections": [],
+   "sections": [
+    "חדשות מהמסך"
+   ],
    "title": "הישראלי שעולה לפסגת הוליווד - ומונה למנכ״ל ענקית הקולנוע",
    "type": "news",
    "updated_ms": 1790852520000,
@@ -57956,6 +57960,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-68c2abd3c57f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE_6720_01102026121042/V1_SHIR_FRANCE_6720_01102026121042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "התושבים מתעדים ולא מאמינים: צרפת עולה באש - ועשן בכל מקום בגלל הפגנת התלמידים",
+   "duration_s": 11,
+   "first_seen_ms": 1790857946137,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_FRANCE1_6721_01102026122602_1400_1790857632329_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790857639000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "התושבים מתעדים ולא מאמינים: צרפת עולה באש - ועשן בכל מקום בגלל הפגנת התלמידים",
+   "type": "mivzakim",
+   "updated_ms": 1790857639000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE1_6721_01102026122602/V1_SHIR_FRANCE1_6721_01102026122602_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -57974,6 +57996,24 @@
    "updated_ms": 1790838707000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_PIZZA_6707_01102026071020/V1_SHIR_PIZZA_6707_01102026071020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-f29e3eecb67f0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "התיעוד החריג שהוסר מהרשתות בצרפת: בית הספר הופך למלכודת אש ענקית",
+   "duration_s": 28,
+   "first_seen_ms": 1790857946137,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_FRANCE2_6722_01102026122825_1400_1790857801033_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790857807000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "התיעוד החריג שהוסר מהרשתות בצרפת: בית הספר הופך למלכודת אש ענקית",
+   "type": "mivzakim",
+   "updated_ms": 1790857807000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-f29e3eecb67f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE2_6722_01102026122825/V1_SHIR_FRANCE2_6722_01102026122825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm": {
    "author": "מבזקים מהעולם",
