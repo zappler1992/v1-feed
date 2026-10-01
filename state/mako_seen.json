@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790876548933,
+ "last_run_ms": 1790876849216,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1548,6 +1548,18 @@
    "published_ms": 1790825940000,
    "section": "ספורט",
    "title": "\"משחק נוראי\": הקריסה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-51a34f5bb78f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790876787566,
+   "content_type": "article",
+   "first_seen_ms": 1790876787566,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790876640000,
+   "section": "ספורט",
+   "title": "איטודיס לא הגיב? מאחורי הקאמבק של ריאל"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-6845c2bac08f0a1026.htm": {
    "check_attempts": 1,
@@ -4784,6 +4796,18 @@
    "published_ms": 1790347080000,
    "section": "סלבס",
    "title": "\"עשיתי התרת קללות ונדרים, התפללתי\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-29394cb5e38f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790876787566,
+   "content_type": "article",
+   "first_seen_ms": 1790876787566,
+   "indexable": true,
+   "indexnow_ms": 1790876787566,
+   "published_ms": 1790876700000,
+   "section": "",
+   "title": "\"ננעלה לי הלסת\": האירוע הרפואי של דניאל עמית"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-2b44fb0f5dce0a1026.htm": {
    "check_attempts": 1,
@@ -13748,6 +13772,18 @@
    "published_ms": 1790456400000,
    "section": "",
    "title": "טרגדיה בחופשה: בניין התפוצץ - שישה תיירים נהרגו"
+  },
+  "https://www.mako.co.il/travel-news/Article-184e4cb5e38f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790876667627,
+   "content_type": "article",
+   "first_seen_ms": 1790876667627,
+   "indexable": true,
+   "indexnow_ms": 1790876667627,
+   "published_ms": 1790872200000,
+   "section": "",
+   "title": "\"אני לא רוצה למות\": רגעי האימה בזמן שהמטוס צונח"
   },
   "https://www.mako.co.il/travel-news/Article-1e73e7c41d4d0a1026.htm": {
    "check_attempts": 1,
