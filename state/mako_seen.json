@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790868748390,
+ "last_run_ms": 1790869048434,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1536,6 +1536,18 @@
    "published_ms": 1790825940000,
    "section": "ספורט",
    "title": "\"משחק נוראי\": הקריסה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-6845c2bac08f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790868986997,
+   "content_type": "article",
+   "first_seen_ms": 1790868986997,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790868780000,
+   "section": "ספורט",
+   "title": "צפו: אולפן היורוליג לקראת הפועל - ריאל"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-7091bbca035f0a1027.htm": {
    "check_attempts": 1,
@@ -6907,7 +6919,7 @@
    "indexnow_ms": 1790843548584,
    "published_ms": 1790838360000,
    "section": "בריאות",
-   "title": "הסכנות הבריאותיות שלא דיברו עליהן בזמן שהמטוס צלל"
+   "title": "\"כמו רכבת הרים בלונה פארק, אבל הסוף לא ברור\""
   },
   "https://www.mako.co.il/health-news/Article-175bb9c75f1f0a1027.htm": {
    "check_attempts": 1,
@@ -12799,7 +12811,7 @@
    "indexnow_ms": 1790800948442,
    "published_ms": 1790800740000,
    "section": "חדשות",
-   "title": "הפרט החדש שנחשף על המחבל, והאזהרה: \"ינסו לעשות שוב\""
+   "title": "נתניהו: \"טייס המשנה עבר תהליך הקצנה איסלאמיסטית\""
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-5d0c4a847e9e0a1026.htm": {
    "check_attempts": 1,
@@ -13939,7 +13951,7 @@
    "indexnow_ms": 1790855907606,
    "published_ms": 1790852580000,
    "section": "חופש",
-   "title": "במצב יציב: פרס יוקרתי יוענק לטייס פליי-דובאי"
+   "title": "הודו וישראל מצדיעות: כך מתכננים להודות לטייס שנפגע"
   },
   "https://www.mako.co.il/travel-news/international/Article-1ca1679852ce0a1026.htm": {
    "check_attempts": 1,
