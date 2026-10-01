@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790888548473,
+ "last_run_ms": 1790888848563,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4245,7 +4245,7 @@
    "indexnow_ms": null,
    "published_ms": 1790883000000,
    "section": "ספורט",
-   "title": "כדורים עם דגלי פלסטין: המשחק שנעצר בגלל מחאה נגד ישראל"
+   "title": "בשל מחאה נגד ישראל: המשחק באירלנד נעצר"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-643671dcf68e0a1027.htm": {
    "check_attempts": 1,
@@ -14013,6 +14013,18 @@
    "section": "",
    "title": "טרגדיה בחופשה: בניין התפוצץ - שישה תיירים נהרגו"
   },
+  "https://www.mako.co.il/travel-news/Article-137b6012937f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-137b6012937f0a1026.htm",
+   "checked_ms": 1790888848563,
+   "content_type": "article",
+   "first_seen_ms": 1790888848563,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790881860000,
+   "section": "",
+   "title": "הבשורה לנוסעים שאמורים לעלות על טיסות החילוץ"
+  },
   "https://www.mako.co.il/travel-news/Article-184e4cb5e38f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14984,6 +14996,18 @@
    "published_ms": 1790570160000,
    "section": "חופש",
    "title": "טייסת חושפת: זה מה שקורה בתא הטייס בזמן טיסות ארוכות"
+  },
+  "https://www.mako.co.il/travel-world/Article-e4b0a7f4dafac91027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790888848563,
+   "content_type": "article",
+   "first_seen_ms": 1790888848563,
+   "indexable": true,
+   "indexnow_ms": 1790888848563,
+   "published_ms": 1790888760000,
+   "section": "",
+   "title": "למקרה הצורך: ככה מנחיתים מטוס נוסעים"
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-16199bce732d0a1026.htm": {
    "check_attempts": 1,
