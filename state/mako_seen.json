@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790870548423,
+ "last_run_ms": 1790870848497,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1572,6 +1572,18 @@
    "published_ms": 1790833560000,
    "section": "ספורט",
    "title": "משבר זהות: הבעיה הגדולה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-d64e0dbdd18f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790870787220,
+   "content_type": "article",
+   "first_seen_ms": 1790870787220,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790870580000,
+   "section": "ספורט",
+   "title": "מקצה הספסל לחמישייה: המהלך של איטודיס"
   },
   "https://www.mako.co.il/Sports-basketball/q3_2026/Article-193879c49ece0a1026.htm": {
    "check_attempts": 1,
