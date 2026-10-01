@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-f6e2d9f6a35f0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-01T03:15:38+00:00</news:publication_date>
+<news:title>20 דיירי בית אבות בבבני ברק נפצעו קל ופונו לבית החולים בעקבות שריפה שפרצה במקום</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/01/M_NEWS_16550_01102026031408_1400_1790824528627_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-b1e1e7ab404f0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2105,14 +2114,5 @@
 <news:title>שני רכבים עלו הלילה באש באור יהודה. הנסיבות נחקרות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/M_NEWS_16411_29092026032638_1400_1790652477853_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-d3e1b64322be0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T03:19:33+00:00</news:publication_date>
-<news:title>חברת OpenAI החליטה לדחות את השקת מודל הבינה המלאכותית החדש שלה, על רקע ההזהרות סביב פעולות הבינה המל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/M_NEWS_16410_29092026031819_1400_1790651965452_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
