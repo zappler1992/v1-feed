@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-6ac469dfb4180a1026.htm</loc>
-<video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/09/08/LOVE_CORNER_EP18_M_1400_1788876068266_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>אהבה מעבר לפינה פרק 18: נשברת מהבשורה</video:title>
-<video:description>אהבה מעבר לפינה פרק 18: אלונה ודניאלה מתקשות למצוא את המילים, אבל בסוף מספרות לשירלי את האמת על העזיבה של אבא. שירלי מתקשה לעכל את הבשורה וכועסת עליהן שחיכו כל כך הרבה זמן לפני שסיפרו לה. היא חוזרת לחדר, שם רועי מחכה לה ומנסה להיות לצידה ברגע הקשה. מולו הכעס כבר הופך לכאב, ושירלי לא מצליחה להבין איך אבא שתמיד דאג לה יכול היה פשוט לעזוב אותה.</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/LOVE_CORNER_EP18/MASTER/LOVE_CORNER_EP18_M/LOVE_CORNER_EP18_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>155</video:duration>
-<video:publication_date>2026-10-01T08:47:00+00:00</video:publication_date>
-<video:family_friendly>yes</video:family_friendly>
-<video:requires_subscription>no</video:requires_subscription>
-<video:live>no</video:live>
-<video:uploader>אהבה מעבר לפינה</video:uploader>
-<video:tag>מיקרו סדרות</video:tag>
-<video:tag>אהבה מעבר לפינה</video:tag>
-</video:video>
-</url>
-<url>
 <loc>https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-45e2898fd02f0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/30/LOADED_EP49_1400_1790768053424_FirstFrame.jpg</video:thumbnail_loc>
@@ -32,6 +15,23 @@
 <video:uploader>מסודרים</video:uploader>
 <video:tag>מיקרו סדרות</video:tag>
 <video:tag>מסודרים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-6ac469dfb4180a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/08/LOVE_CORNER_EP18_M_1400_1788876068266_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אהבה מעבר לפינה פרק 18: נשברת מהבשורה</video:title>
+<video:description>אהבה מעבר לפינה פרק 18: אלונה ודניאלה מתקשות למצוא את המילים, אבל בסוף מספרות לשירלי את האמת על העזיבה של אבא. שירלי מתקשה לעכל את הבשורה וכועסת עליהן שחיכו כל כך הרבה זמן לפני שסיפרו לה. היא חוזרת לחדר, שם רועי מחכה לה ומנסה להיות לצידה ברגע הקשה. מולו הכעס כבר הופך לכאב, ושירלי לא מצליחה להבין איך אבא שתמיד דאג לה יכול היה פשוט לעזוב אותה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/08/LOVE_CORNER_EP18/MASTER/LOVE_CORNER_EP18_M/LOVE_CORNER_EP18_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>155</video:duration>
+<video:publication_date>2026-10-01T08:47:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>אהבה מעבר לפינה</video:uploader>
+<video:tag>מיקרו סדרות</video:tag>
+<video:tag>אהבה מעבר לפינה</video:tag>
 </video:video>
 </url>
 <url>
@@ -362,8 +362,8 @@ Powered by Spikes</video:description>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-ae3c6d9a406f0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/01/V1_SHIR_SPIKE_6701_01102026055611_1400_1790834224996_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>הבמאי והמפיק האמריקאי ספייק לי התעמת עם אוהד שקרא לו להגיד: &quot;פרי פלסטיין&quot; - האבטחה מנעה עימות</video:title>
-<video:description>הבמאי והמפיק האמריקאי ספייק לי התעמת עם אוהד שקרא לו להגיד: &quot;פרי פלסטיין&quot; - האבטחה מנעה עימות</video:description>
+<video:title>כמעט נגמר במכות: הבמאי ספייק לי התעמת בניו יורק עם אוהד שקרא לעברו &quot;פאק פלסטיין&quot;</video:title>
+<video:description>כמעט נגמר במכות: הבמאי ספייק לי התעמת בניו יורק עם אוהד שקרא לעברו &quot;פאק פלסטיין&quot;</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_SPIKE_6701_01102026055611/V1_SHIR_SPIKE_6701_01102026055611_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>11</video:duration>
 <video:publication_date>2026-10-01T05:57:11+00:00</video:publication_date>
