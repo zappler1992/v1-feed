@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-3fa769ba117f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0dc06012937f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9975,7 +9975,7 @@
    ],
    "title": "שרדה שתי זריקות רעל: ניסיון ההוצאה להורג של כריסטינה פייק הופסק",
    "type": "general",
-   "updated_ms": 1790838816000,
+   "updated_ms": 1790854500000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-a57e6fa3c46f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/KILLLERFIXMAIN/KILLLERFIXMAIN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -21110,7 +21110,7 @@
    "sections": [],
    "title": "השרברב הישראלי שהציל את המטוס מהתרסקות - מכבב גם בעבודתו עם ציון 9.9",
    "type": "news",
-   "updated_ms": 1790852336000,
+   "updated_ms": 1790854440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-3fa769ba117f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/inbalplumer011026/MASTER/inbalplumer011026m/inbalplumer011026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -39072,6 +39072,24 @@
    "updated_ms": 1790843247000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-063f98d4f86f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16570_01102026082624/M_NEWS_16570_01102026082624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0dc06012937f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בעקבות הסערה: אמירייטס תאפשר לנוסעים לתל אביב לנחות בדובאי עם אישור טיסות החילוץ",
+   "duration_s": 9,
+   "first_seen_ms": 1790854946220,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_EMIRATES_6717_01102026113459_1400_1790854564959_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790854572000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בעקבות הסערה: אמירייטס תאפשר לנוסעים לתל אביב לנחות בדובאי עם אישור טיסות החילוץ",
+   "type": "mivzakim",
+   "updated_ms": 1790854572000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0dc06012937f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_EMIRATES_6717_01102026113459/V1_SHIR_EMIRATES_6717_01102026113459_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm": {
    "author": "מבזקים",
