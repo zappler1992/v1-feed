@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790879249019,
+ "last_run_ms": 1790879549063,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2832,6 +2832,18 @@
    "published_ms": 1790869440000,
    "section": "ספורט",
    "title": "זמן לשינוי: פתרונות אפשריים לנבחרת ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-b96c0c1a1b8f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790879549063,
+   "content_type": "article",
+   "first_seen_ms": 1790879549063,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790879280000,
+   "section": "ספורט",
+   "title": "דניאל פרץ סובל מקרע במפשעה. הזמן שיחמיץ"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d261c668e27f0a1026.htm": {
    "check_attempts": 1,
@@ -10111,7 +10123,7 @@
    "indexnow_ms": 1790855667621,
    "published_ms": 1790855100000,
    "section": "פלילים",
-   "title": "ספג טיל לאו לווילה שלו - וזה מה שענו לו במשטרה"
+   "title": "טיל לאו נורה לבית של איש העסקים - וזה מה שענתה המשטרה"
   },
   "https://www.mako.co.il/men-men_news/Article-beae7c9d12de0a1027.htm": {
    "check_attempts": 1,
@@ -10243,7 +10255,7 @@
    "indexnow_ms": 1790843426945,
    "published_ms": 1790842860000,
    "section": "פלילים",
-   "title": "אבא העיר לרוכבי אופנוע שנסעו על המדרכה. זה נגמר רע"
+   "title": "העיר לרוכבי אופנוע - וספג מכות בראש עם קסדה"
   },
   "https://www.mako.co.il/men-men_news/Article-ce2e05ab7a4d0a1026.htm": {
    "check_attempts": 1,
@@ -10579,7 +10591,7 @@
    "indexnow_ms": 1790843906994,
    "published_ms": 1790842920000,
    "section": "מוזיקה",
-   "title": "הסכום המטורף שכוכבת הענק תקבל על מכירת שיריה"
+   "title": "הסכום המטורף שכוכבת הענק תקבל על מכירת השירים שלה"
   },
   "https://www.mako.co.il/music-news/Article-3face3cfa32d0a1027.htm": {
    "check_attempts": 1,
