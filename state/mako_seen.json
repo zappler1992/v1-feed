@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790875052621,
+ "last_run_ms": 1790875349051,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1511,7 +1511,7 @@
    "indexnow_ms": null,
    "published_ms": 1790872800000,
    "section": "ספורט",
-   "title": "\"כדורסל מעולם אחר. הפועל מפרקת את ריאל\""
+   "title": "\"כדורסל מעולם אחר. הפועל חגגה על ריאל\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-0f6021d4807f0a1027.htm": {
    "check_attempts": 1,
@@ -11240,6 +11240,18 @@
    "published_ms": 1790354220000,
    "section": "ספורט",
    "title": "ג`ורדן החדש? פריצת הדרך הכלכלית של אמבפה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-05d73796268f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790875349051,
+   "content_type": "article",
+   "first_seen_ms": 1790875349051,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790874960000,
+   "section": "ספורט",
+   "title": "זה רשמי: מסי רכש קבוצה. אלו הצעדים הבאים"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e42b2a6a8b7f0a1026.htm": {
    "check_attempts": 1,
