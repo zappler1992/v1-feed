@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fb365261416f0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2fd35261416f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-42f196995c3f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20121,6 +20120,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-41b25836ce2f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbaldvori300926/MASTER/inbaldvori300926m/inbaldvori300926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-42f196995c3f0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אירוע אלימות מחריד בשוהם: אדם ביקש משני צעירים שלא יעשו רעש עם אופנועיהם משום שיש אנשים מבוגרים בקרבתם. בתגובה השניים החלו לתקוף את האב תוך שהוא אוחז ביד בנו. עוברי אורח ניסו להתערב - והדבר הסלים לקטטה.",
+   "duration_s": 56,
+   "first_seen_ms": 1790836046625,
+   "image": "https://img.mako.co.il/2026/09/30/biata_amram_300926_1400_1790797111568_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790797118000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "מחריד: אופנוענים תקפו אבא - מול בנו הקטן",
+   "type": "news",
+   "updated_ms": 1790797118000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-42f196995c3f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/biata_amram_300926/MASTER/biata_amram_300926/biata_amram_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-437e795e2e7e0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -39027,7 +39044,7 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "לאחר שטיסות פליי דובאי לארץ בוטלו לימים הקרובים: חברות התעופה הישראליות יפעילו טיסות חילוץ",
-   "duration_s": 71,
+   "duration_s": 6,
    "first_seen_ms": 1790831246558,
    "image": "https://img.mako.co.il/2026/10/01/SHIR_DIN_011026_FIX_1400_1790834015165_FirstFrame.jpg",
    "importance": 0,
@@ -39039,7 +39056,7 @@
    "type": "mivzakim",
    "updated_ms": 1790835300000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e4974128ea5f0a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIR_DIN_011026_FIX/SHIR_DIN_011026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/deanpreinbal31/deanpreinbal31_,550,850,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e58fbbca035f0a1027.htm": {
    "author": "מבזקים",

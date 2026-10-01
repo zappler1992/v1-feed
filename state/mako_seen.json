@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790835749318,
+ "last_run_ms": 1790836048956,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -7485,6 +7485,18 @@
    "section": "הורים",
    "title": "כשהילד מזכיר את האב שמת – והאם מתקשה להתמודד"
   },
+  "https://www.mako.co.il/home-family-kids/Article-8b0e7a72b16f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790835867526,
+   "content_type": "article",
+   "first_seen_ms": 1790835867526,
+   "indexable": true,
+   "indexnow_ms": 1790835867526,
+   "published_ms": 1790835480000,
+   "section": "הורים",
+   "title": "עם החזרה ללימודים: איך תבנו שגרה לילדי הקשב?"
+  },
   "https://www.mako.co.il/home-family-kids/Article-8e82e3cfa32d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13148,6 +13160,18 @@
    "published_ms": 1790483160000,
    "section": "חופש",
    "title": "7 דיילות פונו לטיפול רפואי - לנוסעים לא קרה כלום"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-afd02e5a603f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790835987537,
+   "content_type": "article",
+   "first_seen_ms": 1790835987537,
+   "indexable": true,
+   "indexnow_ms": 1790835987537,
+   "published_ms": 1790829240000,
+   "section": "חופש",
+   "title": "מפלט חירום: העיר שאליה פונו הישראלים מהטיסה"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
