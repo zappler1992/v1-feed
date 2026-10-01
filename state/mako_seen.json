@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790830049162,
+ "last_run_ms": 1790830348887,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6308,6 +6308,18 @@
    "published_ms": 1790574960000,
    "section": "בריאות",
    "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
+  },
+  "https://www.mako.co.il/health-news/Article-280f89445d1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790830227288,
+   "content_type": "article",
+   "first_seen_ms": 1790830227288,
+   "indexable": true,
+   "indexnow_ms": 1790830227288,
+   "published_ms": 1790830020000,
+   "section": "בריאות",
+   "title": "נבהלים מהסוכר בענבים? הנה מה שחשוב לכם לדעת"
   },
   "https://www.mako.co.il/health-news/Article-2b93b0657e0f0a1027.htm": {
    "check_attempts": 1,
