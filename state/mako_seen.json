@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790825849770,
+ "last_run_ms": 1790826150522,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1452,6 +1452,18 @@
    "published_ms": 1790799180000,
    "section": "ספורט",
    "title": "הטובה מזה שנים: הצגת ווילבקין על מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-2bbfbbca035f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790826150522,
+   "content_type": "article",
+   "first_seen_ms": 1790826150522,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790825940000,
+   "section": "ספורט",
+   "title": "\"משחק נוראי\": הקריסה של מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball/q3_2026/Article-193879c49ece0a1026.htm": {
    "check_attempts": 1,
