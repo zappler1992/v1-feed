@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84e1b813de5f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8d8bcc3cb06f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38790,6 +38791,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fd59ff6820de0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_bb_plane_6601_29092026115203/V1_bb_plane_6601_29092026115203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יותר מ-500 מטרות: חיל האוויר תקף בלבנון ובעזה בחודש האחרון, בהן מטרות חיזבאללה וחמאס",
+   "duration_s": 27,
+   "first_seen_ms": 1790834846660,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_500_6702_01102026060025_1400_1790834525574_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790834531000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יותר מ-500 מטרות: חיל האוויר תקף בלבנון ובעזה בחודש האחרון, בהן מטרות חיזבאללה וחמאס",
+   "type": "mivzakim",
+   "updated_ms": 1790834531000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_500_6702_01102026060025/V1_SHIR_500_6702_01102026060025_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-281786153b5f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -38897,6 +38916,24 @@
    "updated_ms": 1790832766000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84e1b813de5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16556_01102026053134/M_NEWS_16556_01102026053134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8d8bcc3cb06f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גנץ חושף: קיבל הצעה לשריון ברשימת הליכוד לכנסת",
+   "duration_s": 9,
+   "first_seen_ms": 1790834846660,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_GANZ_6703_01102026060241_1400_1790834645442_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790834652000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גנץ חושף: קיבל הצעה לשריון ברשימת הליכוד לכנסת",
+   "type": "mivzakim",
+   "updated_ms": 1790834652000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8d8bcc3cb06f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_GANZ_6703_01102026060241/V1_SHIR_GANZ_6703_01102026060241_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8ec186153b5f0a1026.htm": {
    "author": "מבזקים",
