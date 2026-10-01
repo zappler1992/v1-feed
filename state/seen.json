@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7e6aaf0fb18f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9d8daf0fb18f0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-697daf0fb18f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39730,6 +39731,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_5/MIVZAKIM_BOKER_011026_5_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9d8daf0fb18f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מי את שתדברי ככה על אמא שלי?\" ריב אלים בין שתי בנות במרינה באשקלון - שכלל סטירות ומשיכות בשיער",
+   "duration_s": 53,
+   "first_seen_ms": 1790869945740,
+   "image": "https://img.mako.co.il/2026/10/01/V1_karind_riv_6740_01102026034820_1400_1790869796025_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790869803000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מי את שתדברי ככה על אמא שלי?\" ריב אלים בין שתי בנות במרינה באשקלון - שכלל סטירות ומשיכות בשיער",
+   "type": "mivzakim",
+   "updated_ms": 1790869803000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9d8daf0fb18f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_riv_6740_01102026034820/V1_karind_riv_6740_01102026034820_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a1336e6ede7f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58374,6 +58393,24 @@
    "updated_ms": 1790856754000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-68c2abd3c57f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE_6720_01102026121042/V1_SHIR_FRANCE_6720_01102026121042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-697daf0fb18f0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "לא מצליחים לראות כלום - מרוב גשם: הסופה תפסה את הפועלים במחצבה בפרגוואי",
+   "duration_s": 65,
+   "first_seen_ms": 1790869945740,
+   "image": "https://img.mako.co.il/2026/10/01/V1_karind_sufa_6739_01102026034733_1400_1790869751951_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790869758000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "לא מצליחים לראות כלום - מרוב גשם: הסופה תפסה את הפועלים במחצבה בפרגוואי",
+   "type": "mivzakim",
+   "updated_ms": 1790869758000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-697daf0fb18f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_sufa_6739_01102026034733/V1_karind_sufa_6739_01102026034733_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm": {
    "author": "מבזקים מהעולם",
