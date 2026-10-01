@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8edc7d4b2f6f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a630b3f7407f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39380,6 +39380,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a629472f3b6f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_DEAD_6712_01102026090216/V1_SHIR_DEAD_6712_01102026090216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a630b3f7407f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דרמטי: אמירייטס הודיעה שישראלים לא יורשו לעלות על טיסותיה לדובאי ברחבי העולם",
+   "duration_s": 88,
+   "first_seen_ms": 1790851345975,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_DUBAI_6716_01102026103645_1400_1790851141352_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790851149000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דרמטי: אמירייטס הודיעה שישראלים לא יורשו לעלות על טיסותיה לדובאי ברחבי העולם",
+   "type": "mivzakim",
+   "updated_ms": 1790851149000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a630b3f7407f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_DUBAI_6716_01102026103645/V1_SHIR_DUBAI_6716_01102026103645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-add8ed0c4e5f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49899,7 +49917,8 @@
    "importance": 2,
    "published_ms": 1790833439000,
    "sections": [
-    "רומי גונן: הפודקאסט"
+    "רומי גונן: הפודקאסט",
+    "הכי נצפים עכשיו"
    ],
    "title": "החיים החדשים של רומי גונן: דעתי על הסרט נז\"א מאחת שהייתה שם בלב עזה",
    "type": "general",
@@ -57781,7 +57800,8 @@
    "importance": 0,
    "published_ms": 1790838707000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כאילו כלום לא קרה: שליח ברוסיה הפיל פיצה, הרים מהרצפה, החזיר אותה לקופסה - והמשיך במשלוח כרגיל",
    "type": "mivzakim",
@@ -57799,7 +57819,8 @@
    "importance": 0,
    "published_ms": 1790841233000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הבניינים רעדו והרכבות נעצרו: רעידת אדמה בעוצמה 4.3 טלטלה את קונמינג בסין",
    "type": "mivzakim",
