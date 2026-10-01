@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790869048434,
+ "last_run_ms": 1790869348454,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5827,7 +5827,7 @@
    "indexnow_ms": 1790845827158,
    "published_ms": 1790839800000,
    "section": "כסף",
-   "title": "אתגר לצרכנים: החברה הזו שברה שיא בבורסה בישראל"
+   "title": "חברה מעל טריליון שקל נסחרת בבורסה בישראל"
   },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
@@ -12740,6 +12740,18 @@
    "published_ms": 1790171820000,
    "section": "חדשות",
    "title": "\"שדרוג לארסנל\": הצוללת החדשה של ישראל נחשפת"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-ed186e6ede7f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790869227083,
+   "content_type": "article",
+   "first_seen_ms": 1790869227083,
+   "indexable": true,
+   "indexnow_ms": 1790869227083,
+   "published_ms": 1790869080000,
+   "section": "",
+   "title": "הצבא נגד היוצרים: החשיפה של צה\"ל בתגובה לנז\"א"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ee3640fc4f8c0a1026.htm": {
    "check_attempts": 1,
