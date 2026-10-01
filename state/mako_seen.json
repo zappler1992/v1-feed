@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790826451262,
+ "last_run_ms": 1790826753947,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3694,6 +3694,18 @@
    "published_ms": 1790398440000,
    "section": "ספורט",
    "title": "האזהרה של שחקני נבחרת אירלנד לפני המפגש עם ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-3dfc3ff1285f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790826753947,
+   "content_type": "article",
+   "first_seen_ms": 1790826753947,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790826480000,
+   "section": "ספורט",
+   "title": "\"לא ראויים לו\": רונאלדו יפרוש מהנבחרת?"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q3_2026/Article-643671dcf68e0a1027.htm": {
    "check_attempts": 1,
