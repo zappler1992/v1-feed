@@ -1,6 +1,18 @@
 {
- "last_run_ms": 1790895165206,
+ "last_run_ms": 1790895449086,
  "pages": {
+  "https://fashionforward.mako.co.il/beauty-2/321123/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790895449086,
+   "content_type": "article",
+   "first_seen_ms": 1790895449086,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790894962000,
+   "section": "Fashion Forward",
+   "title": "מה שטוב לקים קרדשיאן: ניסינו את הטיפול הכי מדובר לפנים ולצוואר"
+  },
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24,6 +36,18 @@
    "published_ms": 1790286839000,
    "section": "Fashion Forward",
    "title": "מתנה בשישי: בושם לאישה BOSS Bottled Beyond בשווי 659 שקלים"
+  },
+  "https://fashionforward.mako.co.il/gift/320959/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790895449086,
+   "content_type": "article",
+   "first_seen_ms": 1790895449086,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790894948000,
+   "section": "Fashion Forward",
+   "title": "מתנה בשישי: מחליק ומארז טיפוח לשיער מאתר Guilty בשווי 524 שקלים"
   },
   "https://fashionforward.mako.co.il/industry/itgirls/320514/": {
    "check_attempts": 1,
@@ -153,9 +177,9 @@
    "first_seen_ms": 1790860827528,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1790853868000,
    "section": "",
-   "title": "הגעתי לבד להכנסה של 6 ספרות. ההורים לא נתנו לי כלום"
+   "title": "חלמתי להיות עצמאית, והיום אני יכולה היום להגיע להכנסות של שש ספרות בחודש"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -504,6 +528,18 @@
    "published_ms": 1790847115000,
    "section": "אופנה",
    "title": "פרט אחד קטן בג'ינס המושלם של בר רפאלי הפך אותו לאקסטרה מחמיא"
+  },
+  "https://fashionforward.mako.co.il/news/321166/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790895449086,
+   "content_type": "article",
+   "first_seen_ms": 1790895449086,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790894976000,
+   "section": "Fashion Forward",
+   "title": "הקולקציה הכי מסקרנת של זארה סוף סוף הגיעה, והרגשות מעורבים"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
