@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790877449022,
+ "last_run_ms": 1790877749293,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1608,6 +1608,18 @@
    "published_ms": 1790872200000,
    "section": "ספורט",
    "title": "\"חייב להירגע\": הפתיחה האדירה של לידיי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cc46979f388f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790877749293,
+   "content_type": "article",
+   "first_seen_ms": 1790877749293,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790877600000,
+   "section": "ספורט",
+   "title": "\"בראיינט מנהיג. הצליח לעצור הוריקן לבדו\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cf7027fe6f5f0a1027.htm": {
    "check_attempts": 1,
