@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790861549642,
+ "last_run_ms": 1790861850137,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3923,6 +3923,18 @@
    "section": "ספורט",
    "title": "\"לא ראויים לו\": רונאלדו יפרוש מהנבחרת?"
   },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-72f86bbeaa7f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790861788021,
+   "content_type": "article",
+   "first_seen_ms": 1790861788021,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790861580000,
+   "section": "ספורט",
+   "title": "חלום ה-1,000 בורח? הפיצוץ שיפגע ברונאלדו"
+  },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-89607d4b2f6f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -7327,7 +7339,7 @@
    "indexnow_ms": 1790860827528,
    "published_ms": 1790860440000,
    "section": "HIX",
-   "title": "המורה הבטיחה ציונים טובים – למי שיעשה את זה"
+   "title": "המורה הבטיחה ציונים טובים - למי שיעשה את זה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-ab5ff46e1d8c0a1026.htm": {
    "check_attempts": 1,
