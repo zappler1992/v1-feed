@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4b4415ad146f0a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w01/shorts-19de27fe6f5f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38928,6 +38930,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-432ebbca035f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16552_01102026032443/M_NEWS_16552_01102026032443_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4b4415ad146f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יובל מעתוק משתפת: \"הוא ראה אותי נאנסת על ידי חברו הטוב ולא עשה דבר. ישבתי מולו במשטרה, אמרתי מה שישב",
+   "duration_s": 9,
+   "first_seen_ms": 1790839045749,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16559_01102026070427_1400_1790838349827_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790838356000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יובל מעתוק משתפת: \"הוא ראה אותי נאנסת על ידי חברו הטוב ולא עשה דבר. ישבתי מולו במשטרה, אמרתי מה שישב",
+   "type": "mivzakim",
+   "updated_ms": 1790838356000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4b4415ad146f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16559_01102026070427/M_NEWS_16559_01102026070427_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4bddbbca035f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39050,7 +39070,7 @@
    ],
    "title": "בג\"ץ דן בפסילת מועמדים לכנסת: הפגנות ועימותים מחוץ לבית המשפט העליון",
    "type": "mivzakim",
-   "updated_ms": 1790838060000,
+   "updated_ms": 1790838720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_5/MIVZAKIM_BOKER_011026_5_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -49508,6 +49528,24 @@
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-d98553b9303e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/alchol_tamar_2709/MASTER/alchol_tamar_2709_m/alchol_tamar_2709_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w01/shorts-19de27fe6f5f0a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "בפודקאסט \"החיים החדשים של רומי גונן\" רומי מספרת לחברתה עדי את דעתה האמיתית על הסרט נז\"א בתור אחת שהייתה שם וראתה הכל",
+   "duration_s": 56,
+   "first_seen_ms": 1790839045749,
+   "image": "https://img.mako.co.il/2026/10/01/Amit_ROMI_ADI_NAZA_M_E_1400_1790833432439_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790833439000,
+   "sections": [
+    "רומי גונן: הפודקאסט"
+   ],
+   "title": "החיים החדשים של רומי גונן: דעתי על הסרט נז\"א מאחת שהייתה שם בלב עזה",
+   "type": "general",
+   "updated_ms": 1790833439000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w01/shorts-19de27fe6f5f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/Amit_ROMI_ADI_NAZA/MASTER/Amit_ROMI_ADI_NAZA_M_E/Amit_ROMI_ADI_NAZA_M_E_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
    "date_source": null,
@@ -57371,6 +57409,24 @@
    "updated_ms": 1790528315000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m09_w05/shorts-fdbc1d4c8c3e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_soccer_6537_27092026045701/V1_soccer_6537_27092026045701_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "כאילו כלום לא קרה: שליח ברוסיה הפיל פיצה, הרים מהרצפה, החזיר אותה לקופסה - והמשיך במשלוח כרגיל",
+   "duration_s": 32,
+   "first_seen_ms": 1790839045749,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_PIZZA_6707_01102026071020_1400_1790838700919_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790838707000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "כאילו כלום לא קרה: שליח ברוסיה הפיל פיצה, הרים מהרצפה, החזיר אותה לקופסה - והמשיך במשלוח כרגיל",
+   "type": "mivzakim",
+   "updated_ms": 1790838707000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_PIZZA_6707_01102026071020/V1_SHIR_PIZZA_6707_01102026071020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
