@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790829149384,
+ "last_run_ms": 1790829448792,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5888,6 +5888,18 @@
    "published_ms": 1790480400000,
    "section": "",
    "title": "כל המאפים המלוחים שנשמח לנשנש השנה בסוכה"
+  },
+  "https://www.mako.co.il/food-meals/breakfast_recipes/Article-a8970b7dfc1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790829387337,
+   "content_type": "article",
+   "first_seen_ms": 1790829387337,
+   "indexable": true,
+   "indexnow_ms": 1790829387337,
+   "published_ms": 1790829180000,
+   "section": "הכי חם",
+   "title": "יד ראשונה משף: ככה מכינים בבית בראנץ' כמו במסעדה"
   },
   "https://www.mako.co.il/food-meals/lunch_recipes/Article-81fea931f7ec0a1027.htm": {
    "check_attempts": 1,
@@ -13448,6 +13460,18 @@
    "published_ms": 1790064900000,
    "section": "קשת 12",
    "title": "\"לא תפקדתי, היה קשה והכל החריף. התקף בלתי נשלט\""
+  },
+  "https://www.mako.co.il/tv-life_is_difficult/articles/Article-6b8bfda32d2e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790829267268,
+   "content_type": "article",
+   "first_seen_ms": 1790829267268,
+   "indexable": true,
+   "indexnow_ms": 1790829267268,
+   "published_ms": 1790829000000,
+   "section": "קשת 12",
+   "title": "\"שם היינו מאהבים, פה אחים. זה קצת מוזר\""
   },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-dc107fd7413e0a1026.htm": {
    "check_attempts": 1,
