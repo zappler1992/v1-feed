@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790845948743,
+ "last_run_ms": 1790846248559,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6524,6 +6524,18 @@
    "published_ms": 1790838360000,
    "section": "בריאות",
    "title": "\"כמו רכבת הרים בלונה פארק, אבל הסוף לא ברור\""
+  },
+  "https://www.mako.co.il/health-news/Article-175bb9c75f1f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790846067125,
+   "content_type": "article",
+   "first_seen_ms": 1790846067125,
+   "indexable": true,
+   "indexnow_ms": 1790846067125,
+   "published_ms": 1790845860000,
+   "section": "בריאות",
+   "title": "בן השנתיים תחב את היד למאוורר - וזה מה שקרה"
   },
   "https://www.mako.co.il/health-news/Article-1aef9b007b2d0a1027.htm": {
    "check_attempts": 1,

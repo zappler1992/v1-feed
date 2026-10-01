@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a629472f3b6f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-b4fb5fa4586f0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21045,6 +21046,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-6b6227fe6f5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/DVOTIFIXINBALMET2/DVOTIFIXINBALMET2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-b4fb5fa4586f0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לאחר שהטיסות מדובאי לישראל בוטלו, חברות התעופה הישראליות נערכות למבצע להחזרת הישראלים שנתקעו בדובאי, שצפוי להתחיל כבר מחר. מי ישלם? הנוסעים עצמם צפויים לשלם על כרטיסי החזרה, בעוד המדינה צפויה להשתתף בעלות הטיסות הריקות שייצאו מישראל לדובאי. ארקיע כבר פרסמה את לוח הטיסות המתוכנן לסוף השבוע.",
+   "duration_s": 48,
+   "first_seen_ms": 1790846245889,
+   "image": "https://img.mako.co.il/2026/10/01/fixflightsssss_1400_1790845017393_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790846100000,
+   "sections": [],
+   "title": "מבצע החילוץ מדובאי: מתי יתחיל ומי ישלם וכמה?",
+   "type": "news",
+   "updated_ms": 1790846100000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-b4fb5fa4586f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/fixflightsssss/fixflightsssss_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
    "date_source": null,
@@ -38989,6 +39006,24 @@
    "updated_ms": 1790841311000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16568_01102026075353/M_NEWS_16568_01102026075353_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הכינו את המטריות: גשם במרכז תל אביב",
+   "duration_s": 23,
+   "first_seen_ms": 1790846245889,
+   "image": "https://img.mako.co.il/2026/10/01/V1_iphone18geshem_6713_01102026091141_1400_1790845991335_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790845997000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הכינו את המטריות: גשם במרכז תל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1790845997000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_iphone18geshem_6713_01102026091141/V1_iphone18geshem_6713_01102026091141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-281786153b5f0a1026.htm": {
    "author": "מבזקים",
