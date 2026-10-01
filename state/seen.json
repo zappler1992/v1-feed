@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-0c9b0dbdd18f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7eb6b01d429f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39726,7 +39726,8 @@
    "importance": 1,
    "published_ms": 1790883849000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "\"הנוער איבד את הגבולות\": צפו בתיעוד בו נערים נתלים על אוטובוס בקריית מוצקין",
    "type": "mivzakim",
@@ -39877,6 +39878,24 @@
    "updated_ms": 1790869274000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7e6aaf0fb18f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_missing_6738_01102026033942/V1_karind_missing_6738_01102026033942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7eb6b01d429f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפרו את הסדר הציבורי: המשטרה עצרה 15 משתתפים שהניפו דגלים במהלך מחאה במושבה הגרמנית בחיפה",
+   "duration_s": 9,
+   "first_seen_ms": 1790888246261,
+   "image": "https://img.mako.co.il/2026/10/01/V1_KARIND_HAFGANA_6759_01102026085043_1400_1790887940316_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790887947000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפרו את הסדר הציבורי: המשטרה עצרה 15 משתתפים שהניפו דגלים במהלך מחאה במושבה הגרמנית בחיפה",
+   "type": "mivzakim",
+   "updated_ms": 1790887947000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7eb6b01d429f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_KARIND_HAFGANA_6759_01102026085043/V1_KARIND_HAFGANA_6759_01102026085043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7ff53ff1285f0a1026.htm": {
    "author": "מבזקים",
