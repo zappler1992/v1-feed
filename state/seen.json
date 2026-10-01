@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-b75f3ff1285f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7ff53ff1285f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3164,7 +3164,7 @@
    ],
    "title": "שעות לפני מותו: התיעוד האחרון של הבן של סינדי קרופורד ממכון הגמילה",
    "type": "general",
-   "updated_ms": 1790790278000,
+   "updated_ms": 1790828160000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-5dab219f263f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/inbalpre300926/MASTER/inbalpre300926m/inbalpre300926m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -38825,6 +38825,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4bddbbca035f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16551_01102026032124/M_NEWS_16551_01102026032124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7ff53ff1285f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גשם חזק החל לרדת באזור השרון",
+   "duration_s": 13,
+   "first_seen_ms": 1790828546553,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16555_01102026041813_1400_1790828373713_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790828380000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גשם חזק החל לרדת באזור השרון",
+   "type": "mivzakim",
+   "updated_ms": 1790828380000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7ff53ff1285f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16555_01102026041813/M_NEWS_16555_01102026041813_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-b75f3ff1285f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -56767,7 +56785,8 @@
    "published_ms": 1790709913000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "קשה לצפייה: תיירת סירבה לקפוץ בזיפליין בדאגסטן, רוסיה - ונאלצה לקפוץ בכוח",
    "type": "mivzakim",
@@ -57060,7 +57079,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים השבוע"
    ],
    "title": "ערוץ החדשות abc משתף רגע מפחיד: כריש שחה במי ההצפות בניו ג'רזי - והתקדם עד בית התושב",
    "type": "mivzakim",

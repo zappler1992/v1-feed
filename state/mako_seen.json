@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790828249181,
+ "last_run_ms": 1790828549507,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2604,6 +2604,18 @@
    "published_ms": 1790771340000,
    "section": "ספורט",
    "title": "משתלם: שכר מאמני נבחרת ישראל נחשף"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790828549507,
+   "content_type": "article",
+   "first_seen_ms": 1790828549507,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790828220000,
+   "section": "ספורט",
+   "title": "\"פחות שמות, יותר עבודה\": התוכנית לקוסובו"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q3_2026/Article-92fee2743c2e0a1027.htm": {
    "check_attempts": 1,
