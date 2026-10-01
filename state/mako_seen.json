@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790857348738,
+ "last_run_ms": 1790857648715,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2665,6 +2665,18 @@
    "section": "ספורט",
    "title": "משתלם: שכר מאמני נבחרת ישראל נחשף"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790857586698,
+   "content_type": "article",
+   "first_seen_ms": 1790857586698,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790857260000,
+   "section": "ספורט",
+   "title": "\"רן בן שמעון איבד את האמון של כל המדינה\""
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d261c668e27f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4867,7 +4879,7 @@
    "indexnow_ms": 1790854348795,
    "published_ms": 1790853780000,
    "section": "סלבס",
-   "title": "המשפיענית על ההיריון המתקדם בצל המשבר עם בעלה"
+   "title": "המשפיענית עברה היריון לבד, עכשיו היא מספרת הכל"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d6a71680eee90a1026.htm": {
    "check_attempts": 1,
