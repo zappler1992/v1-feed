@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-42f196995c3f0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-0e7bf033926f0a1027.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-ae3c6d9a406f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4827,6 +4828,22 @@
    "updated_ms": 1790541360000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m09_w05/shorts-fa7c0fca714e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/V1_tomcruise_6540_27092026062204/V1_tomcruise_6540_27092026062204_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-ae3c6d9a406f0a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "הבמאי והמפיק האמריקאי ספייק לי התעמת עם אוהד שקרא לו להגיד: \"פרי פלסטיין\" - האבטחה מנעה עימות",
+   "duration_s": 11,
+   "first_seen_ms": 1790836946697,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_SPIKE_6701_01102026055611_1400_1790834224996_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790834231000,
+   "sections": [],
+   "title": "הבמאי והמפיק האמריקאי ספייק לי התעמת עם אוהד שקרא לו להגיד: \"פרי פלסטיין\" - האבטחה מנעה עימות",
+   "type": "mivzakim",
+   "updated_ms": 1790834231000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-ae3c6d9a406f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_SPIKE_6701_01102026055611/V1_SHIR_SPIKE_6701_01102026055611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -20916,6 +20933,22 @@
    "updated_ms": 1790519160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-fd3077c30a2e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/SHIR_ELAL_270926/MASTER/SHIR_ELAL_270926/SHIR_ELAL_270926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-0e7bf033926f0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 15,
+   "first_seen_ms": 1790836946697,
+   "image": "https://img.mako.co.il/2026/10/01/MIVZAKIM_BOKER_011026_4_1400_1790836525524_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790836532000,
+   "sections": [],
+   "title": "ישראלי נרצח באי קופנגן שבתאילנד",
+   "type": "news",
+   "updated_ms": 1790836532000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-0e7bf033926f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_THAILAND_011026/MASTER/MIVZAKIM_BOKER_011026_4/MIVZAKIM_BOKER_011026_4_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-6b6227fe6f5f0a1027.htm": {
    "author": "חדשות",
