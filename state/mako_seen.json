@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790836048956,
+ "last_run_ms": 1790836350010,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2616,6 +2616,18 @@
    "published_ms": 1790771340000,
    "section": "ספורט",
    "title": "משתלם: שכר מאמני נבחרת ישראל נחשף"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d8c67a72b16f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790836350010,
+   "content_type": "article",
+   "first_seen_ms": 1790836350010,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790836080000,
+   "section": "ספורט",
+   "title": "\"בגדתם בעם שלנו\": מחאות נגד שחקני אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
    "check_attempts": 1,
@@ -8227,7 +8239,7 @@
    "indexnow_ms": 1790835749318,
    "published_ms": 1790835420000,
    "section": "",
-   "title": "האיחוד המרגש של כוכבי דיסני"
+   "title": "9 שנים אחרי: האיחוד המרגש של כוכבי דיסני"
   },
   "https://www.mako.co.il/makoz-news/Article-ef89fc2346de0a1026.htm": {
    "check_attempts": 1,
