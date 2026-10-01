@@ -223,6 +223,7 @@
 <video:live>no</video:live>
 <video:uploader>תרבות</video:uploader>
 <video:tag>הכי Vיראלים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>תרבות</video:tag>
 </video:video>
 </url>
@@ -240,6 +241,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -312,8 +314,7 @@
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/01/ACADEMY_OF_LIES_EP05_1400_1790853151339_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>בקצב השקר פרק 5: לא נשארת חייבת</video:title>
-<video:description>בקצב השקר פרק 5: כדי לעמוד בהבטחה לכרטיסים, אשלי פונה לאביה - מייקל, הנהג שקיבל ממיה את בגדי המעצבים. הוא מסרב לבקש עוד טובה מאוליביה, אבל התחנונים של בתו וקופסת כרטיסי VIP במכונית מעמידים אותו בפני פיתוי. בינתיים, אשלי והחברות תופסות את מיה בשירותים ושופכות עליה פח זבל כנקמה על המבוכה בשיעור. הפעם מיה לא נשארת חייבת, ומשיבה להן במכה מלוכלכת משלה. כשהיא יוצאת משם ונתקלת בבחור שכבר נחלץ לעזרתה, הוא רוצה לדעת מה עומד מאחורי הצעקות.
-Powered by Spikes</video:description>
+<video:description>בקצב השקר פרק 5: כדי לעמוד בהבטחה לכרטיסים, אשלי פונה לאביה - מייקל, הנהג שקיבל ממיה את בגדי המעצבים. הוא מסרב לבקש עוד טובה מאוליביה, אבל התחנונים של בתו וקופסת כרטיסי VIP במכונית מעמידים אותו בפני פיתוי. בינתיים, אשלי והחברות תופסות את מיה בשירותים ושופכות עליה פח זבל כנקמה על המבוכה בשיעור. הפעם מיה לא נשארת חייבת, ומשיבה להן במכה מלוכלכת משלה. כשהיא יוצאת משם ונתקלת בבחור שכבר נחלץ לעזרתה, הוא רוצה לדעת מה עומד מאחורי הצעקות.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/ACADEMY_OF_LIES_EP05/MASTER/ACADEMY_OF_LIES_EP05/ACADEMY_OF_LIES_EP05_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>134</video:duration>
 <video:publication_date>2026-10-01T09:00:00+00:00</video:publication_date>
@@ -455,6 +456,23 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/lifestyle-magazine/2026-m10_w01/shorts-f0f3fd31176f0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/01/rinat_ceasarea_011026_m_1400_1790841386638_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>החוף שהולך לעבור מהפך דרמטי</video:title>
+<video:description>חוף האקוודוקט בקיסריה עומד לעבור שדרוג משמעותי, בהשקעה של כ-24 מיליון שקל. במסגרת העבודות יוסדרו החניות ושבילי הגישה, רצועת החוף תונגש במלואה לאנשים עם מוגבלויות ויותקנו ריהוט חוף חדש, מתקני הצללה, ברזיות ותאורה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/rinat_ceasarea_011026/MASTER/rinat_ceasarea_011026_m/rinat_ceasarea_011026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>17</video:duration>
+<video:publication_date>2026-10-01T07:56:34+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>לייף &amp; סטייל</video:uploader>
+<video:tag>רק בישראל</video:tag>
+<video:tag>לייף &amp; סטייל</video:tag>
 </video:video>
 </url>
 <url>
