@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790867548427,
+ "last_run_ms": 1790867848359,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -11168,6 +11168,18 @@
    "published_ms": 1790354220000,
    "section": "ספורט",
    "title": "ג`ורדן החדש? פריצת הדרך הכלכלית של אמבפה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e42b2a6a8b7f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790867848359,
+   "content_type": "article",
+   "first_seen_ms": 1790867848359,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790862360000,
+   "section": "ספורט",
+   "title": "קבוצת היורוליג עליה נאסר להחתים שחקנים"
   },
   "https://www.mako.co.il/news-sport/sports_others-2026_q3/Article-b6fa215c6d0e0a1026.htm": {
    "check_attempts": 1,
