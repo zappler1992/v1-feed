@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790825549580,
+ "last_run_ms": 1790825849770,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6775,7 +6775,7 @@
    "indexnow_ms": 1790824467099,
    "published_ms": 1790823600000,
    "section": "",
-   "title": "חשש קל לשיטפונות: הגשם המקומי יימשך גם היום"
+   "title": "הגשם המקומי יימשך גם היום, חשש קל לשיטפונות"
   },
   "https://www.mako.co.il/hix-nature/Article-3c1156ffb6ce0a1027.htm": {
    "check_attempts": 1,
@@ -11611,7 +11611,7 @@
    "indexnow_ms": 1790800948442,
    "published_ms": 1790800740000,
    "section": "חדשות",
-   "title": "טראמפ על איראן: \"מאוד מהר תראו דברים קורים\""
+   "title": "רוביו דרש משר החוץ האיראני לעזוב את ארה\"ב באופן מיידי"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-5d0c4a847e9e0a1026.htm": {
    "check_attempts": 1,
@@ -12068,6 +12068,18 @@
    "published_ms": 1790752680000,
    "section": "חדשות",
    "title": "בלי מילה על ישראל: ממדאני הציג תוכנית נגד אנטישמיות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e1b44862334f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-e1b44862334f0a1026.htm",
+   "checked_ms": 1790825667141,
+   "content_type": "article",
+   "first_seen_ms": 1790825667141,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790823600000,
+   "section": "חדשות",
+   "title": "שרפה פרצה בבית אבות בבני ברק: שניים במצב קשה"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,
