@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790847148710,
+ "last_run_ms": 1790847448673,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -468,6 +468,18 @@
    "published_ms": 1790806884000,
    "section": "Fashion Forward",
    "title": "כמה דרמה: לטיסיה מלכת ספרד נראית כמו נסיכת דיסני"
+  },
+  "https://fashionforward.mako.co.il/news/321113/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790847387197,
+   "content_type": "post",
+   "first_seen_ms": 1790847387197,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790847115000,
+   "section": "אופנה",
+   "title": "פרט אחד קטן בג'ינס המושלם של בר רפאלי הפך אותו לאקסטרה מחמיא"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -4219,7 +4231,7 @@
    "indexnow_ms": 1790841866868,
    "published_ms": 1790841540000,
    "section": "תרבות tvbee",
-   "title": "\"שתזד**ן פלסטין\": העימות עם אגדת הקולנוע"
+   "title": "\"שתזדיין פלסטין\": העימות עם אגדת הקולנוע"
   },
   "https://www.mako.co.il/culture-articles/Article-d615ee0f842f0a1026.htm": {
    "check_attempts": 1,
@@ -6799,7 +6811,7 @@
    "indexnow_ms": 1790839226740,
    "published_ms": 1790832720000,
    "section": "בריאות",
-   "title": "\"היא עשתה דבר חריג, היה לה חלק קריטי בהצלת המטוס\""
+   "title": "\"לאישה היה תפקיד קריטי בהצלת המטוס\""
   },
   "https://www.mako.co.il/health-news/Article-aac76fa3c46f0a1027.htm": {
    "check_attempts": 1,
@@ -9979,7 +9991,7 @@
    "indexnow_ms": 1790846427129,
    "published_ms": 1790845680000,
    "section": "מוזיקה",
-   "title": "מתמודד \"אמריקן איידול\" הורשע ברצח אשתו"
+   "title": "\"רוצה שהיא תיעלם\": הפשע שביצע מתמודד \"אמריקן איידול\""
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
