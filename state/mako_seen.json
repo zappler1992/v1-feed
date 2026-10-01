@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790887348977,
+ "last_run_ms": 1790887648983,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -13184,6 +13184,18 @@
    "published_ms": 1790452860000,
    "section": "",
    "title": "לאורך כל החג: המהלך החריג של צה\"ל באיו\"ש"
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-a25fb01d429f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790887648983,
+   "content_type": "liveblog",
+   "first_seen_ms": 1790887648983,
+   "indexable": true,
+   "indexnow_ms": 1790887648983,
+   "published_ms": 1790887260000,
+   "section": "חדשות",
+   "title": "טראמפ: \"בודקים אם יש קשר לאיראן - ממה ששמעתי כן\""
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-bcb380b2eefc0a1027.htm": {
    "check_attempts": 1,

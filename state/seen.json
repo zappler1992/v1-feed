@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4d53ad45909f0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cb36341dff8f0a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3460,6 +3461,24 @@
    "updated_ms": 1790866979000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-e5e36e6ede7f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIRA_DANIEL_011026/MASTER/SHIRA_DANIEL_011026_M/SHIRA_DANIEL_011026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "הזמרת האוסטרלית המצליחה מכרה 50% מהקטלוג שלה לחברת השקעות בעסקה בשווי 185 מיליון דולר. החלוקה תתבצע כך שסיה תקבל 165 מיליון דולר בעבור השירים שכתבה לפני נישואיה, כאשר לגרוש שלה היא תשלם כמיליון מהם בעבור הבטחה לוותר על כל תביעה עתידית על יתר הסכום. באשר לשירים שנכתבו אחרי הנישואים, עליהם לבעלה לשעבר יש חזקה חוקית חלקית, 18 מיליון דולר יועברו לקרן נאמנות.",
+   "duration_s": 46,
+   "first_seen_ms": 1790887646150,
+   "image": "https://img.mako.co.il/2026/10/01/biata_siasale_011026_1400_1790885013946_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790885021000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "זה הסכום המטורף שסיה תקבל על השירים שלה",
+   "type": "general",
+   "updated_ms": 1790885021000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_siasale_011026/MASTER/biata_siasale_011026/biata_siasale_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -21339,6 +21358,24 @@
    "updated_ms": 1790846100000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-b4fb5fa4586f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/fixflightsssss/fixflightsssss_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cb36341dff8f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "חשודים בשנות ה-20 וה-30 לחייהם מתל אביב פרצו לסניף גוד פארם ברמת אביב ג', וגנבו יותר מ-100 בשמי יוקרה. השניים פרצו באמצעות שבירת חלון, שמו את הבשמים בשקים עמידים להובלת חומרי בניין - מה שנקרא שיטת ה\"באלות\" ונמלטו תוך שניות. לבסוף הם נעצרו ונתפסו ברכבם במחסום מיתר. מתוך כתבתו של שמעון איפרגן, מאקו",
+   "duration_s": 14,
+   "first_seen_ms": 1790887646150,
+   "image": "https://img.mako.co.il/2026/10/01/SHIRA_GOODPHARM_011026_M_1400_1790886075140_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790886081000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "שוד ענק בגוד פארם: גנבו יותר מ-100 בשמי יוקרה ונמלטו תוך שניות",
+   "type": "news",
+   "updated_ms": 1790886081000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cb36341dff8f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIRA_GOODPHARM_011026/MASTER/SHIRA_GOODPHARM_011026_M/SHIRA_GOODPHARM_011026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cc9ea6beba7f0a1027.htm": {
    "author": "חדשות",
