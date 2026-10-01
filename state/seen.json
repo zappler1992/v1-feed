@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0d91a091848f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9de74cb5e38f0a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-ce7f0ffb057f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21206,7 +21207,8 @@
    "importance": 2,
    "published_ms": 1790858385000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "בזמן שכולם מחרימים - הראפר ג'ה רול בדרך לישראל: כמה יעלה כרטיס להופעה?",
    "type": "news",
@@ -21224,7 +21226,8 @@
    "importance": 1,
    "published_ms": 1790852336000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "השרברב הישראלי שהציל את המטוס מהתרסקות - מכבב גם בעבודתו עם ציון 9.9",
    "type": "news",
@@ -21299,6 +21302,24 @@
    "updated_ms": 1790862004000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cc9ea6beba7f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/rinat_thailand_011026/MASTER/rinat_thailand_011026_m/rinat_thailand_011026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-ce7f0ffb057f0a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הוא נכנס לקוקפיט כשאחד הטייסים מדמם, טיפל בו עם דברים בהישג יד - ובמקביל דאג לתעד. ד\"ר שוטה מוסייב, שהיה על טיסת החילוץ מדובאי לישראל, משחזר את הדקות שבהן הנוסעים השתלטו על תא הטייס והמטוס צלל אלפי רגל ומסביר למה בחר לתעד את כל האירוע",
+   "duration_s": 94,
+   "first_seen_ms": 1790873846247,
+   "image": "https://img.mako.co.il/2026/10/01/rinat_doctor_011026_m_1400_1790855806672_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790855813000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "\"פחדתי שיאשימו אותנו\": הרופא שטיפל בטייסים חושף למה תיעד הכול במהלך הדרמה",
+   "type": "news",
+   "updated_ms": 1790855813000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-ce7f0ffb057f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/rinat_doctor_011026/MASTER/rinat_doctor_011026_m/rinat_doctor_011026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d1de82187d7f0a1027.htm": {
    "author": "חדשות",
@@ -39286,14 +39307,14 @@
    "duration_s": 56,
    "first_seen_ms": 1790873548006,
    "image": "https://img.mako.co.il/2026/10/01/V1_karind_doker_6744_01102026044432_1400_1790873183722_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790873190000,
    "sections": [
     "מבזקים"
    ],
    "title": "תיעוד חדש: הטייס הדוקר מנוטרל - בזמן שהגיבור ההודי מקבל טיפול",
    "type": "mivzakim",
-   "updated_ms": 1790873190000,
+   "updated_ms": 1790873700000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0d91a091848f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_doker_6744_01102026044432/V1_karind_doker_6744_01102026044432_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -39802,6 +39823,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9d8daf0fb18f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_riv_6740_01102026034820/V1_karind_riv_6740_01102026034820_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9de74cb5e38f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יועז הנדל: \"לא יכול להיות שכל המשרות במדינה הן של המשפחה של דרעי. מפלגה קטנה שסוחטת אותנו בביצים\"",
+   "duration_s": 58,
+   "first_seen_ms": 1790873846247,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16599_01102026045101_1400_1790873555747_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790873562000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יועז הנדל: \"לא יכול להיות שכל המשרות במדינה הן של המשפחה של דרעי. מפלגה קטנה שסוחטת אותנו בביצים\"",
+   "type": "mivzakim",
+   "updated_ms": 1790873562000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9de74cb5e38f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16599_01102026045101/M_NEWS_16599_01102026045101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a1336e6ede7f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40046,7 +40085,8 @@
    "importance": 2,
    "published_ms": 1790862116000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "טיסה האימה מדובאי - נתניהו חושף את המילים האחרונות של המחבל: \"תהרגו אותי!\"",
    "type": "mivzakim",
