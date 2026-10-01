@@ -254,6 +254,7 @@
 <video:live>no</video:live>
 <video:uploader>אוכל</video:uploader>
 <video:tag>אוכל</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -350,6 +351,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-0d39dbdb9f7f0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/01/yoav_reality_011026_1400_1790866875476_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כוכב הריאליטי הורשע ברצח אשתו</video:title>
+<video:description>קיילב פלין, שהתפרסם כשהשתתף ב&quot;אמריקן איידול&quot; ב-2013, הורשע ברצח אשתו אשלי 13 שנים אחרי שהופיע בתוכנית ודיבר שם על אהבתו אליה. לפי התביעה, פלין ירה בה למוות בביתם וניסה לביים את הזירה כך שתיראה כמו פריצה, בזמן שניהל רומן ממושך עם אישה אחרת.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/yoav_reality_011026/MASTER/yoav_reality_011026/yoav_reality_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>96</video:duration>
+<video:publication_date>2026-10-01T15:03:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>מהעולם</video:tag>
 </video:video>
 </url>
 <url>
@@ -454,6 +472,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -504,6 +523,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -520,6 +540,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

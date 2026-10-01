@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-d1660c1a1b8f0a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-0d39dbdb9f7f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7342,7 +7342,8 @@
    "importance": 2,
    "published_ms": 1790871180000,
    "sections": [
-    "אוכל"
+    "אוכל",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי 40 שנה: הפלאפל המיתולוגי נסגר",
    "type": "general",
@@ -10054,6 +10055,24 @@
    "updated_ms": 1790787492000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m09_w05/shorts-f8aceb17533f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/rinat_rollercoaster_30092026/MASTER/rinat_rollercoaster_30092026_m/rinat_rollercoaster_30092026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-0d39dbdb9f7f0a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "קיילב פלין, שהתפרסם כשהשתתף ב\"אמריקן איידול\" ב-2013, הורשע ברצח אשתו אשלי 13 שנים אחרי שהופיע בתוכנית ודיבר שם על אהבתו אליה. לפי התביעה, פלין ירה בה למוות בביתם וניסה לביים את הזירה כך שתיראה כמו פריצה, בזמן שניהל רומן ממושך עם אישה אחרת.",
+   "duration_s": 96,
+   "first_seen_ms": 1790881946338,
+   "image": "https://img.mako.co.il/2026/10/01/yoav_reality_011026_1400_1790866875476_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790866980000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "כוכב הריאליטי הורשע ברצח אשתו",
+   "type": "general",
+   "updated_ms": 1790866980000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-0d39dbdb9f7f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/yoav_reality_011026/MASTER/yoav_reality_011026/yoav_reality_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-a57e6fa3c46f0a1027.htm": {
    "author": "מהעולם",
@@ -21224,7 +21243,8 @@
    "importance": 2,
    "published_ms": 1790863234000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "המתחם החדש שיקצר את הדרך לתל אביב",
    "type": "news",
@@ -21365,7 +21385,9 @@
    "image": "https://img.mako.co.il/2026/10/01/inbie_idan_011026_1400_1790864969874_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790864976000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "המשפיען הישראלי עידן בורוליה חושף באומץ: \"ניסיתי להתאבד\"",
    "type": "news",
    "updated_ms": 1790864976000,
@@ -58675,7 +58697,8 @@
    "importance": 0,
    "published_ms": 1790863976000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הצילה את האוטובוס מתאונה: הנערה הגיבורה השתלטה על ההגה בפנסילבניה - לאחר שהנהג לקה באירוע לבבי",
    "type": "mivzakim",
