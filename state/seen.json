@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-1d09e2dd3c7f0a1027.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-c074e2dd3c7f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8ed5b8b9fd7f0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c73c6e6ede7f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21152,7 +21152,8 @@
    "importance": 2,
    "published_ms": 1790852195000,
    "sections": [
-    "חדשות מהמסך"
+    "חדשות מהמסך",
+    "הכי נצפים עכשיו"
    ],
    "title": "הישראלי שעולה לפסגת הוליווד - ומונה למנכ״ל ענקית הקולנוע",
    "type": "news",
@@ -39604,6 +39605,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8ec186153b5f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_FIX/MIVZAKIM_BOKER_011026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8ed5b8b9fd7f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראש הממשלה נתניהו במפגש עם גיבורי הטיסה מדובאי: ״אתם תשיאו משואה של גבורה אזרחית ביום העצמאות״",
+   "duration_s": 34,
+   "first_seen_ms": 1790866646794,
+   "image": "https://img.mako.co.il/2026/10/01/V1_karind_dubai_6733_01102026025215_1400_1790866425170_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790866432000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראש הממשלה נתניהו במפגש עם גיבורי הטיסה מדובאי: ״אתם תשיאו משואה של גבורה אזרחית ביום העצמאות״",
+   "type": "mivzakim",
+   "updated_ms": 1790866432000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8ed5b8b9fd7f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_dubai_6733_01102026025215/V1_karind_dubai_6733_01102026025215_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8edc7d4b2f6f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -39765,6 +39784,24 @@
    "updated_ms": 1790856952000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c376abd3c57f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16586_01102026121420/M_NEWS_16586_01102026121420_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c73c6e6ede7f0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בכיר אמריקני: צבא ארה\"ב שולח נושאת מטוסים שלישית ויחידת מרינס שנייה למזרח התיכון",
+   "duration_s": 9,
+   "first_seen_ms": 1790866646794,
+   "image": "https://img.mako.co.il/2026/10/01/V1_karind_marins_6732_01102026025049_1400_1790866333714_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790866340000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בכיר אמריקני: צבא ארה\"ב שולח נושאת מטוסים שלישית ויחידת מרינס שנייה למזרח התיכון",
+   "type": "mivzakim",
+   "updated_ms": 1790866340000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c73c6e6ede7f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_marins_6732_01102026025049/V1_karind_marins_6732_01102026025049_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ca3653f5447f0a1027.htm": {
    "author": "מבזקים",
@@ -58222,7 +58259,8 @@
    "importance": 0,
    "published_ms": 1790856754000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "צרפת בוערת: מחאת תלמידים על תנאי הלימודים הסלימה למהומות בעשרות ערים ומאות בתי ספר",
    "type": "mivzakim",
