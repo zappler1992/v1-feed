@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-43e06c93aa2f0a1027.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-6ac469dfb4180a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-45e2898fd02f0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a629472f3b6f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39261,6 +39259,24 @@
    "updated_ms": 1790840100000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_5/MIVZAKIM_BOKER_011026_5_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a629472f3b6f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרגדיה בנורווגיה: ישראלי כבן 20 טבע למוות לאחר שקיאק עם משפחתו התהפך",
+   "duration_s": 9,
+   "first_seen_ms": 1790845645941,
+   "image": "https://img.mako.co.il/2026/10/01/V1_SHIR_DEAD_6712_01102026090216_1400_1790845408970_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790845415000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרגדיה בנורווגיה: ישראלי כבן 20 טבע למוות לאחר שקיאק עם משפחתו התהפך",
+   "type": "mivzakim",
+   "updated_ms": 1790845415000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a629472f3b6f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_DEAD_6712_01102026090216/V1_SHIR_DEAD_6712_01102026090216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-add8ed0c4e5f0a1026.htm": {
    "author": "מבזקים",
