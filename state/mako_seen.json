@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790826753947,
+ "last_run_ms": 1790827050334,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1464,6 +1464,18 @@
    "published_ms": 1790825940000,
    "section": "ספורט",
    "title": "\"משחק נוראי\": הקריסה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-7091bbca035f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790826987378,
+   "content_type": "article",
+   "first_seen_ms": 1790826987378,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790826600000,
+   "section": "ספורט",
+   "title": "באירופה נדהמו: \"מה קורה אצל מכבי ת\"א?\""
   },
   "https://www.mako.co.il/Sports-basketball/q3_2026/Article-193879c49ece0a1026.htm": {
    "check_attempts": 1,
