@@ -13,6 +13,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>
@@ -47,6 +48,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-61e349263d2f0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/09/30/yoav_iran_300926_1400_1790781600878_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;המוסד תכנן את זה&quot;: התעמולה האיראנית סביב פליי דובאי</video:title>
+<video:description>&quot;המוסד תכנן את זה&quot;: התעמולה האיראנית סביב פליי דובאי</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/yoav_iran_300926/MASTER/yoav_iran_300926/yoav_iran_300926_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>30</video:duration>
+<video:publication_date>2026-09-30T20:33:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
