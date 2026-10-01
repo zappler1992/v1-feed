@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790847748572,
+ "last_run_ms": 1790848048714,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -4581,6 +4581,18 @@
    "section": "סלבס",
    "title": "המפורסמים שמוזמנים להתרחק לנו מהסוכה"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-68c922435d6f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790848048714,
+   "content_type": "article",
+   "first_seen_ms": 1790848048714,
+   "indexable": true,
+   "indexnow_ms": 1790848048714,
+   "published_ms": 1790847660000,
+   "section": "",
+   "title": "שיהיה במזל: דניאלה פיק וקוונטין טרנטינו מצפים לתינוק"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7966e609c2ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6009,6 +6021,18 @@
    "section": "משפט",
    "title": "\"יש קייס לתביעה\"?: הבוט שמנבא פסקי דין"
   },
+  "https://www.mako.co.il/food-chefs/ben_shai/Recipe-c886b2cb6a6f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790847867212,
+   "content_type": "recipe",
+   "first_seen_ms": 1790847867212,
+   "indexable": true,
+   "indexnow_ms": 1790847867212,
+   "published_ms": 1790847300000,
+   "section": "",
+   "title": "ככה מכינים סביצ'ה קלאסי (וגם מבינים אם הדג באמת מבושל)"
+  },
   "https://www.mako.co.il/food-chefs/ben_shai/Recipe-f946a9f0552d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6811,7 +6835,7 @@
    "indexnow_ms": 1790839226740,
    "published_ms": 1790832720000,
    "section": "בריאות",
-   "title": "\"לאישה היה תפקיד קריטי בהצלת המטוס\""
+   "title": "\"היא עשתה דבר חריג, היה לה חלק קריטי בהצלת המטוס\""
   },
   "https://www.mako.co.il/health-news/Article-aac76fa3c46f0a1027.htm": {
    "check_attempts": 1,
@@ -9991,7 +10015,7 @@
    "indexnow_ms": 1790846427129,
    "published_ms": 1790845680000,
    "section": "מוזיקה",
-   "title": "\"רוצה שהיא תיעלם\": הפשע שביצע מתמודד \"אמריקן איידול\""
+   "title": "מתמודד \"אמריקן איידול\" הורשע ברצח אשתו"
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
