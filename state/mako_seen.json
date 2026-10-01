@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790885848927,
+ "last_run_ms": 1790886148955,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -2893,6 +2893,18 @@
    "section": "ספורט",
    "title": "דניאל פרץ סובל מקרע במפשעה. הזמן שיחמיץ"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-cad5341dff8f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790886148955,
+   "content_type": "article",
+   "first_seen_ms": 1790886148955,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790885760000,
+   "section": "ספורט",
+   "title": "צפו. \"פרץ בעט חזק. השוער הציל אומה שלמה\""
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d261c668e27f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3634,6 +3646,18 @@
    "published_ms": 1790162880000,
    "section": "ספורט",
    "title": "\"סגרתי את הדלת\": הקאמבק לו שרי סירב"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e7b2341dff8f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790886148955,
+   "content_type": "article",
+   "first_seen_ms": 1790886148955,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790885400000,
+   "section": "ספורט",
+   "title": "רביעייה ב-22 דקות: ההצגה של חלוץ ריאל"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-391c077c47fc0a1026.htm": {
    "check_attempts": 1,
@@ -10640,6 +10664,18 @@
    "published_ms": 1790249400000,
    "section": "",
    "title": "התקרית המפחידה על הבמה של עדן בן זקן"
+  },
+  "https://www.mako.co.il/music-news/Article-1ef3f9cd6f8f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790885906978,
+   "content_type": "article",
+   "first_seen_ms": 1790885906978,
+   "indexable": true,
+   "indexnow_ms": 1790885906978,
+   "published_ms": 1790883960000,
+   "section": "",
+   "title": "אגם בוחבוט: \"כבר חשבתי שזה לא יקרה, חשבתי לוותר\""
   },
   "https://www.mako.co.il/music-news/Article-238c5020638c0a1027.htm": {
    "check_attempts": 1,
