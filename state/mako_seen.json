@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790830649150,
+ "last_run_ms": 1790830949479,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -12164,6 +12164,18 @@
    "published_ms": 1790823600000,
    "section": "חדשות",
    "title": "שרפה פרצה בבית אבות בבני ברק: שניים במצב קשה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e9c87d19263f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-e9c87d19263f0a1027.htm",
+   "checked_ms": 1790830827293,
+   "content_type": "article",
+   "first_seen_ms": 1790830827293,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790830800000,
+   "section": "",
+   "title": "החשש בישראל מפיגועים דומים - וההערכה לגבי המחבל"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,
