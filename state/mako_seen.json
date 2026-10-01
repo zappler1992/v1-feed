@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790846248559,
+ "last_run_ms": 1790846548306,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -120,6 +120,18 @@
    "published_ms": 1790497831000,
    "section": "אופנה",
    "title": "שמלת הכלה השלישית של עומר נודלמן הייתה מעלפת, ואת הרביעית ראיתם?"
+  },
+  "https://fashionforward.mako.co.il/more/weddings/321087/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790846307131,
+   "content_type": "article",
+   "first_seen_ms": 1790846307131,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1790845877000,
+   "section": "Fashion Forward",
+   "title": "לירון כרקוקלי בחרה שמלת כלה מהחלומות, ואז עברה למיני עם הפתעה"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -7521,6 +7533,18 @@
    "section": "HIX",
    "title": "האשימה את ישראל ב\"טרור רצחני\" והתבררה כמתחזה"
   },
+  "https://www.mako.co.il/hix-special/Article-bd27472f3b6f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790846548306,
+   "content_type": "article",
+   "first_seen_ms": 1790846548306,
+   "indexable": true,
+   "indexnow_ms": 1790846548306,
+   "published_ms": 1790845800000,
+   "section": "HIX",
+   "title": "אוסטרליה משתגעת: \"נשבעת שהיו מיליונים מהם\""
+  },
   "https://www.mako.co.il/hix-special/Article-c20423036ced0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9932,6 +9956,18 @@
    "published_ms": 1790598420000,
    "section": "מוזיקה",
    "title": "אחרי הנפילה הכואבת: עדכון במצבה של ירדנה ארזי"
+  },
+  "https://www.mako.co.il/music-news/Article-53c83a91da6f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790846427129,
+   "content_type": "article",
+   "first_seen_ms": 1790846427129,
+   "indexable": true,
+   "indexnow_ms": 1790846427129,
+   "published_ms": 1790845680000,
+   "section": "מוזיקה",
+   "title": "מתמודד \"אמריקן איידול\" הורשע ברצח אשתו"
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
