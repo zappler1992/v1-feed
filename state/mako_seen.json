@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790842948421,
+ "last_run_ms": 1790843248169,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3058,6 +3058,18 @@
    "published_ms": 1790841780000,
    "section": "ספורט",
    "title": "שתי שיחות לא עזרו: מאחורי סערת זיו במכבי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-34c5c5ba786f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790843186957,
+   "content_type": "article",
+   "first_seen_ms": 1790843186957,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790842980000,
+   "section": "ספורט",
+   "title": "מי פרסם ומי לא? הסטורי של שחקני מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f79e4a45966f0a1026.htm": {
    "check_attempts": 1,
@@ -10075,7 +10087,7 @@
    "indexnow_ms": 1790840786829,
    "published_ms": 1790840100000,
    "section": "מוזיקה",
-   "title": "הזמר יגיע להופיע בישראל - וזה לא מי שאתם חושבים"
+   "title": "כוכב שנות ה-2000 יגיע להופעה חד-פעמית בישראל"
   },
   "https://www.mako.co.il/music-news/Article-fe91f31bd7ec0a1026.htm": {
    "check_attempts": 1,
@@ -12512,6 +12524,18 @@
    "published_ms": 1790823600000,
    "section": "חדשות",
    "title": "שרפה פרצה בבית אבות בבני ברק: שניים במצב קשה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e1ba5df6766f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-e1ba5df6766f0a1027.htm",
+   "checked_ms": 1790843248169,
+   "content_type": "article",
+   "first_seen_ms": 1790843248169,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790840340000,
+   "section": "חדשות",
+   "title": "אריה עמידרור הוא קמ\"ן אוגדת עזה ב-7 באוקטובר"
   },
   "https://www.mako.co.il/special-mako-news/Article-e9c87d19263f0a1027.htm": {
    "check_attempts": 1,

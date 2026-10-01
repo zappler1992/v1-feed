@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cee7c5ba786f0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4839,7 +4838,8 @@
    "importance": 0,
    "published_ms": 1790834231000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הבמאי והמפיק האמריקאי ספייק לי התעמת עם אוהד שקרא לו להגיד: \"פרי פלסטיין\" - האבטחה מנעה עימות",
    "type": "mivzakim",
@@ -20982,7 +20982,8 @@
    "importance": 2,
    "published_ms": 1790836532000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ישראלי נרצח באי קופנגן שבתאילנד",
    "type": "news",
@@ -38965,7 +38966,7 @@
    ],
    "title": "סא\"ל אריה עמידרור, בנו של יעקב עמידרור, הוא קצין המודיעין של אוגדת עזה ב7.10",
    "type": "mivzakim",
-   "updated_ms": 1790842740000,
+   "updated_ms": 1790843040000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2b604a45966f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_4/MIVZAKIM_BOKER_011026_4_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -39184,6 +39185,24 @@
    "updated_ms": 1790827088000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-b75f3ff1285f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_tahazit_6695_01102026035601/V1_tahazit_6695_01102026035601_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cee7c5ba786f0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגלל הביטולים של פליי דובאי: חברת אל על תפעיל ממחר טיסות מיוחדות מדובאי לת\"א",
+   "duration_s": 9,
+   "first_seen_ms": 1790843245857,
+   "image": "https://img.mako.co.il/2026/10/01/M_NEWS_16569_01102026082132_1400_1790842988065_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790842994000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגלל הביטולים של פליי דובאי: חברת אל על תפעיל ממחר טיסות מיוחדות מדובאי לת\"א",
+   "type": "mivzakim",
+   "updated_ms": 1790842994000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cee7c5ba786f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16569_01102026082132/M_NEWS_16569_01102026082132_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e4974128ea5f0a1027.htm": {
    "author": "מבזקים",

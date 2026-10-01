@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cee7c5ba786f0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-01T08:23:14+00:00</news:publication_date>
+<news:title>בגלל הביטולים של פליי דובאי: חברת אל על תפעיל ממחר טיסות מיוחדות מדובאי לת&quot;א</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/01/M_NEWS_16569_01102026082132_1400_1790842988065_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2123,23 +2132,5 @@
 <news:title>כשאבא שלך שף: הפעוט שמקבל מנות שנראות כאילו יצאו ממסעדת יוקרה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/29/INBAR_MICHELIN_290926_1400_1790670593015_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/food-magazine/2026-m09_w05/shorts-b9479f4ba3ce0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T08:26:33+00:00</news:publication_date>
-<news:title>בשורה לצליאקים: התפריט החדש של אמורה מיו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/biata_amoremio_290926_1400_1790670382118_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m09_w05/shorts-6b898d6244ce0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-29T08:25:57+00:00</news:publication_date>
-<news:title>גל תביעות דרמטי: &quot;תרופות ההרזיה הפכו אותנו לעיוורים&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/29/NOAY_OZEMPIK_290926_1400_1790670346927_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
