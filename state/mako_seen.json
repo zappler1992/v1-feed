@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790840548042,
+ "last_run_ms": 1790840848094,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3046,6 +3046,18 @@
    "published_ms": 1790500620000,
    "section": "ספורט",
    "title": "\"לא ראיתם כלום\": התאקלמות טברנייר במכבי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f79e4a45966f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790840786829,
+   "content_type": "article",
+   "first_seen_ms": 1790840786829,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790840700000,
+   "section": "ספורט",
+   "title": "שחקני מכבי ת\"א במופע תמיכה ביואב זיו"
   },
   "https://www.mako.co.il/Sports-football-il/q3_2026/Article-0b6c1b40338e0a1026.htm": {
    "check_attempts": 1,
@@ -9992,6 +10004,18 @@
    "published_ms": 1790159940000,
    "section": "מוזיקה",
    "title": "בגלל תקרית בפסטיבל - הצעירה נותרה משותקת"
+  },
+  "https://www.mako.co.il/music-news/Article-f7ee4b3b066f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790840786829,
+   "content_type": "article",
+   "first_seen_ms": 1790840786829,
+   "indexable": true,
+   "indexnow_ms": 1790840786829,
+   "published_ms": 1790840100000,
+   "section": "מוזיקה",
+   "title": "כוכב שנות ה-2000 יגיע להופעה חד-פעמית בישראל"
   },
   "https://www.mako.co.il/music-news/Article-fe91f31bd7ec0a1026.htm": {
    "check_attempts": 1,
