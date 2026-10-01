@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790879549063,
+ "last_run_ms": 1790879848955,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -1644,6 +1644,18 @@
    "published_ms": 1790870580000,
    "section": "ספורט",
    "title": "ארבע שלשות ו-4 עבירות: הפתיחה של קבוקלו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ffed43dc4b8f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790879787666,
+   "content_type": "article",
+   "first_seen_ms": 1790879787666,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790879520000,
+   "section": "ספורט",
+   "title": "\"הרגיש כאילו ניצחנו את ריאל פעמיים היום\""
   },
   "https://www.mako.co.il/Sports-basketball/q3_2026/Article-193879c49ece0a1026.htm": {
    "check_attempts": 1,
