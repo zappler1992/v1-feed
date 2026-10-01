@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790840248435,
+ "last_run_ms": 1790840548042,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -6632,6 +6632,18 @@
    "published_ms": 1790832720000,
    "section": "בריאות",
    "title": "\"היא עשתה דבר חריג, היה לה חלק קריטי בהצלת המטוס\""
+  },
+  "https://www.mako.co.il/health-news/Article-aac76fa3c46f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790840426811,
+   "content_type": "article",
+   "first_seen_ms": 1790840426811,
+   "indexable": true,
+   "indexnow_ms": 1790840426811,
+   "published_ms": 1790839620000,
+   "section": "",
+   "title": "הרופא שטיפל במחבל חושף למה צילם את האירוע"
   },
   "https://www.mako.co.il/health-news/Article-ac078ea57ccc0a1027.htm": {
    "check_attempts": 1,
