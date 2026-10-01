@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790845648209,
+ "last_run_ms": 1790845948743,
  "pages": {
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -5432,6 +5432,18 @@
    "published_ms": 1790157060000,
    "section": "כסף",
    "title": "יכול להיות שמגיעים לכם מיליארדי שקלים מהבנקים"
+  },
+  "https://www.mako.co.il/finances-news/Article-45d7b2cb6a6f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790845827158,
+   "content_type": "article",
+   "first_seen_ms": 1790845827158,
+   "indexable": true,
+   "indexnow_ms": 1790845827158,
+   "published_ms": 1790839800000,
+   "section": "כסף",
+   "title": "חברה מעל טריליון שקל נסחרת בבורסה בישראל"
   },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
