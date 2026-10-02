@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790974349085,
+ "last_run_ms": 1790974649074,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10843,7 +10843,7 @@
    "indexnow_ms": 1790929649866,
    "published_ms": 1790928420000,
    "section": "",
-   "title": "ביום השחרור: ה\"תרגיל\" האחרון שהכינו בשב\"ש לריקו שירזי"
+   "title": "ביום השחרור: ה\"תרגיל\" האחרון שהכינו בשב\"ס לריקו שירזי"
   },
   "https://www.mako.co.il/men-men_news/Article-76efac97c97e0a1026.htm": {
    "check_attempts": 1,
@@ -14312,6 +14312,18 @@
    "published_ms": 1790658360000,
    "section": "",
    "title": "הפילה עשרות אנשים: זו \"הנוכלת עם פני המלאך\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-10600d05dfdf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-10600d05dfdf0a1027.htm",
+   "checked_ms": 1790974649074,
+   "content_type": "article",
+   "first_seen_ms": 1790974649074,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790971200000,
+   "section": "",
+   "title": "\"השקפות קיצוניות\": הפרט שהתגלה על עברו של טייס המשנה"
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
