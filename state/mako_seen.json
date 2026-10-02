@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790935349120,
+ "last_run_ms": 1790935648839,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3036,6 +3036,18 @@
    "published_ms": 1790912700000,
    "section": "ספורט",
    "title": "עבדה: \"הבית פתוח. צריך להרים את הרמה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-9748c1bf11cf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790935587144,
+   "content_type": "article",
+   "first_seen_ms": 1790935587144,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790935380000,
+   "section": "ספורט",
+   "title": "התחזית עודכנה: סיכויי ישראל להעפיל ליורו"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
    "check_attempts": 1,
@@ -15427,7 +15439,7 @@
    "indexnow_ms": 1790932349069,
    "published_ms": 1790932200000,
    "section": "",
-   "title": "אש בתיכונים, זעם ברחובות: מחאת התלמידים מטלטלת את צרפת"
+   "title": "גל מחאות: התיכוניסטים מבעירים את אירופה - זו הסיבה"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
