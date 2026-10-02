@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790924849535,
+ "last_run_ms": 1790925149199,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8925,6 +8925,18 @@
    "section": "הורים",
    "title": "תביעת האונס בקורנל: המסיבה, הסמים והסנאפצ'ט"
   },
+  "https://www.mako.co.il/home-family-relationship/Article-a3a318be63bf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790925149199,
+   "content_type": "article",
+   "first_seen_ms": 1790925149199,
+   "indexable": true,
+   "indexnow_ms": 1790925149199,
+   "published_ms": 1790922300000,
+   "section": "",
+   "title": "אמרו לי 'תחזרו לתנורים בשואה, צריך להשמיד אתכם'\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-ac57f4abda7c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14121,6 +14133,18 @@
    "section": "חדשות",
    "title": "המגעים תקועים והחשש מחידוש הלחימה גובר"
   },
+  "https://www.mako.co.il/special-mako-news/Article-c8fbcf7bb5bf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-c8fbcf7bb5bf0a1027.htm",
+   "checked_ms": 1790924907580,
+   "content_type": "article",
+   "first_seen_ms": 1790924907580,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790923980000,
+   "section": "",
+   "title": "\"הרגשתי שהמטוס צולל, ידעתי שאסור לתת להם למות\""
+  },
   "https://www.mako.co.il/special-mako-news/Article-cbfafc2e86ee0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-cbfafc2e86ee0a1027.htm",
@@ -15835,7 +15859,7 @@
    "indexnow_ms": 1790913626807,
    "published_ms": 1790910000000,
    "section": "קשת 12",
-   "title": "אברי גלעד על האקסית: \"הערת שוליים בחיים הרומנטיים\""
+   "title": "על האקסית: \"הערת שוליים בחיים הרומנטיים\""
   },
   "https://www.mako.co.il/tv-morning-news/articles/Article-4e8352a7212d0a1026.htm": {
    "check_attempts": 1,
