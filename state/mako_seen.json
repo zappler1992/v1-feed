@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790941649913,
+ "last_run_ms": 1790941951135,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3682,6 +3682,18 @@
    "published_ms": 1790929740000,
    "section": "ספורט",
    "title": "שחקן חיפה שהחלים וכשיר להפועל ירושלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d41a754327cf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790941951135,
+   "content_type": "article",
+   "first_seen_ms": 1790941951135,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790941740000,
+   "section": "ספורט",
+   "title": "כך פספסה הפועל באר שבע את קשישטוף פיונטק"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e415db7ce96f0a1026.htm": {
    "check_attempts": 1,
