@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cf97c6c415af0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-02T03:55:23+00:00</news:publication_date>
+<news:title>גשם בערב החג: איפה כדאי להצטייד במטרייה ומה צפוי בימים הקרובים? התחזית המלאה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_weather021026_6760_02102026035329_1400_1790913314762_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-89562e18b6af0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2321,14 +2330,5 @@
 <news:title>דקוטה ג&#x27;ונסון ואן האת&#x27;וויי - הנמצאת בחודש מתקדם להריונה - בהשקת הסרט &quot;תעתוע&quot; בפרמיירה בניו יורק</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_KARIN_MOVIE_6616_30092026043141_1400_1790742783865_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-e37a2dc5f60f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T03:55:59+00:00</news:publication_date>
-<news:title>חוויאר מיליי בראיון בארגנטינה: &quot;זכיתי להיות חבר של נתניהו&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/M_NEWS_16476_30092026035415_1400_1790740553066_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
