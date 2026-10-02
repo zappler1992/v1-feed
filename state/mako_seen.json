@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790911948542,
+ "last_run_ms": 1790912248493,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3000,6 +3000,18 @@
    "published_ms": 1790828220000,
    "section": "ספורט",
    "title": "\"פחות שמות, יותר עבודה\": התוכנית לקוסובו"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-fa88e37bbaaf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790912186734,
+   "content_type": "article",
+   "first_seen_ms": 1790912186734,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790912040000,
+   "section": "ספורט",
+   "title": "אחרי קוסובו: שחקן הנבחרת שבספק לאירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q3_2026/Article-92fee2743c2e0a1027.htm": {
    "check_attempts": 1,
@@ -15415,7 +15427,7 @@
    "indexnow_ms": 1790888848563,
    "published_ms": 1790888760000,
    "section": "",
-   "title": "למקרה הצורך: ככה מנחיתים מטוס נוסעים"
+   "title": "למקרה הצורך: ככה מנחיתים מטוס נוסעים בקלות"
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-16199bce732d0a1026.htm": {
    "check_attempts": 1,
