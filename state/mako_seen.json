@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790929348716,
+ "last_run_ms": 1790929649866,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3549,7 +3549,7 @@
    "indexnow_ms": null,
    "published_ms": 1790924100000,
    "section": "ספורט",
-   "title": "מחצית 2: הפועל ת\"א - הפועל חיפה 4:2"
+   "title": "מחצית 2: הפועל ת\"א - הפועל חיפה 4:3"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-34c5c5ba786f0a1026.htm": {
    "check_attempts": 1,
@@ -10376,6 +10376,18 @@
    "published_ms": 1790154240000,
    "section": "פלילים",
    "title": "במקלט ציבורי: עסק פיראטי למכירת בגדים מזויפים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-74f6998349bf0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790929649866,
+   "content_type": "article",
+   "first_seen_ms": 1790929649866,
+   "indexable": true,
+   "indexnow_ms": 1790929649866,
+   "published_ms": 1790928420000,
+   "section": "",
+   "title": "\"לא מחפש לנקום באף אחד\": ראש ארגון הפשע יצא מהכלא"
   },
   "https://www.mako.co.il/men-men_news/Article-76efac97c97e0a1026.htm": {
    "check_attempts": 1,
