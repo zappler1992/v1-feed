@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790926648950,
+ "last_run_ms": 1790926949103,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3084,6 +3084,18 @@
    "published_ms": 1790828220000,
    "section": "ספורט",
    "title": "\"פחות שמות, יותר עבודה\": התוכנית לקוסובו"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-f88f68b258bf0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790926949103,
+   "content_type": "article",
+   "first_seen_ms": 1790926949103,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790926680000,
+   "section": "ספורט",
+   "title": "אופ\"א זועמת: הסאגה החדשה של נבחרת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-fa88e37bbaaf0a1027.htm": {
    "check_attempts": 1,
@@ -11588,6 +11600,18 @@
    "published_ms": 1790498160000,
    "section": "",
    "title": "נקבע סופית: אלו האותיות שיהיו על הפתק של המפלגה שלכם"
+  },
+  "https://www.mako.co.il/news-israel/2026_q4/Article-621cda1015bf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790926826889,
+   "content_type": "article",
+   "first_seen_ms": 1790926826889,
+   "indexable": true,
+   "indexnow_ms": 1790926826889,
+   "published_ms": 1790925420000,
+   "section": "חדשות",
+   "title": "הרוג ופצוע קל בהתרסקות מטוס קל בצפון"
   },
   "https://www.mako.co.il/news-military/2026_q3/Article-0968581a69ec0a1026.htm": {
    "check_attempts": 1,
