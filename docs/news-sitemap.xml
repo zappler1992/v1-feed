@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ffffda1015bf0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-02T06:42:24+00:00</news:publication_date>
+<news:title>האזור עולה באש: תיעוד נוסף מזירת תאונת כלי הטיס בכפר קרע, כביש 65 נחסם לתנועה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_karind_KFARKARRA_6767_02102026064059_1400_1790923338245_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-3c9dda1015bf0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2231,23 +2240,5 @@
 <news:title>המטוס חזר למכ&quot;ם: נמל התעופה בסעודיה שבו ינחת המטוס בעוד כמה דקות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_karind_saudia_6630_30092026064906_1400_1790751037592_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-7cd3931b801f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T06:47:17+00:00</news:publication_date>
-<news:title>הרגע שבו טיסת 1073 של &quot;פליי דובאי&quot; נעלמה מהרדאר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/FIX_SHIRA_PLANE_1400_1790751051925_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-df75f7be501f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T06:44:08+00:00</news:publication_date>
-<news:title>חשש לחטיפת מטוס מדובאי לתל אביב: בישראל לא לוקחים סיכונים עקב חוסר המידע</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_SIKOON_6628_30092026064225_1400_1790750637249_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

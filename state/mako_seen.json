@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790923349439,
+ "last_run_ms": 1790923649103,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13904,6 +13904,18 @@
    "published_ms": 1790703120000,
    "section": "חדשות",
    "title": "\"אלימות קשה כמו שהייתה לא זכורה לנו בחיים\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-621cda1015bf0a1027.htm",
+   "checked_ms": 1790923649103,
+   "content_type": "article",
+   "first_seen_ms": 1790923649103,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790923020000,
+   "section": "",
+   "title": "מטוס התרסק ועלה באש: אדם לכוד ומחוסר הכרה"
   },
   "https://www.mako.co.il/special-mako-news/Article-669c41a9312e0a1026.htm": {
    "check_attempts": 1,
