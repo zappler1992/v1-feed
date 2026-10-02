@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-cf97c6c415af0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ac9d37041caf0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11777,7 +11777,8 @@
    "published_ms": 1790780280000,
    "sections": [
     "הכי נצפים עכשיו",
-    "כשהגלים מתחזקים 2"
+    "כשהגלים מתחזקים 2",
+    "הכי נצפים השבוע"
    ],
    "title": "כשהגלים מתחזקים 2 פרק 46: בקרוב אצלם",
    "type": "series",
@@ -40244,6 +40245,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-aa038e6e9c7f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16594_01102026022209/M_NEWS_16594_01102026022209_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ac9d37041caf0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ללא אישור מהאמירויות: אל על ביטלה את טיסות החילוץ מדובאי . אחת הטיסות כבר הייתה אמורה להמריא",
+   "duration_s": 9,
+   "first_seen_ms": 1790915245955,
+   "image": "https://img.mako.co.il/2026/10/02/V1_ELAL_6761_02102026042214_1400_1790915017366_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790915023000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ללא אישור מהאמירויות: אל על ביטלה את טיסות החילוץ מדובאי . אחת הטיסות כבר הייתה אמורה להמריא",
+   "type": "mivzakim",
+   "updated_ms": 1790915023000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ac9d37041caf0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_ELAL_6761_02102026042214/V1_ELAL_6761_02102026042214_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-add8ed0c4e5f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58548,7 +58567,8 @@
    "sections": [
     "מבזקים מהעולם",
     "מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בילו בטברנה - ואז חמושים פתחו באש: 17 נהרגו ו-15 נפצעו בעיירה וולדה בדרום אפריקה",
    "type": "mivzakim",
@@ -58688,7 +58708,8 @@
    "published_ms": 1790599285000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הבניין כולו עולה באש: תיעוד נוסף מהשריפה באקדמיה למדעים בקייב",
    "type": "mivzakim",
@@ -58994,7 +59015,8 @@
    "importance": 0,
    "published_ms": 1790869758000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "לא מצליחים לראות כלום - מרוב גשם: הסופה תפסה את הפועלים במחצבה בפרגוואי",
    "type": "mivzakim",
