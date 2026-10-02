@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790936549058,
+ "last_run_ms": 1790936849095,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1584,6 +1584,18 @@
    "published_ms": 1790872800000,
    "section": "ספורט",
    "title": "\"האופי של הפועל ת\"א מרשים. הפתיע אותנו\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-0b127e1731cf0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790936787183,
+   "content_type": "article",
+   "first_seen_ms": 1790936787183,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790936520000,
+   "section": "ספורט",
+   "title": "\"אמרו שזה AI\". האמת על התמונה של ים מדר"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-0f6021d4807f0a1027.htm": {
    "check_attempts": 1,
