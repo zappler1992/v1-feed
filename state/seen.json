@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9963b0d1d4df0a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a8515b3766df0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-00c3b0d1d4df0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21643,7 +21642,8 @@
    "importance": 1,
    "published_ms": 1790944631000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הקטטה האלימה ביישוב היוקרתי בעקבות סכסוך עסקי: \"אנשים פחדו לצאת מהבתים\"",
    "type": "news",
@@ -39636,6 +39636,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-fd59ff6820de0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/V1_bb_plane_6601_29092026115203/V1_bb_plane_6601_29092026115203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-00c3b0d1d4df0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גשמים חזקים החלו לרדת באזור חיפה",
+   "duration_s": 55,
+   "first_seen_ms": 1790960845907,
+   "image": "https://img.mako.co.il/2026/10/02/M_NEWS_16639_02102026050159_1400_1790960615240_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790960622000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גשמים חזקים החלו לרדת באזור חיפה",
+   "type": "mivzakim",
+   "updated_ms": 1790960622000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-00c3b0d1d4df0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16639_02102026050159/M_NEWS_16639_02102026050159_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-01313eecb67f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -54202,7 +54220,9 @@
    "image": "https://img.mako.co.il/2026/09/30/yoav_system_300926_1400_1790787791602_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790942640000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "המערכת שיכולה לעצור חטיפת מטוס",
    "type": "general",
    "updated_ms": 1790942640000,

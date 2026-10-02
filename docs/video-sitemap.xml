@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-00c3b0d1d4df0a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/02/M_NEWS_16639_02102026050159_1400_1790960615240_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>גשמים חזקים החלו לרדת באזור חיפה</video:title>
+<video:description>גשמים חזקים החלו לרדת באזור חיפה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16639_02102026050159/M_NEWS_16639_02102026050159_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>55</video:duration>
+<video:publication_date>2026-10-02T17:03:42+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9963b0d1d4df0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/02/M_NEWS_16638_02102026045541_1400_1790960219928_FirstFrame.jpg</video:thumbnail_loc>
@@ -208,6 +224,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -223,6 +240,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>טכנולוגיה</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>טכנולוגיה</video:tag>
 </video:video>
 </url>
