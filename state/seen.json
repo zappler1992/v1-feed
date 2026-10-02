@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-4008bba366bf0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d45ecf7bb5bf0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-164dbba366bf0a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-caabbba366bf0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21520,6 +21522,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d1de82187d7f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/inbie_idan_011026/MASTER/inbie_idan_011026/inbie_idan_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d45ecf7bb5bf0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "קפטן פליידובאי, סמית מצ'הר, סיפר על החוויה הקשה שעבר בפני ראש הממשלה מודי: \"אני גאה באופן שבו אתה מעודד אותי היום. היו לי כל כך הרבה פציעות, אבל אמרתי לעצמי שאני צריך לקום ולפעול. באותו זמן, דחפתי את עצמי לפתוח את דלת תא הטייס\"",
+   "duration_s": 54,
+   "first_seen_ms": 1790924846317,
+   "image": "https://img.mako.co.il/2026/10/02/yoav_india_021026_1400_1790924261848_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790924580000,
+   "sections": [],
+   "title": "הטייס הגיבור מתראיין ממיטת בית החולים",
+   "type": "news",
+   "updated_ms": 1790924580000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d45ecf7bb5bf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/yoav_india2_021026/MASTER/yoav_india_021026/yoav_india_021026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
    "date_source": null,
@@ -39536,6 +39554,24 @@
    "updated_ms": 1790841311000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0fd02da7076f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16568_01102026075353/M_NEWS_16568_01102026075353_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-164dbba366bf0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רגעי האימה בביתר עילית: ילד רץ במעבר החצייה - ונפגע מאוטובוס | תיעוד",
+   "duration_s": 13,
+   "first_seen_ms": 1790924846317,
+   "image": "https://img.mako.co.il/2026/10/02/V1_karind_beitar_6769_02102026070257_1400_1790924650421_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790924657000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רגעי האימה בביתר עילית: ילד רץ במעבר החצייה - ונפגע מאוטובוס | תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1790924657000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-164dbba366bf0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_beitar_6769_02102026070257/V1_karind_beitar_6769_02102026070257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm": {
    "author": "מבזקים",
@@ -59290,6 +59326,24 @@
    "updated_ms": 1790861540000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-a2667dadc97f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_isfahan_6726_01102026013055/V1_isfahan_6726_01102026013055_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-caabbba366bf0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שיטפונות ביעד האהוב על הישראלים: מכוניות נסחפו ונזק נגרם למבנים בכרתים | צפו",
+   "duration_s": 17,
+   "first_seen_ms": 1790924846317,
+   "image": "https://img.mako.co.il/2026/10/02/V1_karind_greece_6768_02102026070127_1400_1790924562836_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790924569000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "שיטפונות ביעד האהוב על הישראלים: מכוניות נסחפו ונזק נגרם למבנים בכרתים | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1790924569000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-caabbba366bf0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_greece_6768_02102026070127/V1_karind_greece_6768_02102026070127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d90d6fa3c46f0a1027.htm": {
    "author": "מבזקים מהעולם",
