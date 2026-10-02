@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cf183f2022bf0a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-7e89631f7edf0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3454,7 +3454,8 @@
    "importance": 0,
    "published_ms": 1790965682000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עינת ארליך משתפת באומץ את המאבק בסרטן: \"ירדה לי שליש מכמות השיער\"",
    "type": "general",
@@ -21563,6 +21564,24 @@
    "updated_ms": 1790834000000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-6b6227fe6f5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/DVOTIFIXINBALMET2/DVOTIFIXINBALMET2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-7e89631f7edf0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מתוך \"אולפן שישי\", חדשות 12: בעבקות ניסיון הפיגוע בטיסת פליי דובאי השבוע, מאות ישראלים תקועים ללא דרך חזרה לישראל מדובאי. משפחות רבות, מטיילים וילדים נותרו ללא מענה ועם חוסר ודאות מאוד גדול לגבי מתי יוכלו לשוב ארצה. טיסות רבות התבטלו - רק לאחרונה הודיעה חברת פליי דובאי כי לא תשוב ארצה עד להודעה חדשה, ולחברות הישראליות עוד אין אישור לטיסות החילוץ.",
+   "duration_s": 65,
+   "first_seen_ms": 1790982446471,
+   "image": "https://img.mako.co.il/2026/10/02/alona_dubai_m_021026_1400_1790966475720_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1790966482000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "חוסר וודאות מוחלט: עדויות הישראלים שתקועים בדובאי",
+   "type": "news",
+   "updated_ms": 1790966482000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-7e89631f7edf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/alona_dubai_021026/MASTER/alona_dubai_m_021026/alona_dubai_m_021026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-8711724c0ecf0a1027.htm": {
    "author": "חדשות",
@@ -59980,7 +59999,8 @@
    "importance": 0,
    "published_ms": 1790959644000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מצלמות אבטחה באוקלוהומה תיעדו אישה מנסה לדרוס את בן זוגה לשעבר כשנהג נוסף מנע זאת ברכבו",
    "type": "mivzakim",
