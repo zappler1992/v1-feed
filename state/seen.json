@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-8711724c0ecf0a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9e5a3135d1df0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4949,7 +4949,8 @@
    "importance": 2,
    "published_ms": 1790937685000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "בחופשה רומנטית בתאילנד: כוכבת חתונמי נוי איטח ובן זוגה אופיר התארסו",
    "type": "mivzakim",
@@ -54201,7 +54202,8 @@
    "importance": 2,
    "published_ms": 1790935980000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "מסך ההודעות בדרך להשתנות: וואטסאפ בוחנת מהלך דרמטי",
    "type": "general",
@@ -59837,6 +59839,24 @@
    "updated_ms": 1790859456000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9c0836d8a87f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_BRAZIL_6725_01102026125554/V1_SHIR_BRAZIL_6725_01102026125554_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9e5a3135d1df0a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "באמצע הנסיעה בהונג קונג: נהג מונית איבד הכרה כשיש איתו נוסעים",
+   "duration_s": 41,
+   "first_seen_ms": 1790953647769,
+   "image": "https://img.mako.co.il/2026/10/02/V1_cartaxisleep_6783_02102026030113_1400_1790953374736_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790953381000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "באמצע הנסיעה בהונג קונג: נהג מונית איבד הכרה כשיש איתו נוסעים",
+   "type": "mivzakim",
+   "updated_ms": 1790953381000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9e5a3135d1df0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_cartaxisleep_6783_02102026030113/V1_cartaxisleep_6783_02102026030113_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9f4e724c0ecf0a1027.htm": {
    "author": "מבזקים מהעולם",
