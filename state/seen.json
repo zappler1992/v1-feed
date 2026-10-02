@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-34f7bb8a1cbf0a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5ec7bb8a1cbf0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-874149ad7ebf0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e63149ad7ebf0a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -40298,6 +40298,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84e1b813de5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16556_01102026053134/M_NEWS_16556_01102026053134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-874149ad7ebf0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי הדיון בבג\"ץ: יו\"ר בל\"ד אבו שחאדה הודיע רשמית כי לא יתמודד בבחירות הקרובות לכנסת",
+   "duration_s": 9,
+   "first_seen_ms": 1790934146433,
+   "image": "https://img.mako.co.il/2026/10/02/V1_KARIND_BAGATZ_6775_02102026093533_1400_1790933821148_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790933828000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי הדיון בבג\"ץ: יו\"ר בל\"ד אבו שחאדה הודיע רשמית כי לא יתמודד בבחירות הקרובות לכנסת",
+   "type": "mivzakim",
+   "updated_ms": 1790933828000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-874149ad7ebf0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_KARIND_BAGATZ_6775_02102026093533/V1_KARIND_BAGATZ_6775_02102026093533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-87c399e4898f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40965,6 +40983,24 @@
    "updated_ms": 1790825863000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e58fbbca035f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16553_01102026033512/M_NEWS_16553_01102026033512_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e63149ad7ebf0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי הפרישה: סמי אבו שחאדה הודיע על התפטרותו מרשימת בל\"ד",
+   "duration_s": 9,
+   "first_seen_ms": 1790934146433,
+   "image": "https://img.mako.co.il/2026/10/02/M_NEWS_16623_02102026093539_1400_1790933799932_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790933806000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי הפרישה: סמי אבו שחאדה הודיע על התפטרותו מרשימת בל\"ד",
+   "type": "mivzakim",
+   "updated_ms": 1790933806000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e63149ad7ebf0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16623_02102026093539/M_NEWS_16623_02102026093539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ecb605d9856f0a1027.htm": {
    "author": "מבזקים",
