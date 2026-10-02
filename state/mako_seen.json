@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790952149461,
+ "last_run_ms": 1790952450277,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3694,6 +3694,18 @@
    "published_ms": 1790929740000,
    "section": "ספורט",
    "title": "שחקן חיפה שהחלים וכשיר להפועל ירושלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9124724c0ecf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790952387038,
+   "content_type": "article",
+   "first_seen_ms": 1790952387038,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790952240000,
+   "section": "ספורט",
+   "title": "\"לא מתגעגע לכדורגל\": לאן נעלם דה סילבה?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d41a754327cf0a1027.htm": {
    "check_attempts": 1,
