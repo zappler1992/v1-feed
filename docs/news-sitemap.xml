@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-b9dadcdae0bf0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-02T05:25:32+00:00</news:publication_date>
+<news:title>תיעודים חדשים מטיסת פליי דובאי: הרגעים שבהם הנוסעים השתלטו חזרה על המטוס</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_DUBAI_6763_02102026052309_1400_1790918726047_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-fe5e911c9faf0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2294,14 +2303,5 @@
 <news:title>תשכחו מ-AI, תגידו SI: טראמפ הכריז על שם חדש לבינה המלאכותית</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/30/inbie_SI_300926_1400_1790746758826_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-3e932ad58b0f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T05:22:53+00:00</news:publication_date>
-<news:title>בבדיקה שגרתית בכביש 90 - התגלו כמויות גדולות של סמים: תושב נתניה בן 30 נעצר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_karind_samim_6621_30092026052128_1400_1790745766348_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
