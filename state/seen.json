@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-695d5b3766df0a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-aabab0d1d4df0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9963b0d1d4df0a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a8515b3766df0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -40754,6 +40754,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/MIVZAKIM_BOKER_011026_5/MIVZAKIM_BOKER_011026_5_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9963b0d1d4df0a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נוסעים ישראלים בדובאי מדווחים על בידוק מקיף במיוחד בעלייה למטוס לתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1790960545816,
+   "image": "https://img.mako.co.il/2026/10/02/M_NEWS_16638_02102026045541_1400_1790960219928_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790960226000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נוסעים ישראלים בדובאי מדווחים על בידוק מקיף במיוחד בעלייה למטוס לתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1790960226000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9963b0d1d4df0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16638_02102026045541/M_NEWS_16638_02102026045541_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9d8daf0fb18f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40843,6 +40861,24 @@
    "updated_ms": 1790851380000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a630b3f7407f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_DUBAI_6716_01102026103645/V1_SHIR_DUBAI_6716_01102026103645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a8515b3766df0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מכלית הותקפה סמוך למצר הורמוז. לא דוווח על נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1790960545816,
+   "image": "https://img.mako.co.il/2026/10/02/M_NEWS_16637_02102026045506_1400_1790960186933_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790960194000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מכלית הותקפה סמוך למצר הורמוז. לא דוווח על נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1790960194000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a8515b3766df0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16637_02102026045506/M_NEWS_16637_02102026045506_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-aa038e6e9c7f0a1026.htm": {
    "author": "מבזקים",
