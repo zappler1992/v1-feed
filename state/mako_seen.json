@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790971348517,
+ "last_run_ms": 1790971648816,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1645,6 +1645,18 @@
    "section": "ספורט",
    "title": "\"אוהדי הפועל? הכי משוגעים ששיחקתי עבורם\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-293051ef81ef0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790971587316,
+   "content_type": "article",
+   "first_seen_ms": 1790971587316,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790971500000,
+   "section": "ספורט",
+   "title": "זו פתיחת העונה הגרועה בהיסטוריה של מכבי"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-2bbfbbca035f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -1715,7 +1727,7 @@
    "indexnow_ms": null,
    "published_ms": 1790967780000,
    "section": "ספורט",
-   "title": "\"מכבי ת\"א מזכירה את הנבחרת נגד אירלנד\""
+   "title": "\"מכבי בנתה קבוצה לליגת העל, לא ליורוליג\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-5475979f388f0a1026.htm": {
    "check_attempts": 1,
