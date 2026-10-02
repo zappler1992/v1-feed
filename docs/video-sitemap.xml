@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-c4256977d29f0a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/01/biata_dvoriashem_011026_1400_1790888038938_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>זה מה שאפשר להגיד על האחראי למחדל הטיסה</video:title>
+<video:description>אחרי שהסעודים העבירו מידע מחקירתו של טייס המשנה לישראל, בה נחשף כי הוא אכן תכנן לבצע פיגוע טרור בטיסה מלאת ישראלים, עתה מתחקרים בישראל האם מדובר בהכוונה של ארגון טרור - ומי הוא הגורם האחראי למחדל הבטחוני הזה בארץ. זה כל מה שאפשר לספר עד עכשיו. מתוך חדשות 12.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_dvoriashem_011026/MASTER/biata_dvoriashem_011026/biata_dvoriashem_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>95</video:duration>
+<video:publication_date>2026-10-01T20:54:05+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7eb6b01d429f0a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/01/V1_KARIND_HAFGANA_6759_01102026085043_1400_1790887940316_FirstFrame.jpg</video:thumbnail_loc>
@@ -46,6 +63,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -127,6 +145,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -434,6 +453,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>

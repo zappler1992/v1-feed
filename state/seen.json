@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7eb6b01d429f0a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-c4256977d29f0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21223,7 +21223,9 @@
    "image": "https://img.mako.co.il/2026/10/01/biata_headlines_011026_1400_1790870310011_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1790870316000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "האגדה על השרברב הישראלי מתפשטת בעולם",
    "type": "news",
    "updated_ms": 1790870316000,
@@ -21375,6 +21377,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-b4fb5fa4586f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/fixflightsssss/fixflightsssss_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-c4256977d29f0a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי שהסעודים העבירו מידע מחקירתו של טייס המשנה לישראל, בה נחשף כי הוא אכן תכנן לבצע פיגוע טרור בטיסה מלאת ישראלים, עתה מתחקרים בישראל האם מדובר בהכוונה של ארגון טרור - ומי הוא הגורם האחראי למחדל הבטחוני הזה בארץ. זה כל מה שאפשר לספר עד עכשיו. מתוך חדשות 12.",
+   "duration_s": 95,
+   "first_seen_ms": 1790908946893,
+   "image": "https://img.mako.co.il/2026/10/01/biata_dvoriashem_011026_1400_1790888038938_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1790888045000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "זה מה שאפשר להגיד על האחראי למחדל הטיסה",
+   "type": "news",
+   "updated_ms": 1790888045000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-c4256977d29f0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_dvoriashem_011026/MASTER/biata_dvoriashem_011026/biata_dvoriashem_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cb36341dff8f0a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -21385,7 +21405,8 @@
    "importance": 2,
    "published_ms": 1790886081000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "שוד ענק בגוד פארם: גנבו יותר מ-100 בשמי יוקרה ונמלטו תוך שניות",
    "type": "news",
@@ -58881,7 +58902,8 @@
    "importance": 0,
    "published_ms": 1790883631000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אש ולבה זורמות מההר: התפרצות הר הגעש קילאואה בהוואי בתיעוד מרהיב",
    "type": "mivzakim",
