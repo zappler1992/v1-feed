@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790912848539,
+ "last_run_ms": 1790913148587,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11925,6 +11925,18 @@
    "section": "חדשות",
    "title": "על במת האו\"ם: האמירה השקרית של נשיא איראן"
   },
+  "https://www.mako.co.il/news-world/2026_q4/Article-b06ad746369f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790913026803,
+   "content_type": "article",
+   "first_seen_ms": 1790913026803,
+   "indexable": true,
+   "indexnow_ms": 1790913026803,
+   "published_ms": 1790899860000,
+   "section": "",
+   "title": "ההודעה לנוסעים שאמורים לעלות על טיסות החילוץ"
+  },
   "https://www.mako.co.il/nexter-news/Article-05651a29cddc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12617,9 +12629,9 @@
    "first_seen_ms": 1790868748390,
    "indexable": true,
    "indexnow_ms": 1790868748390,
-   "published_ms": null,
+   "published_ms": 1790912820000,
    "section": "גאווה",
-   "title": "\"חשבתי שאם אהיה הכי מפורסם בעולם, אקבל את הא"
+   "title": "\"חשבתי שאם אהיה הכי מפורסם, אקבל את האהבה שאני צריך\""
   },
   "https://www.mako.co.il/pride-culture/Article-9f045615069d0a1026.htm": {
    "check_attempts": 1,
@@ -13940,6 +13952,18 @@
    "published_ms": 1790582040000,
    "section": "",
    "title": "גיבורה בלתי צפויה: חזרה ממסיבה - וסיכלה מגה פיגוע"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b06ad746369f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-b06ad746369f0a1027.htm",
+   "checked_ms": 1790913148587,
+   "content_type": "article",
+   "first_seen_ms": 1790913148587,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790913000000,
+   "section": "",
+   "title": "ההודעה לנוסעים שאמורים לעלות על טיסות החילוץ"
   },
   "https://www.mako.co.il/special-mako-news/Article-b4889cfc9dae0a1026.htm": {
    "check_attempts": 1,
