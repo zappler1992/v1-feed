@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5617631f7edf0a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84690d05dfdf0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2bf80d05dfdf0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5023,7 +5024,8 @@
    "importance": 0,
    "published_ms": 1790953695000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עם צלמי הפפראצי מסביבה: בר רפאלי כובשת את שבוע האופנה בפריז",
    "type": "mivzakim",
@@ -21573,7 +21575,8 @@
    "importance": 2,
    "published_ms": 1790951853000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "שבעה נוסעים אמיצים מול מחבל אכזר אחד: גיבורי טיסת פליי דובאי",
    "type": "news",
@@ -39909,6 +39912,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2b604a45966f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIR_KATZIN_011026/SHIR_KATZIN_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2bf80d05dfdf0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הטייס הגיבור לצד דגל ישראל בלב מומבאי: הודו מצדיעה לאיש שהציל חיים",
+   "duration_s": 18,
+   "first_seen_ms": 1790968346041,
+   "image": "https://img.mako.co.il/2026/10/02/V1_herohudo_6789_02102026070742_1400_1790968136081_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790968143000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הטייס הגיבור לצד דגל ישראל בלב מומבאי: הודו מצדיעה לאיש שהציל חיים",
+   "type": "mivzakim",
+   "updated_ms": 1790968143000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2bf80d05dfdf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_herohudo_6789_02102026070742/V1_herohudo_6789_02102026070742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-2ca7bf0fb5cf0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40593,6 +40614,24 @@
    "updated_ms": 1790950667000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-826e724c0ecf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16630_02102026021625/M_NEWS_16630_02102026021625_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84690d05dfdf0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ארקיע החלה להשיב את הישראלים מדובאי: לראשונה זה כ-8 חודשים, מטוס ישראלי נחת באמירויות והמריא חזרה לי",
+   "duration_s": 36,
+   "first_seen_ms": 1790968346041,
+   "image": "https://img.mako.co.il/2026/10/02/M_NEWS_16640_02102026070927_1400_1790968246232_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790968252000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ארקיע החלה להשיב את הישראלים מדובאי: לראשונה זה כ-8 חודשים, מטוס ישראלי נחת באמירויות והמריא חזרה לי",
+   "type": "mivzakim",
+   "updated_ms": 1790968252000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84690d05dfdf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/M_NEWS_16640_02102026070927/M_NEWS_16640_02102026070927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-84e1b813de5f0a1027.htm": {
    "author": "מבזקים",
@@ -60035,7 +60074,8 @@
    "importance": 0,
    "published_ms": 1790953381000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "באמצע הנסיעה בהונג קונג: נהג מונית איבד הכרה כשיש איתו נוסעים",
    "type": "mivzakim",
@@ -60053,7 +60093,8 @@
    "importance": 0,
    "published_ms": 1790950660000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "לקראת יום הזיכרון ל-7 באוקטובר: פני נרצחי הטבח הוקרנו על מסכי טיימס סקוור בניו יורק",
    "type": "mivzakim",
