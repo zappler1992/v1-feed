@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790913448525,
+ "last_run_ms": 1790913748540,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2940,6 +2940,18 @@
    "published_ms": 1790912700000,
    "section": "ספורט",
    "title": "צור: \"הגשמתי חלום. תמיד האמנתי בעצמי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-927ce37bbaaf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790913748540,
+   "content_type": "article",
+   "first_seen_ms": 1790913748540,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790912700000,
+   "section": "ספורט",
+   "title": "עבדה: \"הבית פתוח. צריך להרים את הרמה\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
    "check_attempts": 1,
@@ -15549,6 +15561,30 @@
    "section": "קשת 12",
    "title": "\"ליהיא, הייתה עבורי עוגן אמיתי לאורך הלידה\""
   },
+  "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-7c73fc97e62d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790913626807,
+   "content_type": "article",
+   "first_seen_ms": 1790913626807,
+   "indexable": true,
+   "indexnow_ms": 1790913626807,
+   "published_ms": 1790917200000,
+   "section": "קשת 12",
+   "title": "\"גם אחרי 20 שנה, בסוף כל לידה אני מודה לזוג\""
+  },
+  "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-83c05df6766f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790913626807,
+   "content_type": "article",
+   "first_seen_ms": 1790913626807,
+   "indexable": true,
+   "indexnow_ms": 1790913626807,
+   "published_ms": 1790917200000,
+   "section": "קשת 12",
+   "title": "\"הכי מרגש אותי שהיא יודעת שיש לה אמא חירשת\""
+  },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-b52a9baec2ea0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15680,6 +15716,18 @@
    "published_ms": 1790054580000,
    "section": "קשת 12",
    "title": "\"מפחד שירד מנכסיו ופשוט לא יודעים את זה\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-36695df6766f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1790913626807,
+   "content_type": "article",
+   "first_seen_ms": 1790913626807,
+   "indexable": true,
+   "indexnow_ms": 1790913626807,
+   "published_ms": 1790910000000,
+   "section": "קשת 12",
+   "title": "על האקסית: \"הערת שוליים בחיים הרומנטיים\""
   },
   "https://www.mako.co.il/tv-morning-news/articles/Article-4e8352a7212d0a1026.htm": {
    "check_attempts": 1,
