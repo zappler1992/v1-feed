@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w01/shorts-eafa7e1731cf0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1bdfa64f15cf0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21588,7 +21588,8 @@
    "importance": 2,
    "published_ms": 1790855813000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "\"פחדתי שיאשימו אותנו\": הרופא שטיפל בטייסים חושף למה תיעד הכול במהלך הדרמה",
    "type": "news",
@@ -39684,6 +39685,24 @@
    "updated_ms": 1790924790000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1846cf7bb5bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_arkia_6770_02102026070515/V1_karind_arkia_6770_02102026070515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1bdfa64f15cf0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חמישה נפצעו בתאונת דרכים בכביש 6 לצפון לפני מחלף עירון, בן 80 במצב קשה",
+   "duration_s": 3,
+   "first_seen_ms": 1790940746432,
+   "image": "https://img.mako.co.il/2026/10/02/V1_karind_tehuna_6778_02102026112936_1400_1790940646746_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790940653000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חמישה נפצעו בתאונת דרכים בכביש 6 לצפון לפני מחלף עירון, בן 80 במצב קשה",
+   "type": "mivzakim",
+   "updated_ms": 1790940653000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1bdfa64f15cf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_tehuna_6778_02102026112936/V1_karind_tehuna_6778_02102026112936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm": {
    "author": "מבזקים",
