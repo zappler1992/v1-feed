@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790949748943,
+ "last_run_ms": 1790950049461,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14540,6 +14540,18 @@
    "published_ms": 1790840340000,
    "section": "חדשות",
    "title": "אריה עמידרור הוא קמ\"ן אוגדת עזה ב-7 באוקטובר"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e8daa19f4bcf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q4/Article-e8daa19f4bcf0a1027.htm",
+   "checked_ms": 1790950049461,
+   "content_type": "article",
+   "first_seen_ms": 1790950049461,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790949960000,
+   "section": "",
+   "title": "באמירויות כועסים: \"ישראל מנצלת את הפיגוע, זה לא המצב\""
   },
   "https://www.mako.co.il/special-mako-news/Article-e9c87d19263f0a1027.htm": {
    "check_attempts": 1,
