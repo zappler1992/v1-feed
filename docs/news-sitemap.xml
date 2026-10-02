@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-4008bba366bf0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-02T06:58:00+00:00</news:publication_date>
+<news:title>הטייס הפצוע בראיון ראשון</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/02/yoav_india_021026_1400_1790924170466_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ffffda1015bf0a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2222,14 +2231,5 @@
 <news:title>רגע לפני הדואט המשותף: הראל סקעת עושה גלי עטרי בפסטיבל ראשון לציון</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/30/SHIRA_HAREL_300926_M_1400_1790752409515_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-1fef6832411f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T06:59:34+00:00</news:publication_date>
-<news:title>מכות בתא הטייס שהקפיצו את כל המזרח התיכון: דין פישר עם כל הפרטים על התקרית החריגה בטיסה מדובאי</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_COCKPIT_6631_30092026065800_1400_1790751563945_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
