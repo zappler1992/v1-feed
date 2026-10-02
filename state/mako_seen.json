@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790925748889,
+ "last_run_ms": 1790926048499,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4796,6 +4796,18 @@
    "published_ms": 1790832780000,
    "section": "",
    "title": "ישראלי מונה לאחד התפקידים הנחשקים בהוליווד"
+  },
+  "https://www.mako.co.il/culture-articles/Article-a3a318be63bf0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/home-family-relationship/Article-a3a318be63bf0a1027.htm",
+   "checked_ms": 1790925987646,
+   "content_type": "article",
+   "first_seen_ms": 1790925987646,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790925780000,
+   "section": "",
+   "title": "\"אמרו לי 'תחזרו לתנורים בשואה, צריך להשמיד אתכם'\""
   },
   "https://www.mako.co.il/culture-articles/Article-aa4551e34a1e0a1026.htm": {
    "check_attempts": 1,
