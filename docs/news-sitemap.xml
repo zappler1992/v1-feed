@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-ca7fe5a368cf0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-02T12:37:11+00:00</news:publication_date>
+<news:title>הקטטה האלימה ביישוב היוקרתי בעקבות סכסוך עסקי: &quot;אנשים פחדו לצאת מהבתים&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/02/inbalmacot0210m_1400_1790944624612_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/tech-magazine/2026-m09_w05/shorts-1d4eeb17533f0a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1934,14 +1943,5 @@
 <news:title>&quot;ניצחנו, עם ישראל חי&quot;: הרגע בו הישראלים יוצאים לבשר לנוסעים שהצליחו להשתלט על הטייס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/09/30/V1_matosgubor_6667_30092026012332_1400_1790774704317_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m09_w05/shorts-16946638852f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-09-30T12:54:47+00:00</news:publication_date>
-<news:title>נהגת בת 66 התדרדרה ונפלה עם רכבה מגובה 7 מטרים בירושלים, מצבה קל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/M_NEWS_16518_30092026125309_1400_1790772880390_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
