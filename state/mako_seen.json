@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1790939248709,
+ "last_run_ms": 1790939549216,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4054,6 +4054,18 @@
    "published_ms": 1790344800000,
    "section": "ספורט",
    "title": "דרמה: סיטי נמצאה אשמה בפרשת הפייר פליי"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-3038d92dd4cf0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1790939549216,
+   "content_type": "article",
+   "first_seen_ms": 1790939549216,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1790939400000,
+   "section": "ספורט",
+   "title": "סיטי ערערה על ההרשעה: \"המועדון חף מפשע\""
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-014bd5b45f0e0a1027.htm": {
    "check_attempts": 1,
