@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-1db520292bbf0a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-34f7bb8a1cbf0a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5ec7bb8a1cbf0a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39756,6 +39757,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-319a20292bbf0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_natanya_6771_02102026082029/V1_karind_natanya_6771_02102026082029_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-34f7bb8a1cbf0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כביש 5 מחלף פדואל לכיוון מזרח נחסם לתנועה בעקבות רכב שעולה באש, אין נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1790932946325,
+   "image": "https://img.mako.co.il/2026/10/02/V1_KARIND_KVISH5_6774_02102026091644_1400_1790932684307_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790932691000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כביש 5 מחלף פדואל לכיוון מזרח נחסם לתנועה בעקבות רכב שעולה באש, אין נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1790932691000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-34f7bb8a1cbf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_KARIND_KVISH5_6774_02102026091644/V1_KARIND_KVISH5_6774_02102026091644_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-35c73796268f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40026,6 +40045,24 @@
    "updated_ms": 1790861891000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5c7ba6beba7f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16590_01102026013656/M_NEWS_16590_01102026013656_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5ec7bb8a1cbf0a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרשויות ברפובליקה הדמוקרטית של קונגו: מניין המתים בהתפרצות נגיף האבולה במדינה חצה את רף ה-4,000",
+   "duration_s": 9,
+   "first_seen_ms": 1790932946325,
+   "image": "https://img.mako.co.il/2026/10/02/V1_KARIND_CONGO_6773_02102026091544_1400_1790932641957_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1790932648000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרשויות ברפובליקה הדמוקרטית של קונגו: מניין המתים בהתפרצות נגיף האבולה במדינה חצה את רף ה-4,000",
+   "type": "mivzakim",
+   "updated_ms": 1790932648000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5ec7bb8a1cbf0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_KARIND_CONGO_6773_02102026091544/V1_KARIND_CONGO_6773_02102026091544_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6589da1015bf0a1027.htm": {
    "author": "מבזקים",
