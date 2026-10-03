@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-65e1c85033201a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T15:00:48+00:00</news:publication_date>
+<news:title>האיש תופס את התינוק שנפל מהמרפסת - ברגע האחרון: התיעוד שמסעיר את מצרים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_BABY_6806_03102026025913_1400_1791039641303_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-d8320394d1201a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1232,23 +1241,5 @@
 <news:title>ירח הדבש שהשתבש: דניאל עמית חושפת כי אושפזה ישר לאחר החזרה מאפריקה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/SHIRA_DANIEL_011026_M_1400_1790866972387_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a1336e6ede7f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T15:01:08+00:00</news:publication_date>
-<news:title>זה הפרק של &quot;תעופה בחקירה&quot; שבזכותו הצליח יניב חיון להציל את המטוס מהתרסקות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/biata_episdoe_fix_1400_1790868204461_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-0b026e6ede7f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T14:58:39+00:00</news:publication_date>
-<news:title>צה&quot;ל חושף: 170 מההרוגים שהוצגו לעולם כעיתונאים היו מחבלים בארגון טרור בעזה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_karind_gaza_6734_01102026025710_1400_1790866713027_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
