@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-d309a77de6001a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2025-m05_w02/shorts-ffb25978e81b691027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-edb6355982001a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41555,6 +41556,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ed63fb76fdff0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_SUBTITELS_031026_FIX1/SHIR_SUBTITELS_031026_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-edb6355982001a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ניסה לחסל הבוקר את מחליפו של סינוואר, עלי אל-עאמודי",
+   "duration_s": 9,
+   "first_seen_ms": 1791010046381,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16646_03102026064014_1400_1791009692435_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791009698000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ניסה לחסל הבוקר את מחליפו של סינוואר, עלי אל-עאמודי",
+   "type": "mivzakim",
+   "updated_ms": 1791009698000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-edb6355982001a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16646_03102026064014/M_NEWS_16646_03102026064014_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-f064c2bac08f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45306,6 +45325,22 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/special-magazine/2025-m05_w02/shorts-afa761bcff4b691026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/05/09/PETH_TAMAR_080525_Mfix/PETH_TAMAR_080525_Mfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2025-m05_w02/shorts-ffb25978e81b691027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "והפעם במדור הטיולים שלנו, המלצות למקומות שאסור לכם לפספס בואדי ניסנאס חיפה. הפלאפל הכי טעים בארץ, עלי גפן ומלפוף חלומיים וחלווה ייחודית שלא נדבקת לשיניים! אל תפספסו",
+   "duration_s": 70,
+   "first_seen_ms": 1791010046381,
+   "image": "https://img.mako.co.il/2025/05/08/keren_vadinisnas_080525_1400_1746736269596_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791006000000,
+   "sections": [],
+   "title": "מקומות שאסור לכם לפספס בואדי ניסנאס חיפה",
+   "type": "general",
+   "updated_ms": 1791006000000,
+   "url": "https://www.v-1.co.il/special-magazine/2025-m05_w02/shorts-ffb25978e81b691027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/05/08/keren_vadi_080525/MASTER/keren_vadinisnas_080525/keren_vadinisnas_080525_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2025-m05_w03/shorts-26c987cbe7eb691027.htm": {
    "author": "מיוחד",
