@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5444a68500301a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4730528612301a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3583,7 +3583,8 @@
    "importance": 2,
    "published_ms": 1791040620000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "טרגדיה: בן זוגה של ג'יפסי רוז בלנצ'ארד נמצא מת בגיל 33",
    "type": "general",
@@ -21921,7 +21922,8 @@
    "importance": 2,
    "published_ms": 1791045720000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ישראל מזהירה: היעד שאיראן רוצה לפגוע בו",
    "type": "news",
@@ -40562,6 +40564,24 @@
    "updated_ms": 1790870551000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4492af0fb18f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16598_01102026040055/M_NEWS_16598_01102026040055_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4730528612301a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השריפה בעוספיה ממשיכה להשתולל: התושבים הונחו להתסגר בבתיהם",
+   "duration_s": 33,
+   "first_seen_ms": 1791054446124,
+   "image": "https://img.mako.co.il/2026/10/03/FIX_OSAFIA_M_1400_1791054250246_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791054240000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השריפה בעוספיה ממשיכה להשתולל: התושבים הונחו להתסגר בבתיהם",
+   "type": "mivzakim",
+   "updated_ms": 1791054240000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-4730528612301a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/FIX_OSAFIA_M/FIX_OSAFIA_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-484c20292bbf0a1026.htm": {
    "author": "מבזקים",
@@ -60980,7 +61000,8 @@
    "importance": 0,
    "published_ms": 1791039648000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "האיש תופס את התינוק שנפל מהמרפסת - ברגע האחרון: התיעוד שמסעיר את מצרים",
    "type": "mivzakim",
@@ -61092,7 +61113,8 @@
    "importance": 0,
    "published_ms": 1791040679000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הפקק הכי גדול בעולם: 1.4 מיליארד סינים יצאו השבוע לחופש - והכבישים לא עומדים בעומס",
    "type": "mivzakim",
@@ -61296,7 +61318,8 @@
    "published_ms": 1791038069000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כמעט אסון בהודו: המכונית התפוצצה ברעש עצום - באמצע התדלוק",
    "type": "mivzakim",
