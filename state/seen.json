@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-26858a07d0101a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-14b33c327a001a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-7dbc8a07d0101a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3426,6 +3427,24 @@
    "updated_ms": 1790690624000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m09_w05/shorts-fccd350e27de0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/rinat_camping_29092026/MASTER/rinat_camping_29092026_/rinat_camping_29092026__,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-14b33c327a001a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "השחקנית ניקולה פלץ הגיעה יד ביד עם בעלה ברוקלין בקהאם להשקה של מותג התכשיטים \"מסיקה\", אך מה שהכי העסיק את הגולשים בתמונות של השניים זה דווקא הגזרה שהציגה. הגולשים ברשת הגיבו תגובות קשות וחסרות מעצורים כמו \"יש לה גוף של ילד בן 10\", \"היא אנורקסית להחריד\", ואף תגובות כמו \"היא יצאה עכשיו מאושוויץ?\".",
+   "duration_s": 16,
+   "first_seen_ms": 1791023546409,
+   "image": "https://img.mako.co.il/2026/10/03/biata_nicola_031026_1400_1791015570476_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791015577000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "השחקנית ניקולה פלץ חוטפת על הגזרה שלה",
+   "type": "general",
+   "updated_ms": 1791015577000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-14b33c327a001a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/biata_nicola_031026/MASTER/biata_nicola_031026/biata_nicola_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-18c1e0603a6f0a1027.htm": {
    "author": "סלבס",
@@ -10261,6 +10280,24 @@
    "updated_ms": 1790922235000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-75b018be63bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/rinat_tender_021026/MASTER/rinat_tender_021026_m/rinat_tender_021026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-7dbc8a07d0101a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "באמצע נסיעה שגרתית במונית בהונג קונג, הנהג איבד לפתע הכרה. במשך 30 שניות הנוסעים לא הבחינו, עד ששמו לב ונאלצו להשתלט על ההגה ולמנוע תאונה. הנהג אושפז בבית החולים לבדיקות, ולנוסעים שלום.",
+   "duration_s": 29,
+   "first_seen_ms": 1791023546409,
+   "image": "https://img.mako.co.il/2026/10/03/biata_driver_031026_1400_1791019561784_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791019568000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "הנהג איבד הכרה - הנוסעים השתלטו על ההגה",
+   "type": "general",
+   "updated_ms": 1791019568000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-7dbc8a07d0101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/biata_driver_031026/MASTER/biata_driver_031026/biata_driver_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-a57e6fa3c46f0a1027.htm": {
    "author": "מהעולם",
