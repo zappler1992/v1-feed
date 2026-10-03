@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-434433c439101a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6c6338587a101a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-506338587a101a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -40490,6 +40491,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-505de19dbeff0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16641_03102026041814/M_NEWS_16641_03102026041814_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-506338587a101a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חיל האוויר הסעודי תוקף בצנעא בירת תימן",
+   "duration_s": 10,
+   "first_seen_ms": 1791031346527,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16662_03102026123857_1400_1791031188489_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791031194000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חיל האוויר הסעודי תוקף בצנעא בירת תימן",
+   "type": "mivzakim",
+   "updated_ms": 1791031194000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-506338587a101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16662_03102026123857/M_NEWS_16662_03102026123857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-51c0f9cd6f8f0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40724,6 +40743,24 @@
    "updated_ms": 1790884876000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-68caad45909f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_karind_meitar_6757_01102026075921/V1_karind_meitar_6757_01102026075921_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6c6338587a101a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נמשכות תקיפות צה\"ל בדרום לבנון",
+   "duration_s": 9,
+   "first_seen_ms": 1791031346527,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16661_03102026123832_1400_1791031209121_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791031216000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נמשכות תקיפות צה\"ל בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1791031216000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6c6338587a101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16661_03102026123832/M_NEWS_16661_03102026123832_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6f81a19f4bcf0a1027.htm": {
    "author": "מבזקים",
