@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-99bf3c327a001a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-f92edff1e8001a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21805,6 +21805,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-d45ecf7bb5bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/yoav_india_021026_fix3/yoav_india_021026_fix3_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-f92edff1e8001a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי חמישה ימי מצוד, המשטרה מאתרת את הרוצח לואיג'י מנג'יונה בתוך סניף מקדונלד'ס - והחקירה חושפת את השקרים שמסר לשוטרים.",
+   "duration_s": 85,
+   "first_seen_ms": 1791015746330,
+   "image": "https://img.mako.co.il/2026/10/03/SHIR_MURDER_031026_1400_1791011783615_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791011790000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "חיפשו את הרוצח חמישה ימים - ומצאו אותו באמצע ארוחה במקדונלד'ס",
+   "type": "news",
+   "updated_ms": 1791011790000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-f92edff1e8001a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_MURDER_031026/MASTER/SHIR_MURDER_031026/SHIR_MURDER_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
    "date_source": null,
@@ -41619,7 +41637,8 @@
    "importance": 2,
    "published_ms": 1791002732000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "עבר תהליך רדיקליזציה ותכנן לרסק את המטוס: פרטים חדשים על המחבל-טייס",
    "type": "mivzakim",
