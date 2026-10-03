@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791055348787,
+ "last_run_ms": 1791055648751,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12177,6 +12177,18 @@
    "section": "מוזיקה",
    "title": "הכוכב הבריטי נעצר בגלל תמיכה בארגון טרור פרו-פלסטיני"
   },
+  "https://www.mako.co.il/music-news/Article-ac44528612301a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791055466792,
+   "content_type": "article",
+   "first_seen_ms": 1791055466792,
+   "indexable": true,
+   "indexnow_ms": 1791055466792,
+   "published_ms": 1791055080000,
+   "section": "מוזיקה",
+   "title": "עוד כוכב אמריקאי הביע תמיכה בפלסטין"
+  },
   "https://www.mako.co.il/music-news/Article-b1d97ea4d94e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13723,7 +13735,7 @@
    "indexnow_ms": 1791043227011,
    "published_ms": 1791043140000,
    "section": "",
-   "title": "המסר של של טראמפ ל\"גייז למען פלסטין\""
+   "title": "המסר של טראמפ ל\"הומואים למען פלסטין\""
   },
   "https://www.mako.co.il/pride-news/Article-2b7bd754464a0a1026.htm": {
    "check_attempts": 1,
