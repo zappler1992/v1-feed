@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-762c3e9632201a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-6fc4d04664201a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f5afccd3dd101a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3557,6 +3557,24 @@
    "updated_ms": 1790866979000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-e5e36e6ede7f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/SHIRA_DANIEL_011026/MASTER/SHIRA_DANIEL_011026_M/SHIRA_DANIEL_011026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f5afccd3dd101a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "בן זוגה של ג'יפסי רוז בלנצ'ארד- קן אורקר, נמצא מת ב-1 באוקטובר בביתו בלואיזיאנה, בן 33 בלבד. \nמשרד השריף אישר כי התקבל דיווח על המקרה וכי אורקר נמצא ללא רוח חיים עם הגעת הכוחות למקום.\nנסיבות המוות עדיין נחקרות, וסיבת המוות לא נחשפה בשלב זה. בלנצ'ארד ואורקר הכירו בזמן שריצתה עונש מאסר, נפרדו ב-2019 ובהמשך חידשו את הקשר. לשניים בת משותפת בת 21 חודשים.",
+   "duration_s": 69,
+   "first_seen_ms": 1791040945792,
+   "image": "https://img.mako.co.il/2026/10/03/Kim_GypsyRose_03102026_1400_1791035525579_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791040620000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "טרגדיה: בן זוגה של ג'יפסי רוז בלנצ'ארד נמצא מת בגיל 33",
+   "type": "general",
+   "updated_ms": 1791040620000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f5afccd3dd101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/Kim_GypsyRose_03102026/MASTER/Kim_GypsyRose_03102026/Kim_GypsyRose_03102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm": {
    "author": "סלבס",
@@ -60741,6 +60759,24 @@
    "updated_ms": 1791020892000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-6df38a07d0101a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_sbarro_6797_03102026094703/V1_sbarro_6797_03102026094703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-6fc4d04664201a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הפקק הכי גדול בעולם: 1.4 מיליארד סינים יצאו השבוע לחופש - והכבישים לא עומדים בעומס",
+   "duration_s": 14,
+   "first_seen_ms": 1791040945792,
+   "image": "https://img.mako.co.il/2026/10/03/V1_pkak_6808_03102026031644_1400_1791040672777_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791040679000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הפקק הכי גדול בעולם: 1.4 מיליארד סינים יצאו השבוע לחופש - והכבישים לא עומדים בעומס",
+   "type": "mivzakim",
+   "updated_ms": 1791040679000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-6fc4d04664201a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_pkak_6808_03102026031644/V1_pkak_6808_03102026031644_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-70d0409f567f0a1027.htm": {
    "author": "מבזקים מהעולם",
