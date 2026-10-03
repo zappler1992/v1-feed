@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791006149099,
+ "last_run_ms": 1791006449959,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1920,6 +1920,18 @@
    "published_ms": 1790999040000,
    "section": "ספורט",
    "title": "\"כולם מדוכאים\": מכבי ת\"א סופרת עוד תבוסה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-f27059c0b3001a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791006387581,
+   "content_type": "article",
+   "first_seen_ms": 1791006387581,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791006060000,
+   "section": "ספורט",
+   "title": "כשל מערכתי מתמשך: הבעיות של מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ffed43dc4b8f0a1026.htm": {
    "check_attempts": 1,
