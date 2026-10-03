@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ed63fb76fdff0a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8d4c355982001a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41238,7 +41238,8 @@
    "importance": 0,
    "published_ms": 1790961560000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "הטייס שהפך למחבל מתאבד: ניר דבורי עם פרטים חדשים על האיש שכמעט ריסק את המטוס",
    "type": "mivzakim",
@@ -60137,6 +60138,24 @@
    "updated_ms": 1790859197000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8ae6ce08b77f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_FRANCE3_6724_01102026125145/V1_SHIR_FRANCE3_6724_01102026125145_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8d4c355982001a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הלם בשידור חי: כתבת החדשות נדרסת באמצע דיווח לעיניי המצלמות במונטריי, מקסיקו",
+   "duration_s": 21,
+   "first_seen_ms": 1791006146077,
+   "image": "https://img.mako.co.il/2026/10/03/V1_mexico_6792_03102026053817_1400_1791005990380_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791005998000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הלם בשידור חי: כתבת החדשות נדרסת באמצע דיווח לעיניי המצלמות במונטריי, מקסיקו",
+   "type": "mivzakim",
+   "updated_ms": 1791005998000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8d4c355982001a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_mexico_6792_03102026053817/V1_mexico_6792_03102026053817_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-9c0836d8a87f0a1026.htm": {
    "author": "מבזקים מהעולם",
