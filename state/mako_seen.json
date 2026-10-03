@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791043049582,
+ "last_run_ms": 1791043348651,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3143,7 +3143,7 @@
    "indexnow_ms": null,
    "published_ms": 1791041520000,
    "section": "ספורט",
-   "title": "צפו בשידור: בן שמעון מדבר לפני אירלנד"
+   "title": "\"מבין שאכזבנו מדינה שלמה, יהיה משחק אחר\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-3930f0bffeaf0a1026.htm": {
    "check_attempts": 1,
@@ -4845,7 +4845,7 @@
    "indexnow_ms": null,
    "published_ms": 1791024000000,
    "section": "ספורט",
-   "title": "נבחרת אירלנד פוצצה מסיבת עיתונאים, כתב ישראלי הותקף"
+   "title": "שליח ערוץ הספורט הותקף במסע\"ת אירלנד"
   },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-3dfc3ff1285f0a1026.htm": {
    "check_attempts": 1,
@@ -13171,7 +13171,7 @@
    "indexnow_ms": 1790910867673,
    "published_ms": 1790840700000,
    "section": "דיגיטל",
-   "title": "הילה ניקתה בתים לפרנסתה. היום היא המנכ\"לית"
+   "title": "הילה ניקתה בתים לפרנסתה, היום היא המנכ\"לית"
   },
   "https://www.mako.co.il/nexter-news/Article-7d8c6626ad6d0a1026.htm": {
    "check_attempts": 1,
@@ -13604,6 +13604,18 @@
    "published_ms": 1789641780000,
    "section": "גאווה",
    "title": "\"באים לסאונה מלא חרדים, ערבים, גברים נשואים\""
+  },
+  "https://www.mako.co.il/pride-news/Article-29ddc85033201a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791043227011,
+   "content_type": "article",
+   "first_seen_ms": 1791043227011,
+   "indexable": true,
+   "indexnow_ms": 1791043227011,
+   "published_ms": 1791043140000,
+   "section": "",
+   "title": "המסר של של טראמפ ל\"גייז למען פלסטין\""
   },
   "https://www.mako.co.il/pride-news/Article-2b7bd754464a0a1026.htm": {
    "check_attempts": 1,
@@ -14203,7 +14215,7 @@
    "indexnow_ms": 1790910867673,
    "published_ms": 1790910000000,
    "section": "צבא וביטחון",
-   "title": "התנאי החדש שסוריה הציבה לאיראן: \"לפתוח דף חדש\""
+   "title": "המדינה הערבית העוינת הציבה תנאי חדש לאיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ae564ec09f1d0a1026.htm": {
    "check_attempts": 1,
@@ -14551,7 +14563,7 @@
    "indexnow_ms": 1791012267399,
    "published_ms": 1791012060000,
    "section": "",
-   "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר"
+   "title": "כל מה שאפשר לספר על ניסיון חיסול המחליף של סינוואר"
   },
   "https://www.mako.co.il/special-mako-news/Article-095775c9e89e0a1027.htm": {
    "check_attempts": 1,
@@ -15944,6 +15956,18 @@
    "published_ms": 1790248140000,
    "section": "חופש",
    "title": "השינוי בבידוק הביטחוני שיכול לעלות לכם כסף"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-430d0394d1201a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791043227011,
+   "content_type": "article",
+   "first_seen_ms": 1791043227011,
+   "indexable": true,
+   "indexnow_ms": 1791043227011,
+   "published_ms": 1791043020000,
+   "section": "",
+   "title": "דם בקוקפיט ואז מלחמה דיפלומטית: הדרמה של פליי-דובאי"
   },
   "https://www.mako.co.il/travel-news/international/Article-45319125100a0a1026.htm": {
    "check_attempts": 1,
