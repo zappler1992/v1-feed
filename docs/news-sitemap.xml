@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-fb1f355982001a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T05:55:39+00:00</news:publication_date>
+<news:title>שם המחבל שניסה לרסק את המטוס נחשף: המאם אל חמאמי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_name_6793_03102026055332_1400_1791006932806_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8d4c355982001a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1484,23 +1493,5 @@
 <news:title>יותר מ-500 מטרות: חיל האוויר תקף בלבנון ובעזה בחודש האחרון, בהן מטרות חיזבאללה וחמאס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_SHIR_500_6702_01102026060025_1400_1790834525574_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-ae3c6d9a406f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T05:57:11+00:00</news:publication_date>
-<news:title>כמעט נגמר במכות: הבמאי ספייק לי התעמת בניו יורק עם אוהד שקרא לעברו &quot;פאק פלסטיין&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_SHIR_SPIKE_6701_01102026055611_1400_1790834224996_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-6b6227fe6f5f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T05:53:20+00:00</news:publication_date>
-<news:title>ניר דבורי עונה על השאלה שכולם שואלים - האם בטוח לטוס?</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/DVOTIFIXINBALMET2_1400_1790834728182_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
