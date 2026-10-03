@@ -720,10 +720,11 @@
    "published_ms": 1790498760000,
    "sections": [
     "מיקרו סדרות",
-    "בקצב השקר"
+    "בקצב השקר",
+    "הכי נצפים השבוע"
    ],
    "title": "בקצב השקר פרק 1: קבלת פנים אכזרית",
-   "type": "series",
+   "type": "general",
    "updated_ms": 1790499420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/ACADEMY_OF_LIES_EP01/MASTER/ACADEMY_OF_LIES_EP01/ACADEMY_OF_LIES_EP01_,550,850,1100,1400,.mp4.csmil/master.m3u8"
@@ -20762,7 +20763,8 @@
    "published_ms": 1790620455000,
    "sections": [
     "חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מנכ\"ל מליסרון אופיר שריד הלך לעולמו בגיל 54",
    "type": "news",
@@ -21761,7 +21763,7 @@
    "sections": [],
    "title": "תוך שניות: שברו חלון בגוד פארם ונמלטו עם יותר מ-100 בשמים",
    "type": "news",
-   "updated_ms": 1790974620000,
+   "updated_ms": 1791001560000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-cf183f2022bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/rinat_goodfarm_021026/MASTER/rinat_goodfarm_021026_m/rinat_goodfarm_021026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -40836,14 +40838,14 @@
    "duration_s": 82,
    "first_seen_ms": 1790962645933,
    "image": "https://img.mako.co.il/2026/10/02/V1_barakusa_6787_02102026053217_1400_1790962479368_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1790962485000,
    "sections": [
     "מבזקים"
    ],
    "title": "כך ארצות הברית נערכת לאפשרות של חידוש המלחמה מול איראן",
    "type": "mivzakim",
-   "updated_ms": 1790962485000,
+   "updated_ms": 1791001620000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8c48d3ed9adf0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_barakusa_6787_02102026053217/V1_barakusa_6787_02102026053217_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -59998,7 +60000,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים השבוע"
    ],
    "title": "\"מי יהודי כאן?\" מהגרים בצרפת מאיימים על יהודים - וצועקים: \"אנחנו נשרוף את ישראל!\"",
    "type": "mivzakim",
