@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-c57ea68500301a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5444a68500301a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -40763,6 +40763,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-53d9fb76fdff0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_tahazit_6790_03102026040255/V1_tahazit_6790_03102026040255_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5444a68500301a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ככה זה נראה: גרזן חירום למטוסי נוסעים - שבו, על פי קפטן סמית ההודי, היכה הטייס המחבל",
+   "duration_s": 9,
+   "first_seen_ms": 1791053246108,
+   "image": "https://img.mako.co.il/2026/10/03/V1_axe_6815_03102026064337_1400_1791053100070_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791053107000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ככה זה נראה: גרזן חירום למטוסי נוסעים - שבו, על פי קפטן סמית ההודי, היכה הטייס המחבל",
+   "type": "mivzakim",
+   "updated_ms": 1791053107000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5444a68500301a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_axe_6815_03102026064337/V1_axe_6815_03102026064337_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-5496352f2d201a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -52893,7 +52911,7 @@
    ],
    "title": "מVינים בחירות: שרי הליכוד שכחו? המצלמה זוכרת הכול",
    "type": "general",
-   "updated_ms": 1791049200000,
+   "updated_ms": 1791052920000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-aecb462afdde0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/29/dor_hakira_290926/MASTER/dor_hakira_290926/dor_hakira_290926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
