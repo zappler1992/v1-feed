@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-5de2ff5be7201a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1fc7ff5be7201a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21720,14 +21720,14 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-5de2ff5be7201a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "פני הרוע: זה טייס המשנה שרצה לרצוח 174 ישראלים - וזה המחדל המטורף שבגללו הוא כמעט הצליח",
+   "description": "טייס המשנה העומאני המאם אל-המאמי נחשף כחשוד בניסיון להשתלט על טיסת \"פליי דובאי\" ולרסק אותה. \nלפי דיווחים, בעבר הופסקה עבודתו ב\"עומאן אייר\" לאחר שברשותו נמצאו \"חומרים קיצוניים\", ובחשבונו \nהופיעו תיעודים של מטוסי אל על ותמונה של מנהיג אל-קאעידה. \nלפי דיווחים, הודה בחקירתו כי התכוון לרסק את המטוס בשטח ישראל.",
    "duration_s": 60,
    "first_seen_ms": 1791044545903,
    "image": "https://img.mako.co.il/2026/10/03/Kim_1_03102026_1400_1791044120241_FirstFrame.jpg",
-   "importance": 2,
+   "importance": 1,
    "published_ms": 1791044127000,
    "sections": [],
-   "title": "",
+   "title": "פני הרוע נחשפים: מחדל הטייס המחבל",
    "type": "news",
    "updated_ms": 1791044127000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-5de2ff5be7201a1026.htm",
@@ -40130,6 +40130,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1bdfa64f15cf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_tehuna_6778_02102026112936/V1_karind_tehuna_6778_02102026112936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1fc7ff5be7201a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המחלוקת סביב כבודת הישראלים בדובאי: חברת המטען צ׳אלנג׳ איירליינס הישראלית קיבלה אישור להטיס ארצה את",
+   "duration_s": 9,
+   "first_seen_ms": 1791045145968,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16667_03102026042737_1400_1791044938579_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791044945000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המחלוקת סביב כבודת הישראלים בדובאי: חברת המטען צ׳אלנג׳ איירליינס הישראלית קיבלה אישור להטיס ארצה את",
+   "type": "mivzakim",
+   "updated_ms": 1791044945000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1fc7ff5be7201a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16667_03102026042737/M_NEWS_16667_03102026042737_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -40372,14 +40390,14 @@
    "duration_s": 7,
    "first_seen_ms": 1791042445836,
    "image": "https://img.mako.co.il/2026/10/03/V1_CABRI_6810_03102026033936_1400_1791042055075_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791042061000,
    "sections": [
     "מבזקים"
    ],
    "title": "סערה בצומת כברי: קללות ואיומים נגד מפגינים במחאה נגד הממשלה",
    "type": "mivzakim",
-   "updated_ms": 1791042061000,
+   "updated_ms": 1791044760000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-3b91327eb5201a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_CABRI_6810_03102026033936/V1_CABRI_6810_03102026033936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
