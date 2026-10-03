@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791008849604,
+ "last_run_ms": 1791009164846,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1931,7 +1931,7 @@
    "indexnow_ms": null,
    "published_ms": 1791006060000,
    "section": "ספורט",
-   "title": "כשל מערכתי מתמשך: הבעיות של מכבי ת\"א"
+   "title": "כשל מערכתי מתמשך: הבועה שהנפצה למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ffed43dc4b8f0a1026.htm": {
    "check_attempts": 1,
@@ -3802,6 +3802,18 @@
    "published_ms": 1790842980000,
    "section": "ספורט",
    "title": "מי פרסם ומי לא? הסטורי של שחקני מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-59a3355982001a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791009164846,
+   "content_type": "article",
+   "first_seen_ms": 1791009164846,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791008820000,
+   "section": "ספורט",
+   "title": "ברזיל וחצי גמר גביע ווינר: לוח השידורים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-632ebba366bf0a1026.htm": {
    "check_attempts": 1,
