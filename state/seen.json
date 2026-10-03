@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-65223d57bf001a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-bcbbe66981101a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-da228a07d0101a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41395,6 +41396,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-bba865de178f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_KARIN_DKIRA_6746_01102026050820/V1_KARIN_DKIRA_6746_01102026050820_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-bcbbe66981101a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילדה בת 4 נפצעה באורח בינוני בתאונת טרקטורון סמוך לגונן",
+   "duration_s": 9,
+   "first_seen_ms": 1791020846511,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16656_03102026094248_1400_1791020643919_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791020650000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילדה בת 4 נפצעה באורח בינוני בתאונת טרקטורון סמוך לגונן",
+   "type": "mivzakim",
+   "updated_ms": 1791020650000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-bcbbe66981101a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16656_03102026094248/M_NEWS_16656_03102026094248_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-bda8086bd9df0a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -41630,6 +41649,24 @@
    "updated_ms": 1790884389000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-d5b4f9cd6f8f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_KARIND_FIRE_6756_01102026075137/V1_KARIND_FIRE_6756_01102026075137_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-da228a07d0101a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תוקף בדרום לבנון",
+   "duration_s": 17,
+   "first_seen_ms": 1791020846511,
+   "image": "https://img.mako.co.il/2026/10/03/M_NEWS_16655_03102026094158_1400_1791020591029_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791020597000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל תוקף בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1791020597000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-da228a07d0101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/M_NEWS_16655_03102026094158/M_NEWS_16655_03102026094158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-e4974128ea5f0a1027.htm": {
    "author": "מבזקים",
