@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-fd9c7be394101a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-02907be394101a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3441,7 +3441,7 @@
    ],
    "title": "השחקנית ניקולה פלץ חוטפת על הגזרה שלה",
    "type": "general",
-   "updated_ms": 1791015577000,
+   "updated_ms": 1791025500000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-14b33c327a001a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/biata_nicola_031026/MASTER/biata_nicola_031026/biata_nicola_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -39843,6 +39843,24 @@
    "updated_ms": 1790857934000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-01313eecb67f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/M_NEWS_16587_01102026123050/M_NEWS_16587_01102026123050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-02907be394101a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פורעים ישראלים בשומרון יידו אבנים על רכבים וניפצו שמשות, פלסטיני פצוע",
+   "duration_s": 29,
+   "first_seen_ms": 1791025646451,
+   "image": "https://img.mako.co.il/2026/10/03/V1_ayosh_6800_03102026110152_1400_1791025393241_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791025399000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פורעים ישראלים בשומרון יידו אבנים על רכבים וניפצו שמשות, פלסטיני פצוע",
+   "type": "mivzakim",
+   "updated_ms": 1791025399000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-02907be394101a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_ayosh_6800_03102026110152/V1_ayosh_6800_03102026110152_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-04726d9a406f0a1026.htm": {
    "author": "מבזקים",

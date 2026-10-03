@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791025349104,
+ "last_run_ms": 1791025650185,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3312,6 +3312,18 @@
    "published_ms": 1790836080000,
    "section": "ספורט",
    "title": "\"בגדתם בעם שלנו\": מחאות נגד שחקני אירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-dc0e7b25e5101a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791025586871,
+   "content_type": "article",
+   "first_seen_ms": 1791025586871,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791025440000,
+   "section": "ספורט",
+   "title": "מביך: היחס האירי לפיצוץ מסיבת העיתונאים"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
    "check_attempts": 1,
