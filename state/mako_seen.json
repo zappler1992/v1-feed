@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791037648422,
+ "last_run_ms": 1791037948401,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3204,6 +3204,18 @@
    "published_ms": 1790912700000,
    "section": "ספורט",
    "title": "צור: \"הגשמתי חלום. תמיד האמנתי בעצמי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-8fdf0394d1201a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791037948401,
+   "content_type": "article",
+   "first_seen_ms": 1791037948401,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791037500000,
+   "section": "ספורט",
+   "title": "\"תפסו אותי בכוח. בחיים זה לא קרה לי\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-927ce37bbaaf0a1027.htm": {
    "check_attempts": 1,
