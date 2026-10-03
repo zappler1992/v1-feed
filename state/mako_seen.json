@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791005248667,
+ "last_run_ms": 1791005548847,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5443,7 +5443,7 @@
    "indexnow_ms": 1790910748433,
    "published_ms": 1790910000000,
    "section": "תרבות tvbee",
-   "title": "טום קרוז עושה כאן את אחד התפקידים הטובים שלו"
+   "title": "כמו שלא נראה אף פעם: הכוכב הענק בתפקיד פשוט גדול"
   },
   "https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-37b1323c859c0a1026.htm": {
    "check_attempts": 1,
@@ -13399,7 +13399,7 @@
    "indexnow_ms": 1790915426920,
    "published_ms": 1790913660000,
    "section": "גאווה",
-   "title": "\"אני בין אומן עני ומחורפן למעצב מצליח\""
+   "title": "\"אני בין אומן עני ומחורפן למעצב ואיש עסקים מצליח\""
   },
   "https://www.mako.co.il/pride-lifestyle/Article-e294f552745a0a1027.htm": {
    "check_attempts": 1,
@@ -14612,6 +14612,18 @@
    "published_ms": 1790481240000,
    "section": "",
    "title": "תחקיר: בריטניה העניקה מקלט למאבטחו של הנייה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-6f040e6f18ff0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-6f040e6f18ff0a1026.htm",
+   "checked_ms": 1791005307549,
+   "content_type": "article",
+   "first_seen_ms": 1791005307549,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791005160000,
+   "section": "",
+   "title": "הדיון החשאי של בכירי ממשל טראמפ על המלחמה באיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-7aad26bb9d3e0a1027.htm": {
    "check_attempts": 1,
