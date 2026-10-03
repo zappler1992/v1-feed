@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791010349335,
+ "last_run_ms": 1791010649767,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6391,7 +6391,7 @@
    "indexnow_ms": 1790942549668,
    "published_ms": 1790942040000,
    "section": "סלבס",
-   "title": "\"בבקשה, תאכילו אותה\": התיעוד של הכוכבת עורר סערה"
+   "title": "\"יצאה מאושוויץ?\": התיעוד של הכוכבת לא עבר בשתיקה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-a9584a45966f0a1026.htm": {
    "check_attempts": 1,
@@ -14912,6 +14912,18 @@
    "published_ms": 1790830800000,
    "section": "",
    "title": "החשש בישראל מפיגועי חקיינות - וההערכה לגבי המחבל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-eab4355982001a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-eab4355982001a1026.htm",
+   "checked_ms": 1791010467513,
+   "content_type": "article",
+   "first_seen_ms": 1791010467513,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791009540000,
+   "section": "",
+   "title": "צה\"ל ניסה לחסל הבוקר את מחליפו של סינוואר"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,

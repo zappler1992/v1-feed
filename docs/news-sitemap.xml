@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7fc9053238001a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T06:52:32+00:00</news:publication_date>
+<news:title>שלוש שנים אחרי 7 באוקטובר: צה״ל ניסה לחסל את אל-עאמודי, יורשו של סינוואר בעזה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_SHIR_HISUL_6794_03102026065058_1400_1791010345341_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8438053238001a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -61,7 +70,7 @@
 <news:publication_date>2026-10-03T04:45:32+00:00</news:publication_date>
 <news:title>עבר תהליך רדיקליזציה ותכנן לרסק את המטוס: פרטים חדשים על המחבל-טייס</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/SHIR_SUBTITELS_031026_FIX1_1400_1791006478005_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/biata_name_miv_fix_1400_1791010348789_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-505de19dbeff0a1027.htm</loc>
@@ -1457,14 +1466,5 @@
 <news:title>יובל מעתוק משתפת: &quot;הוא ראה אותי נאנסת על ידי חברו הטוב ולא עשה דבר. ישבתי מולו במשטרה, אמרתי מה שישב</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/M_NEWS_16559_01102026070427_1400_1790838349827_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-97852d3f536f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T06:56:27+00:00</news:publication_date>
-<news:title>בג&quot;ץ דן בפסילת מועמדים לכנסת: הפגנות ועימותים מחוץ לבית המשפט העליון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/MIVZAKIM_BOKER_011026_5_1400_1790838091681_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

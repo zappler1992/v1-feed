@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8438053238001a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7fc9053238001a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41559,9 +41559,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "עבר תהליך רדיקליזציה ותכנן לרסק את המטוס: פרטים חדשים על המחבל-טייס",
-   "duration_s": 46,
+   "duration_s": 97,
    "first_seen_ms": 1791002846411,
-   "image": "https://img.mako.co.il/2026/10/03/SHIR_SUBTITELS_031026_FIX1_1400_1791006478005_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/03/biata_name_miv_fix_1400_1791010348789_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791002732000,
    "sections": [
@@ -41569,9 +41569,9 @@
    ],
    "title": "עבר תהליך רדיקליזציה ותכנן לרסק את המטוס: פרטים חדשים על המחבל-טייס",
    "type": "mivzakim",
-   "updated_ms": 1791006480000,
+   "updated_ms": 1791010320000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ed63fb76fdff0a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_SUBTITELS_031026_FIX1/SHIR_SUBTITELS_031026_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/biata_name_miv_fix/biata_name_miv_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-edb6355982001a1026.htm": {
    "author": "מבזקים",
@@ -60209,6 +60209,24 @@
    "updated_ms": 1790858916000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7d632f47677f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_CAR_6723_01102026124707/V1_SHIR_CAR_6723_01102026124707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7fc9053238001a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שלוש שנים אחרי 7 באוקטובר: צה״ל ניסה לחסל את אל-עאמודי, יורשו של סינוואר בעזה",
+   "duration_s": 9,
+   "first_seen_ms": 1791010646433,
+   "image": "https://img.mako.co.il/2026/10/03/V1_SHIR_HISUL_6794_03102026065058_1400_1791010345341_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791010352000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "שלוש שנים אחרי 7 באוקטובר: צה״ל ניסה לחסל את אל-עאמודי, יורשו של סינוואר בעזה",
+   "type": "mivzakim",
+   "updated_ms": 1791010352000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7fc9053238001a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_SHIR_HISUL_6794_03102026065058/V1_SHIR_HISUL_6794_03102026065058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-8ae6ce08b77f0a1026.htm": {
    "author": "מבזקים מהעולם",
