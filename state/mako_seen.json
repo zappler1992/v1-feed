@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791058048733,
+ "last_run_ms": 1791058348795,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10041,6 +10041,18 @@
    "section": "עיצוב הבית",
    "title": "8 שקלים ליחידה: כולן באובסס על הלהיט של פליינג טייגר"
   },
+  "https://www.mako.co.il/living-home-styling/accessories/Article-aae4ed0c4e5f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791058348795,
+   "content_type": "article",
+   "first_seen_ms": 1791058348795,
+   "indexable": true,
+   "indexnow_ms": 1791058348795,
+   "published_ms": 1791086400000,
+   "section": "עיצוב הבית",
+   "title": "הרהיט שכדאי לוותר עליו במסדרון – ומה במקום"
+  },
   "https://www.mako.co.il/living-home-styling/accessories/Article-e0fb7a1e297d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12633,6 +12645,18 @@
    "section": "ספורט",
    "title": "ה-GM של פורטלנד מאמין: דני יאריך חוזה?"
   },
+  "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-1ef33c4605301a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791058348795,
+   "content_type": "article",
+   "first_seen_ms": 1791058348795,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791058200000,
+   "section": "ספורט",
+   "title": "\"רוצה את מכבי בגמר, חייבים להחזיר להם\""
+  },
   "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-6910724c0ecf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -14695,7 +14719,7 @@
    "indexnow_ms": 1791012267399,
    "published_ms": 1791012060000,
    "section": "",
-   "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר"
+   "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר: \"התוצאות בבדיקה\""
   },
   "https://www.mako.co.il/special-mako-news/Article-095775c9e89e0a1027.htm": {
    "check_attempts": 1,
@@ -16099,7 +16123,7 @@
    "indexnow_ms": 1791043227011,
    "published_ms": 1791043020000,
    "section": "",
-   "title": "דם בקוקפיט ואז מלחמה דיפלומטית: הדרמה של פליי-דובאי"
+   "title": "דם בקוקפיט ומלחמה דיפלומטית: הדרמה של פליי-דובאי"
   },
   "https://www.mako.co.il/travel-news/international/Article-45319125100a0a1026.htm": {
    "check_attempts": 1,
