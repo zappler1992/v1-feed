@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-7aba327eb5201a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T15:25:42+00:00</news:publication_date>
+<news:title>בשמחת תורה, שלוש שנים אחרי השבת השחורה: גל מחאות נגד הממשלה בעשרות מוקדים בישראל הערב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_PROTEST_6809_03102026032425_1400_1791041135855_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-6fc4d04664201a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1250,14 +1259,5 @@
 <news:title>קנצלר גרמניה מתריע: נערכים למתקפות נרחבות מצד רוסיה, נגיב בחדות ובמהירות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_karind_germany_6737_01102026033226_1400_1790868818210_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-81b05de8308f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T15:24:32+00:00</news:publication_date>
-<news:title>דגלי פלסטין ואש בכל מקום: המהגרים בצרפת משתוללים ברחובות | צרפת מאבד שליטה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_karind_young_6736_01102026032302_1400_1790868265594_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
