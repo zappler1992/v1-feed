@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791052348783,
+ "last_run_ms": 1791052650141,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12621,6 +12621,18 @@
    "section": "ספורט",
    "title": "ההערצה נמשכת: ילד נקרא על שמו של דיא סבע"
   },
+  "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-e6efa68500301a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791052587509,
+   "content_type": "article",
+   "first_seen_ms": 1791052587509,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791052440000,
+   "section": "ספורט",
+   "title": "לורנזו בראון לא ישחק נגד מכבי ת\"א"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q3/Article-01a0fc97e62d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16532,6 +16544,18 @@
    "published_ms": 1790051640000,
    "section": "חופש",
    "title": "חבילת הנופש הכי זולה שנשארה בסוכות"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-94b15785df201a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791052587509,
+   "content_type": "article",
+   "first_seen_ms": 1791052587509,
+   "indexable": true,
+   "indexnow_ms": 1791052587509,
+   "published_ms": 1791052200000,
+   "section": "",
+   "title": "\"אמר שהוא רוצה להתפלל, וכשלא הסתכלתי הוא הכה אותי\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-afc6b05b6bfc0a1026.htm": {
    "check_attempts": 1,
