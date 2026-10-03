@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T15:05:30+00:00</news:publication_date>
+<news:title>החות&#x27;ים חוטפים: תקיפות אינטנסיביות של הסעודים נגד יעדים בבירת תימן, צנעא</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_YEMAN_6807_03102026030356_1400_1791039922090_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-65e1c85033201a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -17,6 +26,15 @@
 <news:title>כמעט אסון בהודו: המכונית התפוצצה ברעש עצום - באמצע התדלוק</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_HODO_6805_03102026023309_1400_1791038062945_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-762c3e9632201a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T14:29:40+00:00</news:publication_date>
+<news:title>קשת הים האייקונית בהוואי קרסה ונעלמה באוקיינוס</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/Kim_Hawaii_03102026_1400_1791037773864_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-8200e7df10201a1027.htm</loc>
@@ -1223,23 +1241,5 @@
 <news:title>דגלי פלסטין ואש בכל מקום: המהגרים בצרפת משתוללים ברחובות | צרפת מאבד שליטה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_karind_young_6736_01102026032302_1400_1790868265594_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-0d39dbdb9f7f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T15:03:00+00:00</news:publication_date>
-<news:title>כוכב הריאליטי הורשע ברצח אשתו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/yoav_reality_011026_1400_1790866875476_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-e5e36e6ede7f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T15:02:59+00:00</news:publication_date>
-<news:title>ירח הדבש שהשתבש: דניאל עמית חושפת כי אושפזה ישר לאחר החזרה מאפריקה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/SHIRA_DANIEL_011026_M_1400_1790866972387_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

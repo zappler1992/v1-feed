@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-65e1c85033201a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-762c3e9632201a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10279,6 +10280,24 @@
    "updated_ms": 1790922235000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-75b018be63bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/rinat_tender_021026/MASTER/rinat_tender_021026_m/rinat_tender_021026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-762c3e9632201a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אחרי שעמדה לאורך חופי האי הגדול במשך מאות שנים, קשת הים הוֹלֵי בגובה 27 מטרים קרסה אל תוך האוקיינוס השקט. הרגע המדויק שבו התמוטטה אינו ידוע, אך ייתכן שהקריסה התרחשה בזמן שהפארק היה סגור בעקבות הסופה הטרופית נולו. כעת מזהירים הרשויות את המבקרים להתרחק מהאזור הסגור ומשולי המצוקים הלא יציבים.",
+   "duration_s": 30,
+   "first_seen_ms": 1791040045755,
+   "image": "https://img.mako.co.il/2026/10/03/Kim_Hawaii_03102026_1400_1791037773864_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791037780000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "קשת הים האייקונית בהוואי קרסה ונעלמה באוקיינוס",
+   "type": "general",
+   "updated_ms": 1791037780000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-762c3e9632201a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/Kim_Hawaii_03102026/MASTER/Kim_Hawaii_03102026/Kim_Hawaii_03102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-7dbc8a07d0101a1026.htm": {
    "author": "מהעולם",
@@ -40078,6 +40097,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-1bdfa64f15cf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_tehuna_6778_02102026112936/V1_karind_tehuna_6778_02102026112936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "החות'ים חוטפים: תקיפות אינטנסיביות של הסעודים נגד יעדים בבירת תימן, צנעא",
+   "duration_s": 21,
+   "first_seen_ms": 1791040045755,
+   "image": "https://img.mako.co.il/2026/10/03/V1_YEMAN_6807_03102026030356_1400_1791039922090_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791039930000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "החות'ים חוטפים: תקיפות אינטנסיביות של הסעודים נגד יעדים בבירת תימן, צנעא",
+   "type": "mivzakim",
+   "updated_ms": 1791039930000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22d3c85033201a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/V1_YEMAN_6807_03102026030356/V1_YEMAN_6807_03102026030356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-22fc15f8bb6f0a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60900,7 +60937,8 @@
    "importance": 0,
    "published_ms": 1791038069000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "מהעולם"
    ],
    "title": "כמעט אסון בהודו: המכונית התפוצצה ברעש עצום - באמצע התדלוק",
    "type": "mivzakim",
