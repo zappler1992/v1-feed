@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-fd9c7be394101a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-03T10:37:18+00:00</news:publication_date>
+<news:title>נהג משאית באזור סכר נרגסי סמוך לשיראז שבאיראן איבד שליטה בבלמים - והתרסק</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_truck_6799_03102026103557_1400_1791023832376_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-26858a07d0101a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1376,14 +1385,5 @@
 <news:title>הישראלי שעולה לפסגת הוליווד - ומונה למנכ״ל ענקית הקולנוע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/SHIR_PARAMOUNT_011026_1400_1790852189027_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-a630b3f7407f0a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-01T10:39:09+00:00</news:publication_date>
-<news:title>דרמטי: אמירייטס הודיעה שישראלים לא יורשו לעלות על טיסותיה לדובאי ברחבי העולם</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/01/V1_SHIR_DUBAI_6716_01102026103645_1400_1790851141352_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
