@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791148049303,
+ "last_run_ms": 1791148349276,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14419,7 +14419,7 @@
    "indexnow_ms": 1791102267161,
    "published_ms": 1791101940000,
    "section": "דיגיטל",
-   "title": "\"התרבות פה שבורה\": עובד נוסף מתפטר ומזהיר"
+   "title": "\"התרבות פה שבורה\": עובד נוסף מתפטר מחברת הענק ומזהיר"
   },
   "https://www.mako.co.il/nexter-news/Article-05651a29cddc0a1026.htm": {
    "check_attempts": 1,
@@ -16423,7 +16423,7 @@
    "indexnow_ms": null,
    "published_ms": 1791137460000,
    "section": "",
-   "title": "טייס המשנה חשף: התאריך המקורי שבו תכנן לרסק מטוס"
+   "title": "הפרטים החדשים שהתגלו בחקירת טייס המשנה"
   },
   "https://www.mako.co.il/special-mako-news/Article-3f95c8bd2df70a1027.htm": {
    "check_attempts": 1,
@@ -16748,6 +16748,18 @@
    "published_ms": 1790320320000,
    "section": "",
    "title": "ההחלטה של צה\"ל אחרי האסון הקשה ברצועת עזה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b8aaa6d8d8801a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-b8aaa6d8d8801a1027.htm",
+   "checked_ms": 1791148349276,
+   "content_type": "article",
+   "first_seen_ms": 1791148349276,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791146220000,
+   "section": "חדשות",
+   "title": "נקודה שלא תספיק: ישראל סיימה ב-1:1 עם אירלנד"
   },
   "https://www.mako.co.il/special-mako-news/Article-bae18c6e107e0a1027.htm": {
    "check_attempts": 1,
