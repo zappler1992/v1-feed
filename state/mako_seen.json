@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791102449019,
+ "last_run_ms": 1791102749097,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6141,6 +6141,18 @@
    "section": "",
    "title": "אנחנו מתרגשים: החדשות של קוונטין טרנטינו ודניאלה פיק"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-68f3f101fe501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102627193,
+   "content_type": "article",
+   "first_seen_ms": 1791102627193,
+   "indexable": true,
+   "indexnow_ms": 1791102627193,
+   "published_ms": 1791101760000,
+   "section": "סלבס",
+   "title": "אחרי שנה של זוגיות: אושר סלים ובן הזוג נפרדו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7966e609c2ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6632,6 +6644,18 @@
    "published_ms": 1790938020000,
    "section": "סלבס",
    "title": "בעלה לשעבר של הכוכבת מאשים: \"היא חנקה את הבן שלנו\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-51648d260c501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102627193,
+   "content_type": "article",
+   "first_seen_ms": 1791102627193,
+   "indexable": true,
+   "indexnow_ms": 1791102627193,
+   "published_ms": 1791101820000,
+   "section": "סלבס",
+   "title": "אחת לא הספיקה לה: הכוכבת הארגנטינאית חוגגת רווקות"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-5e2088a6c47e0a1027.htm": {
    "check_attempts": 1,
@@ -9597,6 +9621,18 @@
    "section": "HIX",
    "title": "האשימה את ישראל ב\"טרור רצחני\" והתבררה כמתחזה"
   },
+  "https://www.mako.co.il/hix-special/Article-bb81c1ad00601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102749097,
+   "content_type": "article",
+   "first_seen_ms": 1791102749097,
+   "indexable": true,
+   "indexnow_ms": 1791102749097,
+   "published_ms": 1791102540000,
+   "section": "HIX",
+   "title": "מתה מ\"זיהום מסוכן במיוחד\" – ואז האמת נחשפה"
+  },
   "https://www.mako.co.il/hix-special/Article-bd27472f3b6f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10629,6 +10665,18 @@
    "section": "",
    "title": "ההפתעה שקיבלה ליר כהן מבן הזוג"
   },
+  "https://www.mako.co.il/makoz-news/Article-3e90eb177f501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102749097,
+   "content_type": "article",
+   "first_seen_ms": 1791102749097,
+   "indexable": true,
+   "indexnow_ms": 1791102749097,
+   "published_ms": 1791102180000,
+   "section": "",
+   "title": "בת ה-13 שחולה במחלה נדירה לוהקה למופע חנוכה"
+  },
   "https://www.mako.co.il/makoz-news/Article-4b14ce1361fa0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10965,6 +11013,18 @@
    "section": "פלילים",
    "title": "השכנה חסמה את הרכב - והעבריינים דרשו שתשלם"
   },
+  "https://www.mako.co.il/men-men_news/Article-1affeb177f501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102507182,
+   "content_type": "article",
+   "first_seen_ms": 1791102507182,
+   "indexable": true,
+   "indexnow_ms": 1791102507182,
+   "published_ms": 1791101880000,
+   "section": "פלילים",
+   "title": "השוד הסתבך: \"נתלה על רכב השודדים ונדרס\""
+  },
   "https://www.mako.co.il/men-men_news/Article-1c00a668702e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11155,7 +11215,7 @@
    "indexnow_ms": 1791100949079,
    "published_ms": 1791100380000,
    "section": "פלילים",
-   "title": "תקף אשת אשתו באילת: \"איים להחזיר אותה למלון בחתיכות\""
+   "title": "תקף את אשתו באילת: \"איים להחזיר אותה למלון בחתיכות\""
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
@@ -17215,7 +17275,7 @@
    "indexnow_ms": 1791100949079,
    "published_ms": 1791097260000,
    "section": "",
-   "title": "הסכנה לאחר טיסת האימה - והמחדל: \"לא בשליטתנו\""
+   "title": "אם אתם טסים לדובאי בקרוב, כדאי שתדעו פרט חשוב"
   },
   "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
    "check_attempts": 1,
