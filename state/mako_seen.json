@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791101849048,
+ "last_run_ms": 1791102149022,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8576,6 +8576,18 @@
    "published_ms": 1790523960000,
    "section": "",
    "title": "סייעה למטופל והותקפה: \"היום זה בקבוק, מחר זה נשק\""
+  },
+  "https://www.mako.co.il/health-news/Article-5b72b2cb6a6f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791101907149,
+   "content_type": "article",
+   "first_seen_ms": 1791101907149,
+   "indexable": true,
+   "indexnow_ms": 1791101907149,
+   "published_ms": 1791101460000,
+   "section": "בריאות",
+   "title": "\"בלתי נתפס\": זינוק בפציעות ילדים ובני נוער"
   },
   "https://www.mako.co.il/health-news/Article-5bfcc2636ede0a1026.htm": {
    "check_attempts": 1,
@@ -17756,6 +17768,18 @@
    "published_ms": 1790678460000,
    "section": "תרבות tvbee",
    "title": "חג שמח: הסדרה הכי יהודית חוזרת לנטפליקס"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-09dbf101fe501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791102149022,
+   "content_type": "article",
+   "first_seen_ms": 1791102149022,
+   "indexable": true,
+   "indexnow_ms": 1791102149022,
+   "published_ms": 1791101640000,
+   "section": "תרבות tvbee",
+   "title": "אחרי הריאליטי: התפקיד החדש של שי-לי שינדלר"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-0ae556ce12ac0a1027.htm": {
    "check_attempts": 1,
