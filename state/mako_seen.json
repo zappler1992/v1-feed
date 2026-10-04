@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791147449342,
+ "last_run_ms": 1791147749421,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3301,6 +3301,18 @@
    "section": "ספורט",
    "title": "לתת כתף: כך ישראל צריכה לשחק נגד אירלנד"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-2d3ee38e8a801a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791147749421,
+   "content_type": "article",
+   "first_seen_ms": 1791147749421,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791147360000,
+   "section": "ספורט",
+   "title": "\"יצאנו בזול הערב, עוד משחק טעון ומכוער\""
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-34705133e7801a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3431,7 +3443,7 @@
    "indexnow_ms": null,
    "published_ms": 1791143640000,
    "section": "ספורט",
-   "title": "עוזר מאמן אירלנד טען: תורג'מן ירק עליי"
+   "title": "עוזר מאמן אירלנד טען: תורג`מן ירק עליי"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-7b5e174483801a1027.htm": {
    "check_attempts": 1,
