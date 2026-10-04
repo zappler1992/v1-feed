@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791146549329,
+ "last_run_ms": 1791146849256,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3636,6 +3636,18 @@
    "published_ms": 1791082440000,
    "section": "ספורט",
    "title": "לפני אירלנד: שחקני הנבחרת שנדבקו בווירוס"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d0f4b9a0b9801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791146787194,
+   "content_type": "article",
+   "first_seen_ms": 1791146787194,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791146460000,
+   "section": "ספורט",
+   "title": "שלושה שחקנים מעל כולם: הציונים של פרימו"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-d261c668e27f0a1026.htm": {
    "check_attempts": 1,
