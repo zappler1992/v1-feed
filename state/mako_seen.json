@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791108149312,
+ "last_run_ms": 1791108449348,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12729,6 +12729,18 @@
    "section": "מוזיקה",
    "title": "מאחורי הלהיט הכי גדול באמריקה הלטינית עומד ישראלי"
   },
+  "https://www.mako.co.il/music-news/Article-62d5643c04601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791108267615,
+   "content_type": "article",
+   "first_seen_ms": 1791108267615,
+   "indexable": true,
+   "indexnow_ms": 1791108267615,
+   "published_ms": 1791107280000,
+   "section": "מוזיקה",
+   "title": "זו הזמרת שתופיע בטקס הזיכרון הממלכתי לטבח ה-7 באוקטובר"
+  },
   "https://www.mako.co.il/music-news/Article-758e27ce773d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15272,6 +15284,18 @@
    "published_ms": 1790755800000,
    "section": "צבא וביטחון",
    "title": "המחבלים שנתפסו - והדיווח על הירי שתכננו לישראל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-f6ee761c15601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791108267615,
+   "content_type": "article",
+   "first_seen_ms": 1791108267615,
+   "indexable": true,
+   "indexnow_ms": 1791108267615,
+   "published_ms": 1791107820000,
+   "section": "צבא וביטחון",
+   "title": "באירופה לא נרגעים מאיומי רוסיה וחושפים פרטים חדשים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-f8513c429abe0a1026.htm": {
    "check_attempts": 1,
