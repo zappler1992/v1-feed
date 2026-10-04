@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-a7efddc40b701a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5c6923bfed701a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22584,6 +22584,22 @@
    "updated_ms": 1791103860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5ae7198ee0601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_YANIV_041026/MASTER/SHIR_YANIV_041026/SHIR_YANIV_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5c6923bfed701a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 65,
+   "first_seen_ms": 1791133946263,
+   "image": "https://img.mako.co.il/2026/10/04/inbie_NATBAG_041026_1400_1791133723857_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791133730000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1791133730000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5c6923bfed701a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/inbie_NATBAG_041026/MASTER/inbie_NATBAG_041026/inbie_NATBAG_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5db9175498501a1026.htm": {
    "author": "חדשות",
@@ -54528,7 +54544,7 @@
    ],
    "title": "תא הצילום באמצע הרחוב בניו יורק שמוצא עבורכם את השידוך המושלם",
    "type": "general",
-   "updated_ms": 1791132900000,
+   "updated_ms": 1791133140000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-a7efddc40b701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/STIV_SHIDUH_041026/MASTER/STIV_SHIDUH_041026_M/STIV_SHIDUH_041026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
