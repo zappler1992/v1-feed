@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791115048597,
+ "last_run_ms": 1791115348637,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3469,6 +3469,18 @@
    "section": "ספורט",
    "title": "דניאל פרץ סובל מקרע במפשעה. הזמן שיחמיץ"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-c109c3609c601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791115348637,
+   "content_type": "article",
+   "first_seen_ms": 1791115348637,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791115200000,
+   "section": "ספורט",
+   "title": "ההתאחדות ביקשה מאופ\"א לענוד סרטים שחורים"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-c110e7df10201a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -6308,6 +6320,18 @@
    "published_ms": 1791101760000,
    "section": "סלבס",
    "title": "אחרי שנה של זוגיות: אושר סלים ובן הזוג נפרדו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-76d2b120fa601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791115227095,
+   "content_type": "article",
+   "first_seen_ms": 1791115227095,
+   "indexable": true,
+   "indexnow_ms": 1791115227095,
+   "published_ms": 1791114900000,
+   "section": "סלבס",
+   "title": "מאמנת הכושר של הסלבס בתיעוד לא שגרתי"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7966e609c2ec0a1026.htm": {
    "check_attempts": 1,
@@ -18368,6 +18392,18 @@
    "published_ms": 1790678460000,
    "section": "תרבות tvbee",
    "title": "חג שמח: הסדרה הכי יהודית חוזרת לנטפליקס"
+  },
+  "https://www.mako.co.il/tvbee-recommend_series/Article-8f863064fbce0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791115107101,
+   "content_type": "article",
+   "first_seen_ms": 1791115107101,
+   "indexable": true,
+   "indexnow_ms": 1791115107101,
+   "published_ms": 1791113700000,
+   "section": "תרבות tvbee",
+   "title": "7 באוקטובר, שלוש שנים אחרי: המלצות צפייה בטלוויזיה"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-09dbf101fe501a1027.htm": {
    "check_attempts": 1,
