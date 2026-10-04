@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3353d5b166601a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-062e6567f6601a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42959,6 +42959,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ffffda1015bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_KFARKARRA_6767_02102026064059/V1_karind_KFARKARRA_6767_02102026064059_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-062e6567f6601a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "התחבאו מתחת למושבים: שני שוהים בלתי חוקיים נתפסו במעבר הטבעת שבעוטף ירושלים",
+   "duration_s": 17,
+   "first_seen_ms": 1791110245746,
+   "image": "https://img.mako.co.il/2026/10/04/V1_KARIND_SHABAHIM_6847_04102026103018_1400_1791109898920_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791109905000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "התחבאו מתחת למושבים: שני שוהים בלתי חוקיים נתפסו במעבר הטבעת שבעוטף ירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1791109905000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-062e6567f6601a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_SHABAHIM_6847_04102026103018/V1_KARIND_SHABAHIM_6847_04102026103018_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-15c88ef35e501a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -42998,18 +43016,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3353d5b166601a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "עומסי תנועה כבדים בכביש 1 בעקבות תאונה במחלף חמד",
+   "description": "עומסי תנועה כבדים בכביש 1 בעקבות תאונה במחלף שורש",
    "duration_s": 6,
    "first_seen_ms": 1791109945720,
    "image": "https://img.mako.co.il/2026/10/04/V1_karind_hemed_6846_04102026102727_1400_1791109716256_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791109722000,
    "sections": [
     "מבזקים"
    ],
-   "title": "עומסי תנועה כבדים בכביש 1 בעקבות תאונה במחלף חמד",
+   "title": "עומסי תנועה כבדים בכביש 1 בעקבות תאונה במחלף שורש",
    "type": "mivzakim",
-   "updated_ms": 1791109722000,
+   "updated_ms": 1791110040000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3353d5b166601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_hemed_6846_04102026102727/V1_karind_hemed_6846_04102026102727_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
