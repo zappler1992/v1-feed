@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e45b04e1b9501a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-04T06:33:04+00:00</news:publication_date>
+<news:title>דיווחים בעזה: הרוג ופצוע בתקיפת רכב בדרום דיר אל-בלח שבמרכז הרצועה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_KARIND_GAZA_6830_04102026063148_1400_1791095577800_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ad0c69b108501a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1232,23 +1241,5 @@
 <news:title>האזור עולה באש: תיעוד נוסף מזירת תאונת כלי הטיס בכפר קרע, כביש 65 נחסם לתנועה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_karind_KFARKARRA_6767_02102026064059_1400_1790923338245_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-3c9dda1015bf0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-02T06:37:09+00:00</news:publication_date>
-<news:title>תיעוד מזירת התרסקות המטוס הקל בכפר קרע: שריפה פרצה במקום, כביש 65 נחסם לתנועה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/02/M_NEWS_16613_02102026063548_1400_1790923022441_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-6589da1015bf0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-02T06:34:44+00:00</news:publication_date>
-<news:title>מטוס קל התרסק סמוך לכפר קרע, פצוע אחד לכוד והפצוע השני במצב בינוני</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_KARIND_MADA_6766_02102026063310_1400_1790922877364_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
