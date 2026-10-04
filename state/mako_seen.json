@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791121348843,
+ "last_run_ms": 1791121648774,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3336,6 +3336,18 @@
    "published_ms": 1791116220000,
    "section": "ספורט",
    "title": "\"לא זוכר שרציתי לנצח משחק כמו המשחק הזה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-4d62f9da52701a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791121587523,
+   "content_type": "article",
+   "first_seen_ms": 1791121587523,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791121260000,
+   "section": "ספורט",
+   "title": "בשתי ידיים: צור יכול לעקוף את פרץ וגלזר?"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-536a6e6ede7f0a1027.htm": {
    "check_attempts": 1,
@@ -12092,6 +12104,18 @@
    "published_ms": 1790592660000,
    "section": "פלילים",
    "title": "שוטרים פשטו על מסיבה באילת ונדהמו ממה שמצאו"
+  },
+  "https://www.mako.co.il/men-men_news/Article-7e34e2b0ef601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791121648774,
+   "content_type": "article",
+   "first_seen_ms": 1791121648774,
+   "indexable": true,
+   "indexnow_ms": 1791121648774,
+   "published_ms": 1791120420000,
+   "section": "פלילים",
+   "title": "\"תקפו אותי באכזריות לעיני הבן שלי, הם אנשים מסוכנים\""
   },
   "https://www.mako.co.il/men-men_news/Article-80a708c864dc0a1027.htm": {
    "check_attempts": 1,
