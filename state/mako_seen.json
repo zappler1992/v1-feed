@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791082648581,
+ "last_run_ms": 1791082948749,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -996,6 +996,18 @@
    "published_ms": 1790916060000,
    "section": "ספורט",
    "title": "\"אסייאתים מעצבנים אותי\": סערה בפורטלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-cbd2384558401a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791082948749,
+   "content_type": "article",
+   "first_seen_ms": 1791082948749,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791082680000,
+   "section": "ספורט",
+   "title": "9 נק` ו-7 אס` ליאניס, 104:129 למיאמי"
   },
   "https://www.mako.co.il/Sports-basketball-world/eurocup-q3_2026/Article-b725d39ab18e0a1027.htm": {
    "check_attempts": 1,
@@ -3456,6 +3468,18 @@
    "published_ms": 1790828220000,
    "section": "ספורט",
    "title": "\"פחות שמות, יותר עבודה\": התוכנית לקוסובו"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ebd912d9bc401a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791082948749,
+   "content_type": "article",
+   "first_seen_ms": 1791082948749,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791082500000,
+   "section": "ספורט",
+   "title": "חשש מריגול? הצעד של הנבחרת באימון המסכם"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ef00ff5be7201a1026.htm": {
    "check_attempts": 1,
@@ -8888,6 +8912,18 @@
    "published_ms": 1790251200000,
    "section": "HIX",
    "title": "\"גירושים. מיד\": התיעוד מהיציע שחרפן את כולם"
+  },
+  "https://www.mako.co.il/hix-nature/Article-03a0e57863301a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791082826710,
+   "content_type": "article",
+   "first_seen_ms": 1791082826710,
+   "indexable": true,
+   "indexnow_ms": 1791082826710,
+   "published_ms": 1791082680000,
+   "section": "",
+   "title": "התחממות קלה בדרך, אבל זה היום שבו חוזר הגשם"
   },
   "https://www.mako.co.il/hix-nature/Article-2c3af7cbda8c0a1027.htm": {
    "check_attempts": 1,
@@ -14469,6 +14505,18 @@
    "section": "צבא וביטחון",
    "title": "יוזמה ותעוזה: המהלך החדש של חמאס והג'יהאד"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-b0fdaf295c201a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791082826710,
+   "content_type": "article",
+   "first_seen_ms": 1791082826710,
+   "indexable": true,
+   "indexnow_ms": 1791082826710,
+   "published_ms": 1791082680000,
+   "section": "",
+   "title": "המחירים ששילמה ישראל מאז 7 באוקטובר"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-b21b5ec3144d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16891,7 +16939,7 @@
    "indexnow_ms": 1791060387137,
    "published_ms": 1791056760000,
    "section": "קשת 12",
-   "title": "משפחה מודרנית: הרביעייה המרגשת של \"בייבי בום\""
+   "title": "משפחה מודרנית: הרביעייה המרגשת ב\"בייבי בום\""
   },
   "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-60fdc9b82cdd0a1026.htm": {
    "check_attempts": 1,
