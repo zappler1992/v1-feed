@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791094648942,
+ "last_run_ms": 1791094948972,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4390,6 +4390,18 @@
    "published_ms": 1790162880000,
    "section": "ספורט",
    "title": "\"סגרתי את הדלת\": הקאמבק לו שרי סירב"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-38be175498501a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791094948972,
+   "content_type": "article",
+   "first_seen_ms": 1791094948972,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791094560000,
+   "section": "ספורט",
+   "title": "תשכחו ממסי: ארגנטינה סימנה מנהיג חדש"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8cda12d9bc401a1027.htm": {
    "check_attempts": 1,
@@ -9091,7 +9103,7 @@
    "indexnow_ms": 1791084148603,
    "published_ms": 1791082800000,
    "section": "HIX",
-   "title": "נדיר כפליים: הצב הפגיע שנולד עם שני ראשים"
+   "title": "הווטרינים מנסים להבין איך בעל החיים נולד בצורה הזו"
   },
   "https://www.mako.co.il/hix-nature/Article-a53a11f9547f0a1026.htm": {
    "check_attempts": 1,
@@ -12511,7 +12523,7 @@
    "indexnow_ms": 1791061107211,
    "published_ms": 1791060840000,
    "section": "מוזיקה",
-   "title": "גל הניפה שלט בהופעה, ולא האמינה לתגובה של הכוכב"
+   "title": "בהופעת הענק: הארי סטיילס בירך מעריצה ישראלית"
   },
   "https://www.mako.co.il/music-news/Article-dc65e465dd3d0a1026.htm": {
    "check_attempts": 1,
@@ -17744,6 +17756,18 @@
    "published_ms": 1790050320000,
    "section": "תרבות tvbee",
    "title": "הסדרה רק התחילה, וכבר מזכירה את \"אחד העם 1\""
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-873139cf8c1e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791094827627,
+   "content_type": "article",
+   "first_seen_ms": 1791094827627,
+   "indexable": true,
+   "indexnow_ms": 1791094827627,
+   "published_ms": 1791094080000,
+   "section": "תרבות tvbee",
+   "title": "אין דקה מיותרת אחת בשבע השעות האלה בנטפליקס"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-881f84eed3f90a1027.htm": {
    "check_attempts": 1,
