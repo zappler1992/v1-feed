@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7af1e2b0ef601a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/04/M_NEWS_16730_04102026012214_1400_1791120213362_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>פתח תקווה: גבר בן 64 אותר בביתו מספר ימים לאחר מותו</video:title>
+<video:description>פתח תקווה: גבר בן 64 אותר בביתו מספר ימים לאחר מותו</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16730_04102026012214/M_NEWS_16730_04102026012214_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-04T13:23:39+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/food-magazine/2026-m10_w02/shorts-236ee2b0ef601a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/04/SHIR_FOOD_041026_1400_1791119746128_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הרינג מותסס וטופו מסריח: ברוכים הבאים למוזיאון האוכל הכי דוחה בעולם</video:title>
+<video:description>מוזיאון האוכל המגעיל בהונג קונג מזמין את המבקרים לטעום מאכלים יוצאי דופן מרחבי העולם - ולהוכיח שטעם הוא עניין של תרבות, הרגל ופתיחות.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_FOOD_041026/MASTER/SHIR_FOOD_041026/SHIR_FOOD_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>81</video:duration>
+<video:publication_date>2026-10-04T13:15:52+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>אוכל</video:uploader>
+<video:tag>אוכל</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/04/rinat_car_041026_m_1400_1791118762123_FirstFrame.jpg</video:thumbnail_loc>
@@ -126,6 +158,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -403,6 +436,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -468,6 +502,7 @@
 <video:uploader>מיוחד</video:uploader>
 <video:tag>רק בישראל</video:tag>
 <video:tag>המיוחדים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מיוחד</video:tag>
 </video:video>
 </url>
@@ -502,6 +537,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
