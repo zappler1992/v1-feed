@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791097349015,
+ "last_run_ms": 1791097649904,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6681,6 +6681,18 @@
    "section": "סלבס",
    "title": "\"עדיין יש לי את זה\": הרגע המרגש של הכוכב בגיל 58"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-8b5a0c00a7501a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791097649904,
+   "content_type": "article",
+   "first_seen_ms": 1791097649904,
+   "indexable": true,
+   "indexnow_ms": 1791097649904,
+   "published_ms": 1791096960000,
+   "section": "סלבס",
+   "title": "אחרי שעורר דאגה: הכוכב חושף את הגזרה - וחוטף"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-8c8e4a45966f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8073,6 +8085,18 @@
    "section": "",
    "title": "גם מרענן, גם אומאמי: זו ההתמכרות החדשה שלכם"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-d5947d4b2f6f0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791097466842,
+   "content_type": "recipe",
+   "first_seen_ms": 1791097466842,
+   "indexable": true,
+   "indexnow_ms": 1791097466842,
+   "published_ms": 1791097080000,
+   "section": "",
+   "title": "מכורים לנאצ'וס בקולנוע? חכו שתטעמו את זה"
+  },
   "https://www.mako.co.il/food-restaurants/best-trending_restaurants/Article-c32281cde4ce0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9127,7 +9151,7 @@
    "indexnow_ms": 1791084148603,
    "published_ms": 1791082800000,
    "section": "HIX",
-   "title": "הווטרינרים מנסים להבין איך בעל החיים נולד בצורה הזו"
+   "title": "נדיר כפליים: הצב הפגיע שנולד עם שני ראשים"
   },
   "https://www.mako.co.il/hix-nature/Article-a53a11f9547f0a1026.htm": {
    "check_attempts": 1,
@@ -11288,6 +11312,18 @@
    "published_ms": 1790304600000,
    "section": "פלילים",
    "title": "\"אמיל חשד שיאניס יושבייב רצח את אחיו\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-5cd51fc2ca501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791097466842,
+   "content_type": "article",
+   "first_seen_ms": 1791097466842,
+   "indexable": true,
+   "indexnow_ms": 1791097466842,
+   "published_ms": 1791097080000,
+   "section": "",
+   "title": "ראש ארגון פשע ובנו שניצל מניסיון חיסול נעצרו"
   },
   "https://www.mako.co.il/men-men_news/Article-5d0cc7763fcf0a1026.htm": {
    "check_attempts": 1,
