@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791104549137,
+ "last_run_ms": 1791104849157,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4066,6 +4066,18 @@
    "published_ms": 1790860140000,
    "section": "ספורט",
    "title": "רחוק מהכדורגל: לאן נעלם רוני דיילה?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7508c68542601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791104787517,
+   "content_type": "article",
+   "first_seen_ms": 1791104787517,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791104520000,
+   "section": "ספורט",
+   "title": "מכבי חיפה לא תמשוך כרטיסים למשחקים בטדי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-750eb9df7b6f0a1027.htm": {
    "check_attempts": 1,
@@ -11239,7 +11251,7 @@
    "indexnow_ms": 1791100949079,
    "published_ms": 1791100380000,
    "section": "פלילים",
-   "title": "\"הוא ירק עליי ואיים להחזיר אותי למלון בחתיכות\""
+   "title": "תקף את אשתו באילת: \"איים להחזיר אותה למלון בחתיכות\""
   },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
