@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791085048626,
+ "last_run_ms": 1791085348628,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13041,6 +13041,18 @@
    "section": "ספורט",
    "title": "מבהיל: לוחם UFC קרס ללא הסבר ופונה לבי\"ח"
   },
+  "https://www.mako.co.il/news-sport/sports_others-2026_q4/Article-568c017e3e401a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791085348628,
+   "content_type": "article",
+   "first_seen_ms": 1791085348628,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791084960000,
+   "section": "ספורט",
+   "title": "צפו. יחי המלכה החדשה: סילבה זכתה באליפות"
+  },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q3/Article-0ca30dbde7cc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -15511,7 +15523,7 @@
    "indexnow_ms": null,
    "published_ms": 1791061200000,
    "section": "",
-   "title": "טייסים מאיראן, סוריה ועיראק: החשד שנבדק בישראל"
+   "title": "המחדל המודיעיני שנחשף בעקבות טיסת פליי דובאי"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,
