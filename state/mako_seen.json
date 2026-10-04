@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791133048885,
+ "last_run_ms": 1791133348890,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10039,7 +10039,7 @@
    "indexnow_ms": 1791110666756,
    "published_ms": 1791110160000,
    "section": "HIX",
-   "title": "בן 15 נעצר בצרפת בחשד ששרף את פניה של אישה במהומות"
+   "title": "הצית אש בפניה של אישה – ונעצר בידי המשטרה"
   },
   "https://www.mako.co.il/hix-special/Article-76142da7076f0a1026.htm": {
    "check_attempts": 1,
@@ -13857,6 +13857,18 @@
    "section": "ספורט",
    "title": "ההערצה נמשכת: ילד נקרא על שמו של דיא סבע"
   },
+  "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-d427ddc40b701a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791133348890,
+   "content_type": "article",
+   "first_seen_ms": 1791133348890,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791133140000,
+   "section": "ספורט",
+   "title": "עוד לא בפוקוס: המחצית החלשה ב\"קלאסיקו\""
+  },
   "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-e6efa68500301a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -17168,6 +17180,18 @@
    "published_ms": 1790259780000,
    "section": "",
    "title": "אל על הודיעה כי היא משהה את הפעילות בקו לדובאי"
+  },
+  "https://www.mako.co.il/travel-news/Article-840bddc40b701a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791133107135,
+   "content_type": "article",
+   "first_seen_ms": 1791133107135,
+   "indexable": true,
+   "indexnow_ms": 1791133107135,
+   "published_ms": 1791131040000,
+   "section": "",
+   "title": "רוצים דרכון זר? המדינה הזו תיתן לכם אותו"
   },
   "https://www.mako.co.il/travel-news/Article-8b0ce19dbeff0a1027.htm": {
    "check_attempts": 1,
