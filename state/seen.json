@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-74a14bee14501a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-4b25426e81501a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3585,7 +3585,9 @@
    "image": "https://img.mako.co.il/2026/10/03/KIMHOIE_0310_M_1400_1791052485540_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791052492000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "המנחה היהודי המפורסם האווי מנדל כמעט ונהרג  בהתפוצצות מכונית",
    "type": "general",
    "updated_ms": 1791090600000,
@@ -5162,6 +5164,22 @@
    "updated_ms": 1790848920000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w01/shorts-fca022435d6f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_YELED_6715_01102026094910/V1_SHIR_YELED_6715_01102026094910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-4b25426e81501a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "חלומה של כל מעריצה: הארי סטיילס בירך ישראלית באמצע ההופעה - אחרי שהתקבלה ללימודי רפואה",
+   "duration_s": 57,
+   "first_seen_ms": 1791092546172,
+   "image": "https://img.mako.co.il/2026/10/04/fix_styles_1_1400_1791091994287_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791091980000,
+   "sections": [],
+   "title": "חלומה של כל מעריצה: הארי סטיילס בירך ישראלית באמצע ההופעה - אחרי שהתקבלה ללימודי רפואה",
+   "type": "mivzakim",
+   "updated_ms": 1791091980000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-4b25426e81501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/fix_styles_1/fix_styles_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -21770,7 +21788,7 @@
    ],
    "title": "ראש ממשלת ספרד נגד ישראל – ועכשיו הוא מסתבך",
    "type": "news",
-   "updated_ms": 1791026340000,
+   "updated_ms": 1791092160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-35757b25e5101a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_SPAIN_031026/MASTER/SHIR_SPAIN_031026/SHIR_SPAIN_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -41105,7 +41123,8 @@
    "importance": 0,
    "published_ms": 1791060049000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "3 שנים אחרי הטבח: נחשפה הקלטה חדשה של נועה מרציאנו ז\"ל משבי חמאס | כפי שפורסם ב-N12",
    "type": "mivzakim",
@@ -42640,7 +42659,8 @@
    "published_ms": 1791032088000,
    "sections": [
     "מבזקים",
-    "חדשות"
+    "חדשות",
+    "מהעולם"
    ],
    "title": "יורש העצר של דובאי, השיח' חמדאן בן מוחמד, ביקר את הטייס ההודי סמית מאצ'האר: \"הפגין אומץ לב אדיר\"",
    "type": "mivzakim",
