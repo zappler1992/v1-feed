@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791109349295,
+ "last_run_ms": 1791109651278,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1008,6 +1008,18 @@
    "published_ms": 1790916060000,
    "section": "ספורט",
    "title": "\"אסייאתים מעצבנים אותי\": סערה בפורטלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-c70f643c04601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791109586746,
+   "content_type": "article",
+   "first_seen_ms": 1791109586746,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791106380000,
+   "section": "ספורט",
+   "title": "חולצת אבדיה בוושינגטון \"עוצבה מחדש\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-cbd2384558401a1026.htm": {
    "check_attempts": 1,
@@ -7111,7 +7123,7 @@
    "indexnow_ms": 1791108627695,
    "published_ms": 1791108060000,
    "section": "כסף",
-   "title": "מחצות: מחיר הדלק יוזל  ל-7.77 שקלים"
+   "title": "בשורה לנהגים: מתי יוזל הדלק ב-50 אגורות"
   },
   "https://www.mako.co.il/finances-consumer/Article-38db124aa13d0a1027.htm": {
    "check_attempts": 1,
