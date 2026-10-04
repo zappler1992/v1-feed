@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791112348397,
+ "last_run_ms": 1791112648491,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3229,6 +3229,18 @@
    "section": "ספורט",
    "title": "\"מבין שאכזבנו מדינה שלמה, יהיה משחק אחר\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-223098aea9601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791112586914,
+   "content_type": "article",
+   "first_seen_ms": 1791112586914,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791112320000,
+   "section": "ספורט",
+   "title": "לתת כתף: כך ישראל צריכה לשחק נגד אירלנד"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-3930f0bffeaf0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -5937,6 +5949,18 @@
    "section": "תרבות tvbee",
    "title": "נטפליקס מספקת עוד גרסה גרועה לסיפור מרתק"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2025/Article-893f08b87945a91026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791112586914,
+   "content_type": "article",
+   "first_seen_ms": 1791112586914,
+   "indexable": true,
+   "indexnow_ms": 1791112586914,
+   "published_ms": 1791111960000,
+   "section": "סלבס",
+   "title": "פער של 14 שנה: הזוגיות החדשה של ליהי טולדנו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0531724c0ecf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -6296,6 +6320,18 @@
    "published_ms": 1790864040000,
    "section": "",
    "title": "\"סתמי ת'פה ושבי בשקט\": התקרית של רונה-לי באוטובוס"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-893f08b87945a91026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791112648491,
+   "content_type": "article",
+   "first_seen_ms": 1791112648491,
+   "indexable": true,
+   "indexnow_ms": 1791112648491,
+   "published_ms": 1791111960000,
+   "section": "",
+   "title": "עם המנהלת שלה: הזוגיות החדשה של ליהי טולדנו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-940d219f263f0a1026.htm": {
    "check_attempts": 1,
