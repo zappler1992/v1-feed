@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-53de1fc2ca501a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ab01175498501a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-39d170f88b501a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5174,7 +5175,9 @@
    "image": "https://img.mako.co.il/2026/10/04/fix_styles_1_1400_1791091994287_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791091980000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "חלומה של כל מעריצה: הארי סטיילס בירך ישראלית באמצע ההופעה - אחרי שהתקבלה ללימודי רפואה",
    "type": "mivzakim",
    "updated_ms": 1791091980000,
@@ -21746,7 +21749,8 @@
    "importance": 2,
    "published_ms": 1791088620000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "מחדל פליי דובאי: הכשל שאפשר לטייסים להגיע בלי בדיקה",
    "type": "news",
@@ -22226,6 +22230,22 @@
    "updated_ms": 1791094380000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5db9175498501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_vaben_041026/MASTER/rinat_vaben_041026_m/rinat_vaben_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ab01175498501a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מטוס רפואי עם שישה בני אדם נעלם בדרכו מברמודה לבוסטון. חיפושים נרחבים מתנהלים מול חופי נאנטאקט",
+   "duration_s": 23,
+   "first_seen_ms": 1791097946413,
+   "image": "https://img.mako.co.il/2026/10/04/SHIR_PLANE_041026_1400_1791094896600_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791094903000,
+   "sections": [],
+   "title": "תעלומה בשמיים: מטוס עם 6 אנשים נעלם מעל הים בדרכו מברמודה לבוסטון",
+   "type": "news",
+   "updated_ms": 1791094903000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ab01175498501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_PLANE_041026/MASTER/SHIR_PLANE_041026/SHIR_PLANE_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ad0c69b108501a1027.htm": {
    "author": "חדשות",
@@ -42754,6 +42774,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_rahat_041026_6823_04102026043021/V1_karind_rahat_041026_6823_04102026043021_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-39d170f88b501a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שר הביטחון ישראל כ\"ץ הנחה על סגירת המעברים בעזה וביהודה ושומרון במהלך ימי ציון אירועי ה-7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1791097946413,
+   "image": "https://img.mako.co.il/2026/10/04/M_NEWS_16697_04102026070758_1400_1791097750644_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791097758000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שר הביטחון ישראל כ\"ץ הנחה על סגירת המעברים בעזה וביהודה ושומרון במהלך ימי ציון אירועי ה-7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1791097758000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-39d170f88b501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16697_04102026070758/M_NEWS_16697_04102026070758_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-493b426e81501a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61873,7 +61911,8 @@
    "importance": 0,
    "published_ms": 1791090645000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "פיצוץ ענקי: כלי טיס רוסי פגע בגשר מרכזי בקייב - והעשן כיסה את האזור",
    "type": "mivzakim",
@@ -61891,7 +61930,8 @@
    "importance": 0,
    "published_ms": 1791089604000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מאיימת עם אקדח מהמרפסת - על התלמידים: התיעוד המטריד מהמהומות בצרפת | צפו",
    "type": "mivzakim",
