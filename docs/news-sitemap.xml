@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-04T12:59:28+00:00</news:publication_date>
+<news:title>הגנבים רוצים את הטויוטה שלכם</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/04/rinat_car_041026_m_1400_1791118762123_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81fdd40a5e601a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -17,6 +26,15 @@
 <news:title>עשן שחור מתפזר: לוחמי אש פועלים לכיבוי שרפה סמוך לצומת גוש עציון, 2 מטוסים הוזנקו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_KARIND_FIRE_041026_6856_04102026121940_1400_1791116453346_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9dec77b55d601a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-04T12:20:29+00:00</news:publication_date>
+<news:title>אפקט סידני: הפרסומת החושפנית הזינקה את המכירות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/04/SHIR_SYDNEY_041026_1400_1791116421840_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-050433e38c601a1026.htm</loc>
@@ -1421,14 +1439,5 @@
 <news:title>נתניהו על ניסיון הפיגוע בטיסת פליי-דובאי: &quot;מי ששלח אותו ישלם מחיר כבד מאוד&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/02/V1_BIBI_6780_02102026011833_1400_1790947194534_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-680ea19f4bcf0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-02T13:09:41+00:00</news:publication_date>
-<news:title>כשהוא עדיין בתיכון: יהלי ווטסון ערך היום את מופע הבכורה שלו בגריי תל אביב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/02/M_NEWS_16628_02102026010755_1400_1790946574500_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
