@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-22512fb0dc701a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22566,6 +22566,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-f92edff1e8001a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_MURDER_031026/MASTER/SHIR_MURDER_031026/SHIR_MURDER_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מטריד מחוף צ'ארלס קלור שבתל אביב חושף חולדות שרצות על החוף בחופשיות בלב אזור הבילוי והרחצה",
+   "duration_s": 34,
+   "first_seen_ms": 1791134846284,
+   "image": "https://img.mako.co.il/2026/10/04/SHIRA_RATS_041026_M_1400_1791133638495_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791133645000,
+   "sections": [],
+   "title": "תיעוד מטריד מחוף צ'ארלס קלור בתל אביב: מסיבת חולדות על החול",
+   "type": "news",
+   "updated_ms": 1791133645000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIRA_RATS_041026/MASTER/SHIRA_RATS_041026_M/SHIRA_RATS_041026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-22512fb0dc701a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -22612,7 +22628,9 @@
    "image": "https://img.mako.co.il/2026/10/04/inbie_NATBAG_041026_1400_1791133723857_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791133730000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "הטייס סיפר בחקירתו: \"התכוונתי לרסק את המטוס על נתב\"ג\"",
    "type": "news",
    "updated_ms": 1791134160000,
