@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-cc75129582501a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a37c4bee14501a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42790,6 +42790,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9edc129582501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KOTAROT_6824_04102026043212/V1_KOTAROT_6824_04102026043212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a37c4bee14501a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפה פרצה בבית ספר בתל שבע במהלך הלילה, אין נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1791090446145,
+   "image": "https://img.mako.co.il/2026/10/04/V1_KARIND_TELSHEVA_6827_04102026050229_1400_1791090229395_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791090235000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפה פרצה בבית ספר בתל שבע במהלך הלילה, אין נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1791090235000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a37c4bee14501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_TELSHEVA_6827_04102026050229/V1_KARIND_TELSHEVA_6827_04102026050229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc5e426e81501a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61216,7 +61234,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי Vיראלים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תיעוד דרמטי: ילד נתקע על גלגל ענק - בין שמיים לארץ וכמעט נפל | החילוץ ממקסיקו",
    "type": "mivzakim",
@@ -61499,7 +61518,8 @@
    "published_ms": 1791005998000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הלם בשידור חי: כתבת החדשות נדרסת באמצע דיווח לעיניי המצלמות במונטריי, מקסיקו",
    "type": "mivzakim",
@@ -61536,7 +61556,8 @@
    "published_ms": 1790953381000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "באמצע הנסיעה בהונג קונג: נהג מונית איבד הכרה כשיש איתו נוסעים",
    "type": "mivzakim",
