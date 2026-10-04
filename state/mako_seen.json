@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791116248530,
+ "last_run_ms": 1791116548987,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3312,6 +3312,18 @@
    "published_ms": 1790999280000,
    "section": "ספורט",
    "title": "חלאילי ייעדר, אסף צור יפתח בשער הנבחרת"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-4c7c77b55d601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791116548987,
+   "content_type": "article",
+   "first_seen_ms": 1791116548987,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791116220000,
+   "section": "ספורט",
+   "title": "\"לא זוכר שרציתי לנצח משחק כמו המשחק הזה\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-536a6e6ede7f0a1027.htm": {
    "check_attempts": 1,
@@ -12213,6 +12225,18 @@
    "section": "",
    "title": "הרוחות בטורקיה סוערות: לאן נעלמו המיליארדים?"
   },
+  "https://www.mako.co.il/men-men_news/Article-a21333e38c601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791116427180,
+   "content_type": "article",
+   "first_seen_ms": 1791116427180,
+   "indexable": true,
+   "indexnow_ms": 1791116427180,
+   "published_ms": 1791115560000,
+   "section": "פלילים",
+   "title": "מיד עם הנחיתה: ארבעה ישראלים גורשו ממרוקו"
+  },
   "https://www.mako.co.il/men-men_news/Article-a342b687d26f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12583,7 +12607,7 @@
    "indexnow_ms": 1791099026958,
    "published_ms": 1791096840000,
    "section": "פלילים",
-   "title": "בן 20 הכיר נערה בגינה ציבורית בחולון - ואנס אותה בביתו"
+   "title": "אירוע מחריד בחולון: בן 20 חשוד באונס נערה בת 14"
   },
   "https://www.mako.co.il/men-men_news/Article-dffff478dd501a1027.htm": {
    "check_attempts": 1,
