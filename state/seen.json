@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-afc01547cc501a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-bf36175498501a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-eaa38d260c501a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5175,13 +5177,30 @@
    "importance": 2,
    "published_ms": 1791091980000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "סלבס"
    ],
    "title": "חלומה של כל מעריצה: הארי סטיילס בירך ישראלית באמצע ההופעה - אחרי שהתקבלה ללימודי רפואה",
    "type": "mivzakim",
    "updated_ms": 1791091980000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-4b25426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/fix_styles_1/fix_styles_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-bf36175498501a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "נשיקה במצח וחיבוק: בתו של ברוס וויליס פרסמה תמונה נדירה עם אביה",
+   "duration_s": 16,
+   "first_seen_ms": 1791099446366,
+   "image": "https://img.mako.co.il/2026/10/04/V1_BRUCE_6829_04102026062614_1400_1791095244738_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791095251000,
+   "sections": [],
+   "title": "נשיקה במצח וחיבוק: בתו של ברוס וויליס פרסמה תמונה נדירה עם אביה",
+   "type": "mivzakim",
+   "updated_ms": 1791095251000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-bf36175498501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_BRUCE_6829_04102026062614/V1_BRUCE_6829_04102026062614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -10463,6 +10482,24 @@
    "updated_ms": 1790917620000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-fe5e911c9faf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/yoav_racoon_021026/MASTER/yoav_racoon_021026/yoav_racoon_021026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-eaa38d260c501a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הצפות קשות וברד כבד היכו באזורים רבים בספרד: לפי דיווחים מקומיים, בעיירה מדריגרס שבדרום-מזרח המדינה מדובר בשיטפון הקשה ביותר מאז שנות ה-50. הרשויות מדווחות על הרוגה ועל כ-90 בני אדם שחולצו.",
+   "duration_s": 23,
+   "first_seen_ms": 1791099446366,
+   "image": "https://img.mako.co.il/2026/10/04/yoav_spain_041026_1400_1791098259772_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791098820000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "השיטפון הקשה ביותר מאז שנות ה-50: מזג האוויר הקיצוני בספרד",
+   "type": "general",
+   "updated_ms": 1791098820000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-eaa38d260c501a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/yoav_spain_041026/MASTER/yoav_spain_041026/yoav_spain_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
@@ -22210,7 +22247,7 @@
    ],
    "title": "חיפשו את הרוצח חמישה ימים - ומצאו אותו באמצע ארוחה במקדונלד'ס",
    "type": "news",
-   "updated_ms": 1791011790000,
+   "updated_ms": 1791098580000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-f92edff1e8001a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/SHIR_MURDER_031026/MASTER/SHIR_MURDER_031026/SHIR_MURDER_031026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -22261,6 +22298,24 @@
    "updated_ms": 1791095400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ad0c69b108501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/FIX_yoav_CNN_041026/FIX_yoav_CNN_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ארגנטינה צפויה לפתוח מסלול חדש לאזרחות תמורת השקעה: 350 אלף דולר לאוצר המדינה או 800 אלף דולר באג\"ח ממשלתיות - תמורת האפשרות לקבל אזרחות ארגנטינאית.",
+   "duration_s": 62,
+   "first_seen_ms": 1791099446366,
+   "image": "https://img.mako.co.il/2026/10/04/SHIR_ARGENTINA_041026_1400_1791095638719_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791095645000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "350 אלף דולר - ויש לכם אזרחות זרה: המהלך המפתיע של ארגנטינה",
+   "type": "news",
+   "updated_ms": 1791095645000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_ARGENTINA_041026/MASTER/SHIR_ARGENTINA_041026/SHIR_ARGENTINA_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
