@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc5e426e81501a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9edc129582501a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21672,7 +21673,8 @@
    "importance": 2,
    "published_ms": 1791047069000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "יניב השרברב הגיבור חושף: איש הצוות המסתורי שניסה לחסום את הכניסה לקוקפיט",
    "type": "news",
@@ -42665,6 +42667,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ffffda1015bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_KFARKARRA_6767_02102026064059/V1_karind_KFARKARRA_6767_02102026064059_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קולות ירי ללא הפסקה: תושבים ברהט מדווחים על יריות | צפו",
+   "duration_s": 11,
+   "first_seen_ms": 1791088646102,
+   "image": "https://img.mako.co.il/2026/10/04/V1_karind_rahat_041026_6823_04102026043021_1400_1791088281777_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791088288000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קולות ירי ללא הפסקה: תושבים ברהט מדווחים על יריות | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1791088288000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_rahat_041026_6823_04102026043021/V1_karind_rahat_041026_6823_04102026043021_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-493b426e81501a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -42736,6 +42756,24 @@
    "updated_ms": 1791083507000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7589017e3e401a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16685_04102026031041/M_NEWS_16685_04102026031041_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9edc129582501a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שני לוחמים נפצעו בתאונה מבצעית ופרטים חדשים על טיסת פליי דובאי - אלה הכותרות החשובות של הבוקר",
+   "duration_s": 41,
+   "first_seen_ms": 1791088646102,
+   "image": "https://img.mako.co.il/2026/10/04/V1_KOTAROT_6824_04102026043212_1400_1791088407714_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791088414000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שני לוחמים נפצעו בתאונה מבצעית ופרטים חדשים על טיסת פליי דובאי - אלה הכותרות החשובות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1791088414000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9edc129582501a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KOTAROT_6824_04102026043212/V1_KOTAROT_6824_04102026043212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc5e426e81501a1026.htm": {
    "author": "מבזקים",
