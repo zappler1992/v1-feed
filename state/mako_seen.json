@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791101249097,
+ "last_run_ms": 1791101549222,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7929,6 +7929,18 @@
    "section": "הכי חם",
    "title": "ככה מכינים בבית בראנץ' כמו במסעדה"
   },
+  "https://www.mako.co.il/food-meals/lunch_recipes/Article-009b866da42f0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791101427118,
+   "content_type": "article",
+   "first_seen_ms": 1791101427118,
+   "indexable": true,
+   "indexnow_ms": 1791101427118,
+   "published_ms": 1791100140000,
+   "section": "",
+   "title": "3 ארוחות צהריים משפחתיות שיסגרו לכם את הפינה"
+  },
   "https://www.mako.co.il/food-meals/lunch_recipes/Article-81fea931f7ec0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8419,7 +8431,7 @@
    "indexnow_ms": 1790910867673,
    "published_ms": 1789209900000,
    "section": "בריאות",
-   "title": "אם אתם עושים את הפעולה הזו, אל תתעלמו מהתסמינים"
+   "title": "עברתם את גיל 40? כדאי שתדעו את זה"
   },
   "https://www.mako.co.il/health-news/Article-08ac4fe2012d0a1027.htm": {
    "check_attempts": 1,
@@ -11719,7 +11731,7 @@
    "indexnow_ms": 1790910748433,
    "published_ms": 1790911080000,
    "section": "פלילים",
-   "title": "אחרי 17 שנה: ראש ארגון הפשע משתחרר מהכלא"
+   "title": "אחרי 17 שנה: ראש ארגון הפשע השתחרר מהכלא"
   },
   "https://www.mako.co.il/men-men_news/Article-9da0bd272c4d0a1027.htm": {
    "check_attempts": 1,
@@ -14647,7 +14659,7 @@
    "indexnow_ms": 1791099464978,
    "published_ms": 1791098880000,
    "section": "צבא וביטחון",
-   "title": "דומה לזמן המלחמה: הצעד של ארה\"ב מול חופי איראן"
+   "title": "מה מאחורי ריכוז הכוחות של ארה\"ב מול חופי איראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-65f2ff6820de0a1026.htm": {
    "check_attempts": 1,
@@ -17408,6 +17420,18 @@
    "published_ms": 1790593200000,
    "section": "הכי חם",
    "title": "\"היא כמו אמא ומנטורית. היא הכל עבורי\""
+  },
+  "https://www.mako.co.il/tv-baby_boom/season2-articles/Article-d31e70f88b501a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791101549222,
+   "content_type": "article",
+   "first_seen_ms": 1791101549222,
+   "indexable": true,
+   "indexnow_ms": 1791101549222,
+   "published_ms": 1791097440000,
+   "section": "",
+   "title": "\"הפונדקאית ביקשה שהלידה תיגמר ונתנתק\""
   },
   "https://www.mako.co.il/tv-exposure/articles/Article-617986bcee4d0a1027.htm": {
    "check_attempts": 1,
