@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791114148590,
+ "last_run_ms": 1791114448552,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -553,6 +553,18 @@
    "section": "Fashion Forward",
    "title": "כבר ממש לא ילדה: אלין גולן חוגגת בתחרה שקופה"
   },
+  "https://fashionforward.mako.co.il/news/321216/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791114267115,
+   "content_type": "post",
+   "first_seen_ms": 1791114267115,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791113823000,
+   "section": "אופנה",
+   "title": "הפתעה יפהפיה: היידי קלום חושפת את בתה הצעירה בהופעה נדירה"
+  },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1044,6 +1056,18 @@
    "published_ms": 1790601060000,
    "section": "ספורט",
    "title": "\"תצוגה לפנתאון\": הבכורה האדירה של דאוטין"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/eurocup-q4_2026/Article-cd280abdab601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791114387095,
+   "content_type": "article",
+   "first_seen_ms": 1791114387095,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791114240000,
+   "section": "ספורט",
+   "title": "\"הצית את הדמיון\": באיטליה התלהבו מדאוטין"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-0046690eff8e0a1027.htm": {
    "check_attempts": 1,
@@ -12501,6 +12525,18 @@
    "section": "",
    "title": "\"לא הביע חרטה\": העונש למורה שהורשע בעבירות מין בתלמידה"
   },
+  "https://www.mako.co.il/men-men_news/Article-e35b5e95da601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791114267115,
+   "content_type": "article",
+   "first_seen_ms": 1791114267115,
+   "indexable": true,
+   "indexnow_ms": 1791114267115,
+   "published_ms": 1791113460000,
+   "section": "פלילים",
+   "title": "גבר שנפצע בקטטה בדירה מת מפצעיו, שלושה נעצרו"
+  },
   "https://www.mako.co.il/men-men_news/Article-e96bbe6633ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16880,6 +16916,18 @@
    "published_ms": 1790148420000,
    "section": "חופש",
    "title": "נוסע ישראלי נעצר בזמן הטיסה באירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-05ce355188601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791114387095,
+   "content_type": "article",
+   "first_seen_ms": 1791114387095,
+   "indexable": true,
+   "indexnow_ms": 1791114387095,
+   "published_ms": 1791112860000,
+   "section": "חופש",
+   "title": "\"לא ציפיתי לזה\": הרגע המרגש של הישראלית בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-098615cabdbe0a1026.htm": {
    "check_attempts": 1,
