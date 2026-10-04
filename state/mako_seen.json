@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791125248798,
+ "last_run_ms": 1791125548845,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16208,6 +16208,18 @@
    "published_ms": 1790923020000,
    "section": "",
    "title": "הרוג ופצוע בינוני בהתרסקות מטוס קל בצפון"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-6471198ee0601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-6471198ee0601a1027.htm",
+   "checked_ms": 1791125548845,
+   "content_type": "article",
+   "first_seen_ms": 1791125548845,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791123240000,
+   "section": "",
+   "title": "ההתקרבות לישראל נעצרה: \"זה מביך את השלטונות\""
   },
   "https://www.mako.co.il/special-mako-news/Article-669c41a9312e0a1026.htm": {
    "check_attempts": 1,
