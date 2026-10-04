@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791147749421,
+ "last_run_ms": 1791148049303,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3612,6 +3612,18 @@
    "published_ms": 1791035880000,
    "section": "ספורט",
    "title": "מי השחקן האירי שקרא לאליאל פרץ \"קוף\"?"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-c9d2ca9dea801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791147867284,
+   "content_type": "article",
+   "first_seen_ms": 1791147867284,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791147540000,
+   "section": "ספורט",
+   "title": "צפו בבן שמעון דומע: \"כולנו עברנו דברים\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-cad5341dff8f0a1026.htm": {
    "check_attempts": 1,
