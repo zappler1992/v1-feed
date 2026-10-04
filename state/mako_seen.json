@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791106649199,
+ "last_run_ms": 1791106949255,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16809,6 +16809,18 @@
    "section": "חופש",
    "title": "השינוי בבידוק הביטחוני שיכול לעלות לכם כסף"
   },
+  "https://www.mako.co.il/travel-news/international/Article-421ac68542601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791106707520,
+   "content_type": "article",
+   "first_seen_ms": 1791106707520,
+   "indexable": true,
+   "indexnow_ms": 1791106707520,
+   "published_ms": 1791101280000,
+   "section": "חופש",
+   "title": "התאהבו במקום: האי שהמוני ישראלים הגיעו אליו בחגים"
+  },
   "https://www.mako.co.il/travel-news/international/Article-430d0394d1201a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17204,6 +17216,18 @@
    "published_ms": 1790162340000,
    "section": "",
    "title": "משרד החוץ מזהיר ישראלים שנמצאים במדינה הזו"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-0912145821601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791106707520,
+   "content_type": "article",
+   "first_seen_ms": 1791106707520,
+   "indexable": true,
+   "indexnow_ms": 1791106707520,
+   "published_ms": 1791103440000,
+   "section": "חופש",
+   "title": "בעקבות טיסת הבלהות: הנהלים שצפויים להשתנות בתא הטייס"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0b41ab4ad68c0a1027.htm": {
    "check_attempts": 1,

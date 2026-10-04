@@ -53,7 +53,7 @@
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/09/30/lior_N100_01_1400_1790763359348_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>דייטים במונית? הנסיעה המיוחדת שחושפת הכל</video:title>
-<video:description>פינה חדשה: הנסיעה עד 100 שקל, הנוסע לא מאה בכלל -תומר עובדיה עולה על מונית כדי לשאול את כל השאלות החשובות</video:description>
+<video:description>פינה חדשה: הנסיעה עד 100 שקל, הנוסע לא מאה בכלל -תומר עובדיה עולה על מונית כדי לשאול את כל השאלות החשובות.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/lior_N100_01/MASTER/lior_N100_01/lior_N100_01_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>105</video:duration>
 <video:publication_date>2026-10-04T09:08:00+00:00</video:publication_date>
@@ -71,7 +71,7 @@
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/04/SHIR_YANIV_041026_1400_1791103829199_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>יניב השרברב חושף את הפרט שכולם הכי רוצים לדעת: מה עשיתי בצבא</video:title>
-<video:description>הכי קרוב לאש: מה עשה יניב חיון בצבא שסייע לו בזמן חטיפת המטוס</video:description>
+<video:description>הכי קרוב לאש: מה עשה יניב חיון בצבא שסייע לו בזמן חטיפת המטוס, מתוף &quot;פגוש את העיתונות&quot;, חדשות 12.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_YANIV_041026/MASTER/SHIR_YANIV_041026/SHIR_YANIV_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>15</video:duration>
 <video:publication_date>2026-10-04T08:50:35+00:00</video:publication_date>
@@ -212,6 +212,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>מהעולם</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
