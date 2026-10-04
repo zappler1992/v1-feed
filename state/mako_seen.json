@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791105749211,
+ "last_run_ms": 1791106049213,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -540,6 +540,18 @@
    "published_ms": 1790894976000,
    "section": "Fashion Forward",
    "title": "הקולקציה הכי מסקרנת של זארה סוף סוף הגיעה, והרגשות מעורבים"
+  },
+  "https://fashionforward.mako.co.il/news/321181/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791106049213,
+   "content_type": "article",
+   "first_seen_ms": 1791106049213,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791105784000,
+   "section": "Fashion Forward",
+   "title": "כבר ממש לא ילדה: אלין גולן חוגגת בתחרה שקופה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -6884,6 +6896,18 @@
    "published_ms": 1790863260000,
    "section": "סלבס",
    "title": "סידור זמני או משהו רציני? התוכנית של זוג הכוכבים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-bad76e9ab1601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791105987480,
+   "content_type": "article",
+   "first_seen_ms": 1791105987480,
+   "indexable": true,
+   "indexnow_ms": 1791105987480,
+   "published_ms": 1791104400000,
+   "section": "",
+   "title": "“שכונות שלמו בעזה הפכו להריסות. ההרס גלוי\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-c01853f3be1e0a1027.htm": {
    "check_attempts": 1,
