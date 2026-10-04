@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a3514e29d5701a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-b796592a9e601a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7790,7 +7790,8 @@
    "importance": 2,
    "published_ms": 1791122580000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "אוכל"
    ],
    "title": "שיתפה את המתכון של בעלה לחביתה - ושברה את הרשת",
    "type": "general",
@@ -54367,6 +54368,24 @@
    "updated_ms": 1790840340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w01/shorts-19de27fe6f5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/Amit_ROMI_ADI_NAZA/MASTER/Amit_ROMI_ADI_NAZA_M_E/Amit_ROMI_ADI_NAZA_M_E_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-b796592a9e601a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "רומי גונן חושפת לראשונה את סרטון החטיפה שלה מה-7 באוקטובר בפודקאסט שלה \"החיים החדשים של רומי גונן\". שורדת השבי מדברת על כאב הנורא, רגעי האימה ומה הייתה אומרת לעצמה ברגע הזה",
+   "duration_s": 102,
+   "first_seen_ms": 1791126146092,
+   "image": "https://img.mako.co.il/2026/10/04/Amit_ROMI_HATIFA_M_1400_1791118452949_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791125760000,
+   "sections": [
+    "רומי גונן: הפודקאסט"
+   ],
+   "title": "החיים החדשים של רומי גונן: זה סרטון החטיפה שלי בפעם הראשונה",
+   "type": "general",
+   "updated_ms": 1791125760000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-b796592a9e601a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/Amit_ROMI_FIX_H/Amit_ROMI_FIX_H_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",

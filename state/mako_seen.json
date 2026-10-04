@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791125848858,
+ "last_run_ms": 1791126148750,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3648,6 +3648,18 @@
    "published_ms": 1791043560000,
    "section": "ספורט",
    "title": "\"גאים בצה\"ל\": האירי שרצה לעורר פרובוקציה"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-f85dec9376701a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791126148750,
+   "content_type": "article",
+   "first_seen_ms": 1791126148750,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791125880000,
+   "section": "ספורט",
+   "title": "\"לא הופתעתי מהקללות של אירלנד. זה מדרבן\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-f88f68b258bf0a1026.htm": {
    "check_attempts": 1,
@@ -16136,6 +16148,18 @@
    "published_ms": 1790850960000,
    "section": "",
    "title": "\"נהיה הפתעת הבחירות. אין ממשלה בלעדינו\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-46d69c36d3701a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-46d69c36d3701a1027.htm",
+   "checked_ms": 1791126026697,
+   "content_type": "article",
+   "first_seen_ms": 1791126026697,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791123540000,
+   "section": "חדשות",
+   "title": "המפלגה שקבעה \"ציונות היא גזענות\" - והתגובה בישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
    "check_attempts": 1,
