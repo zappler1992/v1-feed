@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791100649053,
+ "last_run_ms": 1791100949079,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8419,7 +8419,7 @@
    "indexnow_ms": 1790910867673,
    "published_ms": 1789209900000,
    "section": "בריאות",
-   "title": "עברתם את גיל 40? כדאי שתדעו את זה"
+   "title": "אם אתם עושים את הפעולה הזו, אל תתעלמו מהתסמינים"
   },
   "https://www.mako.co.il/health-news/Article-08ac4fe2012d0a1027.htm": {
    "check_attempts": 1,
@@ -10197,6 +10197,18 @@
    "section": "עיצוב הבית",
    "title": "הכוסות יוצאות ככה מהמדיח? זה מה שצריך לעשות"
   },
+  "https://www.mako.co.il/living-diy/maintenance/Article-407e8ef35e501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791100949079,
+   "content_type": "article",
+   "first_seen_ms": 1791100949079,
+   "indexable": true,
+   "indexnow_ms": 1791100949079,
+   "published_ms": 1791100320000,
+   "section": "עיצוב הבית",
+   "title": "ממלאים את הסיר במים חמים מהברז? כדאי שתדעו את זה"
+  },
   "https://www.mako.co.il/living-diy/maintenance/Article-85cfa5b4e1830a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11109,6 +11121,18 @@
    "section": "פלילים",
    "title": "עצמות אדם התגלו סמוך לצומת השבעה"
   },
+  "https://www.mako.co.il/men-men_news/Article-328d8ef35e501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791100949079,
+   "content_type": "article",
+   "first_seen_ms": 1791100949079,
+   "indexable": true,
+   "indexnow_ms": 1791100949079,
+   "published_ms": 1791100380000,
+   "section": "פלילים",
+   "title": "\"הוא ירק עליי ואיים להחזיר אותי למלון בחתיכות\""
+  },
   "https://www.mako.co.il/men-men_news/Article-338e15ba459c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11923,7 +11947,7 @@
    "indexnow_ms": 1791096748848,
    "published_ms": 1791096300000,
    "section": "פלילים",
-   "title": "המשטרה שמעה על \"מסיבת השחרור\" לאסיר הביטחוני - והתערבה"
+   "title": "המשטרה מנעה \"מסיבת שחרור\" לאסיר ביטחוני בנגב"
   },
   "https://www.mako.co.il/men-men_news/Article-c7816b95bdfc0a1026.htm": {
    "check_attempts": 1,
@@ -13016,6 +13040,18 @@
    "published_ms": 1790614440000,
    "section": "ספורט",
    "title": "ה-GM של פורטלנד מאמין: דני יאריך חוזה?"
+  },
+  "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-1a4cef5e8e501a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791100949079,
+   "content_type": "article",
+   "first_seen_ms": 1791100949079,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791100740000,
+   "section": "ספורט",
+   "title": "מעבר לקשת: הבעיה הגדולה ביותר של מכבי"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-1ef33c4605301a1027.htm": {
    "check_attempts": 1,
@@ -14155,7 +14191,7 @@
    "indexnow_ms": 1791043227011,
    "published_ms": 1791043140000,
    "section": "",
-   "title": "טראמפ נגד \"הומואים למען פלסטין\""
+   "title": "\"דברים שלא תאמינו\": טראמפ נגד \"הומואים למען פלסטין\""
   },
   "https://www.mako.co.il/pride-news/Article-2b7bd754464a0a1026.htm": {
    "check_attempts": 1,
@@ -14275,7 +14311,7 @@
    "indexnow_ms": 1790757148954,
    "published_ms": 1790756160000,
    "section": "גאווה",
-   "title": "לראשונה בתולדות סרביה: לסבית מונתה לנשיאת המדינה"
+   "title": "המינוי ההיסטורי במדינת הבלקן - והיחס לישראל"
   },
   "https://www.mako.co.il/pride-news/Article-ab22b3bef00b0a1026.htm": {
    "check_attempts": 1,
@@ -14611,7 +14647,7 @@
    "indexnow_ms": 1791099464978,
    "published_ms": 1791098880000,
    "section": "צבא וביטחון",
-   "title": "מה מאחורי ריכוז הכוחות של ארה\"ב מול חופי איראן"
+   "title": "דומה לזמן המלחמה: הצעד של ארה\"ב מול חופי איראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-65f2ff6820de0a1026.htm": {
    "check_attempts": 1,
@@ -17132,6 +17168,18 @@
    "published_ms": 1790591760000,
    "section": "",
    "title": "הקו הישיר והבלעדי מנתב\"ג ליעד שהישראלים אוהבים חוזר"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-dfb970f88b501a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791100949079,
+   "content_type": "article",
+   "first_seen_ms": 1791100949079,
+   "indexable": true,
+   "indexnow_ms": 1791100949079,
+   "published_ms": 1791097260000,
+   "section": "",
+   "title": "השאלה הגדולה שנותרה ללא מענה אחרי טיסת האימה"
   },
   "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
    "check_attempts": 1,
