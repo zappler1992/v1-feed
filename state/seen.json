@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7af1e2b0ef601a1026.htm",
-  "https://www.v-1.co.il/food-magazine/2026-m10_w02/shorts-236ee2b0ef601a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e5a82c0b03701a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22267,7 +22266,7 @@
    ],
    "title": "משרברב לסמל מין - יניב חיון הגיבור הפך לכוכב",
    "type": "news",
-   "updated_ms": 1791060804000,
+   "updated_ms": 1791122040000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-bda23fbbf7301a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/03/AVISHAI_YANIV_0310/MASTER/AVISHAI_YANIV_0310_M/AVISHAI_YANIV_0310_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -43709,6 +43708,24 @@
    "updated_ms": 1791095584000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e45b04e1b9501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_GAZA_6830_04102026063148/V1_KARIND_GAZA_6830_04102026063148_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e5a82c0b03701a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח ב-CBS: לפי גורם באמירויות, הטייסים שהנחיתו את טיסת פליי דובאי - מניו זילנד ודרום אפריקה",
+   "duration_s": 9,
+   "first_seen_ms": 1791122246080,
+   "image": "https://img.mako.co.il/2026/10/04/V1_FLYDUBAY_6858_04102026015200_1400_1791122001983_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791122008000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח ב-CBS: לפי גורם באמירויות, הטייסים שהנחיתו את טיסת פליי דובאי - מניו זילנד ודרום אפריקה",
+   "type": "mivzakim",
+   "updated_ms": 1791122008000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e5a82c0b03701a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_FLYDUBAY_6858_04102026015200/V1_FLYDUBAY_6858_04102026015200_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e77c8d260c501a1027.htm": {
    "author": "מבזקים",
