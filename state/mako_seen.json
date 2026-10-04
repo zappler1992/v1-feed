@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791115648658,
+ "last_run_ms": 1791115948785,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -564,6 +564,18 @@
    "published_ms": 1791113823000,
    "section": "אופנה",
    "title": "הפתעה יפהפיה: היידי קלום חושפת את בתה הצעירה בהופעה נדירה"
+  },
+  "https://fashionforward.mako.co.il/news/321219/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791115827177,
+   "content_type": "post",
+   "first_seen_ms": 1791115827177,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "נטע אלחמיסטר בשמלת מחוך שקופה בחופשה עם הילדים"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -6537,6 +6549,18 @@
    "section": "סלבס",
    "title": "אורחים לא צפויים הגיעו: גל רובין הרימה הפקה"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d284ebe619601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791115827177,
+   "content_type": "article",
+   "first_seen_ms": 1791115827177,
+   "indexable": true,
+   "indexnow_ms": 1791115827177,
+   "published_ms": 1791115620000,
+   "section": "סלבס",
+   "title": "לוהט כאן: עדי שילון ואקי אבני בתמונות צמודות"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d356004c242e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -7651,7 +7675,7 @@
    "indexnow_ms": 1791104307347,
    "published_ms": 1791104040000,
    "section": "כסף",
-   "title": "לאזרחים נמאס: המדינה האנטי-ישראלית נכנסת למשבר"
+   "title": "המדינה ששונאת אותנו נמצאת במשבר חסר תקדים"
   },
   "https://www.mako.co.il/finances-news/Article-baeabe8fa57e0a1027.htm": {
    "check_attempts": 1,
@@ -17443,7 +17467,7 @@
    "indexnow_ms": 1791112048457,
    "published_ms": 1791107400000,
    "section": "חופש",
-   "title": "ארגון הטרור קורא לפעולות נוספות בטיסות לישראל"
+   "title": "ארגון הטרור שמנסה לדחוף לפיגועים נוספים בשמיים"
   },
   "https://www.mako.co.il/travel-news/international/Article-9ef7426e81501a1026.htm": {
    "check_attempts": 1,
