@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791134849929,
+ "last_run_ms": 1791135148986,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16628,6 +16628,18 @@
    "published_ms": 1791082800000,
    "section": "חדשות",
    "title": "\"נתניהו פראייר, הוא נתן שיערבבו אותו\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e45b9a53fd701a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-e45b9a53fd701a1027.htm",
+   "checked_ms": 1791135027296,
+   "content_type": "article",
+   "first_seen_ms": 1791135027296,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791134520000,
+   "section": "חדשות",
+   "title": "תיעוד חדש: \"תצלמו! יעצרו אותנו ראשונים, אנחנו עם דם\""
   },
   "https://www.mako.co.il/special-mako-news/Article-e8daa19f4bcf0a1027.htm": {
    "check_attempts": 1,
