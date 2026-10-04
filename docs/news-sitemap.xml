@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-50ecf726e1801a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-04T18:21:29+00:00</news:publication_date>
+<news:title>נקניקיה ב-3.5 מיליון שקל: האקזיט המפתיע</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/04/inbie_naknik_041026_1400_1791138082792_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-6fcad98cef701a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1565,14 +1574,5 @@
 <news:title>חוסר וודאות מוחלט: עדויות הישראלים שתקועים בדובאי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/02/alona_dubai_m_021026_1400_1790966475720_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-6744086bd9df0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-02T18:28:02+00:00</news:publication_date>
-<news:title>עינת ארליך משתפת באומץ את המאבק בסרטן: &quot;ירדה לי שליש מכמות השיער&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/02/einat0210m_1400_1790965676125_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
