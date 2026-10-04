@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791149849352,
+ "last_run_ms": 1791150149371,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3552,6 +3552,18 @@
    "published_ms": 1790857260000,
    "section": "ספורט",
    "title": "\"רן בן שמעון איבד את האמון של כל המדינה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ac4ec0c51c801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791150149371,
+   "content_type": "article",
+   "first_seen_ms": 1791150149371,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791149940000,
+   "section": "ספורט",
+   "title": "גלוך במוקד: צפו בעצבים בסיום המשחק"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-b352b7c5a9301a1027.htm": {
    "check_attempts": 1,
