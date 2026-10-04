@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791137249006,
+ "last_run_ms": 1791137549033,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13879,7 +13879,7 @@
    "indexnow_ms": null,
    "published_ms": 1791137040000,
    "section": "ספורט",
-   "title": "מועד הדרבי התל-אביבי בגמר גביע ווינר"
+   "title": "3 דרבים ב-12 ימים: טירוף נובמבר הצפוי"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-e6efa68500301a1026.htm": {
    "check_attempts": 1,
@@ -16015,7 +16015,7 @@
    "indexnow_ms": 1791084148603,
    "published_ms": 1791083640000,
    "section": "חדשות",
-   "title": "הטייס העומאני חשף: זה היעד שתכננתי לרסק בו את המטוס"
+   "title": "סגירת המעגל של הנגדת שהתריעה מפני 7 באוקטובר"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-8ee1511374fd0a1026.htm": {
    "check_attempts": 1,
@@ -16208,6 +16208,18 @@
    "published_ms": 1790504640000,
    "section": "",
    "title": "\"הכי שנוי במחלוקת\": בכל העולם עקבו אחרי החרם נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-3a4123bfed701a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-3a4123bfed701a1026.htm",
+   "checked_ms": 1791137549033,
+   "content_type": "article",
+   "first_seen_ms": 1791137549033,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791137460000,
+   "section": "",
+   "title": "הטייס העומאני חשף: זה היעד שתכננתי לרסק בו את המטוס"
   },
   "https://www.mako.co.il/special-mako-news/Article-3f95c8bd2df70a1027.htm": {
    "check_attempts": 1,
