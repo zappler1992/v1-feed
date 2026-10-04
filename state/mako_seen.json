@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791114448552,
+ "last_run_ms": 1791114748512,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6213,6 +6213,18 @@
    "section": "סלבס",
    "title": "\"לא חשבתם שזה יעבור בשקט, כן? לא על הגב שלי\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5dbbebe619601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791114748512,
+   "content_type": "article",
+   "first_seen_ms": 1791114748512,
+   "indexable": true,
+   "indexnow_ms": 1791114748512,
+   "published_ms": 1791114420000,
+   "section": "סלבס",
+   "title": "\"אני ממש כועסת כל פעם שאני נזכרת. רצחו אותו\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-64408f52dace0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9476,6 +9488,18 @@
    "published_ms": 1790910000000,
    "section": "",
    "title": "עלייה בטמפרטורות - זה היום שבו יחזור הגשם"
+  },
+  "https://www.mako.co.il/hix-nature/Article-b7e45e95da601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791114627046,
+   "content_type": "article",
+   "first_seen_ms": 1791114627046,
+   "indexable": true,
+   "indexnow_ms": 1791114627046,
+   "published_ms": 1791114300000,
+   "section": "HIX",
+   "title": "פחד אלוהים: אליגטור מפלצתי נתפס באגם ארה\"ב"
   },
   "https://www.mako.co.il/hix-nature/Article-cef503569d4d0a1027.htm": {
    "check_attempts": 1,
