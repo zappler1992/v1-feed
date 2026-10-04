@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791108449348,
+ "last_run_ms": 1791108749397,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5075,6 +5075,18 @@
    "section": "ספורט",
    "title": "קמה לרקוד: 1:3 לספרד מול צ'כיה"
   },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-6486af94f3601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791108749397,
+   "content_type": "article",
+   "first_seen_ms": 1791108749397,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791108000000,
+   "section": "ספורט",
+   "title": "\"פלורס הפך מועדון קטן למועמד לאליפות\""
+  },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-72f86bbeaa7f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -7088,6 +7100,18 @@
    "published_ms": 1790582820000,
    "section": "סלבס",
    "title": "ילדיו של הכוכב לועגים לו: \"כאילו אתה מבין משהו\""
+  },
+  "https://www.mako.co.il/finances-consumer/Article-277546d825601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791108627695,
+   "content_type": "article",
+   "first_seen_ms": 1791108627695,
+   "indexable": true,
+   "indexnow_ms": 1791108627695,
+   "published_ms": 1791108060000,
+   "section": "כסף",
+   "title": "מחצות: מחיר הדלק יוזל  ל-7.77 שקלים"
   },
   "https://www.mako.co.il/finances-consumer/Article-38db124aa13d0a1027.htm": {
    "check_attempts": 1,
