@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c908a5227f701a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-520423bfed701a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dca323bfed701a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43476,6 +43477,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-51dd8069cf401a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16687_04102026034414/M_NEWS_16687_04102026034414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-520423bfed701a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יועז הנדל ב\"סיבוב בחירות\": \"אם זה היה תלוי בי, מי שבוחר לא לשרת במדינת ישראל, למה שיצביע?\"",
+   "duration_s": 59,
+   "first_seen_ms": 1791135446328,
+   "image": "https://img.mako.co.il/2026/10/04/M_NEWS_16737_04102026053048_1400_1791135137101_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791135143000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יועז הנדל ב\"סיבוב בחירות\": \"אם זה היה תלוי בי, מי שבוחר לא לשרת במדינת ישראל, למה שיצביע?\"",
+   "type": "mivzakim",
+   "updated_ms": 1791135143000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-520423bfed701a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16737_04102026053048/M_NEWS_16737_04102026053048_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-53de1fc2ca501a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -43998,6 +44017,24 @@
    "updated_ms": 1791130898000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d54addc40b701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_HOSAL_6862_04102026042017/V1_HOSAL_6862_04102026042017_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dca323bfed701a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ביתר עילית: גבר כבן 80 פונה תוך כדי המשך פעולות החייאה לאחר שהתמוטט ואיבד את הכרתו ברחוב",
+   "duration_s": 9,
+   "first_seen_ms": 1791135446328,
+   "image": "https://img.mako.co.il/2026/10/04/M_NEWS_16736_04102026053024_1400_1791135108715_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791135115000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ביתר עילית: גבר כבן 80 פונה תוך כדי המשך פעולות החייאה לאחר שהתמוטט ואיבד את הכרתו ברחוב",
+   "type": "mivzakim",
+   "updated_ms": 1791135115000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dca323bfed701a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16736_04102026053024/M_NEWS_16736_04102026053024_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e45b04e1b9501a1026.htm": {
    "author": "מבזקים",
