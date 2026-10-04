@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791142649214,
+ "last_run_ms": 1791142949203,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3647,7 +3647,7 @@
    "indexnow_ms": null,
    "published_ms": 1791139740000,
    "section": "ספורט",
-   "title": "שחקני אירלנד ביזו את ההמנון - ולא לחצו ידיים לישראלים"
+   "title": "פעם נוספת: שחקני אירלנד ביזו את ההמנון"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
    "check_attempts": 1,
@@ -5206,6 +5206,18 @@
    "published_ms": 1791022080000,
    "section": "ספורט",
    "title": "מאמן אירלנד: \"לישראל תהיה הזדמנות לנקום\""
+  },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-1b80111c15801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791142949203,
+   "content_type": "article",
+   "first_seen_ms": 1791142949203,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791142800000,
+   "section": "ספורט",
+   "title": "פארוט לא האמין: צפו בחור בהגנה שעלה בשער"
   },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-1bf1e3a2e1701a1026.htm": {
    "check_attempts": 1,
@@ -18572,6 +18584,18 @@
    "published_ms": 1791097440000,
    "section": "",
    "title": "\"הפונדקאית ביקשה שהלידה תיגמר ונתנתק\""
+  },
+  "https://www.mako.co.il/tv-exposure/articles/Article-51546d1815801a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791142826901,
+   "content_type": "article",
+   "first_seen_ms": 1791142826901,
+   "indexable": true,
+   "indexnow_ms": 1791142826901,
+   "published_ms": 1791142020000,
+   "section": "קשת 12",
+   "title": "הישראלית שנעצרה בטורקיה וחולצה מדברת לראשונה"
   },
   "https://www.mako.co.il/tv-exposure/articles/Article-617986bcee4d0a1027.htm": {
    "check_attempts": 1,
