@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791143549335,
+ "last_run_ms": 1791143849143,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3409,6 +3409,18 @@
    "section": "ספורט",
    "title": "מדיטציה ואשת דת: ההכנה הלא רגילה באירלנד"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-6b93111c15801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791143786940,
+   "content_type": "article",
+   "first_seen_ms": 1791143786940,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791143640000,
+   "section": "ספורט",
+   "title": "האירים טענו: שחקן ישראלי ירק על איש צוות"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-7b5e174483801a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3659,7 +3671,7 @@
    "indexnow_ms": null,
    "published_ms": 1791139740000,
    "section": "ספורט",
-   "title": "פעם נוספת: שחקני אירלנד ביזו את ההמנון"
+   "title": "הצעד המשפיל של שחקני נבחרת אירלנד בזמן \"התקווה\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
    "check_attempts": 1,
@@ -6344,6 +6356,18 @@
    "published_ms": 1790794800000,
    "section": "",
    "title": "אחרי שהתחתנו בשישי: לירון כרקוקלי מתחתנת שוב"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-3d03111c15801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791143666945,
+   "content_type": "article",
+   "first_seen_ms": 1791143666945,
+   "indexable": true,
+   "indexnow_ms": 1791143666945,
+   "published_ms": 1791143400000,
+   "section": "",
+   "title": "הצעד הזוגי של יוצאת הריאליטי"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-459936428b201a1027.htm": {
    "check_attempts": 1,
@@ -9909,6 +9933,18 @@
    "section": "HIX",
    "title": "בת ה-14 נדרסה, והתקרית כולה תועדה בטלוויזיה"
   },
+  "https://www.mako.co.il/hix-special/Article-17b9111c15801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791143666945,
+   "content_type": "article",
+   "first_seen_ms": 1791143666945,
+   "indexable": true,
+   "indexnow_ms": 1791143666945,
+   "published_ms": 1791143580000,
+   "section": "",
+   "title": "התפתחות בפרשת המשפיענית הברזילאית שנעלמה"
+  },
   "https://www.mako.co.il/hix-special/Article-18fcef91e82e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11035,7 +11071,7 @@
    "indexnow_ms": 1791058348795,
    "published_ms": 1791086400000,
    "section": "עיצוב הבית",
-   "title": "הרהיט שכדאי לוותר עליו במסדרון – ומה במקום"
+   "title": "הרהיט שכדאי לוותר עליו במסדרון – ומה לשים במקום"
   },
   "https://www.mako.co.il/living-home-styling/accessories/Article-e0fb7a1e297d0a1027.htm": {
    "check_attempts": 1,
@@ -15259,7 +15295,7 @@
    "indexnow_ms": 1791129026833,
    "published_ms": 1791126600000,
    "section": "גאווה",
-   "title": "כוכב הפופ הטורקי עומד להישלח לכלא - והסיבה מטורפת"
+   "title": "כוכב הפופ הטורקי עלול להישלח ל-3 שנות מאסר"
   },
   "https://www.mako.co.il/pride-news/Article-89ffee595f9a0a1026.htm": {
    "check_attempts": 1,
