@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791190349001,
+ "last_run_ms": 1791190648770,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14793,6 +14793,18 @@
    "section": "ספורט",
    "title": "זה רשמי: מסי רכש קבוצה. אלו הצעדים הבאים"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-2f93c489b3b01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791190586977,
+   "content_type": "article",
+   "first_seen_ms": 1791190586977,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791190380000,
+   "section": "ספורט",
+   "title": "המענק שלא הכרתם: הסכומים שבדרך לגדולות"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e42b2a6a8b7f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -18476,6 +18488,18 @@
    "published_ms": 1790141760000,
    "section": "חופש",
    "title": "עולם אחר: הגענו לאי הפרטי שכולם מדברים עליו כרגע"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-49adf163c1b01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791190586977,
+   "content_type": "article",
+   "first_seen_ms": 1791190586977,
+   "indexable": true,
+   "indexnow_ms": 1791190586977,
+   "published_ms": 1791185820000,
+   "section": "חופש",
+   "title": "שינוי בכל המסעדות: במדינה הזו נלחמים למען התיירים"
   },
   "https://www.mako.co.il/travel-news/international/Article-4ae1e36e3ea01a1027.htm": {
    "check_attempts": 1,

@@ -1,9 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w03/shorts-3b407a88069a0a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-6b2f8975c2601a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-cb804c3f32b01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-faa4c489b3b01a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22812,6 +22812,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8e37ef5e8e501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIR_RUSIA_041026/MASTER/SHIR_RUSIA_041026/SHIR_RUSIA_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "התמונה שפורסמה באינסטגרם של אמו של אריאל צולמה לפני כחודש, במהלך טיסה של Flydubai. אריאל התעקש להצטלם עם הטייס, והיום, בעקבות האסון, הרגע התמים הזה מקבל משמעות אחרת. \"כנראה שהוא הרגיש שהוא מצטלם עם גיבור\", כתבה אמו.",
+   "duration_s": 25,
+   "first_seen_ms": 1791190646068,
+   "image": "https://img.mako.co.il/2026/10/05/SHIR_PILOT_051026_1400_1791189406961_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791189413000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "הוא רק רצה להצטלם עם הטייס: התמונה התמימה שקיבלה משמעות מצמררת בדיעבד",
+   "type": "news",
+   "updated_ms": 1791189413000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_PILOT_051026/MASTER/SHIR_PILOT_051026/SHIR_PILOT_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ab01175498501a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -44914,6 +44932,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f8589946f5601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16716_04102026100340/M_NEWS_16716_04102026100340_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-faa4c489b3b01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרצוג בטקס הזיכרון לחללי 7.10: \"אסור להתעלם מאזהרות, מסימנים מדאיגים\"",
+   "duration_s": 43,
+   "first_seen_ms": 1791190646068,
+   "image": "https://img.mako.co.il/2026/10/05/V1_KARIND_HERZOG_6892_05102026085143_1400_1791190405028_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791190411000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרצוג בטקס הזיכרון לחללי 7.10: \"אסור להתעלם מאזהרות, מסימנים מדאיגים\"",
+   "type": "mivzakim",
+   "updated_ms": 1791190411000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-faa4c489b3b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_HERZOG_6892_05102026085143/V1_KARIND_HERZOG_6892_05102026085143_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
    "date_source": null,
@@ -63991,6 +64027,24 @@
    "updated_ms": 1791115667000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-050433e38c601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karin_kyiv_6855_04102026120626/V1_karin_kyiv_6855_04102026120626_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הילד שחה להנאתו בים בטורקיה - עד שתמנון ענק החליט להיצמד אליו | צפו",
+   "duration_s": 19,
+   "first_seen_ms": 1791190646068,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_tamnun_6893_05102026085230_1400_1791190433255_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791190440000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הילד שחה להנאתו בים בטורקיה - עד שתמנון ענק החליט להיצמד אליו | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1791190440000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_tamnun_6893_05102026085230/V1_karind_tamnun_6893_05102026085230_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-572aeb177f501a1027.htm": {
    "author": "מבזקים מהעולם",
