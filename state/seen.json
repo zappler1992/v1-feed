@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-18b869f61dd01a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-70c1ab0313d01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10908,6 +10908,24 @@
    "updated_ms": 1791136154000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6509d98cef701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/inbie_space_041026/MASTER/inbie_space_041026/inbie_space_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-70c1ab0313d01a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "העולם עוקב בדאגה אחר החשש להתפרצות דבר ברוסיה. בבית הלבן מגיבים לחשש: \"עוקבים מקרוב\". צפו במהדורות מרחבי העולם שעוקבות בדריכות אחר ההתפתחויות.",
+   "duration_s": 49,
+   "first_seen_ms": 1791241646109,
+   "image": "https://img.mako.co.il/2026/10/05/yoav_DEVER_051026_1400_1791223403671_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791223740000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "התפרצות המגיפה ברוסיה מדאיגה את העולם",
+   "type": "general",
+   "updated_ms": 1791223740000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-70c1ab0313d01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/yoav_DEVER_051026/MASTER/yoav_DEVER_051026/yoav_DEVER_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-972def5e8e501a1026.htm": {
    "author": "מהעולם",
@@ -23201,7 +23219,8 @@
    "importance": 2,
    "published_ms": 1791188713000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "למה מסיכות החמצן לא ירדו בטיסת הזוועות",
    "type": "news",
