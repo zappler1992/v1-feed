@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2cf89a687bc01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6d97c80ebc01a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0b2b9a687bc01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e6b97c80ebc01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43689,6 +43691,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-078b732b44a01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16752_05102026041936/M_NEWS_16752_05102026041936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0b2b9a687bc01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יום האבל הלאומי: דגל ישראל הורד לחצי התורן ברחבת הכותל",
+   "duration_s": 11,
+   "first_seen_ms": 1791215546449,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16801_05102026034743_1400_1791215335675_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791215342000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יום האבל הלאומי: דגל ישראל הורד לחצי התורן ברחבת הכותל",
+   "type": "mivzakim",
+   "updated_ms": 1791215342000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0b2b9a687bc01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16801_05102026034743/M_NEWS_16801_05102026034743_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c81884eeca01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45012,6 +45032,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b413325303b01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_PIGUA_6891_05102026083700/V1_KARIND_PIGUA_6891_05102026083700_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6d97c80ebc01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שקיעה מרהיבה כעת מול חופי אשדוד",
+   "duration_s": 9,
+   "first_seen_ms": 1791215546449,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16802_05102026034809_1400_1791215336032_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791215344000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שקיעה מרהיבה כעת מול חופי אשדוד",
+   "type": "mivzakim",
+   "updated_ms": 1791215344000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6d97c80ebc01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16802_05102026034809/M_NEWS_16802_05102026034809_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6f3ad20a2601a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45407,6 +45445,24 @@
    "updated_ms": 1791122280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e5a82c0b03701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIRA_FLYDUBAY_M/SHIRA_FLYDUBAY_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e6b97c80ebc01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופניים חשמליים כבן 20 במצב קשה לאחר שפגע מרכב במחלף לה גווארדיה בתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1791215546449,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16800_05102026034719_1400_1791215328553_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791215335000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופניים חשמליים כבן 20 במצב קשה לאחר שפגע מרכב במחלף לה גווארדיה בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1791215335000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e6b97c80ebc01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16800_05102026034719/M_NEWS_16800_05102026034719_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e77c8d260c501a1027.htm": {
    "author": "מבזקים",
