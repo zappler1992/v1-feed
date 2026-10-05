@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aa5c168405b01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21103d19d5b01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43646,6 +43646,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16770_05102026080931/M_NEWS_16770_05102026080931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21103d19d5b01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו בטקס האזכרה לנופלי שבעה באוקטובר: \"כל מי שחטף ישראלים חי על זמן שאול\"",
+   "duration_s": 40,
+   "first_seen_ms": 1791192446037,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_bibi_6896_05102026092306_1400_1791192293777_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791192300000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו בטקס האזכרה לנופלי שבעה באוקטובר: \"כל מי שחטף ישראלים חי על זמן שאול\"",
+   "type": "mivzakim",
+   "updated_ms": 1791192300000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21103d19d5b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_bibi_6896_05102026092306/V1_karind_bibi_6896_05102026092306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21ea6a883a601a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44480,18 +44498,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aa5c168405b01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "פיקוד צפון: בשעות הקרובות צפוי גל תקיפות בחזית לבנון - הדי פיצוצים יישמעו ברחבי הצפון",
+   "description": "פיקוד צפון: בשעות הקרובות צפוי גל תקיפות בחזית לבנון - הדי פיצוצים יישמעו בגליל המערבי וצפון הגולן",
    "duration_s": 9,
    "first_seen_ms": 1791191846043,
    "image": "https://img.mako.co.il/2026/10/05/V1_karind_lebanon_6895_05102026091042_1400_1791191556481_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791191562000,
    "sections": [
     "מבזקים"
    ],
-   "title": "פיקוד צפון: בשעות הקרובות צפוי גל תקיפות בחזית לבנון - הדי פיצוצים יישמעו ברחבי הצפון",
+   "title": "פיקוד צפון: גל תקיפות צפוי בשעות הקרובות - הדי פיצוצים בגליל המערבי ובצפון הגולן",
    "type": "mivzakim",
-   "updated_ms": 1791191562000,
+   "updated_ms": 1791192120000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aa5c168405b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_lebanon_6895_05102026091042/V1_karind_lebanon_6895_05102026091042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

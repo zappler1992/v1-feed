@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21103d19d5b01a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T09:25:00+00:00</news:publication_date>
+<news:title>נתניהו בטקס האזכרה לנופלי שבעה באוקטובר: &quot;כל מי שחטף ישראלים חי על זמן שאול&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_bibi_6896_05102026092306_1400_1791192293777_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aa5c168405b01a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-05T09:12:42+00:00</news:publication_date>
-<news:title>פיקוד צפון: בשעות הקרובות צפוי גל תקיפות בחזית לבנון - הדי פיצוצים יישמעו ברחבי הצפון</news:title>
+<news:title>פיקוד צפון: גל תקיפות צפוי בשעות הקרובות - הדי פיצוצים בגליל המערבי ובצפון הגולן</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_lebanon_6895_05102026091042_1400_1791191556481_FirstFrame.jpg</image:loc></image:image>
 </url>
@@ -1781,14 +1790,5 @@
 <news:title>צה״ל תוקף בדרום לבנון</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16655_03102026094158_1400_1791020591029_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-7dbc8a07d0101a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T09:26:08+00:00</news:publication_date>
-<news:title>הנהג איבד הכרה - הנוסעים השתלטו על ההגה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/biata_driver_031026_1400_1791019561784_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
