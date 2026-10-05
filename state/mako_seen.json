@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791184949577,
+ "last_run_ms": 1791185248674,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6369,6 +6369,18 @@
    "section": "סלבס",
    "title": "פער של 14 שנה: הזוגיות החדשה של ליהי טולדנו"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-027e3f5339a01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791185187303,
+   "content_type": "article",
+   "first_seen_ms": 1791185187303,
+   "indexable": true,
+   "indexnow_ms": 1791185187303,
+   "published_ms": 1791184740000,
+   "section": "סלבס",
+   "title": "כבר נגמר? יוצא הריאליטי ובת הזוג החדשה נפרדו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0531724c0ecf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10484,6 +10496,18 @@
    "published_ms": 1790500620000,
    "section": "HIX",
    "title": "\"20 שנה אני בתפקיד ומעולם לא ראיתי דבר כזה\""
+  },
+  "https://www.mako.co.il/hix-special/Article-8f75e36e3ea01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791185187303,
+   "content_type": "article",
+   "first_seen_ms": 1791185187303,
+   "indexable": true,
+   "indexnow_ms": 1791185187303,
+   "published_ms": 1791184980000,
+   "section": "HIX",
+   "title": "עונו באכזריות בידי הוריהם, וזה הפיצוי שקיבלו"
   },
   "https://www.mako.co.il/hix-special/Article-a121aa05c77e0a1026.htm": {
    "check_attempts": 1,
@@ -16940,6 +16964,18 @@
    "published_ms": 1790419620000,
    "section": "",
    "title": "אחרי האיום בחרם על ישראל: ההחלטה של אירלנד"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-4f43884eeca01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-4f43884eeca01a1026.htm",
+   "checked_ms": 1791185187303,
+   "content_type": "article",
+   "first_seen_ms": 1791185187303,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791184200000,
+   "section": "",
+   "title": "ראש הממשלה האנטי-ישראלי הכריז על נפילת הממשלה"
   },
   "https://www.mako.co.il/special-mako-news/Article-507c0d18959d0a1027.htm": {
    "check_attempts": 1,
