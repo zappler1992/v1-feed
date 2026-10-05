@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-31cd325303b01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b413325303b01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-51d1325303b01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43810,6 +43811,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-50abad20a2601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_ABOLA_6840_04102026090802/V1_KARIND_ABOLA_6840_04102026090802_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-51d1325303b01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 80 פונה לביה\"ח בלינסון במצב בינוני לאחר שרכבו התהפך בתאונה בכביש 5",
+   "duration_s": 9,
+   "first_seen_ms": 1791189746055,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16771_05102026083557_1400_1791189429111_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791189435000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 80 פונה לביה\"ח בלינסון במצב בינוני לאחר שרכבו התהפך בתאונה בכביש 5",
+   "type": "mivzakim",
+   "updated_ms": 1791189435000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-51d1325303b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16771_05102026083557/M_NEWS_16771_05102026083557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-51dd8069cf401a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44423,6 +44442,24 @@
    "updated_ms": 1791181889000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b406fe835ba01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_USA_6880_05102026063036/V1_KARIND_USA_6880_05102026063036_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b413325303b01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "החשד לפיגוע בהר חברון: ניסיון דריסה של כוח צבאי באזור בני נעים. אין פצועים והחשודים נוטרלו",
+   "duration_s": 35,
+   "first_seen_ms": 1791189746055,
+   "image": "https://img.mako.co.il/2026/10/05/V1_KARIND_PIGUA_6891_05102026083700_1400_1791189520678_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791189527000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "החשד לפיגוע בהר חברון: ניסיון דריסה של כוח צבאי באזור בני נעים. אין פצועים והחשודים נוטרלו",
+   "type": "mivzakim",
+   "updated_ms": 1791189527000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b413325303b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_PIGUA_6891_05102026083700/V1_KARIND_PIGUA_6891_05102026083700_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6f3ad20a2601a1027.htm": {
    "author": "מבזקים",
