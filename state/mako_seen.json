@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791222750745,
+ "last_run_ms": 1791223049671,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5074,6 +5074,18 @@
    "published_ms": 1790885400000,
    "section": "ספורט",
    "title": "רביעייה ב-22 דקות: ההצגה של חלוץ ריאל"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-fe3f4d0ce1d01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791222987190,
+   "content_type": "article",
+   "first_seen_ms": 1791222987190,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791222240000,
+   "section": "ספורט",
+   "title": "הכוכב בן ה-22: \"כבר עשיר, לא צריך לרוץ\""
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q3_2026/Article-391c077c47fc0a1026.htm": {
    "check_attempts": 1,
@@ -14960,6 +14972,18 @@
    "published_ms": 1790711100000,
    "section": "",
    "title": "האזהרה של נתניהו - והתגובה במערכת הביטחון"
+  },
+  "https://www.mako.co.il/news-military/2026_q4/Article-8bd422593dc01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791223049671,
+   "content_type": "article",
+   "first_seen_ms": 1791223049671,
+   "indexable": true,
+   "indexnow_ms": 1791223049671,
+   "published_ms": 1791222240000,
+   "section": "",
+   "title": "\"רציתי נקמה על עזה\": מה שסיפר הטייס המחבל לחוקרים"
   },
   "https://www.mako.co.il/news-military/2026_q4/Article-e1ba5df6766f0a1027.htm": {
    "check_attempts": 1,
