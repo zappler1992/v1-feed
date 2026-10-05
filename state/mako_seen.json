@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791189150215,
+ "last_run_ms": 1791189448703,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2148,6 +2148,18 @@
    "published_ms": 1791111600000,
    "section": "ספורט",
    "title": "דני לפני יאניס: הדראפט שנערך על כל ה-NBA"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-b83bed8a13b01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791189387070,
+   "content_type": "article",
+   "first_seen_ms": 1791189387070,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791189300000,
+   "section": "ספורט",
+   "title": "82 דקות מכספי: אבדיה בדרך להיסטוריה חדשה"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-d4b435ba35bf0a1026.htm": {
    "check_attempts": 1,
@@ -16496,6 +16508,18 @@
    "published_ms": 1790142300000,
    "section": "צבא וביטחון",
    "title": "ארה\"ב תסכים? התנאי האיראני החדש לסיום המלחמה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-c94116e9a2b01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791189387070,
+   "content_type": "article",
+   "first_seen_ms": 1791189387070,
+   "indexable": true,
+   "indexnow_ms": 1791189387070,
+   "published_ms": 1791189000000,
+   "section": "",
+   "title": "מרצה בבר אילן תכנן רצח ערבים המוני"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ca31c8f08f2e0a1027.htm": {
    "check_attempts": 1,
