@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9e25e36e3ea01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a67f0411afa01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ccfd0411afa01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44186,6 +44187,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a37c4bee14501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_TELSHEVA_6827_04102026050229/V1_KARIND_TELSHEVA_6827_04102026050229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a67f0411afa01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשל חפץ חשוד בקרבת המסילה באזור גנות, הופסקה זמנית תנועת הרכבות בין תחנות ת\"א ההגנה ולוד",
+   "duration_s": 9,
+   "first_seen_ms": 1791186146508,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16768_05102026073552_1400_1791185807541_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791185814000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשל חפץ חשוד בקרבת המסילה באזור גנות, הופסקה זמנית תנועת הרכבות בין תחנות ת\"א ההגנה ולוד",
+   "type": "mivzakim",
+   "updated_ms": 1791185814000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a67f0411afa01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16768_05102026073552/M_NEWS_16768_05102026073552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a9b263980d501a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44475,6 +44494,24 @@
    "updated_ms": 1791110285000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ccd36567f6601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_TAYAS_041026_6848_04102026103641/V1_KARIND_TAYAS_041026_6848_04102026103641_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ccfd0411afa01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגלל חפץ חשוד: הופסקה זמנית תנועת הרכבות בין תחנות ת\"א ההגנה ולוד",
+   "duration_s": 9,
+   "first_seen_ms": 1791186146508,
+   "image": "https://img.mako.co.il/2026/10/05/V1_KARIND_TRAIN_6885_05102026073253_1400_1791185751185_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791185757000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגלל חפץ חשוד: הופסקה זמנית תנועת הרכבות בין תחנות ת\"א ההגנה ולוד",
+   "type": "mivzakim",
+   "updated_ms": 1791185757000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ccfd0411afa01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_TRAIN_6885_05102026073253/V1_KARIND_TRAIN_6885_05102026073253_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cfd8ddc40b701a1026.htm": {
    "author": "מבזקים",
