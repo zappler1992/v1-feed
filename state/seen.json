@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-864e774216a01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f973f5339a01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5300,7 +5300,7 @@
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-864e774216a01a1027.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
-   "description": "לאחר שחשפה שהיא מתמודדת עם סרטן - עוגת המח של עינת ארליך לכבוד יום הולדתה",
+   "description": "לאחר שחשפה שהיא מתמודדת עם סרטן: עוגת המח של עינת ארליך לכבוד ארוחת ההודיה",
    "duration_s": 30,
    "first_seen_ms": 1791178046450,
    "image": "https://img.mako.co.il/2026/10/05/V1_karind_cake_6878_05102026050705_1400_1791176895449_FirstFrame.jpg",
@@ -5309,9 +5309,9 @@
    "sections": [
     "סלבס"
    ],
-   "title": "לאחר שחשפה שהיא מתמודדת עם סרטן - עוגת המח של עינת ארליך לכבוד יום הולדתה",
+   "title": "לאחר שחשפה שהיא מתמודדת עם סרטן: עוגת המח של עינת ארליך לכבוד ארוחת ההודיה",
    "type": "mivzakim",
-   "updated_ms": 1791176901000,
+   "updated_ms": 1791179520000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-864e774216a01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_cake_6878_05102026050705/V1_karind_cake_6878_05102026050705_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -43427,6 +43427,24 @@
    "updated_ms": 1791088288000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_rahat_041026_6823_04102026043021/V1_karind_rahat_041026_6823_04102026043021_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f973f5339a01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מראה נדיר: העגורים של עונת הנדידה הגיעו הלילה לאגמון החולה. צילום: עינבר שלומית רובין",
+   "duration_s": 46,
+   "first_seen_ms": 1791179846493,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_agurim_6879_05102026055419_1400_1791179750999_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791179757000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מראה נדיר: העגורים של עונת הנדידה הגיעו הלילה לאגמון החולה. צילום: עינבר שלומית רובין",
+   "type": "mivzakim",
+   "updated_ms": 1791179757000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f973f5339a01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_agurim_6879_05102026055419/V1_karind_agurim_6879_05102026055419_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21ea6a883a601a1026.htm": {
    "author": "מבזקים",
