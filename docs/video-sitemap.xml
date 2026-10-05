@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bed54c3f32b01a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/05/V1_karind_barilan_6889_05102026082802_1400_1791188958468_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כתב אישום חריג: מרצה למתמטיקה בבר אילן תכנן פיגועים נגד מאות ערבים בישראל</video:title>
+<video:description>כתב אישום חריג: מרצה למתמטיקה בבר אילן תכנן פיגועים נגד מאות ערבים בישראל</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_barilan_6889_05102026082802/V1_karind_barilan_6889_05102026082802_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-05T08:29:24+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/05/M_NEWS_16770_05102026080931_1400_1791187856968_FirstFrame.jpg</video:thumbnail_loc>
@@ -273,6 +289,7 @@
 <video:uploader>חדשות</video:uploader>
 <video:tag>הכי Vיראלים</video:tag>
 <video:tag>רק בישראל</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -306,6 +323,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>

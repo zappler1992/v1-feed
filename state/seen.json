@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bed54c3f32b01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5307,7 +5307,8 @@
    "importance": 2,
    "published_ms": 1791176901000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "לאחר שחשפה שהיא מתמודדת עם סרטן: עוגת המח של עינת ארליך לכבוד ארוחת ההודיה",
    "type": "mivzakim",
@@ -22854,7 +22855,8 @@
    "published_ms": 1791179027000,
    "sections": [
     "הכי Vיראלים",
-    "רק בישראל"
+    "רק בישראל",
+    "הכי נצפים עכשיו"
    ],
    "title": "שברו את האינטרנט: הזוג הישראלי שקעקע את הסייב דה דייט",
    "type": "news",
@@ -44493,6 +44495,24 @@
    "updated_ms": 1791173313000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-be4b501063a01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_STIV_TAHAZIT_6872_05102026040644/V1_STIV_TAHAZIT_6872_05102026040644_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bed54c3f32b01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כתב אישום חריג: מרצה למתמטיקה בבר אילן תכנן פיגועים נגד מאות ערבים בישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1791189146205,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_barilan_6889_05102026082802_1400_1791188958468_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791188964000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כתב אישום חריג: מרצה למתמטיקה בבר אילן תכנן פיגועים נגד מאות ערבים בישראל",
+   "type": "mivzakim",
+   "updated_ms": 1791188964000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bed54c3f32b01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_barilan_6889_05102026082802/V1_karind_barilan_6889_05102026082802_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c01a12d9bc401a1027.htm": {
    "author": "מבזקים",
