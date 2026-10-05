@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791180449148,
+ "last_run_ms": 1791180749194,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6153,6 +6153,18 @@
    "section": "",
    "title": "בעיתון האמריקאי: התגובה של עומר שם טוב לנז\"א"
   },
+  "https://www.mako.co.il/culture-articles/Article-e69f3f5339a01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791180507335,
+   "content_type": "article",
+   "first_seen_ms": 1791180507335,
+   "indexable": true,
+   "indexnow_ms": 1791180507335,
+   "published_ms": 1791180120000,
+   "section": "תרבות tvbee",
+   "title": "הכישלון של טום קרוז - ותגובת האולפנים"
+  },
   "https://www.mako.co.il/culture-articles/Article-ea3ba9224a7e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10783,7 +10795,7 @@
    "indexnow_ms": 1791169948938,
    "published_ms": 1791169680000,
    "section": "",
-   "title": "\"האבא נפל ב-7 באוקטובר, ומאז כל ילד צריך משהו אחר\""
+   "title": "\"האבא נפל ב-7.10, ומאז כל ילד צריך משהו אחר\""
   },
   "https://www.mako.co.il/home-family-kids/Article-8b0e7a72b16f0a1027.htm": {
    "check_attempts": 1,
