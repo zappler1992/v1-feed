@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791186150514,
+ "last_run_ms": 1791186449089,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6140,6 +6140,18 @@
    "published_ms": 1790841540000,
    "section": "תרבות tvbee",
    "title": "\"שתזדיין פלסטין\": העימות עם אגדת הקולנוע"
+  },
+  "https://www.mako.co.il/culture-articles/Article-d22350e7bfa01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791186449089,
+   "content_type": "article",
+   "first_seen_ms": 1791186449089,
+   "indexable": true,
+   "indexnow_ms": 1791186449089,
+   "published_ms": 1791186240000,
+   "section": "",
+   "title": "השחקן והזמר אילי גורליצקי הלך לעולמו"
   },
   "https://www.mako.co.il/culture-articles/Article-d37cb3f7407f0a1026.htm": {
    "check_attempts": 1,
@@ -18715,7 +18727,7 @@
    "indexnow_ms": 1791176907083,
    "published_ms": 1791174660000,
    "section": "חופש",
-   "title": "\"תקיפות ללא התראה\": אזהרת מסע חמורה למדינה המתוירת"
+   "title": "אזהרת מסע חמורה לתיירים שנמצאים במדינה היפה"
   },
   "https://www.mako.co.il/travel-news/international/Article-df508050d12f0a1026.htm": {
    "check_attempts": 1,
