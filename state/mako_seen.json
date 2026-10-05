@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791170850075,
+ "last_run_ms": 1791171149018,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9847,7 +9847,7 @@
    "indexnow_ms": 1791169948938,
    "published_ms": 1791169200000,
    "section": "",
-   "title": "מהיום תורגש התקררות, ומחר כבר נרגש התחלה של חורף"
+   "title": "מהיום תורגש התקררות, ומחר כבר נרגיש התחלה של חורף"
   },
   "https://www.mako.co.il/hix-nature/Article-2c3af7cbda8c0a1027.htm": {
    "check_attempts": 1,
@@ -16460,6 +16460,18 @@
    "published_ms": 1790535780000,
    "section": "",
    "title": "אחרי סערת ההתרעה: נתניהו ביקר בחשאי באמירויות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-2c879a53fd701a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-2c879a53fd701a1027.htm",
+   "checked_ms": 1791171026788,
+   "content_type": "article",
+   "first_seen_ms": 1791171026788,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791170820000,
+   "section": "",
+   "title": "השב\"כ התריע שלוש פעמים - השרה רגב לא קיבלה"
   },
   "https://www.mako.co.il/special-mako-news/Article-2d58fa1495ac0a1027.htm": {
    "check_attempts": 1,
