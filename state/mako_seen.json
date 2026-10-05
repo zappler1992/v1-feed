@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791205648704,
+ "last_run_ms": 1791205948889,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4008,6 +4008,18 @@
    "published_ms": 1790745540000,
    "section": "ספורט",
    "title": "לפני 7 בבוקר: המאמן שפוטר הבוקר מהלאומית"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-9f1c482082c01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791205948889,
+   "content_type": "article",
+   "first_seen_ms": 1791205948889,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791205800000,
+   "section": "ספורט",
+   "title": "חשיפה: הבעלים שבדרך לרכישת הפועל ראשל\"צ"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-e5fe0d05dfdf0a1027.htm": {
    "check_attempts": 1,
