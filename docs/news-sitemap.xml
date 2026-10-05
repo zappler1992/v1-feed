@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a9ef054f79b01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T10:32:35+00:00</news:publication_date>
+<news:title>תיעוד קשה: נופשים בכנרת נפצעו בעקבות גזייה שהתפוצצה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/M_NEWS_16787_05102026103131_1400_1791196349065_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dde331e5b7b01a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1772,14 +1781,5 @@
 <news:title>פורעים ישראלים בשומרון יידו אבנים על רכבים וניפצו שמשות, פלסטיני פצוע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_ayosh_6800_03102026110152_1400_1791025393241_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-fd9c7be394101a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T10:37:18+00:00</news:publication_date>
-<news:title>נהג משאית באזור סכר נרגסי סמוך לשיראז שבאיראן איבד שליטה בבלמים - והתרסק</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_truck_6799_03102026103557_1400_1791023832376_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
