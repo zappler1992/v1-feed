@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791218849159,
+ "last_run_ms": 1791219149120,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4666,6 +4666,18 @@
    "published_ms": 1791205500000,
    "section": "ספורט",
    "title": "עובדיה: \"מחאה היא לגיטימית, ביזוי לא\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9d3facdd0fc01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791219149120,
+   "content_type": "article",
+   "first_seen_ms": 1791219149120,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791218760000,
+   "section": "ספורט",
+   "title": "בפנקס שלהם: מועדון הפאר שבעקבות זערורה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a8eb5b3766df0a1027.htm": {
    "check_attempts": 1,
