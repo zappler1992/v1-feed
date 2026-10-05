@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791176849079,
+ "last_run_ms": 1791177149115,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7916,6 +7916,18 @@
    "published_ms": 1790764380000,
    "section": "כסף",
    "title": "בעקבות הדרמה: מניות התעופה הישראליות מזנקות"
+  },
+  "https://www.mako.co.il/finances-news/Article-685ede9d7d601a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791176907083,
+   "content_type": "article",
+   "first_seen_ms": 1791176907083,
+   "indexable": true,
+   "indexnow_ms": 1791176907083,
+   "published_ms": 1791176580000,
+   "section": "",
+   "title": "\"אנשים לא מבינים כמה כסף מחכה להם\""
   },
   "https://www.mako.co.il/finances-news/Article-6bd0a70fb08c0a1027.htm": {
    "check_attempts": 1,
@@ -18381,6 +18393,18 @@
    "section": "",
    "title": "החברה פשטה רגל - מאות ישראלים תקועים בחו\"ל"
   },
+  "https://www.mako.co.il/travel-news/international/Article-ddc5f9da52701a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791176907083,
+   "content_type": "article",
+   "first_seen_ms": 1791176907083,
+   "indexable": true,
+   "indexnow_ms": 1791176907083,
+   "published_ms": 1791174660000,
+   "section": "חופש",
+   "title": "אזהרת מסע חמורה לתיירים שנמצאים במדינה היפה"
+  },
   "https://www.mako.co.il/travel-news/international/Article-df508050d12f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18632,6 +18656,18 @@
    "published_ms": 1790591760000,
    "section": "",
    "title": "הקו הישיר והבלעדי מנתב\"ג ליעד שהישראלים אוהבים חוזר"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-ccb25da495a01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791176907083,
+   "content_type": "article",
+   "first_seen_ms": 1791176907083,
+   "indexable": true,
+   "indexnow_ms": 1791176907083,
+   "published_ms": 1791175500000,
+   "section": "חופש",
+   "title": "הטיסות הישירות לאחד המקומות היפים בעולם חוזרות"
   },
   "https://www.mako.co.il/travel-news/israel/Article-dfb970f88b501a1026.htm": {
    "check_attempts": 1,
