@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791199350878,
+ "last_run_ms": 1791199650561,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6177,6 +6177,18 @@
    "section": "",
    "title": "סילבסטר סטאלון: \"נהייתי בולימי מרוב אובססיה\""
   },
+  "https://www.mako.co.il/culture-articles/Article-b7e961fd5bb01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791199587749,
+   "content_type": "article",
+   "first_seen_ms": 1791199587749,
+   "indexable": true,
+   "indexnow_ms": 1791199587749,
+   "published_ms": 1791199260000,
+   "section": "תרבות tvbee",
+   "title": "לצד שחר חסון: התפקיד החדש של אורי ברויר"
+  },
   "https://www.mako.co.il/culture-articles/Article-bf833506754d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10052,6 +10064,18 @@
    "published_ms": 1790772720000,
    "section": "HIX",
    "title": "\"היא יצאה לקרוז והשאירה את הילדים לבד בבית\""
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-3100229f8cb01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791199650561,
+   "content_type": "article",
+   "first_seen_ms": 1791199650561,
+   "indexable": true,
+   "indexnow_ms": 1791199650561,
+   "published_ms": 1791199440000,
+   "section": "HIX",
+   "title": "\"כאן זה לא מקסיקו. תעופו בחזרה למקסיקו\""
   },
   "https://www.mako.co.il/hix-bizarre/Article-4761124aa13d0a1027.htm": {
    "check_attempts": 1,
