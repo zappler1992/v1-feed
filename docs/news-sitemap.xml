@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2ab04d0ce1d01a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T17:49:36+00:00</news:publication_date>
+<news:title>רוכב קורקינט חשמלי בן 38 נפצע בינוני מפגיעת רכב בנתניה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/M_NEWS_16804_05102026054831_1400_1791222569872_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d08117f961d01a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1853,14 +1862,5 @@
 <news:title>הטייס ההודי בשיחה עם נתניהו: &quot;הוא אמר שהוא רוצה להתפלל, ואז הכה אותי&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16671_03102026055431_1400_1791050201460_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-25fe352f2d201a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T17:47:34+00:00</news:publication_date>
-<news:title>רוכב קורקינט בן 30 נפצע קשה לאחר שהתנגש בעמוד בנתניה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16670_03102026054607_1400_1791049647997_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
