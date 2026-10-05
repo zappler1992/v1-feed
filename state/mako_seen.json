@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791223649399,
+ "last_run_ms": 1791223949225,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7496,6 +7496,18 @@
    "published_ms": 1790516700000,
    "section": "סלבס",
    "title": "\"אהבה גדולה זה לא דבר שמספיק כדי לבנות עתיד\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-fcb34d0ce1d01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791223949225,
+   "content_type": "article",
+   "first_seen_ms": 1791223949225,
+   "indexable": true,
+   "indexnow_ms": 1791223949225,
+   "published_ms": 1791222780000,
+   "section": "",
+   "title": "גיא זו-ארץ תוקף את נתניהו: \"בלי חמלה, ללא בושה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-10a0f9ab268d0a1026.htm": {
    "check_attempts": 1,
@@ -15500,6 +15512,18 @@
    "published_ms": 1791190380000,
    "section": "ספורט",
    "title": "המענק שלא הכרתם: הסכומים שבדרך לגדולות"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-d53f17f961d01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791223949225,
+   "content_type": "article",
+   "first_seen_ms": 1791223949225,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791221640000,
+   "section": "ספורט",
+   "title": "לא פשוט: מי משחקני הנבחרת שווה יותר?"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e42b2a6a8b7f0a1026.htm": {
    "check_attempts": 1,
