@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-6b2f8975c2601a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T08:46:00+00:00</news:publication_date>
+<news:title>מסודרים פרק 52: נשיקה במטוס הפרטי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/04/LOADED_EP52_1400_1791105264788_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w03/shorts-3b407a88069a0a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T08:43:00+00:00</news:publication_date>
+<news:title>אהבה מעבר לפינה פרק 21: מתחיל לחשוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/16/LOVE_CORNER_EP21_M_1400_1789548275987_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b413325303b01a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -35,6 +53,15 @@
 <news:title>כתב אישום חריג: מרצה למתמטיקה בבר אילן תכנן פיגועים נגד מאות ערבים בישראל</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_barilan_6889_05102026082802_1400_1791188958468_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-cb804c3f32b01a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T08:25:13+00:00</news:publication_date>
+<news:title>למה מסיכות החמצן לא ירדו בטיסת הזוועות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/biata_oxygenmask_051026_1400_1791188706040_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm</loc>
@@ -1718,23 +1745,5 @@
 <news:title>בקצב השקר פרק 6: המתחזה מאשימה בגניבה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/01/ACADEMY_OF_LIES_EP06_1400_1790857985405_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/loaded-magazine/2026-m09_w05/shorts-a8d12cc5f32f0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T08:51:00+00:00</news:publication_date>
-<news:title>מסודרים פרק 50: יורקת לבאר שהוא קנה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/30/LOADED_EP50_1400_1790771173688_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-8ad36d14d8180a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T08:48:00+00:00</news:publication_date>
-<news:title>אהבה מעבר לפינה פרק 19: קורא לחבר לעזרה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/08/LOVE_CORNER_EP19_M_1400_1788881563839_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
