@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d8fc099538d01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T19:35:06+00:00</news:publication_date>
+<news:title>טראמפ חושף: איום ספציפי הקשור לאיראן הוביל לפינוי המפציצים מהבסיס בבריטניה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_trumposiran_6923_05102026073326_1400_1791228899703_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1759ac853d01a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1817,14 +1826,5 @@
 <news:title>הבקשה המפתיעה של הרוצחת רגע לפני הוצאתה להורג</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/Kim_Murderer_03102026_1400_1791058969272_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-9363e57863301a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T19:35:30+00:00</news:publication_date>
-<news:title>יועז הנדל: &quot;אני מאוד מעריך את אייזנקוט, אבל אני לא מסכים איתו על הרבה דברים, אני איש ימין, אני לא חו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16676_03102026073343_1400_1791056124101_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
