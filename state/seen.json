@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ceda3f5339a01a1026.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -12455,7 +12457,7 @@
   "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w05/shorts-72012dae162e0a1026.htm": {
    "author": "כשהגלים מתחזקים 2",
    "date_source": "json-publishDate",
-   "description": "כשהגלים מתחזקים 2 - פרק 46: היום הגדול של מורן והראל הגיע, וכל החבורה מתאספת לחגוג איתם בחתונה. בין החופה, הנשיקות והחברים, גם רותי ואלמוג מסתכלים על האהבה שלהם אחרת לגמרי אחרי כל מה שעברו. אלמוג כבר לא מנסה לברוח ממה שהוא מרגיש, ורותי יודעת בדיוק איפה היא רוצה להיות. כשהערב מתקדם, מתברר שהחתונה הזאת אולי פתחה את התיאבון לעוד אחת.",
+   "description": "כשהגלים מתחזקים 2 - פרק 46: היום הגדול של מורן והראל הגיע, וכל החבורה מתאספת לחגוג איתם בחתונה. בין החופה, הנשיקות והחברים, גם רותי ואלמוג מסתכלים על האהבה שלהם אחרת לגמרי אחרי כל מה שעברו. אלמוג כבר לא מנסה לברוח ממה שהוא מרגיש, ורותי יודעת בדיוק איפה היא רוצה להיות. כשהערב מתקדם, מתברר שהחתונה הזאת אולי פתחה את התיאבון לעוד אחת",
    "duration_s": 234,
    "first_seen_ms": 1790780546443,
    "image": "https://img.mako.co.il/2026/09/27/GROWING_WAVES_2_EP46_1400_1790505036841_FirstFrame.jpg",
@@ -12470,7 +12472,7 @@
    "type": "series",
    "updated_ms": 1790780400000,
    "url": "https://www.v-1.co.il/growing_waves_2-magazine/2026-m09_w05/shorts-72012dae162e0a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/GROWING_WAVES_2_EP46/MASTER/GROWING_WAVES_2_EP46/GROWING_WAVES_2_EP46_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/FIX_GROWING_WAVES_2_EP46/FIX_GROWING_WAVES_2_EP46_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/hot_takes-magazine/2026-m06_w05/shorts-32fe826062e0f91027.htm": {
    "author": "חדשות לוהטות",
@@ -22822,6 +22824,24 @@
    "updated_ms": 1791131965000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-bcd0ddc40b701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/biata_flights1_041026/MASTER/biata_flights1_041026/biata_flights1_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ceda3f5339a01a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מגיע להם מזל טוב - הזוג הישראלי שקעקע את הסייב דה דייט שלהם.",
+   "duration_s": 31,
+   "first_seen_ms": 1791181946526,
+   "image": "https://img.mako.co.il/2026/10/05/SHIR_SAVE_051026_1400_1791179021307_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791179027000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "שברו את האינטרנט: הזוג הישראלי שקעקע את הסייב דה דייט",
+   "type": "news",
+   "updated_ms": 1791179027000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ceda3f5339a01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_SAVE_051026/MASTER/SHIR_SAVE_051026/SHIR_SAVE_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm": {
    "author": "חדשות",
