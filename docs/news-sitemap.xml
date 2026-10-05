@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a9457c80ebc01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T16:08:45+00:00</news:publication_date>
+<news:title>יותר מ-24 שעות: הישראלים שנתקעו בברצלונה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/Kim_Flight_05102026_1400_1791216519003_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6d97c80ebc01a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1853,14 +1862,5 @@
 <news:title>המחלוקת סביב כבודת הישראלים בדובאי: חברת המטען צ׳אלנג׳ איירליינס הישראלית קיבלה אישור להטיס ארצה את</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16667_03102026042737_1400_1791044938579_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-5de2ff5be7201a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T16:15:27+00:00</news:publication_date>
-<news:title>פני הרוע נחשפים: מחדל הטייס המחבל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/Kim_1_03102026_1400_1791044120241_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
