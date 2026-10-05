@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791191849680,
+ "last_run_ms": 1791192148637,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3696,6 +3696,18 @@
    "published_ms": 1790869440000,
    "section": "ספורט",
    "title": "זמן לשינוי: פתרונות אפשריים לנבחרת ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-b796943305b01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791192148637,
+   "content_type": "article",
+   "first_seen_ms": 1791192148637,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791191940000,
+   "section": "ספורט",
+   "title": "בואו ניפרד? הסיפור מאחורי הדרישה האירית"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-b96c0c1a1b8f0a1027.htm": {
    "check_attempts": 1,
@@ -9693,6 +9705,18 @@
    "section": "",
    "title": "משרד הבריאות סגר את בית החולים בתל אביב"
   },
+  "https://www.mako.co.il/health-news/Article-9dfd0411afa01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791192027127,
+   "content_type": "article",
+   "first_seen_ms": 1791192027127,
+   "indexable": true,
+   "indexnow_ms": 1791192027127,
+   "published_ms": 1791190440000,
+   "section": "",
+   "title": "10 ילדים אושפזו מאותה סיבה: \"עלול לגרום לזיהום קשה\""
+  },
   "https://www.mako.co.il/health-news/Article-9e20e4657e7c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15524,6 +15548,18 @@
    "published_ms": 1790155620000,
    "section": "דיגיטל",
    "title": "טראמפ החליט לשנות את המונח החשוב בעולם"
+  },
+  "https://www.mako.co.il/nexter-news/Article-b977fc8d54b01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791192148637,
+   "content_type": "article",
+   "first_seen_ms": 1791192148637,
+   "indexable": true,
+   "indexnow_ms": 1791192148637,
+   "published_ms": 1791191100000,
+   "section": "דיגיטל",
+   "title": "סם אלטמן: \"העולם צריך לקבל שיקרו דברים רעים בגלל AI\""
   },
   "https://www.mako.co.il/nexter-news/Article-d99d549085dc0a1027.htm": {
    "check_attempts": 1,
