@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9ff13d19d5b01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5300,16 +5300,16 @@
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-6c64fc8d54b01a1026.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
-   "description": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו הראשונה - דנה צבאג, דוגמנית בת 29",
+   "description": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו החדשה - דנה צבאג, דוגמנית בת 29",
    "duration_s": 15,
    "first_seen_ms": 1791191246051,
    "image": "https://img.mako.co.il/2026/10/05/FIX_AVNER_1400_1791191278637_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791190966000,
    "sections": [],
-   "title": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו הראשונה - דנה צבאג, דוגמנית בת 29",
+   "title": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו החדשה - דנה צבאג בת 29",
    "type": "mivzakim",
-   "updated_ms": 1791191220000,
+   "updated_ms": 1791193320000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-6c64fc8d54b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/FIX_AVNER/FIX_AVNER_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -44151,6 +44151,24 @@
    "updated_ms": 1791083507000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7589017e3e401a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16685_04102026031041/M_NEWS_16685_04102026031041_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קבר הרמב\"ם: גבר בן 44 פונה עם דופק בתום פעולות החייאה לאחר שהתמוטט במתחם",
+   "duration_s": 9,
+   "first_seen_ms": 1791193645918,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16774_05102026094129_1400_1791193374622_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791193381000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קבר הרמב\"ם: גבר בן 44 פונה עם דופק בתום פעולות החייאה לאחר שהתמוטט במתחם",
+   "type": "mivzakim",
+   "updated_ms": 1791193381000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16774_05102026094129/M_NEWS_16774_05102026094129_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7881b442d6a01a1026.htm": {
    "author": "מבזקים",
