@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8a7bbe3eddb01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T11:44:03+00:00</news:publication_date>
+<news:title>את זה תראו רק בספרד: עשרות אנשים מטפסים זה על זה ובונים מגדל אנושי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_KARIND_SPAIN_6903_05102026114236_1400_1791200636384_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dd0c229f8cb01a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1763,23 +1772,5 @@
 <news:title>״גייז פור פלסטיין״: טראמפ עם הצעה מעניינת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16660_03102026120939_1400_1791029476290_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w01/shorts-c82a3d57bf001a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T11:46:00+00:00</news:publication_date>
-<news:title>מעל 300 פצועים - אובדן השליטה בצרפת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/SHIR_FRANCE_031026_1_1400_1791018087357_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-79047be394101a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T11:43:08+00:00</news:publication_date>
-<news:title>מטוס קל התרסק בשטח פתוח סמוך לאשתאול, בן 60 נפצע קל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/M_NEWS_16659_03102026114138_1400_1791027782126_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
