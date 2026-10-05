@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791182249194,
+ "last_run_ms": 1791182549266,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13329,6 +13329,18 @@
    "section": "פלילים",
    "title": "גבר שנפצע בקטטה בדירה מת מפצעיו, שלושה נעצרו"
   },
+  "https://www.mako.co.il/men-men_news/Article-e884fe835ba01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791182307351,
+   "content_type": "article",
+   "first_seen_ms": 1791182307351,
+   "indexable": true,
+   "indexnow_ms": 1791182307351,
+   "published_ms": 1791181800000,
+   "section": "פלילים",
+   "title": "\"בדקו שאין אף אחד בבית, ועקרו את הכספת\""
+  },
   "https://www.mako.co.il/men-men_news/Article-e96bbe6633ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15068,6 +15080,18 @@
    "published_ms": 1790310600000,
    "section": "",
    "title": "הפוסט האנטישמי שגרם לזעזוע בכל ארגנטינה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-8324ad20a2601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791182549266,
+   "content_type": "article",
+   "first_seen_ms": 1791182549266,
+   "indexable": true,
+   "indexnow_ms": 1791182549266,
+   "published_ms": 1791181860000,
+   "section": "דיגיטל",
+   "title": "\"הבית שלי עומד ומחבלים לא נכנסו. את תעברי את זה\""
   },
   "https://www.mako.co.il/nexter-news/Article-87803ef3946f0a1026.htm": {
    "check_attempts": 1,
