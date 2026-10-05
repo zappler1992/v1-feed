@@ -35,17 +35,34 @@
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-73984d6246c01a1027.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/10/05/fixfoxnrwes0510_1400_1791210442066_FirstFrame.jpg</video:thumbnail_loc>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/05/dubaifoxnesfox_1400_1791211051989_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>דיווח דרמטי: הטייס המחבל צפוי לעונש מוות לאחר שתכנן לרסק את המטוס בנתב״ג</video:title>
 <video:description>דיווח דרמטי: הטייס המחבל צפוי לעונש מוות לאחר שתכנן לרסק את המטוס בנתב״ג</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/fixfoxnrwes0510/fixfoxnrwes0510_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>12</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/dubaifoxnesfox/dubaifoxnesfox_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>33</video:duration>
 <video:publication_date>2026-10-05T14:09:10+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-2b803c3235c01a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/05/Kim_Kardashian_05102026_1400_1791209090114_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>AI או ניתוח? התמונות של קים קרדשיאן מעוררות סערה</video:title>
+<video:description>התמונות החדשות של קים קרדשיאן מעוררות סערה ברשת. 
+בהפקת אופנה חדשה היא נראית עם מותן צרה במיוחד ולוקים צמודים, והגולשים כבר מתווכחים: האם מדובר בעריכה באמצעות AI, תוצאה של ניתוח או פשוט מחוך הדוק במיוחד</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/Kim_Kardashian_05102026/MASTER/Kim_Kardashian_05102026/Kim_Kardashian_05102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>22</video:duration>
+<video:publication_date>2026-10-05T14:04:56+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
+<video:tag>סלבס</video:tag>
 </video:video>
 </url>
 <url>
@@ -223,6 +240,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -238,6 +256,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -497,6 +516,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>

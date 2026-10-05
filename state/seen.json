@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2204b9bc86c01a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-2b803c3235c01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3650,6 +3650,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_siasale_011026/MASTER/biata_siasale_011026/biata_siasale_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-2b803c3235c01a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "התמונות החדשות של קים קרדשיאן מעוררות סערה ברשת. \nבהפקת אופנה חדשה היא נראית עם מותן צרה במיוחד ולוקים צמודים, והגולשים כבר מתווכחים: האם מדובר בעריכה באמצעות AI, תוצאה של ניתוח או פשוט מחוך הדוק במיוחד",
+   "duration_s": 22,
+   "first_seen_ms": 1791211346305,
+   "image": "https://img.mako.co.il/2026/10/05/Kim_Kardashian_05102026_1400_1791209090114_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791209096000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "AI או ניתוח? התמונות של קים קרדשיאן מעוררות סערה",
+   "type": "general",
+   "updated_ms": 1791209096000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-2b803c3235c01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/Kim_Kardashian_05102026/MASTER/Kim_Kardashian_05102026/Kim_Kardashian_05102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-943a26a0fcb01a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -5325,7 +5343,8 @@
    "importance": 1,
    "published_ms": 1791190966000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו החדשה - דנה צבאג בת 29",
    "type": "mivzakim",
@@ -22763,7 +22782,9 @@
    "image": "https://img.mako.co.il/2026/10/05/SHIR_DALEKET_051026_1400_1791198816364_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791201360000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "חריג במיוחד: 10 ילדים אושפזו ביממה בגלל דלקת בתוספתן",
    "type": "news",
    "updated_ms": 1791207600000,
@@ -44307,9 +44328,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "דיווח דרמטי: הטייס המחבל צפוי לעונש מוות לאחר שתכנן לרסק את המטוס בנתב״ג",
-   "duration_s": 12,
+   "duration_s": 33,
    "first_seen_ms": 1791209546240,
-   "image": "https://img.mako.co.il/2026/10/05/fixfoxnrwes0510_1400_1791210442066_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/05/dubaifoxnesfox_1400_1791211051989_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791209350000,
    "sections": [
@@ -44319,7 +44340,7 @@
    "type": "mivzakim",
    "updated_ms": 1791209350000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-73984d6246c01a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/fixfoxnrwes0510/fixfoxnrwes0510_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/dubaifoxnesfox/dubaifoxnesfox_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7589017e3e401a1026.htm": {
    "author": "מבזקים",
@@ -64677,7 +64698,8 @@
    "importance": 1,
    "published_ms": 1791201372000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "דיווח: בן 15 איבד את ידו במהלך המחאות בצרפת - בעקבות רימון הלם שהושלך ע״י השוטרים",
    "type": "mivzakim",
