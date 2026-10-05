@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-501b86cbf9d01a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-4d2122593dc01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c9e186cbf9d01a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-431bda1a0ad01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10818,6 +10820,24 @@
    "updated_ms": 1791183120000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-37cafe835ba01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/biata_murder_051026/MASTER/biata_murder_051026/biata_murder_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-431bda1a0ad01a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "יותר משנה אחרי שהדיילת רנה סולורי נעלמה בלי להשאיר עקבות, נמצאו שרידי גופתה בטקסס וכעת בדיקת DNA אישרה את זהותה. צפו בפרטים החדשים בפרשת הרצח שהסעירה את ארה\"ב",
+   "duration_s": 55,
+   "first_seen_ms": 1791231746681,
+   "image": "https://img.mako.co.il/2026/10/05/yoav_body_051026_1400_1791230357983_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791230460000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "יותר משנה אחרי שנעלמה: גופת הדיילת נמצאה",
+   "type": "general",
+   "updated_ms": 1791230460000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-431bda1a0ad01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/yoav_body_051026/MASTER/yoav_body_051026/yoav_body_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-63b59c0bc8c01a1026.htm": {
    "author": "מהעולם",
@@ -22827,6 +22847,22 @@
    "updated_ms": 1791207600000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_DALEKET_051026/MASTER/SHIR_DALEKET_051026/SHIR_DALEKET_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-4d2122593dc01a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 36,
+   "first_seen_ms": 1791231746681,
+   "image": "https://img.mako.co.il/2026/10/05/rinat_shaphat_051026_m_1400_1791217851862_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791217858000,
+   "sections": [],
+   "title": "החורף רק התחיל - וכבר בתי החולים עמוסים בחולי שפעת",
+   "type": "news",
+   "updated_ms": 1791217858000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-4d2122593dc01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/rinat_shaphat_051026/MASTER/rinat_shaphat_051026_m/rinat_shaphat_051026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-50ecf726e1801a1027.htm": {
    "author": "חדשות",
@@ -45446,6 +45482,24 @@
    "updated_ms": 1791099434000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c9af86805d501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_JERUS_6834_04102026073543/V1_KARIND_JERUS_6834_04102026073543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c9e186cbf9d01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "״רגעים גורליים״: שלומי זיו ואלמוג מאיר ג׳אן מספרים כיצד עזרו לטפל בארנון זמורה על מסוק החילוץ",
+   "duration_s": 45,
+   "first_seen_ms": 1791231746681,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16809_05102026081636_1400_1791231483257_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791231490000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "״רגעים גורליים״: שלומי זיו ואלמוג מאיר ג׳אן מספרים כיצד עזרו לטפל בארנון זמורה על מסוק החילוץ",
+   "type": "mivzakim",
+   "updated_ms": 1791231490000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c9e186cbf9d01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16809_05102026081636/M_NEWS_16809_05102026081636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ccd36567f6601a1027.htm": {
    "author": "מבזקים",
