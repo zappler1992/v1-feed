@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-264e3f69f0c01a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-db41b0e196b01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2725226ad1c01a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-0484226ad1c01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43778,6 +43778,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-264e3f69f0c01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_ASHDOD_6907_05102026124138/V1_KARIND_ASHDOD_6907_05102026124138_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2725226ad1c01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני ברק: פועל נחבל בראשו באתר בנייה - מצבו קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1791205646143,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16793_05102026010219_1400_1791205400756_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791205407000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני ברק: פועל נחבל בראשו באתר בנייה - מצבו קשה",
+   "type": "mivzakim",
+   "updated_ms": 1791205407000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2725226ad1c01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16793_05102026010219/M_NEWS_16793_05102026010219_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2b8a774216a01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -64356,6 +64374,24 @@
    "updated_ms": 1790841233000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-ff2dfd31176f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/V1_SHIR_earthquake_6709_01102026075225/V1_SHIR_earthquake_6709_01102026075225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-0484226ad1c01a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מחאות הסטודנטים מתפשטות באירופה: אחרי צרפת - גם בלגיה סוערת מהפגנות סטודנטים",
+   "duration_s": 19,
+   "first_seen_ms": 1791205646143,
+   "image": "https://img.mako.co.il/2026/10/05/V1_SHIR_BELGIUM_6908_05102026010052_1400_1791205344454_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791205350000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מחאות הסטודנטים מתפשטות באירופה: אחרי צרפת - גם בלגיה סוערת מהפגנות סטודנטים",
+   "type": "mivzakim",
+   "updated_ms": 1791205350000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-0484226ad1c01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_SHIR_BELGIUM_6908_05102026010052/V1_SHIR_BELGIUM_6908_05102026010052_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-050433e38c601a1026.htm": {
    "author": "מבזקים מהעולם",
