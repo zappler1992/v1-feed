@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4aa8d7a750b01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4c1d2d0cd0b01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43736,6 +43736,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4aa8d7a750b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/fix_illy/fix_illy_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4c1d2d0cd0b01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד הבריאות: אזהרת רחצה בחופים צינברי, צמח וגופרה בכנרת",
+   "duration_s": 9,
+   "first_seen_ms": 1791187345837,
+   "image": "https://img.mako.co.il/2026/10/05/V1_KARIND_KINNERT_6887_05102026075502_1400_1791187035735_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791187042000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד הבריאות: אזהרת רחצה בחופים צינברי, צמח וגופרה בכנרת",
+   "type": "mivzakim",
+   "updated_ms": 1791187042000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4c1d2d0cd0b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_KINNERT_6887_05102026075502/V1_KARIND_KINNERT_6887_05102026075502_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-50abad20a2601a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44117,18 +44135,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9e25e36e3ea01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "אבינתן אור השתתף במעמד פורום מטכ\"ל בזיקים לטבח 7 באוקטובר. הרמטכ\"ל: \"הישגינו לא מוחקים את הכישלון\"",
+   "description": "אבינתן אור השתתף במעמד פורום מטכ\"ל בזיקים. הרמטכ\"ל: \"הישגינו לא מוחקים את הכישלון\"",
    "duration_s": 9,
    "first_seen_ms": 1791185245835,
    "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16766_05102026072058_1400_1791184964409_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791184970000,
    "sections": [
     "מבזקים"
    ],
-   "title": "אבינתן אור השתתף במעמד פורום מטכ\"ל בזיקים לטבח 7 באוקטובר. הרמטכ\"ל: \"הישגינו לא מוחקים את הכישלון\"",
+   "title": "אבינתן אור השתתף במעמד פורום מטכ\"ל בזיקים. הרמטכ\"ל: \"הישגינו לא מוחקים את הכישלון\"",
    "type": "mivzakim",
-   "updated_ms": 1791184970000,
+   "updated_ms": 1791186900000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9e25e36e3ea01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16766_05102026072058/M_NEWS_16766_05102026072058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
