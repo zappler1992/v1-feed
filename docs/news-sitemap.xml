@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c81884eeca01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-05T06:54:52+00:00</news:publication_date>
+<news:title>טנדרים לבנים ודגלי אסלאם ברחובות לונדון: כך נראתה המחאה הפרו-פלסטינית | תיעוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_london_6881_05102026065347_1400_1791183286496_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b406fe835ba01a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1637,14 +1646,5 @@
 <news:title>חיפשו את הרוצח חמישה ימים - ומצאו אותו באמצע ארוחה במקדונלד&#x27;ס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/03/SHIR_MURDER_031026_1400_1791011783615_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w01/shorts-7fc9053238001a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-03T06:52:32+00:00</news:publication_date>
-<news:title>שלוש שנים אחרי 7 באוקטובר: צה״ל ניסה לחסל את אל-עאמודי, יורשו של סינוואר בעזה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/03/V1_SHIR_HISUL_6794_03102026065058_1400_1791010345341_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
