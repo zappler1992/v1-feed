@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791223349504,
+ "last_run_ms": 1791223649399,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1068,6 +1068,18 @@
    "published_ms": 1790609820000,
    "section": "ספורט",
    "title": "\"דיברנו המון\": שחקן פילי ששכנע את לברון"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-34699ac853d01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791223649399,
+   "content_type": "article",
+   "first_seen_ms": 1791223649399,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791223320000,
+   "section": "ספורט",
+   "title": "מבט פנימה: כך אבדיה יהפוך ל\"טוב בעולם\"?"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-5b8ac85033201a1026.htm": {
    "check_attempts": 1,
@@ -8613,6 +8625,18 @@
    "section": "כסף",
    "title": "הישראלי שמקים עם טראמפ מגדל בטביליסי"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-004c482082c01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791223587237,
+   "content_type": "article",
+   "first_seen_ms": 1791223587237,
+   "indexable": true,
+   "indexnow_ms": 1791223587237,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "למרות משבר הנדלן: יעז תקים 91 דירות בתל אביב"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-0477b55467ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8900,6 +8924,18 @@
    "published_ms": 1790079000000,
    "section": "נדל\"ן",
    "title": "הקניון הסגור יפורק: ארנה הרצליה משנה את פניו"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-cdf7482082c01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791223587237,
+   "content_type": "article",
+   "first_seen_ms": 1791223587237,
+   "indexable": true,
+   "indexnow_ms": 1791223587237,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "הסכמי ביצוע: 2 מגדלים יוקמו בתל אביב ורמת גן"
   },
   "https://www.mako.co.il/finances-real-estate/Article-d1395accc0de0a1026.htm": {
    "check_attempts": 1,
@@ -17996,6 +18032,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8bd422593dc01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-8bd422593dc01a1027.htm",
+   "checked_ms": 1791223587237,
+   "content_type": "article",
+   "first_seen_ms": 1791223587237,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791222240000,
+   "section": "",
+   "title": "\"רציתי נקמה על עזה\": מה שסיפר הטייס המחבל לחוקרים"
   },
   "https://www.mako.co.il/special-mako-news/Article-99063a8019dc0a1027.htm": {
    "check_attempts": 1,
