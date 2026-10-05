@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791177749165,
+ "last_run_ms": 1791178049113,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11277,6 +11277,18 @@
    "section": "עיצוב הבית",
    "title": "\"600 שקל לקומקום? מי הפראייר?\""
   },
+  "https://www.mako.co.il/living-home-styling/accessories/Article-33128d260c501a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791177987172,
+   "content_type": "article",
+   "first_seen_ms": 1791177987172,
+   "indexable": true,
+   "indexnow_ms": 1791177987172,
+   "published_ms": 1791172800000,
+   "section": "עיצוב הבית",
+   "title": "אם לסבתא שלכם יש את הפיירקס הזה - הוא שווה הרבה כסף"
+  },
   "https://www.mako.co.il/living-home-styling/accessories/Article-8bde4264081f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11445,6 +11457,18 @@
    "section": "גיא פינס",
    "title": "השחקן אילן דר הלך לעולמו בגיל 89"
   },
+  "https://www.mako.co.il/mako-vod-keshet/good-evening-with-guy-pines-s9/shorts/Video-25592c97e8801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791177987172,
+   "content_type": "video",
+   "first_seen_ms": 1791177987172,
+   "indexable": true,
+   "indexnow_ms": 1791177987172,
+   "published_ms": 1791145080000,
+   "section": "גיא פינס",
+   "title": "תעלומת מות בעלה של הרוצחת המפורסמת"
+  },
   "https://www.mako.co.il/mako-vod-keshet/good-evening-with-guy-pines-s9/shorts/Video-816ef3d5f7d70a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11468,6 +11492,18 @@
    "published_ms": 1788811920000,
    "section": "גיא פינס",
    "title": "כולל גמדים ושרירנים: המופע של אביהו פנחסוב"
+  },
+  "https://www.mako.co.il/mako-vod-keshet/good-evening-with-guy-pines-s9/shorts/Video-96645133e7801a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791177987172,
+   "content_type": "video",
+   "first_seen_ms": 1791177987172,
+   "indexable": true,
+   "indexnow_ms": 1791177987172,
+   "published_ms": 1791144360000,
+   "section": "גיא פינס",
+   "title": "המלך של הכלא: חייו של פי דידי מאחורי הסורגים"
   },
   "https://www.mako.co.il/mako-vod-keshet/good-evening-with-guy-pines-s9/shorts/Video-b0cef3d5f7d70a1027.htm": {
    "check_attempts": 1,
@@ -12031,7 +12067,7 @@
    "indexnow_ms": 1791174627115,
    "published_ms": 1791174240000,
    "section": "",
-   "title": "הריחו ריח חריף - ומצאו את גופתו של השכן בן ה-80"
+   "title": "הריחו ריח חריף - ומצאו גופתו של השכן בן ה-80"
   },
   "https://www.mako.co.il/men-men_news/Article-286a4a49d61f0a1026.htm": {
    "check_attempts": 1,
@@ -16952,6 +16988,18 @@
    "published_ms": 1790667540000,
    "section": "",
    "title": "אדם מבוגר הוטח לקרקע: התיעוד המחריד מירושלים"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b618af9b0a901a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-b618af9b0a901a1026.htm",
+   "checked_ms": 1791177867179,
+   "content_type": "article",
+   "first_seen_ms": 1791177867179,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791177780000,
+   "section": "",
+   "title": "המפקח על חברות התעופה הזרות קיבל כסף מפליי-דובאי"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
