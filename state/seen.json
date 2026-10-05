@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-052222593dc01a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a5aa27ac59c01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22956,6 +22956,24 @@
    "updated_ms": 1791194940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_PILOT_051026_FIX/SHIR_PILOT_051026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a5aa27ac59c01a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מבצע \"שחר תימן\" יצא לדרך: 100 מטוסי קרב סעודיים משתתפים בתקיפות נגד החות'ים, במקביל ללחימה שמתרחבת גם על הקרקע.",
+   "duration_s": 41,
+   "first_seen_ms": 1791220346601,
+   "image": "https://img.mako.co.il/2026/10/05/yoav_huti_051026_1400_1791212935187_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791213060000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "עם 100 מטוסי קרב: הסעודים תוקפים בתימן",
+   "type": "news",
+   "updated_ms": 1791213060000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a5aa27ac59c01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/yoav_huti_051026/MASTER/yoav_huti_051026/yoav_huti_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a9457c80ebc01a1026.htm": {
    "author": "חדשות",
@@ -64765,7 +64783,8 @@
    "importance": 0,
    "published_ms": 1791205350000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מחאות הסטודנטים מתפשטות באירופה: אחרי צרפת - גם בלגיה סוערת מהפגנות סטודנטים",
    "type": "mivzakim",
@@ -64877,7 +64896,8 @@
    "importance": 0,
    "published_ms": 1791200643000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "את זה תראו רק בספרד: עשרות אנשים מטפסים זה על זה ובונים מגדל אנושי",
    "type": "mivzakim",
