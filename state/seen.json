@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8a7bbe3eddb01a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22717,6 +22718,22 @@
    "updated_ms": 1791133033000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-22512fb0dc701a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/biata_waywardson_041026/MASTER/biata_waywardson_041026/biata_waywardson_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1791201746079,
+   "image": "https://img.mako.co.il/2026/10/05/SHIR_DALEKET_051026_1400_1791198816364_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791201360000,
+   "sections": [],
+   "title": "חריג במיוחד: 10 ילדים אושפזו ביממה בגלל דלקת בתוספתן",
+   "type": "news",
+   "updated_ms": 1791201360000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_DALEKET_051026/MASTER/SHIR_DALEKET_051026/SHIR_DALEKET_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-50ecf726e1801a1027.htm": {
    "author": "חדשות",
@@ -64376,6 +64393,24 @@
    "updated_ms": 1791200643000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8a7bbe3eddb01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_SPAIN_6903_05102026114236/V1_KARIND_SPAIN_6903_05102026114236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "דיווח: בן 15 איבד את ידו במהלך המחאות בצרפת - בעקבות רימון הלם שהושלך ע״י השוטרים",
+   "duration_s": 3,
+   "first_seen_ms": 1791201746079,
+   "image": "https://img.mako.co.il/2026/10/05/V1_france_6904_05102026115456_1400_1791201366320_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791201372000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "דיווח: בן 15 איבד את ידו במהלך המחאות בצרפת - בעקבות רימון הלם שהושלך ע״י השוטרים",
+   "type": "mivzakim",
+   "updated_ms": 1791201372000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_france_6904_05102026115456/V1_france_6904_05102026115456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c0a546d825601a1026.htm": {
    "author": "מבזקים מהעולם",
