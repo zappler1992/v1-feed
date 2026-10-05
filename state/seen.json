@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-98f2732b44a01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6719774216a01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43663,6 +43663,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-58992efeb8701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16734_04102026033508/M_NEWS_16734_04102026033508_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6719774216a01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הבחירות בברזיל יוכרעו בסיבוב השני - ובולסונארו חוגג: \"זהו סוף עידן לולה - ההכרעה התקבלה\"",
+   "duration_s": 99,
+   "first_seen_ms": 1791175946427,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_brazil_6876_05102026044425_1400_1791175582758_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791175589000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הבחירות בברזיל יוכרעו בסיבוב השני - ובולסונארו חוגג: \"זהו סוף עידן לולה - ההכרעה התקבלה\"",
+   "type": "mivzakim",
+   "updated_ms": 1791175589000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6719774216a01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_brazil_6876_05102026044425/V1_karind_brazil_6876_05102026044425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6e1112d9bc401a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44020,7 +44038,7 @@
    ],
    "title": "חריג: בעקבות \"מידע חדש על מזימה איראנית\" - ארצות הברית פינתה את מפציצי ה-B1 שלה מהבסיס בבריטניה",
    "type": "mivzakim",
-   "updated_ms": 1791174840000,
+   "updated_ms": 1791175620000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-acbb732b44a01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/fix_b1/fix_b1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
