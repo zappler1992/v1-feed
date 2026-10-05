@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791175349205,
+ "last_run_ms": 1791175649042,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3588,6 +3588,18 @@
    "published_ms": 1790935380000,
    "section": "ספורט",
    "title": "התחזית עודכנה: סיכויי ישראל להעפיל ליורו"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a2fd5da495a01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791175587104,
+   "content_type": "article",
+   "first_seen_ms": 1791175587104,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791175500000,
+   "section": "ספורט",
+   "title": "\"לעזז היה קשה שהרכנו ראש בהמנון הישראלי\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
    "check_attempts": 1,
@@ -8913,6 +8925,18 @@
    "section": "",
    "title": "זאת מתחרה רצינית להיות הסטקייה הטובה בארץ"
   },
+  "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-7aac0b68782e0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791175467040,
+   "content_type": "article",
+   "first_seen_ms": 1791175467040,
+   "indexable": true,
+   "indexnow_ms": 1791175467040,
+   "published_ms": 1791173700000,
+   "section": "הכי חם",
+   "title": "ד\"ש מהניינטיז: כריך הבגט הכי גדול והכי טעים"
+  },
   "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-f8140209869a0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9895,7 +9919,7 @@
    "indexnow_ms": 1791169948938,
    "published_ms": 1791169200000,
    "section": "",
-   "title": "מהיום תורגש התקררות, ומחר כבר נרגיש התחלה של חורף"
+   "title": "היום תורגש התקררות, ומחר כבר נרגיש התחלה של חורף"
   },
   "https://www.mako.co.il/hix-nature/Article-2c3af7cbda8c0a1027.htm": {
    "check_attempts": 1,
@@ -11251,7 +11275,7 @@
    "indexnow_ms": 1791058348795,
    "published_ms": 1791086400000,
    "section": "עיצוב הבית",
-   "title": "הרהיט שכדאי לוותר עליו במסדרון – ומה לשים במקום"
+   "title": "הרהיט שכדאי לוותר עליו במסדרון – ומה במקום"
   },
   "https://www.mako.co.il/living-home-styling/accessories/Article-e0fb7a1e297d0a1027.htm": {
    "check_attempts": 1,
@@ -19484,6 +19508,18 @@
    "published_ms": 1790586000000,
    "section": "תרבות tvbee",
    "title": "תגנזו את הציפיות שלכם מהסדרה עם דר זוזובסקי"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-3ffec3609c601a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791175649042,
+   "content_type": "article",
+   "first_seen_ms": 1791175649042,
+   "indexable": true,
+   "indexnow_ms": 1791175649042,
+   "published_ms": 1791175440000,
+   "section": "תרבות tvbee",
+   "title": "הסדרה הזאת כל כך ממכרת שהיא כמעט מסוכנת"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-55f445a937a00a1026.htm": {
    "check_attempts": 1,
