@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-2895959ce0c01a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2550c897a3c01a1026.htm"
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-888e3f69f0c01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58408,7 +58407,9 @@
    "image": "https://img.mako.co.il/2026/10/05/biata_macbook_051026_1400_1791204354543_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791204361000,
-   "sections": [],
+   "sections": [
+    "טכנולוגיה"
+   ],
    "title": "תכינו את הארנקים: המקבוק החדש בדרך",
    "type": "general",
    "updated_ms": 1791204361000,
@@ -58433,6 +58434,24 @@
    "updated_ms": 1791141720000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-6fcad98cef701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/biata_gemini_041026/MASTER/biata_gemini_041026/biata_gemini_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-888e3f69f0c01a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "סם אלטמן מציג גישה שלפיה העולם צריך לאפשר לבינה המלאכותית להתפתח גם במחיר של סיכונים מסוימים. לדבריו, היתרונות של הטכנולוגיה צפויים להיות גדולים משמעותית מהנזקים, אך הוא עדיין מתנגד לסיכונים קטסטרופליים.",
+   "duration_s": 40,
+   "first_seen_ms": 1791207446201,
+   "image": "https://img.mako.co.il/2026/10/05/SHIR_ALTMAN_051026_1400_1791204199882_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791204206000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "מנכ\"ל OPEN AI מזהיר: \"העולם צריך לקבל שיקרו דברים רעים בגלל טכנולוגיית ה - AI\"",
+   "type": "general",
+   "updated_ms": 1791204240000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-888e3f69f0c01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_ALTMAN_051026/MASTER/SHIR_ALTMAN_051026/SHIR_ALTMAN_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
