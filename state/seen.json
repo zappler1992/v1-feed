@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-be4b501063a01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ea6d501063a01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-af67de9521a01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43969,6 +43970,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-abfac3609c601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_mehabel_041026_6854_04102026115947/V1_karind_mehabel_041026_6854_04102026115947_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-af67de9521a01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לציון יום הזיכרון לטבח 7 באוקטובר: דגלי ישראל הורדו הבוקר ברחבת הכנסת בשעה 06:29",
+   "duration_s": 25,
+   "first_seen_ms": 1791173846349,
+   "image": "https://img.mako.co.il/2026/10/05/V1_KARIND_KNESSET_6873_05102026041156_1400_1791173590514_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791173596000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לציון יום הזיכרון לטבח 7 באוקטובר: דגלי ישראל הורדו הבוקר ברחבת הכנסת בשעה 06:29",
+   "type": "mivzakim",
+   "updated_ms": 1791173596000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-af67de9521a01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_KNESSET_6873_05102026041156/V1_KARIND_KNESSET_6873_05102026041156_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-afc01547cc501a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44274,6 +44293,24 @@
    "updated_ms": 1791098026000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e77c8d260c501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_sahnin_6832_04102026071228/V1_karind_sahnin_6832_04102026071228_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ea6d501063a01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תינוקת כבת 10 חודשים פונתה במצב בינוני לאחר שנכוותה מחומר כימי בבני ברק",
+   "duration_s": 9,
+   "first_seen_ms": 1791173846349,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16751_05102026041235_1400_1791173631556_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791173638000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תינוקת כבת 10 חודשים פונתה במצב בינוני לאחר שנכוותה מחומר כימי בבני ברק",
+   "type": "mivzakim",
+   "updated_ms": 1791173638000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ea6d501063a01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16751_05102026041235/M_NEWS_16751_05102026041235_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f11512d9bc401a1027.htm": {
    "author": "מבזקים",
