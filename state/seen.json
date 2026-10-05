@@ -1,9 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-faa4c489b3b01a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-d922fc8d54b01a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-6c64fc8d54b01a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1a85fc8d54b01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5298,6 +5298,22 @@
    "updated_ms": 1791091980000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-4b25426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/fix_styles_1/fix_styles_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-6c64fc8d54b01a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו הראשונה - דנה צבאג, דוגמנית בת 29",
+   "duration_s": 9,
+   "first_seen_ms": 1791191246051,
+   "image": "https://img.mako.co.il/2026/10/05/V1_karind_avner_6894_05102026090138_1400_1791190959561_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791190966000,
+   "sections": [],
+   "title": "שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו הראשונה - דנה צבאג, דוגמנית בת 29",
+   "type": "mivzakim",
+   "updated_ms": 1791190966000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-6c64fc8d54b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_avner_6894_05102026090138/V1_karind_avner_6894_05102026090138_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-864e774216a01a1027.htm": {
    "author": "מבזקי סלבס",
@@ -22939,6 +22955,22 @@
    "updated_ms": 1791179027000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ceda3f5339a01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_SAVE_051026/MASTER/SHIR_SAVE_051026/SHIR_SAVE_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-d922fc8d54b01a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 34,
+   "first_seen_ms": 1791191246051,
+   "image": "https://img.mako.co.il/2026/10/05/biata_barilan_051026_1400_1791190849895_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791190856000,
+   "sections": [],
+   "title": "כתב אישום: מרצה תכנן פיגועים נגד ערבים",
+   "type": "news",
+   "updated_ms": 1791190856000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-d922fc8d54b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/biata_barilan_051026/MASTER/biata_barilan_051026/biata_barilan_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm": {
    "author": "חדשות",
@@ -43543,6 +43575,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-15c88ef35e501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/fix_kvish1/fix_kvish1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1a85fc8d54b01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נוסעים בנתב\"ג מדווחים: כל מסועי הכבודה תקולים כבר כשעה וחצי, \"האולם הולך ומתמלא מרגע לרגע\"",
+   "duration_s": 5,
+   "first_seen_ms": 1791191246051,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16772_05102026090250_1400_1791191044013_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791191050000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נוסעים בנתב\"ג מדווחים: כל מסועי הכבודה תקולים כבר כשעה וחצי, \"האולם הולך ומתמלא מרגע לרגע\"",
+   "type": "mivzakim",
+   "updated_ms": 1791191050000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1a85fc8d54b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16772_05102026090250/M_NEWS_16772_05102026090250_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58326,7 +58376,7 @@
    "description": "",
    "duration_s": 15,
    "first_seen_ms": 1791187945876,
-   "image": "https://img.mako.co.il/2026/10/05/SHIR_BUGS_051026_1400_1791183799687_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/05/SHIR_BUGS_051026_FIX_1400_1791190606004_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791183806000,
    "sections": [
@@ -58334,9 +58384,9 @@
    ],
    "title": "בילוי משפחתי שהפך לסיוט: מכת עקיצות חריגה בסופרלנד",
    "type": "general",
-   "updated_ms": 1791187680000,
+   "updated_ms": 1791190560000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_BUGS_051026/MASTER/SHIR_BUGS_051026/SHIR_BUGS_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_BUGS_051026_FIX/SHIR_BUGS_051026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-1e7fad516007291027.htm": {
    "author": "TV1",
