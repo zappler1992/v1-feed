@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791172649195,
+ "last_run_ms": 1791172949856,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3383,7 +3383,7 @@
    "indexnow_ms": null,
    "published_ms": 1791170700000,
    "section": "ספורט",
-   "title": "\"גמדים\": הקנטות השחקן האירי שגרמו לעימות"
+   "title": "\"גמדים\": הקללות שהובילו למהומה בסיום"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-4c7c77b55d601a1027.htm": {
    "check_attempts": 1,
@@ -6487,7 +6487,7 @@
    "indexnow_ms": 1791143666945,
    "published_ms": 1791143400000,
    "section": "",
-   "title": "חגיגה כפולה: הצעד הזוגי של יוצאת הריאליטי"
+   "title": "אחרי ארבעה חודשים יחד: הדר שירי מאשרת את הזוגיות"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-459936428b201a1027.htm": {
    "check_attempts": 1,
@@ -6703,7 +6703,7 @@
    "indexnow_ms": 1791139467600,
    "published_ms": 1791139200000,
    "section": "",
-   "title": "התקרית האנטישמית שעברה שלקה: \"רוע טהור בעיניים\""
+   "title": "התקרית האנטישמית של שלקה: \"רוע טהור בעיניים\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-8886e2dd3c7f0a1027.htm": {
    "check_attempts": 1,
@@ -14168,6 +14168,18 @@
    "published_ms": 1791137820000,
    "section": "ספורט",
    "title": "סורקין: \"הניצחון היה חשוב לתהליך שלנו\""
+  },
+  "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-bd42de9521a01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791172949856,
+   "content_type": "article",
+   "first_seen_ms": 1791172949856,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791172740000,
+   "section": "ספורט",
+   "title": "\"שיחקנו כקבוצה\": המסקנות במכבי מהניצחון"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q4/Article-d427ddc40b701a1026.htm": {
    "check_attempts": 1,
