@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43501,6 +43501,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f973f5339a01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_agurim_6879_05102026055419/V1_karind_agurim_6879_05102026055419_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ושב\"כ חיסלו מפקד מחלקת נוח'בה בארגון הטרור חמאס שפשט לישראל בטבח 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1791188245826,
+   "image": "https://img.mako.co.il/2026/10/05/M_NEWS_16770_05102026080931_1400_1791187856968_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791187863000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ושב\"כ חיסלו מפקד מחלקת נוח'בה בארגון הטרור חמאס שפשט לישראל בטבח 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1791187863000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16770_05102026080931/M_NEWS_16770_05102026080931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21ea6a883a601a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58148,7 +58166,7 @@
    ],
    "title": "בילוי משפחתי שהפך לסיוט: מכת עקיצות חריגה בסופרלנד",
    "type": "general",
-   "updated_ms": 1791183806000,
+   "updated_ms": 1791187680000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_BUGS_051026/MASTER/SHIR_BUGS_051026/SHIR_BUGS_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
