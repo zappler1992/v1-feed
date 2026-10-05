@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791226348379,
+ "last_run_ms": 1791226648268,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2088,6 +2088,18 @@
    "published_ms": 1790872200000,
    "section": "ספורט",
    "title": "\"חייב להירגע\": הפתיחה האדירה של לידיי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-b8ee2506f5d01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791226587508,
+   "content_type": "article",
+   "first_seen_ms": 1791226587508,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791226500000,
+   "section": "ספורט",
+   "title": "מזרחי לינאי: \"אמליץ על הפועל ת\"א וי-ם\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cb290d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -18260,6 +18272,18 @@
    "published_ms": 1790577600000,
    "section": "",
    "title": "למדה לקח מאיראן: המעצמה שמתכוננת למלחמה עם ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d7459e0cc7c01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-d7459e0cc7c01a1026.htm",
+   "checked_ms": 1791226587508,
+   "content_type": "article",
+   "first_seen_ms": 1791226587508,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791223800000,
+   "section": "",
+   "title": "המפלגה שמתרסקת - והבשורה הרעה לקואליציה"
   },
   "https://www.mako.co.il/special-mako-news/Article-dc5c84b5ceee0a1026.htm": {
    "check_attempts": 1,

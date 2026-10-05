@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1759ac853d01a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-70f09ac853d01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22918,6 +22918,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5db9175498501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_vaben_041026/MASTER/rinat_vaben_041026_m/rinat_vaben_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-70f09ac853d01a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ההזמנה של איזנקוט לעימות לא נועדה רק לעימות עצמו: מאחורי המהלך עומד גם מסר שעשוי לרמוז על הכיוון הפוליטי לקראת ההמשך",
+   "duration_s": 71,
+   "first_seen_ms": 1791226645690,
+   "image": "https://img.mako.co.il/2026/10/05/rinat_eisenkot_051026_m_1400_1791224816261_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791224822000,
+   "sections": [
+    "הפרשנים"
+   ],
+   "title": "ההזמנה לעימות שהייתה גם איתות פוליטי",
+   "type": "news",
+   "updated_ms": 1791224822000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-70f09ac853d01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/rinat_eisenkot_051026/MASTER/rinat_eisenkot_051026_m/rinat_eisenkot_051026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -44484,7 +44502,7 @@
    ],
    "title": "הצנזורה מאשרת לפרסם: השב\"כ חוקר את הטייס המחבל שהודה: \"עשיתי זאת כנקמה על עזה\"",
    "type": "mivzakim",
-   "updated_ms": 1791222730000,
+   "updated_ms": 1791226500000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6218ab0313d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_amittais_6920_05102026055045/V1_amittais_6920_05102026055045_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
