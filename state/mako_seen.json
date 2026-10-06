@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791277664912,
+ "last_run_ms": 1791277948875,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7459,7 +7459,7 @@
    "indexnow_ms": 1791273506868,
    "published_ms": 1791273300000,
    "section": "סלבס",
-   "title": "רשמיים לראשונה: ליה אללוף עם בן הזוג החדש"
+   "title": "עם הפנים קדימה: ליה אללוף משיקה את החבר החדש"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf0b3eba463d0a1026.htm": {
    "check_attempts": 1,
@@ -17481,6 +17481,18 @@
    "section": "צבא וביטחון",
    "title": "הדרמה הביטחונית: ארה\"ב באזהרה חריגה לאזרחיה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-1ab863dc57011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791277827204,
+   "content_type": "article",
+   "first_seen_ms": 1791277827204,
+   "indexable": true,
+   "indexnow_ms": 1791277827204,
+   "published_ms": 1791277560000,
+   "section": "",
+   "title": "ראש שירות ביון זר נעצר בחשד שריגל נגד המדינה"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-1ca5cab9314d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
@@ -20311,7 +20323,7 @@
    "indexnow_ms": 1791275066994,
    "published_ms": 1791273360000,
    "section": "חופש",
-   "title": "ישראלי הותקף ונשדד בחו\"ל: \"הייתי בטוח שירצחו אותי\""
+   "title": "\"ניסיתי לברוח. חשבתי שהם הולכים לרצוח אותי\""
   },
   "https://www.mako.co.il/travel-news/international/Article-b4cdb2cb6a6f0a1026.htm": {
    "check_attempts": 1,
