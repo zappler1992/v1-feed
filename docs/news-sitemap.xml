@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-163246575b211a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T19:49:14+00:00</news:publication_date>
+<news:title>צעקה לעבר הישראלים שחיכו לטיסה בטוקיו - הנוסעים הגיבו בשירת &quot;עם ישראל חי&quot; | צפו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_TOKIO_6964_06102026074756_1400_1791316148330_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e890175099211a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1682,23 +1691,5 @@
 <news:title>צביקה ברוט מנהל קמפיין הליכוד מגיב להזמנה של אייזנקוט לעימות עם נתניהו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_LICUD_6870_04102026082304_1400_1791145481003_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4a7e2ffe17801a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T19:51:31+00:00</news:publication_date>
-<news:title>פיצוץ חריג נשמע ביפיע שבצפון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_PITZUTZ_6869_04102026075005_1400_1791143483792_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-b6b3f726e1801a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T19:51:00+00:00</news:publication_date>
-<news:title>תיעודים חדשים ומצמררים מטיסת פליי דובאי</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/biata_tiudim_041026_1400_1791138773824_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
