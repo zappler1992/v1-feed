@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-163246575b211a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-62a646575b211a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-7f4ddcb967211a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3723,6 +3724,22 @@
    "updated_ms": 1791276180000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-4e5732b740011a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/biata_moni_061026/MASTER/biata_moni_061026/biata_moni_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-62a646575b211a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "שמעון חיות, המוכר כ\"נוכל הטינדר\", משיק אפליקציית דייטינג חדשה שאמורה\n להגן על משתמשים מהונאות וזהויות מזויפות. חיות, שהורשע בעבר בהונאה, \nגניבה וזיוף, אומר: \"אנשים משתנים\"",
+   "duration_s": 32,
+   "first_seen_ms": 1791317546091,
+   "image": "https://img.mako.co.il/2026/10/06/Kim_DatingApp_06102026_1400_1791316659748_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791316666000,
+   "sections": [],
+   "title": "המהלך המפתיע של נוכל הטינדר: משיק אפליקציית היכרויות ש\"תגן בפני נוכלים\"",
+   "type": "general",
+   "updated_ms": 1791316666000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-62a646575b211a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/Kim_DatingApp_06102026/MASTER/Kim_DatingApp_06102026/Kim_DatingApp_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-943a26a0fcb01a1026.htm": {
    "author": "סלבס",
@@ -11057,6 +11074,24 @@
    "updated_ms": 1791297240000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-70c1ab0313d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/yoav_DEVER_051026/MASTER/yoav_DEVER_051026/yoav_DEVER_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-7f4ddcb967211a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מאד סנדהו, מאפר ומשפיען גאה מוביל ממדינת פנג'אב שבהודו נורה למוות מטווח קצר בעיר אמריסטר. על פי הדיווחים, התוקפים עקבו אחריו ופתחו באש כשעמד מחוץ לשטיפת מכוניות בה השאיר את רכבו. סנדהו היה מהדמויות הלהט\"ביות הבולטות ברשתות המדינה עם מאות אלפי עוקבים ומיליוני צפיות, ואף ניהל אקדמיות ליופי והופיע בסרט.",
+   "duration_s": 22,
+   "first_seen_ms": 1791317546091,
+   "image": "https://img.mako.co.il/2026/10/06/SHIRA_MAD_061026_M_1400_1791312247330_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791312253000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "טרגדיה בהודו: כוכב הרשת בעל מיליוני הצפיות נרצח לאור יום",
+   "type": "general",
+   "updated_ms": 1791312253000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-7f4ddcb967211a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/SHIRA_MAD_061026/MASTER/SHIRA_MAD_061026_M/SHIRA_MAD_061026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-972def5e8e501a1026.htm": {
    "author": "מהעולם",
@@ -23144,8 +23179,8 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43f38b2700211a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "עימות חריף בשידור של פירס מורגן: עמית סגל התקומם לאחר שהמגיש פירס מורגן השווה בין עבודתו \nבעבר בגלי צה\"ל לבין עבודת עיתונאים בעזה, שלטענתו פועלים תחת פיקוח חמאס. \nסגל מנגד, לא שתק והתעמת בחריפות עם מורגן",
-   "duration_s": 38,
+   "description": "עימות חריף בשידור של פירס מורגן: עמית סגל התקומם לאחר שהמגיש פירס מורגן השווה בין עבודתו \nבעבר בגלי צה\"ל לבין עבודת עיתונאים בעזה, שלטענתו פועלים תחת פיקוח חמאס\nסגל מנגד, לא שתק והתעמת בחריפות עם מורגן",
+   "duration_s": 46,
    "first_seen_ms": 1791305545993,
    "image": "https://img.mako.co.il/2026/10/06/Kim_AmitSegal_06102026_1400_1791305160574_FirstFrame.jpg",
    "importance": 1,
@@ -23157,7 +23192,7 @@
    "type": "news",
    "updated_ms": 1791305167000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43f38b2700211a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX_Kim_Asos_06102026/FIX_Kim_Asos_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX2_AmitSegal_06102026/FIX2_AmitSegal_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-4d2122593dc01a1027.htm": {
    "author": "חדשות",
