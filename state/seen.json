@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e624e93557f01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ba3a9a350af01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43854,6 +43855,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w01/shorts-ffffda1015bf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/V1_karind_KFARKARRA_6767_02102026064059/V1_karind_KFARKARRA_6767_02102026064059_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד לציד וסחר באלפי ציפורי שיר מוגנות האסורות למאכל ברחבי הארץ",
+   "duration_s": 9,
+   "first_seen_ms": 1791264145864,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16822_06102026051515_1400_1791263794210_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791263801000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד לציד וסחר באלפי ציפורי שיר מוגנות האסורות למאכל ברחבי הארץ",
+   "type": "mivzakim",
+   "updated_ms": 1791263801000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16822_06102026051515/M_NEWS_16822_06102026051515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-052222593dc01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45484,6 +45503,24 @@
    "updated_ms": 1791105407000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b6f3ad20a2601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_bakaai_6841_04102026091527/V1_karind_bakaai_6841_04102026091527_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ba3a9a350af01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שוהה בלתי חוקי גרם למותו של רוכב אופניים לאחר שגנב רכב ופגע בו",
+   "duration_s": 72,
+   "first_seen_ms": 1791264145864,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16821_06102026051421_1400_1791263763901_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791263770000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שוהה בלתי חוקי גרם למותו של רוכב אופניים לאחר שגנב רכב ופגע בו",
+   "type": "mivzakim",
+   "updated_ms": 1791263770000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ba3a9a350af01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16821_06102026051421/M_NEWS_16821_06102026051421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bbf09946f5601a1027.htm": {
    "author": "מבזקים",
