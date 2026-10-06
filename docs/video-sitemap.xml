@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0c21209a2211a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/06/V1_POLICE_6959_06102026052712_1400_1791307724125_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>תיעוד: תושב דיר אל אסד דרס מתנדב משטרה והפקיר אותו על הכביש - בתום מצוד החשוד נעצר</video:title>
+<video:description>תיעוד: תושב דיר אל אסד דרס מתנדב משטרה והפקיר אותו על הכביש - בתום מצוד החשוד נעצר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_POLICE_6959_06102026052712/V1_POLICE_6959_06102026052712_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>27</video:duration>
+<video:publication_date>2026-10-06T17:28:50+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43f38b2700211a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/06/Kim_AmitSegal_06102026_1400_1791305160574_FirstFrame.jpg</video:thumbnail_loc>
@@ -8,8 +24,8 @@
 <video:description>עימות חריף בשידור של פירס מורגן: עמית סגל התקומם לאחר שהמגיש פירס מורגן השווה בין עבודתו 
 בעבר בגלי צה&quot;ל לבין עבודת עיתונאים בעזה, שלטענתו פועלים תחת פיקוח חמאס. 
 סגל מנגד, לא שתק והתעמת בחריפות עם מורגן</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/Kim_AmitSegal_06102026/MASTER/Kim_AmitSegal_06102026/Kim_AmitSegal_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>46</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX_Kim_Asos_06102026/FIX_Kim_Asos_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>38</video:duration>
 <video:publication_date>2026-10-06T16:46:07+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -37,6 +53,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-09da8b2700211a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/06/SHIRA_WAZE_061026M_1400_1791303898183_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>החור השחור של WAZE: תכתבו את זה בחיפוש ולא תאמינו לתוצאה</video:title>
+<video:description>אזור חדש בWAZE נחשף: מסתבר שכשכותבים בשורת החיפוש &quot;רחוב הדרדסים הכחולים&quot; מגיעים לשטח מפות מיוחד המשמש לעריכה ובדיקת דברים שנים עבור החברה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/SHIRA_WAZE_061026/MASTER/SHIRA_WAZE_061026M/SHIRA_WAZE_061026M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>31</video:duration>
+<video:publication_date>2026-10-06T16:25:04+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>טכנולוגיה</video:uploader>
+<video:tag>רק בישראל</video:tag>
+<video:tag>טכנולוגיה</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e75b0dc7fc111a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/06/SHIRA_ABIHAI_061026_M_1400_1791300461797_FirstFrame.jpg</video:thumbnail_loc>
@@ -58,9 +91,11 @@
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/06/Kim_Asos_06102026_1400_1791300349318_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>הפריצה לאתר ASOS: לקוחות של החברה? זה מה שאתם חייבים לעשות עכשיו</video:title>
-<video:description>חשש לפריצה לאתר ASOS: משתמשים דיווחו על הודעת פוש מאיימת שנשלחה מהחברה, ובה נטען כי האתר נפרץ וכי מידע עלול להיות מודלף. באסוס טרם אישרו רשמית שמדובר בהאקרים. לפי חדשות 12, בשלב זה אין צורך למחוק את פרטי האשראי – אך מומלץ להחליף סיסמה ולהימנע מלחיצה על קישורים חשודים.</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/Kim_Asos_06102026/MASTER/Kim_Asos_06102026/Kim_Asos_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>48</video:duration>
+<video:description>חשש לפריצה לאתר ASOS: משתמשים דיווחו על הודעת פוש מאיימת שנשלחה מהחברה,
+ובה נטען כי האתר נפרץ וכי מידע עלול להיות מודלף. 
+לפי חדשות 12, בשלב זה אין צורך למחוק את פרטי האשראי – אך מומלץ להחליף סיסמה ולהימנע מלחיצה על קישורים חשודים.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX_Kim_Asos_06102026/FIX_Kim_Asos_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>38</video:duration>
 <video:publication_date>2026-10-06T15:25:55+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>

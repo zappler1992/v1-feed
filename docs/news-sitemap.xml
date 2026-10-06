@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0c21209a2211a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T17:28:50+00:00</news:publication_date>
+<news:title>תיעוד: תושב דיר אל אסד דרס מתנדב משטרה והפקיר אותו על הכביש - בתום מצוד החשוד נעצר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_POLICE_6959_06102026052712_1400_1791307724125_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43f38b2700211a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -17,6 +26,15 @@
 <news:title>לומדים לתואר? הגיל שלכם עלול לעלות לכם כסף</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/06/yoav_students_061026_1400_1791304717748_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-09da8b2700211a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T16:25:04+00:00</news:publication_date>
+<news:title>החור השחור של WAZE: תכתבו את זה בחיפוש ולא תאמינו לתוצאה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/SHIRA_WAZE_061026M_1400_1791303898183_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e75b0dc7fc111a1026.htm</loc>
@@ -1682,32 +1700,5 @@
 <news:title>בזמן ביקורו של מועמד רע&quot;מ יואב סגלוביץ&#x27; ברהט: קולות ירי בלתי פוסקים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_RAHAT_6866_04102026054635_1400_1791136098552_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-520423bfed701a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T17:32:23+00:00</news:publication_date>
-<news:title>יועז הנדל ב&quot;סיבוב בחירות&quot;: &quot;אם זה היה תלוי בי, מי שבוחר לא לשרת במדינת ישראל, למה שיצביע?&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/M_NEWS_16737_04102026053048_1400_1791135137101_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dca323bfed701a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T17:31:55+00:00</news:publication_date>
-<news:title>ביתר עילית: גבר כבן 80 פונה תוך כדי המשך פעולות החייאה לאחר שהתמוטט ואיבד את הכרתו ברחוב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/M_NEWS_16736_04102026053024_1400_1791135108715_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c908a5227f701a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T17:30:02+00:00</news:publication_date>
-<news:title>סוף טוב: אותר הילד ליאם סלאם בן ה-9 מאשקלון שנעדר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_LIAM_6865_04102026052834_1400_1791134995980_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
