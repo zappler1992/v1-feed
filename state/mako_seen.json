@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791313648670,
+ "last_run_ms": 1791313948704,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4212,6 +4212,18 @@
    "published_ms": 1791139740000,
    "section": "ספורט",
    "title": "הצעד המשפיל של שחקני נבחרת אירלנד בזמן \"התקווה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e6ca175099211a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791313948704,
+   "content_type": "article",
+   "first_seen_ms": 1791313948704,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791313740000,
+   "section": "ספורט",
+   "title": "\"לכדורגל הישראלי צפוי עתיד ורוד\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8b84128ea5f0a1027.htm": {
    "check_attempts": 1,
