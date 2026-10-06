@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791267148598,
+ "last_run_ms": 1791267449556,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2268,6 +2268,18 @@
    "published_ms": 1791111600000,
    "section": "ספורט",
    "title": "דני לפני יאניס: הדראפט שנערך על כל ה-NBA"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-a6ff91e13df01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791267387418,
+   "content_type": "article",
+   "first_seen_ms": 1791267387418,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791267120000,
+   "section": "ספורט",
+   "title": "\"צריך להתרגל למהירות, הזריקות ייכנסו\""
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-b83bed8a13b01a1026.htm": {
    "check_attempts": 1,
@@ -13543,7 +13555,7 @@
    "indexnow_ms": 1791229965694,
    "published_ms": 1791229380000,
    "section": "",
-   "title": "סיוט בטיילת באילת: \"חשבתי שאני עומד למות\""
+   "title": "שוטרים הכו חשוד באלימות קשה: \"חשבתי שאמות\""
   },
   "https://www.mako.co.il/men-men_news/Article-69a4d8f122ec0a1026.htm": {
    "check_attempts": 1,
@@ -14359,7 +14371,7 @@
    "indexnow_ms": 1791214348957,
    "published_ms": 1791213840000,
    "section": "",
-   "title": "נתפס על חם: איש העסקים הישראלי שעקץ מיליונים מסתבך"
+   "title": "איש העסקים הרוסי יוסגר מישראל לארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-e19401a10f3d0a1026.htm": {
    "check_attempts": 1,
@@ -19892,6 +19904,18 @@
    "published_ms": 1790148900000,
    "section": "חופש",
    "title": "לראשונה: טיסה ישראלית נחתה בגן העדן של אירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-98f94dc8acf01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791267449556,
+   "content_type": "article",
+   "first_seen_ms": 1791267449556,
+   "indexable": true,
+   "indexnow_ms": 1791267449556,
+   "published_ms": 1791265320000,
+   "section": "חופש",
+   "title": "הכיכר המרכזית בוערת: מהומות בלב העיר האירופי"
   },
   "https://www.mako.co.il/travel-news/international/Article-999a761c15601a1027.htm": {
    "check_attempts": 1,
