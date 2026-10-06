@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21e05b7d3e211a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T20:39:10+00:00</news:publication_date>
+<news:title>טראמפ: הבעיה הגדולה ביותר באיראן - אף אחד לא יודע מי מנהל את המדינה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_trump_6965_06102026083810_1400_1791319143851_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-62a646575b211a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1700,14 +1709,5 @@
 <news:title>הבחירות בברזיל יוכרעו בסיבוב שני: בולסנארו קיבל 47.45% מהקולות והפתיע את הסקרים. הנשיא לולה עם 44.66</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/M_NEWS_16748_05102026032156_1400_1791170599678_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-32b5a6d8d8801a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T20:39:33+00:00</news:publication_date>
-<news:title>שבוע אחרי ההשפלה: נבחרת ישראל בכדורגל סיימה בתיקו 1:1 מול אירלנד</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_IRLAND_6871_04102026083837_1400_1791146367011_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
