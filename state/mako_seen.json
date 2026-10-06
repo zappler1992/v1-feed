@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791300448833,
+ "last_run_ms": 1791300748649,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1200,6 +1200,18 @@
    "published_ms": 1791082680000,
    "section": "ספורט",
    "title": "9 נק` ו-7 אס` ליאניס, 105:129 למיאמי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e5f4e97e0c111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791300748649,
+   "content_type": "article",
+   "first_seen_ms": 1791300748649,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791300480000,
+   "section": "ספורט",
+   "title": "\"קלע מדהים\": הדגש של שרף שיעשה את ההבדל"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-f2185506dfc01a1027.htm": {
    "check_attempts": 1,
@@ -20936,6 +20948,18 @@
    "published_ms": 1791197400000,
    "section": "חופש",
    "title": "יצא לטיול ונעלם: \"אנחנו מתוסכלים, אין לנו קצה חוט\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-ca31e97e0c111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791300626781,
+   "content_type": "article",
+   "first_seen_ms": 1791300626781,
+   "indexable": true,
+   "indexnow_ms": 1791300626781,
+   "published_ms": 1791300180000,
+   "section": "",
+   "title": "ההחלטה הסופית לגבי בעל גן החיות בתאילנד שגירש ישראלים"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
