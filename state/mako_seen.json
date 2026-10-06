@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791281248975,
+ "last_run_ms": 1791281549035,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20552,6 +20552,18 @@
    "published_ms": 1791264600000,
    "section": "חופש",
    "title": "זו הטעות שכולם עושים כשהם שוכרים רכב בחו\"ל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-f1fc55e759011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791281307521,
+   "content_type": "article",
+   "first_seen_ms": 1791281307521,
+   "indexable": true,
+   "indexnow_ms": 1791281307521,
+   "published_ms": 1791280860000,
+   "section": "חופש",
+   "title": "ישר לאחר הנחיתה: ישראלי נעצר בנמל התעופה בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-f939f11620ec0a1027.htm": {
    "check_attempts": 1,
