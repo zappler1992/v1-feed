@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-4e5732b740011a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-558863dc57011a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0df1422676011a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44108,6 +44109,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c81884eeca01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_london_6881_05102026065347/V1_karind_london_6881_05102026065347_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0df1422676011a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כך נראתה במכ\"ם הסופה שהגיעה לחופי ישראל",
+   "duration_s": 31,
+   "first_seen_ms": 1791277646266,
+   "image": "https://img.mako.co.il/2026/10/06/V1_KARIND_MACAM_6947_06102026085930_1400_1791277256638_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791277263000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כך נראתה במכ\"ם הסופה שהגיעה לחופי ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1791277263000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0df1422676011a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_KARIND_MACAM_6947_06102026085930/V1_KARIND_MACAM_6947_06102026085930_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-15c88ef35e501a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44834,6 +44853,24 @@
    "updated_ms": 1791096901000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-53de1fc2ca501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_police_6831_04102026065336/V1_karind_police_6831_04102026065336_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-558863dc57011a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד התחבורה: מבצע השבת הישראלים מדובאי באמצעות הרכבת האווירית נמשך ויסתיים ביום חמישי",
+   "duration_s": 25,
+   "first_seen_ms": 1791277646266,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16846_06102026090417_1400_1791277530488_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791277537000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד התחבורה: מבצע השבת הישראלים מדובאי באמצעות הרכבת האווירית נמשך ויסתיים ביום חמישי",
+   "type": "mivzakim",
+   "updated_ms": 1791277537000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-558863dc57011a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16846_06102026090417/M_NEWS_16846_06102026090417_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-578ee0e4a4f01a1026.htm": {
    "author": "מבזקים",
