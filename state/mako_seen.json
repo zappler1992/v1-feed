@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791275548680,
+ "last_run_ms": 1791275848759,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -624,6 +624,18 @@
    "published_ms": 1791200144000,
    "section": "Fashion Forward",
    "title": "ניתוח או AI? האינטרנט נשרט על הגוף של קים קרדשיאן בתמונות האלה"
+  },
+  "https://fashionforward.mako.co.il/news/321321/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791275848759,
+   "content_type": "post",
+   "first_seen_ms": 1791275848759,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791275318000,
+   "section": "אופנה",
+   "title": "אנחנו עדיין קצת בשוק מהשמלה המשוגעת של עדן בן זקן"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -14335,7 +14347,7 @@
    "indexnow_ms": 1791265227293,
    "published_ms": 1791264660000,
    "section": "",
-   "title": "\"יש לו מזל ששרד את החיסול. הלכו על הראש שלו בכל הכוח\""
+   "title": "היעד לניסיון החיסול בירושלים: העבריין איציק בר-מוחא"
   },
   "https://www.mako.co.il/men-men_news/Article-c40349520a501a1027.htm": {
    "check_attempts": 1,
@@ -15103,7 +15115,7 @@
    "indexnow_ms": 1791271348716,
    "published_ms": 1791270960000,
    "section": "מוזיקה",
-   "title": "\"הם חתכו את הנאום שלי כי התכוונתי להקדיש פרס לעזה\""
+   "title": "הכוכב שגר בעבר בישראל הקדיש \"שיר לילדי עזה\""
   },
   "https://www.mako.co.il/music-news/Article-964f5f3f7cea0a1027.htm": {
    "check_attempts": 1,
@@ -17445,6 +17457,18 @@
    "section": "",
    "title": "השב\"כ מעורב: מעצר התייר סמוך למתקן הרגיש"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-2fb065fef1011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791275667060,
+   "content_type": "article",
+   "first_seen_ms": 1791275667060,
+   "indexable": true,
+   "indexnow_ms": 1791275667060,
+   "published_ms": 1791275580000,
+   "section": "",
+   "title": "מסע רצח בבסיס: \"מוות בכיתת יורים למחבל מורשע\""
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-2fbc3654e1dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17803,7 +17827,7 @@
    "indexnow_ms": 1791269427575,
    "published_ms": 1791268320000,
    "section": "צבא וביטחון",
-   "title": "\"בשטח בנוי\": התרגיל של הצבא הערבי - והשותפים"
+   "title": "מפתיע: הכוח הזר שישתף פעולה עם צבא לבנון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c5ae8ea57ccc0a1027.htm": {
    "check_attempts": 1,
@@ -20203,7 +20227,7 @@
    "indexnow_ms": 1791275066994,
    "published_ms": 1791273360000,
    "section": "חופש",
-   "title": "ישראלי הותקף בחו\"ל: \"הייתי בטוח שירצחו אותי\""
+   "title": "ישראלי הותקף ונשדד בחו\"ל: \"הייתי בטוח שירצחו אותי\""
   },
   "https://www.mako.co.il/travel-news/international/Article-b4cdb2cb6a6f0a1026.htm": {
    "check_attempts": 1,
