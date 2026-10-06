@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791257248151,
+ "last_run_ms": 1791257548308,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4798,6 +4798,18 @@
    "published_ms": 1790863320000,
    "section": "ספורט",
    "title": "אוהד בוזגלו הסביר: מדוע נכנס לאשפוז"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f2263bf262f01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791257548308,
+   "content_type": "article",
+   "first_seen_ms": 1791257548308,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791257280000,
+   "section": "ספורט",
+   "title": "לפני הליגה: השחקנים שיקבלו צ`אנס אצל בכר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f79e4a45966f0a1026.htm": {
    "check_attempts": 1,
