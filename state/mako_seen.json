@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791283049951,
+ "last_run_ms": 1791283349057,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4846,6 +4846,18 @@
    "published_ms": 1791278100000,
    "section": "ספורט",
    "title": "מוכן לשחק בישראל: כוכב אוקראינה בפלונטר"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-cd9bc2db8c011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791283349057,
+   "content_type": "article",
+   "first_seen_ms": 1791283349057,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791282900000,
+   "section": "ספורט",
+   "title": "\"מאות מיליונים\". הקריירה החדשה של הרוש"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d41a754327cf0a1027.htm": {
    "check_attempts": 1,
@@ -14084,6 +14096,18 @@
    "published_ms": 1790911800000,
    "section": "פלילים",
    "title": "\"אין לי קשר לשום ארגון פשע, לא ביצעתי הונאה\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-873d51372c011a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791283349057,
+   "content_type": "article",
+   "first_seen_ms": 1791283349057,
+   "indexable": true,
+   "indexnow_ms": 1791283349057,
+   "published_ms": 1791283140000,
+   "section": "פלילים",
+   "title": "כנופיית \"חלונות הראווה\" חזרה להרצליה"
   },
   "https://www.mako.co.il/men-men_news/Article-881be6790e6e0a1027.htm": {
    "check_attempts": 1,
