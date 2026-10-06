@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-e2dee755a4211a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T17:50:14+00:00</news:publication_date>
+<news:title>עשן שחור כבד נראה למרחקים בעיירת הנופש סוצ&#x27;י, לאחר שמכלית עלתה באש מול החוף</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_RUSSIA_6961_06102026054859_1400_1791309008462_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-f6251209a2211a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1691,23 +1700,5 @@
 <news:title>גוגל מגבילה: בשורה רעה למשתמשי ג&#x27;מיני</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/biata_gemini_041026_1400_1791136795146_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6509d98cef701a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T17:49:14+00:00</news:publication_date>
-<news:title>בלי פילטרים ומהחלל: התיעוד עוצר הנשימה של הירח וכדור הארץ ממצלמת אייפון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/inbie_space_041026_1400_1791136147784_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2bd8d98cef701a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T17:48:25+00:00</news:publication_date>
-<news:title>בזמן ביקורו של מועמד רע&quot;מ יואב סגלוביץ&#x27; ברהט: קולות ירי בלתי פוסקים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_RAHAT_6866_04102026054635_1400_1791136098552_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
