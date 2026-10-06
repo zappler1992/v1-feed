@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8f38175099211a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/06/M_NEWS_16874_06102026070133_1400_1791313375540_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ערב 7 באוקטובר: 700 חיילי בא״ח צנחנים נשבעו הערב בכותל אמונים לצה״ל</video:title>
+<video:description>ערב 7 באוקטובר: 700 חיילי בא״ח צנחנים נשבעו הערב בכותל אמונים לצה״ל</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16874_06102026070133/M_NEWS_16874_06102026070133_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>22</video:duration>
+<video:publication_date>2026-10-06T19:03:01+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43bcc28a46211a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/06/Kim_Jerusalem_06102026_1400_1791310197077_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>מי אתה, איציק בר מוחא? זה המאפיונר הישראלי הבכיר שכמעט חוסל עם בנו במכונית</video:title>
 <video:description>ניסיון חיסול דרמטי בירושלים: איציק בר מוחא, עבריין בכיר המזוהה עם &quot;המאפיה הירושלמית&quot;, נפצע בפיצוץ מטען ברכבו בזמן שהסיע את בנו בן ה־13 לבית הספר. שמו של בר מוחא נקשר בעבר גם לפרשת הבנק למסחר ולאתי אלון. גורם המעורה בפרטים טען כי מי שהטמין את המטען ככל הנראה לא ידע שהבן נמצא ברכב,
-וכי המטען היה קטן יחסית – מה שאפשר לשניים להישאר בחיים</video:description>
+וכי המטען היה קטן יחסית – מה שאפשר לשניים להישאר בחיים.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX1_Kim_Jerusalem_06102026/FIX1_Kim_Jerusalem_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>35</video:duration>
 <video:publication_date>2026-10-06T18:10:03+00:00</video:publication_date>
@@ -231,6 +247,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

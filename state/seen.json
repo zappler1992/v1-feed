@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43bcc28a46211a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8f38175099211a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23128,7 +23128,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43bcc28a46211a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "ניסיון חיסול דרמטי בירושלים: איציק בר מוחא, עבריין בכיר המזוהה עם \"המאפיה הירושלמית\", נפצע בפיצוץ מטען ברכבו בזמן שהסיע את בנו בן ה־13 לבית הספר. שמו של בר מוחא נקשר בעבר גם לפרשת הבנק למסחר ולאתי אלון. גורם המעורה בפרטים טען כי מי שהטמין את המטען ככל הנראה לא ידע שהבן נמצא ברכב,\nוכי המטען היה קטן יחסית – מה שאפשר לשניים להישאר בחיים",
+   "description": "ניסיון חיסול דרמטי בירושלים: איציק בר מוחא, עבריין בכיר המזוהה עם \"המאפיה הירושלמית\", נפצע בפיצוץ מטען ברכבו בזמן שהסיע את בנו בן ה־13 לבית הספר. שמו של בר מוחא נקשר בעבר גם לפרשת הבנק למסחר ולאתי אלון. גורם המעורה בפרטים טען כי מי שהטמין את המטען ככל הנראה לא ידע שהבן נמצא ברכב,\nוכי המטען היה קטן יחסית – מה שאפשר לשניים להישאר בחיים.",
    "duration_s": 35,
    "first_seen_ms": 1791311545891,
    "image": "https://img.mako.co.il/2026/10/06/Kim_Jerusalem_06102026_1400_1791310197077_FirstFrame.jpg",
@@ -23701,7 +23701,8 @@
    "importance": 2,
    "published_ms": 1791298680000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ינון מגל השתלח בשורדי שבי ובמשפחות שכולות: \"אנשים מתועבים\"",
    "type": "news",
@@ -45670,6 +45671,24 @@
    "updated_ms": 1791116460000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8d1d77b55d601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_FIRE_041026_6856_04102026121940/V1_KARIND_FIRE_041026_6856_04102026121940_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8f38175099211a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ערב 7 באוקטובר: 700 חיילי בא״ח צנחנים נשבעו הערב בכותל אמונים לצה״ל",
+   "duration_s": 22,
+   "first_seen_ms": 1791313645964,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16874_06102026070133_1400_1791313375540_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791313381000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ערב 7 באוקטובר: 700 חיילי בא״ח צנחנים נשבעו הערב בכותל אמונים לצה״ל",
+   "type": "mivzakim",
+   "updated_ms": 1791313381000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8f38175099211a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16874_06102026070133/M_NEWS_16874_06102026070133_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-90c77ef9f1011a1026.htm": {
    "author": "מבזקים",
