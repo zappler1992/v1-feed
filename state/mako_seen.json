@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791263248480,
+ "last_run_ms": 1791263548361,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4726,6 +4726,18 @@
    "published_ms": 1791218760000,
    "section": "ספורט",
    "title": "בפנקס שלהם: מועדון הפאר שבעקבות זערורה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a54a4913b9f01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791263548361,
+   "content_type": "article",
+   "first_seen_ms": 1791263548361,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791263220000,
+   "section": "ספורט",
+   "title": "טוריאל כשיר, זה מס` הכרטיסים שנמכרו לק\"ש"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a8eb5b3766df0a1027.htm": {
    "check_attempts": 1,
@@ -18213,6 +18225,18 @@
    "section": "",
    "title": "באיראן לועגים לטראמפ, ומאיימים ב\"טכנולוגיה חדשה\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-68d0250001f01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-68d0250001f01a1027.htm",
+   "checked_ms": 1791263307193,
+   "content_type": "article",
+   "first_seen_ms": 1791263307193,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791258300000,
+   "section": "חדשות",
+   "title": "חרדים התפרעו, חסמו את הכניסה לבניין - והעריק לא נעצר"
+  },
   "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm",
@@ -21272,6 +21296,18 @@
    "published_ms": 1790910000000,
    "section": "תרבות tvbee",
    "title": "לצד הכוכב העולה: יהודה לוי חוזר לקצה העולם"
+  },
+  "https://www.mako.co.il/tvbee-tvbee-highlights/Article-abc4603ae980a61006.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791263427164,
+   "content_type": "article",
+   "first_seen_ms": 1791263427164,
+   "indexable": true,
+   "indexnow_ms": 1791263427164,
+   "published_ms": 1790508600000,
+   "section": "תרבות tvbee",
+   "title": "בן אפלק חוזר לנטפליקס - ומלכלך את הידיים"
   },
   "ttps://fashionforward.mako.co.il/news/320755/": {
    "check_attempts": 3,
