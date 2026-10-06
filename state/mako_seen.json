@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791290250142,
+ "last_run_ms": 1791290549316,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15693,6 +15693,18 @@
    "section": "",
    "title": "כיכב בלהקת הענק - ומת רגע לפני ההצלחה הגדולה"
   },
+  "https://www.mako.co.il/music-news/Article-ddf8d6c130111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791290427130,
+   "content_type": "article",
+   "first_seen_ms": 1791290427130,
+   "indexable": true,
+   "indexnow_ms": 1791290427130,
+   "published_ms": 1791290160000,
+   "section": "מוזיקה",
+   "title": "בעקבות הריאליטי: הילדים של קוקו מתפוצצים עם הישג ענק"
+  },
   "https://www.mako.co.il/music-news/Article-e3b437828d6e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18152,6 +18164,18 @@
    "published_ms": 1790263800000,
    "section": "",
    "title": "תצלומי לווין למתקפות טרור: הסוד של איראן נחשף"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-8b672e50f1111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791290427130,
+   "content_type": "article",
+   "first_seen_ms": 1791290427130,
+   "indexable": true,
+   "indexnow_ms": 1791290427130,
+   "published_ms": 1791289740000,
+   "section": "צבא וביטחון",
+   "title": "הזירה שבה זוהו \"יועצים\" ביטחוניים איראניים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-95e2387a386e0a1027.htm": {
    "check_attempts": 1,
