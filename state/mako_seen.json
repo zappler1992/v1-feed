@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791268048612,
+ "last_run_ms": 1791268348534,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3672,6 +3672,18 @@
    "published_ms": 1791140160000,
    "section": "ספורט",
    "title": "מוכר מפעם: ז`רקו לאזטיץ` נצפה ביציעים"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-7bfcbce65ef01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791268348534,
+   "content_type": "article",
+   "first_seen_ms": 1791268348534,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791268080000,
+   "section": "ספורט",
+   "title": "\"זימונים חברתיים, החלטות לא מקצועיות\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-81cb829e0d8f0a1027.htm": {
    "check_attempts": 1,
@@ -12824,6 +12836,18 @@
    "published_ms": 1790359020000,
    "section": "",
    "title": "\"פתאום גיליתי שמשכו לי כסף מהחשבון\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-07ee69afcdf01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791268227469,
+   "content_type": "article",
+   "first_seen_ms": 1791268227469,
+   "indexable": true,
+   "indexnow_ms": 1791268227469,
+   "published_ms": 1791267720000,
+   "section": "פלילים",
+   "title": "33 נוסעים עם דרכונים מזויפים נתפסו בכניסה לישראל"
   },
   "https://www.mako.co.il/men-men_news/Article-07f74672072e0a1026.htm": {
    "check_attempts": 1,
