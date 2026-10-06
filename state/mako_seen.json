@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791312448551,
+ "last_run_ms": 1791312748554,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19532,6 +19532,18 @@
    "published_ms": 1790913000000,
    "section": "",
    "title": "טיסות החילוץ של אל על מהאמירויות בוטלו"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b1e2c489b3b01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-b1e2c489b3b01a1027.htm",
+   "checked_ms": 1791312748554,
+   "content_type": "article",
+   "first_seen_ms": 1791312748554,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791312480000,
+   "section": "",
+   "title": "ההחלטה האנטי-ישראלית בבריטניה - וסערת הענק"
   },
   "https://www.mako.co.il/special-mako-news/Article-b4889cfc9dae0a1026.htm": {
    "check_attempts": 1,
