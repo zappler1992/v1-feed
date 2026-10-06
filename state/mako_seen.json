@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791279149030,
+ "last_run_ms": 1791279449058,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8625,6 +8625,18 @@
    "section": "",
    "title": "מה שקרה כשהאישה ללא צוואר הפסיקה למחוק את הבדיחות ברשת"
   },
+  "https://www.mako.co.il/finances-news/Article-31a043ad56011a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791279267326,
+   "content_type": "article",
+   "first_seen_ms": 1791279267326,
+   "indexable": true,
+   "indexnow_ms": 1791279267326,
+   "published_ms": 1791276060000,
+   "section": "כסף",
+   "title": "3 שנים למלחמה: כמה כסף שילמה המדינה לנפגעים?"
+  },
   "https://www.mako.co.il/finances-news/Article-36de846f96b01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8792,6 +8804,18 @@
    "published_ms": 1790662980000,
    "section": "כסף",
    "title": "שיא כל הזמנים: מחיר הדלק יזנק ל-8.27 שקלים"
+  },
+  "https://www.mako.co.il/finances-news/Article-9395f8b3f7011a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791279267326,
+   "content_type": "article",
+   "first_seen_ms": 1791279267326,
+   "indexable": true,
+   "indexnow_ms": 1791279267326,
+   "published_ms": 1791278220000,
+   "section": "כסף",
+   "title": "אורלי חגגה 35, בבנק החליטו שהיא לא סטודנטית"
   },
   "https://www.mako.co.il/finances-news/Article-9903d40a5e601a1027.htm": {
    "check_attempts": 1,
@@ -17551,7 +17575,7 @@
    "indexnow_ms": 1791277827204,
    "published_ms": 1791277560000,
    "section": "",
-   "title": "ראש שירות ביון זר נעצר בחשד שריגל נגד המדינה"
+   "title": "סוכן כפול בכיר: פרשת הריגול שמביכה את המעצמה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1ca5cab9314d0a1026.htm": {
    "check_attempts": 1,
@@ -21775,7 +21799,7 @@
    "indexnow_ms": 1791277664912,
    "published_ms": 1791277380000,
    "section": "תרבות tvbee",
-   "title": "מצה\"ל לטלוויזיה: התפקיד החדש של אביחי אדרעי"
+   "title": "אחרי 21 שנה בצה\"ל: התפקיד החדש של אביחי אדרעי"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-2094abfe434d0a1026.htm": {
    "check_attempts": 1,
