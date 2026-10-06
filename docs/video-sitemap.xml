@@ -7,7 +7,7 @@
 <video:title>&quot;אתה משווה?&quot;: השאלה של פירס מורגן שהצליחה לעצבן את עמית סגל</video:title>
 <video:description>עימות חריף בשידור של פירס מורגן: עמית סגל התקומם לאחר שהמגיש פירס מורגן השווה בין עבודתו 
 בעבר בגלי צה&quot;ל לבין עבודת עיתונאים בעזה, שלטענתו פועלים תחת פיקוח חמאס. 
-סגל מנגד, לא שתק והתעמת בחריפות עם מורגן.</video:description>
+סגל מנגד, לא שתק והתעמת בחריפות עם מורגן</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/Kim_AmitSegal_06102026/MASTER/Kim_AmitSegal_06102026/Kim_AmitSegal_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>46</video:duration>
 <video:publication_date>2026-10-06T16:46:07+00:00</video:publication_date>
@@ -15,6 +15,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>חדשות מהמסך</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -31,6 +32,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>רק בישראל</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
