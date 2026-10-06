@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-49eb0af98df01a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T06:16:59+00:00</news:publication_date>
+<news:title>הכיסאות הצילו את החתונה: אורחים באוסטרליה הרימו את הכיסוי שהתמלא במים כדי שלא יקרוס</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_karind_australia_6935_06102026061524_1400_1791267412718_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c97042bd5bf01a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1907,14 +1916,5 @@
 <news:title>נשיקה במצח וחיבוק: בתו של ברוס וויליס פרסמה תמונה נדירה עם אביה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_BRUCE_6829_04102026062614_1400_1791095244738_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ab01175498501a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T06:21:43+00:00</news:publication_date>
-<news:title>תעלומה בשמיים: מטוס עם 6 אנשים נעלם מעל הים בדרכו מברמודה לבוסטון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/SHIR_PLANE_041026_1400_1791094896600_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
