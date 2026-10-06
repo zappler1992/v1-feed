@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791262648289,
+ "last_run_ms": 1791262948339,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8409,6 +8409,18 @@
    "section": "כסף",
    "title": "לפני שכולם קונים: 10 מוצרים ששווה להכיר"
   },
+  "https://www.mako.co.il/finances-news/Article-27999f44c4c01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791262827141,
+   "content_type": "article",
+   "first_seen_ms": 1791262827141,
+   "indexable": true,
+   "indexnow_ms": 1791262827141,
+   "published_ms": 1791262740000,
+   "section": "",
+   "title": "מדריך ההישרדות המלא לחודשי הסיילים הגדולים של השנה"
+  },
   "https://www.mako.co.il/finances-news/Article-27edc668e27f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15128,6 +15140,18 @@
    "published_ms": 1790498160000,
    "section": "",
    "title": "נקבע סופית: אלו האותיות שיהיו על הפתק של המפלגה שלכם"
+  },
+  "https://www.mako.co.il/news-israel/2026_q4/Article-50b0034846d01a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791262707117,
+   "content_type": "article",
+   "first_seen_ms": 1791262707117,
+   "indexable": true,
+   "indexnow_ms": 1791262707117,
+   "published_ms": 1791236040000,
+   "section": "חדשות",
+   "title": "אבינתן אור חושף את מבצע הבריחה המטורף שתכנן מהשבי"
   },
   "https://www.mako.co.il/news-israel/2026_q4/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
