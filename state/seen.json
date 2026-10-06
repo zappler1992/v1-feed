@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2037204f54d01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-88bfba70a5f01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2d52e0e4a4f01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5118,7 +5119,8 @@
    "published_ms": 1790587800000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "איך אתם הייתם מגיבים? המשפעינית עמית בן דוד פגשה את הזמרת קארדי בי בשבוע האופנה במילאנו",
    "type": "mivzakim",
@@ -10811,7 +10813,8 @@
    "importance": 1,
    "published_ms": 1791233531000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "האונס הקבוצתי באוניברסיטת היוקרה שמסעיר את ארה\"ב",
    "type": "general",
@@ -44250,6 +44253,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2cf89a687bc01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_synoar_6916_05102026033935/V1_synoar_6916_05102026033935_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2d52e0e4a4f01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ חשף: הסיבה לפינוי מפציצי ה-B1 מבסיס חיל האוויר בבריטניה - איום ספציפי מאיראן",
+   "duration_s": 24,
+   "first_seen_ms": 1791260545771,
+   "image": "https://img.mako.co.il/2026/10/06/V1_threat_6927_06102026041440_1400_1791260170825_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791260177000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ חשף: הסיבה לפינוי מפציצי ה-B1 מבסיס חיל האוויר בבריטניה - איום ספציפי מאיראן",
+   "type": "mivzakim",
+   "updated_ms": 1791260177000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2d52e0e4a4f01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_threat_6927_06102026041440/V1_threat_6927_06102026041440_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-308a4e16a0d01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -44903,6 +44924,24 @@
    "updated_ms": 1791107589000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-837b761c15601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16715_04102026095122/M_NEWS_16715_04102026095122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-88bfba70a5f01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נידאל חסן, שרצח 13 חיילים אמריקאים בבסיס פורט הוד שבטקסס בשנת 2009, יוצא להורג בכיתת יורים",
+   "duration_s": 9,
+   "first_seen_ms": 1791260545771,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16813_06102026041749_1400_1791260360512_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791260367000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נידאל חסן, שרצח 13 חיילים אמריקאים בבסיס פורט הוד שבטקסס בשנת 2009, יוצא להורג בכיתת יורים",
+   "type": "mivzakim",
+   "updated_ms": 1791260367000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-88bfba70a5f01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16813_06102026041749/M_NEWS_16813_06102026041749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8d1d77b55d601a1027.htm": {
    "author": "מבזקים",
@@ -65029,7 +65068,8 @@
    "published_ms": 1790950660000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "לקראת יום הזיכרון ל-7 באוקטובר: פני נרצחי הטבח הוקרנו על מסכי טיימס סקוור בניו יורק",
    "type": "mivzakim",
