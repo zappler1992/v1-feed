@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791284249147,
+ "last_run_ms": 1791284549067,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3768,6 +3768,18 @@
    "published_ms": 1790912700000,
    "section": "ספורט",
    "title": "צור: \"הגשמתי חלום. תמיד האמנתי בעצמי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-875d1d818d011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791284549067,
+   "content_type": "article",
+   "first_seen_ms": 1791284549067,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791284160000,
+   "section": "ספורט",
+   "title": "\"אם יזומן, אצילי חוזר כבר מחר לנבחרת\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-8f8446a5ae901a1027.htm": {
    "check_attempts": 1,
