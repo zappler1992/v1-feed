@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791298049036,
+ "last_run_ms": 1791298348990,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3816,6 +3816,18 @@
    "published_ms": 1791284160000,
    "section": "ספורט",
    "title": "\"אם יזומן, אצילי חוזר כבר מחר לנבחרת\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-8801ffe02a111a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791298348990,
+   "content_type": "article",
+   "first_seen_ms": 1791298348990,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791298200000,
+   "section": "ספורט",
+   "title": "בדרך ליורו 2027? תרחישי הנבחרת הצעירה"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-8f8446a5ae901a1027.htm": {
    "check_attempts": 1,

@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-75812d8cd2111a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e17dc2b4da111a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14327,7 +14327,8 @@
    "importance": 2,
    "published_ms": 1791283259000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "איך לשרוד את חודשי הסיילים הגדולים של השנה",
    "type": "general",
@@ -46642,6 +46643,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1759ac853d01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_shaminirekand_6922_05102026063752/V1_shaminirekand_6922_05102026063752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e17dc2b4da111a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרמטכ\"ל, המפכ\"ל וראש השב\"כ בהערכת מצב לקראת התקופה הרגישה בשבועות הקרובים",
+   "duration_s": 9,
+   "first_seen_ms": 1791298346011,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16864_06102026024922_1400_1791298242241_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791298248000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרמטכ\"ל, המפכ\"ל וראש השב\"כ בהערכת מצב לקראת התקופה הרגישה בשבועות הקרובים",
+   "type": "mivzakim",
+   "updated_ms": 1791298248000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e17dc2b4da111a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16864_06102026024922/M_NEWS_16864_06102026024922_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e22ae93557f01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60079,7 +60098,8 @@
    "published_ms": 1791277447000,
    "sections": [
     "הכי Vיראלים",
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "למה כולם מחזירים את האייפון 18 פרו?",
    "type": "general",
@@ -66486,7 +66506,8 @@
    "importance": 0,
    "published_ms": 1791286491000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ילדים, זכיתי בנובל: פרופ' קרל דייסרות' מבשר למשפחה על קבלת פרס נובל לרפואה",
    "type": "mivzakim",
