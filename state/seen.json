@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23105,14 +23105,14 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "אחרי השפלת ההמנון והמשחקים הסוערים בין נבחרות ישראל ואירלנד בכדורגל - הישראלים החליטו לנקום דרך ערך \nהוויקיפדיה של אירלנד.",
    "duration_s": 26,
    "first_seen_ms": 1791264445847,
    "image": "https://img.mako.co.il/2026/10/06/inbie_wikipedia_061026_1400_1791264046367_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791264052000,
    "sections": [],
-   "title": "",
+   "title": "״חבורה של ג׳ינג׳ים תומכי טרור״: ככה נראה ערך הוויקיפדיה של אירלנד כרגע",
    "type": "news",
    "updated_ms": 1791264052000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm",
@@ -65557,6 +65557,24 @@
    "updated_ms": 1791200643000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8a7bbe3eddb01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_SPAIN_6903_05102026114236/V1_KARIND_SPAIN_6903_05102026114236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "זה היה מלחיץ: אשתו של סגן נשיא ארה\"ב ג'יי די ואנס כמעט נפלה כשירדה מהמטוס עם בנה התינוק",
+   "duration_s": 7,
+   "first_seen_ms": 1791264745952,
+   "image": "https://img.mako.co.il/2026/10/06/V1_karind_jdvans_6932_06102026052738_1400_1791264528816_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791264535000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "זה היה מלחיץ: אשתו של סגן נשיא ארה\"ב ג'יי די ואנס כמעט נפלה כשירדה מהמטוס עם בנה התינוק",
+   "type": "mivzakim",
+   "updated_ms": 1791264535000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_jdvans_6932_06102026052738/V1_karind_jdvans_6932_06102026052738_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm": {
    "author": "מבזקים מהעולם",
