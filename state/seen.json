@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-13cc1d818d011a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9d6551372c011a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1526c775d011a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3696,7 +3697,9 @@
    "image": "https://img.mako.co.il/2026/10/06/biata_moni_061026_1400_1791270770481_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791276180000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "מוני מושונוב: התוקף שלי התקשר לבקש סליחה",
    "type": "general",
    "updated_ms": 1791276180000,
@@ -3720,6 +3723,24 @@
    "updated_ms": 1791199647000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-943a26a0fcb01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/biata_kim_051026/MASTER/biata_kim_051026/biata_kim_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9d6551372c011a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791284846504,
+   "image": "https://img.mako.co.il/2026/10/06/biata_sydney_061026_1400_1791283636071_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791283642000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "סידני סוויני נפגשה עם רבנים כדי להתגייר",
+   "type": "general",
+   "updated_ms": 1791283642000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9d6551372c011a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/biata_sydney_061026/MASTER/biata_sydney_061026/biata_sydney_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9dec77b55d601a1027.htm": {
    "author": "סלבס",
@@ -46456,6 +46477,24 @@
    "updated_ms": 1791259196000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-df0fe0e4a4f01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16811_06102026035833/M_NEWS_16811_06102026035833_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1526c775d011a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו בפתח ישיבת הממשלה: ״חמאס ינסה לאתגר אותנו בשארית כוחותיו לקראת הבחירות כדי לנסות להשפיע עליהן",
+   "duration_s": 98,
+   "first_seen_ms": 1791284846504,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16853_06102026105857_1400_1791284449292_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791284455000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו בפתח ישיבת הממשלה: ״חמאס ינסה לאתגר אותנו בשארית כוחותיו לקראת הבחירות כדי לנסות להשפיע עליהן",
+   "type": "mivzakim",
+   "updated_ms": 1791284455000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1526c775d011a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16853_06102026105857/M_NEWS_16853_06102026105857_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1759ac853d01a1027.htm": {
    "author": "מבזקים",
