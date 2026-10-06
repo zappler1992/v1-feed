@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-98d10af98df01a1027.htm"
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-714adc0628f01a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ad4a5ffddef01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6450,6 +6451,22 @@
    "updated_ms": 1790848821000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w01/shorts-e62ac7076e6f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/rinat_meme_01102026/MASTER/rinat_meme_01102026_m/rinat_meme_01102026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-714adc0628f01a1027.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 39,
+   "first_seen_ms": 1791268945997,
+   "image": "https://img.mako.co.il/2026/10/06/inbie_jeffrey_061026_1400_1791261828809_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791261835000,
+   "sections": [],
+   "title": "יום לפני צאת ספרו: ג'פרי ארצ'ר הלך לעולמו",
+   "type": "general",
+   "updated_ms": 1791261835000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-714adc0628f01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/inbie_jeffrey_061026/MASTER/inbie_jeffrey_061026/inbie_jeffrey_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-dd6a57e1e2701a1027.htm": {
    "author": "תרבות",
@@ -65665,6 +65682,24 @@
    "updated_ms": 1791264535000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_jdvans_6932_06102026052738/V1_karind_jdvans_6932_06102026052738_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ad4a5ffddef01a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מערבולת אבק באמצע הכביש: משפחה תיעדה את התופעה המפתיעה בדרום קליפורניה",
+   "duration_s": 16,
+   "first_seen_ms": 1791268945997,
+   "image": "https://img.mako.co.il/2026/10/06/V1_karind_california_6936_06102026063925_1400_1791268845309_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791268851000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מערבולת אבק באמצע הכביש: משפחה תיעדה את התופעה המפתיעה בדרום קליפורניה",
+   "type": "mivzakim",
+   "updated_ms": 1791268851000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ad4a5ffddef01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_california_6936_06102026063925/V1_karind_california_6936_06102026063925_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm": {
    "author": "מבזקים מהעולם",
