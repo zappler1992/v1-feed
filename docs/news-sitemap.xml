@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-730455e759011a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T09:54:24+00:00</news:publication_date>
+<news:title>&quot;בוא נקום, האוטו הולך להתפוצץ!&quot;: צפו בתיעוד הקשה מהדקות שאחרי הפיצוץ בארמון הנציב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_KARIND_PITZUZ_6951_06102026095227_1400_1791280456975_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81e93c9349011a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1862,14 +1871,5 @@
 <news:title>ירושלים: גבר כבן 70 פונה במצב אנוש תוך כדי פעולות החייאה לאחר שנחנק במהלך האוכל</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/M_NEWS_16716_04102026100340_1400_1791108305015_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-837b761c15601a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T09:53:09+00:00</news:publication_date>
-<news:title>ברצועה מדווח על הרוג בתקיפה בחאן יונס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/M_NEWS_16715_04102026095122_1400_1791107582158_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
