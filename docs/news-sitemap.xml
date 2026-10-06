@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-930cc489b3b01a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T08:40:00+00:00</news:publication_date>
+<news:title>מסודרים פרק 53: הוויאגרה של אבא</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/LOADED_EP53_1400_1791190004550_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w03/shorts-21c2e234879a0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T08:36:00+00:00</news:publication_date>
+<news:title>אהבה מעבר לפינה פרק 22: בורחת אל הוודקה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/16/LOVE_CORNER_EP22_M_1400_1789550290886_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22ce6492d4011a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1853,32 +1871,5 @@
 <news:title>יניב השרברב חושף את הפרט שכולם הכי רוצים לדעת: מה עשיתי בצבא</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/SHIR_YANIV_041026_1400_1791103829199_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c6bf198ee0601a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T08:45:12+00:00</news:publication_date>
-<news:title>גשמים כבדים והצפות בברצלונה: הנהר עולה במהירות ומאיים להציף את העיר | צפו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_karind_barcelona_6839_04102026084337_1400_1791103505132_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-8ef452aef8501a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T08:44:00+00:00</news:publication_date>
-<news:title>בקצב השקר פרק 7: שאלה אחת מסבכת הכל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/ACADEMY_OF_LIES_EP07_1400_1791095624633_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w02/shorts-d069aa26aa180a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T08:43:00+00:00</news:publication_date>
-<news:title>אהבה מעבר לפינה פרק 20: מסרב לוותר עליה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/08/LOVE_CORNER_EP20_M_1400_1788881854379_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
