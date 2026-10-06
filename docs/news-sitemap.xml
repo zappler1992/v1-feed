@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-dd10d67d8f011a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-06T11:34:51+00:00</news:publication_date>
+<news:title>ילדים, זכיתי בנובל: פרופ&#x27; קרל דייסרות&#x27; מבשר למשפחה על קבלת פרס נובל לרפואה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_nobble_6953_06102026113310_1400_1791286483664_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1526c775d011a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1763,23 +1772,5 @@
 <news:title>דיווח ב-CBS: החוקרים הישראלים מעריכים כי הטייס-המחבל פעל לבד, במתווה של &quot;מפגע בודד&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_karind_mehabel_041026_6854_04102026115947_1400_1791115260418_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-82a1b120fa601a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T11:35:30+00:00</news:publication_date>
-<news:title>דיווח באיטליה: הטייס מחבל ניסה להשתלט על הטיסה ולרסק אותה בגורדי שחקים בתל אביב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/V1_karind_hatifa_6853_04102026113356_1400_1791113723980_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-b85c6e636a601a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-04T11:34:00+00:00</news:publication_date>
-<news:title>פער של 14 שנה: ליהי טולדנו בזוגיות עם המנהלת האישית שלה מיטל שבח</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/04/fix_couple_1_1400_1791113656911_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
