@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aefdc2b4da111a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ea1ec2b4da111a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-12b8fd88e2011a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a722c2b4da111a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23562,6 +23564,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-db41b0e196b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_GRENDMA_051026/MASTER/SHIR_GRENDMA_051026/SHIR_GRENDMA_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ea1ec2b4da111a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שיא חדש של גועל: ינון מגל השתלח בשידור בשורדי שבי, בני משפחות חטופים ומשפחות שכולות שחתמו על הספר \"מר הפקרה\", כינה אותם \"אנשים מתועבים\" וקרא להם להתנצל בפני נתניהו.",
+   "duration_s": 70,
+   "first_seen_ms": 1791298946035,
+   "image": "https://img.mako.co.il/2026/10/06/yoav_yinon_061026_1400_1791298445152_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791298680000,
+   "sections": [],
+   "title": "ינון מגל השתלח בשורדי שבי ובמשפחות שכולות: \"אנשים מתועבים\"",
+   "type": "news",
+   "updated_ms": 1791298680000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ea1ec2b4da111a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/yoav_yinon_061026/MASTER/yoav_yinon_061026/yoav_yinon_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f35552aef8501a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -45812,6 +45830,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a67f0411afa01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16768_05102026073552/M_NEWS_16768_05102026073552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a722c2b4da111a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב קורקינט חשמלי בן 23 במצב בינוני לאחר שנפצע במהלך רכיבה בכפר יונה",
+   "duration_s": 9,
+   "first_seen_ms": 1791298946035,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16868_06102026025718_1400_1791298733999_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791298740000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב קורקינט חשמלי בן 23 במצב בינוני לאחר שנפצע במהלך רכיבה בכפר יונה",
+   "type": "mivzakim",
+   "updated_ms": 1791298740000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a722c2b4da111a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16868_06102026025718/M_NEWS_16868_06102026025718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a730a2e9f4111a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -57495,6 +57531,22 @@
    "updated_ms": 1790840340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w01/shorts-19de27fe6f5f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/Amit_ROMI_ADI_NAZA/MASTER/Amit_ROMI_ADI_NAZA_M_E/Amit_ROMI_ADI_NAZA_M_E_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-12b8fd88e2011a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מיוחד ל-V1: שלוש שנים אחרי דניאלה גלבוע חושפת מה קרה דקה אחר דקה בחטיפת התצפיתניות",
+   "duration_s": 85,
+   "first_seen_ms": 1791298946035,
+   "image": "https://img.mako.co.il/2026/10/06/Amit_DANIELA_0710_FINAL_M_1400_1791272906739_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791298740000,
+   "sections": [],
+   "title": "מיוחד ל-V1: שלוש שנים אחרי דניאלה גלבוע מספרת מה קרה דקה אחר דקה בחטיפת התצפיתניות",
+   "type": "general",
+   "updated_ms": 1791298740000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-12b8fd88e2011a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/fix_daniela_m/fix_daniela_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-a7efddc40b701a1026.htm": {
    "author": "מיוחד",
