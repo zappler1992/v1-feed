@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791320548840,
+ "last_run_ms": 1791320848845,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19532,6 +19532,18 @@
    "published_ms": 1791222240000,
    "section": "",
    "title": "מה שסיפר הטייס המחבל לחוקרים - והמעורבות של השב\"כ"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-96d3a94bd3211a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-96d3a94bd3211a1026.htm",
+   "checked_ms": 1791320666728,
+   "content_type": "article",
+   "first_seen_ms": 1791320666728,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791315120000,
+   "section": "",
+   "title": "ארה\"ב בוחנת את ביטול הפטור מוויזה לישראלים"
   },
   "https://www.mako.co.il/special-mako-news/Article-99063a8019dc0a1027.htm": {
    "check_attempts": 1,
