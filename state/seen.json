@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-98a1ba70a5f01a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-43a3ba70a5f01a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e22ae93557f01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44414,6 +44415,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e47a8e258601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_SHIR_LEBANON_6850_04102026105830/V1_SHIR_LEBANON_6850_04102026105830_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-43a3ba70a5f01a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מסוכן: בגלל טרנד ברשתות - נהג תועד כשהוא נוסע בזיגזג בכבישי אשדוד",
+   "duration_s": 10,
+   "first_seen_ms": 1791261145787,
+   "image": "https://img.mako.co.il/2026/10/06/V1_KARIND_CAR_6929_06102026042851_1400_1791260992305_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791260999000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מסוכן: בגלל טרנד ברשתות - נהג תועד כשהוא נוסע בזיגזג בכבישי אשדוד",
+   "type": "mivzakim",
+   "updated_ms": 1791260999000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-43a3ba70a5f01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_KARIND_CAR_6929_06102026042851/V1_KARIND_CAR_6929_06102026042851_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-47bde36e3ea01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45934,6 +45953,24 @@
    "updated_ms": 1791225581000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e1759ac853d01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_shaminirekand_6922_05102026063752/V1_shaminirekand_6922_05102026063752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e22ae93557f01a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופניים חשמליים בן 17 נפצע במהלך רכיבה ברחוב רבי שמעון בר יוחאי במודיעין עילית",
+   "duration_s": 9,
+   "first_seen_ms": 1791261145787,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16815_06102026042827_1400_1791260985213_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791260991000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופניים חשמליים בן 17 נפצע במהלך רכיבה ברחוב רבי שמעון בר יוחאי במודיעין עילית",
+   "type": "mivzakim",
+   "updated_ms": 1791260991000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e22ae93557f01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16815_06102026042827/M_NEWS_16815_06102026042827_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e45b04e1b9501a1026.htm": {
    "author": "מבזקים",
