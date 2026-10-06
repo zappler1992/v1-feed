@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791285149044,
+ "last_run_ms": 1791285449111,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2003,7 +2003,7 @@
    "indexnow_ms": null,
    "published_ms": 1791280020000,
    "section": "ספורט",
-   "title": "בגלל סעיף בעייתי: \"היורוליג תסרב ל-NBA\""
+   "title": "\"הצעה ביזיונית\": היורוליג דחתה את ה-NBA"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-51a34f5bb78f0a1027.htm": {
    "check_attempts": 1,
@@ -11744,6 +11744,18 @@
    "published_ms": 1790239920000,
    "section": "HIX",
    "title": "כתב \"פוטין שמוק\" על פתק בחירות, ונענש בחומרה"
+  },
+  "https://www.mako.co.il/hix-special/Article-df1865b06e011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791285266734,
+   "content_type": "article",
+   "first_seen_ms": 1791285266734,
+   "indexable": true,
+   "indexnow_ms": 1791285266734,
+   "published_ms": 1791284880000,
+   "section": "HIX",
+   "title": "עמד בראש הביון הגרמני – ונעצר בחשד לבגידה"
   },
   "https://www.mako.co.il/hix-special/Article-e823e0603a6f0a1027.htm": {
    "check_attempts": 1,
