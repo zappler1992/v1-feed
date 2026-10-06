@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791282748927,
+ "last_run_ms": 1791283049951,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18837,6 +18837,18 @@
    "section": "חדשות",
    "title": "מועמד הליכוד נגד שורדת שבי: \"להחזיר אותך לחמאס\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-89d0bce65ef01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-89d0bce65ef01a1027.htm",
+   "checked_ms": 1791282867571,
+   "content_type": "article",
+   "first_seen_ms": 1791282867571,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791277800000,
+   "section": "חדשות",
+   "title": "ליברמן: \"אשמח שווינטר יעבור את אחוז החסימה\""
+  },
   "https://www.mako.co.il/special-mako-news/Article-8a5e486426fc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q3/Article-8a5e486426fc0a1026.htm",
@@ -21871,7 +21883,7 @@
    "indexnow_ms": 1791277664912,
    "published_ms": 1791277380000,
    "section": "תרבות tvbee",
-   "title": "מצה\"ל לטלוויזיה: התפקיד החדש של אביחי אדרעי"
+   "title": "אחרי 21 שנה בצה\"ל: הג'וב החדש של אביחי אדרעי"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-2094abfe434d0a1026.htm": {
    "check_attempts": 1,
