@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ba3a9a350af01a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23102,6 +23101,22 @@
    "updated_ms": 1791194940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9291325303b01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_PILOT_051026_FIX/SHIR_PILOT_051026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 26,
+   "first_seen_ms": 1791264445847,
+   "image": "https://img.mako.co.il/2026/10/06/inbie_wikipedia_061026_1400_1791264046367_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791264052000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1791264052000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/inbie_wikipedia_061026/MASTER/inbie_wikipedia_061026/inbie_wikipedia_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a5aa27ac59c01a1027.htm": {
    "author": "חדשות",
@@ -46565,7 +46580,7 @@
    ],
    "title": "פולישוק פרק 3: מישהו שכח לעדכן את הלשכה",
    "type": "series",
-   "updated_ms": 1790671260000,
+   "updated_ms": 1791264240000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-9a29b49bf08e0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/28/POLISHUK_EP03/MASTER/POLISHUK_EP03/POLISHUK_EP03_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
