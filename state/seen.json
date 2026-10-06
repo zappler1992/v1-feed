@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-c04bd4540f011a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a730a2e9f4111a1026.htm",
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-348cc2db8c011a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14316,6 +14317,24 @@
    "updated_ms": 1790841394000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w01/shorts-f0f3fd31176f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/rinat_ceasarea_011026/MASTER/rinat_ceasarea_011026_m/rinat_ceasarea_011026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-348cc2db8c011a1027.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "עונת הסיילים של 2026 כבר כאן, וזה הזמן להכין את הארנקים (אבל לעשות את זה חכם). חודשי הקניות העמוסים של השנה מביאים איתם ים של מבצעים והזדמנויות. כדי שלא תלכו לאיבוד בתוך הטירוף, הכנו מדריך הישרדות מיוחד שמרכז את כל התאריכים שאתם פשוט חייבים להכיר.",
+   "duration_s": 95,
+   "first_seen_ms": 1791292345924,
+   "image": "https://img.mako.co.il/2026/10/06/inbie_sale_061026_1400_1791283252952_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791283259000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "איך לשרוד את חודשי הסיילים הגדולים של השנה",
+   "type": "general",
+   "updated_ms": 1791283259000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-348cc2db8c011a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/inbie_sale_061026/MASTER/inbie_sale_061026/inbie_sale_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-e0e033e059701a1027.htm": {
    "author": "לייף & סטייל",
@@ -45758,6 +45777,24 @@
    "updated_ms": 1791185814000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a67f0411afa01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16768_05102026073552/M_NEWS_16768_05102026073552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a730a2e9f4111a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקבע מותו של צעיר כבן 20 שנפגע בתאונת דרכים כשרכב על אופנוע בכניסה לנאעורה",
+   "duration_s": 9,
+   "first_seen_ms": 1791292345924,
+   "image": "https://img.mako.co.il/2026/10/06/M_NEWS_16858_06102026010723_1400_1791292132243_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791292138000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקבע מותו של צעיר כבן 20 שנפגע בתאונת דרכים כשרכב על אופנוע בכניסה לנאעורה",
+   "type": "mivzakim",
+   "updated_ms": 1791292138000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a730a2e9f4111a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16858_06102026010723/M_NEWS_16858_06102026010723_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a8d5571d9eb01a1027.htm": {
    "author": "מבזקים",
