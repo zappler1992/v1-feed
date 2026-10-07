@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791397048849,
+ "last_run_ms": 1791397349031,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4966,6 +4966,18 @@
    "published_ms": 1790924100000,
    "section": "ספורט",
    "title": "זו פגרה? 3:4 להפועל חיפה על הפועל ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-2e5e864865711a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791397349031,
+   "content_type": "article",
+   "first_seen_ms": 1791397349031,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791393360000,
+   "section": "ספורט",
+   "title": "\"הפועל הייתה חלק מהישראליות של הירש\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-34c5c5ba786f0a1026.htm": {
    "check_attempts": 1,
@@ -21248,6 +21260,18 @@
    "published_ms": 1790406120000,
    "section": "",
    "title": "\"חלק משחקני נבחרת אירלנד יחרימו את המשחק נגד ישראל\""
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/liveblog-4fbf25dc62711a1027.htm",
+   "checked_ms": 1791397226684,
+   "content_type": "liveblog",
+   "first_seen_ms": 1791397226684,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791396900000,
+   "section": "",
+   "title": "שלוש שנים לטבח: טקס הזיכרון הלאומי בפארק הירקון"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-5a5a2d3f536f0a1027.htm": {
    "check_attempts": 1,
