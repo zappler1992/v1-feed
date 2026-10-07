@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791369748930,
+ "last_run_ms": 1791370048813,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -192,6 +192,18 @@
    "published_ms": 1790845877000,
    "section": "Fashion Forward",
    "title": "לירון כרקוקלי בחרה שמלת כלה מהחלומות, ואז עברה למיני עם הפתעה"
+  },
+  "https://fashionforward.mako.co.il/more/weddings/321395/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791370048813,
+   "content_type": "article",
+   "first_seen_ms": 1791370048813,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791369864000,
+   "section": "Fashion Forward",
+   "title": "בטירה קסומה: אין פנטזיה שהכלה הזאת לא הגשימה בחתונה שלה"
   },
   "https://fashionforward.mako.co.il/more/weekend/321127/": {
    "check_attempts": 1,
@@ -4309,6 +4321,18 @@
    "section": "ספורט",
    "title": "\"פחות שמות, יותר עבודה\": התוכנית לקוסובו"
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e8cb359e0e511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791369867080,
+   "content_type": "article",
+   "first_seen_ms": 1791369867080,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791369360000,
+   "section": "ספורט",
+   "title": "אוריין גורן יקבל זימון לנבחרת הבוגרת"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ebd912d9bc401a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -7533,6 +7557,18 @@
    "section": "סלבס",
    "title": "המשפיעניות נגד ישראלים שטסים לדובאי: \"אתם כאפות\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0af23066ad511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791369987039,
+   "content_type": "article",
+   "first_seen_ms": 1791369987039,
+   "indexable": true,
+   "indexnow_ms": 1791369987039,
+   "published_ms": 1791369720000,
+   "section": "סלבס",
+   "title": "\"המדינה הזאת קורסת ומתפוררת. אותם אנשים אחראים לבגידה\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0c0b6c775d011a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -8948,6 +8984,18 @@
    "published_ms": 1791184260000,
    "section": "סלבס",
    "title": "בזמן שהיא מגלגלת מיליארדים: הווידוי של הכוכבת על ילדיה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-ee47fd8a59511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791369987039,
+   "content_type": "article",
+   "first_seen_ms": 1791369987039,
+   "indexable": true,
+   "indexnow_ms": 1791369987039,
+   "published_ms": 1791369180000,
+   "section": "סלבס",
+   "title": "\"היא לא עשתה אף טעות, עד היום\": התיעוד שסיבך את הכוכבת"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-f85b53f5447f0a1027.htm": {
    "check_attempts": 1,
