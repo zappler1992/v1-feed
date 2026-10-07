@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8163a47132711a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6af7a47132711a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23645,7 +23645,8 @@
    "importance": 2,
    "published_ms": 1791377818000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"אנשים ריחפו באוויר ובכו\": הנוסע התאילנדי שתיעד את האימה של הישראלים מדובאי",
    "type": "news",
@@ -46371,6 +46372,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6a244eca1cb01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_biuv_6901_05102026111920/V1_karind_biuv_6901_05102026111920_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6af7a47132711a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד ממסוק הקרב של צה\"ל ב-7 באוקטובר: כך נראה מהאוויר רגע חטיפת התצפיתניות מנחל עוז | חשיפת N12",
+   "duration_s": 41,
+   "first_seen_ms": 1791391645779,
+   "image": "https://img.mako.co.il/2026/10/07/V1_rinat_tazthpitaniyot_071026_7021_07102026043932_1400_1791391260004_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791391266000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד ממסוק הקרב של צה\"ל ב-7 באוקטובר: כך נראה מהאוויר רגע חטיפת התצפיתניות מנחל עוז | חשיפת N12",
+   "type": "mivzakim",
+   "updated_ms": 1791391266000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6af7a47132711a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_rinat_tazthpitaniyot_071026_7021_07102026043932/V1_rinat_tazthpitaniyot_071026_7021_07102026043932_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6e1112d9bc401a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -68611,7 +68630,8 @@
    "importance": 0,
    "published_ms": 1791378081000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשידור חי בפייסבוק: רבה עם בעלה - וקפצה מהמרפסת | התיעוד שמסעיר את כל מצרים",
    "type": "mivzakim",
