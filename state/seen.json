@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-79924a7e42511a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c2d4988072511a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47030,6 +47031,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c2a2099538d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16807_05102026074322/M_NEWS_16807_05102026074322_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c2d4988072511a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "במלוא 3 שנים לטבח: שביל על שם שירי, אריאל וכפיר ביבס ז\"ל נחנך השבוע בפארק מונסו שבלב פריז",
+   "duration_s": 9,
+   "first_seen_ms": 1791357146371,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_paris_6983_07102026070632_1400_1791356876580_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791356883000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "במלוא 3 שנים לטבח: שביל על שם שירי, אריאל וכפיר ביבס ז\"ל נחנך השבוע בפארק מונסו שבלב פריז",
+   "type": "mivzakim",
+   "updated_ms": 1791356883000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c2d4988072511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_paris_6983_07102026070632/V1_karind_paris_6983_07102026070632_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c83f7ef9f1011a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -47227,6 +47246,24 @@
    "updated_ms": 1791222063000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d08117f961d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16803_05102026053942/M_NEWS_16803_05102026053942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הולך רגל בן 61 נפצע בינוני מפגיעת רכב במעלות תרשיחא",
+   "duration_s": 9,
+   "first_seen_ms": 1791357146371,
+   "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16904_07102026070718_1400_1791356903355_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791356909000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הולך רגל בן 61 נפצע בינוני מפגיעת רכב במעלות תרשיחא",
+   "type": "mivzakim",
+   "updated_ms": 1791356909000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16904_07102026070718/M_NEWS_16904_07102026070718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d4ccd705a4701a1026.htm": {
    "author": "מבזקים",
