@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9272650c69711a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/07/rinat_scooterbraun_071026_m_1400_1791397801478_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>7 באוקטובר מול מיליוני עוקבים בעולם: המפיק היהודי-אמריקאי סקוטר בראון שוב לצד ישראל</video:title>
+<video:description>שלוש שנים אחרי 7 באוקטובר, סקוטר בראון ממשיך להזכיר למיליוני העוקבים שלו את מה שקרה בישראל. המפיק היהודי-אמריקאי שיתף תיעוד ממיצג הנובה ומחווה לזכרה של ענבר שם טוב ז״ל, אחרי שכבר ביקר באתרי הטבח, נפגש עם משפחות חטופים וניצולים והביא את הסיפורים שלהם לקהל שלו.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/rinat_scooterbraun_071026/MASTER/rinat_scooterbraun_071026_m/rinat_scooterbraun_071026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>34</video:duration>
+<video:publication_date>2026-10-07T18:30:08+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
+<video:tag>סלבס</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-82755783e8711a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/07/M_NEWS_16930_07102026061526_1400_1791397034052_FirstFrame.jpg</video:thumbnail_loc>
@@ -257,6 +273,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -272,6 +289,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -434,6 +452,7 @@
 <video:live>no</video:live>
 <video:uploader>סרטונים מהירים</video:uploader>
 <video:tag>הכי Vיראלים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סרטונים מהירים</video:tag>
 </video:video>
 </url>
