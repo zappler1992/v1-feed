@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791361348782,
+ "last_run_ms": 1791361648803,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4906,6 +4906,18 @@
    "published_ms": 1790924700000,
    "section": "ספורט",
    "title": "סתיו טוריאל נפצע: זה מועד חזרתו המשוער"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-66c6be86e6511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791361648803,
+   "content_type": "article",
+   "first_seen_ms": 1791361648803,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791361320000,
+   "section": "ספורט",
+   "title": "החולצה של מכבי תל אביב לזכר אוהדי הקבוצה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-672a36d8a87f0a1026.htm": {
    "check_attempts": 1,
@@ -11133,6 +11145,18 @@
    "section": "בריאות",
    "title": "הזמינה מהמסעדה המוכרת ונדהמה: \"משהו זז בסלט\""
   },
+  "https://www.mako.co.il/health-news/Article-8915f8178b111a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791361587178,
+   "content_type": "article",
+   "first_seen_ms": 1791361587178,
+   "indexable": true,
+   "indexnow_ms": 1791361587178,
+   "published_ms": 1791361080000,
+   "section": "בריאות",
+   "title": "אב ובן סגרו את מועדון הכושר ויצאו למסע שיקום"
+  },
   "https://www.mako.co.il/health-news/Article-8f41f4a1ce6e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14383,7 +14407,7 @@
    "indexnow_ms": 1791360867100,
    "published_ms": 1791360660000,
    "section": "",
-   "title": "מלי וליאל לא נעצרו: הדרכון המזויף שהוביל לטעות בזיהוי"
+   "title": "מלי וליאל לא נעצרו? הפרט המפתיע שהוביל לטעות בזיהוי"
   },
   "https://www.mako.co.il/men-men_news/Article-2d57b472f0fd0a1026.htm": {
    "check_attempts": 1,
