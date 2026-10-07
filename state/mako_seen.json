@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791351750093,
+ "last_run_ms": 1791352049935,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15621,6 +15621,18 @@
    "section": "פלילים",
    "title": "\"רצה להשתלט על ענף שמגלגל מיליוני שקלים\""
   },
+  "https://www.mako.co.il/men-men_news/Article-efe7af326c411a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/travel-news/international/Article-efe7af326c411a1027.htm",
+   "checked_ms": 1791351987133,
+   "content_type": "article",
+   "first_seen_ms": 1791351987133,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791351360000,
+   "section": "",
+   "title": "מלי וליאל יהלומי נעצרו באפריקה עם דרכונים מזויפים"
+  },
   "https://www.mako.co.il/men-men_news/Article-f01ea94bd3211a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -21356,6 +21368,18 @@
    "published_ms": 1790055600000,
    "section": "חופש",
    "title": "הותקף בגלל ויכוח על מיטת שיזוף בחוף ים - ומת"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-89f4af326c411a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791351987133,
+   "content_type": "article",
+   "first_seen_ms": 1791351987133,
+   "indexable": true,
+   "indexnow_ms": 1791351987133,
+   "published_ms": 1791349980000,
+   "section": "חופש",
+   "title": "אחרי חודשים: החברה הענקית שחוזרת בקרוב לארץ"
   },
   "https://www.mako.co.il/travel-news/international/Article-8f47cda1143d0a1026.htm": {
    "check_attempts": 1,
