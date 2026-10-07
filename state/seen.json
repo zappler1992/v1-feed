@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c4583dea75611a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-e52a09e883611a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-5d0e901182611a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3744,6 +3745,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-4e5732b740011a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/biata_moni_061026/MASTER/biata_moni_061026/biata_moni_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-5d0e901182611a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "לא נעים: האלבום החדש של מיילי סיירוס, Bass Persuades, נכנס למצעד האלבומים האמריקאי במקום הראשון. שבוע לאחר מכן הוא צנח למקום 157 - הנפילה החדה ביותר עבור אלבום של זמרת אי-פעם",
+   "duration_s": 17,
+   "first_seen_ms": 1791376946363,
+   "image": "https://img.mako.co.il/2026/10/07/alice_071026_miley_1400_1791373265382_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791373272000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "שברה שיא שלילי: ההתרסקות המביכה של מיילי סיירוס",
+   "type": "general",
+   "updated_ms": 1791373272000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-5d0e901182611a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/alice_071026_miley/MASTER/alice_071026_miley/alice_071026_miley_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-62a646575b211a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -5593,6 +5612,24 @@
    "updated_ms": 1791095251000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-bf36175498501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_BRUCE_6829_04102026062614/V1_BRUCE_6829_04102026062614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-e52a09e883611a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "נותן לכולנו תקווה: עומר אדם משתף בסרטון ששר לחיילים בתחילת המלחמה",
+   "duration_s": 59,
+   "first_seen_ms": 1791376946363,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_omeradam_7005_07102026115939_1400_1791374475539_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791374482000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "נותן לכולנו תקווה: עומר אדם משתף בסרטון ששר לחיילים בתחילת המלחמה",
+   "type": "mivzakim",
+   "updated_ms": 1791374482000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w02/shorts-e52a09e883611a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_omeradam_7005_07102026115939/V1_karind_omeradam_7005_07102026115939_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -47517,7 +47554,7 @@
    "duration_s": 9,
    "first_seen_ms": 1791376346776,
    "image": "https://img.mako.co.il/2026/10/07/V1_karind_wolt_7007_07102026122909_1400_1791376229462_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791376235000,
    "sections": [
     "מבזקים"
