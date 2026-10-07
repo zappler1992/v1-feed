@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm"
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-36bdedfc61511a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1c80edfc61511a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44662,20 +44663,20 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90",
-   "duration_s": 9,
+   "description": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90, כביש הערבה נחסם לתנועה מדרום לצפון",
+   "duration_s": 11,
    "first_seen_ms": 1791355645951,
-   "image": "https://img.mako.co.il/2026/10/07/V1_karind_fire_6980_07102026064218_1400_1791355429432_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/07/FIX_FIRE_1400_1791355784339_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1791355435000,
    "sections": [
     "מבזקים"
    ],
-   "title": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90",
+   "title": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90, כביש הערבה נחסם לתנועה מדרום לצפון",
    "type": "mivzakim",
-   "updated_ms": 1791355435000,
+   "updated_ms": 1791355740000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_fire_6980_07102026064218/V1_karind_fire_6980_07102026064218_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/FIX_FIRE/FIX_FIRE_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-15c88ef35e501a1027.htm": {
    "author": "מבזקים",
@@ -44820,6 +44821,24 @@
    "updated_ms": 1791352525000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1af1de600e411a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16896_07102026055345/M_NEWS_16896_07102026055345_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1c80edfc61511a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד לניגוד עניינים - המשטרה פתחה בבדיקה נגד שני בכירים במשרד התחבורה שעבדו במקביל בחברות תעופה",
+   "duration_s": 9,
+   "first_seen_ms": 1791355945926,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_flydubai_6981_07102026064556_1400_1791355634774_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791355641000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד לניגוד עניינים - המשטרה פתחה בבדיקה נגד שני בכירים במשרד התחבורה שעבדו במקביל בחברות תעופה",
+   "type": "mivzakim",
+   "updated_ms": 1791355641000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1c80edfc61511a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_flydubai_6981_07102026064556/V1_karind_flydubai_6981_07102026064556_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm": {
    "author": "מבזקים",
@@ -61377,6 +61396,22 @@
    "updated_ms": 1790521620000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m09_w05/shorts-90b998a7951e0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/biata_bangkok_fix/biata_bangkok_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-36bdedfc61511a1026.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 24,
+   "first_seen_ms": 1791355945926,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_BRITISH_071026_1400_1791355404844_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791355680000,
+   "sections": [],
+   "title": "אחרי חודשים של ביטולים: חברת הענק חוזרת לישראל",
+   "type": "general",
+   "updated_ms": 1791355380000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-36bdedfc61511a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_BRITISH_071026/MASTER/SHIR_BRITISH_071026/SHIR_BRITISH_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm": {
    "author": "חופש וטיולים",
