@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c4583dea75611a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/07/V1_karind_wolt_7007_07102026122909_1400_1791376229462_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>וולט בהודעה: לא ניתן לבצע הזמנות - אנו חווים תקלה גלובלית</video:title>
+<video:description>וולט בהודעה: לא ניתן לבצע הזמנות - אנו חווים תקלה גלובלית</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_wolt_7007_07102026122909/V1_karind_wolt_7007_07102026122909_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-07T12:30:35+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fbcb09e883611a1027.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/10/07/V1_karind_maliandliel_7006_07102026120724_1400_1791374917665_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>גורם במשטרה: מלי וליאל צפויות לנחות בעוד כשעה בנתב&quot;ג, בטיסת ישראייר מאתונה</video:title>
-<video:description>גורם במשטרה: מלי וליאל צפויות לנחות בעוד כשעה בנתב&quot;ג, בטיסת ישראייר מאתונה</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_maliandliel_7006_07102026120724/V1_karind_maliandliel_7006_07102026120724_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>9</video:duration>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/07/fix_maliliel_1400_1791376028958_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>גורם במשטרה: מלי וליאל צפויות לנחות בקרוב בנתב&quot;ג, בטיסת ישראייר מאתונה</video:title>
+<video:description>גורם במשטרה: מלי וליאל צפויות לנחות בקרוב בנתב&quot;ג, בטיסת ישראייר מאתונה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/fix_maliliel/fix_maliliel_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>45</video:duration>
 <video:publication_date>2026-10-07T12:08:44+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -305,6 +321,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -486,6 +503,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -615,6 +633,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
