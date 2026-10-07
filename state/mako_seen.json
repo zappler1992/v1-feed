@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791394048698,
+ "last_run_ms": 1791394348569,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19557,6 +19557,18 @@
    "section": "צבא וביטחון",
    "title": "\"איבדה 10,000 חיילים בתוך שבוע\": המכה למעצמה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-384c581234711a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-384c581234711a1027.htm",
+   "checked_ms": 1791394227604,
+   "content_type": "article",
+   "first_seen_ms": 1791394227604,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791394140000,
+   "section": "",
+   "title": "התיעוד שנחשף מרגע חטיפת התצפיתניות מנחל עוז"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-477f5afb0fa01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20683,7 +20695,7 @@
    "indexnow_ms": null,
    "published_ms": 1791374700000,
    "section": "",
-   "title": "אחרי הסערה סביבן: מלי וליאל יהלומי נחתו בישראל"
+   "title": "התמונה של מלי וליאל יהלומי אחרי הנחיתה בישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
