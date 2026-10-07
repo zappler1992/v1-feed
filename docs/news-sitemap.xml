@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-28866951df711a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T20:47:22+00:00</news:publication_date>
+<news:title>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-28866951df711a1026.htm</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/SHIRA_TEKES_071026_M_1400_1791406036607_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87ad1be8de711a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1818,14 +1827,5 @@
 <news:title>מי צריך לצאת מהבית עם מטריה: התחזית המלאה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_forecast_6926_06102026035306_1400_1791258909549_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-18b869f61dd01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T20:52:11+00:00</news:publication_date>
-<news:title>האונס הקבוצתי באוניברסיטת היוקרה שמסעיר את ארה&quot;ב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/Kim_Cornell_05102026_1400_1791233524224_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
