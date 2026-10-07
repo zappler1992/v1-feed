@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-56363a8a5f411a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-871965fb11511a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44432,14 +44432,14 @@
    "duration_s": 38,
    "first_seen_ms": 1791343946788,
    "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16886_07102026032437_1400_1791343556814_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791343563000,
    "sections": [
     "מבזקים"
    ],
    "title": "השער האחרון של מסי בנבחרת ארגנטינה: פנדל מול נבחרת בנין",
    "type": "mivzakim",
-   "updated_ms": 1791343563000,
+   "updated_ms": 1791354600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-026f1c77e4411a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16886_07102026032437/M_NEWS_16886_07102026032437_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -67278,6 +67278,24 @@
    "updated_ms": 1791090645000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-74a14bee14501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_ukraine_6828_04102026050923/V1_karind_ukraine_6828_04102026050923_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-871965fb11511a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "כדור אש ענקי: פיצוץ גדול אירע בבית זיקוק נפט בוונצואלה",
+   "duration_s": 87,
+   "first_seen_ms": 1791355046240,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_Venezuela_6979_07102026063159_1400_1791354867964_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791354874000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "כדור אש ענקי: פיצוץ גדול אירע בבית זיקוק נפט בוונצואלה",
+   "type": "mivzakim",
+   "updated_ms": 1791354874000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-871965fb11511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_Venezuela_6979_07102026063159/V1_karind_Venezuela_6979_07102026063159_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8a7bbe3eddb01a1026.htm": {
    "author": "מבזקים מהעולם",
