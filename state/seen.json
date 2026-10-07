@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c2bd4d325c511a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-75f24d325c511a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-dbeffa00aa511a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-48f4a7cf3a511a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-59712b08b6511a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23330,6 +23333,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-43f38b2700211a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX2_AmitSegal_06102026/FIX2_AmitSegal_06102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-48f4a7cf3a511a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מגיפת הדבר, המכונה גם \"המוות השחור\", הרגה מיליונים במאה ה-14 ועכשיו מאיימת לחזור לחיינו ובענק, אחרי שלבורנטית ברוסיה מתה כביכול מהחיידק. אז עד כמה זה באמת מסוכן, והאם יש לזה טיפול? עושים סדר",
+   "duration_s": 95,
+   "first_seen_ms": 1791367646697,
+   "image": "https://img.mako.co.il/2026/10/07/alice_071026_plague_1400_1791364701151_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791364707000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "עד כמה המגיפה שחוזרת לחיינו מסוכנת: עושים סדר",
+   "type": "news",
+   "updated_ms": 1791364707000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-48f4a7cf3a511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/alice_071026_plague/MASTER/alice_071026_plague/alice_071026_plague_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-4d2122593dc01a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -23382,6 +23403,24 @@
    "updated_ms": 1791348240000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-51d73235d8411a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_NOVA_071026/MASTER/SHIR_NOVA_071026_1/SHIR_NOVA_071026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-59712b08b6511a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "רוצים לדעת מה בונים ליד הדירה לפני שחותמים? האתר הזה בודק עבורכם את הסביבה\nמכניסים כתובת בת״א ורואים מה כבר בבנייה ממש עכשיו, כמה רעש יש, ומה מתוכנן.",
+   "duration_s": 35,
+   "first_seen_ms": 1791367646697,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_TAMA_071026_1400_1791360843513_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791360849000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "לפני שסוגרים דירה: האתר שיגלה לכם מה בונים ליד הבית - בפחות מדקה",
+   "type": "news",
+   "updated_ms": 1791360840000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-59712b08b6511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_TAMA_071026/MASTER/SHIR_TAMA_071026/SHIR_TAMA_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5ae7198ee0601a1027.htm": {
    "author": "חדשות",
@@ -23896,6 +23935,24 @@
    "updated_ms": 1791193380000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-db41b0e196b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_GRENDMA_051026/MASTER/SHIR_GRENDMA_051026/SHIR_GRENDMA_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-dbeffa00aa511a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "איך הצליח מחבל לעלות על טיסה לישראל? כעת נבדקים הכשלים והחשדות לניגוד עניינים במשרד התחבורה.",
+   "duration_s": 102,
+   "first_seen_ms": 1791367646697,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_FLY_071026_1400_1791365331088_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791365337000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "התפתחות בפרשת טיסת פליי דובאי",
+   "type": "news",
+   "updated_ms": 1791365340000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-dbeffa00aa511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_FLY_071026/MASTER/SHIR_FLY_071026/SHIR_FLY_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e75b0dc7fc111a1026.htm": {
    "author": "חדשות",
@@ -46040,6 +46097,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7589017e3e401a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16685_04102026031041/M_NEWS_16685_04102026031041_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-75f24d325c511a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דווקא בציון שלוש שנים ל-7.10: מחאה פרו-פלסטינית בברלין לאות הזדהות עם האזרחים בעזה | תיעוד מרתיח",
+   "duration_s": 17,
+   "first_seen_ms": 1791367646697,
+   "image": "https://img.mako.co.il/2026/10/07/V1_KARIND_BERLIN_6996_07102026100105_1400_1791367345671_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791367352000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דווקא בציון שלוש שנים ל-7.10: מחאה פרו-פלסטינית בברלין לאות הזדהות עם האזרחים בעזה | תיעוד מרתיח",
+   "type": "mivzakim",
+   "updated_ms": 1791367352000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-75f24d325c511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_BERLIN_6996_07102026100105/V1_KARIND_BERLIN_6996_07102026100105_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -47956,19 +48031,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "פרופסור שחר נבו הוא הפרופסור למתמטיקה שהואשם בתכנון פיגועים נגד ערבים",
-   "duration_s": 9,
+   "duration_s": 13,
    "first_seen_ms": 1791364046159,
-   "image": "https://img.mako.co.il/2026/10/07/V1_karind_profesor_6989_07102026090424_1400_1791363941165_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/07/fix_PROFFESOR_1400_1791364257275_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1791363947000,
    "sections": [
     "מבזקים"
    ],
    "title": "פרופסור שחר נבו הוא הפרופסור למתמטיקה שהואשם בתכנון פיגועים נגד ערבים",
    "type": "mivzakim",
-   "updated_ms": 1791363947000,
+   "updated_ms": 1791364200000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_profesor_6989_07102026090424/V1_karind_profesor_6989_07102026090424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/fix_PROFFESOR/fix_PROFFESOR_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-edbe3235d8411a1027.htm": {
    "author": "מבזקים",
