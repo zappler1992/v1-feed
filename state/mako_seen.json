@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791365548908,
+ "last_run_ms": 1791365849094,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5135,6 +5135,18 @@
    "section": "ספורט",
    "title": "יחזור לאמן בארץ? מצבו של ז`ארקו לאזטיץ`"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e25873267b511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791365849094,
+   "content_type": "article",
+   "first_seen_ms": 1791365849094,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791365580000,
+   "section": "ספורט",
+   "title": "שמות מפתיעים: השחקנים היקרים בכל קבוצה"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e415db7ce96f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -9189,6 +9201,18 @@
    "section": "כסף",
    "title": "במקום לטוס לחו\"ל: הבילוי החדש שהפך לטרנד"
   },
+  "https://www.mako.co.il/finances-magazine/Article-89b2e5e2e9511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365849094,
+   "content_type": "article",
+   "first_seen_ms": 1791365849094,
+   "indexable": true,
+   "indexnow_ms": 1791365849094,
+   "published_ms": 1791364260000,
+   "section": "כסף",
+   "title": "מה יקרה אם מאסק יחלק לכל אחד מאיתנו 90 דולר?"
+  },
   "https://www.mako.co.il/finances-news/Article-1bdc6a85297f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -10256,6 +10280,18 @@
    "published_ms": 1790047800000,
    "section": "",
    "title": "המרק הזה קל בצורה מביכה והוא מושלם לכל שעה"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-asian_recipes/Recipe-dd5969539b011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365667362,
+   "content_type": "recipe",
+   "first_seen_ms": 1791365667362,
+   "indexable": true,
+   "indexnow_ms": 1791365667362,
+   "published_ms": 1791365400000,
+   "section": "",
+   "title": "סושי למתחילים: רוצים לארח ערב הנד רולס? כך עושים את זה"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-12f2b5c653011a1026.htm": {
    "check_attempts": 1,
@@ -15307,7 +15343,7 @@
    "indexnow_ms": 1791316348794,
    "published_ms": 1791315960000,
    "section": "",
-   "title": "חוזה חיסול של חצי מיליון שקל: עבריין מוכר מהשרון נמלט"
+   "title": "עבריין מוכר מהשרון נמלט לאזרבייג'אן"
   },
   "https://www.mako.co.il/men-men_news/Article-9da0bd272c4d0a1027.htm": {
    "check_attempts": 1,
@@ -15716,6 +15752,18 @@
    "published_ms": 1790303460000,
    "section": "פלילים",
    "title": "כך הסתבך המאפיונר הישראלי בפרשת ההימורים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-ceeafa00aa511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365849094,
+   "content_type": "article",
+   "first_seen_ms": 1791365849094,
+   "indexable": true,
+   "indexnow_ms": 1791365849094,
+   "published_ms": 1791365400000,
+   "section": "",
+   "title": "תמונה ראשונה: העצורה האיראנית שזוהתה בטעות כמלי יהלומי"
   },
   "https://www.mako.co.il/men-men_news/Article-cf1e85740ace0a1026.htm": {
    "check_attempts": 1,
@@ -17672,6 +17720,18 @@
    "published_ms": 1790258820000,
    "section": "דיגיטל",
    "title": "סומכים על התשובות מהצ'אט? כדאי שתתחילו לפקפק"
+  },
+  "https://www.mako.co.il/nexter-news/Article-2840a23078511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365667362,
+   "content_type": "article",
+   "first_seen_ms": 1791365667362,
+   "indexable": true,
+   "indexnow_ms": 1791365667362,
+   "published_ms": 1791365340000,
+   "section": "דיגיטל",
+   "title": "הסרטון הוויראלי של רה\"מ - והתשובה האיראנית המהירה"
   },
   "https://www.mako.co.il/nexter-news/Article-28798b2700211a1026.htm": {
    "check_attempts": 1,
