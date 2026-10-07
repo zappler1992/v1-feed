@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791375150549,
+ "last_run_ms": 1791375449154,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13125,6 +13125,18 @@
    "section": "הכי חם",
    "title": "הסטודנטית אמרה: \"גם אנחנו עשינו דברים קשים\""
   },
+  "https://www.mako.co.il/home-family-relationship/Article-0d7f09e883611a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791375267455,
+   "content_type": "article",
+   "first_seen_ms": 1791375267455,
+   "indexable": true,
+   "indexnow_ms": 1791375267455,
+   "published_ms": 1791375000000,
+   "section": "הורים",
+   "title": "שלוש שנים, חצי ק\"מ מעזה: \"כלום לא השתנה כאן\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-339bc2b4da111a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20420,6 +20432,18 @@
    "published_ms": 1790967600000,
    "section": "",
    "title": "מה גרם לטייס משנה להפוך למחבל שמנסה לרסק 174 נוסעים?"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5ae4af326c411a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-5ae4af326c411a1027.htm",
+   "checked_ms": 1791375449154,
+   "content_type": "article",
+   "first_seen_ms": 1791375449154,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791374700000,
+   "section": "",
+   "title": "מלי וליאל יהלומי בדרך לישראל – וינחתו בנתב\"ג בקרוב"
   },
   "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
