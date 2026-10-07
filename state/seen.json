@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9ec22bda0a611a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bcdf5a97bb611a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23394,7 +23394,8 @@
    "importance": 1,
    "published_ms": 1791364707000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "עד כמה המגיפה שחוזרת לחיינו מסוכנת: עושים סדר",
    "type": "news",
@@ -23871,7 +23872,8 @@
    "importance": 2,
    "published_ms": 1791372276000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "התיעודים האחרונים: מסיבת הטבע ברעים הפכה ללוח זיכרון לנרצחים, לחטופים ולנעדרים",
    "type": "news",
@@ -47510,6 +47512,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc9d3235d8411a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16891_07102026041734/M_NEWS_16891_07102026041734_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bcdf5a97bb611a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מלי וליאל נחתו בנתב\"ג - שימוש לפי סעיף 27א׳",
+   "duration_s": 9,
+   "first_seen_ms": 1791383846745,
+   "image": "https://img.mako.co.il/2026/10/07/MIV_MALI_1400_1791383731001_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791383737000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מלי וליאל נחתו בנתב\"ג - שימוש לפי סעיף 27א׳",
+   "type": "mivzakim",
+   "updated_ms": 1791383737000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bcdf5a97bb611a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/MIV_MALI/MIV_MALI_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bd352c97e8801a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -68302,7 +68322,8 @@
    "importance": 0,
    "published_ms": 1791367099000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הטיסה הכי צבעונית: 94 בלוני הליום הרימו סל עם טייס מניו מקסיקו לאריזונה",
    "type": "mivzakim",
@@ -68433,7 +68454,8 @@
    "importance": 0,
    "published_ms": 1791371611000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ממש כמו בטיטאניק: המעבורת התנגשה במזח, החלונות התנפצו - והיא המשיכה למנהטן",
    "type": "mivzakim",
