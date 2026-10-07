@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791400648860,
+ "last_run_ms": 1791400948815,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7268,6 +7268,18 @@
    "published_ms": 1790925780000,
    "section": "",
    "title": "\"אמרו לי 'תחזרו לתנורים בשואה, צריך להשמיד אתכם'\""
+  },
+  "https://www.mako.co.il/culture-articles/Article-a6863606f6711a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791400948815,
+   "content_type": "article",
+   "first_seen_ms": 1791400948815,
+   "indexable": true,
+   "indexnow_ms": 1791400948815,
+   "published_ms": 1791395400000,
+   "section": "",
+   "title": "כוכב סרטי האקשן האגדי: \"שקלתי לסיים את חיי\""
   },
   "https://www.mako.co.il/culture-articles/Article-aa4551e34a1e0a1026.htm": {
    "check_attempts": 1,
@@ -15379,7 +15391,7 @@
    "indexnow_ms": 1791380786890,
    "published_ms": 1791380640000,
    "section": "פלילים",
-   "title": "בנו של ראש ארגון הפשע הורחק מהעיר: \"יש מידע מודיעיני\""
+   "title": "בנו של שלום דומרני נעצר בחשד למעורבות בירי"
   },
   "https://www.mako.co.il/men-men_news/Article-6820ddc6327e0a1026.htm": {
    "check_attempts": 1,
@@ -17143,7 +17155,7 @@
    "indexnow_ms": 1791371667193,
    "published_ms": 1791369360000,
    "section": "מוזיקה",
-   "title": "אישה התמוטטה ומתה במהלך הופעה, זה מה שעשו בהפקה"
+   "title": "אישה בקהל התמוטטה ומתה - הפסטיבל המשיך כרגיל"
   },
   "https://www.mako.co.il/music-news/Article-dbc23fbbf7301a1026.htm": {
    "check_attempts": 1,
@@ -20480,6 +20492,18 @@
    "published_ms": 1790441400000,
    "section": "",
    "title": "איזנקוט הכריז: המפלגה ש\"לא תהיה חלק מהממשלה הבאה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-216ae20b9b711a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-216ae20b9b711a1026.htm",
+   "checked_ms": 1791400826797,
+   "content_type": "article",
+   "first_seen_ms": 1791400826797,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791399060000,
+   "section": "",
+   "title": "בציון יום השנה ל-7 באוקטובר: טראמפ שוחח עם נתניהו"
   },
   "https://www.mako.co.il/special-mako-news/Article-217d8d6b3ca01a1026.htm": {
    "check_attempts": 1,
