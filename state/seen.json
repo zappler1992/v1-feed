@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a1038b315f611a1026.htm"
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25,7 +25,7 @@
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-469dbe41a717291027.htm": {
    "author": "60 שניות",
    "date_source": "json-publishDate",
-   "description": "השידור הכי קשה שהיה לי בחיים: דני קושמרו מדבר על המשדר ההיסטורי של שבת בבוקר, 7 באוקטובר 2023, בראיון ב-60 שניות עם ליאל אלH",
+   "description": "השידור הכי קשה שהיה לי בחיים: דני קושמרו מדבר על המשדר ההיסטורי של שבת בבוקר, 7 באוקטובר 2023, בראיון ב-60 שניות עם ליאל אלי",
    "duration_s": 86,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/10/07/Amit_DANI_FIX_M_1400_1791374801680_FirstFrame.jpg",
@@ -37,7 +37,7 @@
    ],
    "title": "קושמרו: השידור הכי קשה שהיה לי בחיים",
    "type": "general",
-   "updated_ms": 1791374520000,
+   "updated_ms": 1791387960000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-469dbe41a717291027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/Amit_DANI_FIX_M/Amit_DANI_FIX_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -7134,6 +7134,24 @@
    "updated_ms": 1790072220000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m09_w04/shorts-05232ab6188c0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/22/biata_almog_mivfix/biata_almog_mivfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "\"להרוג את כל היהודים\": הישראלית טליה יוסף התעמתה עם שונא ישראל - וצברה מעל מיליון צפיות",
+   "duration_s": 145,
+   "first_seen_ms": 1791388346682,
+   "image": "https://img.mako.co.il/2026/10/07/V1_rinat_zionist_071026_7011_07102026013355_1400_1791380144654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791380151000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "\"להרוג את כל היהודים\": טליה יוסף התעמתה עם שונא ישראל - וצברה מעל מיליון צפיות",
+   "type": "mivzakim",
+   "updated_ms": 1791380151000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_rinat_zionist_071026_7011_07102026013355/V1_rinat_zionist_071026_7011_07102026013355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2025-m05_w04/shorts-8f181379998e691026.htm": {
    "author": "אוכל",
@@ -45709,7 +45727,8 @@
    "importance": 2,
    "published_ms": 1791378643000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "אוכלים המבורגר בסלון - ואז מתחילות היריות מתחת לבניין: התיעוד המשוגע מראשון לציון",
    "type": "mivzakim",
@@ -46513,7 +46532,7 @@
    ],
    "title": "תיעוד מפריז: מפגין אנטי ישראלי חוטף דגל ישראל מאישה וזורק אותו \"זה דגל נאצי, את נאצית!\"",
    "type": "mivzakim",
-   "updated_ms": 1791378660000,
+   "updated_ms": 1791382260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7d22093941611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_PARIS_7002_07102026111749/V1_KARIND_PARIS_7002_07102026111749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
