@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-871965fb11511a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23511,7 +23511,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8df6b6c7ce411a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "מלי וליאל יהלומי נתפסו באפריקה עם דרכונים מזויפים - ניצן שפירא עם כל הפרטים חדשים.",
+   "description": "חודשים ספורים לאחר שנעלמו וכל המדינה חיפשה אותם עד שנמצאו בארגנטינה - מלי וליאל יהלומי נתפסו בנמיביה, אפריקה כשברשותן דרכונים מזויפים. הערכה: המשטרה בישראל תבקש להצטרף לחקירה. דין פישר עם כל הפרטים חדשים.",
    "duration_s": 53,
    "first_seen_ms": 1791353846003,
    "image": "https://img.mako.co.il/2026/10/07/SHIR_NITZAN_071026_1400_1791353242285_FirstFrame.jpg",
@@ -44658,6 +44658,24 @@
    "updated_ms": 1791284238000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-13cc1d818d011a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_KARIND_NETANYAHU_6952_06102026105512/V1_KARIND_NETANYAHU_6952_06102026105512_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90",
+   "duration_s": 9,
+   "first_seen_ms": 1791355645951,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_fire_6980_07102026064218_1400_1791355429432_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791355435000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משאית עולה באש סמוך לקיבוץ איילות בכביש 90",
+   "type": "mivzakim",
+   "updated_ms": 1791355435000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-159565fb11511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_fire_6980_07102026064218/V1_karind_fire_6980_07102026064218_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-15c88ef35e501a1027.htm": {
    "author": "מבזקים",
