@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ffc046575b211a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9b4b75baa5511a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d117dc56a5511a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-fefb653226511a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47318,6 +47318,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d08117f961d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16803_05102026053942/M_NEWS_16803_05102026053942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d117dc56a5511a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "״ילדה בת 22 מתה על הכביש״: משפחתה של ליבי כהן-מגורי הגיעה לנקודה בה נרצחה בכביש 232",
+   "duration_s": 120,
+   "first_seen_ms": 1791360446320,
+   "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16907_07102026080118_1400_1791360229076_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791360235000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "״ילדה בת 22 מתה על הכביש״: משפחתה של ליבי כהן-מגורי הגיעה לנקודה בה נרצחה בכביש 232",
+   "type": "mivzakim",
+   "updated_ms": 1791360235000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d117dc56a5511a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16907_07102026080118/M_NEWS_16907_07102026080118_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61514,7 +61532,9 @@
    "image": "https://img.mako.co.il/2026/10/07/SHIR_BRITISH_071026_1400_1791355404844_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791355680000,
-   "sections": [],
+   "sections": [
+    "חופש וטיולים"
+   ],
    "title": "אחרי חודשים של ביטולים: חברת הענק חוזרת לישראל",
    "type": "general",
    "updated_ms": 1791355380000,
@@ -67762,6 +67782,24 @@
    "updated_ms": 1791308045000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-f6251209a2211a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_TESLA_6960_06102026053238/V1_TESLA_6960_06102026053238_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-fefb653226511a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עימות בכביש בקנטקי הידרדר לתקיפה: הנוסעים תיעדו גבר שמושך אישה בשערה ומכה אותה עם חגורת רכב",
+   "duration_s": 115,
+   "first_seen_ms": 1791360446320,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_makot_6985_07102026080203_1400_1791360251768_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791360258000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עימות בכביש בקנטקי הידרדר לתקיפה: הנוסעים תיעדו גבר שמושך אישה בשערה ומכה אותה עם חגורת רכב",
+   "type": "mivzakim",
+   "updated_ms": 1791360258000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-fefb653226511a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_makot_6985_07102026080203/V1_karind_makot_6985_07102026080203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
