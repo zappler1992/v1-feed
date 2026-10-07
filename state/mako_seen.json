@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791388349385,
+ "last_run_ms": 1791388649358,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4332,6 +4332,18 @@
    "published_ms": 1791139740000,
    "section": "ספורט",
    "title": "הצעד המשפיל של שחקני נבחרת אירלנד בזמן \"התקווה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e47e78bd01711a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791388649358,
+   "content_type": "article",
+   "first_seen_ms": 1791388649358,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791388440000,
+   "section": "ספורט",
+   "title": "באירופה כבר הבינו: העמדה שחסרה לנבחרת"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-e6ca175099211a1027.htm": {
    "check_attempts": 1,
@@ -15079,7 +15091,7 @@
    "indexnow_ms": 1791383667029,
    "published_ms": 1791376200000,
    "section": "פלילים",
-   "title": "ילד זרק לבנה על אוטובוס: \"זכוכיות התפזרו\""
+   "title": "\"הוא ניפץ את החלון בגלל שלא נתנו לו לעלות עם קורקינט\""
   },
   "https://www.mako.co.il/men-men_news/Article-4c8b2653dfdc0a1026.htm": {
    "check_attempts": 1,
@@ -17960,6 +17972,18 @@
    "published_ms": 1790172780000,
    "section": "חדשות",
    "title": "על במת האו\"ם: האמירה השקרית של נשיא איראן"
+  },
+  "https://www.mako.co.il/news-world/2026_q4/Article-25614e77c5611a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791388587249,
+   "content_type": "article",
+   "first_seen_ms": 1791388587249,
+   "indexable": true,
+   "indexnow_ms": 1791388587249,
+   "published_ms": 1791377880000,
+   "section": "חדשות",
+   "title": "\"פשעים מחרידים\": ממדאני בפוסט מרתיח על 7 באוקטובר"
   },
   "https://www.mako.co.il/news-world/2026_q4/Article-5ae4af326c411a1027.htm": {
    "check_attempts": 1,
