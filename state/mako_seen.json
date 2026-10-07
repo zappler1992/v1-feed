@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791352349426,
+ "last_run_ms": 1791352648579,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5422,6 +5422,18 @@
    "published_ms": 1791334800000,
    "section": "ספורט",
    "title": "\"כמו בתסריט\": צפו בבישול של מסי לאוטמנדי"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-18d1de600e411a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791352587059,
+   "content_type": "article",
+   "first_seen_ms": 1791352587059,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791352260000,
+   "section": "ספורט",
+   "title": "אחרי מסי: מי יהיה ה-10 הבא של ארגנטינה?"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-1cb1701068111a1027.htm": {
    "check_attempts": 1,
@@ -18763,7 +18775,7 @@
    "indexnow_ms": 1791342027474,
    "published_ms": 1791341940000,
    "section": "",
-   "title": "לא עוד \"חמאס מורתע\": היחידות שהוקמו מחדש באמ\"ן"
+   "title": "הטבח ועונשו: צה\"ל פרסם \"תמונה קבוצתית\" למחוסלי 7.10"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-71a8529c522f0a1027.htm": {
    "check_attempts": 1,
@@ -21620,6 +21632,18 @@
    "published_ms": 1790799480000,
    "section": "",
    "title": "התפתחויות בחקירת רצח הישראלי בקופנגן"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-e29ee97e0c111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791352587059,
+   "content_type": "article",
+   "first_seen_ms": 1791352587059,
+   "indexable": true,
+   "indexnow_ms": 1791352587059,
+   "published_ms": 1791347460000,
+   "section": "חופש",
+   "title": "בלי כבישים ועם מסעדה אחת: האי הסודי שלא היו בו תיירים"
   },
   "https://www.mako.co.il/travel-news/international/Article-e34be3cfa32d0a1027.htm": {
    "check_attempts": 1,
