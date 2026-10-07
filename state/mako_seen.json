@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791360449577,
+ "last_run_ms": 1791360748818,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10977,6 +10977,18 @@
    "section": "",
    "title": "אחרי 8 חודשים: התרופה שחסרה חוזרת למדפים"
   },
+  "https://www.mako.co.il/health-news/Article-55ceb6c7ce411a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791360748818,
+   "content_type": "article",
+   "first_seen_ms": 1791360748818,
+   "indexable": true,
+   "indexnow_ms": 1791360748818,
+   "published_ms": 1791359760000,
+   "section": "בריאות",
+   "title": "\"לא היה איך לכסות את הגופות אז לקחנו שלט\""
+  },
   "https://www.mako.co.il/health-news/Article-57bf6058383e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12848,6 +12860,18 @@
    "published_ms": 1791343740000,
    "section": "הורים",
    "title": "הסיבה שהנמלטים מהנובה התעקשו לצלם סלפי"
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-351a653226511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791360627036,
+   "content_type": "article",
+   "first_seen_ms": 1791360627036,
+   "indexable": true,
+   "indexnow_ms": 1791360627036,
+   "published_ms": 1791360180000,
+   "section": "נדל\"ן",
+   "title": "מלאי הדירות בישראל יורד, והמחירים בדרך למעלה"
   },
   "https://www.mako.co.il/home-family-relationship/Article-4bf7fd28452d0a1027.htm": {
    "check_attempts": 1,

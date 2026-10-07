@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-55bc653226511a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T08:05:48+00:00</news:publication_date>
+<news:title>דיווח ערבי: צה״ל פוצץ את ביתו של המחבל שרצח את נתנאל שקרון ז&quot;ל בעיירה בידו שמצפון-מערב לירושלים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_karind_pitzuz_6986_07102026080428_1400_1791360341971_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-fefb653226511a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1872,14 +1881,5 @@
 <news:title>למה מסיכות החמצן לא ירדו בטיסת הזוועות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/biata_oxygenmask_051026_1400_1791188706040_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T08:11:03+00:00</news:publication_date>
-<news:title>צה&quot;ל ושב&quot;כ חיסלו מפקד מחלקת נוח&#x27;בה בארגון הטרור חמאס שפשט לישראל בטבח 7 באוקטובר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/M_NEWS_16770_05102026080931_1400_1791187856968_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
