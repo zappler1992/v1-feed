@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791350249470,
+ "last_run_ms": 1791350549801,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19964,6 +19964,18 @@
    "published_ms": 1790592600000,
    "section": "",
    "title": "לא עוצרת: היעד הנוסף בו החל לפעול צבא ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-c37025c877311a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-c37025c877311a1027.htm",
+   "checked_ms": 1791350549801,
+   "content_type": "article",
+   "first_seen_ms": 1791350549801,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791349440000,
+   "section": "",
+   "title": "סיבה לדאגה בישראל: מה שנחשף בתמונות הלוויין מאיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-c5cc0b55e5fe0a1027.htm": {
    "check_attempts": 1,
