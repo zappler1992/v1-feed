@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ca2eea6109611a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cef92bda0a611a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47816,6 +47816,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ce0ebff5cd411a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_SHIR_BIBAS_6977_07102026054152/V1_SHIR_BIBAS_6977_07102026054152_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cef92bda0a611a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חיל הים קיים מעמד זיכרון והנצחה לחללי קרב חוף זיקים ולציון אירועי ה-7 באוקטובר",
+   "duration_s": 52,
+   "first_seen_ms": 1791381446510,
+   "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16923_07102026015019_1400_1791381106198_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791381113000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חיל הים קיים מעמד זיכרון והנצחה לחללי קרב חוף זיקים ולציון אירועי ה-7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1791381113000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cef92bda0a611a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16923_07102026015019/M_NEWS_16923_07102026015019_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cfd8ddc40b701a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -48496,9 +48514,9 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "גורם במשטרה: מלי וליאל צפויות לנחות בקרוב בנתב\"ג, בטיסת ישראייר מאתונה",
+   "title": "אחרי שהדאיגו מדינה שלמה: מלי וליאל נחתו בנתב\"ג עם טיסת ישראייר מאתונה",
    "type": "mivzakim",
-   "updated_ms": 1791376200000,
+   "updated_ms": 1791381060000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fbcb09e883611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/fix_maliliel/fix_maliliel_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
