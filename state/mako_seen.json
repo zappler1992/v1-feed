@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791362249113,
+ "last_run_ms": 1791362549131,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2016,6 +2016,18 @@
    "published_ms": 1791197400000,
    "section": "ספורט",
    "title": "ללא קבוצה, אך מבוקש: מה קורה עם הולמס?"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-383bf38f38511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791362549131,
+   "content_type": "article",
+   "first_seen_ms": 1791362549131,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791362280000,
+   "section": "ספורט",
+   "title": "\"ג`ונס לא יסיים את העונה באולימפיאקוס\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-3a3c18be63bf0a1027.htm": {
    "check_attempts": 1,
@@ -17911,7 +17923,7 @@
    "indexnow_ms": 1791360387070,
    "published_ms": 1791360240000,
    "section": "דיגיטל",
-   "title": "\"המחבל בא לירות בי, והיה לו מעצור בנשק\""
+   "title": "\"המחבל בא לירות בי\": התקלה שהצילה את חייו של ברק"
   },
   "https://www.mako.co.il/nexter-news/Article-9717350e27de0a1026.htm": {
    "check_attempts": 1,
