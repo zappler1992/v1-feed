@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791345149546,
+ "last_run_ms": 1791345449291,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5590,6 +5590,18 @@
    "published_ms": 1790885400000,
    "section": "ספורט",
    "title": "רביעייה ב-22 דקות: ההצגה של חלוץ ריאל"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e91596aca5411a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791345386740,
+   "content_type": "article",
+   "first_seen_ms": 1791345386740,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791345120000,
+   "section": "ספורט",
+   "title": "\"בלתי נשכח\": בעולם מתחילים להתגעגע למסי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-eaea701068111a1027.htm": {
    "check_attempts": 1,
@@ -11299,7 +11311,7 @@
    "indexnow_ms": 1791342780817,
    "published_ms": 1791342000000,
    "section": "",
-   "title": "המטוס פגע בזברה בזמן ההמראה - וכך הסתיימה הדרמה"
+   "title": "המטוס פגע בזברה בזמן ההמראה - כך הסתיימה הדרמה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-5990cfc591ce0a1026.htm": {
    "check_attempts": 1,
