@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e9cae3262a511a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T09:14:13+00:00</news:publication_date>
+<news:title>טראמפ: &quot;צריך לסיים את המשימה באיראן ובקרוב תגלו אם זה יסתיים בדרך הנחמדה או בדרך הלא נחמדה&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_karind_trump_071026_6990_07102026091307_1400_1791364446331_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1800,14 +1809,5 @@
 <news:title>נתניהו בטקס האזכרה לנופלי שבעה באוקטובר: &quot;כל מי שחטף ישראלים חי על זמן שאול&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_bibi_6896_05102026092306_1400_1791192293777_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-aa5c168405b01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T09:12:42+00:00</news:publication_date>
-<news:title>פיקוד צפון: גל תקיפות צפוי בשעות הקרובות - הדי פיצוצים בגליל המערבי ובצפון הגולן</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_lebanon_6895_05102026091042_1400_1791191556481_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
