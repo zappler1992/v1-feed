@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1a32cb3082411a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2c091c77e4411a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bfcb1c77e4411a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16577,7 +16576,7 @@
    ],
    "title": "השבת השחורה - 7 באוקטובר: הסרטונים וההלם",
    "type": "news",
-   "updated_ms": 1791319140000,
+   "updated_ms": 1791342720000,
    "url": "https://www.v-1.co.il/news-magazine/2025-m10_w02/shorts-0460a22ede5b991026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/10/05/INBAR_OCTSEV_051025/MASTER/INBAR_OCTSEV_051025/INBAR_OCTSEV_051025_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -46579,6 +46578,24 @@
    "updated_ms": 1791188964000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bed54c3f32b01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_barilan_6889_05102026082802/V1_karind_barilan_6889_05102026082802_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bfcb1c77e4411a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לאחר 208 משחקים, 126 שערים וזכייה אחת במונדיאל - מסי נפרד הלילה מנבחרת ארגנטינה",
+   "duration_s": 12,
+   "first_seen_ms": 1791343049863,
+   "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16885_07102026031447_1400_1791342955433_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791342963000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לאחר 208 משחקים, 126 שערים וזכייה אחת במונדיאל - מסי נפרד הלילה מנבחרת ארגנטינה",
+   "type": "mivzakim",
+   "updated_ms": 1791342963000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bfcb1c77e4411a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16885_07102026031447/M_NEWS_16885_07102026031447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c01a12d9bc401a1027.htm": {
    "author": "מבזקים",
