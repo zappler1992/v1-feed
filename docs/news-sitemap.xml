@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-79924a7e42511a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T07:05:34+00:00</news:publication_date>
+<news:title>העשן ממלא את השמיים: אוקראינה תקפה מכלית נפט מול חופי סוצ&#x27;י שברוסיה ועלתה באש | תיעוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_KARIND_RUSSIA_6982_07102026070403_1400_1791356727638_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-36bdedfc61511a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1881,14 +1890,5 @@
 <news:title>פעילות קו L1 של הרכבת הקלה בירושלים הופסקה באופן זמני בעקבות כבל חשמל שנקרע הבוקר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_Jerusalem_6883_05102026070732_1400_1791184128877_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T07:03:26+00:00</news:publication_date>
-<news:title>בילוי משפחתי שהפך לסיוט: מכת עקיצות חריגה בסופרלנד</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/SHIR_BUGS_051026_FIX_1400_1791190606004_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
