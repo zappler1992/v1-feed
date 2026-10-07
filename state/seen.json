@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-baca3235d8411a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81ba3d9e19411a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc9d3235d8411a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16572,7 +16573,8 @@
    "importance": 1,
    "published_ms": 1791319140000,
    "sections": [
-    "7 באוקטובר"
+    "7 באוקטובר",
+    "הכי נצפים עכשיו"
    ],
    "title": "השבת השחורה - 7 באוקטובר: הסרטונים וההלם",
    "type": "news",
@@ -45730,6 +45732,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7ed9de9521a01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16748_05102026032156/M_NEWS_16748_05102026032156_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81ba3d9e19411a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נצבעה באדום - כיכר דיזנגוף במיצג זיכרון מצמרר לציון 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1791346946784,
+   "image": "https://img.mako.co.il/2026/10/07/V1_SHIR_DAM_6967_07102026041748_1400_1791346763375_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791346769000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נצבעה באדום - כיכר דיזנגוף במיצג זיכרון מצמרר לציון 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1791346769000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81ba3d9e19411a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_SHIR_DAM_6967_07102026041748/V1_SHIR_DAM_6967_07102026041748_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-81e93c9349011a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -46560,6 +46580,24 @@
    "updated_ms": 1791088140000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc5e426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_BOSH_6822_04102026042727/V1_KARIND_BOSH_6822_04102026042727_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc9d3235d8411a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר בן 25 במצב בינוני, עם חבלות בגפיים, לאחר שהתהפך עם רכבו בנתניה",
+   "duration_s": 9,
+   "first_seen_ms": 1791346946784,
+   "image": "https://img.mako.co.il/2026/10/07/M_NEWS_16891_07102026041734_1400_1791346735097_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791346741000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר בן 25 במצב בינוני, עם חבלות בגפיים, לאחר שהתהפך עם רכבו בנתניה",
+   "type": "mivzakim",
+   "updated_ms": 1791346741000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bc9d3235d8411a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16891_07102026041734/M_NEWS_16891_07102026041734_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bd352c97e8801a1026.htm": {
    "author": "מבזקים",
@@ -57948,7 +57986,8 @@
    "published_ms": 1790697870000,
    "sections": [
     "מVינים חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מVינים בחירות: שרי הליכוד שכחו? המצלמה זוכרת הכול",
    "type": "general",
@@ -58057,7 +58096,8 @@
    "sections": [
     "הכי Vיראלים",
     "המיוחדים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תא הצילום באמצע הרחוב בניו יורק שמוצא עבורכם את השידוך המושלם",
    "type": "general",
@@ -58077,7 +58117,8 @@
    "sections": [
     "רומי גונן: הפודקאסט",
     "הכי נצפים עכשיו",
-    "7 באוקטובר"
+    "7 באוקטובר",
+    "הכי נצפים השבוע"
    ],
    "title": "החיים החדשים של רומי גונן: זה סרטון החטיפה שלי בפעם הראשונה",
    "type": "general",
@@ -66265,7 +66306,8 @@
    "published_ms": 1790856754000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "צרפת בוערת: מחאת תלמידים על תנאי הלימודים הסלימה למהומות בעשרות ערים ומאות בתי ספר",
    "type": "mivzakim",
@@ -66983,7 +67025,8 @@
    "published_ms": 1791201372000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "דיווח: בן 15 איבד את ידו במהלך המחאות בצרפת - בעקבות רימון הלם שהושלך ע״י השוטרים",
    "type": "mivzakim",
@@ -67002,7 +67045,8 @@
    "published_ms": 1791108495000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הילד נפל מהקומה השנייה - ועובר אורח תפס אותו בשנייה האחרונה: צפו ברגע ההצלה הדרמטי",
    "type": "mivzakim",
@@ -67040,7 +67084,8 @@
    "published_ms": 1791140942000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תיעוד מחריד מפולין: טייל עם הכלב - נפגע במהירות עצומה, ונהרג במקום",
    "type": "mivzakim",
