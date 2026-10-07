@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8eb00bbbb8511a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T08:52:27+00:00</news:publication_date>
+<news:title>עושה סיבובים בדשא של בית המשפט: נהגת שיכורה נעצרה לאחר שנסעה על הדשא באינדיאנה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_karind_sivuvim_6988_07102026085106_1400_1791363141031_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-105a2d9c07511a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1800,23 +1809,5 @@
 <news:title>כתב אישום: מרצה תכנן פיגועים נגד ערבים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/biata_barilan_051026_1400_1791190849895_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T08:54:00+00:00</news:publication_date>
-<news:title>הילד שחה להנאתו בים בטורקיה - עד שתמנון ענק החליט להיצמד אליו | צפו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_karind_tamnun_6893_05102026085230_1400_1791190433255_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-faa4c489b3b01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T08:53:31+00:00</news:publication_date>
-<news:title>הרצוג בטקס הזיכרון לחללי 7.10: &quot;אסור להתעלם מאזהרות, מסימנים מדאיגים&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_KARIND_HERZOG_6892_05102026085143_1400_1791190405028_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
