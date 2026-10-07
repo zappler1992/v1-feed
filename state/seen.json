@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1af1de600e411a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-174fde600e411a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8df6b6c7ce411a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23508,6 +23507,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_car_041026/MASTER/rinat_car_041026_m/rinat_car_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8df6b6c7ce411a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מלי וליאל יהלומי נתפסו באפריקה עם דרכונים מזויפים - ניצן שפירא עם כל הפרטים חדשים.",
+   "duration_s": 44,
+   "first_seen_ms": 1791353846003,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_NITZAN_071026_1400_1791353242285_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791353248000,
+   "sections": [],
+   "title": "ניצן שפירא עם כל הפרטים החדשים על מלי וליאל",
+   "type": "news",
+   "updated_ms": 1791353220000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8df6b6c7ce411a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_NITZAN_071026/MASTER/SHIR_NITZAN_071026/SHIR_NITZAN_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8e37ef5e8e501a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -44431,19 +44446,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "בדיוק כפי שנראתה ברגעיה האחרונים - אמה של ליבי כהן מגורי הנציחה אותה בגרפיטי מרגש",
-   "duration_s": 10,
+   "duration_s": 47,
    "first_seen_ms": 1791352046208,
-   "image": "https://img.mako.co.il/2026/10/07/V1_SHIR_LIBI_6978_07102026054415_1400_1791351907023_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_LIBI_071026_2_1400_1791353679940_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1791351913000,
    "sections": [
     "מבזקים"
    ],
    "title": "בדיוק כפי שנראתה ברגעיה האחרונים - אמה של ליבי כהן מגורי הנציחה אותה בגרפיטי מרגש",
    "type": "mivzakim",
-   "updated_ms": 1791351913000,
+   "updated_ms": 1791353520000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-02fcde600e411a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_SHIR_LIBI_6978_07102026054415/V1_SHIR_LIBI_6978_07102026054415_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_LIBI_071026_2/SHIR_LIBI_071026_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm": {
    "author": "מבזקים",
