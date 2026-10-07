@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3a1266961e611a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T15:11:33+00:00</news:publication_date>
+<news:title>כוננות לפקקי ענק ברחבי גוש דן</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/rinat_haphgana_071026_m_1400_1791385886836_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-84d6aa861d611a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1854,14 +1863,5 @@
 <news:title>אור ירוק מטראמפ: ישראל צפויה לתקוף בעיראק</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/greenlight051026m_1400_1791213722345_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-e18e27ac59c01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T15:15:00+00:00</news:publication_date>
-<news:title>עצם בלתי מזוהה עורר הלילה בהלה במערב לוב. תושבים  תיעדו עצם זהוב ובוהק שחצה את שמי הלילה.</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/V1_rinat_boom_051026_6914_05102026031354_1400_1791213293534_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
