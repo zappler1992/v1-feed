@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-ce5c609bf2c01a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T08:58:00+00:00</news:publication_date>
+<news:title>מסודרים פרק 54: זריקת מרץ למזל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/05/LOADED_EP54_1400_1791206239025_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T08:55:00+00:00</news:publication_date>
+<news:title>אהבה מעבר לפינה פרק 23: מבריז ורץ אליה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/23/LOVE_CORNER_EP23_M_1400_1790159188766_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8eb00bbbb8511a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1800,14 +1818,5 @@
 <news:title>שנה אחרי ביטול החתונה: אבנר נתניהו בתמונה ראשונה עם בת זוגתו החדשה - דנה צבאג בת 29</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/FIX_AVNER_1400_1791191278637_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-d922fc8d54b01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T09:00:56+00:00</news:publication_date>
-<news:title>כתב אישום: מרצה תכנן פיגועים נגד ערבים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/biata_barilan_051026_1400_1791190849895_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

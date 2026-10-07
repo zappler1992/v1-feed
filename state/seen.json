@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8eb00bbbb8511a1026.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-ce5c609bf2c01a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -802,7 +803,7 @@
    ],
    "title": "בקצב השקר פרק 4: מסתבכת עם השקרים",
    "type": "series",
-   "updated_ms": 1790758560000,
+   "updated_ms": 1791363420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w05/shorts-ba145793a71f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/ACADEMY_OF_LIES_EP04/MASTER/ACADEMY_OF_LIES_EP04/ACADEMY_OF_LIES_EP04_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -16124,6 +16125,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-a848198ee0601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/LOADED_EP51/MASTER/LOADED_EP51/LOADED_EP51_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-ce5c609bf2c01a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 54: גיא מנסה להציל את הדייט עם עוד הסבר, אבל אביגיל יוצאת ומשאירה אותו עם כל המיליונים ובלי אפילו נשיקה. בינתיים ארז וברלד חייבים להחזיר את ג'ובאני למגרש: הווטרינר מתעקש על מנוחה, אבל אצל רופא הקבוצה זריקה קטנה סוגרת את הפינה. ביציע תומר מבטיח לגיא שלא יגיד \"אמרתי לך\", ומצליח להתאפק בערך שתי שניות.",
+   "duration_s": 148,
+   "first_seen_ms": 1791363746169,
+   "image": "https://img.mako.co.il/2026/10/05/LOADED_EP54_1400_1791206239025_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791363480000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 54: זריקת מרץ למזל",
+   "type": "series",
+   "updated_ms": 1791363480000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-ce5c609bf2c01a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/LOADED_EP54/MASTER/LOADED_EP54/LOADED_EP54_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -16530,6 +16549,25 @@
    "updated_ms": 1791189780000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w03/shorts-3b407a88069a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/LOVE_CORNER_EP21/MASTER/LOVE_CORNER_EP21_M/LOVE_CORNER_EP21_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 23: ליאור מבריז לעדן מהתצוגה בטענה שהוא חייב לטפל בענייני עבודה, והיא בוחרת להאמין לו - אבל ברגע שהיא יוצאת, הוא כבר מתקשר לאלונה וקובע איתה להמשיך את השיחה שנקטעה בלילה. אצל רועי, שירלי שותה יותר מדי ומנסה להתקרב אליו, אבל הוא מרגיש שהמצב לא נכון ולא מוכן לנצל אותה כשהיא שיכורה. לבסוף ליאור ואלונה נפגשים, והוא מנסה להבין מה באמת קורה ביניהם. אלונה מצננת את הציפיות שלו ומבהירה שלמרות מה שהוא אולי חושב, שום דבר לא קרה ביניהם.",
+   "duration_s": 177,
+   "first_seen_ms": 1791363746169,
+   "image": "https://img.mako.co.il/2026/09/23/LOVE_CORNER_EP23_M_1400_1790159188766_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791363300000,
+   "sections": [
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 23: מבריז ורץ אליה",
+   "type": "series",
+   "updated_ms": 1791363300000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/23/LOVE_CORNER_EP23_M/MASTER/LOVE_CORNER_EP23_M/LOVE_CORNER_EP23_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
