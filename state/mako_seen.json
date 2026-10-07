@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791397949330,
+ "last_run_ms": 1791398248699,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5698,6 +5698,18 @@
    "published_ms": 1791097920000,
    "section": "ספורט",
    "title": "תעקוף אותנו? כך פלסטין תגיע למונדיאל"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6ff65f5007711a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791398186699,
+   "content_type": "article",
+   "first_seen_ms": 1791398186699,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791397980000,
+   "section": "ספורט",
+   "title": "\"אכבד אותך לנצח\": רונאלדו נפרד ממסי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-7d91407e93b01a1026.htm": {
    "check_attempts": 1,
@@ -21271,7 +21283,7 @@
    "indexnow_ms": null,
    "published_ms": 1791396900000,
    "section": "",
-   "title": "שלוש שנים לטבח: טקס הזיכרון הלאומי בפארק הירקון"
+   "title": "שלוש שנים לטבח: טקס הזיכרון בפארק הירקון"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-5a5a2d3f536f0a1027.htm": {
    "check_attempts": 1,
