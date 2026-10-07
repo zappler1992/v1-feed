@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8fb4928e2b411a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5d04f62cda411a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-06c0928e2b411a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-071fa2a5fc411a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0cab4279d411a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23149,6 +23148,22 @@
    "updated_ms": 1791213728000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-02bf27ac59c01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/greenlight051026/MASTER/greenlight051026m/greenlight051026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-071fa2a5fc411a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 14,
+   "first_seen_ms": 1791351445816,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_MALIEL_071026_1400_1791350777831_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791350784000,
+   "sections": [],
+   "title": "עם דרכונים מזויפים: מלי וליאל נעצרו בנמיביה",
+   "type": "news",
+   "updated_ms": 1791350784000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-071fa2a5fc411a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_MALIEL_071026/MASTER/SHIR_MALIEL_071026/SHIR_MALIEL_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm": {
    "author": "חדשות",
@@ -47502,6 +47517,24 @@
    "updated_ms": 1791307730000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0c21209a2211a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_POLICE_6959_06102026052712/V1_POLICE_6959_06102026052712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0cab4279d411a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היום ב06:29 - דקת דומייה אזרחית בנתיבי איילון | צפו",
+   "duration_s": 14,
+   "first_seen_ms": 1791351445816,
+   "image": "https://img.mako.co.il/2026/10/07/V1_SHIR_AYALON1_6976_07102026053117_1400_1791351157928_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791351164000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היום ב06:29 - דקת דומייה אזרחית בנתיבי איילון | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1791351164000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0cab4279d411a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_SHIR_AYALON1_6976_07102026053117/V1_SHIR_AYALON1_6976_07102026053117_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f11512d9bc401a1027.htm": {
    "author": "מבזקים",
