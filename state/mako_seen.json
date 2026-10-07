@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791373348893,
+ "last_run_ms": 1791373648854,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6705,6 +6705,18 @@
    "section": "ספורט",
    "title": "השוער שהצטיין נגד אנגליה - שותף שלא כחוק"
   },
+  "https://www.mako.co.il/Sports-others/q4_2026/Article-67c7093941611a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791373587140,
+   "content_type": "article",
+   "first_seen_ms": 1791373587140,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791372120000,
+   "section": "ספורט",
+   "title": "הפתיעה את המלכה: הסנסציה שמחכה לפרימו"
+  },
   "https://www.mako.co.il/Sports-others/q4_2026/Article-7bce73267b511a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -9441,6 +9453,18 @@
    "section": "כסף",
    "title": "חברה מעל טריליון שקל נסחרת בבורסה בישראל"
   },
+  "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791373467138,
+   "content_type": "article",
+   "first_seen_ms": 1791373467138,
+   "indexable": true,
+   "indexnow_ms": 1791373467138,
+   "published_ms": 1791366240000,
+   "section": "",
+   "title": "בקרוב בישראל? החנות שתשלם על הרהיטים הישנים שלכם"
+  },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11552,6 +11576,18 @@
    "published_ms": 1790252640000,
    "section": "בריאות",
    "title": "נקבע מותו של בן ה-9 שנדבק ב\"אמבה אוכלת מוח\""
+  },
+  "https://www.mako.co.il/health-news/Article-d939359e0e511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791373467138,
+   "content_type": "article",
+   "first_seen_ms": 1791373467138,
+   "indexable": true,
+   "indexnow_ms": 1791373467138,
+   "published_ms": 1791368460000,
+   "section": "בריאות",
+   "title": "רוסיה: חשש לעובד מעבדה נוסף שנדבק במחלה הקשה"
   },
   "https://www.mako.co.il/health-news/Article-de6a97b7008c0a1027.htm": {
    "check_attempts": 1,
