@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791364948983,
+ "last_run_ms": 1791365248886,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12489,6 +12489,18 @@
    "section": "HIX",
    "title": "\"אנחנו חושבים שמשהו לא היה בסדר כשזה קרה\""
   },
+  "https://www.mako.co.il/hix-special/Article-cef1e5e2e9511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365187294,
+   "content_type": "article",
+   "first_seen_ms": 1791365187294,
+   "indexable": true,
+   "indexnow_ms": 1791365187294,
+   "published_ms": 1791364620000,
+   "section": "HIX",
+   "title": "\"לא כולם מכירים את הצד הרע שלי\""
+  },
   "https://www.mako.co.il/hix-special/Article-cf57a07f592d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13855,7 +13867,7 @@
    "indexnow_ms": 1791361049360,
    "published_ms": 1791358980000,
    "section": "",
-   "title": "משיבה אש: כוכבת הטיקטוק נגד פיט דייווידסון"
+   "title": "הכוכב חוטף: \"מטורף כמה אתה שונא נשים מצליחות\""
   },
   "https://www.mako.co.il/makoz-news/Article-7bfdebe619601a1027.htm": {
    "check_attempts": 1,
@@ -21836,6 +21848,18 @@
    "published_ms": 1790915580000,
    "section": "חופש",
    "title": "אחרי סערת הטיסה - הישראלים ממשיכים להגיע הנה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-a80edc56a5511a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791365067285,
+   "content_type": "article",
+   "first_seen_ms": 1791365067285,
+   "indexable": true,
+   "indexnow_ms": 1791365067285,
+   "published_ms": 1791359820000,
+   "section": "חופש",
+   "title": "דווקא היום: \"לא לתת לישראל לגנוב את התאריך\""
   },
   "https://www.mako.co.il/travel-news/international/Article-a9cc4592f3511a1027.htm": {
    "check_attempts": 1,
