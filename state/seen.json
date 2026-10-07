@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-071fa2a5fc411a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f0cab4279d411a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2b5df62cda411a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-51d73235d8411a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23219,6 +23219,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-22512fb0dc701a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/biata_waywardson_041026/MASTER/biata_waywardson_041026/biata_waywardson_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2b5df62cda411a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לוחמי קומנדו שנכנסו לבית בכפר עזה מצאו חלות טריות לשבת - והבינו שהמשפחה כבר לא תשב סביב השולחן.",
+   "duration_s": 78,
+   "first_seen_ms": 1791351746452,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_MIVTZA_071026_1400_1791349035219_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791349041000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "לוחמי הקומנדו נכנסים לבית בכפר עזה - ופורצים בבכי: הסרטון המצמרר מבוקר ה-7.10",
+   "type": "news",
+   "updated_ms": 1791349041000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2b5df62cda411a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_MIVTZA_071026/MASTER/SHIR_MIVTZA_071026/SHIR_MIVTZA_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -23306,6 +23324,24 @@
    "updated_ms": 1791138089000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-50ecf726e1801a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/inbie_naknik_041026/MASTER/inbie_naknik_041026/inbie_naknik_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-51d73235d8411a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "רגעים אמיתיים מהבוקר שבו הכול השתנה - כפי שתועדו בזמן אמת.",
+   "duration_s": 110,
+   "first_seen_ms": 1791351746452,
+   "image": "https://img.mako.co.il/2026/10/07/SHIR_NOVA_071026_1_1400_1791348265999_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791348272000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "דקה אחר דקה- שורדת הנובה שתיעדה הכל",
+   "type": "news",
+   "updated_ms": 1791348240000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-51d73235d8411a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_NOVA_071026/MASTER/SHIR_NOVA_071026_1/SHIR_NOVA_071026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5ae7198ee0601a1027.htm": {
    "author": "חדשות",
