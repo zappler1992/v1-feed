@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791370648824,
+ "last_run_ms": 1791370948752,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11179,7 +11179,7 @@
    "indexnow_ms": 1791360748818,
    "published_ms": 1791359760000,
    "section": "בריאות",
-   "title": "\"עגלות תינוק, מוצצים על הכביש וגופות מפוזרות\""
+   "title": "\"לא היה איך לכסות את הגופות אז לקחנו שלט\""
   },
   "https://www.mako.co.il/health-news/Article-57bf6058383e0a1026.htm": {
    "check_attempts": 1,
@@ -20444,6 +20444,18 @@
    "published_ms": 1790352060000,
    "section": "",
    "title": "\"גורם מטורף\": המהלך החות'י – והאזהרה לישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-998bc28a46211a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-podcast_n12/one_a_day/Article-998bc28a46211a1026.htm",
+   "checked_ms": 1791370827093,
+   "content_type": "article",
+   "first_seen_ms": 1791370827093,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791370020000,
+   "section": "",
+   "title": "\"ויתרתי על ההורים במודע כדי לשרוד\": דניאל חוזר לתופת"
   },
   "https://www.mako.co.il/special-mako-news/Article-a02550ba63ee0a1027.htm": {
    "check_attempts": 1,
