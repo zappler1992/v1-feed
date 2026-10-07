@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bfcb1c77e4411a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47389,6 +47389,24 @@
    "updated_ms": 1791258916000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe0ee0e4a4f01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_forecast_6926_06102026035306/V1_forecast_6926_06102026035306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מה ללבוש הבוקר ומתי יחזור הגשם? צפו בתחזית המעודכנת",
+   "duration_s": 50,
+   "first_seen_ms": 1791343646746,
+   "image": "https://img.mako.co.il/2026/10/07/V1_weather0710_6966_07102026032058_1400_1791343360167_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791343366000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מה ללבוש הבוקר ומתי יחזור הגשם? צפו בתחזית המעודכנת",
+   "type": "mivzakim",
+   "updated_ms": 1791343366000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_weather0710_6966_07102026032058/V1_weather0710_6966_07102026032058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
