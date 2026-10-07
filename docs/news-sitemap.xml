@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-330273267b511a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-07T09:44:31+00:00</news:publication_date>
+<news:title>זו העצורה האיראנית שזהותה בטעות כמלי יהלומי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_karind_mali_6994_07102026094308_1400_1791366264868_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b4da73267b511a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1809,23 +1818,5 @@
 <news:title>סוף ללייקים בטעות: הבשורה של אינסטגרם</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/05/biata_instagram_051026_1400_1791194979611_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T09:43:01+00:00</news:publication_date>
-<news:title>קבר הרמב&quot;ם: גבר בן 44 פונה עם דופק בתום פעולות החייאה לאחר שהתמוטט במתחם</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/M_NEWS_16774_05102026094129_1400_1791193374622_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-db41b0e196b01a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-05T09:42:28+00:00</news:publication_date>
-<news:title>יש לכם את הפיירקס הזה? אולי הוא שווה אלפי דולרים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/05/SHIR_GRENDMA_051026_1400_1791193342400_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
