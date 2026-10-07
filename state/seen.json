@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-ce5c609bf2c01a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16135,7 +16134,8 @@
    "importance": 1,
    "published_ms": 1791363480000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "מסודרים"
    ],
    "title": "מסודרים פרק 54: זריקת מרץ למזל",
    "type": "series",
@@ -47861,6 +47861,24 @@
    "updated_ms": 1791173638000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ea6d501063a01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16751_05102026041235/M_NEWS_16751_05102026041235_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פרופסור שחר נבו הוא הפרופסור למתמטיקה שהואשם בתכנון פיגועים נגד ערבים",
+   "duration_s": 9,
+   "first_seen_ms": 1791364046159,
+   "image": "https://img.mako.co.il/2026/10/07/V1_karind_profesor_6989_07102026090424_1400_1791363941165_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791363947000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פרופסור שחר נבו הוא הפרופסור למתמטיקה שהואשם בתכנון פיגועים נגד ערבים",
+   "type": "mivzakim",
+   "updated_ms": 1791363947000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_profesor_6989_07102026090424/V1_karind_profesor_6989_07102026090424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-edbe3235d8411a1027.htm": {
    "author": "מבזקים",
