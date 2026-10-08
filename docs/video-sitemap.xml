@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6d7230548c911a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/08/M_NEWS_16941_08102026045323_1400_1791435278679_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>סופ&quot;ש אחרון: עונת הרחצה בכנרת תיסגר באופן רשמי ב-10.10</video:title>
+<video:description>סופ&quot;ש אחרון: עונת הרחצה בכנרת תיסגר באופן רשמי ב-10.10</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16941_08102026045323/M_NEWS_16941_08102026045323_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-08T04:54:45+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-391abafacb911a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/08/V1_karind_bike_7030_08102026042200_1400_1791433405666_FirstFrame.jpg</video:thumbnail_loc>
@@ -19,11 +35,11 @@
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-180abafacb911a1026.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/10/08/SHIR_USA_081026_1400_1791433382656_FirstFrame.jpg</video:thumbnail_loc>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/08/SHIR_USA_081026_FIX_1400_1791435140481_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>המערכה הבאה בדרך? ארה״ב נערכת לחידוש הלחימה באיראן - לפני הבחירות</video:title>
 <video:description>ארה״ב נערכת לאפשרות של חידוש הלחימה באיראן - עוד לפני הבחירות בישראל ובארה״ב. החלטה סופית עדיין לא התקבלה, אך תרחיש התקיפות עשוי לכלול יעדים אסטרטגיים, אנרגיה ותשתיות גרעין.</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_USA_081026/MASTER/SHIR_USA_081026/SHIR_USA_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>43</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_USA_081026_FIX/SHIR_USA_081026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>42</video:duration>
 <video:publication_date>2026-10-08T04:23:09+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -3550,6 +3566,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -5031,6 +5048,7 @@
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -5925,6 +5943,7 @@
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
