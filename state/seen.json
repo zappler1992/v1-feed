@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b51847085aa11a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-820ee83cf8a11a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7514134815a11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23882,6 +23883,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-70f09ac853d01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/rinat_eisenkot_051026/MASTER/rinat_eisenkot_051026_m/rinat_eisenkot_051026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7514134815a11a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שיירת אופנועים עם דגלים ירוקים עוררה בהלה בכבישי הדרום, כשהמראה הזכיר לחלק מהנהגים שיירת חמאס. המשטרה חסמה את השיירה ועצרה רוכב שניסה להימלט.",
+   "duration_s": 51,
+   "first_seen_ms": 1791448946600,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_WOLT_081026_1400_1791443297098_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791443303000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "שיירת אופנועים בדרכים - עם דגלים ירוקים שמזכירים את חמאס",
+   "type": "news",
+   "updated_ms": 1791443303000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7514134815a11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_WOLT_081026/MASTER/SHIR_WOLT_081026/SHIR_WOLT_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-75812d8cd2111a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -23919,6 +23938,22 @@
    "updated_ms": 1791118768000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_car_041026/MASTER/rinat_car_041026_m/rinat_car_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-820ee83cf8a11a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "⁨ גיבור היום מניו יורק: תלש מסיכה עם כיתוב של חמאס ממפגין פלסטיני ולא נשאר חייב להם - צפו בעימות הסוער מחוץ לבניין העירייה",
+   "duration_s": 31,
+   "first_seen_ms": 1791448946600,
+   "image": "https://img.mako.co.il/2026/10/08/NEWYORK_TAMAR_0810_M_1400_1791447240979_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791447247000,
+   "sections": [],
+   "title": "תלש מסיכה עם סמל של חמאס ממפגין פלסטיני בניו יורק והפך לגיבור היום",
+   "type": "news",
+   "updated_ms": 1791447247000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-820ee83cf8a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/NEWYORK_TAMAR_0810/MASTER/NEWYORK_TAMAR_0810_M/NEWYORK_TAMAR_0810_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-867f8fcf62a11a1027.htm": {
    "author": "חדשות",
