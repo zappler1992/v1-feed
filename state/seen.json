@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4daae3a767a11a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5a2b2c1028a11a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22272c1028a11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23720,6 +23721,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-59712b08b6511a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_TAMA_071026/MASTER/SHIR_TAMA_071026/SHIR_TAMA_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5a2b2c1028a11a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 36,
+   "first_seen_ms": 1791446846550,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_MAGAL_081026_1400_1791446229335_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791446235000,
+   "sections": [],
+   "title": "אחרי מופע האימים בשידור: הצעד נגד ינון מגל",
+   "type": "news",
+   "updated_ms": 1791446235000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5a2b2c1028a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_MAGAL_081026/MASTER/SHIR_MAGAL_081026/SHIR_MAGAL_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-5ae7198ee0601a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24022,7 +24039,9 @@
    "image": "https://img.mako.co.il/2026/10/07/inbie_disney_071026_1400_1791393196670_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791393203000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "מיקי מאוס שולט: האובססיה של מלי וליאל ל\"דיסני\" נחשפת",
    "type": "news",
    "updated_ms": 1791438180000,
@@ -45634,6 +45653,24 @@
    "updated_ms": 1791123840000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-21ea6a883a601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_pitzui_6851_04102026111902/V1_karind_pitzui_6851_04102026111902_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22272c1028a11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים בסעודיה: הופסקה הפעילות בנמל התעופה הבין-לאומי של ריאד לאחר שיגור טילים לעבר העיר",
+   "duration_s": 9,
+   "first_seen_ms": 1791446846550,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_riaad_7040_08102026080117_1400_1791446582693_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791446589000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים בסעודיה: הופסקה הפעילות בנמל התעופה הבין-לאומי של ריאד לאחר שיגור טילים לעבר העיר",
+   "type": "mivzakim",
+   "updated_ms": 1791446589000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22272c1028a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_riaad_7040_08102026080117/V1_karind_riaad_7040_08102026080117_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-2242e36e3ea01a1027.htm": {
    "author": "מבזקים",
