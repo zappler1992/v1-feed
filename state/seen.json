@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ef23c5c4d1c11a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-5ef2eaaa3eb11a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cdd9393e04c11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11359,6 +11360,24 @@
    "updated_ms": 1791230460000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-431bda1a0ad01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/yoav_body_051026/MASTER/yoav_body_051026/yoav_body_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-5ef2eaaa3eb11a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "ראש עיריית ניו יורק זוהראן ממדני תועד סועד במסעדה הפלסטינית Ayat ביום השנה השלישי לטבח 7 באוקטובר. התיעוד עורר תגובות חריפות ברשת, כשגולשים תקפו את הבחירה שלו לסעוד במקום דווקא בתאריך הרגיש.",
+   "duration_s": 24,
+   "first_seen_ms": 1791475646465,
+   "image": "https://img.mako.co.il/2026/10/08/rinat_mamdani_081026_m_1400_1791469839278_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791469845000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "ביום השנה ל-7 באוקטובר: ממדני במסעדה פלסטינית",
+   "type": "general",
+   "updated_ms": 1791469845000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-5ef2eaaa3eb11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/rinat_mamdani_081026/MASTER/rinat_mamdani_081026_m/rinat_mamdani_081026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-63b59c0bc8c01a1026.htm": {
    "author": "מהעולם",
@@ -49591,6 +49610,24 @@
    "updated_ms": 1791464891000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cd0d9ba3e9b11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16979_08102026010647/M_NEWS_16979_08102026010647_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cdd9393e04c11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל חיסל מפקד בחמאס שהיה מעורב בהחזקת חטופים בשבי החמאס",
+   "duration_s": 9,
+   "first_seen_ms": 1791475646465,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16990_08102026040315_1400_1791475475027_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791475481000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל חיסל מפקד בחמאס שהיה מעורב בהחזקת חטופים בשבי החמאס",
+   "type": "mivzakim",
+   "updated_ms": 1791475481000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cdd9393e04c11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16990_08102026040315/M_NEWS_16990_08102026040315_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ce0ebff5cd411a1027.htm": {
    "author": "מבזקים",
