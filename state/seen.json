@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0a5a662846c11a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e170d65c5c11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23751,7 +23751,8 @@
    "importance": 2,
    "published_ms": 1791464209000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מריה דל קרמן אבסקל מתה: שבועיים לאחר שפינויה הצית את המחאה בספרד",
    "type": "news",
@@ -24060,7 +24061,8 @@
    "importance": 1,
    "published_ms": 1791458468000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי טיסת פליי דובאי: טייס מצרי מ-Egyptair מעלה סרטון מאיים של מטוס אל על",
    "type": "news",
@@ -46587,6 +46589,24 @@
    "updated_ms": 1791097758000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-39d170f88b501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/M_NEWS_16697_04102026070758/M_NEWS_16697_04102026070758_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e170d65c5c11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ טוען שלא יתקוף לפני בחירות האמצע בארה\"ב - אך הורה לצבא ארה\"ב להשלים את ההכנות לתקיפה",
+   "duration_s": 95,
+   "first_seen_ms": 1791479546519,
+   "image": "https://img.mako.co.il/2026/10/08/V1_ravid_7073_08102026050721_1400_1791479376916_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791479383000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ טוען שלא יתקוף לפני בחירות האמצע בארה\"ב - אך הורה לצבא ארה\"ב להשלים את ההכנות לתקיפה",
+   "type": "mivzakim",
+   "updated_ms": 1791479383000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e170d65c5c11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_ravid_7073_08102026050721/V1_ravid_7073_08102026050721_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e47a8e258601a1026.htm": {
    "author": "מבזקים",
@@ -70522,7 +70542,8 @@
    "importance": 0,
    "published_ms": 1791461991000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מסוכן: בולען ענק נפער לפתע בכביש בצ'נאי שבהודו - ומכונית צנחה לתוכו",
    "type": "mivzakim",
@@ -70750,7 +70771,8 @@
    "importance": 0,
    "published_ms": 1791463577000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "להבות ועשן ממלאים את השמיים: החות'ים תקפו את נמל התעופה בריאד שבסעודיה",
    "type": "mivzakim",
@@ -70806,7 +70828,8 @@
    "importance": 0,
    "published_ms": 1791464013000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כל הבית שרוף: שני קשישים חולצו מהלהבות במונטה סרנו - ומתו | צפו בדיווח",
    "type": "mivzakim",
