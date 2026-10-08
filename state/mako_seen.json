@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791487648301,
+ "last_run_ms": 1791487948368,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2122,6 +2122,18 @@
    "published_ms": 1790851560000,
    "section": "ספורט",
    "title": "יעבור בדיקה: שחקן מכבי ת\"א בספק לפאו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-18d8a2e0dfc11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791487948368,
+   "content_type": "article",
+   "first_seen_ms": 1791487948368,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791487680000,
+   "section": "ספורט",
+   "title": "מקרה חוקתי נדיר: הסל שאושר נגד הפועל ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-1da50d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -9293,7 +9305,7 @@
    "indexnow_ms": 1791484049350,
    "published_ms": 1791482340000,
    "section": "",
-   "title": "\"לא יכולתי לתפקד\": הנסיך הארי חושף את המשבר הקשה"
+   "title": "הנסיך הארי חושף: ״שקעתי בדיכאון, לא תפקדתי\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-51648d260c501a1027.htm": {
    "check_attempts": 1,
@@ -22530,6 +22542,18 @@
    "published_ms": 1790592600000,
    "section": "",
    "title": "לא עוצרת: היעד הנוסף בו החל לפעול צבא ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bba767d586b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-bba767d586b11a1027.htm",
+   "checked_ms": 1791487707431,
+   "content_type": "article",
+   "first_seen_ms": 1791487707431,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791484500000,
+   "section": "חדשות",
+   "title": "האיש שהעיר את נתניהו: \"מה שפורסם לא משקף אפילו חצי\""
   },
   "https://www.mako.co.il/special-mako-news/Article-c37025c877311a1027.htm": {
    "check_attempts": 1,
