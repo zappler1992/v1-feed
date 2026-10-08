@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-3f1fa60685c11a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-4aefd81358c11a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-7844ad7077c11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3821,6 +3822,24 @@
    "updated_ms": 1791452136000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-7701c4de6da11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_Sydney,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-7844ad7077c11a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "פי דידי יישאר בכלא כשישה שבועות נוספים, אחרי שתאריך השחרור שלו נדחה מ-21 בינואר ל-2 במרץ 2028. זאת זמן קצר אחרי שנחשפו הדיווחים על חיי ה-VIP שלו מאחורי הסורגים- עם ארוחות מיוחדות, עיסויים ואלכוהול יוקרתי.",
+   "duration_s": 84,
+   "first_seen_ms": 1791480746600,
+   "image": "https://img.mako.co.il/2026/10/08/rinat_didi_081026_m_1400_1791479678618_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791479685000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "אחרי שנתפס עם פורנו ואלכוהול בכלא: תאריך השחרור של פי דידי נדחה",
+   "type": "general",
+   "updated_ms": 1791479685000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-7844ad7077c11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/rinat_didi_081026/MASTER/rinat_didi_081026_m/rinat_didi_081026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-8b2967d586b11a1027.htm": {
    "author": "סלבס",
@@ -70268,6 +70287,24 @@
    "updated_ms": 1791267419000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-49eb0af98df01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_australia_6935_06102026061524/V1_karind_australia_6935_06102026061524_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-4aefd81358c11a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "גנב קולנועית משדה התעופה בקליפורניה ונסע איתה על מסלול ההמראה - עד שהתנגש בכלי רכב אחר",
+   "duration_s": 38,
+   "first_seen_ms": 1791480746600,
+   "image": "https://img.mako.co.il/2026/10/08/V1_airport_7074_08102026052825_1400_1791480598121_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791480604000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "גנב קולנועית משדה התעופה בקליפורניה ונסע איתה על מסלול ההמראה - עד שהתנגש בכלי רכב אחר",
+   "type": "mivzakim",
+   "updated_ms": 1791480604000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-4aefd81358c11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_airport_7074_08102026052825/V1_airport_7074_08102026052825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-501b86cbf9d01a1027.htm": {
    "author": "מבזקים מהעולם",
