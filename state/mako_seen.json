@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791463048470,
+ "last_run_ms": 1791463348628,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12451,6 +12451,18 @@
    "section": "HIX",
    "title": "\"לא זוכרת\": הנוסעת תועדה מענגת את עצמה בטיסה"
   },
+  "https://www.mako.co.il/hix-bizarre/Article-46910df657b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791463348628,
+   "content_type": "article",
+   "first_seen_ms": 1791463348628,
+   "indexable": true,
+   "indexnow_ms": 1791463348628,
+   "published_ms": 1791463140000,
+   "section": "HIX",
+   "title": "פגשה את הכפילה שלה על המגרש, ואז התבררה האמת"
+  },
   "https://www.mako.co.il/hix-bizarre/Article-4761124aa13d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23778,6 +23790,18 @@
    "published_ms": 1791402120000,
    "section": "",
    "title": "בחברה שטסה לארץ: נתפס טייס שהתבטא נגד ישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-d0c70dbd96b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791463226774,
+   "content_type": "article",
+   "first_seen_ms": 1791463226774,
+   "indexable": true,
+   "indexnow_ms": 1791463226774,
+   "published_ms": 1791461580000,
+   "section": "",
+   "title": "טייס מצרי צילם מטוס ישראלי: \"עין תחת עין\""
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
