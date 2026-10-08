@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791479849514,
+ "last_run_ms": 1791480149384,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6368,6 +6368,18 @@
    "published_ms": 1790948580000,
    "section": "ספורט",
    "title": "האיום החדש של האמירויות בפרשת סיטי"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-d91c2354f7c11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791480149384,
+   "content_type": "article",
+   "first_seen_ms": 1791480149384,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791480000000,
+   "section": "ספורט",
+   "title": "ההתבטאות הראשונה של הלאנד לאשמה של סיטי"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-014bd5b45f0e0a1027.htm": {
    "check_attempts": 1,
