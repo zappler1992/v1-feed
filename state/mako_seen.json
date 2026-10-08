@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791471451032,
+ "last_run_ms": 1791471749415,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6836,6 +6836,18 @@
    "published_ms": 1790861580000,
    "section": "ספורט",
    "title": "חלום ה-1,000 בורח? הפיצוץ שיפגע ברונאלדו"
+  },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-81f52e302fb11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791471749415,
+   "content_type": "article",
+   "first_seen_ms": 1791471749415,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791471480000,
+   "section": "ספורט",
+   "title": "רונאלדו: \"הכתב הזה נראה כמו תפוח\""
   },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-89607d4b2f6f0a1026.htm": {
    "check_attempts": 1,
@@ -24773,7 +24785,7 @@
    "indexnow_ms": 1791451467139,
    "published_ms": 1791451020000,
    "section": "קשת 12",
-   "title": "\"סיוט. אני אומר לאנשים: אל תעזו לעשות את זה\""
+   "title": "\"זה הדבר הנכון ביותר לאדם במצבי, אין לי כוח\""
   },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-54734b0c63f90a1026.htm": {
    "check_attempts": 1,
@@ -25278,6 +25290,18 @@
    "published_ms": 1790659980000,
    "section": "",
    "title": "כוכב \"הצלצול הגואל\" הלך לעולמו בגיל 75"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-22af9fdc3ba11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791471749415,
+   "content_type": "article",
+   "first_seen_ms": 1791471749415,
+   "indexable": true,
+   "indexnow_ms": 1791471749415,
+   "published_ms": 1791471360000,
+   "section": "הכי חם",
+   "title": "הבטחות צריך לקיים: סגירת המעגל של אסי עזר"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-23921604f0011a1027.htm": {
    "check_attempts": 1,
