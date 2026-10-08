@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c13e5bd6e8b11a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-873d32b7d8b11a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-e57c5bd6e8b11a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4cb432b7d8b11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23716,7 +23714,8 @@
    "importance": 2,
    "published_ms": 1791451194000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "״הגשמתי לאבא שלי את החלום״: המפגש המרגש עם דני אבדיה",
    "type": "news",
@@ -23878,7 +23877,8 @@
    "importance": 2,
    "published_ms": 1791446235000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי מופע האימים בשידור: הצעד נגד ינון מגל",
    "type": "news",
@@ -24060,7 +24060,8 @@
    "importance": 2,
    "published_ms": 1791443303000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "שיירת אופנועים בדרכים - עם דגלים ירוקים שמזכירים את חמאס",
    "type": "news",
@@ -24116,7 +24117,8 @@
    "importance": 2,
    "published_ms": 1791447247000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "תלש מסיכה עם סמל של חמאס ממפגין פלסטיני בניו יורק והפך לגיבור היום",
    "type": "news",
@@ -46623,6 +46625,24 @@
    "updated_ms": 1791187042000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4c1d2d0cd0b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_KARIND_KINNERT_6887_05102026075502/V1_KARIND_KINNERT_6887_05102026075502_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4cb432b7d8b11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרכבת הקלה הפסיקה לעבוד: המונים הולכים ברגל ברחובות ירושלים",
+   "duration_s": 25,
+   "first_seen_ms": 1791464546154,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_rakevetkala_7057_08102026125822_1400_1791464386415_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791464393000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרכבת הקלה הפסיקה לעבוד: המונים הולכים ברגל ברחובות ירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1791464393000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4cb432b7d8b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_rakevetkala_7057_08102026125822/V1_karind_rakevetkala_7057_08102026125822_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4daae3a767a11a1027.htm": {
    "author": "מבזקים",
