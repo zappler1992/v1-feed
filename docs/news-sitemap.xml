@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-bac3116871a11a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-08T06:12:31+00:00</news:publication_date>
+<news:title>אחרי הסנקציות של הבריטים נגד ישראל: הוסרו השלטים מהקונסוליה הבריטית במזרח ירושלים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/08/M_NEWS_16948_08102026061057_1400_1791439945232_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d720116871a11a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1791,14 +1800,5 @@
 <news:title>ניסיון החיסול בירושלים: בן 50 נפצע קשה - בנו בן ה-13 נפצע בינוני</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/06/FIX_inbie_Jeruz_061026_1400_1791268955473_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-49eb0af98df01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-06T06:16:59+00:00</news:publication_date>
-<news:title>הכיסאות הצילו את החתונה: אורחים באוסטרליה הרימו את הכיסוי שהתמלא במים כדי שלא יקרוס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_karind_australia_6935_06102026061524_1400_1791267412718_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
