@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791454049357,
+ "last_run_ms": 1791454349423,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19317,6 +19317,18 @@
    "section": "",
    "title": "ההודעה המלחיצה שקיבלו משתמשי אסוס"
   },
+  "https://www.mako.co.il/nexter-news/Article-cc6cb1ca4ea11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791454349423,
+   "content_type": "article",
+   "first_seen_ms": 1791454349423,
+   "indexable": true,
+   "indexnow_ms": 1791454349423,
+   "published_ms": 1791454140000,
+   "section": "דיגיטל",
+   "title": "יחס טוב בשבי? טליה חושפת לאנטישמים את האמת"
+  },
   "https://www.mako.co.il/nexter-news/Article-d99d549085dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20527,7 +20539,7 @@
    "indexnow_ms": 1791450987143,
    "published_ms": 1791450540000,
    "section": "",
-   "title": "הפיגוע ההמוני שתכנן סטודנט לרוקחות מירושלים"
+   "title": "עם גישה לחומר קטלני: המחבל המסוכן שנעצר"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a5d7d44ce48d0a1026.htm": {
    "check_attempts": 1,
@@ -22605,6 +22617,18 @@
    "section": "",
    "title": "מבצע חילוץ הישראלים יוצא לדרך, כך הוא צפוי לקרות"
   },
+  "https://www.mako.co.il/travel-news/Article-bf59407ebaa11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791454107355,
+   "content_type": "article",
+   "first_seen_ms": 1791454107355,
+   "indexable": true,
+   "indexnow_ms": 1791454107355,
+   "published_ms": 1791448920000,
+   "section": "",
+   "title": "הסיבה לביטול טיסות החילוץ מדובאי"
+  },
   "https://www.mako.co.il/travel-news/Article-cb1ad2900ecc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22856,6 +22880,18 @@
    "published_ms": 1790848020000,
    "section": "",
    "title": "\"שמענו יריות וראינו את נהג המונית מת\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-31ca95475ea11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791454349423,
+   "content_type": "article",
+   "first_seen_ms": 1791454349423,
+   "indexable": true,
+   "indexnow_ms": 1791454349423,
+   "published_ms": 1791451860000,
+   "section": "חופש",
+   "title": "\"מהערים היפות – אבל אני צוחק כדי שלא לבכות\""
   },
   "https://www.mako.co.il/travel-news/international/Article-31f1407da13d0a1026.htm": {
    "check_attempts": 1,
