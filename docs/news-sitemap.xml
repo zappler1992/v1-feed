@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f6d3a1bb36a11a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-08T07:31:06+00:00</news:publication_date>
+<news:title>&quot;תראה את הפנים שלך&quot;: גבר התעמת עם מפגין שענד סרט של חמאס ליד עיריית ניו יורק | צפו בתיעוד המרתיח</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/08/V1_KARIND_HAMAS_7039_08102026072934_1400_1791444660225_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-a6aba1bb36a11a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1791,14 +1800,5 @@
 <news:title>סתיו על מלא: גשמים החלו לרדת גם בעכו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/06/M_NEWS_16834_06102026073934_1400_1791272458717_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c83f7ef9f1011a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-06T07:34:45+00:00</news:publication_date>
-<news:title>פיצוץ אדיר: כוחות צה&quot;ל השמידו תוואי תת-קרקעי נוסף בצפון הרצועה - באורך של קילומטר וחצי</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_karind_gaza_061026_6942_06102026073337_1400_1791272078460_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
