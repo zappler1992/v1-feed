@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791439348928,
+ "last_run_ms": 1791439649034,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10580,6 +10580,18 @@
    "published_ms": 1790572140000,
    "section": "הכי חם",
    "title": "ארוחה בסוכה? זה המתכון המושלם"
+  },
+  "https://www.mako.co.il/food-cooking_magazine/all-week-recipes-recipes-for-sabbath/Recipe-e0d6b21a0abe941006.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-e0d6b21a0abe941006.htm",
+   "checked_ms": 1791439587339,
+   "content_type": "recipe",
+   "first_seen_ms": 1791439587339,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791431040000,
+   "section": "",
+   "title": "ככה עושים את זה: בצלים ממולאים כמו של מסעדה"
   },
   "https://www.mako.co.il/food-cooking_magazine/healthy-recipes/Recipe-db8b76a28310a41006.htm": {
    "check_attempts": 1,
