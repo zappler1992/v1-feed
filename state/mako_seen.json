@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791445049071,
+ "last_run_ms": 1791445349150,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9979,7 +9979,7 @@
    "indexnow_ms": 1791436107093,
    "published_ms": 1791435600000,
    "section": "",
-   "title": "הפגנת חרדים ומופע ענק: אלו הכבישים שייחסמו"
+   "title": "הפגנת חרדים ומופע ענק באצטדיון ר\"ג"
   },
   "https://www.mako.co.il/finances-news/Article-b590c1ad00601a1026.htm": {
    "check_attempts": 1,
@@ -16521,6 +16521,18 @@
    "section": "פלילים",
    "title": "\"הכה אותה בפטיש והטמין את הגופה בחבית שקנה מראש\""
   },
+  "https://www.mako.co.il/men-men_news/Article-cc4825ece5a11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791445349150,
+   "content_type": "article",
+   "first_seen_ms": 1791445349150,
+   "indexable": true,
+   "indexnow_ms": 1791445349150,
+   "published_ms": 1791443760000,
+   "section": "פלילים",
+   "title": "העבריין שוחרר מהכלא - ונלקח מיד לחקירת משטרה"
+  },
   "https://www.mako.co.il/men-men_news/Article-ccfb318829601a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16675,7 +16687,7 @@
    "indexnow_ms": 1791442349083,
    "published_ms": 1791441720000,
    "section": "",
-   "title": "העונש שנגזר על הגינקולוג הבכיר שאנס 9 מטופלות"
+   "title": "העונש שנגזר על הגינקולוג שאנס 9 מטופלות"
   },
   "https://www.mako.co.il/men-men_news/Article-e19401a10f3d0a1026.htm": {
    "check_attempts": 1,
@@ -20107,7 +20119,7 @@
    "indexnow_ms": 1791437787210,
    "published_ms": 1791437400000,
    "section": "",
-   "title": "עשרות בכירים אמריקאים: \"ישראל לא ביצעה רצח עם בעזה\""
+   "title": "התשובה של בכירים ביטחוניים בארה\"ב ל\"רצח העם\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-5d0386d819ce0a1026.htm": {
    "check_attempts": 1,
@@ -20600,6 +20612,18 @@
    "published_ms": 1790755800000,
    "section": "צבא וביטחון",
    "title": "המחבלים שנתפסו - והדיווח על הירי שתכננו לישראל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-f462f59666a11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791445226705,
+   "content_type": "article",
+   "first_seen_ms": 1791445226705,
+   "indexable": true,
+   "indexnow_ms": 1791445226705,
+   "published_ms": 1791444660000,
+   "section": "",
+   "title": "חריג: המהלך של שתי מדינות ערב נגד הציר האיראני"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-f6ee761c15601a1027.htm": {
    "check_attempts": 1,
@@ -24379,7 +24403,7 @@
    "indexnow_ms": 1791436827179,
    "published_ms": 1791432900000,
    "section": "",
-   "title": "יהודה לוי: \"היא מחקה הכל, חוץ ממנה דבר לא מעניין\""
+   "title": "יהודה מצהיר: \"אעשה בשבילה הכל, אפילו למות\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-1766d0af49be0a1026.htm": {
    "check_attempts": 1,
@@ -24631,7 +24655,7 @@
    "indexnow_ms": 1791439707352,
    "published_ms": 1791439080000,
    "section": "תרבות tvbee",
-   "title": "טענות נגד ג'ימי קימל: \"מתנהג כמו מניאק\""
+   "title": "\"הוא מתנהג כמו מניאק, אי אפשר לנהל אותו\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-d363124aa13d0a1027.htm": {
    "check_attempts": 1,
