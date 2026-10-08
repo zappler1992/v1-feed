@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791458848743,
+ "last_run_ms": 1791459148615,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -722,7 +722,7 @@
    "title": "בהופעה פומבית ראשונה: זו אולי ה\"בת של\" הכי מעניינת שראינו לאחרונה"
   },
   "https://fashionforward.mako.co.il/news/321462/": {
-   "check_attempts": 2,
+   "check_attempts": 3,
    "content_type": "post",
    "first_seen_ms": 1791458787776,
    "indexable": null,
@@ -730,6 +730,18 @@
    "published_ms": null,
    "section": "אופנה",
    "title": "אור לוזון בשמלה לבנה בחופשה רומנטית עם בן הזוג החדש"
+  },
+  "https://fashionforward.mako.co.il/news/321471/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791459148615,
+   "content_type": "article",
+   "first_seen_ms": 1791459148615,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791458564000,
+   "section": "Fashion Forward",
+   "title": "את חזיית העור הזאת עיצב הנין של הבאבא סאלי, והוא בא לעשות פה גל גדול"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
