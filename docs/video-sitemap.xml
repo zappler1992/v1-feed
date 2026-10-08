@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5a95b4971ba11a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/08/V1_karind_traktoron_7043_08102026085920_1400_1791450027690_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>נהג בפראות - ונעצר: מרדף אחר רוכב טרקטורון בערערה הסתיים במעצר קטין</video:title>
+<video:description>נהג בפראות - ונעצר: מרדף אחר רוכב טרקטורון בערערה הסתיים במעצר קטין</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_traktoron_7043_08102026085920/V1_karind_traktoron_7043_08102026085920_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-08T09:00:35+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f3059fdc3ba11a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/08/M_NEWS_16956_08102026085503_1400_1791449774757_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בעקבות הפגנות החרדים: צפי לשיבושים ועומסי תנועה באזור נתב&quot;ג</video:title>
+<video:description>בעקבות הפגנות החרדים: צפי לשיבושים ועומסי תנועה באזור נתב&quot;ג</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16956_08102026085503/M_NEWS_16956_08102026085503_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>2</video:duration>
+<video:publication_date>2026-10-08T08:56:21+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8000b4971ba11a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/08/V1_karind_ukraine_7042_08102026085037_1400_1791449529073_FirstFrame.jpg</video:thumbnail_loc>
@@ -290,6 +322,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -404,6 +437,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>חופש וטיולים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>

@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8000b4971ba11a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5a95b4971ba11a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f3059fdc3ba11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -826,7 +827,7 @@
    ],
    "title": "בקצב השקר פרק 6: המתחזה מאשימה בגניבה",
    "type": "series",
-   "updated_ms": 1791364800000,
+   "updated_ms": 1791449400000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w01/shorts-85323eecb67f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/ACADEMY_OF_LIES_EP06/MASTER/ACADEMY_OF_LIES_EP06/ACADEMY_OF_LIES_EP06_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -864,7 +865,7 @@
    ],
    "title": "בקצב השקר פרק 7: שאלה אחת מסבכת הכל",
    "type": "series",
-   "updated_ms": 1791365760000,
+   "updated_ms": 1791449940000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-8ef452aef8501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/ACADEMY_OF_LIES_EP07/MASTER/ACADEMY_OF_LIES_EP07/ACADEMY_OF_LIES_EP07_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -11168,7 +11169,8 @@
    "importance": 1,
    "published_ms": 1791437745000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "הנוסעת תועדה מענגת את עצמה בזמן הטיסה",
    "type": "general",
@@ -24074,7 +24076,8 @@
    "importance": 2,
    "published_ms": 1791439670000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "פיצוצים בשכונת המשפחות - בתוך תל אביב",
    "type": "news",
@@ -46705,6 +46708,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-59edbb2192111a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_KARIND_HORMOZ_6954_06102026122842/V1_KARIND_HORMOZ_6954_06102026122842_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5a95b4971ba11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נהג בפראות - ונעצר: מרדף אחר רוכב טרקטורון בערערה הסתיים במעצר קטין",
+   "duration_s": 9,
+   "first_seen_ms": 1791450146607,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_traktoron_7043_08102026085920_1400_1791450027690_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791450035000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נהג בפראות - ונעצר: מרדף אחר רוכב טרקטורון בערערה הסתיים במעצר קטין",
+   "type": "mivzakim",
+   "updated_ms": 1791450035000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5a95b4971ba11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_traktoron_7043_08102026085920/V1_karind_traktoron_7043_08102026085920_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5d04f62cda411a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49596,6 +49617,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f2b4df0370a11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16946_08102026055218/M_NEWS_16946_08102026055218_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f3059fdc3ba11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בעקבות הפגנות החרדים: צפי לשיבושים ועומסי תנועה באזור נתב\"ג",
+   "duration_s": 2,
+   "first_seen_ms": 1791450146607,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16956_08102026085503_1400_1791449774757_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791449781000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בעקבות הפגנות החרדים: צפי לשיבושים ועומסי תנועה באזור נתב\"ג",
+   "type": "mivzakim",
+   "updated_ms": 1791449781000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f3059fdc3ba11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16956_08102026085503/M_NEWS_16956_08102026085503_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f52f9ac853d01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -50061,7 +50100,7 @@
    ],
    "title": "פולישוק פרק 5: תחתית סדר העדיפויות",
    "type": "series",
-   "updated_ms": 1791448800000,
+   "updated_ms": 1791449100000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m09_w05/shorts-43e06c93aa2f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/POLISHUK_EP05/MASTER/POLISHUK_EP05/POLISHUK_EP05_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -50137,7 +50176,7 @@
    ],
    "title": "פולישוק פרק 6: פותח דלת ופותח חזית",
    "type": "series",
-   "updated_ms": 1791365400000,
+   "updated_ms": 1791449400000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w01/shorts-072c6bbeaa7f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/POLISHUK_EP06/MASTER/POLISHUK_EP06/POLISHUK_EP06_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -50156,7 +50195,7 @@
    ],
    "title": "פולישוק פרק 7: הדוברת מזהירה והשר בשלו",
    "type": "series",
-   "updated_ms": 1791366180000,
+   "updated_ms": 1791449880000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w02/shorts-fccb63980d501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/POLISHUK_EP07/MASTER/POLISHUK_EP07/POLISHUK_EP07_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
