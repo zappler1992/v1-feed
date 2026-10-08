@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22d761d9f9911a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-08T04:18:16+00:00</news:publication_date>
+<news:title>ממדאני חוטף דווקא ממפגינים אנטי ישראלים - כי השתתף בטקס לציון 7 באוקטובר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/08/V1_karind_mamdani_7029_08102026041657_1400_1791433089741_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-db69511549911a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1791,14 +1800,5 @@
 <news:title>אלה חמש הכותרות החשובות של הבוקר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/06/V1_kotarot_6928_06102026042202_1400_1791260601349_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-88bfba70a5f01a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-06T04:19:27+00:00</news:publication_date>
-<news:title>נידאל חסן, שרצח 13 חיילים אמריקאים בבסיס פורט הוד שבטקסס בשנת 2009, יוצא להורג בכיתת יורים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/06/M_NEWS_16813_06102026041749_1400_1791260360512_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
