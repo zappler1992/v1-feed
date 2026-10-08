@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791455248256,
+ "last_run_ms": 1791455548357,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12141,6 +12141,18 @@
    "section": "",
    "title": "פריקת הכתף - הפכה לנכות לצמיתות"
   },
+  "https://www.mako.co.il/health-news/Article-e39d033b343d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791455307399,
+   "content_type": "article",
+   "first_seen_ms": 1791455307399,
+   "indexable": true,
+   "indexnow_ms": 1791455307399,
+   "published_ms": 1791455160000,
+   "section": "בריאות",
+   "title": "\"נעשה ליולדת עוול קשה. איבדה את פרי בטנה\""
+  },
   "https://www.mako.co.il/health-news/Article-e4461f8528a01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17768,6 +17780,18 @@
    "published_ms": 1790580420000,
    "section": "מוזיקה",
    "title": "הכוכבת האמריקאית נכוותה ברגלה רגע לפני הופעה"
+  },
+  "https://www.mako.co.il/music-news/Article-e3e752bddfa11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791455548357,
+   "content_type": "article",
+   "first_seen_ms": 1791455548357,
+   "indexable": true,
+   "indexnow_ms": 1791455548357,
+   "published_ms": 1791455160000,
+   "section": "מוזיקה",
+   "title": "הזמר שתומך בישראל מוחרם בירדן: \"תומך באויב\""
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
