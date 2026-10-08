@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-441d10b004a11a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-867f8fcf62a11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -305,7 +305,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם יאיר לפיד",
    "type": "general",
@@ -431,7 +432,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם חילי טרופר",
    "type": "general",
@@ -557,7 +559,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם עמית סגל: מהדורת בחירות 2026",
    "type": "general",
@@ -629,7 +632,8 @@
    "importance": 1,
    "published_ms": null,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם דנה ויס",
    "type": "general",
@@ -647,7 +651,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם גלעד ארדן",
    "type": "general",
@@ -23894,6 +23899,22 @@
    "updated_ms": 1791118768000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-760d9b4cbf601a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_car_041026/MASTER/rinat_car_041026_m/rinat_car_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-867f8fcf62a11a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הפגנות חרדים צפויות להתחיל היום ב-16:00 בירושלים ובגוש דן, ובמקביל עשרות\nאלפי אנשים צפויים להגיע למופעי NEXT באצטדיון רמת גן. המשטרה נערכת לחסימות ושיבושים בכביש 4, כביש 1 וכביש 6 ובצירים הסמוכים לאצטדיון, כשגם הגישה לנתב\"ג עלולה להיפגע. אלה הכבישים והרחובות שצפויים להיחסם.",
+   "duration_s": 18,
+   "first_seen_ms": 1791442346440,
+   "image": "https://img.mako.co.il/2026/10/08/Kim_Protest_08102026_1400_1791440710990_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791440717000,
+   "sections": [],
+   "title": "הפגנות ומופע NEXT: אלה הכבישים שייחסמו",
+   "type": "news",
+   "updated_ms": 1791440717000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-867f8fcf62a11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_Protest_08102026/MASTER/Kim_Protest_08102026/Kim_Protest_08102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-8df6b6c7ce411a1027.htm": {
    "author": "חדשות",
@@ -59232,7 +59253,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "מVינים חדשות"
+    "מVינים חדשות",
+    "בחירות 2026"
    ],
    "title": "מה שנתניהו לא סיפר על המזימה האיראנית",
    "type": "general",
@@ -59342,7 +59364,8 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "מVינים חדשות"
+    "מVינים חדשות",
+    "בחירות 2026"
    ],
    "title": "מVינים בחירות: מה מסתתר מאחורי קמפיין \"בגידת 7.10\"",
    "type": "general",
@@ -59662,7 +59685,8 @@
    "published_ms": 1789017540000,
    "sections": [
     "המיוחדים",
-    "דברים שלא ידעתם"
+    "דברים שלא ידעתם",
+    "בחירות 2026"
    ],
    "title": "ביבי שמאלני? זו לגמרי יכלה להיות המציאות",
    "type": "general",
@@ -59701,7 +59725,8 @@
    "published_ms": 1789399380000,
    "sections": [
     "המיוחדים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "אמת או חובה: מירב בן ארי",
    "type": "general",
@@ -59720,7 +59745,8 @@
    "published_ms": 1789587240000,
    "sections": [
     "מVינים חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "הסרטון שנתניהו ממש לא רוצה שתראו",
    "type": "general",
@@ -59777,7 +59803,8 @@
    "published_ms": 1790064000000,
    "sections": [
     "המיוחדים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "אמת או חובה: יונתן שלו",
    "type": "general",
@@ -59888,7 +59915,8 @@
    "published_ms": 1790275380000,
    "sections": [
     "מVינים חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "מVינים בחירות: האיש שלא מסכים עם עצמו יכריע את הבחירות?",
    "type": "general",
@@ -59943,7 +59971,8 @@
    "sections": [
     "מVינים חדשות",
     "חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "מה נתניהו הפסיק להגיד: הפרט שכולם פספסו",
    "type": "general",
@@ -59971,6 +60000,24 @@
    "updated_ms": 1790266380000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w04/shorts-df3913103f2d0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/STIV_MONIT_240926/MASTER/STIV_MONIT_240926_M/STIV_MONIT_240926_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-48eaee0f842f0a1026.htm": {
+   "author": "מיוחד",
+   "date_source": null,
+   "description": "למה אנחנו מצביעים עם אותיות ואיך כל הסיפור הזה שווה 40 אלף מנות שווארמה?",
+   "duration_s": 54,
+   "first_seen_ms": 1791442346440,
+   "image": "https://img.mako.co.il/2026/09/30/LIOR_PTAKIM_1400_1790771454879_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": null,
+   "sections": [
+    "בחירות 2026"
+   ],
+   "title": "כמה?? העלות המטורפת של הפתקים בקלפי",
+   "type": "general",
+   "updated_ms": 1791441720000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-48eaee0f842f0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/LIOR_PTAKIM_FIX/LIOR_PTAKIM_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-7e390b7dfc1f0a1027.htm": {
    "author": "מיוחד",
@@ -60004,7 +60051,8 @@
    "sections": [
     "מVינים חדשות",
     "הכי נצפים עכשיו",
-    "הכי נצפים השבוע"
+    "הכי נצפים השבוע",
+    "בחירות 2026"
    ],
    "title": "מVינים בחירות: שרי הליכוד שכחו? המצלמה זוכרת הכול",
    "type": "general",
@@ -60093,7 +60141,8 @@
    "importance": 2,
    "published_ms": 1791296940000,
    "sections": [
-    "מVינים חדשות"
+    "מVינים חדשות",
+    "בחירות 2026"
    ],
    "title": "מVינים בחירות: ימין או פלסטין? מה ששרה חשפה למנסור עבאס",
    "type": "general",
