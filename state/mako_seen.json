@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791441449104,
+ "last_run_ms": 1791441749152,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9080,6 +9080,18 @@
    "published_ms": 1790154300000,
    "section": "סלבס",
    "title": "אחרי עשור בנפרד: הכוכב ואשתו סוף-סוף מתגרשים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-9f7387efc0a11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791441507504,
+   "content_type": "article",
+   "first_seen_ms": 1791441507504,
+   "indexable": true,
+   "indexnow_ms": 1791441507504,
+   "published_ms": 1791441180000,
+   "section": "סלבס",
+   "title": "מחקר חדש קבע: הכוכבת ומרילין מונרו קרובות משפחה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-a16415ad146f0a1027.htm": {
    "check_attempts": 1,
@@ -23480,6 +23492,18 @@
    "published_ms": 1790483640000,
    "section": "חופש",
    "title": "למה המדינה הזו כל כך שונאת אותנו כבר המון שנים?"
+  },
+  "https://www.mako.co.il/travel-world/Article-5d8c116871a11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.lametayel.co.il/articles/70jlnk",
+   "checked_ms": 1791441627499,
+   "content_type": "article",
+   "first_seen_ms": 1791441627499,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791439380000,
+   "section": "חופש",
+   "title": "זול, יפה וקרוב: היעד שהכי משתלם לנחות בו עכשיו"
   },
   "https://www.mako.co.il/travel-world/Article-784fcb9ed84e0a1027.htm": {
    "check_attempts": 1,
