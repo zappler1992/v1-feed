@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791445349150,
+ "last_run_ms": 1791445649158,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11552,6 +11552,18 @@
    "published_ms": 1791275400000,
    "section": "",
    "title": "ההתפרצות המסוכנת בארה\"ב - מסכנת את ישראל"
+  },
+  "https://www.mako.co.il/health-news/Article-1f0b69539b011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791445466725,
+   "content_type": "article",
+   "first_seen_ms": 1791445466725,
+   "indexable": true,
+   "indexnow_ms": 1791445466725,
+   "published_ms": 1791444900000,
+   "section": "בריאות",
+   "title": "גילה בבדיקה גנטית שהוא נשא של תסמונת מסוכנת"
   },
   "https://www.mako.co.il/health-news/Article-280f89445d1f0a1027.htm": {
    "check_attempts": 1,
