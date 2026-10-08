@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791483149898,
+ "last_run_ms": 1791483449446,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2351,6 +2351,18 @@
    "section": "ספורט",
    "title": "\"לא צריך לעזור לגוליית\": עופר ינאי זועם"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-5dae9ee6cac11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791483449446,
+   "content_type": "article",
+   "first_seen_ms": 1791483449446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791483300000,
+   "section": "ספורט",
+   "title": "\"צעד בכיוון הנכון, לא חשבנו שנפתח ככה\""
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-6845c2bac08f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -2409,7 +2421,7 @@
    "indexnow_ms": null,
    "published_ms": 1791482820000,
    "section": "ספורט",
-   "title": "ברוך הבא: השיא ששבר ים מדר מול מילאנו"
+   "title": "אחרי 2 זריקות בגב: השיא שים מדר שבר"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-83350d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -21306,6 +21318,18 @@
    "published_ms": 1791268320000,
    "section": "צבא וביטחון",
    "title": "מפתיע: הכוח הזר שישתף פעולה עם צבא לבנון"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-c1f92c68bac11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791483387158,
+   "content_type": "article",
+   "first_seen_ms": 1791483387158,
+   "indexable": true,
+   "indexnow_ms": 1791483387158,
+   "published_ms": 1791483000000,
+   "section": "",
+   "title": "האמר צבאי התהפך: סרן אליאב חיים צפלמוס נפל בדרום לבנון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c5ae8ea57ccc0a1027.htm": {
    "check_attempts": 1,
