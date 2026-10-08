@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-bdca167f27b11a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5ac7167f27b11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23989,7 +23989,7 @@
    ],
    "title": "אחרי טיסת פליי דובאי: טייס מצרי מ-Egyptair מעלה סרטון מאיים של מטוס אל על",
    "type": "news",
-   "updated_ms": 1791458468000,
+   "updated_ms": 1791462720000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-673c497eb3b11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_PilotE_08102026/MASTER/Kim_PilotE_08102026/Kim_PilotE_08102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -46911,6 +46911,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5a95b4971ba11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_traktoron_7043_08102026085920/V1_karind_traktoron_7043_08102026085920_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5ac7167f27b11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אדם נפצע באורח קל באירוע דקירה באשדוד. הרקע לאירוע פלילי וכוחות משטרה נמצאים במקום",
+   "duration_s": 9,
+   "first_seen_ms": 1791463045883,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_ashdod_7052_08102026122934_1400_1791462665469_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791462672000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אדם נפצע באורח קל באירוע דקירה באשדוד. הרקע לאירוע פלילי וכוחות משטרה נמצאים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1791462672000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5ac7167f27b11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_ashdod_7052_08102026122934/V1_karind_ashdod_7052_08102026122934_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5d04f62cda411a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60660,7 +60678,7 @@
    ],
    "title": "כמה?? העלות המטורפת של הפתקים בקלפי",
    "type": "general",
-   "updated_ms": 1791441720000,
+   "updated_ms": 1791462720000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m09_w05/shorts-48eaee0f842f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/30/LIOR_PTAKIM_FIX/LIOR_PTAKIM_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
