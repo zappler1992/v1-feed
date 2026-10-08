@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791453767233,
+ "last_run_ms": 1791454049357,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5327,6 +5327,18 @@
    "section": "ספורט",
    "title": "לא התקבל לנוער בחיפה ופורח בהיידוק ספליט"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-acbb3a736fa11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791453987369,
+   "content_type": "article",
+   "first_seen_ms": 1791453987369,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791453660000,
+   "section": "ספורט",
+   "title": "ישיר באתר: מסיבת העיתונאים של הפועל ב\"ש"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c85df8b3f7011a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -10652,6 +10664,18 @@
    "published_ms": 1771247700000,
    "section": "משפט",
    "title": "\"יש קייס לתביעה\"?: הבוט שמנבא פסקי דין"
+  },
+  "https://www.mako.co.il/food-chefs/ben_shai/Article-df2fb5da9ca11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791453987369,
+   "content_type": "article",
+   "first_seen_ms": 1791453987369,
+   "indexable": true,
+   "indexnow_ms": 1791453987369,
+   "published_ms": 1791453840000,
+   "section": "",
+   "title": "הסיפור האמיתי מאחורי המנה ששיגעה את הוליווד"
   },
   "https://www.mako.co.il/food-chefs/ben_shai/Recipe-c886b2cb6a6f0a1026.htm": {
    "check_attempts": 1,
@@ -24332,6 +24356,18 @@
    "published_ms": 1791100020000,
    "section": "קשת 12",
    "title": "\"אני חוששת להביא את הזוגיות שלנו למסך\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-aad1545ff6311a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791453867317,
+   "content_type": "article",
+   "first_seen_ms": 1791453867317,
+   "indexable": true,
+   "indexnow_ms": 1791453867317,
+   "published_ms": 1791450300000,
+   "section": "קשת 12",
+   "title": "\"נהייתי בלתי נסבל, היה לא נעים לעבוד איתי\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-cf986b95bdfc0a1026.htm": {
    "check_attempts": 1,
