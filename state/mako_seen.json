@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791458248421,
+ "last_run_ms": 1791458549333,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17133,6 +17133,18 @@
    "section": "פלילים",
    "title": "למרות ששתק בחקירה: ראש ארגון הפשע מסתבך"
   },
+  "https://www.mako.co.il/men-men_news/Article-f3b1cff813b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791458549333,
+   "content_type": "article",
+   "first_seen_ms": 1791458549333,
+   "indexable": true,
+   "indexnow_ms": 1791458549333,
+   "published_ms": 1791457800000,
+   "section": "פלילים",
+   "title": "נערים חשודים: \"ניפצו שמשות שבעה אוטובוסים\""
+  },
   "https://www.mako.co.il/men-men_news/Article-f41ff8078a4e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22257,6 +22269,18 @@
    "section": "SENSES",
    "title": "למרות המתח: להקת המחול האירי שמגיעה לישראל"
   },
+  "https://www.mako.co.il/special-senses/coltura/Article-b5486951df711a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791458549333,
+   "content_type": "article",
+   "first_seen_ms": 1791458549333,
+   "indexable": true,
+   "indexnow_ms": 1791458549333,
+   "published_ms": 1791457200000,
+   "section": "SENSES",
+   "title": "בלב המדבר: המחווה המרגשת לשורדי הנובה"
+  },
   "https://www.mako.co.il/special-senses/future/Article-7f116a45c0aa0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/nexter-news/Article-7f116a45c0aa0a1026.htm",
@@ -24428,6 +24452,18 @@
    "published_ms": 1791433860000,
    "section": "קשת 12",
    "title": "\"סימסו לי ובאו בטענות. שאלו למה עשינו את זה\""
+  },
+  "https://www.mako.co.il/tv-life_is_difficult/articles/Article-d40c105303b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791458549333,
+   "content_type": "article",
+   "first_seen_ms": 1791458549333,
+   "indexable": true,
+   "indexnow_ms": 1791458549333,
+   "published_ms": 1791458280000,
+   "section": "קשת 12",
+   "title": "עשתה זאת שוב: אפרת דאום גונבת את ההצגה"
   },
   "https://www.mako.co.il/tv-life_is_difficult/articles/Article-dc107fd7413e0a1026.htm": {
    "check_attempts": 1,
