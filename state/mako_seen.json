@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791439649034,
+ "last_run_ms": 1791439949089,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24428,6 +24428,18 @@
    "published_ms": 1791286920000,
    "section": "הכי חם",
    "title": "\"הוא רק אמר שהוא מרוקאי, מה יש לך?\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-d2dc820efe911a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791439707352,
+   "content_type": "article",
+   "first_seen_ms": 1791439707352,
+   "indexable": true,
+   "indexnow_ms": 1791439707352,
+   "published_ms": 1791439080000,
+   "section": "תרבות tvbee",
+   "title": "טענות נגד ג'ימי קימל: \"מתנהג כמו מניאק\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-d363124aa13d0a1027.htm": {
    "check_attempts": 1,
