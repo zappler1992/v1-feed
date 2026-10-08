@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5ac7167f27b11a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-580a32b7d8b11a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1d8932b7d8b11a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-dff6fae3f7b11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45732,6 +45734,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1caf426e81501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karind_rahat_041026_6823_04102026043021/V1_karind_rahat_041026_6823_04102026043021_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1d8932b7d8b11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה פיזרה חתונה בפזורה הבדואית ועצרה 7 חשודים, כולל החתן",
+   "duration_s": 9,
+   "first_seen_ms": 1791463945933,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16975_08102026124659_1400_1791463711439_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791463718000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה פיזרה חתונה בפזורה הבדואית ועצרה 7 חשודים, כולל החתן",
+   "type": "mivzakim",
+   "updated_ms": 1791463718000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1d8932b7d8b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16975_08102026124659/M_NEWS_16975_08102026124659_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f973f5339a01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -46838,6 +46858,24 @@
    "updated_ms": 1791373359000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5801901182611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_JUDO_7004_07102026114110/V1_KARIND_JUDO_7004_07102026114110_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-580a32b7d8b11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי שגורשו: הדיפלומטים הבריטים עוזבים את הקונסוליה בירושלים",
+   "duration_s": 27,
+   "first_seen_ms": 1791463945933,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16976_08102026124744_1400_1791463746747_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791463753000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי שגורשו: הדיפלומטים הבריטים עוזבים את הקונסוליה בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1791463753000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-580a32b7d8b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16976_08102026124744/M_NEWS_16976_08102026124744_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-58992efeb8701a1026.htm": {
    "author": "מבזקים",
@@ -70155,6 +70193,24 @@
    "updated_ms": 1791286491000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-dd10d67d8f011a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_nobble_6953_06102026113310/V1_nobble_6953_06102026113310_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-dff6fae3f7b11a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "להבות ועשן ממלאים את השמיים: החות'ים תקפו את נמל התעופה בריאד שבסעודיה",
+   "duration_s": 4,
+   "first_seen_ms": 1791463945933,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_riaad_7053_08102026124504_1400_1791463570703_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791463577000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "להבות ועשן ממלאים את השמיים: החות'ים תקפו את נמל התעופה בריאד שבסעודיה",
+   "type": "mivzakim",
+   "updated_ms": 1791463577000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-dff6fae3f7b11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_riaad_7053_08102026124504/V1_karind_riaad_7053_08102026124504_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-e18e27ac59c01a1027.htm": {
    "author": "מבזקים מהעולם",
