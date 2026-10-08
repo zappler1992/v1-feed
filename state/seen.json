@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-673c497eb3b11a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0d093bc404b11a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d0d032dbe5b11a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-9072d65af5b11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24281,7 +24281,8 @@
    "importance": 2,
    "published_ms": 1791458397000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "אוכל"
    ],
    "title": "ריקול לגלידה האהובה - עקב עצם זר",
    "type": "news",
@@ -49225,6 +49226,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d08117f961d01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16803_05102026053942/M_NEWS_16803_05102026053942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d0d032dbe5b11a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קרב יריות בכפר מנדא: חולייה שמזוהה עם ארגון פשע מנצרת נעצרה",
+   "duration_s": 43,
+   "first_seen_ms": 1791461245864,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16974_08102026120001_1400_1791460897294_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791460904000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קרב יריות בכפר מנדא: חולייה שמזוהה עם ארגון פשע מנצרת נעצרה",
+   "type": "mivzakim",
+   "updated_ms": 1791460904000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d0d032dbe5b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16974_08102026120001/M_NEWS_16974_08102026120001_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d117dc56a5511a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60618,7 +60637,9 @@
    "importance": 2,
    "published_ms": null,
    "sections": [
-    "בחירות 2026"
+    "בחירות 2026",
+    "דברים שלא ידעתם",
+    "המיוחדים"
    ],
    "title": "כמה?? העלות המטורפת של הפתקים בקלפי",
    "type": "general",
@@ -69795,6 +69816,24 @@
    "updated_ms": 1791363147000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-8eb00bbbb8511a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_karind_sivuvim_6988_07102026085106/V1_karind_sivuvim_6988_07102026085106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-9072d65af5b11a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הכי חמוד שתראו: אלפי כלבי תחש השתלטו על השאנז אליזה בפריז",
+   "duration_s": 26,
+   "first_seen_ms": 1791461245864,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_dogs_7049_08102026120206_1400_1791461009259_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791461015000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הכי חמוד שתראו: אלפי כלבי תחש השתלטו על השאנז אליזה בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1791461015000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-9072d65af5b11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_dogs_7049_08102026120206/V1_karind_dogs_7049_08102026120206_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm": {
    "author": "מבזקים מהעולם",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791460948630,
+ "last_run_ms": 1791461248533,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1030,6 +1030,18 @@
    "published_ms": 1791286140000,
    "section": "ספורט",
    "title": "עדכונים חיים: המאבק סביב מכבי בבית הדין"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-225632dbe5b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791461248533,
+   "content_type": "article",
+   "first_seen_ms": 1791461248533,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791461040000,
+   "section": "ספורט",
+   "title": "\"קיבל 7,000 ד`\". כך בראיינט הגיע לישראל"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-55e822593dc01a1027.htm": {
    "check_attempts": 1,
@@ -11981,7 +11993,7 @@
    "indexnow_ms": 1791437849895,
    "published_ms": 1791437520000,
    "section": "בריאות",
-   "title": "הילדה הייתה בסכנת חיים כי לא חוסנה, האם עדיין מסרבת"
+   "title": "הילדה הייתה בסכנת חיים - אבל האם סירבה לחסן"
   },
   "https://www.mako.co.il/health-news/Article-729efffe5fce0a1026.htm": {
    "check_attempts": 1,
@@ -20826,6 +20838,18 @@
    "published_ms": 1790910000000,
    "section": "צבא וביטחון",
    "title": "המדינה הערבית העוינת הציבה תנאי חדש לאיראן"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-a8fcc0554aa11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791461066707,
+   "content_type": "article",
+   "first_seen_ms": 1791461066707,
+   "indexable": true,
+   "indexnow_ms": 1791461066707,
+   "published_ms": 1791460800000,
+   "section": "חדשות",
+   "title": "צה\"ל הודיע: נבחן הענקת צל\"שים על 7 באוקטובר"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ae564ec09f1d0a1026.htm": {
    "check_attempts": 1,
