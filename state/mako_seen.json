@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791443849023,
+ "last_run_ms": 1791444149018,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5267,6 +5267,18 @@
    "section": "ספורט",
    "title": "טוריאל כשיר, זה מס` הכרטיסים שנמכרו לק\"ש"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a6d3c95895a11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791444149018,
+   "content_type": "article",
+   "first_seen_ms": 1791444149018,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791443880000,
+   "section": "ספורט",
+   "title": "צפו בשידור: מסע\"ת מכבי ת\"א לקראת סכנין"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a8af5a97bb611a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -9296,6 +9308,18 @@
    "published_ms": 1791184260000,
    "section": "סלבס",
    "title": "בזמן שהיא מגלגלת מיליארדים: הווידוי של הכוכבת על ילדיה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-edf3116871a11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791444026642,
+   "content_type": "article",
+   "first_seen_ms": 1791444026642,
+   "indexable": true,
+   "indexnow_ms": 1791444026642,
+   "published_ms": 1791443460000,
+   "section": "סלבס",
+   "title": "עם בן הזוג היהודי: כך נתפסה בתם של הכוכבים"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-ee47fd8a59511a1027.htm": {
    "check_attempts": 1,
@@ -17529,6 +17553,18 @@
    "section": "מוזיקה",
    "title": "בונו תוקף את בן גביר ומשווה אותו לפושע מלחמה נאצי"
   },
+  "https://www.mako.co.il/music-news/Article-f57dc95895a11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791444149018,
+   "content_type": "article",
+   "first_seen_ms": 1791444149018,
+   "indexable": true,
+   "indexnow_ms": 1791444149018,
+   "published_ms": 1791443880000,
+   "section": "מוזיקה",
+   "title": "שורדת השבי תוקפת את הכוכב הבין-לאומי"
+  },
   "https://www.mako.co.il/music-news/Article-f692fa021ddc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20035,7 +20071,7 @@
    "indexnow_ms": 1791437787210,
    "published_ms": 1791437400000,
    "section": "",
-   "title": "בכירים זרים קובעים: האמת על הטענה ל\"רצח עם\" בעזה"
+   "title": "עשרות בכירים אמריקאים: \"ישראל לא ביצעה רצח עם בעזה\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-5d0386d819ce0a1026.htm": {
    "check_attempts": 1,
