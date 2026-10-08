@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791456448457,
+ "last_run_ms": 1791456748376,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5014,6 +5014,18 @@
    "published_ms": 1791291000000,
    "section": "ספורט",
    "title": "שני שחקני מכבי חיפה שבספק להפועל ירושלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-15d1302491b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791456748376,
+   "content_type": "article",
+   "first_seen_ms": 1791456748376,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791456420000,
+   "section": "ספורט",
+   "title": "טבריה רוצה לקצץ בשכר השחקנים, שמסרבים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-15e1b14182a11a1026.htm": {
    "check_attempts": 1,
@@ -16377,6 +16389,18 @@
    "section": "",
    "title": "ההערכה בטורקיה: \"יגאל עמית הוא איש קש - שהופעל\""
   },
+  "https://www.mako.co.il/men-men_news/Article-9e53db28d0b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791456627504,
+   "content_type": "article",
+   "first_seen_ms": 1791456627504,
+   "indexable": true,
+   "indexnow_ms": 1791456627504,
+   "published_ms": 1791456060000,
+   "section": "פלילים",
+   "title": "השוטרים הופתעו ממה שמצאו במקרר בדירה"
+  },
   "https://www.mako.co.il/men-men_news/Article-a03e9d7e2aac0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23767,7 +23791,7 @@
    "indexnow_ms": 1791447386840,
    "published_ms": 1791446160000,
    "section": "חופש",
-   "title": "24 השעות המשוגעות שעברו על האזרח התאילנדי שניצל בטיסה"
+   "title": "\"אני מוצף בהודעות אהבה, לא מעכל את זה\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-5e5b9f4ba3ce0a1026.htm": {
    "check_attempts": 1,
