@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791459449683,
+ "last_run_ms": 1791459748527,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5204,6 +5204,18 @@
    "published_ms": 1790860140000,
    "section": "ספורט",
    "title": "רחוק מהכדורגל: לאן נעלם רוני דיילה?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-6f724b6af1b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791459748527,
+   "content_type": "article",
+   "first_seen_ms": 1791459748527,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791456420000,
+   "section": "ספורט",
+   "title": "הנתון בו ליגת העל במקום ה-2 בעולם"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-734ff9dde7711a1026.htm": {
    "check_attempts": 1,
@@ -11659,6 +11671,18 @@
    "section": "בריאות",
    "title": "\"פחד אלוהים\": החשש מקרינה על גגות בתי הספר"
   },
+  "https://www.mako.co.il/health-news/Article-0405105303b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-0405105303b11a1027.htm",
+   "checked_ms": 1791459626718,
+   "content_type": "article",
+   "first_seen_ms": 1791459626718,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791458100000,
+   "section": "",
+   "title": "ריקול ל\"גלידה הישראלית\" של בן אנד ג'ריס"
+  },
   "https://www.mako.co.il/health-news/Article-08ac4fe2012d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17945,7 +17969,7 @@
    "indexnow_ms": 1791455548357,
    "published_ms": 1791455160000,
    "section": "מוזיקה",
-   "title": "אחרי שכמעט הופיע בחתונה של עומר אדם, הזמר עובר חרם"
+   "title": "הזמר שתומך בישראל מוחרם בירדן: \"תומך באויב\""
   },
   "https://www.mako.co.il/music-news/Article-e55485a4f39c0a1026.htm": {
    "check_attempts": 1,
