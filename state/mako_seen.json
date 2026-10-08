@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791456148533,
+ "last_run_ms": 1791456448457,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9393,6 +9393,18 @@
    "section": "סלבס",
    "title": "בזמן שהיא מגלגלת מיליארדים: הווידוי של הכוכבת על ילדיה"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-eb8803a5d8a11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791456387486,
+   "content_type": "article",
+   "first_seen_ms": 1791456387486,
+   "indexable": true,
+   "indexnow_ms": 1791456387486,
+   "published_ms": 1791455880000,
+   "section": "סלבס",
+   "title": "הכי רחוק שיש מהוליווד: הג'וב החדש של הכוכב"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-edf3116871a11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13160,6 +13172,18 @@
    "published_ms": 1790500620000,
    "section": "HIX",
    "title": "\"20 שנה אני בתפקיד ומעולם לא ראיתי דבר כזה\""
+  },
+  "https://www.mako.co.il/hix-special/Article-8912db28d0b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791456387486,
+   "content_type": "article",
+   "first_seen_ms": 1791456387486,
+   "indexable": true,
+   "indexnow_ms": 1791456387486,
+   "published_ms": 1791456120000,
+   "section": "HIX",
+   "title": "סירקה את אחייניתה בחצר – ונהרגה באסון קטלני"
   },
   "https://www.mako.co.il/hix-special/Article-8f75e36e3ea01a1027.htm": {
    "check_attempts": 1,
