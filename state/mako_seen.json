@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791491548546,
+ "last_run_ms": 1791491848505,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2602,6 +2602,18 @@
    "published_ms": 1791377820000,
    "section": "ספורט",
    "title": "דיווח: המועדון שיקבל רישיון ביורוליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c3510da060d11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791491786703,
+   "content_type": "article",
+   "first_seen_ms": 1791491786703,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791491700000,
+   "section": "ספורט",
+   "title": "שבר שיא יורוליג: המשחק האדיר של בלייקני"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cb290d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -16937,7 +16949,7 @@
    "indexnow_ms": 1791486627456,
    "published_ms": 1791486060000,
    "section": "",
-   "title": "\"דרך לכמה אנשים על האצבעות\": זה הרקע לחיסול באור עקיבא"
+   "title": "\"דרך לאנשים על האצבעות\": האירוע שהוביל לרצח באור עקיבא"
   },
   "https://www.mako.co.il/men-men_news/Article-9afa3ef3946f0a1026.htm": {
    "check_attempts": 1,
