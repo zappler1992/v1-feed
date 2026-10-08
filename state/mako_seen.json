@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791487948368,
+ "last_run_ms": 1791488248422,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48,6 +48,18 @@
    "published_ms": 1790894948000,
    "section": "Fashion Forward",
    "title": "מתנה בשישי: מחליק ומארז טיפוח לשיער מאתר Guilty בשווי 524 שקלים"
+  },
+  "https://fashionforward.mako.co.il/gift/321444/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791488067466,
+   "content_type": "article",
+   "first_seen_ms": 1791488067466,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791487849000,
+   "section": "Fashion Forward",
+   "title": "מתנה בשישי: 500 שקלים לקנייה ב-Liminal"
   },
   "https://fashionforward.mako.co.il/industry/itgirls/320514/": {
    "check_attempts": 1,
@@ -237,9 +249,9 @@
    "first_seen_ms": 1791465986941,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1791461963000,
    "section": "",
-   "title": "הדוגמנית על האמא המפורסמת: \"קשה לראות אותה ככה\""
+   "title": "כולם יודעים מה הולך אצלי בבית. למדתי לא להתרגש מזה"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -755,6 +767,18 @@
    "section": "Fashion Forward",
    "title": "את חזיית העור הזאת עיצב הנין של הבאבא סאלי, והוא בא לעשות פה גל גדול"
   },
+  "https://fashionforward.mako.co.il/news/321508/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791488067466,
+   "content_type": "article",
+   "first_seen_ms": 1791488067466,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791487875000,
+   "section": "Fashion Forward",
+   "title": "דבר אחד בטוח: הסניקרס האלה עומדות להימכר בערימות"
+  },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -874,6 +898,18 @@
    "published_ms": 1791067298000,
    "section": "Fashion Forward",
    "title": "ברור של-UGG כבר יש דגם חדש ומגה ויראלי לסתיו"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/321355/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791488067466,
+   "content_type": "article",
+   "first_seen_ms": 1791488067466,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791487864000,
+   "section": "Fashion Forward",
+   "title": "שלא תחמיצו: איך דווקא הצבע המפתיע הזה השתלט על התיקים הכי יפים?"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
