@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791459748527,
+ "last_run_ms": 1791460064607,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10123,6 +10123,18 @@
    "section": "",
    "title": "בדרך לקריסה? הדרמה שסגרה את השמיים באיראן"
   },
+  "https://www.mako.co.il/finances-news/Article-a6baa1caf4b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791459986673,
+   "content_type": "article",
+   "first_seen_ms": 1791459986673,
+   "indexable": true,
+   "indexnow_ms": 1791459986673,
+   "published_ms": 1791459720000,
+   "section": "כסף",
+   "title": "בן & ג'ריס בהודעה חריגה: אל תצרכו את המוצר הזה"
+  },
   "https://www.mako.co.il/finances-news/Article-ac7f8290f9de0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13194,6 +13206,18 @@
    "published_ms": 1790773020000,
    "section": "",
    "title": "רקדה על הספה בדירה, נפלה מהקומה השמינית וזה הסתיים בנס"
+  },
+  "https://www.mako.co.il/hix-special/Article-69a4497eb3b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791460064607,
+   "content_type": "article",
+   "first_seen_ms": 1791460064607,
+   "indexable": true,
+   "indexnow_ms": 1791460064607,
+   "published_ms": 1791459840000,
+   "section": "HIX",
+   "title": "השופט מת בזירה – והצופים חשבו שזה חלק מהמופע"
   },
   "https://www.mako.co.il/hix-special/Article-6e4e3f3f87601a1026.htm": {
    "check_attempts": 1,
