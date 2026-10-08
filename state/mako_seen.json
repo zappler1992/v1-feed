@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791469652329,
+ "last_run_ms": 1791469949973,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1318,6 +1318,18 @@
    "published_ms": 1791393300000,
    "section": "ספורט",
    "title": "לילארד חוזר: ההכנה שמחכה לאבדיה ופורטלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-a5f1eaaa3eb11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791469949973,
+   "content_type": "article",
+   "first_seen_ms": 1791469949973,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791469800000,
+   "section": "ספורט",
+   "title": "הקבוצה שלו: מסקנות מהבכורה של פורטלנד"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-ba418b2700211a1026.htm": {
    "check_attempts": 1,
@@ -21965,7 +21977,7 @@
    "indexnow_ms": null,
    "published_ms": 1791466560000,
    "section": "",
-   "title": "עומסי תנועה באזור ירושלים, רכב תועד פוגע במפגינים"
+   "title": "עימותים אלימים וכאוס בכבישים, רכב ניסה לדרוס מפגינים"
   },
   "https://www.mako.co.il/special-mako-news/Article-6471198ee0601a1027.htm": {
    "check_attempts": 1,
@@ -22769,7 +22781,7 @@
    "indexnow_ms": 1791465986941,
    "published_ms": 1791465600000,
    "section": "",
-   "title": "המספר המפתיע של הישראלים שלא יטוסו יותר עם חברות זרות"
+   "title": "אחרי אירוע פליי-דובאי: זאת חברת התעופה שאתם הכי אוהבים"
   },
   "https://www.mako.co.il/travel-israel/family_trip/Article-6e2ad1db7dec0a1027.htm": {
    "check_attempts": 1,
@@ -23933,7 +23945,7 @@
    "indexnow_ms": 1791463226774,
    "published_ms": 1791461580000,
    "section": "",
-   "title": "טייס מצרי צילם מטוס ישראלי: \"עין תחת עין\""
+   "title": "טייס מצרי צילם מטוס ישראלי והתיעוד מטריד במיוחד"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
