@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791460348593,
+ "last_run_ms": 1791460648730,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1066,6 +1066,18 @@
    "published_ms": 1791116700000,
    "section": "ספורט",
    "title": "התל אביביות אחרונות: ההטרלה של לופטון"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-fdb6a1caf4b11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791460648730,
+   "content_type": "article",
+   "first_seen_ms": 1791460648730,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791460380000,
+   "section": "ספורט",
+   "title": "פרטים חדשים: מצבו של תמיר בלאט בהפועל"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q3_2026/Article-1278a67bce8e0a1027.htm": {
    "check_attempts": 1,
