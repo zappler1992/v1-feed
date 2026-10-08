@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6165820efe911a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-16dfdf0370a11a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-205fdf0370a11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23412,13 +23413,13 @@
    "description": "ארה״ב נערכת לאפשרות של חידוש הלחימה באיראן - עוד לפני הבחירות בישראל ובארה״ב. החלטה סופית עדיין לא התקבלה, אך תרחיש התקיפות עשוי לכלול יעדים אסטרטגיים, אנרגיה ותשתיות גרעין.",
    "duration_s": 42,
    "first_seen_ms": 1791434546249,
-   "image": "https://img.mako.co.il/2026/10/08/SHIR_USA_081026_FIX_1400_1791435140481_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_USA_081026_FIX1_1400_1791438422292_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791433389000,
    "sections": [],
    "title": "המערכה הבאה בדרך? ארה״ב נערכת לחידוש הלחימה באיראן - לפני הבחירות",
    "type": "news",
-   "updated_ms": 1791435120000,
+   "updated_ms": 1791438420000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-180abafacb911a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_USA_081026_FIX/SHIR_USA_081026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -45232,6 +45233,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-166cfa65c3111a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_rimahassan_6955_06102026124611/V1_karind_rimahassan_6955_06102026124611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-16dfdf0370a11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דגלים ירוקים על האופנועים: השיירה השתוללה בכביש - אחד הרוכבים ניסה להימלט והתהפך | תיעוד מהמרדף",
+   "duration_s": 60,
+   "first_seen_ms": 1791438746306,
+   "image": "https://img.mako.co.il/2026/10/08/V1_karind_mirdaf_7032_08102026054700_1400_1791438499192_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791438505000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דגלים ירוקים על האופנועים: השיירה השתוללה בכביש - אחד הרוכבים ניסה להימלט והתהפך | תיעוד מהמרדף",
+   "type": "mivzakim",
+   "updated_ms": 1791438505000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-16dfdf0370a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_mirdaf_7032_08102026054700/V1_karind_mirdaf_7032_08102026054700_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-174fde600e411a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -45393,6 +45412,24 @@
    "updated_ms": 1791187863000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1f9c1fe7b1b01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/M_NEWS_16770_05102026080931/M_NEWS_16770_05102026080931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-205fdf0370a11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כתב אישום הוגש נגד קטין שדקר אוהד כדורגל לאחר משחק בין רמת השרון ושדרות",
+   "duration_s": 9,
+   "first_seen_ms": 1791438746306,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16945_08102026054647_1400_1791438477972_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791438484000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כתב אישום הוגש נגד קטין שדקר אוהד כדורגל לאחר משחק בין רמת השרון ושדרות",
+   "type": "mivzakim",
+   "updated_ms": 1791438484000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-205fdf0370a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16945_08102026054647/M_NEWS_16945_08102026054647_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-20d861d9f9911a1026.htm": {
    "author": "מבזקים",
