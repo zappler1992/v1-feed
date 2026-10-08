@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7195c4de6da11a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2e97d5565da11a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3e9be2bbdca11a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-0f8a03a5d8a11a1027.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-0924e524b9a11a1027.htm",
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-8cc1407ebaa11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6716,6 +6720,24 @@
    "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-714adc0628f01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/inbie_jeffrey_061026/MASTER/inbie_jeffrey_061026/inbie_jeffrey_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-8cc1407ebaa11a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "קקטוס הזהב 2026 - הפרסומות האהובות של השבוע, ובמקום הראשון: סנו אנטי קאלק - לא קשה | ראובני פרידן",
+   "duration_s": 40,
+   "first_seen_ms": 1791453146699,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_CACTUS_081026_1400_1791449178425_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791449184000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "קקטוס הזהב 2026 - הפרסומות האהובות של השבוע",
+   "type": "general",
+   "updated_ms": 1791449220000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-8cc1407ebaa11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_CACTUS_081026/MASTER/SHIR_CACTUS_081026/SHIR_CACTUS_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/culture-magazine/2026-m10_w02/shorts-dd6a57e1e2701a1027.htm": {
    "author": "תרבות",
    "date_source": "json-publishDate",
@@ -11121,6 +11143,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w01/shorts-fe5e911c9faf0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/02/yoav_racoon_021026/MASTER/yoav_racoon_021026/yoav_racoon_021026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-0f8a03a5d8a11a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "ישיבת מועצת העיר ממפיס הפכה לכאוטית לאחר שהמועצה דחתה את ההצבעה על הקפאת הקמת מרכזי ה-AI של אילון מאסק בעיר. כ-100 תושבים הגיעו לדיון במחאה על הקמת מרכזי הדאטה, על רקע חששות מההשפעה שלהם על הבריאות, צריכת החשמל והמים והתשתיות בעיר. לאחר דחיית ההצבעה, המפגינים התפרצו לעבר חברי המועצה, צעקו במקום ואף פרצה קטטה. המשטרה הוזעקה למקום.",
+   "duration_s": 78,
+   "first_seen_ms": 1791453146699,
+   "image": "https://img.mako.co.il/2026/10/08/Kim_AIfight_08102026_1400_1791446951037_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791446957000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "ההצבעה על הקפאת מרכזי ה-AI של מאסק נדחתה –  והתושבים התפרצו",
+   "type": "general",
+   "updated_ms": 1791446957000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-0f8a03a5d8a11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_Fight_08102026/MASTER/Kim_AIfight_08102026/Kim_AIfight_08102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-12643cb1dff01a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -11169,7 +11209,8 @@
    "published_ms": 1791437745000,
    "sections": [
     "חופש וטיולים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי Vיראלים"
    ],
    "title": "הנוסעת תועדה מענגת את עצמה בזמן הטיסה",
    "type": "general",
@@ -11319,7 +11360,7 @@
    ],
    "title": "כמו בקולדפליי: הסירה את היד של בן זוגה מול המצלמה  - ועוררה שמועות ברשת",
    "type": "general",
-   "updated_ms": 1791400326000,
+   "updated_ms": 1791452100000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6f27e20b9b711a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIRA_CHEATER_071026/MASTER/SHIRA_CHEATER_071026_M/SHIRA_CHEATER_071026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -23597,6 +23638,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2b5df62cda411a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_MIVTZA_071026/MASTER/SHIR_MIVTZA_071026/SHIR_MIVTZA_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2e97d5565da11a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791453146699,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_STUDENT_081026_1400_1791452572222_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791452578000,
+   "sections": [],
+   "title": "סטודנט לרוקחות מואשם: תכנן פיגועים עם מטענים קטלניים",
+   "type": "news",
+   "updated_ms": 1791452578000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2e97d5565da11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_STUDENT_081026/MASTER/SHIR_STUDENT_081026/SHIR_STUDENT_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3a1266961e611a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -23614,6 +23671,24 @@
    "updated_ms": 1791385893000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3a1266961e611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/fix_rinat_haphgana_071026_m/fix_rinat_haphgana_071026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3e9be2bbdca11a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי שהפנייה שלה הפכה לוויראלית, מאי הצליחה להגשים לאביה החולה את החלום: לפגוש את הכדורסלן האהוב עליו, דני אבדיה.",
+   "duration_s": 13,
+   "first_seen_ms": 1791453146699,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_DENI_081026_1400_1791451187897_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791451194000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "״הגשמתי לאבא שלי את החלום״: המפגש המרגש עם דני אבדיה",
+   "type": "news",
+   "updated_ms": 1791451200000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3e9be2bbdca11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_DENI_081026/MASTER/SHIR_DENI_081026/SHIR_DENI_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-41cb4eca1cb01a1026.htm": {
    "author": "חדשות",
@@ -23768,7 +23843,9 @@
    "image": "https://img.mako.co.il/2026/10/08/SHIR_MAGAL_081026_1400_1791446229335_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791446235000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "אחרי מופע האימים בשידור: הצעד נגד ינון מגל",
    "type": "news",
    "updated_ms": 1791446235000,
@@ -48310,7 +48387,8 @@
    "importance": 0,
    "published_ms": 1791448441000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "מציתים - ונמלטים: המשטרה עצרה נערים שהבעירו גנים ציבוריים בתל אביב ויפו ותועדו במצלמות אבטחה",
    "type": "mivzakim",
@@ -63001,6 +63079,24 @@
    "updated_ms": 1790937120000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w01/shorts-213343dc4b8f0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/FIX_SHIRA_WHATSAPP_011026/FIX_SHIRA_WHATSAPP_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-0924e524b9a11a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "נמאס לכם לבזבז זמן בהמתנה לנציגי שירות? ספידי ממתינה עבורכם על הקו ומתקשרת אליכם ברגע שנציג עונה - כך אפשר להמשיך לעבוד, לנסוע או פשוט להתעסק בדברים חשובים יותר.",
+   "duration_s": 37,
+   "first_seen_ms": 1791453146699,
+   "image": "https://img.mako.co.il/2026/10/08/SHIR_SPEEDY_081026_1400_1791448293024_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791448299000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "האפליקציה שתחסוך הרבה לכם זמן -  ועצבים",
+   "type": "general",
+   "updated_ms": 1791448320000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-0924e524b9a11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_SPEEDY_081026/MASTER/SHIR_SPEEDY_081026/SHIR_SPEEDY_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-09da8b2700211a1026.htm": {
    "author": "טכנולוגיה",
