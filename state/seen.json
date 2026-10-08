@@ -1,8 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-16dfdf0370a11a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-205fdf0370a11a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9d6b864865711a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-1dae341b00a11a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f2b4df0370a11a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6f27e20b9b711a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3792,7 +3794,8 @@
    "importance": 2,
    "published_ms": 1791397808000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "סלבס"
    ],
    "title": "7 באוקטובר מול מיליוני עוקבים בעולם: המפיק היהודי-אמריקאי סקוטר בראון שוב לצד ישראל",
    "type": "general",
@@ -11152,6 +11155,22 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-18b869f61dd01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/Kim_Cornell_05102026/MASTER/Kim_Cornell_05102026/Kim_Cornell_05102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-1dae341b00a11a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "סרטון חדש מתעד את קאטי אינזר בת ה-46 כשהיא שוכבת לרוחב שורת מושבים ללא מכנסיים \nבמהלך טיסת אמריקן איירליינס מבולטימור למיאמי. התיעוד, הגיע ל-TMZ מנוסע שהיה על המטוס.\nאינזר טענה כי אינה זוכרת את האירוע. ה-FBI עדיין בודק את המקרה.",
+   "duration_s": 26,
+   "first_seen_ms": 1791439046335,
+   "image": "https://img.mako.co.il/2026/10/08/Kim_WeirdFlight_08102026_1400_1791437738611_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791437745000,
+   "sections": [],
+   "title": "הנוסעת תועדה מענגת את עצמה בזמן הטיסה",
+   "type": "general",
+   "updated_ms": 1791437745000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-1dae341b00a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_WeirdFlight_08102026/MASTER/Kim_WeirdFlight_08102026/Kim_WeirdFlight_08102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2204b9bc86c01a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -11279,6 +11298,24 @@
    "updated_ms": 1791136154000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6509d98cef701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/inbie_space_041026/MASTER/inbie_space_041026/inbie_space_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6f27e20b9b711a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "במהלך משחק הפרישה של מסי באצטדיון המונומנטל, עדשת המצלמה תפסה זוג אוהדים - כאשר הבחורה הבינה שהיא מוצגת על מסכי הענק, היא הסירה בבהלה את ידו של בן זוגה מכתפה. התנהגותה עוררה גל שמועות וספקולציות והאירוע השווה לתקרית המפורסמת מההופעה של קולדפליי, שבה נחשף הרומן בין גבר נשוי לעמיתה שלו עבודה.",
+   "duration_s": 37,
+   "first_seen_ms": 1791439046335,
+   "image": "https://img.mako.co.il/2026/10/07/SHIRA_CHEATER_071026_M_1400_1791400319227_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791400326000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "כמו בקולדפליי: הסירה את היד של בן זוגה מול המצלמה  - ועוררה שמועות ברשת",
+   "type": "general",
+   "updated_ms": 1791400326000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-6f27e20b9b711a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIRA_CHEATER_071026/MASTER/SHIRA_CHEATER_071026_M/SHIRA_CHEATER_071026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-70c1ab0313d01a1026.htm": {
    "author": "מהעולם",
@@ -23416,7 +23453,9 @@
    "image": "https://img.mako.co.il/2026/10/08/SHIR_USA_081026_FIX1_1400_1791438422292_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791433389000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "המערכה הבאה בדרך? ארה״ב נערכת לחידוש הלחימה באיראן - לפני הבחירות",
    "type": "news",
    "updated_ms": 1791438420000,
@@ -23933,6 +23972,22 @@
    "updated_ms": 1791268920000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-98d10af98df01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/FIX_inbie_Jeruz_061026/FIX_inbie_Jeruz_061026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9d6b864865711a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מלי וליאל יהלומי כבר מזמן הרגילו אותנו לסטייל התואם והבלתי נפרד שלהן, אבל צלילה לתיעודים האחרונים של השתיים חושפת אובססיה חדשה ומצחיקה במיוחד: קולקציה בלתי נגמרת של פריטי דיסני. לא ברור אם מדובר באהבה לעכבר המפורסם, או סתם קטע אופנתי - אבל מה שבטוח, זה אייקוני.",
+   "duration_s": 24,
+   "first_seen_ms": 1791439046335,
+   "image": "https://img.mako.co.il/2026/10/07/inbie_disney_071026_1400_1791393196670_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791393203000,
+   "sections": [],
+   "title": "מיקי מאוס שולט: האובססיה של מלי וליאל ל\"דיסני\" נחשפת",
+   "type": "news",
+   "updated_ms": 1791438180000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9d6b864865711a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/inbie_disney_071026/MASTER/inbie_disney_071026/inbie_disney_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm": {
    "author": "חדשות",
@@ -49212,6 +49267,24 @@
    "updated_ms": 1791087459000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f11512d9bc401a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karin_lebanon_041026_6821_04102026041534/V1_karin_lebanon_041026_6821_04102026041534_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f2b4df0370a11a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קולות ירי נשמעים בשעות האחרונות באזור הדרום בעקבות ריב בין חמולות ברהט",
+   "duration_s": 20,
+   "first_seen_ms": 1791439046335,
+   "image": "https://img.mako.co.il/2026/10/08/M_NEWS_16946_08102026055218_1400_1791438808034_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791438814000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קולות ירי נשמעים בשעות האחרונות באזור הדרום בעקבות ריב בין חמולות ברהט",
+   "type": "mivzakim",
+   "updated_ms": 1791438814000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f2b4df0370a11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16946_08102026055218/M_NEWS_16946_08102026055218_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f52f9ac853d01a1027.htm": {
    "author": "מבזקים",
