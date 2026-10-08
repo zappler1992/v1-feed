@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791431248678,
+ "last_run_ms": 1791431548813,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17445,6 +17445,18 @@
    "section": "",
    "title": "רונן בר משיב לנתניהו: \"אגיש נגדו תביעת דיבה\""
   },
+  "https://www.mako.co.il/news-diplomatic/2026_q4/Article-34c4117686611a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791431426762,
+   "content_type": "article",
+   "first_seen_ms": 1791431426762,
+   "indexable": true,
+   "indexnow_ms": 1791431426762,
+   "published_ms": 1791431100000,
+   "section": "חדשות",
+   "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
+  },
   "https://www.mako.co.il/news-israel-elections/2026/Article-3f95c8bd2df70a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20384,6 +20396,18 @@
    "published_ms": 1790564640000,
    "section": "",
    "title": "\"נתניהו קיבל אזהרה על מתקפה מעזה ימים לפני 7 באוקטובר\""
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-1b6f1de8e7911a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791431426762,
+   "content_type": "liveblog",
+   "first_seen_ms": 1791431426762,
+   "indexable": true,
+   "indexnow_ms": 1791431426762,
+   "published_ms": 1791429840000,
+   "section": "",
+   "title": "לקראת חידוש הלחימה באיראן? ההנחיה לצבא ארצות הברית"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-3d6ac9d81eee0a1026.htm": {
    "check_attempts": 1,
@@ -23912,6 +23936,18 @@
    "published_ms": 1789880400000,
    "section": "קשת 12",
    "title": "חיים אתגר על התקיפה שעבר: \"נפגעה לי השמיעה\""
+  },
+  "https://www.mako.co.il/tv-will_you_start/articles/Article-1f25fcb266111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791431306746,
+   "content_type": "article",
+   "first_seen_ms": 1791431306746,
+   "indexable": true,
+   "indexnow_ms": 1791431306746,
+   "published_ms": 1791431100000,
+   "section": "",
+   "title": "רן דנקר על החרדה: \"יכולה לפתוח דברים שאני לא מצפה להם\""
   },
   "https://www.mako.co.il/tvbee-articles/Article-4ad7a5e0662d0a1026.htm": {
    "check_attempts": 1,
