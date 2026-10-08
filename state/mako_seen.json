@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791473251114,
+ "last_run_ms": 1791473849157,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2374,6 +2374,18 @@
    "published_ms": 1790973180000,
    "section": "ספורט",
    "title": "\"אחרי הפועל חשבנו שהכל יילך לנו בקלות\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-9860c5c4d1c11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791473787455,
+   "content_type": "article",
+   "first_seen_ms": 1791473787455,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791473460000,
+   "section": "ספורט",
+   "title": "ישיר: אולפן היורוליג לקראת מכבי - מילאנו"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-9fcaf0438ebf0a1027.htm": {
    "check_attempts": 1,
@@ -9751,6 +9763,18 @@
    "section": "",
    "title": "הטעות שכולנו עושים ב-Black Friday"
   },
+  "https://www.mako.co.il/finances-law/family-law/Article-d3273aea01c11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791473667448,
+   "content_type": "article",
+   "first_seen_ms": 1791473667448,
+   "indexable": true,
+   "indexnow_ms": 1791473667448,
+   "published_ms": 1791473280000,
+   "section": "משפט",
+   "title": "ויתר על כל הרכוש כדי להציל את הנישואים"
+  },
   "https://www.mako.co.il/finances-law/family-law/Article-fb90eba9d4dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -9774,6 +9798,18 @@
    "published_ms": 1791285420000,
    "section": "משפט",
    "title": "אף שנהג בניגוד להגבלה ברישיון: יפוצה על הטסלה שנהרסה"
+  },
+  "https://www.mako.co.il/finances-law/law-general/Article-01f5f47460c11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791473667448,
+   "content_type": "article",
+   "first_seen_ms": 1791473667448,
+   "indexable": true,
+   "indexnow_ms": 1791473667448,
+   "published_ms": 1791472800000,
+   "section": "משפט",
+   "title": "חטף את בנו מרוסיה לישראל – וייאלץ להשיבו"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-199b549085dc0a1027.htm": {
    "check_attempts": 1,
@@ -9941,7 +9977,7 @@
    "indexnow_ms": 1791368307685,
    "published_ms": 1791367620000,
    "section": "כסף",
-   "title": "הדירה שווה מיליונים, הבנק לא ייתן לכם הלוואה"
+   "title": "משפחות רבות בישראל עלולות להפסיד לא מעט כסף"
   },
   "https://www.mako.co.il/finances-news/Article-1bdc6a85297f0a1027.htm": {
    "check_attempts": 1,
@@ -19445,7 +19481,7 @@
    "indexnow_ms": 1791467549455,
    "published_ms": 1791464820000,
    "section": "דיגיטל",
-   "title": "הפורצים חשפו: הדבר המבהיל שאסוס יודעת עליכם"
+   "title": "יותר משחשבנו: פרטים חדשים על הפריצה לאסוס"
   },
   "https://www.mako.co.il/nexter-news/Article-5cc62578e6a11a1027.htm": {
    "check_attempts": 1,
@@ -22938,6 +22974,18 @@
    "published_ms": 1790629440000,
    "section": "",
    "title": "קורה המון לאחרונה: המטוס ביצע נחיתת חירום"
+  },
+  "https://www.mako.co.il/travel-news/Article-4b2878d512c11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791473849157,
+   "content_type": "article",
+   "first_seen_ms": 1791473849157,
+   "indexable": true,
+   "indexnow_ms": 1791473849157,
+   "published_ms": 1791473340000,
+   "section": "",
+   "title": "מהפכת הטיסות החדשה - שעשויה להוריד את המחירים"
   },
   "https://www.mako.co.il/travel-news/Article-502b50ba63ee0a1027.htm": {
    "check_attempts": 1,
