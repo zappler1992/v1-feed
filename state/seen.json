@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-407e9ba3e9b11a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-54cecfd1c9b11a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-cd0d9ba3e9b11a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-33805bd6e8b11a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-8b2967d586b11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3806,6 +3803,24 @@
    "updated_ms": 1791452136000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-7701c4de6da11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_Sydney,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-8b2967d586b11a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 39,
+   "first_seen_ms": 1791465446634,
+   "image": "https://img.mako.co.il/2026/10/08/Kim_Soccer_08102026_1400_1791461244183_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791461251000,
+   "sections": [
+    "ספורט"
+   ],
+   "title": "אחרי שנעלם ל-40 שנה, הכדורגלן האנגלי המפורסם חושף את הסוד הגדול שהסתיר",
+   "type": "general",
+   "updated_ms": 1791461251000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-8b2967d586b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Kim_Soccer_08102026/MASTER/Kim_Soccer_08102026/Kim_Soccer_08102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-9272650c69711a1026.htm": {
    "author": "סלבס",
@@ -46467,16 +46482,16 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-407e9ba3e9b11a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "נהג האיץ לכיוון קבוצת מפגינים שחסמה את הכביש: התיעוד הדרמטי ממרכז הארץ",
+   "description": "נהג האיץ לכיוון קבוצת מפגינים שחסמה את הכביש: התיעוד הדרמטי מירושלים",
    "duration_s": 16,
    "first_seen_ms": 1791465146067,
    "image": "https://img.mako.co.il/2026/10/08/V1_karind_daras_7059_08102026010723_1400_1791464920538_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791464927000,
    "sections": [
     "מבזקים"
    ],
-   "title": "נהג האיץ לכיוון קבוצת מפגינים שחסמה את הכביש: התיעוד הדרמטי ממרכז הארץ",
+   "title": "נהג האיץ לכיוון קבוצת מפגינים שחסמה את הכביש: התיעוד הדרמטי מירושלים",
    "type": "mivzakim",
    "updated_ms": 1791464927000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-407e9ba3e9b11a1026.htm",
