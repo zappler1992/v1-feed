@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791458549333,
+ "last_run_ms": 1791458848743,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -720,6 +720,16 @@
    "published_ms": 1791367573000,
    "section": "Fashion Forward",
    "title": "בהופעה פומבית ראשונה: זו אולי ה\"בת של\" הכי מעניינת שראינו לאחרונה"
+  },
+  "https://fashionforward.mako.co.il/news/321462/": {
+   "check_attempts": 2,
+   "content_type": "post",
+   "first_seen_ms": 1791458787776,
+   "indexable": null,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "אור לוזון בשמלה לבנה בחופשה רומנטית עם בן הזוג החדש"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -14961,6 +14971,18 @@
    "section": "",
    "title": "מופע חנוכה על טרנד הסקווישים"
   },
+  "https://www.mako.co.il/makoz-news/Article-c2cf4b6af1b11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791458667708,
+   "content_type": "article",
+   "first_seen_ms": 1791458667708,
+   "indexable": true,
+   "indexnow_ms": 1791458667708,
+   "published_ms": 1791456960000,
+   "section": "",
+   "title": "שוב ביחד: המהלך של גל גברעם וגיל זגורי"
+  },
   "https://www.mako.co.il/makoz-news/Article-c5464d6bd62d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18812,6 +18834,18 @@
    "published_ms": 1791377880000,
    "section": "חדשות",
    "title": "\"פשעים מחרידים\": ממדאני בפוסט מרתיח על 7 באוקטובר"
+  },
+  "https://www.mako.co.il/news-world/2026_q4/Article-29122c1028a11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791458848743,
+   "content_type": "article",
+   "first_seen_ms": 1791458848743,
+   "indexable": true,
+   "indexnow_ms": 1791458848743,
+   "published_ms": 1791446400000,
+   "section": "",
+   "title": "איראן שיגרה איום חדש - ותקפה במיקום חריג"
   },
   "https://www.mako.co.il/news-world/2026_q4/Article-5ae4af326c411a1027.htm": {
    "check_attempts": 1,
