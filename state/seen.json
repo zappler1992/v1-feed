@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-5df726e226021a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e963008a40021a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9fd526e226021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24660,6 +24661,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9d6b864865711a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/inbie_disney_071026/MASTER/inbie_disney_071026/inbie_disney_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9fd526e226021a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תיעודים דרמטיים מציגים פיצוצים עזים על פסגות ההרים, במסגרת תקיפות סעודיות חריגות נגד החות'ים בתימן.",
+   "duration_s": 35,
+   "first_seen_ms": 1791547645850,
+   "image": "https://img.mako.co.il/2026/10/09/Kim_Boom_09102026_1400_1791546026087_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791546032000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "פיצוצי ענק על ההר: המתקפות החריגות של סעודיה נגד החות'ים",
+   "type": "news",
+   "updated_ms": 1791546032000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-9fd526e226021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/Kim_Boom_09102026/MASTER/Kim_Boom_09102026/Kim_Boom_09102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-a38c9a350af01a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -25048,6 +25067,24 @@
    "updated_ms": 1791300468000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e75b0dc7fc111a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/SHIRA_ABIHAI_061026/MASTER/SHIRA_ABIHAI_061026_M/SHIRA_ABIHAI_061026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e963008a40021a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1791547645850,
+   "image": "https://img.mako.co.il/2026/10/09/rinat_netanya_091026_m_1400_1791539650810_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791539657000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "אימה בפארק בנתניה: בת 14 ואחיה הותקפו",
+   "type": "news",
+   "updated_ms": 1791539657000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-e963008a40021a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/rinat_netanya_091026/MASTER/rinat_netanya_091026_m/rinat_netanya_091026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ea1ec2b4da111a1027.htm": {
    "author": "חדשות",
