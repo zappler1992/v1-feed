@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4a058a45e0f11a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-09T05:51:54+00:00</news:publication_date>
+<news:title>גבר כבן 35 נהרג בתאונה סמוך למעלה מכמש</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/09/M_NEWS_17015_09102026055027_1400_1791525108150_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-73f1c7d5cee11a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-09T04:57:55+00:00</news:publication_date>
 <news:title>שר ההגנה הגסת&#x27; מודיע: המחבל הפלסטיני נידאל חסן יוצא להורג בשידור חי</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/SHIRA_PIT_091026_M_1400_1791521869621_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/10/09/FIX_SHIRA_PIT_091026_1400_1791524015731_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1a9f181d7de11a1027.htm</loc>
@@ -1844,14 +1853,5 @@
 <news:title>מלי וליאל: טעות בזיהוי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/07/SHIR_MISTAKE_071026_FIX_1400_1791362758524_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1af1de600e411a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-07T05:55:25+00:00</news:publication_date>
-<news:title>3 שנים לטבח: צה״ל החל הלילה במבצע רחב להריסת עשרות אנדרטאות טרור ביו&quot;ש</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/07/M_NEWS_16896_07102026055345_1400_1791352517751_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
