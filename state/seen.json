@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-4e996838be021a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2400c5c4d1c11a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-354e6ab9ee021a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11398,6 +11399,22 @@
    "updated_ms": 1791389927000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-237ba47132711a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIRA_TAILAND_071026/MASTER/SHIRA_TAILAND_071026_M/SHIRA_TAILAND_071026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2400c5c4d1c11a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "\"אני הופך קצת לדליל שם למעלה, עכשיו אני בדיכאון\": למול המצלמות, באמצע נאום, טראמפ בן ה-80 מבין שהוא מקריח!",
+   "duration_s": 33,
+   "first_seen_ms": 1791554546006,
+   "image": "https://img.mako.co.il/2026/10/08/biata_trumpy_081026_1400_1791473662545_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791554100000,
+   "sections": [],
+   "title": "מול המצלמות: טראמפ קולט - הוא מקריח!",
+   "type": "general",
+   "updated_ms": 1791554100000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2400c5c4d1c11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/biata_trumpy_081026/MASTER/biata_trumpy_081026/biata_trumpy_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-29a547f2d8f11a1026.htm": {
    "author": "מהעולם",
@@ -71140,6 +71157,24 @@
    "updated_ms": 1791540362000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-304b14af21021a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_chilean_7092_09102026100352/V1_chilean_7092_09102026100352_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-354e6ab9ee021a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המחאות בפריז מסלימות: עימותים אלימים בין שוטרים למפגינים בכיכר הבסטיליה המפורסמת בעיר",
+   "duration_s": 29,
+   "first_seen_ms": 1791554546006,
+   "image": "https://img.mako.co.il/2026/10/09/V1_NOAY_PARIS_091026_7099_09102026015746_1400_1791554346473_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791554352000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המחאות בפריז מסלימות: עימותים אלימים בין שוטרים למפגינים בכיכר הבסטיליה המפורסמת בעיר",
+   "type": "mivzakim",
+   "updated_ms": 1791554352000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-354e6ab9ee021a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_NOAY_PARIS_091026_7099_09102026015746/V1_NOAY_PARIS_091026_7099_09102026015746_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm": {
    "author": "מבזקים מהעולם",
