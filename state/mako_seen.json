@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791566549300,
+ "last_run_ms": 1791566849247,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6104,6 +6104,18 @@
    "published_ms": 1790840700000,
    "section": "ספורט",
    "title": "חריג: שחקני מכבי בתמיכה פומבית ביואב זיו"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fa3f5112d9121a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791566849247,
+   "content_type": "article",
+   "first_seen_ms": 1791566849247,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791566640000,
+   "section": "ספורט",
+   "title": "רץ לאליפות כמלך שערים: הנסיקה של אקס ב\"ש"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fa6dd5565da11a1026.htm": {
    "check_attempts": 1,
@@ -23201,7 +23213,7 @@
    "indexnow_ms": null,
    "published_ms": 1791562980000,
    "section": "",
-   "title": "בהשראת 11 בספטמבר: \"המחבל תכנן להתרסק בנתב\"ג\""
+   "title": "11 בספטמבר בנתב\"ג: התוכנית של המחבל מטיסת פליי-דובאי"
   },
   "https://www.mako.co.il/special-mako-news/Article-55544a3310ee0a1027.htm": {
    "check_attempts": 1,

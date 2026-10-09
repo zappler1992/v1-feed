@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-807526a775121a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87852fbcd8121a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3704,7 +3704,8 @@
    "importance": 2,
    "published_ms": 1791554709000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עינב בובליל חושפת באומץ: לקחתי כדורים בגלל התקפי חרדה",
    "type": "general",
@@ -23883,7 +23884,8 @@
    "importance": 2,
    "published_ms": 1791557229000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "קדחת הנילוס מתפשטת: אלו הערים שבהן אותרו יתושות נגועות",
    "type": "news",
@@ -23975,7 +23977,8 @@
    "importance": 2,
    "published_ms": 1791551912000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "סוף עצוב לחיפושים בהר האולימפוס ביוון",
    "type": "news",
@@ -48701,6 +48704,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-873d32b7d8b11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_kvish4_7054_08102026125028/V1_karind_kvish4_7054_08102026125028_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87852fbcd8121a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מי בלשכת ראש הממשלה זייף את הפרוטוקולים של 7 באוקטובר: פרטים חדשים | מתוך אולפן שישי, חדשות 12",
+   "duration_s": 102,
+   "first_seen_ms": 1791566846472,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_YOLAN_7104_09102026052023_1400_1791566553836_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791566560000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מי בלשכת ראש הממשלה זייף את הפרוטוקולים של 7 באוקטובר: פרטים חדשים | מתוך אולפן שישי, חדשות 12",
+   "type": "mivzakim",
+   "updated_ms": 1791566560000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87852fbcd8121a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_YOLAN_7104_09102026052023/V1_SHIR_YOLAN_7104_09102026052023_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87ad1be8de711a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71280,7 +71301,8 @@
    "importance": 0,
    "published_ms": 1791554352000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המחאות בפריז מסלימות: עימותים אלימים בין שוטרים למפגינים בכיכר הבסטיליה המפורסמת בעיר",
    "type": "mivzakim",
@@ -71672,7 +71694,8 @@
    "importance": 2,
    "published_ms": 1791549476000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "חשב שדפק את המערכת: הגנב פרץ לחנות אפל באריזונה ויצא עם עשרות קופסאות ריקות",
    "type": "mivzakim",
