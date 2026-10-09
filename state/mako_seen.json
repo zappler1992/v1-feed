@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791531149220,
+ "last_run_ms": 1791531449036,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4558,6 +4558,18 @@
    "published_ms": 1791175500000,
    "section": "ספורט",
    "title": "\"לעזז היה קשה שהרכנו ראש בהמנון הישראלי\""
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a5eb47f2d8f11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791531387012,
+   "content_type": "article",
+   "first_seen_ms": 1791531387012,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791531120000,
+   "section": "ספורט",
+   "title": "למרות הכישלון: חוזהו של רוטנשטיינר הוארך"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-a6bf409f567f0a1027.htm": {
    "check_attempts": 1,
