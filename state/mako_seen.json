@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791536549240,
+ "last_run_ms": 1791536849175,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5564,6 +5564,18 @@
    "published_ms": 1791008820000,
    "section": "ספורט",
    "title": "ברזיל וחצי גמר גביע ווינר: לוח השידורים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5c307a45fcf11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791536787446,
+   "content_type": "article",
+   "first_seen_ms": 1791536787446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791536100000,
+   "section": "ספורט",
+   "title": "קשר בני יהודה ובית שאן לשעבר נכנס לקומה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-62abfd8a59511a1027.htm": {
    "check_attempts": 1,
@@ -19794,6 +19806,18 @@
    "published_ms": 1791190380000,
    "section": "ספורט",
    "title": "המענק שלא הכרתם: הסכומים שבדרך לגדולות"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-913621107cf11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791536787446,
+   "content_type": "article",
+   "first_seen_ms": 1791536787446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791536700000,
+   "section": "ספורט",
+   "title": "כמה?! השווי המעודכן של מיץ' גולדהאר"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-c5e22e50f1111a1027.htm": {
    "check_attempts": 1,

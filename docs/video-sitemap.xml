@@ -13,6 +13,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>לייף &amp; סטייל</video:uploader>
+<video:tag>אוכל</video:tag>
 <video:tag>לייף &amp; סטייל</video:tag>
 </video:video>
 </url>
@@ -73,6 +74,22 @@
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/SHIRA_ALEXANDER_091026/MASTER/SHIRA_ALEXANDER_091026_M/SHIRA_ALEXANDER_091026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>33</video:duration>
 <video:publication_date>2026-10-09T08:30:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>מהעולם</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-29a547f2d8f11a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/09/SHIRA_QUEEN_091026_M_1400_1791532396312_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בקוקפיט במטוס הקרב: מלכת תאילנד סותידה השלימה את טיסת הסולו הראשונה שלה</video:title>
+<video:description>מלכת תאילנד סותידה השלימה את טיסת הסולו הראשונה שלה במטוס קרב מסוג גריפן, שארכה כ-41 דקות. עם נחיתתה, קיבל את פניה המלך עם זר פרחים והעניק לה תג מיוחד. בנוסף המלכה כבר צברה למעלה מ-1,188 שעות טיסה, ולאחר שהשלימה הכשרה תאורטית, אימונים בסימולטור ומעל עשר שעות טיסה במטוס הגריפן ביצעה את הגיחה ההיסטורית</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/SHIRA_QUEEN_091026/MASTER/SHIRA_QUEEN_091026_M/SHIRA_QUEEN_091026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>49</video:duration>
+<video:publication_date>2026-10-09T07:53:23+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
