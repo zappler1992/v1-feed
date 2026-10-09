@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b173e66729021a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c96e66729021a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ac16e66729021a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11779,7 +11780,7 @@
    ],
    "title": "טעות ביוטי: נרדמה עם צבע לגבות והתעוררה עם הפתעה",
    "type": "general",
-   "updated_ms": 1791543339000,
+   "updated_ms": 1791548160000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-f077552323021a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/Kim_Makeup_09102026/MASTER/Kim_Makeup_09102026/Kim_Makeup_09102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -45962,6 +45963,25 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c81884eeca01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/V1_karind_london_6881_05102026065347/V1_karind_london_6881_05102026065347_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c96e66729021a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "התעלומה ביוון: נמצאה גופתו של המטייל הישראלי עמי יוגב אחרי 3 שבועות של חיפושים",
+   "duration_s": 9,
+   "first_seen_ms": 1791549745888,
+   "image": "https://img.mako.co.il/2026/10/09/V1_YOGEV_7097_09102026123732_1400_1791549522251_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791549528000,
+   "sections": [
+    "מבזקים",
+    "חדשות"
+   ],
+   "title": "התעלומה ביוון: נמצאה גופתו של המטייל הישראלי עמי יוגב אחרי 3 שבועות של חיפושים",
+   "type": "mivzakim",
+   "updated_ms": 1791549528000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c96e66729021a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_YOGEV_7097_09102026123732/V1_YOGEV_7097_09102026123732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0d3963dc57011a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71402,6 +71422,24 @@
    "updated_ms": 1791264535000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_jdvans_6932_06102026052738/V1_karind_jdvans_6932_06102026052738_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ac16e66729021a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חשב שדפק את המערכת: הגנב פרץ לחנות באריזונה ויצא עם עשרות קופסאות ריקות",
+   "duration_s": 25,
+   "first_seen_ms": 1791549745888,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_STEAL_7096_09102026123632_1400_1791549469996_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791549476000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "חשב שדפק את המערכת: הגנב פרץ לחנות באריזונה ויצא עם עשרות קופסאות ריקות",
+   "type": "mivzakim",
+   "updated_ms": 1791549476000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ac16e66729021a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_STEAL_7096_09102026123632/V1_SHIR_STEAL_7096_09102026123632_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ad4a5ffddef01a1027.htm": {
    "author": "מבזקים מהעולם",
