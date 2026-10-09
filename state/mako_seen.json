@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791540749359,
+ "last_run_ms": 1791541049313,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4990,6 +4990,18 @@
    "published_ms": 1791205800000,
    "section": "ספורט",
    "title": "ראשל\"צ במו\"מ מתקדם לעבור לבעלות פרטית"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-b996f5272ff11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791540986719,
+   "content_type": "article",
+   "first_seen_ms": 1791540986719,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791540720000,
+   "section": "ספורט",
+   "title": "כפי שפורסם: הבעלות החדשה של הפועל ראשל\"צ"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-e5fe0d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -21677,7 +21689,7 @@
    "indexnow_ms": 1791514827492,
    "published_ms": 1791514800000,
    "section": "צבא וביטחון",
-   "title": "כך צה\"ל נבנה כדי להתמודד עם מלחמה בהפתעה"
+   "title": "צה\"ל נערך לצאת מכמה מוקדים: זה החשש המרכזי"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-2fb065fef1011a1027.htm": {
    "check_attempts": 1,
