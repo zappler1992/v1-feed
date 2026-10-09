@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-e90181ac45f11a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/09/SHIRA_HITLERMUSSALINI_091026_M_1400_1791528471079_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כן, באמת קוראים לו ככה: מועמד בשם היטלר מוסולוני ניצח בבחירות בכפר בפרו</video:title>
+<video:description>מועמד בשם היטלר מוסוליני סימאון פלורס ניצח בבחירות לראשות עיריית קוארופאלקה שבפרו. האירוע עורר הד תקשורתי בשל שמו של המועמד, המזכיר את שמותיהם של אדולף היטלר ובניטו מוסוליני</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/SHIRA_HITLERMUSSALINI_091026/MASTER/SHIRA_HITLERMUSSALINI_091026_M/SHIRA_HITLERMUSSALINI_091026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>17</video:duration>
+<video:publication_date>2026-10-09T06:47:57+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-82b68a45e0f11a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/09/rinat_gun_09102_m_1400_1791525295159_FirstFrame.jpg</video:thumbnail_loc>
@@ -45,6 +61,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
