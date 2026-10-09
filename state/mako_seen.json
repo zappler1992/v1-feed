@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791522748874,
+ "last_run_ms": 1791523048917,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1354,6 +1354,18 @@
    "published_ms": 1790940600000,
    "section": "ספורט",
    "title": "ג`ה מוראנט: \"לא ידעתי כמה שדני מצחיק\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-88f98a45e0f11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791522987394,
+   "content_type": "article",
+   "first_seen_ms": 1791522987394,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791522720000,
+   "section": "ספורט",
+   "title": "המלך החדש: צפו בהופעה של לברון בפילדלפיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-9322581234711a1027.htm": {
    "check_attempts": 1,
@@ -25386,6 +25398,18 @@
    "published_ms": 1791464040000,
    "section": "חופש",
    "title": "זה התאריך ששוק הכריסמס הקסום באירופה מתחיל"
+  },
+  "https://www.mako.co.il/travel-world/Article-c38b7f05fab11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.lametayel.co.il/articles/20oenp",
+   "checked_ms": 1791522867401,
+   "content_type": "article",
+   "first_seen_ms": 1791522867401,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791519720000,
+   "section": "חופש",
+   "title": "לפני כולם: זה המקום שכולם ידברו עליו ב-2027"
   },
   "https://www.mako.co.il/travel-world/Article-e4b0a7f4dafac91027.htm": {
    "check_attempts": 1,
