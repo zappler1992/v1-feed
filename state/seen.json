@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3cb3ddb380221a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-778a995320221a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-120a091472221a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3694,6 +3693,22 @@
    "updated_ms": 1790885021000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_siasale_011026/MASTER/biata_siasale_011026/biata_siasale_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-120a091472221a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "ניקול קידמן, בשבילך: הסרטון של דואה ליפה, פדרו פסקל, קריסטן וויג וניקול קידמן מחוץ לתצוגה של בית האופנה שאנל שבר את הרשת והגיע למיליוני צפיות",
+   "duration_s": 18,
+   "first_seen_ms": 1791576746676,
+   "image": "https://img.mako.co.il/2026/10/09/NOAY_CHANEL_091026_1400_1791574651067_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791574658000,
+   "sections": [],
+   "title": "הטיקטוק של הכוכבים הגדולים בעולם: דואה ליפה, ניקול קידמן, פדרו פסקל וקריסטן וויג",
+   "type": "general",
+   "updated_ms": 1791574658000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-120a091472221a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/NOAY_CHANEL_091026/MASTER/NOAY_CHANEL_091026/NOAY_CHANEL_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-1b5b6838be021a1027.htm": {
    "author": "סלבס",
@@ -11684,7 +11699,8 @@
    "importance": 2,
    "published_ms": 1791560484000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המחאה שמבעירה את עיר האורות: מלחמת פריז",
    "type": "general",
@@ -71520,7 +71536,8 @@
    "importance": 0,
    "published_ms": 1791571213000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "רעידת האדמה בפנמה תפסה את הקונים באמצע הקניון - כך זה נראה מבפנים",
    "type": "mivzakim",
@@ -71874,7 +71891,8 @@
    "importance": 0,
    "published_ms": 1791555265000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד דרמטי מגואטמלה: מסוק התרסק באגם ממש מול המצלמות, 5 חולצו ו-2 נעדרים",
    "type": "mivzakim",
