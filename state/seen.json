@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-4641de42be121a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-0bfe6d1c8e121a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3716de42be121a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-25e4de42be121a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47145,6 +47145,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-36112d5ec4701a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_FIRE_6860_04102026023136/V1_FIRE_6860_04102026023136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3716de42be121a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ בחר את הדוברת החדשה של הבית הלבן: קייטי זכריה, עורכת דין ופרשנית פוליטית רפובליקנית",
+   "duration_s": 9,
+   "first_seen_ms": 1791571947142,
+   "image": "https://img.mako.co.il/2026/10/09/V1_NOAY_WHITEHOUSE_091026_7113_09102026064831_1400_1791571783007_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791571789000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ בחר את הדוברת החדשה של הבית הלבן: קייטי זכריה, עורכת דין ופרשנית פוליטית רפובליקנית",
+   "type": "mivzakim",
+   "updated_ms": 1791571789000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3716de42be121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_NOAY_WHITEHOUSE_091026_7113_09102026064831/V1_NOAY_WHITEHOUSE_091026_7113_09102026064831_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-384b67d586b11a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71361,6 +71379,24 @@
    "updated_ms": 1791291198000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-1e92a192d3111a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_macron_6956_06102026125155/V1_macron_6956_06102026125155_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-25e4de42be121a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בעקבות רעידת האדמה בפנמה: כל הטיסות בנמל התעופה הבינלאומי הושעו",
+   "duration_s": 9,
+   "first_seen_ms": 1791571947142,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_AIRPLAIN_7112_09102026064501_1400_1791571593358_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791571599000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בעקבות רעידת האדמה בפנמה: כל הטיסות בנמל התעופה הבינלאומי הושעו",
+   "type": "mivzakim",
+   "updated_ms": 1791571599000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-25e4de42be121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_AIRPLAIN_7112_09102026064501/V1_SHIR_AIRPLAIN_7112_09102026064501_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2e0ac4b155211a1027.htm": {
    "author": "מבזקים מהעולם",
