@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7728de42be121a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-6d7b6d1c8e121a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-151dde42be121a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71306,6 +71305,24 @@
    "updated_ms": 1791115667000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-050433e38c601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_karin_kyiv_6855_04102026120626/V1_karin_kyiv_6855_04102026120626_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-151dde42be121a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הכל זז: רעידת האדמה העוצמתית מטלטלת את טרמינל אלברוק",
+   "duration_s": 12,
+   "first_seen_ms": 1791571046960,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_TERMINAL_7109_09102026063343_1400_1791570879571_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791570886000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הכל זז: רעידת האדמה העוצמתית מטלטלת את טרמינל אלברוק",
+   "type": "mivzakim",
+   "updated_ms": 1791570886000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-151dde42be121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_TERMINAL_7109_09102026063343/V1_SHIR_TERMINAL_7109_09102026063343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-1e92a192d3111a1027.htm": {
    "author": "מבזקים מהעולם",
