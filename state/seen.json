@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-f1d10e4daef11a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-34420e4daef11a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23963,6 +23963,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-33805bd6e8b11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_FRANCE_081026/MASTER/SHIR_FRANCE_081026/SHIR_FRANCE_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-34420e4daef11a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "חוצפת פרס נובל לשלום - יוענק לשופטת נאווי פילאי שהאשימה את ישראל ב\"רצח עם\" בעזה",
+   "duration_s": 62,
+   "first_seen_ms": 1791538346624,
+   "image": "https://img.mako.co.il/2026/10/09/SHIRA_NOBEL_091026_M_1400_1791537971446_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791537978000,
+   "sections": [],
+   "title": "חוצפת פרס נובל לשלום: יוענק לשופטת נאווי פילאי שהאשימה את ישראל ב\"רצח עם\" בעזה",
+   "type": "news",
+   "updated_ms": 1791537978000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-34420e4daef11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/SHIRA_NOBEL_091026/MASTER/SHIRA_NOBEL_091026_M/SHIRA_NOBEL_091026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-3a1266961e611a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24858,7 +24874,9 @@
    "image": "https://img.mako.co.il/2026/10/08/biata_girls_081026_1400_1791488503523_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791488510000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "סגירת המעגל המרגשת של רומי וליה סוויסה",
    "type": "news",
    "updated_ms": 1791533520000,
