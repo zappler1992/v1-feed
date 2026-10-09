@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-908f9d29ea021a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3b8bcddaea021a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-124e9c944c021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23894,6 +23893,22 @@
    "updated_ms": 1791458596000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0d093bc404b11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_BRAZIL_081026/MASTER/SHIR_BRAZIL_081026/SHIR_BRAZIL_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-124e9c944c021a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791552145992,
+   "image": "https://img.mako.co.il/2026/10/09/NOAY_GREECE_091026_1400_1791551905589_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791551912000,
+   "sections": [],
+   "title": "סוף עצוב לחיפושים בהר האולימפוס ביוון",
+   "type": "news",
+   "updated_ms": 1791551912000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-124e9c944c021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/NOAY_GREECE_091026/MASTER/NOAY_GREECE_091026/NOAY_GREECE_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-180abafacb911a1026.htm": {
    "author": "חדשות",
@@ -49693,7 +49708,7 @@
    ],
    "title": "יו\"ר מפלגת הדמוקרטים יאיר גולן: \"חושב באופן חד משמעי שחיסול חמינאי היה טעות\"",
    "type": "mivzakim",
-   "updated_ms": 1791551520000,
+   "updated_ms": 1791551820000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b173e66729021a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/FIXNOAY_YAIR_091026/FIXNOAY_YAIR_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
