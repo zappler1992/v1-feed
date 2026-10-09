@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791562649164,
+ "last_run_ms": 1791562948956,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23658,6 +23658,18 @@
    "published_ms": 1790840340000,
    "section": "חדשות",
    "title": "אריה עמידרור הוא קמ\"ן אוגדת עזה ב-7 באוקטובר"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e27df06014121a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-e27df06014121a1026.htm",
+   "checked_ms": 1791562827077,
+   "content_type": "article",
+   "first_seen_ms": 1791562827077,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791560400000,
+   "section": "",
+   "title": "שפל נוסף: החרם של עובדי נמל התעופה באירופה נגד ישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-e3a58ce83f201a1027.htm": {
    "check_attempts": 1,
