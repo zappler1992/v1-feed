@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-87852fbcd8121a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8bb1a3d40c121a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ece49c026b121a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -48776,6 +48777,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8a4c5ffddef01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_barmoha_6938_06102026064229/V1_karind_barmoha_6938_06102026064229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8bb1a3d40c121a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סמוך לגבול עם לבנון: מחבל ששיגר רחפני נפץ ורקטות הותקף מהאוויר בדרום סוריה",
+   "duration_s": 9,
+   "first_seen_ms": 1791569846517,
+   "image": "https://img.mako.co.il/2026/10/09/M_NEWS_17031_09102026061352_1400_1791569711276_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791569717000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סמוך לגבול עם לבנון: מחבל ששיגר רחפני נפץ ורקטות הותקף מהאוויר בדרום סוריה",
+   "type": "mivzakim",
+   "updated_ms": 1791569717000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8bb1a3d40c121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/M_NEWS_17031_09102026061352/M_NEWS_17031_09102026061352_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-8d1d77b55d601a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -51520,6 +51539,24 @@
    "updated_ms": 1791364200000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-eb40be9259511a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/fix_PROFFESOR/fix_PROFFESOR_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ece49c026b121a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפרשנות של אביחי אדרעי, דובר צה\"ל בערבית לשעבר: למה הבחירות בישראל מדאיגות את העולם הערבי",
+   "duration_s": 35,
+   "first_seen_ms": 1791569846517,
+   "image": "https://img.mako.co.il/2026/10/09/V1_NOAY_AVICHAI_091026_7105_09102026061312_1400_1791569690080_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791569696000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפרשנות של אביחי אדרעי, דובר צה\"ל בערבית לשעבר: למה הבחירות בישראל מדאיגות את העולם הערבי",
+   "type": "mivzakim",
+   "updated_ms": 1791569696000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ece49c026b121a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_NOAY_AVICHAI_091026_7105_09102026061312/V1_NOAY_AVICHAI_091026_7105_09102026061312_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-ed28c55448121a1026.htm": {
    "author": "מבזקים",
