@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-2400c5c4d1c11a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-354e6ab9ee021a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d75c6838be021a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a15e6838be021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23920,7 +23920,9 @@
    "image": "https://img.mako.co.il/2026/10/09/NOAY_GREECE_091026_1400_1791551905589_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791551912000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "סוף עצוב לחיפושים בהר האולימפוס ביוון",
    "type": "news",
    "updated_ms": 1791551912000,
@@ -50828,6 +50830,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d720116871a11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_policefire_7034_08102026060636/V1_karind_policefire_7034_08102026060636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d75c6838be021a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עופר וינטר עולה להתקפה: \"אם לא יהיה חוק גיוס, ביבי יכול לקפוץ לי\"",
+   "duration_s": 42,
+   "first_seen_ms": 1791555446043,
+   "image": "https://img.mako.co.il/2026/10/09/V1_NOAY_WINTER_091026_1_7100_09102026021100_1400_1791555148829_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791555155000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עופר וינטר עולה להתקפה: \"אם לא יהיה חוק גיוס, ביבי יכול לקפוץ לי\"",
+   "type": "mivzakim",
+   "updated_ms": 1791555155000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d75c6838be021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_NOAY_WINTER_091026_1_7100_09102026021100/V1_NOAY_WINTER_091026_1_7100_09102026021100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d7849f44c4c01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71512,6 +71532,24 @@
    "updated_ms": 1791461015000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-9072d65af5b11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_karind_dogs_7049_08102026120206/V1_karind_dogs_7049_08102026120206_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a15e6838be021a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד דרמטי מגואטמלה: מסוק התרסק באגם ממש מול המצלמות, 5 חולצו ו-2 נעדרים",
+   "duration_s": 12,
+   "first_seen_ms": 1791555446043,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_HELICOPTER_7101_09102026021304_1400_1791555258693_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791555265000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד דרמטי מגואטמלה: מסוק התרסק באגם ממש מול המצלמות, 5 חולצו ו-2 נעדרים",
+   "type": "mivzakim",
+   "updated_ms": 1791555265000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a15e6838be021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_HELICOPTER_7101_09102026021304/V1_SHIR_HELICOPTER_7101_09102026021304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a3719a350af01a1027.htm": {
    "author": "מבזקים מהעולם",
