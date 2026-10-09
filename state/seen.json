@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-44f74e8123021a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7e4e26e226021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11714,7 +11714,7 @@
   "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-f077552323021a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "צבעה את הגבות שלה, נרדמה בלי להסיר את הצבע – ובבוקר גילתה שהוא פשוט לא יורד. \nהתיעוד שלה הפך לוויראלי ברשת.",
+   "description": "צבעה את הגבות שלה, נרדמה בלי להסיר את הצבע – ובבוקר גילתה שהוא פשוט לא יורד. \nהתיעוד שלה הפך לוויראלי ברשת",
    "duration_s": 62,
    "first_seen_ms": 1791544046154,
    "image": "https://img.mako.co.il/2026/10/09/Kim_Makeup_09102026_1400_1791543332803_FirstFrame.jpg",
@@ -48209,6 +48209,24 @@
    "updated_ms": 1791382260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7d22093941611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_PARIS_7002_07102026111749/V1_KARIND_PARIS_7002_07102026111749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7e4e26e226021a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מאיראן: משמרות המהפכה בוחנים מוקשים שמתפוצצים באוויר - בדומה לאלה שנצפו בהפלת ה-F-15",
+   "duration_s": 26,
+   "first_seen_ms": 1791545245905,
+   "image": "https://img.mako.co.il/2026/10/09/V1_IRAN_7093_09102026112053_1400_1791544954926_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791544961000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מאיראן: משמרות המהפכה בוחנים מוקשים שמתפוצצים באוויר - בדומה לאלה שנצפו בהפלת ה-F-15",
+   "type": "mivzakim",
+   "updated_ms": 1791544961000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7e4e26e226021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_IRAN_7093_09102026112053/V1_IRAN_7093_09102026112053_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7ed9de9521a01a1026.htm": {
    "author": "מבזקים",
