@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-af69995320221a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3cb3ddb380221a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-778a995320221a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47234,6 +47235,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3b8bcddaea021a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/M_NEWS_17024_09102026125121/M_NEWS_17024_09102026125121_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3cb3ddb380221a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשידור חי: רעידת האדמה במהלך שידור טלוויזיה בפנמה",
+   "duration_s": 38,
+   "first_seen_ms": 1791572846569,
+   "image": "https://img.mako.co.il/2026/10/09/M_NEWS_17033_09102026070417_1400_1791572737858_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791572744000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשידור חי: רעידת האדמה במהלך שידור טלוויזיה בפנמה",
+   "type": "mivzakim",
+   "updated_ms": 1791572744000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3cb3ddb380221a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/M_NEWS_17033_09102026070417/M_NEWS_17033_09102026070417_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3e170d65c5c11a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -48376,6 +48395,24 @@
    "updated_ms": 1791570426000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7728de42be121a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_Panamador_7107_09102026062546/V1_Panamador_7107_09102026062546_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-778a995320221a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מטלטל: גשר המאה הענק שחוצה את תעלת פנמה רועד במהלך רעידת האדמה",
+   "duration_s": 31,
+   "first_seen_ms": 1791572846569,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_BRIDGE_7115_09102026070219_1400_1791572625337_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791572631000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מטלטל: גשר המאה הענק שחוצה את תעלת פנמה רועד במהלך רעידת האדמה",
+   "type": "mivzakim",
+   "updated_ms": 1791572700000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-778a995320221a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_BRIDGE_7115_09102026070219/V1_SHIR_BRIDGE_7115_09102026070219_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm": {
    "author": "מבזקים",
