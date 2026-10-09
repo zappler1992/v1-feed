@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-6c138a45e0f11a1027.htm"
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-43a1a8aaeaf11a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c7f621107cf11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14948,6 +14949,22 @@
    "updated_ms": 1791477379000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-3f1fa60685c11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/alona_asos_081026/MASTER/alona_asos_story_m_081026/alona_asos_story_m_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-43a1a8aaeaf11a1026.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "ממלאים סיר במים חמים מהברז כדי לחסוך זמן? כדאי שתחשבו שוב: מים חמים עלולים לספוח יותר מתכות מהצנרת, בהן עופרת, והרתחה לא מסלקת אותה מהמים. אז בפעם הבאה שאתם מבשלים, עדיף להתחיל דווקא עם מים קרים מהברז.",
+   "duration_s": 28,
+   "first_seen_ms": 1791536246537,
+   "image": "https://img.mako.co.il/2026/10/09/rinat_hotwater_091026_m_1400_1791534127923_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791535980000,
+   "sections": [],
+   "title": "הסכנה שמסתתרת במים החמים מהברז – ומגיעה עד לצלחת שלכם",
+   "type": "general",
+   "updated_ms": 1791535980000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-43a1a8aaeaf11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/rinat_hotwater_091026/MASTER/rinat_hotwater_091026_m/rinat_hotwater_091026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-e0e033e059701a1027.htm": {
    "author": "לייף & סטייל",
@@ -71156,6 +71173,24 @@
    "updated_ms": 1791378081000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c77d109327611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_RIV_7009_07102026125940/V1_KARIND_RIV_7009_07102026125940_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c7f621107cf11a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שיטפון מטורף בצ'ילה: המכוניות נסחפות בזרם - ברוורס",
+   "duration_s": 19,
+   "first_seen_ms": 1791536246537,
+   "image": "https://img.mako.co.il/2026/10/09/V1_chile_7087_09102026084951_1400_1791535878935_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791535885000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "שיטפון מטורף בצ'ילה: המכוניות נסחפות בזרם - ברוורס",
+   "type": "mivzakim",
+   "updated_ms": 1791535885000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c7f621107cf11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_chile_7087_09102026084951/V1_chile_7087_09102026084951_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-c9486d1815801a1027.htm": {
    "author": "מבזקים מהעולם",
