@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-120a091472221a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7124fcc674221a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-efdda3d40c121a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4151,6 +4152,22 @@
    "updated_ms": 1791469440000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-e9c1d24e4b611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIRA_LIAS_071026/MASTER/SHIRA_LIAS_071026M/SHIRA_LIAS_071026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-efdda3d40c121a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "סרטון הAI \"נתניהו הראפר\" התפוצץ ברשת עם מיליוני צפיות. אבל הוא לא נולד במקרה: האמן ויוצר התוכן קווין הוא הכוכב האמיתי של הסרטון, ובעקבותיו נולדו המוני גרסאות חיקוי. את גרסאת ראש הממשלה יצר יוצר התוכן והAI תומר בקרינג",
+   "duration_s": 42,
+   "first_seen_ms": 1791577946674,
+   "image": "https://img.mako.co.il/2026/10/09/NOAY_BIBI_091026_1400_1791568880839_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791568887000,
+   "sections": [],
+   "title": "סרטון הAI \"נתניהו הראפר\" התפוצץ ברשת עם מיליוני צפיות",
+   "type": "general",
+   "updated_ms": 1791568887000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-efdda3d40c121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/NOAY_BIBI_091026/MASTER/NOAY_BIBI_091026/NOAY_BIBI_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -24566,6 +24583,22 @@
    "updated_ms": 1791224822000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-70f09ac853d01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/rinat_eisenkot_051026/MASTER/rinat_eisenkot_051026_m/rinat_eisenkot_051026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7124fcc674221a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "פנמה רעדה: רעידת אדמה עוצמתית, חשש מצונאמי ותיעודים דרמטיים של הרגעים שבהם הקרקע נשמטת מתחת לרגליים.",
+   "duration_s": 50,
+   "first_seen_ms": 1791577946674,
+   "image": "https://img.mako.co.il/2026/10/09/SHIR_PANAMA_091026_1400_1791577491208_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791577497000,
+   "sections": [],
+   "title": "הרגעים הדרמטיים שבהם פנמה רעדה בעוצמה 8: תיעודים מכל רחבי המדינה",
+   "type": "news",
+   "updated_ms": 1791577497000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-7124fcc674221a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/SHIR_PANAMA_091026/MASTER/SHIR_PANAMA_091026/SHIR_PANAMA_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-73f1c7d5cee11a1026.htm": {
    "author": "חדשות",
