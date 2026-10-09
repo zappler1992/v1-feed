@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a2769c026b121a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7728de42be121a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-6d7b6d1c8e121a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -48341,6 +48342,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-75f24d325c511a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_KARIND_BERLIN_6996_07102026100105/V1_KARIND_BERLIN_6996_07102026100105_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7728de42be121a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הבניינים רועדים וכולם בורחים: תיעוד ראשון מרעידת האדמה בעוצמה 7.6 שהכתה בפנמה | חשש מצונאמי",
+   "duration_s": 23,
+   "first_seen_ms": 1791570746824,
+   "image": "https://img.mako.co.il/2026/10/09/V1_Panamador_7107_09102026062546_1400_1791570420411_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791570426000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הבניינים רועדים וכולם בורחים: תיעוד ראשון מרעידת האדמה בעוצמה 7.6 שהכתה בפנמה | חשש מצונאמי",
+   "type": "mivzakim",
+   "updated_ms": 1791570426000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7728de42be121a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_Panamador_7107_09102026062546/V1_Panamador_7107_09102026062546_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-77d1b0e196b01a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71552,6 +71571,24 @@
    "updated_ms": 1791131501000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-69e8b33efb701a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_RIOMALL_6864_04102026042943/V1_RIOMALL_6864_04102026042943_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-6d7b6d1c8e121a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בהלה בפנמה: המונים נמלטים מרעידת אדמה עוצמתית בעוצמה של עד 8.0",
+   "duration_s": 29,
+   "first_seen_ms": 1791570746824,
+   "image": "https://img.mako.co.il/2026/10/09/V1_SHIR_PANAMA_7108_09102026062914_1400_1791570631158_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791570637000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בהלה בפנמה: המונים נמלטים מרעידת אדמה עוצמתית בעוצמה של עד 8.0",
+   "type": "mivzakim",
+   "updated_ms": 1791570637000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-6d7b6d1c8e121a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_PANAMA_7108_09102026062914/V1_SHIR_PANAMA_7108_09102026062914_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-71a95f0ed0611a1026.htm": {
    "author": "מבזקים מהעולם",
