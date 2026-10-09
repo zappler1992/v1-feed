@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791516149218,
+ "last_run_ms": 1791516449520,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2662,6 +2662,18 @@
    "published_ms": 1790968140000,
    "section": "ספורט",
    "title": "אפס עגול: נתון השלשות העגום של מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cb2ea57888e11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791516387645,
+   "content_type": "article",
+   "first_seen_ms": 1791516387645,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791516060000,
+   "section": "ספורט",
+   "title": "\"ניצחון גדול\": סימני השינוי במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cc46979f388f0a1026.htm": {
    "check_attempts": 1,
@@ -25951,6 +25963,30 @@
    "section": "",
    "title": "\"ראיתי אותה בזמן אמת, זו סביבה עבריינית\""
   },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-3570b583a1611a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791516387645,
+   "content_type": "article",
+   "first_seen_ms": 1791516387645,
+   "indexable": true,
+   "indexnow_ms": 1791516387645,
+   "published_ms": 1791465900000,
+   "section": "קשת 12",
+   "title": "\"זו צלקת מנטלית שנשארת הרבה מאוד זמן\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-99ec6194c4511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791516387645,
+   "content_type": "article",
+   "first_seen_ms": 1791516387645,
+   "indexable": true,
+   "indexnow_ms": 1791516387645,
+   "published_ms": 1791465000000,
+   "section": "קשת 12",
+   "title": "אחרי הפרידה: \"לא יודעת אם מוכנה לדייטים\""
+  },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-1f25fcb266111a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25962,6 +25998,30 @@
    "published_ms": 1791431100000,
    "section": "",
    "title": "\"באופן אישי לא דיברתי על זה עם אף אחד\""
+  },
+  "https://www.mako.co.il/tv-will_you_start/articles/Article-3d3eb194442d0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791516387645,
+   "content_type": "article",
+   "first_seen_ms": 1791516387645,
+   "indexable": true,
+   "indexnow_ms": 1791516387645,
+   "published_ms": 1791478200000,
+   "section": "קשת 12",
+   "title": "\"לא רוצה להעמיד אנשים בסיטואציה לא נעימה\""
+  },
+  "https://www.mako.co.il/tv-will_you_start/articles/Article-7c242e50f1111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791516387645,
+   "content_type": "article",
+   "first_seen_ms": 1791516387645,
+   "indexable": true,
+   "indexnow_ms": 1791516387645,
+   "published_ms": 1791529200000,
+   "section": "קשת 12",
+   "title": "\"הבנות יגידו אמא יא פדחנית, למה אמרת את זה?\""
   },
   "https://www.mako.co.il/tvbee-articles/Article-4ad7a5e0662d0a1026.htm": {
    "check_attempts": 1,
