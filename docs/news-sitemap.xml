@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-180b0e4daef11a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-09T09:10:57+00:00</news:publication_date>
+<news:title>קבעה שישראל מבצעת רצח עם בעזה: פרס נובל לשלום יוענק לשופטת נאווי פילאי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/09/V1_NOBEL_7088_09102026090916_1400_1791537050571_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/lifestyle-magazine/2026-m10_w02/shorts-43a1a8aaeaf11a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1736,14 +1745,5 @@
 <news:title>עד כמה המגיפה שחוזרת לחיינו מסוכנת: עושים סדר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/07/alice_071026_plague_1400_1791364701151_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e9cae3262a511a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-07T09:14:13+00:00</news:publication_date>
-<news:title>טראמפ: &quot;צריך לסיים את המשימה באיראן ובקרוב תגלו אם זה יסתיים בדרך הנחמדה או בדרך הלא נחמדה&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/07/V1_karind_trump_071026_6990_07102026091307_1400_1791364446331_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

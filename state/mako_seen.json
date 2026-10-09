@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791537149233,
+ "last_run_ms": 1791537449213,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9401,7 +9401,7 @@
    "indexnow_ms": 1791535965206,
    "published_ms": 1791533700000,
    "section": "סלבס",
-   "title": "\"לא מאמין ששאלתי אותם 'האם יש סקס בגיל 80?'\""
+   "title": "\"המפורסמים אוהבים להסתיר ולהיראות מושלמים״"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-d8336a0b60fc0a1026.htm": {
    "check_attempts": 1,
@@ -19975,6 +19975,18 @@
    "section": "חדשות",
    "title": "שנתיים אחרי מבצע הביפרים: הפרט החדש שהותר לפרסום"
   },
+  "https://www.mako.co.il/news-world/2026_q3/Article-fb91a5edcdf11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791537267481,
+   "content_type": "article",
+   "first_seen_ms": 1791537267481,
+   "indexable": true,
+   "indexnow_ms": 1791537267481,
+   "published_ms": 1791536880000,
+   "section": "",
+   "title": "קבעה שישראל מבצעת רצח עם בעזה - וזכתה בפרס נובל לשלום"
+  },
   "https://www.mako.co.il/news-world/2026_q3/liveblog-ffe3be6633ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23539,6 +23551,18 @@
    "section": "",
    "title": "\"חלק משחקני נבחרת אירלנד יחרימו את המשחק נגד ישראל\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-fb91a5edcdf11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-fb91a5edcdf11a1027.htm",
+   "checked_ms": 1791537449213,
+   "content_type": "article",
+   "first_seen_ms": 1791537449213,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791536880000,
+   "section": "",
+   "title": "קבעה שישראל מבצעת רצח עם בעזה - וזכתה בפרס נובל לשלום"
+  },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/liveblog-4fbf25dc62711a1027.htm",
@@ -26645,7 +26669,7 @@
    "indexnow_ms": 1791520049043,
    "published_ms": 1791519780000,
    "section": "",
-   "title": "\"רציתי לחזור ואמרו לי 'לא רוצים אותך, את לא משהו'\""
+   "title": "\"רציתי לחזור למסך ואמרו לי 'לא רוצים אותך'\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-83f8d4540f011a1026.htm": {
    "check_attempts": 1,
