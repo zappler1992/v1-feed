@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9a7914af21021a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-304b14af21021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -48702,14 +48702,14 @@
    "duration_s": 9,
    "first_seen_ms": 1791539846712,
    "image": "https://img.mako.co.il/2026/10/09/V1_KATBAM_7090_09102026095303_1400_1791539678906_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791539685000,
    "sections": [
     "מבזקים"
    ],
    "title": "חלקי כטב\"ם אותרו הבוקר בחוף בקריית חיים כתוצאה מפעילות של חברת רפא\"ל, אין סכנה לצד החלקים שנמצאו",
    "type": "mivzakim",
-   "updated_ms": 1791539685000,
+   "updated_ms": 1791540600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-99a814af21021a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_KATBAM_7090_09102026095303/V1_KATBAM_7090_09102026095303_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -70846,6 +70846,24 @@
    "updated_ms": 1791309465000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2e0ac4b155211a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_FRANCE_6962_06102026055611/V1_FRANCE_6962_06102026055611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-304b14af21021a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חריג: המכונית נסחפת בשיטפון המטורף - והנהג מתעד הכל מבפנים",
+   "duration_s": 64,
+   "first_seen_ms": 1791540746690,
+   "image": "https://img.mako.co.il/2026/10/09/V1_chilean_7092_09102026100352_1400_1791540356204_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791540362000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד חריג: המכונית נסחפת בשיטפון המטורף - והנהג מתעד הכל מבפנים",
+   "type": "mivzakim",
+   "updated_ms": 1791540362000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-304b14af21021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_chilean_7092_09102026100352/V1_chilean_7092_09102026100352_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-3d15c489b3b01a1027.htm": {
    "author": "מבזקים מהעולם",
