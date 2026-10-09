@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791549148587,
+ "last_run_ms": 1791549448526,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6356,6 +6356,18 @@
    "published_ms": 1791338160000,
    "section": "ספורט",
    "title": "צפו בשער הפרידה של מסי: מספריו בארגנטינה"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-3524125479021a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791549387140,
+   "content_type": "article",
+   "first_seen_ms": 1791549387140,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791549060000,
+   "section": "ספורט",
+   "title": "רק תקחו: השחקנים החופשיים הבולטים בעולם"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-38be175498501a1026.htm": {
    "check_attempts": 1,
@@ -24090,6 +24102,18 @@
    "published_ms": 1790283600000,
    "section": "",
    "title": "ל-48 שעות בלבד: טיסה לתאילנד ב-499 דולרים"
+  },
+  "https://www.mako.co.il/travel-news/Article-295fe66729021a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791549387140,
+   "content_type": "article",
+   "first_seen_ms": 1791549387140,
+   "indexable": true,
+   "indexnow_ms": 1791549387140,
+   "published_ms": 1791548400000,
+   "section": "",
+   "title": "סוף עצוב: אותרה גופתו של עמי יוגב ביוון"
   },
   "https://www.mako.co.il/travel-news/Article-312648ed578d0a1026.htm": {
    "check_attempts": 1,
