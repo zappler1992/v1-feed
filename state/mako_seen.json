@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791571349936,
+ "last_run_ms": 1791571650291,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23718,6 +23718,18 @@
    "published_ms": 1790752680000,
    "section": "חדשות",
    "title": "בלי מילה על ישראל: ממדאני הציג תוכנית נגד אנטישמיות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-de11a3d40c121a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-de11a3d40c121a1026.htm",
+   "checked_ms": 1791571587702,
+   "content_type": "article",
+   "first_seen_ms": 1791571587702,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791570240000,
+   "section": "",
+   "title": "התרעת צונאמי הופצה: רעידת אדמה בעוצמה 7.6 הכתה בפנמה"
   },
   "https://www.mako.co.il/special-mako-news/Article-e1b44862334f0a1026.htm": {
    "check_attempts": 1,
