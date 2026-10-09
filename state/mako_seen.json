@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791533249105,
+ "last_run_ms": 1791533549167,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12427,6 +12427,18 @@
    "section": "בריאות",
    "title": "\"כמו רכבת הרים בלונה פארק, אבל הסוף לא ברור\""
   },
+  "https://www.mako.co.il/health-news/Article-1159a8aaeaf11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791533427143,
+   "content_type": "article",
+   "first_seen_ms": 1791533427143,
+   "indexable": true,
+   "indexnow_ms": 1791533427143,
+   "published_ms": 1791532980000,
+   "section": "",
+   "title": "האזורים בארץ שבהם אותרו היתושות הנגועות בנגיף המסוכן"
+  },
   "https://www.mako.co.il/health-news/Article-175bb9c75f1f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18281,7 +18293,7 @@
    "indexnow_ms": 1791465986941,
    "published_ms": 1791465600000,
    "section": "",
-   "title": "איך אוהד, צוללן בשייטת 13, מצא את עצמו נאשם ברצח אחיו"
+   "title": "אוהד אמר, \"אמא, קרה משהו נורא\". היא לא ידעה עד כמה"
   },
   "https://www.mako.co.il/men-men_news/Article-fee06951df711a1026.htm": {
    "check_attempts": 1,
