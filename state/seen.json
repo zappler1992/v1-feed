@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-c218b7abd9621a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dc4cb7abd9621a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -51744,7 +51744,7 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d147878f36621a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "פגיעת טיל חות'י בשדה התעופה של ריאד - מספר פצועים פונו",
+   "description": "פגיעת טיל חות'י בשדה התעופה של ריאד - מספר פצועים פונו.",
    "duration_s": 15,
    "first_seen_ms": 1791647845943,
    "image": "https://img.mako.co.il/2026/10/10/newriyad_1400_1791647856738_FirstFrame.jpg",
@@ -51974,6 +51974,24 @@
    "updated_ms": 1791259545000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dc2cba70a5f01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16812_06102026040422/M_NEWS_16812_06102026040422_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dc4cb7abd9621a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השדה בריאד אחרי הפגיעה של הטיל החות׳י",
+   "duration_s": 29,
+   "first_seen_ms": 1791650245982,
+   "image": "https://img.mako.co.il/2026/10/10/M_NEWS_17064_10102026042932_1400_1791649857773_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791649864000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השדה בריאד אחרי הפגיעה של הטיל החות׳י",
+   "type": "mivzakim",
+   "updated_ms": 1791649864000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dc4cb7abd9621a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17064_10102026042932/M_NEWS_17064_10102026042932_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dca323bfed701a1026.htm": {
    "author": "מבזקים",
