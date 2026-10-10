@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b4822c1f84621a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4f206e4494621a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-07d00bbca2621a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3693,6 +3694,24 @@
    "updated_ms": 1790885021000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w01/shorts-f8abad45909f0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/01/biata_siasale_011026/MASTER/biata_siasale_011026/biata_siasale_011026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-07d00bbca2621a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "מעריצות ישראליות שהגיעו להופעה של כוכב להקת וואן דיירקשן, נייל הורן, החליטו לעשות הכול כדי לבלוט בקהל והתעטפו בשרשראות נורות (גרילנדות) זוהרות. הזמר הבחין בהן מהבמה, עצר את המופע ושוחח איתן לעיני אלפי המעריצים באולם.",
+   "duration_s": 34,
+   "first_seen_ms": 1791645445853,
+   "image": "https://img.mako.co.il/2026/10/10/MAYA_NIALL_101026_1400_1791642456156_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791642462000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "התעטפו באורות בהופעה - ומשכו את צומת ליבו של הזמר",
+   "type": "general",
+   "updated_ms": 1791642462000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-07d00bbca2621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/MAYA_NIALL_101026/MASTER/MAYA_NIALL_101026/MAYA_NIALL_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-120a091472221a1026.htm": {
    "author": "סלבס",
@@ -48070,6 +48089,24 @@
    "updated_ms": 1791445354000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4daae3a767a11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/M_NEWS_16954_08102026074102/M_NEWS_16954_08102026074102_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4f206e4494621a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"הייל-היטלר\" וקריאות נגד ישראל במהלך הפגנה בלב לונדון",
+   "duration_s": 12,
+   "first_seen_ms": 1791645445853,
+   "image": "https://img.mako.co.il/2026/10/10/V1_london_7129_10102026031326_1400_1791645255650_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791645262000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"הייל-היטלר\" וקריאות נגד ישראל במהלך הפגנה בלב לונדון",
+   "type": "mivzakim",
+   "updated_ms": 1791645262000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4f206e4494621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_london_7129_10102026031326/V1_london_7129_10102026031326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-4fa11fba40611a1026.htm": {
    "author": "מבזקים",
