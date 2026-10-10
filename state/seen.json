@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-604dba1523421a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e71c325f24421a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6f5a722894421a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-92ea325f24421a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -48359,6 +48361,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6e1112d9bc401a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_TAHAZIT_6820_04102026040248/V1_TAHAZIT_6820_04102026040248_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6f5a722894421a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אזהרה חריגה: השירות המטאורולוגי מעדכן על סכנת רחצה בשל גלים בגובה עד 1.2 מטרים",
+   "duration_s": 11,
+   "first_seen_ms": 1791610647314,
+   "image": "https://img.mako.co.il/2026/10/10/V1_warning_7118_10102026053005_1400_1791610278209_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791610284000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אזהרה חריגה: השירות המטאורולוגי מעדכן על סכנת רחצה בשל גלים בגובה עד 1.2 מטרים",
+   "type": "mivzakim",
+   "updated_ms": 1791610284000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6f5a722894421a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_warning_7118_10102026053005/V1_warning_7118_10102026053005_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-6f8b581234711a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49173,6 +49193,24 @@
    "updated_ms": 1791299716000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-922ae97e0c111a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16870_06102026031354/M_NEWS_16870_06102026031354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-92ea325f24421a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח: החות'ים הציבו להם למטרה לנתק את ערב הסעודית מקשרי התעופה האוויריים עם שאר העולם",
+   "duration_s": 7,
+   "first_seen_ms": 1791610647314,
+   "image": "https://img.mako.co.il/2026/10/10/M_NEWS_17043_10102026053012_1400_1791610274843_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791610281000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח: החות'ים הציבו להם למטרה לנתק את ערב הסעודית מקשרי התעופה האוויריים עם שאר העולם",
+   "type": "mivzakim",
+   "updated_ms": 1791610281000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-92ea325f24421a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17043_10102026053012/M_NEWS_17043_10102026053012_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-93403f3f87601a1026.htm": {
    "author": "מבזקים",
@@ -51664,6 +51702,24 @@
    "updated_ms": 1791261429000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e6d6ba70a5f01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_karind_SouthKorean_6930_06102026043446/V1_karind_SouthKorean_6930_06102026043446_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e71c325f24421a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בעלה של קמלה האריס אמר בשיחות סגורות כי הוא לא רוצה שתתמודד שוב לנשיאות ב-2028",
+   "duration_s": 9,
+   "first_seen_ms": 1791610647314,
+   "image": "https://img.mako.co.il/2026/10/10/M_NEWS_17044_10102026053154_1400_1791610401439_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791610407000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בעלה של קמלה האריס אמר בשיחות סגורות כי הוא לא רוצה שתתמודד שוב לנשיאות ב-2028",
+   "type": "mivzakim",
+   "updated_ms": 1791610407000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e71c325f24421a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17044_10102026053154/M_NEWS_17044_10102026053154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-e77c8d260c501a1027.htm": {
    "author": "מבזקים",
