@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-21d121a04b621a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b524a5db82721a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f97f99399c621a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-1bd02f54fe621a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0b9f96dd63621a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24296,6 +24299,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/SHIRA_RATS_041026/MASTER/SHIRA_RATS_041026_M/SHIRA_RATS_041026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0b9f96dd63621a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ארצות הברית ביקשה מישראל לתקוף לבדה את איראן בטווח הזמן המיידי כדי לפגוע ביכולות הצבאיות שלה. הרמטכ״ל אייל זמיר אומר שאם אנחנו נצא למתקפה כזאת, זה עלול לדחות את הבחירות בישראל - והדרישה האמריקנית הוסרה.\nישראל נערכת לקראת אפשרות לחזרה ללחימה בטווח הזמן הקרוב באיראן. גורמי ביטחון בישראל מדברים על כך שאפשרות לחזרה ללחימה כבר בשבועות הקרובים ועוד לפני הבחירות.",
+   "duration_s": 90,
+   "first_seen_ms": 1791658946172,
+   "image": "https://img.mako.co.il/2026/10/10/inbie_almog_101026_1400_1791643179894_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791643186000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "ארה\"ב ביקשה מישראל לתקוף לבד באיראן - הרמטכ\"ל בלם",
+   "type": "news",
+   "updated_ms": 1791643186000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0b9f96dd63621a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/inbie_almog_101026/MASTER/inbie_almog_101026/inbie_almog_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0d093bc404b11a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24352,6 +24373,24 @@
    "updated_ms": 1791439140000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-180abafacb911a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/SHIR_USA_081026_FIX/SHIR_USA_081026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-1bd02f54fe621a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "דונלד טראמפ שוב מספק כותרות בדרך שרק הוא יודע, והפעם הוא החליט לעוף על עצמו, כשהכריז בלי למצמץ שיש לו \"אי קיו (IQ) מאוד גבוה\". זו כמובן לא הפעם הראשונה שטראמפ מתגאה באינטליגנציה שלו, והאמירה הזו מיד עוררה גל של תגובות ברשתות.",
+   "duration_s": 14,
+   "first_seen_ms": 1791658946172,
+   "image": "https://img.mako.co.il/2026/10/10/inbie_trumpIQ_101026_1400_1791655410424_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791655417000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "דונלד טראמפ מחמיא לעצמו וטוען: \"אני אדם בעל אי קיו גבוה מאוד\"",
+   "type": "news",
+   "updated_ms": 1791655417000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-1bd02f54fe621a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/inbie_trumpIQ_101026/MASTER/inbie_trumpIQ_101026/inbie_trumpIQ_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-2037204f54d01a1026.htm": {
    "author": "חדשות",
@@ -25389,7 +25428,9 @@
    "image": "https://img.mako.co.il/2026/10/10/yoav_amram_101026_1400_1791649251592_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791649258000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "ויכוח על חנייה הפך לאיום באקדח: התיעוד החריג מכפר סבא",
    "type": "news",
    "updated_ms": 1791649380000,
@@ -25693,6 +25734,24 @@
    "updated_ms": 1791113460000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f5643f3f87601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/yoav_pilots_041026/MASTER/yoav_pilots_041026/yoav_pilots_041026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f97f99399c621a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 38,
+   "first_seen_ms": 1791658946172,
+   "image": "https://img.mako.co.il/2026/10/10/MAYA_HAIFA_101026_1400_1791652461302_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791652468000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "AI או מציאות? האחות התאומה של הגנים הבאהיים בגרמניה",
+   "type": "news",
+   "updated_ms": 1791652468000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-f97f99399c621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/MAYA_HAIFA_101026/MASTER/MAYA_HAIFA_101026/MAYA_HAIFA_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ffc046575b211a1026.htm": {
    "author": "חדשות",
@@ -50987,6 +51046,24 @@
    "updated_ms": 1791448441000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b51847085aa11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/V1_fire_7041_08102026083244/V1_fire_7041_08102026083244_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b524a5db82721a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות ישראלים-אמריקניים הפגינו מול קולנוע בנורת' הוליווד, במחאה על הקרנת הסרט הדוקומנטרי \"NAZA\"",
+   "duration_s": 12,
+   "first_seen_ms": 1791658946172,
+   "image": "https://img.mako.co.il/2026/10/10/V1_NAZA_7139_10102026065838_1400_1791658768183_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791658774000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות ישראלים-אמריקניים הפגינו מול קולנוע בנורת' הוליווד, במחאה על הקרנת הסרט הדוקומנטרי \"NAZA\"",
+   "type": "mivzakim",
+   "updated_ms": 1791658774000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b524a5db82721a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_NAZA_7139_10102026065838/V1_NAZA_7139_10102026065838_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-b57d98ac7ab11a1027.htm": {
    "author": "מבזקים",
