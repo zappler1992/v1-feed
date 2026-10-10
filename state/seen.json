@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-c4ddcf7aa0721a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-dca699399c621a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-051f6cc371721a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46278,6 +46279,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-044a9a350af01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/M_NEWS_16822_06102026051515/M_NEWS_16822_06102026051515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-051f6cc371721a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "התרעות הופעלו בגליל המערבי בעקבות עצם זר שחדר לשטח ישראל - הסריקות נמשכות, אין שינוי בהנחיות",
+   "duration_s": 13,
+   "first_seen_ms": 1791658046116,
+   "image": "https://img.mako.co.il/2026/10/10/V1_NORTH_7138_10102026064117_1400_1791657747483_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791657754000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "התרעות הופעלו בגליל המערבי בעקבות עצם זר שחדר לשטח ישראל - הסריקות נמשכות, אין שינוי בהנחיות",
+   "type": "mivzakim",
+   "updated_ms": 1791657754000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-051f6cc371721a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_NORTH_7138_10102026064117/V1_NORTH_7138_10102026064117_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-052222593dc01a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -63734,6 +63753,22 @@
    "updated_ms": 1791125760000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-b796592a9e601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/Amit_ROMI_FIX_H/Amit_ROMI_FIX_H_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-dca699399c621a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "חודשיים לפני חנוכה והטירוף סביב סופגניות אור יהודה כבר כאן, ובגדול. המונים עומדים בתור ומחכים לסופגניות חמות וטריות. כתבת: קרן קוזלוב",
+   "duration_s": 71,
+   "first_seen_ms": 1791658046116,
+   "image": "https://img.mako.co.il/2026/10/10/keren_oryehuda_101026_1400_1791653152902_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791657720000,
+   "sections": [],
+   "title": "חודשיים לפני חנוכה: תור ענק לסופגניות אור יהודה",
+   "type": "general",
+   "updated_ms": 1791653340000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-dca699399c621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/keren_oryehuda_101026/MASTER/keren_oryehuda_101026/keren_oryehuda_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
