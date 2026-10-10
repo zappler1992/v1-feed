@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791662548941,
+ "last_run_ms": 1791662848834,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11129,7 +11129,7 @@
    "indexnow_ms": 1791514827492,
    "published_ms": 1791457800000,
    "section": "כסף",
-   "title": "לא רחוק מישראל: האי שהפך לאהוב על עשירי העולם"
+   "title": "כמה יעלה לנפוש כמו האנשים הכי עשירים בעולם?"
   },
   "https://www.mako.co.il/finances-magazine/money_week/Article-b408008a40021a1026.htm": {
    "check_attempts": 1,
@@ -11177,7 +11177,7 @@
    "indexnow_ms": 1791465986941,
    "published_ms": 1791465600000,
    "section": "",
-   "title": "האקס של מיכל ינאי שמתמודד עם חוב של 80 מיליארד דולר"
+   "title": "ינון וענת הפכו השבוע לזוג הישראלי הכי חזק בהוליווד"
   },
   "https://www.mako.co.il/finances-news/Article-2556302491b11a1027.htm": {
    "check_attempts": 1,
@@ -14561,7 +14561,7 @@
    "indexnow_ms": 1791658227473,
    "published_ms": 1791658080000,
    "section": "",
-   "title": "הרבה שאלות: אדם נכנס למתחם טיגריסים בגן חיות - ונהרג"
+   "title": "אדם נכנס למתחם טיגריסים בגן חיות - ונהרג"
   },
   "https://www.mako.co.il/hix-special/Article-4671bbc0cbb01a1027.htm": {
    "check_attempts": 1,
@@ -20119,6 +20119,18 @@
    "section": "חדשות",
    "title": "הרוג ופצוע קל בהתרסקות מטוס קל בצפון"
   },
+  "https://www.mako.co.il/news-israel/2026_q4/Article-a13248dc44721a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791662786734,
+   "content_type": "article",
+   "first_seen_ms": 1791662786734,
+   "indexable": true,
+   "indexnow_ms": 1791662786734,
+   "published_ms": 1791660900000,
+   "section": "חדשות",
+   "title": "חשד לאירוע פליטת כדור ביבנה: בן 28 פצוע קשה"
+  },
   "https://www.mako.co.il/news-law/2026_q4/Article-2adaf62bfaf01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20262,6 +20274,18 @@
    "published_ms": 1791601200000,
    "section": "חדשות",
    "title": "אחד מכל עשרה ישראלים עדיין מתלבט למי להצביע"
+  },
+  "https://www.mako.co.il/news-politics/2026_q4/Article-bf2378e5bd621a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791662786734,
+   "content_type": "article",
+   "first_seen_ms": 1791662786734,
+   "indexable": true,
+   "indexnow_ms": 1791662786734,
+   "published_ms": 1791654480000,
+   "section": "חדשות",
+   "title": "17 ימים לבחירות: הרשימה המשותפת בהכרזה דרמטית"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q3/Article-6cc20aea643e0a1027.htm": {
    "check_attempts": 1,
@@ -24151,6 +24175,18 @@
    "section": "",
    "title": "צה\"ל נערך להסלמה - וביותר מגזרה אחת"
   },
+  "https://www.mako.co.il/special-mako-news/Article-a13248dc44721a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-a13248dc44721a1026.htm",
+   "checked_ms": 1791662848834,
+   "content_type": "article",
+   "first_seen_ms": 1791662848834,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791660900000,
+   "section": "חדשות",
+   "title": "חשד לאירוע פליטת כדור ביבנה: בן 28 פצוע קשה"
+  },
   "https://www.mako.co.il/special-mako-news/Article-a35265de178f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-a35265de178f0a1026.htm",
@@ -24282,6 +24318,18 @@
    "published_ms": 1791484500000,
    "section": "חדשות",
    "title": "האיש שהעיר את נתניהו: \"מה שפורסם לא משקף אפילו חצי\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bf2378e5bd621a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-bf2378e5bd621a1026.htm",
+   "checked_ms": 1791662848834,
+   "content_type": "article",
+   "first_seen_ms": 1791662848834,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791654480000,
+   "section": "חדשות",
+   "title": "17 ימים לבחירות: הרשימה המשותפת בהכרזה דרמטית"
   },
   "https://www.mako.co.il/special-mako-news/Article-c37025c877311a1027.htm": {
    "check_attempts": 1,
