@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791607366955,
+ "last_run_ms": 1791607653444,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23802,6 +23802,18 @@
    "published_ms": 1790752680000,
    "section": "חדשות",
    "title": "בלי מילה על ישראל: ממדאני הציג תוכנית נגד אנטישמיות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-dcb5ddb380221a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-dcb5ddb380221a1027.htm",
+   "checked_ms": 1791607588276,
+   "content_type": "article",
+   "first_seen_ms": 1791607588276,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791573720000,
+   "section": "חדשות",
+   "title": "חריגה מהסנקציות: ההסכם בין טראמפ לפוטין"
   },
   "https://www.mako.co.il/special-mako-news/Article-de11a3d40c121a1026.htm": {
    "check_attempts": 1,
