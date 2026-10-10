@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791650248583,
+ "last_run_ms": 1791650548690,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5553,6 +5553,18 @@
    "section": "ספורט",
    "title": "\"לא ראיתם כלום\": התאקלמות טברנייר במכבי"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-05450ce45a621a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791650548690,
+   "content_type": "article",
+   "first_seen_ms": 1791650548690,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791650400000,
+   "section": "ספורט",
+   "title": "לפני המשחק: מאבטח הכה אוהד מכבי נתניה"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-06c9a60685c11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -7925,7 +7937,7 @@
    "indexnow_ms": null,
    "published_ms": 1791649860000,
    "section": "ספורט",
-   "title": "לחצו למעקב. מחצית 1: ברצלונה - חטאפה 0:0"
+   "title": "לחצו למעקב. מחצית 1: ברצלונה - חטאפה 0:1"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d487d57ffc6f0a1026.htm": {
    "check_attempts": 1,

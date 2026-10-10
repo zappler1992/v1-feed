@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-dc4cb7abd9621a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0d150ce45a621a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-36cc878f36621a1027.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-b7036e4494621a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3803,6 +3805,24 @@
    "updated_ms": 1791297240000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-2f8f86cbf9d01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/rinat_bradleygigi_051026/MASTER/rinat_bradleygigi_051026_m/rinat_bradleygigi_051026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-36cc878f36621a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "רותם סלע משתפת בחשבון האינסטגרם שלה תמונות מחופשה פוטוגנית במיוחד במדבר - החבר הטוב, אסי עזר, הצטרף גם הוא.",
+   "duration_s": 28,
+   "first_seen_ms": 1791650546029,
+   "image": "https://img.mako.co.il/2026/10/10/MAYA_ROTEM_101026_1400_1791646510570_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791646516000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "החופשה הלוהטת של רותם סלע",
+   "type": "general",
+   "updated_ms": 1791646516000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-36cc878f36621a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/MAYA_ROTEM_101026/MASTER/MAYA_ROTEM_101026/MAYA_ROTEM_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-49496e4494621a1026.htm": {
    "author": "סלבס",
@@ -46459,6 +46479,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0c96e66729021a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_YOGEV_7097_09102026123732/V1_YOGEV_7097_09102026123732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0d150ce45a621a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שבועיים וחצי לבחירות - גנץ מתחייב: ״אני רץ עד הסוף״",
+   "duration_s": 106,
+   "first_seen_ms": 1791650546029,
+   "image": "https://img.mako.co.il/2026/10/10/V1_GANZ_7132_10102026043817_1400_1791650392664_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791650399000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שבועיים וחצי לבחירות - גנץ מתחייב: ״אני רץ עד הסוף״",
+   "type": "mivzakim",
+   "updated_ms": 1791650399000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0d150ce45a621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_GANZ_7132_10102026043817/V1_GANZ_7132_10102026043817_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-0d3963dc57011a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -66158,6 +66196,24 @@
    "updated_ms": 1791204240000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-888e3f69f0c01a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_ALTMAN_051026/MASTER/SHIR_ALTMAN_051026/SHIR_ALTMAN_051026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-b7036e4494621a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "הרבה מנכ״לים של חברות AI, כולל מנכ״ל אנתרופיק עצמו, מדברים על הצורך להאט את קצב הפיתוח בדיוק כדי למנוע נזק לאנושות אך התצריץ להשיג א המתחרות חזק יותר מלקיחת אחריות על נשק כזה. גורמים עוינים משתמשים כבר היום בבינה מלאכותית באופן מאוד אינטנסיבי כדי לפרוץ למערכות מסווגות של מדינות המערב, והן מצליחות לא מעט, כדי לפתח כלי נשק ביולוגיים וכימיים, לפי עדויות.",
+   "duration_s": 60,
+   "first_seen_ms": 1791650546029,
+   "image": "https://img.mako.co.il/2026/10/10/inbie_ai_101026_1400_1791645559323_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791645565000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "כך הבינה הלאכותית יוצאת משליטה ברחבי העולם",
+   "type": "general",
+   "updated_ms": 1791645565000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-b7036e4494621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/inbie_ai_101026/MASTER/inbie_ai_101026/inbie_ai_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-f1f80f8137011a1026.htm": {
    "author": "טכנולוגיה",
