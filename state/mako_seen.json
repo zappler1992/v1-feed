@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791658048924,
+ "last_run_ms": 1791658348908,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5745,6 +5745,18 @@
    "section": "ספורט",
    "title": "אקס חיפה: \"יצאנו לחפש חזירי בר בלילות\""
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-40d46cc371721a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791658348908,
+   "content_type": "article",
+   "first_seen_ms": 1791658348908,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791658140000,
+   "section": "ספורט",
+   "title": "\"זה משחק שננצח 9.5 פעמים מתוך 10. מתסכל\""
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4325bfb98b001a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -6128,6 +6140,30 @@
    "published_ms": 1791645000000,
    "section": "ספורט",
    "title": "הסיבה שבגללה קרייב לא נרשם מול ק\"ש"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-bb4cb61442721a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791658348908,
+   "content_type": "article",
+   "first_seen_ms": 1791658348908,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791658200000,
+   "section": "ספורט",
+   "title": "\"האשמה רק שלנו\": אוהדי מכבי ת\"א מתוסכלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-bc36cf7aa0721a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791658107477,
+   "content_type": "article",
+   "first_seen_ms": 1791658107477,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791657600000,
+   "section": "ספורט",
+   "title": "אליניב ברדה: \"אווסו עוד רחוק מהתקרה שלו\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c85df8b3f7011a1026.htm": {
    "check_attempts": 1,
@@ -14454,6 +14490,18 @@
    "published_ms": 1790095200000,
    "section": "HIX",
    "title": "הקוף איבד שליטה בחצר וגרם למותה של בעלת הבית"
+  },
+  "https://www.mako.co.il/hix-special/Article-425bcf7aa0721a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791658227473,
+   "content_type": "article",
+   "first_seen_ms": 1791658227473,
+   "indexable": true,
+   "indexnow_ms": 1791658227473,
+   "published_ms": 1791658080000,
+   "section": "",
+   "title": "הרבה שאלות: אדם נכנס למתחם טיגריסים בגן חיות - ונהרג"
   },
   "https://www.mako.co.il/hix-special/Article-4671bbc0cbb01a1027.htm": {
    "check_attempts": 1,
@@ -23405,7 +23453,7 @@
    "indexnow_ms": 1791580827803,
    "published_ms": 1791580140000,
    "section": "חדשות",
-   "title": "דיווח מטריד: המעצמה שמספקת לאיראן טילים"
+   "title": "בתקיפה בח'אן יונס: חוסל מפקד מפקד בג'יהאד האיסלאמי"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-db75791ed0ad0a1026.htm": {
    "check_attempts": 1,
