@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791653549910,
+ "last_run_ms": 1791653848775,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16339,6 +16339,18 @@
    "section": "",
    "title": "\"סתם ניסתה לחפש כותרות\": גל גברעם חוטפת אש"
   },
+  "https://www.mako.co.il/makoz-news/Article-08c399399c621a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791653667278,
+   "content_type": "article",
+   "first_seen_ms": 1791653667278,
+   "indexable": true,
+   "indexnow_ms": 1791653667278,
+   "published_ms": 1791652320000,
+   "section": "",
+   "title": "\"כמעט מלאכים\" יתאחדו על הבמה בדצמבר הקרוב"
+  },
   "https://www.mako.co.il/makoz-news/Article-180e3d3c56111a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18246,6 +18258,18 @@
    "published_ms": 1791625140000,
    "section": "",
    "title": "ניסיון החיסול - בזמן שבני המשפחה בבית: \"תהיה נקמה קשה\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-a9d7dd0648621a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791653848775,
+   "content_type": "article",
+   "first_seen_ms": 1791653848775,
+   "indexable": true,
+   "indexnow_ms": 1791653848775,
+   "published_ms": 1791653760000,
+   "section": "",
+   "title": "בדיוק כשחזר מחופשה בדובאי: המעצר של הצעיר מהדרום"
   },
   "https://www.mako.co.il/men-men_news/Article-ab2e1231356f0a1026.htm": {
    "check_attempts": 1,
@@ -23345,7 +23369,7 @@
    "indexnow_ms": 1791580827803,
    "published_ms": 1791580140000,
    "section": "חדשות",
-   "title": "השתתף ב-7 באוקטובר: החיסול של צה\"ל בח'אן יונס"
+   "title": "דיווח מטריד: המעצמה שמספקת לאיראן טילים"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-db75791ed0ad0a1026.htm": {
    "check_attempts": 1,
@@ -25458,6 +25482,18 @@
    "published_ms": 1790579760000,
    "section": "",
    "title": "\"הזמן קריטי, צריך להביא את הישראלים בבטחה לביתם\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-50a6024b83521a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791653787298,
+   "content_type": "article",
+   "first_seen_ms": 1791653787298,
+   "indexable": true,
+   "indexnow_ms": 1791653787298,
+   "published_ms": 1791650400000,
+   "section": "",
+   "title": "\"ניסינו לרוץ לילדים ולא הצלחנו. הכל התנפץ\""
   },
   "https://www.mako.co.il/travel-news/international/Article-56e3fa1495ac0a1027.htm": {
    "check_attempts": 1,

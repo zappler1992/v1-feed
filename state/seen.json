@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d8cfd51b8c621a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b19b78e5bd621a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -51873,9 +51873,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "פגיעת טיל חות'י בשדה התעופה של ריאד - מספר פצועים פונו.",
-   "duration_s": 15,
+   "duration_s": 47,
    "first_seen_ms": 1791647845943,
-   "image": "https://img.mako.co.il/2026/10/10/newriyad_1400_1791647856738_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/10/TRUMPPLUSRIYADH22_1400_1791653770175_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791647517000,
    "sections": [
@@ -51885,7 +51885,7 @@
    "type": "mivzakim",
    "updated_ms": 1791651180000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d147878f36621a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/newriyad/newriyad_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/TRUMPPLUSRIYADH22/TRUMPPLUSRIYADH22_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm": {
    "author": "מבזקים",
@@ -73073,6 +73073,24 @@
    "updated_ms": 1791572290000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-af69995320221a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_SHIR_APRTMENT_7114_09102026065649/V1_SHIR_APRTMENT_7114_09102026065649_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b19b78e5bd621a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "נכנס למתחם הטיגריסים ונהרג: רגעי האימה בגן החיות בבריטניה לעיני המבקרים",
+   "duration_s": 41,
+   "first_seen_ms": 1791653846097,
+   "image": "https://img.mako.co.il/2026/10/10/V1_TIGER_7137_10102026053306_1400_1791653684256_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791653690000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "נכנס למתחם הטיגריסים ונהרג: רגעי האימה בגן החיות בבריטניה לעיני המבקרים",
+   "type": "mivzakim",
+   "updated_ms": 1791653690000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b19b78e5bd621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_TIGER_7137_10102026053306/V1_TIGER_7137_10102026053306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b498074daeb01a1026.htm": {
    "author": "מבזקים מהעולם",
