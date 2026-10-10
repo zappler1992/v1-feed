@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791611848986,
+ "last_run_ms": 1791615748715,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5937,6 +5937,18 @@
    "section": "ספורט",
    "title": "בפנקס שלהם: מועדון הפאר שבעקבות זערורה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a442dd95a7421a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791615748715,
+   "content_type": "article",
+   "first_seen_ms": 1791615748715,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791614220000,
+   "section": "ספורט",
+   "title": "אוהדי מכבי חיפה לא ממהרים להגיע לטדי"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a54a4913b9f01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -10745,7 +10757,7 @@
    "indexnow_ms": 1791514827492,
    "published_ms": 1791457800000,
    "section": "כסף",
-   "title": "כמה יעלה לנפוש כמו האנשים הכי עשירים בעולם?"
+   "title": "לא רחוק מישראל: האי שהפך לאהוב על עשירי העולם"
   },
   "https://www.mako.co.il/finances-magazine/money_week/Article-b408008a40021a1026.htm": {
    "check_attempts": 1,
@@ -10793,7 +10805,7 @@
    "indexnow_ms": 1791465986941,
    "published_ms": 1791465600000,
    "section": "",
-   "title": "ינון וענת הפכו השבוע לזוג הישראלי הכי חזק בהוליווד"
+   "title": "הוא חלם להיות כדורגלן, וייאלץ להסתפק בניהול אימפריה"
   },
   "https://www.mako.co.il/finances-news/Article-2556302491b11a1027.htm": {
    "check_attempts": 1,
@@ -18173,7 +18185,7 @@
    "indexnow_ms": 1791514587579,
    "published_ms": 1791513060000,
    "section": "פלילים",
-   "title": "\"משלה אנשים ועושה כסף\": הנוכל שממשיך להסתובב בהשקות"
+   "title": "\"הוא מוכר לאנשים אשליות ועושה מזה כסף\""
   },
   "https://www.mako.co.il/men-men_news/Article-c32a8034f39d0a1026.htm": {
    "check_attempts": 1,
@@ -20190,6 +20202,18 @@
    "published_ms": 1791190380000,
    "section": "ספורט",
    "title": "המענק שלא הכרתם: הסכומים שבדרך לגדולות"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-84bbce6496421a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791615748715,
+   "content_type": "article",
+   "first_seen_ms": 1791615748715,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791615060000,
+   "section": "ספורט",
+   "title": "המספרים נחשפים: תקציבי קבוצות ליגת העל"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-913621107cf11a1027.htm": {
    "check_attempts": 1,
@@ -23021,7 +23045,7 @@
    "indexnow_ms": 1791580827803,
    "published_ms": 1791580140000,
    "section": "חדשות",
-   "title": "\"לנתק את המדינה הזו מקשרי התעופה עם שאר העולם\""
+   "title": "המזימה החדשה של החות'ים במזרח התיכון נחשפת"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-db75791ed0ad0a1026.htm": {
    "check_attempts": 1,
@@ -27018,6 +27042,18 @@
    "published_ms": 1791432900000,
    "section": "",
    "title": "יהודה לוי מצהיר: \"אעשה בשבילה הכל, אפילו למות\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-106afcc674221a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791615748715,
+   "content_type": "article",
+   "first_seen_ms": 1791615748715,
+   "indexable": true,
+   "indexnow_ms": 1791615748715,
+   "published_ms": 1791612600000,
+   "section": "הכי חם",
+   "title": "\"אני יורד על ארבע ומתחנן, אבל הוא לא מוכן\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-1766d0af49be0a1026.htm": {
    "check_attempts": 1,
