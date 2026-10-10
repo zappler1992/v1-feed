@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7085c7f0ea421a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9cbacea7ed421a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3c739ac58c421a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47413,6 +47414,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3bebbaa1fe321a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17038_10102026035827/M_NEWS_17038_10102026035827_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3c739ac58c421a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אילת התעוררה לבוקר של גשמים וברקים",
+   "duration_s": 18,
+   "first_seen_ms": 1791620846303,
+   "image": "https://img.mako.co.il/2026/10/10/M_NEWS_17050_10102026082406_1400_1791620737344_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791620743000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אילת התעוררה לבוקר של גשמים וברקים",
+   "type": "mivzakim",
+   "updated_ms": 1791620743000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3c739ac58c421a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17050_10102026082406/M_NEWS_17050_10102026082406_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-3cb3ddb380221a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -49568,6 +49587,24 @@
    "updated_ms": 1791538699000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9c99008a40021a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/V1_jordan_7089_09102026093645/V1_jordan_7089_09102026093645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9cbacea7ed421a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד נוסף של הגשם החזק באילת",
+   "duration_s": 27,
+   "first_seen_ms": 1791620846303,
+   "image": "https://img.mako.co.il/2026/10/10/M_NEWS_17051_10102026082429_1400_1791620744436_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791620751000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד נוסף של הגשם החזק באילת",
+   "type": "mivzakim",
+   "updated_ms": 1791620751000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9cbacea7ed421a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/M_NEWS_17051_10102026082429/M_NEWS_17051_10102026082429_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9d553c3235c01a1026.htm": {
    "author": "מבזקים",
