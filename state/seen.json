@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-74e2def315721a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-c7c1e86645721a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d49c70d8b8721a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52165,6 +52164,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d3044a7e42511a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/M_NEWS_16904_07102026070718/M_NEWS_16904_07102026070718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d49c70d8b8721a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרשויות בסעודיה לניו יורק טיימס: לפחות 12 הרוגים ו-50 פצועים בתקיפה בנמל התעופה בריאד",
+   "duration_s": 6,
+   "first_seen_ms": 1791666146310,
+   "image": "https://img.mako.co.il/2026/10/10/V1_saudi_7143_10102026085655_1400_1791665887512_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791665894000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרשויות בסעודיה לניו יורק טיימס: לפחות 12 הרוגים ו-50 פצועים בתקיפה בנמל התעופה בריאד",
+   "type": "mivzakim",
+   "updated_ms": 1791665894000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d49c70d8b8721a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_saudi_7143_10102026085655/V1_saudi_7143_10102026085655_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d4ccd705a4701a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -73380,7 +73397,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי Vיראלים",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "נכנס למתחם הטיגריסים ונהרג: רגעי האימה בגן החיות בבריטניה לעיני המבקרים",
    "type": "mivzakim",
