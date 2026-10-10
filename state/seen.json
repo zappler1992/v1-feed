@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5de848dc44721a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-5c263162c3721a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46379,14 +46379,14 @@
    "duration_s": 13,
    "first_seen_ms": 1791658046116,
    "image": "https://img.mako.co.il/2026/10/10/V1_NORTH_7138_10102026064117_1400_1791657747483_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791657754000,
    "sections": [
     "מבזקים"
    ],
    "title": "התרעות הופעלו בגליל המערבי בעקבות עצם זר שחדר לשטח ישראל - הסריקות נמשכות, אין שינוי בהנחיות",
    "type": "mivzakim",
-   "updated_ms": 1791657754000,
+   "updated_ms": 1791660780000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-051f6cc371721a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_NORTH_7138_10102026064117/V1_NORTH_7138_10102026064117_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -72955,6 +72955,24 @@
    "updated_ms": 1791101618000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-572aeb177f501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/V1_KARIND_BARAK_6838_04102026081237/V1_KARIND_BARAK_6838_04102026081237_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-5c263162c3721a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אחרי 321 ימים בים: מאות חיילים מנושאת המטוסים \"אברהם לינקולן\" התאחדו עם משפחותיהם",
+   "duration_s": 100,
+   "first_seen_ms": 1791661046222,
+   "image": "https://img.mako.co.il/2026/10/10/V1_SAILOR_7141_10102026072905_1400_1791660677901_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791660684000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "אחרי 321 ימים בים: מאות חיילים מנושאת המטוסים \"אברהם לינקולן\" התאחדו עם משפחותיהם",
+   "type": "mivzakim",
+   "updated_ms": 1791660684000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-5c263162c3721a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_SAILOR_7141_10102026072905/V1_SAILOR_7141_10102026072905_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-604dba1523421a1026.htm": {
    "author": "מבזקים מהעולם",

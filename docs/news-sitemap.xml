@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-5c263162c3721a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-10T19:31:24+00:00</news:publication_date>
+<news:title>אחרי 321 ימים בים: מאות חיילים מנושאת המטוסים &quot;אברהם לינקולן&quot; התאחדו עם משפחותיהם</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/10/V1_SAILOR_7141_10102026072905_1400_1791660677901_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-5de848dc44721a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1313,14 +1322,5 @@
 <news:title>סגירת המעגל המרגשת של רומי וליה סוויסה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/08/biata_girls_081026_1400_1791488503523_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-ce9aa2e0dfc11a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-08T19:33:19+00:00</news:publication_date>
-<news:title>המתאבק המקסיקני היחו דה פישמן הטיח שופט בן 75 בזירה - גרם למותו ונעצר בחשד להריגה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/08/V1_boxer1_7080_08102026073127_1400_1791487992314_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
