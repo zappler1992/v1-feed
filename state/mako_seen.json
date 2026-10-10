@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791656548873,
+ "last_run_ms": 1791656848906,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6032,6 +6032,18 @@
    "published_ms": 1791218760000,
    "section": "ספורט",
    "title": "בפנקס שלהם: מועדון הפאר שבעקבות זערורה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a279cf7aa0721a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791656787477,
+   "content_type": "article",
+   "first_seen_ms": 1791656787477,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791656580000,
+   "section": "ספורט",
+   "title": "תחטוף טכני? הפועל פ\"ת שיתפה 12 שחקנים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a442dd95a7421a1027.htm": {
    "check_attempts": 1,
@@ -25399,6 +25411,18 @@
    "section": "חופש",
    "title": "השינוי בבידוק הביטחוני שיכול לעלות לכם כסף"
   },
+  "https://www.mako.co.il/travel-news/international/Article-325fb7abd9621a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791656787477,
+   "content_type": "article",
+   "first_seen_ms": 1791656787477,
+   "indexable": true,
+   "indexnow_ms": 1791656787477,
+   "published_ms": 1791656640000,
+   "section": "",
+   "title": "נוסע פרץ למסלול, ועשה מעשה מוזר במיוחד"
+  },
   "https://www.mako.co.il/travel-news/international/Article-390330b6fc611a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26345,7 +26369,7 @@
    "indexnow_ms": 1791646948514,
    "published_ms": 1791644460000,
    "section": "",
-   "title": "טס פעמיים לישראל כדי להתכונן: המידע שנחשף על הטייס"
+   "title": "פרטים חדשים מחקירת הטייס המחבל של פליי-דובאי"
   },
   "https://www.mako.co.il/travel-news/israel/Article-ccb25da495a01a1026.htm": {
    "check_attempts": 1,
@@ -27221,7 +27245,7 @@
    "indexnow_ms": 1791516387645,
    "published_ms": 1791465900000,
    "section": "קשת 12",
-   "title": "\"שתשלח לי זימון בגוגל קלנדר ואז אדע שהיא האחת\""
+   "title": "\"זו צלקת מנטלית שנשארת הרבה מאוד זמן\""
   },
   "https://www.mako.co.il/tv-the_escape/season1-articles/Article-99ec6194c4511a1027.htm": {
    "check_attempts": 1,
