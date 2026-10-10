@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791663148931,
+ "last_run_ms": 1791663448943,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10819,6 +10819,18 @@
    "section": "כסף",
    "title": "מה-1.10: השינוי בוואטסאפ שהולך לעלות כסף"
   },
+  "https://www.mako.co.il/finances-consumer/Article-3ef44ea081021a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791663266782,
+   "content_type": "article",
+   "first_seen_ms": 1791663266782,
+   "indexable": true,
+   "indexnow_ms": 1791663266782,
+   "published_ms": 1791687600000,
+   "section": "כסף",
+   "title": "סל הקניות התייקר במאות שקלים מאז 2022"
+  },
   "https://www.mako.co.il/finances-consumer/Article-4c966270638d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -21211,6 +21223,18 @@
    "section": "דיגיטל",
    "title": "הפייק על \"הילד הישראלי החטוף בעזה\" שוב רץ"
   },
+  "https://www.mako.co.il/nexter-news/Article-3054169a33721a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791663266782,
+   "content_type": "article",
+   "first_seen_ms": 1791663266782,
+   "indexable": true,
+   "indexnow_ms": 1791663266782,
+   "published_ms": 1791687600000,
+   "section": "דיגיטל",
+   "title": "הנסיעה במונית מפחידה? מעכשיו יש פתרון"
+  },
   "https://www.mako.co.il/nexter-news/Article-3318b2289e6e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22086,6 +22110,18 @@
    "published_ms": 1791274860000,
    "section": "גאווה",
    "title": "\"עקבו אחריו לפני שירו בו\": כוכב הרשת נרצח"
+  },
+  "https://www.mako.co.il/pride-news/Article-0695b61442721a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791663266782,
+   "content_type": "article",
+   "first_seen_ms": 1791663266782,
+   "indexable": true,
+   "indexnow_ms": 1791663266782,
+   "published_ms": null,
+   "section": "גאווה",
+   "title": "בצניחה חופשית: הנתון המפתיע על צעירי ארה\"ב"
   },
   "https://www.mako.co.il/pride-news/Article-18c804f7ace11a1026.htm": {
    "check_attempts": 1,
@@ -27497,7 +27533,7 @@
    "indexnow_ms": 1791608549637,
    "published_ms": 1791608460000,
    "section": "",
-   "title": "\"באתי לבעלי ואמרתי 'אלי, אני עומדת למות'\""
+   "title": "\"הייתי בטוחה שיש לי סרטן ואני עומדת למות\""
   },
   "https://www.mako.co.il/tvbee-articles/Article-08b114af21021a1027.htm": {
    "check_attempts": 1,
