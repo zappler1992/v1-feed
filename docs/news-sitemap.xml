@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-7085c7f0ea421a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-10T08:03:28+00:00</news:publication_date>
+<news:title>תושבת אילת מתעדת מהמרפסת: גשם בשבת בבוקר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/10/V1_eilat_7120_10102026080205_1400_1791619401687_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-1d8dc7f0ea421a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1502,14 +1511,5 @@
 <news:title>ההצבעה על הקפאת מרכזי ה-AI של מאסק נדחתה –  והתושבים התפרצו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/08/Kim_AIfight_08102026_1400_1791446951037_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-22272c1028a11a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-08T08:03:09+00:00</news:publication_date>
-<news:title>דיווחים בסעודיה: הופסקה הפעילות בנמל התעופה הבין-לאומי של ריאד לאחר שיגור טילים לעבר העיר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/08/V1_karind_riaad_7040_08102026080117_1400_1791446582693_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
