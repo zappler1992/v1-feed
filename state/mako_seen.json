@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791661948817,
+ "last_run_ms": 1791662248793,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23034,6 +23034,18 @@
    "published_ms": 1790594520000,
    "section": "צבא וביטחון",
    "title": "גל נוסף? האזהרה לאיראן - וההיערכות החריגה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-bac2058d7c621a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-bac2058d7c621a1027.htm",
+   "checked_ms": 1791662248793,
+   "content_type": "article",
+   "first_seen_ms": 1791662248793,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791656400000,
+   "section": "",
+   "title": "גורם ישראלי מתייחס לאפשרות של תקיפה יזומה לפני הבחירות"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-bcbc1f3df7be0a1026.htm": {
    "check_attempts": 1,
