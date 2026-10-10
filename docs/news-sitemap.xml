@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-e77fdf170cb11a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-10T08:37:00+00:00</news:publication_date>
+<news:title>מסודרים פרק 56: מכונית במתנה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/08/LOADED_EP56_1400_1791467885539_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-b6874d6bd62d0a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-10T08:35:00+00:00</news:publication_date>
+<news:title>אהבה מעבר לפינה פרק 25: נשיקה אסורה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/09/24/LOVE_CORNER_EP25_M_1400_1790237338885_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-9cbacea7ed421a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -367,7 +385,7 @@
 <news:publication_date>2026-10-09T14:47:09+00:00</news:publication_date>
 <news:title>קדחת הנילוס מתפשטת: אלו הערים שבהן אותרו יתושות נגועות</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/SHIR_BUGS_091026_1400_1791557220307_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/10/10/alona_fix_moskito_1400_1791621550327_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a15e6838be021a1027.htm</loc>
@@ -1475,23 +1493,5 @@
 <news:title>קקטוס הזהב 2026 - הפרסומות האהובות של השבוע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/08/SHIR_CACTUS_081026_1400_1791449178425_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-a44bf10733511a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-08T08:41:00+00:00</news:publication_date>
-<news:title>מסודרים פרק 55: היועצת פוגשת את הדוגמנית</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/07/LOADED_EP55_1400_1791357224869_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-a9e64d6bd62d0a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-08T08:39:00+00:00</news:publication_date>
-<news:title>אהבה מעבר לפינה פרק 24: עושה אחורה פנה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/09/24/LOVE_CORNER_EP24_M_1400_1790237317746_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
