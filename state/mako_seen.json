@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791647248641,
+ "last_run_ms": 1791647548560,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -251,7 +251,7 @@
    "indexnow_ms": null,
    "published_ms": 1791461963000,
    "section": "",
-   "title": "כולם יודעים מה הולך אצלי בבית. למדתי לא להתרגש מזה"
+   "title": "\"החזה הגדול הקשה עליי, אמרו לי שחייבים לעשות הקטנה\""
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -2638,6 +2638,18 @@
    "published_ms": 1790912160000,
    "section": "ספורט",
    "title": "\"הפועל הראתה שהיא אחת מהגדולות ביורוליג\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-7d86878f36621a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791647548560,
+   "content_type": "article",
+   "first_seen_ms": 1791647548560,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791647400000,
+   "section": "ספורט",
+   "title": "מנכ\"ל היורוליג ינכח במשחקה של מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-809b9ee6cac11a1027.htm": {
    "check_attempts": 1,
