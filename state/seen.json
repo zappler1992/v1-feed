@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-47686441be521a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-846f2b5490621a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2f9e2b5490621a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -49192,6 +49193,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-841bf8408d711a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_tekes_7026_07102026073424/V1_tekes_7026_07102026073424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-846f2b5490621a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ערב הסעודית מאשרת: 3 נהרגו בפגיעת טיל החות'י בשדה התעופה בריאד",
+   "duration_s": 9,
+   "first_seen_ms": 1791640645813,
+   "image": "https://img.mako.co.il/2026/10/10/V1_hotiis_7126_10102026015133_1400_1791640376616_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791640382000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ערב הסעודית מאשרת: 3 נהרגו בפגיעת טיל החות'י בשדה התעופה בריאד",
+   "type": "mivzakim",
+   "updated_ms": 1791640382000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-846f2b5490621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_hotiis_7126_10102026015133/V1_hotiis_7126_10102026015133_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-84d6aa861d611a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -72107,6 +72126,24 @@
    "updated_ms": 1791309465000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2e0ac4b155211a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/V1_FRANCE_6962_06102026055611/V1_FRANCE_6962_06102026055611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2f9e2b5490621a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: סופת טורנדו עוצמתית הכתה במערב סיציליה, נזק רב נגרם למבנים",
+   "duration_s": 94,
+   "first_seen_ms": 1791640645813,
+   "image": "https://img.mako.co.il/2026/10/10/V1_sicily_7125_10102026014907_1400_1791640260207_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791640266000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד: סופת טורנדו עוצמתית הכתה במערב סיציליה, נזק רב נגרם למבנים",
+   "type": "mivzakim",
+   "updated_ms": 1791640266000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-2f9e2b5490621a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/V1_sicily_7125_10102026014907/V1_sicily_7125_10102026014907_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-304b14af21021a1027.htm": {
    "author": "מבזקים מהעולם",
