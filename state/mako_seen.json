@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791709348389,
+ "last_run_ms": 1791709648377,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12919,6 +12919,18 @@
    "section": "",
    "title": "אם עדיין לא אימצתם את הנתח הזה, עכשיו הזמן"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-pasta/Recipe-09dee9dbee921a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791709648377,
+   "content_type": "recipe",
+   "first_seen_ms": 1791709648377,
+   "indexable": true,
+   "indexnow_ms": 1791709648377,
+   "published_ms": 1791704940000,
+   "section": "",
+   "title": "כשחולמים על פסטה רוזה, זה בדיוק מה שמדמיינים"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-salads/Recipe-16e524193f8c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14034,6 +14046,18 @@
    "published_ms": 1790252640000,
    "section": "בריאות",
    "title": "נקבע מותו של בן ה-9 שנדבק ב\"אמבה אוכלת מוח\""
+  },
+  "https://www.mako.co.il/health-news/Article-d60ed67d8f011a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791709467282,
+   "content_type": "article",
+   "first_seen_ms": 1791709467282,
+   "indexable": true,
+   "indexnow_ms": 1791709467282,
+   "published_ms": 1791709320000,
+   "section": "בריאות",
+   "title": "\"רגל פיל\": סבלה 14 שנה מהתופעה המפחידה"
   },
   "https://www.mako.co.il/health-news/Article-d939359e0e511a1026.htm": {
    "check_attempts": 1,
