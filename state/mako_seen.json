@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791702749162,
+ "last_run_ms": 1791703049116,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13950,6 +13950,18 @@
    "published_ms": 1791358860000,
    "section": "בריאות",
    "title": "\"אין טיפול שיוכל להשכיח את המראות שראינו שם\""
+  },
+  "https://www.mako.co.il/health-news/Article-e9f7e524b9a11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791703049116,
+   "content_type": "article",
+   "first_seen_ms": 1791703049116,
+   "indexable": true,
+   "indexnow_ms": 1791703049116,
+   "published_ms": 1791448380000,
+   "section": "בריאות",
+   "title": "ההורים חשבו שזה שיניים - התינוק היה בסכנה"
   },
   "https://www.mako.co.il/health-news/Article-fbb954f40e8c0a1027.htm": {
    "check_attempts": 1,
