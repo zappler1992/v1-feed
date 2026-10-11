@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791737849170,
+ "last_run_ms": 1791738149450,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12041,7 +12041,7 @@
    "indexnow_ms": 1791725427399,
    "published_ms": 1791716880000,
    "section": "כסף",
-   "title": "היערכו מראש: צפי לשבוע של עומסי תנועה חריגים"
+   "title": "הסיבה לפקקי הענק שצפויים השבוע"
   },
   "https://www.mako.co.il/finances-news/Article-89da5af68dbe0a1027.htm": {
    "check_attempts": 1,
@@ -14909,7 +14909,7 @@
    "indexnow_ms": 1791717866870,
    "published_ms": 1791717660000,
    "section": "HIX",
-   "title": "התאומות נישאו לתאומים, ושמרו על הזוגיות בסוד"
+   "title": "תאומות זהות התחתנו עם תאומים זהים. הן לא ציפו לזה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-ffd1033b343d0a1027.htm": {
    "check_attempts": 1,
@@ -24006,6 +24006,18 @@
    "published_ms": 1790482980000,
    "section": "צבא וביטחון",
    "title": "המהלך של הצבא הגדול בעולם נגד האיום הבליסטי"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-33d946a3b9b21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-33d946a3b9b21a1026.htm",
+   "checked_ms": 1791738149450,
+   "content_type": "article",
+   "first_seen_ms": 1791738149450,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791735900000,
+   "section": "",
+   "title": "בצל המתיחות: דיון ביטחוני יתקיים הערב"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-35bdb93d357e0a1026.htm": {
    "check_attempts": 1,
