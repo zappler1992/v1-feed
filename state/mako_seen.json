@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791705149288,
+ "last_run_ms": 1791705450253,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11467,6 +11467,18 @@
    "section": "כסף",
    "title": "חברה מעל טריליון שקל נסחרת בבורסה בישראל"
   },
+  "https://www.mako.co.il/finances-news/Article-4d428a7c6e921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791705266927,
+   "content_type": "article",
+   "first_seen_ms": 1791705266927,
+   "indexable": true,
+   "indexnow_ms": 1791705266927,
+   "published_ms": 1791704880000,
+   "section": "כסף",
+   "title": "55% מהשכירים סיימו את הקיץ בלי יום חופשה אחד"
+  },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13997,7 +14009,7 @@
    "indexnow_ms": 1791703049116,
    "published_ms": 1791448380000,
    "section": "בריאות",
-   "title": "ההורים חשבו שזה השיניים - התינוק היה בסכנה"
+   "title": "ההורים חשבו שזה השיניים - התינוק היה בסכנת חיים"
   },
   "https://www.mako.co.il/health-news/Article-fbb954f40e8c0a1027.htm": {
    "check_attempts": 1,
@@ -20730,6 +20742,18 @@
    "published_ms": 1791654480000,
    "section": "חדשות",
    "title": "17 ימים לבחירות: הרשימה המשותפת בהכרזה דרמטית"
+  },
+  "https://www.mako.co.il/news-politics/2026_q4/liveblog-edcbca53f8921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791705266927,
+   "content_type": "liveblog",
+   "first_seen_ms": 1791705266927,
+   "indexable": true,
+   "indexnow_ms": 1791705266927,
+   "published_ms": 1791704880000,
+   "section": "",
+   "title": "\"החלטה אישית שלי\": ההצהרה של מנדלבליט - כשנתניהו באולם"
   },
   "https://www.mako.co.il/news-sport/basketball-2026_q3/Article-6cc20aea643e0a1027.htm": {
    "check_attempts": 1,
