@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd24bba6b8b21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e9c946a3b9b21a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-4fe0392cc5b21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4355,6 +4356,24 @@
    "updated_ms": 1791568887000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-efdda3d40c121a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/NOAY_BIBI_091026/MASTER/NOAY_BIBI_091026/NOAY_BIBI_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-4fe0392cc5b21a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"אני לא מפליצה\": הווידוי המפתיע של רותי ברודו באמצע השולחן של המטבח המנצח VIP, הערב בקשת 12 אחרי החדשות",
+   "duration_s": 76,
+   "first_seen_ms": 1791734247485,
+   "image": "https://img.mako.co.il/2026/10/11/ruti_tamar_1110_m_1400_1791729815319_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791729821000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"אני לא מפליצה\": הווידוי המפתיע של רותי ברודו",
+   "type": "general",
+   "updated_ms": 1791729821000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-4fe0392cc5b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/ruti_tamar_1110/MASTER/ruti_tamar_1110_m/ruti_tamar_1110_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-5763f2ea25a21a1027.htm": {
    "author": "סלבס",
@@ -26323,6 +26342,22 @@
    "updated_ms": 1791722340000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LIRONNEXTP/MASTER/LIRONNEXTM/LIRONNEXTM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e9c946a3b9b21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הפריצה לנייד של אוריך: עשרות אלפי הודעות דלפו. חשבונות פיראטיים הפיצו ברשת התכתבויות של יועץ נתניהו ומאיימים: נפרסם עוד בקרוב.",
+   "duration_s": 97,
+   "first_seen_ms": 1791734247485,
+   "image": "https://img.mako.co.il/2026/10/11/inbie_orich_111026_1400_1791733181291_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791733187000,
+   "sections": [],
+   "title": "הפריצה לנייד של אוריך: איך זה קרה - ומה יש בשיחות שדלפו",
+   "type": "news",
+   "updated_ms": 1791734100000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e9c946a3b9b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_orich_111026/MASTER/inbie_orich_111026/inbie_orich_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
