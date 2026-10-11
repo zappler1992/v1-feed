@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e5bb392cc5b21a1026.htm",
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-2cc0473414b21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26227,7 +26228,7 @@
    ],
    "title": "בוריס איבד את רגלו - וסיים איירון מן!",
    "type": "news",
-   "updated_ms": 1791728040000,
+   "updated_ms": 1791729060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bc59c24f51b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/NOAB_BORISS_111026_M/MASTER/NOAB_BORISS_111026_M/NOAB_BORISS_111026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -54338,6 +54339,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e44f451818a21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17119_11102026103931/M_NEWS_17119_11102026103931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e5bb392cc5b21a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו מגנה את המתקפה החות'ית על שדה התעופה בריאד: \"הטרור מכוון נגד אנשים תמימים\"",
+   "duration_s": 9,
+   "first_seen_ms": 1791729446310,
+   "image": "https://img.mako.co.il/2026/10/11/V1_karind_bibi_7164_11102026023114_1400_1791729160774_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791729300000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו מגנה את המתקפה החות'ית על שדה התעופה בריאד: \"טרור מכוון נגד אנשים תמימים\"",
+   "type": "mivzakim",
+   "updated_ms": 1791729300000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e5bb392cc5b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_bibi_7164_11102026023114/V1_karind_bibi_7164_11102026023114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -68105,6 +68124,24 @@
    "updated_ms": 1791190560000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w02/shorts-d737884eeca01a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/05/SHIR_BUGS_051026_FIX/SHIR_BUGS_051026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-2cc0473414b21a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791729446310,
+   "image": "https://img.mako.co.il/2026/10/11/inbie_price_111026_1400_1791727889756_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791727896000,
+   "sections": [
+    "חופש וטיולים"
+   ],
+   "title": "המהפכה באירופה שתשפיע על מחירי הטיסות",
+   "type": "general",
+   "updated_ms": 1791727896000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-2cc0473414b21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_price_111026/MASTER/inbie_price_111026/inbie_price_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-33ffe4d9f2a21a1027.htm": {
    "author": "חופש וטיולים",
