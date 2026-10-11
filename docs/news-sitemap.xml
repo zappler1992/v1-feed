@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d61be0d2aac21a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-11T20:38:46+00:00</news:publication_date>
+<news:title>צפו בתיעוד המטורף: החות&#x27;ים הפציצו את נמל התעופה בריאד - כשהנוסעים מחכים לעלות למטוס</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/11/V1_karind_saudia_7181_11102026083619_1400_1791751119326_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b2012628c8c21a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1610,14 +1619,5 @@
 <news:title>אחרי עסקת הסולר בין ארה&quot;ב לרוסיה: אוקראינה תקפה בית זיקוק במחוז רוסטוב</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/10/M_NEWS_17037_10102026034842_1400_1791604205934_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-42c5fcc674221a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T20:37:42+00:00</news:publication_date>
-<news:title>&quot;צריך להתפנות מהר!&quot;: תיעוד נוסף מרעידת האדמה החזקה בפנמה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/M_NEWS_17036_09102026083517_1400_1791578255972_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
