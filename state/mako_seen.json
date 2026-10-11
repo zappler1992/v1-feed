@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791706949288,
+ "last_run_ms": 1791707249225,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10207,6 +10207,18 @@
    "section": "סלבס",
    "title": "יוצאת הריאליטי בזוגיות חדשה עם כוכב הרשת"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-004cb9ea3d921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791707187123,
+   "content_type": "article",
+   "first_seen_ms": 1791707187123,
+   "indexable": true,
+   "indexnow_ms": 1791707187123,
+   "published_ms": 1791706980000,
+   "section": "סלבס",
+   "title": "טעות גדולה, ענקית: הכוכבת הושפלה בחנות ולא נשארה חייבת"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-037052bd636f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11489,7 +11501,7 @@
    "indexnow_ms": 1791705266927,
    "published_ms": 1791704880000,
    "section": "כסף",
-   "title": "55% מהשכירים סיימו את הקיץ בלי יום חופשה אחד"
+   "title": "הדבר החריג שהופיע החודש בתלוש המשכורת של המון ישראלים"
   },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
@@ -14429,7 +14441,7 @@
    "indexnow_ms": 1791687987616,
    "published_ms": 1791687600000,
    "section": "HIX",
-   "title": "חשש קל לשיטפונות: המקומות שבהם עשוי לרדת גשם"
+   "title": "חשש קל לשיטפונות: המקומות בהם עשוי לרדת גשם"
   },
   "https://www.mako.co.il/hix-nature/Article-22eea8e258601a1026.htm": {
    "check_attempts": 1,
@@ -17777,7 +17789,7 @@
    "indexnow_ms": 1791701427580,
    "published_ms": 1791700860000,
    "section": "פלילים",
-   "title": "כמעט 300 מקרים: העונש לסייעת שהתעללה בפעוטות"
+   "title": "10 שנות מאסר לסייעת שהתעללה בפעוטות"
   },
   "https://www.mako.co.il/men-men_news/Article-377631ef4fcc0a1026.htm": {
    "check_attempts": 1,
@@ -21246,6 +21258,18 @@
    "published_ms": 1791466800000,
    "section": "ספורט",
    "title": "בצמרת הצ`מפיונשיפ: נחשף שכרו של סולומון"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-ce22c54080a21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791707249225,
+   "content_type": "article",
+   "first_seen_ms": 1791707249225,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791707100000,
+   "section": "ספורט",
+   "title": "\"רק 200? אתה משוגע?\": האוהד שחילק שטרות"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-d53f17f961d01a1026.htm": {
    "check_attempts": 1,
