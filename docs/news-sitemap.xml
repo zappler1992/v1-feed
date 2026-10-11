@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-64ca473414b21a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-11T14:02:35+00:00</news:publication_date>
+<news:title>רק הוודקה שרדה: הבר של הישראלים שנהרס ברעידת האדמה בפנמה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/11/SHIRA_PANMA_111026_M_1400_1791727348569_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-fcd781dfa3b21a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1457,23 +1466,5 @@
 <news:title>קדחת הנילוס מתפשטת: אלו הערים שבהן אותרו יתושות נגועות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/10/alona_fix_moskito_1400_1791621550327_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-a15e6838be021a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T14:14:25+00:00</news:publication_date>
-<news:title>תיעוד דרמטי מגואטמלה: מסוק התרסק באגם ממש מול המצלמות, 5 חולצו ו-2 נעדרים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/V1_SHIR_HELICOPTER_7101_09102026021304_1400_1791555258693_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d75c6838be021a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T14:12:35+00:00</news:publication_date>
-<news:title>עופר וינטר עולה להתקפה: &quot;אם לא יהיה חוק גיוס, ביבי יכול לקפוץ לי&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/V1_NOAY_WINTER_091026_1_7100_09102026021100_1400_1791555148829_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
