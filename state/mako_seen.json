@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791744748688,
+ "last_run_ms": 1791745048686,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1174,6 +1174,18 @@
    "published_ms": 1791724020000,
    "section": "ספורט",
    "title": "\"ההחלטה על חזרת היורוליג תתקבל בקרוב\""
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-533da14f84c21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791744987246,
+   "content_type": "article",
+   "first_seen_ms": 1791744987246,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791744900000,
+   "section": "ספורט",
+   "title": "צפו: מה אמרו שחקני מכבי להנהלת היורוליג?"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-55e822593dc01a1027.htm": {
    "check_attempts": 1,
@@ -6740,6 +6752,18 @@
    "published_ms": 1791655440000,
    "section": "ספורט",
    "title": "המספרים: כמה קהל הגיע לכל מגרש השבת?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-eaa2e1d444c21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791744987246,
+   "content_type": "article",
+   "first_seen_ms": 1791744987246,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791744840000,
+   "section": "ספורט",
+   "title": "חתך את כל ההגנה: מסירת האומן של שועה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ed577cc1dc021a1026.htm": {
    "check_attempts": 1,
@@ -16638,6 +16662,18 @@
    "published_ms": 1791450360000,
    "section": "הורים",
    "title": "\"אשתי תפסה אותי בוגד עם אשתו של השכן\""
+  },
+  "https://www.mako.co.il/home-family-toddlers/Article-9b7302ed7fb21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-education/2026_q4/Article-9b7302ed7fb21a1027.htm",
+   "checked_ms": 1791744987246,
+   "content_type": "article",
+   "first_seen_ms": 1791744987246,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791744000000,
+   "section": "",
+   "title": "פעוטות יצאו ללא השגחה ממעון - ונמצאו במרחק קילומטר"
   },
   "https://www.mako.co.il/home-family-toddlers/Article-c33086b6e56e0a1026.htm": {
    "check_attempts": 1,
