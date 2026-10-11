@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-fcd781dfa3b21a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-11T13:57:28+00:00</news:publication_date>
+<news:title>מחאה למען מערכת חינוך טובה יותר? הסטודנטים בצרפת מניפים דגלי פלסטין וסוריה - בלי דגל צרפתי אחד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/11/V1_KARIND_FRANCE_7161_11102026015558_1400_1791727041523_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0d2d25542b21a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1475,14 +1484,5 @@
 <news:title>עינב בובליל חושפת באומץ: לקחתי כדורים בגלל התקפי חרדה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/09/SHIR_EINAV_091026_1400_1791554702898_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-354e6ab9ee021a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T13:59:12+00:00</news:publication_date>
-<news:title>המחאות בפריז מסלימות: עימותים אלימים בין שוטרים למפגינים בכיכר הבסטיליה המפורסמת בעיר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/V1_NOAY_PARIS_091026_7099_09102026015746_1400_1791554346473_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
