@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ce9f71e95b921a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e06371e95b921a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-220271e95b921a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6089,7 +6090,8 @@
    "importance": 0,
    "published_ms": 1791692463000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "באמצע הפודקאסט הראשון שלהם: כוכבת חתונמי רינת כץ התארסה לבן זוגה ברק זהבי, אחרי 9 חודשי זוגיות",
    "type": "mivzakim",
@@ -53412,6 +53414,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ee87c49f8921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_ETZEMZARCAMERA_7151_11102026060340/V1_ETZEMZARCAMERA_7151_11102026060340_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-220271e95b921a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "17 שוהים בלתי חוקיים שהסתתרו בשטח חקלאי וניסו לחצות לישראל נעצרו הלילה באזור מעבר תרקומיא",
+   "duration_s": 9,
+   "first_seen_ms": 1791701846473,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17099_11102026065024_1400_1791701501843_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791701508000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "17 שוהים בלתי חוקיים שהסתתרו בשטח חקלאי וניסו לחצות לישראל נעצרו הלילה באזור מעבר תרקומיא",
+   "type": "mivzakim",
+   "updated_ms": 1791701508000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-220271e95b921a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17099_11102026065024/M_NEWS_17099_11102026065024_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-59846ad68a921a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -53591,6 +53611,24 @@
    "updated_ms": 1791693144000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dde860e993921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17086_11102026043052/M_NEWS_17086_11102026043052_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e06371e95b921a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יו\"ר הכנסת אוחנה, שר החוץ סער וח\"כ גוטליב הגיעו לעדות מנדלבליט במשפט נתניהו",
+   "duration_s": 5,
+   "first_seen_ms": 1791701846473,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17100_11102026065101_1400_1791701530087_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791701536000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יו\"ר הכנסת אוחנה, שר החוץ סער וח\"כ גוטליב הגיעו לעדות מנדלבליט במשפט נתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1791701536000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e06371e95b921a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17100_11102026065101/M_NEWS_17100_11102026065101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0b5542b2e821a1027.htm": {
    "author": "מבזקים",
