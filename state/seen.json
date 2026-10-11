@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-d49c70d8b8721a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-08836cc371721a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -3832,7 +3832,8 @@
    "importance": 1,
    "published_ms": 1791646516000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "החופשה הלוהטת של רותם סלע",
    "type": "general",
@@ -24351,6 +24352,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-071fa2a5fc411a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/SHIR_MISTAKE_071026/SHIR_MISTAKE_071026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-08836cc371721a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "בעקבות המתקפה על נמל התעופה הבינלאומי בריאד, נשיא ארה\"ב דונלד טראמפ לא שולל הצטרפות לתקיפות הסעודיות נגד החות'ים בתימן: \"ייתכן שכן, אנחנו נגיע להחלטה במהירות\"",
+   "duration_s": 52,
+   "first_seen_ms": 1791680245843,
+   "image": "https://img.mako.co.il/2026/10/10/yoav_trump_101026_1400_1791658140149_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791665940000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "טראמפ שוקל לתקוף בתימן",
+   "type": "news",
+   "updated_ms": 1791665940000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-08836cc371721a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/yoav_trump_101026/MASTER/yoav_trump_101026/yoav_trump_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-0a8823bfed701a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -24455,7 +24474,8 @@
    "importance": 2,
    "published_ms": 1791655417000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "דונלד טראמפ מחמיא לעצמו וטוען: \"אני אדם בעל אי קיו גבוה מאוד\"",
    "type": "news",
