@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791724648783,
+ "last_run_ms": 1791724948891,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6200,6 +6200,18 @@
    "published_ms": 1790955180000,
    "section": "ספורט",
    "title": "על המדף: הישראלים החופשיים שללא קבוצה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8d708edaa1b21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791724948891,
+   "content_type": "article",
+   "first_seen_ms": 1791724948891,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791724620000,
+   "section": "ספורט",
+   "title": "בלי מו\"מ: מה היה בין דסה למכבי ת\"א בקיץ?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8f60c0c633921a1026.htm": {
    "check_attempts": 1,
