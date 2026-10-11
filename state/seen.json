@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-23dd6e62e5a21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-23d8a90c38a21a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3e8451818a21a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f98451818a21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -53616,6 +53618,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-220271e95b921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17099_11102026065024/M_NEWS_17099_11102026065024_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-23d8a90c38a21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "109 הרוגים, בהם 15 ילדים, ומעל ל-116 נעדרים בטביעת ספינה ליד ג'יבוטי",
+   "duration_s": 9,
+   "first_seen_ms": 1791714745916,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17115_11102026102937_1400_1791714658018_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791714665000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "109 הרוגים, בהם 15 ילדים, ומעל ל-116 נעדרים בטביעת ספינה ליד ג'יבוטי",
+   "type": "mivzakim",
+   "updated_ms": 1791714665000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-23d8a90c38a21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17115_11102026102937/M_NEWS_17115_11102026102937_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2909c54080a21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -53687,6 +53707,24 @@
    "updated_ms": 1791697101000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-59cceedb57921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_SAUDI_7149_11102026053650/V1_SAUDI_7149_11102026053650_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f98451818a21a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מנדלבליט הודה בחקירתו שלא בדק את 315 הכתבות של וואלה שצורפו לכתב האישום לא עבר על הנספח במלואו",
+   "duration_s": 4,
+   "first_seen_ms": 1791714745916,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17114_11102026102915_1400_1791714621815_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791714628000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מנדלבליט הודה בחקירתו שלא בדק את 315 הכתבות של וואלה שצורפו לכתב האישום לא עבר על הנספח במלואו",
+   "type": "mivzakim",
+   "updated_ms": 1791714628000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f98451818a21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17114_11102026102915/M_NEWS_17114_11102026102915_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-639f4dad8d821a1026.htm": {
    "author": "מבזקים",
@@ -53813,6 +53851,24 @@
    "updated_ms": 1791701438000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ce9f71e95b921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17097_11102026064901/M_NEWS_17097_11102026064901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3e8451818a21a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "באיראן מדווחים כי משמרות המהפכה שיגרו לפני זמן קצר 30 טילים בליסטיים למטרות ניסוי",
+   "duration_s": 2,
+   "first_seen_ms": 1791714745916,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17116_11102026102957_1400_1791714650053_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791714656000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "באיראן מדווחים כי משמרות המהפכה שיגרו לפני זמן קצר 30 טילים בליסטיים למטרות ניסוי",
+   "type": "mivzakim",
+   "updated_ms": 1791714656000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3e8451818a21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17116_11102026102957/M_NEWS_17116_11102026102957_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d60a8e1ab4921a1026.htm": {
    "author": "מבזקים",
