@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791710787367,
+ "last_run_ms": 1791711148385,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -778,6 +778,18 @@
    "published_ms": 1791487875000,
    "section": "Fashion Forward",
    "title": "דבר אחד בטוח: הסניקרס האלה עומדות להימכר בערימות"
+  },
+  "https://fashionforward.mako.co.il/news/321523/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791710907392,
+   "content_type": "article",
+   "first_seen_ms": 1791710907392,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791710489000,
+   "section": "Fashion Forward",
+   "title": "עם החברה החדשה של אבא עמוס: אור לוזון הגיעה לחתונה האיטלקית הזאת בלוק משתק"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -9678,6 +9690,18 @@
    "published_ms": 1791449280000,
    "section": "סלבס",
    "title": "אחרי שנחשף ההיריון: כך נתפסה דניאלה פיק בתל אביב"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-76c045dea2a21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791710907392,
+   "content_type": "article",
+   "first_seen_ms": 1791710907392,
+   "indexable": true,
+   "indexnow_ms": 1791710907392,
+   "published_ms": 1791708720000,
+   "section": "סלבס",
+   "title": "\"כשאנחנו מתכנסים לרגע אינטימי אני בחרדה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-76d2b120fa601a1027.htm": {
    "check_attempts": 1,
@@ -24115,6 +24139,18 @@
    "section": "צבא וביטחון",
    "title": "לא צפוי: האירוע שמביך את הצבא הגדול בעולם"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-fee4e642d3a21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791711148385,
+   "content_type": "article",
+   "first_seen_ms": 1791711148385,
+   "indexable": true,
+   "indexnow_ms": 1791711148385,
+   "published_ms": 1791710520000,
+   "section": "צבא וביטחון",
+   "title": "איראן לא מסתפקת בטילים: הזירה שחוזרת לתמונה"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-ffda2506f5d01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27054,6 +27090,18 @@
    "published_ms": 1790155320000,
    "section": "חופש",
    "title": "בניגוד לכל העולם - המדינה שמצביעה תמיד בעד ישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-ec6be9dbee921a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791711027411,
+   "content_type": "article",
+   "first_seen_ms": 1791711027411,
+   "indexable": true,
+   "indexnow_ms": 1791711027411,
+   "published_ms": 1791709560000,
+   "section": "חופש",
+   "title": "\"חשכו עיניי, גנבו לי תכשיטים מהמזוודה ופיזרו הכל\""
   },
   "https://www.mako.co.il/travel-news/international/Article-efe7af326c411a1027.htm": {
    "check_attempts": 1,
