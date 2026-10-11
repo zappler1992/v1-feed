@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-bffe6ad68a921a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-875729bc8f921a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a2765af1e921a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25939,6 +25940,24 @@
    "updated_ms": 1791703996000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0c9db965ed921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/rinat_yokeramichya_111026/MASTER/rinat_yokeramichya_111026_m/rinat_yokeramichya_111026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a2765af1e921a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 37,
+   "first_seen_ms": 1791706046650,
+   "image": "https://img.mako.co.il/2026/10/11/SHIR_TAXI_111026_1400_1791704264227_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791704271000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "נהג המונית מפחיד אתכם?  עכשיו יש פתרון",
+   "type": "news",
+   "updated_ms": 1791704340000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a2765af1e921a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_TAXI_111026/MASTER/SHIR_TAXI_111026/SHIR_TAXI_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-89acebae1a921a1027.htm": {
    "author": "חדשות",
@@ -53593,6 +53612,24 @@
    "updated_ms": 1791691362000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-71df74be20921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_MEZEGGGG_7144_11102026040042/V1_MEZEGGGG_7144_11102026040042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-875729bc8f921a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "12 רימוני מטול ו-12 קופסאות תחמושת אותרו על ידי לוחמי מג״ב חוף במהלך פעילות יזומה בשטח פתוח סמוך ליר",
+   "duration_s": 9,
+   "first_seen_ms": 1791706046650,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17107_11102026080136_1400_1791705790040_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791705796000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "12 רימוני מטול ו-12 קופסאות תחמושת אותרו על ידי לוחמי מג״ב חוף במהלך פעילות יזומה בשטח פתוח סמוך ליר",
+   "type": "mivzakim",
+   "updated_ms": 1791705796000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-875729bc8f921a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17107_11102026080136/M_NEWS_17107_11102026080136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b1614f1008921a1026.htm": {
    "author": "מבזקים",
