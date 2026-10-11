@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0c9db965ed921a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -25935,6 +25937,22 @@
    "updated_ms": 1791700440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-89acebae1a921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_COSMETICS_111026_FIX/SHIR_COSMETICS_111026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1791704846567,
+   "image": "https://img.mako.co.il/2026/10/11/LIRONNEXTM_1400_1791704334582_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791704340000,
+   "sections": [],
+   "title": "אלו הכבישים שייחסמו בגלל מופעי NEXT",
+   "type": "news",
+   "updated_ms": 1791704460000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LIRONNEXTP/MASTER/LIRONNEXTM/LIRONNEXTM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
@@ -53411,6 +53429,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_weather0710_6966_07102026032058/V1_weather0710_6966_07102026032058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "באופן רשמי: פליי-דובאי מבטלת את כל הטיסות שלה לארץ עד סוף החודש",
+   "duration_s": 9,
+   "first_seen_ms": 1791704846567,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17105_11102026074153_1400_1791704610600_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791704617000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "באופן רשמי: פליי-דובאי מבטלת את כל הטיסות שלה לארץ עד סוף החודש",
+   "type": "mivzakim",
+   "updated_ms": 1791704617000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17105_11102026074153/M_NEWS_17105_11102026074153_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ee87c49f8921a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -53421,7 +53457,8 @@
    "importance": 0,
    "published_ms": 1791698722000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "תעלומה בשמי הצפון: תיעוד העצם החשוד שחדר מלבנון והקפיץ את כל הגזרה",
    "type": "mivzakim",
@@ -64407,6 +64444,24 @@
    "updated_ms": 1791653340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-dca699399c621a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/keren_oryehuda_101026/MASTER/keren_oryehuda_101026/keren_oryehuda_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מי יהיה ראש הממשלה, האם טרופר בגד בו ולמה הוא רוצה להיות כמו ש\"ס: יועז הנדל מגיע לאמת או חובה",
+   "duration_s": 100,
+   "first_seen_ms": 1791704846567,
+   "image": "https://img.mako.co.il/2026/10/08/DANIEL_YOAZ_081026_1400_1791458946227_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791704340000,
+   "sections": [
+    "בחירות 2026"
+   ],
+   "title": "אמת או חובה: יועז הנדל",
+   "type": "general",
+   "updated_ms": 1791704340000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/DANIEL_YOAZ_081026/MASTER/DANIEL_YOAZ_081026/DANIEL_YOAZ_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
