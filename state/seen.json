@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7def5bb3d9a21a1027.htm",
+  "https://www.v-1.co.il/food-magazine/2026-m10_w03/shorts-1a5f6e62e5a21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8714,6 +8715,24 @@
    "updated_ms": 1791127800000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m10_w02/shorts-6d5c57e1e2701a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/rinat_eggss_041026/MASTER/rinat_eggss_041026_m/rinat_eggss_041026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m10_w03/shorts-1a5f6e62e5a21a1027.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "מחממים אוכל במיקרוגל והוא יוצא רותח מבחוץ וקר מבפנים? יכול להיות\nשאתם פשוט עושים את זה לא נכון. הסידור הנכון של האוכל, כיסוי הצלחת וכמה שינויים קטנים\nבתהליך החימום יכולים לעזור לכם לקבל מנה חמה ואחידה יותר.",
+   "duration_s": 40,
+   "first_seen_ms": 1791716845984,
+   "image": "https://img.mako.co.il/2026/10/11/Kim_Micro_11102026_1400_1791712696894_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791712703000,
+   "sections": [
+    "אוכל"
+   ],
+   "title": "האוכל יוצא קר מבפנים? כך תחממו אותו נכון במיקרוגל",
+   "type": "general",
+   "updated_ms": 1791712703000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m10_w03/shorts-1a5f6e62e5a21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/Kim_Micro_11102026/MASTER/Kim_Micro_11102026/Kim_Micro_11102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m04_w01/shorts-51ef9d3fcfc4d91027.htm": {
    "author": "מהעולם",
@@ -53779,6 +53798,24 @@
    "updated_ms": 1791691362000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-71df74be20921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_MEZEGGGG_7144_11102026040042/V1_MEZEGGGG_7144_11102026040042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7def5bb3d9a21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דם על החליפה: פקחית הותקפה באלימות במהלך ביקורת באוטובוס בנתניה על ידי נוסע שלא תיקף את נסיעתו",
+   "duration_s": 9,
+   "first_seen_ms": 1791716845984,
+   "image": "https://img.mako.co.il/2026/10/11/V1_BUS_7158_11102026110342_1400_1791716713864_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791716720000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דם על החליפה: פקחית הותקפה באלימות במהלך ביקורת באוטובוס בנתניה על ידי נוסע שלא תיקף את נסיעתו",
+   "type": "mivzakim",
+   "updated_ms": 1791716720000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7def5bb3d9a21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_BUS_7158_11102026110342/V1_BUS_7158_11102026110342_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-875729bc8f921a1027.htm": {
    "author": "מבזקים",
