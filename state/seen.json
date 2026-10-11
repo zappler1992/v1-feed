@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9dc2df94e8a21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6144,7 +6144,8 @@
    "importance": 0,
    "published_ms": 1791705571000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "כוכב \"שקרניות קטנות\" קיגן אלן נשדד באיומי אקדח וסכין: \"איימו להרוג אותי\"",
    "type": "mivzakim",
@@ -26078,7 +26079,8 @@
    "importance": 2,
    "published_ms": 1791704340000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "אלו הכבישים שייחסמו בגלל מופעי NEXT",
    "type": "news",
@@ -54012,6 +54014,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e44f451818a21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17119_11102026103931/M_NEWS_17119_11102026103931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגיל 77: ד\"ר יצחק ברלוביץ, מנהל וולפסון לשעבר וממקדמי חוק ביטוח בריאות, הלך לעולמו אמש.",
+   "duration_s": 9,
+   "first_seen_ms": 1791716545947,
+   "image": "https://img.mako.co.il/2026/10/11/V1_YitzhakB_7157_11102026105530_1400_1791716243633_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791716250000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגיל 77: ד\"ר יצחק ברלוביץ, מנהל וולפסון לשעבר וממקדמי חוק ביטוח בריאות, הלך לעולמו אמש.",
+   "type": "mivzakim",
+   "updated_ms": 1791716250000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_YitzhakB_7157_11102026105530/V1_YitzhakB_7157_11102026105530_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f37745dea2a21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -74703,7 +74723,8 @@
    "importance": 0,
    "published_ms": 1791707676000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "נזק כבד בנפאל: שיטפון ענק החריב עשרות בתים וגשרים במחוז גורקה. לפי שעה לא דווח על נפגעים.",
    "type": "mivzakim",
