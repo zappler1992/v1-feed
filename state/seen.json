@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-857132a97ea21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b093eeaeeea21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26115,7 +26115,9 @@
    "image": "https://img.mako.co.il/2026/10/11/SHIR_PHONE_111026_1400_1791723814053_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791723820000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "השיחות שדלפו לכאורה - מהטלפון של יונתן אוריך",
    "type": "news",
    "updated_ms": 1791723780000,
@@ -26157,6 +26159,24 @@
    "updated_ms": 1791700440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-89acebae1a921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_COSMETICS_111026_FIX/SHIR_COSMETICS_111026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b093eeaeeea21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "סרטונים של בני נוער שתוקפים עובדים זרים ועוברי אורח, מתעדים את המעשים ומעלים לרשת כדי לצבור צפיות ולייקים – תופעה מדאיגה שהולכת ומתרחבת.",
+   "duration_s": 66,
+   "first_seen_ms": 1791725546209,
+   "image": "https://img.mako.co.il/2026/10/11/SHIR_ALIMUT_111026_1_1400_1791722620717_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791722627000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "בועטים, תוקפים ומתעדים: האלימות של בני הנוער שהפכה לתוכן ברשת",
+   "type": "news",
+   "updated_ms": 1791722627000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b093eeaeeea21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_ALIMUT_111026_1/MASTER/SHIR_ALIMUT_111026_1/SHIR_ALIMUT_111026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bc59c24f51b21a1026.htm": {
    "author": "חדשות",

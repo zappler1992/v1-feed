@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791725249975,
+ "last_run_ms": 1791725548891,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1173,7 +1173,7 @@
    "indexnow_ms": null,
    "published_ms": 1791724020000,
    "section": "ספורט",
-   "title": "\"כולם מבינים שהמשחקים צריכים לחזור\""
+   "title": "\"ההחלטה על חזרת היורוליג תתקבל בקרוב\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-55e822593dc01a1027.htm": {
    "check_attempts": 1,
@@ -11321,7 +11321,7 @@
    "indexnow_ms": 1791702626723,
    "published_ms": 1791687600000,
    "section": "כסף",
-   "title": "לפני שכולם קונים: 10 מוצרים ששווה להכיר"
+   "title": "ראש בראש: המהלך של תנובה מול רותם סלע"
   },
   "https://www.mako.co.il/finances-consumer/Article-5c12ecb39d7c0a1027.htm": {
    "check_attempts": 1,
@@ -11934,6 +11934,18 @@
    "published_ms": 1789876080000,
    "section": "כסף",
    "title": "הוא מנכ\"ל ביום וכוכב טיקטוק בלילה ומסרב לכסף"
+  },
+  "https://www.mako.co.il/finances-news/Article-84f35bb3d9a21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791725427399,
+   "content_type": "article",
+   "first_seen_ms": 1791725427399,
+   "indexable": true,
+   "indexnow_ms": 1791725427399,
+   "published_ms": 1791716880000,
+   "section": "כסף",
+   "title": "הסיבה לפקקי הענק שצפויים השבוע"
   },
   "https://www.mako.co.il/finances-news/Article-89da5af68dbe0a1027.htm": {
    "check_attempts": 1,
@@ -15365,7 +15377,7 @@
    "indexnow_ms": 1791717448769,
    "published_ms": 1791717300000,
    "section": "HIX",
-   "title": "בן שנתיים ביקר את אביו בבית הכלא, זה נגמר בצורה קשה"
+   "title": "בן שנתיים ביקר את אביו בכלא – ונורה למוות"
   },
   "https://www.mako.co.il/hix-special/Article-4af26b9328a01a1026.htm": {
    "check_attempts": 1,
@@ -28458,6 +28470,18 @@
    "published_ms": 1791342000000,
    "section": "",
    "title": "\"ילדה של מסיבות זאת ילדה לא טובה?\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-261e6b95bdfc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791725307391,
+   "content_type": "article",
+   "first_seen_ms": 1791725307391,
+   "indexable": true,
+   "indexnow_ms": 1791725307391,
+   "published_ms": 1791725160000,
+   "section": "הכי חם",
+   "title": "\"נראה לי שג'ודי פחות בקטע של לבשל\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-36695df6766f0a1027.htm": {
    "check_attempts": 1,
