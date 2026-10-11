@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-639f4dad8d821a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-1696e86645721a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0b5542b2e821a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cd35542b2e821a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -53375,6 +53375,42 @@
    "updated_ms": 1791688712000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-639f4dad8d821a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17082_11102026031654/M_NEWS_17082_11102026031654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cd35542b2e821a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סעודיה דיווחה הלילה על פגיעה של החות׳ים גם באזור שדה התעופה הבינלאומי המלך פהד בא-דמאם במזרח המדינה",
+   "duration_s": 10,
+   "first_seen_ms": 1791689246071,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17083_11102026032207_1400_1791688999531_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791689005000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סעודיה דיווחה הלילה על פגיעה של החות׳ים גם באזור שדה התעופה הבינלאומי המלך פהד בא-דמאם במזרח המדינה",
+   "type": "mivzakim",
+   "updated_ms": 1791689005000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cd35542b2e821a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17083_11102026032207/M_NEWS_17083_11102026032207_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0b5542b2e821a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תקף הלילה ברצועת עזה",
+   "duration_s": 8,
+   "first_seen_ms": 1791689246071,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17084_11102026032223_1400_1791689019150_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791689025000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל תקף הלילה ברצועת עזה",
+   "type": "mivzakim",
+   "updated_ms": 1791689025000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0b5542b2e821a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17084_11102026032223/M_NEWS_17084_11102026032223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
