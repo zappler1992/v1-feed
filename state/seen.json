@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-dbe69a374ab21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26104,6 +26104,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-ffc046575b211a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/SHIRA_DVORI_061026/MASTER/SHIRA_DVORI_061026_M/SHIRA_DVORI_061026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "עמית סגל מדבר על השיחות שהודלפו מתוך הווטסאפ של יונתן אוריך - יועץ ראש הממשלה",
+   "duration_s": 95,
+   "first_seen_ms": 1791737246497,
+   "image": "https://img.mako.co.il/2026/10/11/SHIRA_AMIT_111026_M_1400_1791736948307_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791736955000,
+   "sections": [],
+   "title": "הווטסאפ של אוריך: עמית סגל על השיחות שלו שדלפו עם יועץ ראש הממשלה",
+   "type": "news",
+   "updated_ms": 1791736955000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIRA_AMIT_111026/MASTER/SHIRA_AMIT_111026_M/SHIRA_AMIT_111026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0c9db965ed921a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26351,7 +26367,9 @@
    "image": "https://img.mako.co.il/2026/10/11/inbie_orich_111026_1400_1791733181291_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791733187000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "הפריצה לנייד של אוריך: איך זה קרה - ומה יש בשיחות שדלפו",
    "type": "news",
    "updated_ms": 1791734100000,
