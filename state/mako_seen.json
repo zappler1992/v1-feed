@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791709648377,
+ "last_run_ms": 1791709948502,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11513,7 +11513,7 @@
    "indexnow_ms": 1791709049341,
    "published_ms": 1791708360000,
    "section": "כסף",
-   "title": "הבנק הישראלי שמפטר כ-10% מהעובדים - והסיבה לכך"
+   "title": "לא רק בהייטק: הבנק הישראלי מפטר 10% מעובדיו"
   },
   "https://www.mako.co.il/finances-news/Article-447eb78ccadc0a1027.htm": {
    "check_attempts": 1,
@@ -14730,6 +14730,18 @@
    "published_ms": 1790564400000,
    "section": "",
    "title": "האזור שבו צפוי היום גשם - והיום שבו הוא יגיע גם למרכז"
+  },
+  "https://www.mako.co.il/hix-nature/Article-eec67c6cd2a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791709827315,
+   "content_type": "article",
+   "first_seen_ms": 1791709827315,
+   "indexable": true,
+   "indexnow_ms": 1791709827315,
+   "published_ms": 1791709680000,
+   "section": "HIX",
+   "title": "רקד מול הגדר, ביקש תמונה – ואז התפרץ למתחם"
   },
   "https://www.mako.co.il/hix-nature/Article-f2f2fc5ab4111a1027.htm": {
    "check_attempts": 1,
@@ -19662,6 +19674,18 @@
    "published_ms": 1790664240000,
    "section": "פלילים",
    "title": "שוחרר מהכלא אחרי 12 שנה - וזה מה שנתפס בביתו"
+  },
+  "https://www.mako.co.il/men-men_news/Article-f200e4d9f2a21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791709948502,
+   "content_type": "article",
+   "first_seen_ms": 1791709948502,
+   "indexable": true,
+   "indexnow_ms": 1791709948502,
+   "published_ms": 1791709620000,
+   "section": "פלילים",
+   "title": "המלחמה בין ארגוני הפשע נמשכת: \"מישהו ימות\""
   },
   "https://www.mako.co.il/men-men_news/Article-f2838b71b7de0a1027.htm": {
    "check_attempts": 1,
