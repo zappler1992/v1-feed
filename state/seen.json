@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b9902c18e6b21a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc7c59cf86b21a1027.htm"
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w03/shorts-3f69ca53f8921a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bfebb3c974b21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -754,6 +754,24 @@
    "updated_ms": 1791471420000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w02/shorts-6b34820efe911a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/Amit_AVINATAN_60/MASTER/Amit_AVINATAN_60_Mm/Amit_AVINATAN_60_Mm_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w03/shorts-3f69ca53f8921a1026.htm": {
+   "author": "60 שניות",
+   "date_source": "json-publishDate",
+   "description": "השחקן וזוכה ״רוקדים עם כוכבים״ אמיר בנאי הגיע לראיון ב-60 שניות עם ליאל אלי: האם הוא גאה בעצמו? על הקשר המורכב עם אמא אורנה והאם יש קנאה בזוגיות שלו עם השחקנית נועה?",
+   "duration_s": 95,
+   "first_seen_ms": 1791731547532,
+   "image": "https://img.mako.co.il/2026/10/11/AMIT_AMIRR_111026_1400_1791698726056_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791730980000,
+   "sections": [
+    "60 שניות"
+   ],
+   "title": "60 שניות עם אמיר בנאי",
+   "type": "general",
+   "updated_ms": 1791730980000,
+   "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w03/shorts-3f69ca53f8921a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/AMIT_AMIRR_111026/MASTER/AMIT_AMIRR_111026/AMIT_AMIRR_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm": {
    "author": "בקצב השקר",
@@ -26249,6 +26267,24 @@
    "updated_ms": 1791729060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bc59c24f51b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/NOAB_BORISS_111026_M/MASTER/NOAB_BORISS_111026_M/NOAB_BORISS_111026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bfebb3c974b21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791731547532,
+   "image": "https://img.mako.co.il/2026/10/11/biata_kfas_111026_1400_1791727798381_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791727804000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "עם חרב סמוראים: אירוע האלימות בכפר סבא",
+   "type": "news",
+   "updated_ms": 1791727804000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bfebb3c974b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/biata_kfas_111026/MASTER/biata_kfas_111026/biata_kfas_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm": {
    "author": "חדשות",
