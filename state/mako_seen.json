@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791699149605,
+ "last_run_ms": 1791699450001,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8323,6 +8323,18 @@
    "section": "תרבות tvbee",
    "title": "השחקנית מדברת על \"הטראומה הכי גדולה\""
   },
+  "https://www.mako.co.il/culture-articles/Article-26f4cce406921a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791699267435,
+   "content_type": "article",
+   "first_seen_ms": 1791699267435,
+   "indexable": true,
+   "indexnow_ms": 1791699267435,
+   "published_ms": 1791698820000,
+   "section": "תרבות tvbee",
+   "title": "\"חוויתי התעללות בפלייבוי, אל תשתתפי בסרט\""
+  },
   "https://www.mako.co.il/culture-articles/Article-27750fc1e64d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16603,6 +16615,42 @@
    "section": "+12",
    "title": ""
   },
+  "https://www.mako.co.il/mako-vod-keshet/mkr_israel-vip5": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/mako-vod-keshet/mkr_israel",
+   "checked_ms": 1791699387440,
+   "content_type": "channel",
+   "first_seen_ms": 1791699387440,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "+12",
+   "title": ""
+  },
+  "https://www.mako.co.il/mako-vod-keshet/the_escape": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791699267435,
+   "content_type": "channel",
+   "first_seen_ms": 1791699267435,
+   "indexable": true,
+   "indexnow_ms": 1791699267435,
+   "published_ms": null,
+   "section": "+12",
+   "title": ""
+  },
+  "https://www.mako.co.il/mako-vod-keshet/who_wants_to_start": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791699267435,
+   "content_type": "channel",
+   "first_seen_ms": 1791699267435,
+   "indexable": true,
+   "indexnow_ms": 1791699267435,
+   "published_ms": null,
+   "section": "+12",
+   "title": ""
+  },
   "https://www.mako.co.il/makoz-extra/Article-053b95fed58c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19529,7 +19577,7 @@
    "indexnow_ms": 1791693506999,
    "published_ms": 1791693240000,
    "section": "מוזיקה",
-   "title": "ההחלטה הקשה של הזמר האגדי בעקבות מצבו הרפואי"
+   "title": "כוכב הרוק דוחה הופעות בגלל מצבו הרפואי"
   },
   "https://www.mako.co.il/music-news/Article-0f4d7c9e662f0a1026.htm": {
    "check_attempts": 1,
