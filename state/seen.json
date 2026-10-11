@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d02f392cc5b21a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-360bb3c974b21a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b9902c18e6b21a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc7c59cf86b21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54141,6 +54141,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b8ab8e1ab4921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/beersheba_mfix/beersheba_mfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b9902c18e6b21a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל חושף תיעודים של מחבלים חמושים בבית החולים ׳כמאל עדואן׳ שממשיך לשמש כמוקד פעילות של חמאס",
+   "duration_s": 19,
+   "first_seen_ms": 1791730946336,
+   "image": "https://img.mako.co.il/2026/10/11/M_NEWS_17128_11102026025854_1400_1791730823800_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791730830000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל חושף תיעודים של מחבלים חמושים בבית החולים ׳כמאל עדואן׳ שממשיך לשמש כמוקד פעילות של חמאס",
+   "type": "mivzakim",
+   "updated_ms": 1791730830000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b9902c18e6b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17128_11102026025854/M_NEWS_17128_11102026025854_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c41bb61f92b21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -54158,6 +54176,24 @@
    "updated_ms": 1791725715000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c41bb61f92b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_KARIND_HAMAS_7160_11102026013348/V1_KARIND_HAMAS_7160_11102026013348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc7c59cf86b21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זלנסקי: \"ההודעה הינה הפתעה עבורי. אם רוסיה תסכים להפסקת אש בתחום האנרגיה - גם אוקראינה תסכים\"",
+   "duration_s": 9,
+   "first_seen_ms": 1791730946336,
+   "image": "https://img.mako.co.il/2026/10/11/V1_karind_zelensky_7166_11102026025444_1400_1791730564025_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791730570000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זלנסקי: \"ההודעה הינה הפתעה עבורי. אם רוסיה תסכים להפסקת אש בתחום האנרגיה - גם אוקראינה תסכים\"",
+   "type": "mivzakim",
+   "updated_ms": 1791730570000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc7c59cf86b21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_zelensky_7166_11102026025444/V1_karind_zelensky_7166_11102026025444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cd35542b2e821a1027.htm": {
    "author": "מבזקים",
