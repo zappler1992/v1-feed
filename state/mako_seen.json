@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791703049116,
+ "last_run_ms": 1791703349112,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6164,6 +6164,18 @@
    "published_ms": 1791656580000,
    "section": "ספורט",
    "title": "תחטוף טכני? הפועל פ\"ת שיתפה 12 שחקנים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a33cb9ea3d921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791703349112,
+   "content_type": "article",
+   "first_seen_ms": 1791703349112,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791702960000,
+   "section": "ספורט",
+   "title": "צפו בשידור: ברק בכר מדבר לקראת הפועל י-ם"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a442dd95a7421a1027.htm": {
    "check_attempts": 1,
@@ -12451,6 +12463,18 @@
    "section": "",
    "title": "ככה עושים את זה: בצלים ממולאים כמו של מסעדה"
   },
+  "https://www.mako.co.il/food-cooking_magazine/flavors-do-it-yourself/Recipe-03c2ee5f93e9051006.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791703349112,
+   "content_type": "recipe",
+   "first_seen_ms": 1791703349112,
+   "indexable": true,
+   "indexnow_ms": 1791703349112,
+   "published_ms": 1791702900000,
+   "section": "",
+   "title": "איך כובשים זיתים בבית? מדריך"
+  },
   "https://www.mako.co.il/food-cooking_magazine/healthy-recipes/Recipe-db8b76a28310a41006.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/food-recipes/recipes_column-healthy/Recipe-db8b76a28310a41006.htm",
@@ -18630,6 +18654,18 @@
    "published_ms": 1791315960000,
    "section": "",
    "title": "עבריין מוכר מהשרון נמלט לאזרבייג'אן"
+  },
+  "https://www.mako.co.il/men-men_news/Article-9cfb0c7dac921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791703226782,
+   "content_type": "article",
+   "first_seen_ms": 1791703226782,
+   "indexable": true,
+   "indexnow_ms": 1791703226782,
+   "published_ms": 1791702660000,
+   "section": "פלילים",
+   "title": "\"לא מעכלים את האסון\": הצעיר נהרג מפליטת כדור של אחיו"
   },
   "https://www.mako.co.il/men-men_news/Article-9da0bd272c4d0a1027.htm": {
    "check_attempts": 1,
