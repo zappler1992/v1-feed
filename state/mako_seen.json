@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791749248749,
+ "last_run_ms": 1791749548847,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1258,6 +1258,18 @@
    "published_ms": 1791631500000,
    "section": "ספורט",
    "title": "מתחת לאף: היהלומים שמסתתרים בליגת העל"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-f1ad0a254db21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791749548847,
+   "content_type": "article",
+   "first_seen_ms": 1791749548847,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791749340000,
+   "section": "ספורט",
+   "title": "ככה פותחים עונה: 69:92 לי-ם על חולון"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-fa909c026b121a1027.htm": {
    "check_attempts": 1,
@@ -19937,7 +19949,7 @@
    "indexnow_ms": 1791726267445,
    "published_ms": 1791725880000,
    "section": "פלילים",
-   "title": "\"כן יש לי שניים לשחיטה, סמוך עליי\""
+   "title": "מתקפה בכלא: \"כן יש לי שניים לשחיטה, סמוך עליי\""
   },
   "https://www.mako.co.il/men-men_news/Article-c40349520a501a1027.htm": {
    "check_attempts": 1,
@@ -25301,7 +25313,7 @@
    "indexnow_ms": null,
    "published_ms": 1791745080000,
    "section": "",
-   "title": "בנט: \"אם יקבל את קווי היסוד נתניהו יוכל להיות שר\""
+   "title": "בנט: \"אין לי בעיה שנתניהו יהיה שר בממשלה שלנו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-331f462afdde0a1027.htm": {
    "check_attempts": 1,
@@ -27162,6 +27174,18 @@
    "published_ms": 1790848020000,
    "section": "",
    "title": "\"שמענו יריות וראינו את נהג המונית מת\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-2fbba14f84c21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791749548847,
+   "content_type": "article",
+   "first_seen_ms": 1791749548847,
+   "indexable": true,
+   "indexnow_ms": 1791749548847,
+   "published_ms": 1791749400000,
+   "section": "",
+   "title": "בהלה בטיסה: מטען נייד עלה באש בתא המטען"
   },
   "https://www.mako.co.il/travel-news/international/Article-31ca95475ea11a1026.htm": {
    "check_attempts": 1,
