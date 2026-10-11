@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a3b1b3c974b21a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26222,7 +26222,8 @@
    "importance": 1,
    "published_ms": 1791724291000,
    "sections": [
-    "רק בישראל"
+    "רק בישראל",
+    "הכי Vיראלים"
    ],
    "title": "בוריס איבד את רגלו - וסיים איירון מן!",
    "type": "news",
@@ -53868,6 +53869,24 @@
    "updated_ms": 1791703537000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4522f7f44d921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17103_11102026072411/M_NEWS_17103_11102026072411_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"הפסקת אש אנרגטית במלחמה בין רוסיה לאוקראינה - החלה באופן מיידי. אל תפרו אותה!\"",
+   "duration_s": 9,
+   "first_seen_ms": 1791728846320,
+   "image": "https://img.mako.co.il/2026/10/11/V1_karind_trump_7163_11102026022256_1400_1791728648952_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791728655000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"הפסקת אש אנרגטית במלחמה בין רוסיה לאוקראינה - החלה באופן מיידי. אל תפרו אותה!\"",
+   "type": "mivzakim",
+   "updated_ms": 1791728655000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_trump_7163_11102026022256/V1_karind_trump_7163_11102026022256_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-59846ad68a921a1026.htm": {
    "author": "מבזקים",
