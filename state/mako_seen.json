@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791717148593,
+ "last_run_ms": 1791717448769,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -813,7 +813,7 @@
    "indexnow_ms": null,
    "published_ms": 1791715812000,
    "section": "Fashion Forward",
-   "title": "במיני קצרצר ומכנסי עור צמודים: בגיל 64 ריטה קוברת לכולם"
+   "title": "מיני קצרצר ומכנסי עור צמודים: בגיל 64, ריטה קוברת לכולם"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -10483,6 +10483,18 @@
    "section": "",
    "title": "אחרי הטענות הקשות: בתה של הכוכבת יוצאת להגנתה"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-1c2ee1b6b6a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791717266810,
+   "content_type": "article",
+   "first_seen_ms": 1791717266810,
+   "indexable": true,
+   "indexnow_ms": 1791717266810,
+   "published_ms": 1791716940000,
+   "section": "סלבס",
+   "title": "בצל הטרגדיה המשפחתית: החתונה הנוצצת של בנו של הכוכב"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-247f58eb013d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14057,7 +14069,7 @@
    "indexnow_ms": 1791715466673,
    "published_ms": 1791709440000,
    "section": "בריאות",
-   "title": "\"סיוט\": מכת יתושים ברחבי ירושלים"
+   "title": "עקיצות בלתי פוסקות ונפיחויות: מכת יתושים ברחבי ירושלים"
   },
   "https://www.mako.co.il/health-news/Article-9dfd0411afa01a1027.htm": {
    "check_attempts": 1,
@@ -15210,6 +15222,18 @@
    "published_ms": 1790586840000,
    "section": "HIX",
    "title": "ישן על הספסל ברחוב, וקיבל הפתעה לא נעימה"
+  },
+  "https://www.mako.co.il/hix-special/Article-4a0c3f6a9aa21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791717448769,
+   "content_type": "article",
+   "first_seen_ms": 1791717448769,
+   "indexable": true,
+   "indexnow_ms": 1791717448769,
+   "published_ms": 1791717300000,
+   "section": "HIX",
+   "title": "בן שנתיים ביקר את אביו בכלא – ונורה למוות"
   },
   "https://www.mako.co.il/hix-special/Article-4af26b9328a01a1026.htm": {
    "check_attempts": 1,
