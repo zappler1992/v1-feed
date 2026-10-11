@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9dc2df94e8a21a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-11T10:54:48+00:00</news:publication_date>
+<news:title>לוחמי מג״ב איו״ש עצרו הלילה שני חשודים ביידוי אבנים שגרם לפציעתה של שוטרת מג״ב בגזרת בנימין</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/11/M_NEWS_17120_11102026105318_1400_1791716081916_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e44f451818a21a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1457,23 +1466,5 @@
 <news:title>אמריקה נערכת: זהו הוריקן איסאיאס שמתקרב ליבשת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/09/SHIRA_HURICAN_091026_M_1400_1791543976050_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-44f74e8123021a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T10:56:28+00:00</news:publication_date>
-<news:title>טיילו בחוף ומצאו חלקי כטב&quot;ם: הבהלה ליד חיפה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/rinat_catbam_091026_m_1400_1791543382034_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-f077552323021a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-09T10:55:39+00:00</news:publication_date>
-<news:title>טעות ביוטי: נרדמה עם צבע לגבות והתעוררה עם הפתעה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/09/Kim_Makeup_09102026_1400_1791543332803_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
