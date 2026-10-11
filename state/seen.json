@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-45dc9f4661a21a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-0cbc8de8892d0a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-84826838be021a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -884,7 +885,7 @@
    ],
    "title": "בקצב השקר פרק 7: שאלה אחת מסבכת הכל",
    "type": "series",
-   "updated_ms": 1791449940000,
+   "updated_ms": 1791708180000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-8ef452aef8501a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/ACADEMY_OF_LIES_EP07/MASTER/ACADEMY_OF_LIES_EP07/ACADEMY_OF_LIES_EP07_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -17214,6 +17215,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-6b2f8975c2601a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/LOADED_EP52/MASTER/LOADED_EP52/LOADED_EP52_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-84826838be021a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 57: וסרמן מהצבא תובע מהחבורה 50 אלף דולר בטענה שהיה שותף לפיתוח, אבל הם זוכרים בעיקר שותף לחדר. מאיה ממליצה להתפשר, תומר לא מוכן לתת לו שקל, וברלד כבר מתאמן על \"אובג׳קשן\". הם מחליטים לנסות לסגור את העניין בין חברים, רק שווסרמן מגיע עם עורך דין שלא מתרשם מהזיכרונות המשותפים.",
+   "duration_s": 148,
+   "first_seen_ms": 1791708445694,
+   "image": "https://img.mako.co.il/2026/10/09/LOADED_EP57_1400_1791557266815_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791708240000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 57: שותף לחדר או למיליונים?",
+   "type": "series",
+   "updated_ms": 1791708240000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-84826838be021a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/LOADED_EP57/MASTER/LOADED_EP57/LOADED_EP57_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-930cc489b3b01a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -17715,6 +17734,24 @@
    "updated_ms": 1791189780000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w03/shorts-3b407a88069a0a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/16/LOVE_CORNER_EP21/MASTER/LOVE_CORNER_EP21_M/LOVE_CORNER_EP21_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-0cbc8de8892d0a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 26: דניאלה נשברת מול אלונה כשהיא מבינה שהתקווה שנתן עוד יפתח פתאום את הדלת ויחזור הביתה כנראה כבר לא תחזיק. במקביל, ליאור חוזר הביתה ומנסה להמשיך כרגיל עם הסיפור שסיפר לעדן על העבודה בבאר שבע. אלא שאבא שלו מתחיל לשאול שאלות, קולט מהר מאוד שהפרטים לא מסתדרים ודוחק אותו להודות שהוא בכלל לא היה שם. ליאור מנסה לסגור את הנושא, אבל אביו משאיר לו אזהרה ברורה: בפעם הבאה שהוא משקר, כדאי שיזכור טוב יותר את הפרטים.",
+   "duration_s": 175,
+   "first_seen_ms": 1791708445694,
+   "image": "https://img.mako.co.il/2026/09/24/LOVE_CORNER_EP26_M_1400_1790239785247_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791708060000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 26: נתפס בשקר",
+   "type": "series",
+   "updated_ms": 1791708060000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-0cbc8de8892d0a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/LOVE_CORNER_EP26/MASTER/LOVE_CORNER_EP26_M/LOVE_CORNER_EP26_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m09_w04/shorts-8333b8186cdc0a1027.htm": {
    "author": "אהבה מעבר לפינה",
