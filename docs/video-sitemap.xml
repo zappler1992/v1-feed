@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-639f4dad8d821a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/11/M_NEWS_17082_11102026031654_1400_1791688703172_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>צבא ארה&quot;ב תקף ספינה במפרץ עומאן שיצאה מחופי איראן וניסתה לפרוץ את המצור הימי</video:title>
+<video:description>צבא ארה&quot;ב תקף ספינה במפרץ עומאן שיצאה מחופי איראן וניסתה לפרוץ את המצור הימי</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17082_11102026031654/M_NEWS_17082_11102026031654_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>12</video:duration>
+<video:publication_date>2026-10-11T03:18:32+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-08836cc371721a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/10/yoav_trump_101026_1400_1791658140149_FirstFrame.jpg</video:thumbnail_loc>
@@ -31,6 +47,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w02/shorts-1696e86645721a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/10/yoav_sailor_101026_1400_1791662455173_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אחרי 321 ימים: החיילים האמריקאים התאחדו עם משפחותיהם</video:title>
+<video:description>רגעים מרגשים בנמל סן דייגו: נושאת המטוסים האמריקנית &quot;אברהם לינקולן&quot; שבה הביתה לאחר 321 ימים, שבהם שהה צוותה הרחק ממשפחותיהם, כולל חודשים של פעילות במזרח התיכון. יותר מ-4,500 מלחים ונחתים חזרו לארצות הברית, שם המתינו להם במשך שעות מאות בני משפחה וחברים. צפו באיחוד המשפחות המרגש</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/10/yoav_sailor_101026/MASTER/yoav_sailor_101026/yoav_sailor_101026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>34</video:duration>
+<video:publication_date>2026-10-10T20:06:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>מהעולם</video:tag>
 </video:video>
 </url>
 <url>
@@ -572,6 +605,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
