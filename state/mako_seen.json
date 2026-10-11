@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791746548786,
+ "last_run_ms": 1791746848694,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25266,6 +25266,18 @@
    "published_ms": 1790112180000,
    "section": "חדשות",
    "title": "האמירויות התריעו לישראל לפני 7 באוקטובר: \"חמאס יפעל\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-3271a14f84c21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-3271a14f84c21a1027.htm",
+   "checked_ms": 1791746667377,
+   "content_type": "article",
+   "first_seen_ms": 1791746667377,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791745080000,
+   "section": "",
+   "title": "בנט: \"אם יקבל את קווי היסוד נתניהו יוכל להיות שר\""
   },
   "https://www.mako.co.il/special-mako-news/Article-331f462afdde0a1027.htm": {
    "check_attempts": 1,
