@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-a0190a254db21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26279,7 +26279,8 @@
    "importance": 2,
    "published_ms": 1791741728000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "תעלומת העצם הבלתי מזוהה בצפון: החיפושים אחריו נמשכים, ועב\"מ נוסף יורט",
    "type": "news",
@@ -26357,6 +26358,24 @@
    "updated_ms": 1791723780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62aa1256c0b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_PHONE_111026/MASTER/SHIR_PHONE_111026/SHIR_PHONE_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "עוד תקופה של מתיחות בטחונית מול איראן עומדת בפנינו, וצמרת הביטחון בישראל לא לוקחת סיכונים ודנה בכל האפשרויות שעומדות על הפרק: איראן, עזה ולבנון. הכוננות נשמרת בדריכות גבוהה מאוד הן בהגנה והן בהתקפה - אך מדובר בהיערכות בלבד. מתוך חדשות 12.",
+   "duration_s": 80,
+   "first_seen_ms": 1791760646520,
+   "image": "https://img.mako.co.il/2026/10/11/FIX_DVORI_1400_1791747477651_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791741116000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "המתיחות מול איראן: מי תתקוף ראשונה?",
+   "type": "news",
+   "updated_ms": 1791747480000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/FIX_DVORI/FIX_DVORI_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-857132a97ea21a1027.htm": {
    "author": "חדשות",
@@ -75759,7 +75778,8 @@
    "importance": 0,
    "published_ms": 1791738813000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד משוגע מהודו: המכונית פוגעת באופנוע - והרוכב נותר ללא פגע",
    "type": "mivzakim",
@@ -75795,7 +75815,8 @@
    "importance": 0,
    "published_ms": 1791736547000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הם מושכים את העגלה - והיא מתהפכת עליהם: שני גברים נהרגו בפסטיבל מסורתי ביפן | צפו ברגע המלחיץ",
    "type": "mivzakim",
