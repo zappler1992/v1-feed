@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791785550407,
+ "last_run_ms": 1791785849771,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6056,6 +6056,18 @@
    "published_ms": 1791014040000,
    "section": "ספורט",
    "title": "עומד למבחן: שאלת עתידו של מלמד בחיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4ffd53b9cbe21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791785787382,
+   "content_type": "article",
+   "first_seen_ms": 1791785787382,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791785700000,
+   "section": "ספורט",
+   "title": "הסעיף שהכניסה מכבי חיפה בחוזהו של דסה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-572f1fc2ca501a1027.htm": {
    "check_attempts": 1,
@@ -13099,6 +13111,18 @@
    "section": "הכי חם",
    "title": "רותי ברודו מפרגנת לגיה ויוגב: \"מזכיר לי בית\""
   },
+  "https://www.mako.co.il/food-cooking-with-keshet/mkr_recipes/Article-2d0b85814ec21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791785667515,
+   "content_type": "article",
+   "first_seen_ms": 1791785667515,
+   "indexable": true,
+   "indexnow_ms": 1791785667515,
+   "published_ms": 1791755100000,
+   "section": "",
+   "title": "\"מנה מצטיינת\": השיפוד של איתי תורג'מן"
+  },
   "https://www.mako.co.il/food-cooking_magazine/Article-69db08f6a8da751006.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13734,6 +13758,18 @@
    "published_ms": 1790492280000,
    "section": "",
    "title": "הבקשה השערורייתית של המסעדה החדשה"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-9f4ee64442ce0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791785667515,
+   "content_type": "article",
+   "first_seen_ms": 1791785667515,
+   "indexable": true,
+   "indexnow_ms": 1791785667515,
+   "published_ms": 1791785460000,
+   "section": "",
+   "title": "בלי ויטרינה: מקום חדש לקבוצת המסעדות האהובה"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-b56e87efc0a11a1027.htm": {
    "check_attempts": 1,
