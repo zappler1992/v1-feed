@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e605389788031a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-67a9641c69031a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55130,7 +55130,7 @@
    ],
    "title": "מורים ותלמידים יצאו לטיול שנתי ונפצעו: פרטים חדשים על התקרית הקשה בצפון",
    "type": "mivzakim",
-   "updated_ms": 1791812580000,
+   "updated_ms": 1791816360000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/DVORI_MFIX2/DVORI_MFIX2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -55241,6 +55241,24 @@
    "updated_ms": 1791777915000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-66f9ab1d74e21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_bribe_7183_12102026040358/V1_bribe_7183_12102026040358_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-67a9641c69031a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דובר צה\"ל: מתחקיר ראשוני בנקודה עולה כי מדובר בפצצת מצרר של חיזבאללה שנותרה בשטח והתפוצצה",
+   "duration_s": 9,
+   "first_seen_ms": 1791816746041,
+   "image": "https://img.mako.co.il/2026/10/12/V1_KAIND_IDF_7212_12102026024831_1400_1791816579939_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791816586000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דובר צה\"ל: מתחקיר ראשוני בנקודה עולה כי מדובר בפצצת מצרר של חיזבאללה שנותרה בשטח והתפוצצה",
+   "type": "mivzakim",
+   "updated_ms": 1791816586000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-67a9641c69031a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_KAIND_IDF_7212_12102026024831/V1_KAIND_IDF_7212_12102026024831_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6b1402ed7fb21a1027.htm": {
    "author": "מבזקים",
@@ -55894,18 +55912,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "\"אין טיפול מספיק בתופעת הנפלים, סכנה לחיי אדם\" | גיא ורון",
+   "description": "\"איך אנחנו יודעים שהאזורים שבהם יטיילו אכן בטוחים ומזוכים?\" | ירון אברהם",
    "duration_s": 44,
    "first_seen_ms": 1791815546022,
    "image": "https://img.mako.co.il/2026/10/12/SHIR_YARON_121026_1400_1791816288952_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791815434000,
    "sections": [
     "מבזקים"
    ],
-   "title": "\"אין טיפול מספיק בתופעת הנפלים, סכנה לחיי אדם\" | גיא ורון",
+   "title": "\"איך אנחנו יודעים שהאזורים שבהם יטיילו אכן בטוחים ומזוכים?\" | ירון אברהם",
    "type": "mivzakim",
-   "updated_ms": 1791815434000,
+   "updated_ms": 1791816360000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_YARON_121026/SHIR_YARON_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
