@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791846149329,
+ "last_run_ms": 1791846449240,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -802,6 +802,18 @@
    "published_ms": 1791712574000,
    "section": "אופנה",
    "title": "מה לובשים לחתונה? יונה לייבזון פיצחה את הנוסחה עם לא פחות משלוש שמלות מעולות"
+  },
+  "https://fashionforward.mako.co.il/news/321546/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791846449240,
+   "content_type": "article",
+   "first_seen_ms": 1791846449240,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791846309000,
+   "section": "Fashion Forward",
+   "title": "תעזרו לנו להחליט איזו משמלות הכלה של יעל מורוזוב הייתה הכי מוצלחת?"
   },
   "https://fashionforward.mako.co.il/news/321563/": {
    "check_attempts": 1,
