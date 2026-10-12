@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d69ac6ef30031a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-82b1e813bff21a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fabb598801031a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54915,6 +54915,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5abb38c0e5f21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17169_12102026091139/M_NEWS_17169_12102026091139_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מורים ותלמידים יצאו לטיול שנתי ונפצעו: פרטים חדשים על התקרית הקשה בצפון",
+   "duration_s": 70,
+   "first_seen_ms": 1791808345855,
+   "image": "https://img.mako.co.il/2026/10/12/V1_MIVNIRDVORI_7196_12102026122409_1400_1791807972143_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791807979000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מורים ותלמידים יצאו לטיול שנתי ונפצעו: פרטים חדשים על התקרית הקשה בצפון",
+   "type": "mivzakim",
+   "updated_ms": 1791808200000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_MIVNIRDVORI_7196_12102026122409/V1_MIVNIRDVORI_7196_12102026122409_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f05f763a0f21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -55887,6 +55905,24 @@
    "updated_ms": 1791790213000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f8347ee400f21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17157_12102026072907/M_NEWS_17157_12102026072907_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fabb598801031a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מסוק החילוץ הגיע לזירת הפיצוץ במצפה פאר",
+   "duration_s": 8,
+   "first_seen_ms": 1791808345855,
+   "image": "https://img.mako.co.il/2026/10/12/V1_masok_7197_12102026122549_1400_1791808014509_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791808021000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מסוק החילוץ הגיע לזירת הפיצוץ במצפה פאר",
+   "type": "mivzakim",
+   "updated_ms": 1791808021000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fabb598801031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_masok_7197_12102026122549/V1_masok_7197_12102026122549_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fac4a3020c921a1026.htm": {
    "author": "מבזקים",
