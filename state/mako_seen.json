@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791807448614,
+ "last_run_ms": 1791807748614,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -862,6 +862,18 @@
    "published_ms": 1791804760000,
    "section": "Fashion Forward",
    "title": "של המעצב אהוב על הישראליות: אדל בספלוב בשמלה הכי מסוכנת שיש"
+  },
+  "https://fashionforward.mako.co.il/news/321649/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791807627262,
+   "content_type": "article",
+   "first_seen_ms": 1791807627262,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791807555000,
+   "section": "Fashion Forward",
+   "title": "נופשת בגבוה: בואו נתעכב לרגע על השרשרת המטורפת של יעל שלביה"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -9007,6 +9019,18 @@
    "section": "",
    "title": "מחאה מחוץ להקרנת \"נז\"א\": \"לא תמחקו את 7 באוקטובר\""
   },
+  "https://www.mako.co.il/culture-articles/Article-30696b2a45a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791807627262,
+   "content_type": "article",
+   "first_seen_ms": 1791807627262,
+   "indexable": true,
+   "indexnow_ms": 1791807627262,
+   "published_ms": 1791720000000,
+   "section": "תרבות tvbee",
+   "title": "סרטו של הכוכב הפרו-פלסטיני מגיע לבכורה בארץ"
+  },
   "https://www.mako.co.il/culture-articles/Article-363da4c4048c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -11826,6 +11850,18 @@
    "published_ms": 1790059740000,
    "section": "כסף",
    "title": "חייבים לאכול עכשיו? מפת ההמבורגרים נחשפת"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-7760371e50031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791807627262,
+   "content_type": "article",
+   "first_seen_ms": 1791807627262,
+   "indexable": true,
+   "indexnow_ms": 1791807627262,
+   "published_ms": 1791807060000,
+   "section": "כסף",
+   "title": "צרפת: האקרים הפשירו מקררים, מיליוני אירו נזרקו לפח"
   },
   "https://www.mako.co.il/finances-consumer/Article-8a62ed9e523e0a1027.htm": {
    "check_attempts": 1,
@@ -14825,7 +14861,7 @@
    "indexnow_ms": 1791789449105,
    "published_ms": 1791786300000,
    "section": "בריאות",
-   "title": "למרות פגיעות הילדים: בחנוכה יתקיים פסטיבל"
+   "title": "למרות הסכנה לילדים: הפסטיבל שיתקיים בחנוכה"
   },
   "https://www.mako.co.il/health-news/Article-a6c1b813de5f0a1027.htm": {
    "check_attempts": 1,
@@ -19133,7 +19169,7 @@
    "indexnow_ms": 1791795149728,
    "published_ms": 1791794880000,
    "section": "פלילים",
-   "title": "4 נשים חשודות: יידו אבנים על בני המשפחה שלהן"
+   "title": "בגלל סכסוך: 4 נשים נעצרו בחשד ליידוי אבנים"
   },
   "https://www.mako.co.il/men-men_news/Article-2e9a10a7dbee0a1026.htm": {
    "check_attempts": 1,
@@ -25469,7 +25505,7 @@
    "indexnow_ms": 1791807148656,
    "published_ms": 1791806880000,
    "section": "",
-   "title": "12 נפצעו כתוצאה מפיצוץ נפל בגבול הצפון"
+   "title": "12 נפצעו כתוצאה מפיצוץ נפל בגבול הצפון, בהם גם ילדים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a8fcc0554aa11a1026.htm": {
    "check_attempts": 1,
