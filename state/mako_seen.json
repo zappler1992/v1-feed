@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791836249142,
+ "last_run_ms": 1791836549290,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1294,6 +1294,18 @@
    "published_ms": 1791733800000,
    "section": "ספורט",
    "title": "\"הוא שחקן חשוב\": האירוע החריג סביב טימור"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-a335cbb38b131a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791836549290,
+   "content_type": "article",
+   "first_seen_ms": 1791836549290,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791836340000,
+   "section": "ספורט",
+   "title": "\"לא היה קל בשנתיים האלה, גם לי יש רגשות\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-bea52f54fe621a1027.htm": {
    "check_attempts": 1,
