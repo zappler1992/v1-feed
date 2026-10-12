@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c293cd0033131a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-12T18:02:15+00:00</news:publication_date>
+<news:title>חתול חולץ באוקראינה מזירת תקיפה רוסית בה נהרגו 20 בני אדם. צפו ברגעי החילוץ המרגשים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/12/V1_Mivzak__7228_12102026060051_1400_1791828128711_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-28f749ea23131a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -41,7 +50,7 @@
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-12T17:28:52+00:00</news:publication_date>
-<news:title>מתקפת סייבר על מקררים: התקרית ההזויה בצרפת</news:title>
+<news:title>מתקפת סייבר על מקררים: התקרית ההזויה באירופה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/12/ASAF_FRIDGE_12102026_M_1400_1791826125963_FirstFrame.jpg</image:loc></image:image>
 </url>
@@ -1970,14 +1979,5 @@
 <news:title>יו״ר הרשימה המשותפת: ״נהיה רשת ביטחון לכל ממשלה שתחליף את ממשלת נתניהו״</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/10/M_NEWS_17071_10102026062829_1400_1791656997350_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w02/shorts-1bd02f54fe621a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-10T18:03:37+00:00</news:publication_date>
-<news:title>דונלד טראמפ מחמיא לעצמו וטוען: &quot;אני אדם בעל אי קיו גבוה מאוד&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/10/inbie_trumpIQ_101026_1400_1791655410424_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
