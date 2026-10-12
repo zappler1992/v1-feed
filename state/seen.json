@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fde68ff8e3031a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4a910ea945031a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54862,6 +54862,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4522f7f44d921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17103_11102026072411/M_NEWS_17103_11102026072411_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4a910ea945031a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המסוק לפינוי פצועים נוחת בבית החולים רמב\"ם בחיפה",
+   "duration_s": 19,
+   "first_seen_ms": 1791812845895,
+   "image": "https://img.mako.co.il/2026/10/12/V1_karind_masok_7205_12102026014041_1400_1791812519382_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791812526000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המסוק לפינוי פצועים נוחת בבית החולים רמב\"ם בחיפה",
+   "type": "mivzakim",
+   "updated_ms": 1791812526000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4a910ea945031a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_masok_7205_12102026014041/V1_karind_masok_7205_12102026014041_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -55021,7 +55039,7 @@
    ],
    "title": "מורים ותלמידים יצאו לטיול שנתי ונפצעו: פרטים חדשים על התקרית הקשה בצפון",
    "type": "mivzakim",
-   "updated_ms": 1791811260000,
+   "updated_ms": 1791812580000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/DVORI_MFIX/DVORI_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
