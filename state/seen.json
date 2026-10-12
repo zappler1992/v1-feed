@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-0e43371e50031a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1dd2413f62031a1026.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-a5e0545449031a1027.htm",
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-730f407318031a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -67127,6 +67127,24 @@
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/DANIEL_YOAZ_081026/MASTER/DANIEL_YOAZ_081026/DANIEL_YOAZ_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-a5e0545449031a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מVינים בחירות: יותר מ-30 שנה אחרי הרגע הבלתי נשכח בשידור חי, מהלך פוליטי חדש מחזיר את נתניהו לעבר - אבל מאחוריו מסתתרת מטרה אחרת לגמרי - ודי מפתיעה.",
+   "duration_s": 87,
+   "first_seen_ms": 1791818246094,
+   "image": "https://img.mako.co.il/2026/10/12/dor_bibi_121006_1400_1791816967134_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791817680000,
+   "sections": [
+    "מVינים חדשות"
+   ],
+   "title": "מVינים בחירות: מי לא נותן לנתניהו לשכוח את הרגע המביך",
+   "type": "general",
+   "updated_ms": 1791817680000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-a5e0545449031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/dor_bibi_121006/MASTER/dor_bibi_121006/dor_bibi_121006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-c5cd413f62031a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
@@ -70188,6 +70206,24 @@
    "updated_ms": 1791709920000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-33ffe4d9f2a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_TREND_111026_FIX/SHIR_TREND_111026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-730f407318031a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791818246094,
+   "image": "https://img.mako.co.il/2026/10/12/ASAF_WARNING_12102026_M_1400_1791815636504_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791815643000,
+   "sections": [
+    "חופש וטיולים"
+   ],
+   "title": "האזהרה לתיירים הישראלים: \"זה עלול להיגמר במאסר\"",
+   "type": "general",
+   "updated_ms": 1791815643000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-730f407318031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_WARNING_12102026/MASTER/ASAF_WARNING_12102026_M/ASAF_WARNING_12102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2024-m10_w02/shorts-1e7fad516007291027.htm": {
    "author": "TV1",
