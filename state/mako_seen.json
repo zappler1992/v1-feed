@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791798149396,
+ "last_run_ms": 1791798449665,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11431,6 +11431,18 @@
    "section": "סלבס",
    "title": "\"לעולם לא נשכח\": הכוכב הבין-לאומי מנציח את 7 באוקטובר"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-b50c58bf34f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791798267030,
+   "content_type": "article",
+   "first_seen_ms": 1791798267030,
+   "indexable": true,
+   "indexnow_ms": 1791798267030,
+   "published_ms": 1791795540000,
+   "section": "סלבס",
+   "title": "כוכב \"ספיידרמן\" חיתן את אשתו לשעבר"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-bad76e9ab1601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22818,6 +22830,18 @@
    "published_ms": 1791221640000,
    "section": "ספורט",
    "title": "לא פשוט: מי משחקני הנבחרת שווה יותר?"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e396657dc6f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791798386999,
+   "content_type": "article",
+   "first_seen_ms": 1791798386999,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791798240000,
+   "section": "ספורט",
+   "title": "שכרו בפנים: גדראני האריך חוזה בבית\"ר י-ם"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e42b2a6a8b7f0a1026.htm": {
    "check_attempts": 1,
