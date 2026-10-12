@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791787649119,
+ "last_run_ms": 1791787949220,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7304,6 +7304,18 @@
    "published_ms": 1791094560000,
    "section": "ספורט",
    "title": "תשכחו ממסי: ארגנטינה סימנה מנהיג חדש"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-482233318de21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791787949220,
+   "content_type": "article",
+   "first_seen_ms": 1791787949220,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791787680000,
+   "section": "ספורט",
+   "title": "השוואה: התפוקה של חלאילי לעומת קודמו"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-4cd8e5fe3c501a1026.htm": {
    "check_attempts": 1,
@@ -29057,7 +29069,7 @@
    "indexnow_ms": 1791783988162,
    "published_ms": 1791783840000,
    "section": "",
-   "title": "\"רוב הדיבורים שלנו הם על ריכולים, סקס וזוגיות\""
+   "title": "\"רוב הדיבורים שלנו הם על ריכולים וזוגיות\""
   },
   "https://www.mako.co.il/tv-exposure/articles/Article-51546d1815801a1027.htm": {
    "check_attempts": 1,
@@ -29334,6 +29346,18 @@
    "published_ms": 1791278340000,
    "section": "הכי חם",
    "title": "\"היה רומן ונכנסתי להיריון. זה נחשב לא בסדר?\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-8a2aa55d9ce21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791787827665,
+   "content_type": "article",
+   "first_seen_ms": 1791787827665,
+   "indexable": true,
+   "indexnow_ms": 1791787827665,
+   "published_ms": 1791786480000,
+   "section": "",
+   "title": "\"אבא שלי היה איש פגוע, השואה שיבשה את דעתו\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-92565accc0de0a1026.htm": {
    "check_attempts": 1,
