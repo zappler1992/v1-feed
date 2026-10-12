@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791810748523,
+ "last_run_ms": 1791811048458,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5888,6 +5888,18 @@
    "published_ms": 1791208200000,
    "section": "ספורט",
    "title": "\"הסטורי בעד יואב זיו? תמיכה, לא מרד\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0c46adfe03031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791810987431,
+   "content_type": "article",
+   "first_seen_ms": 1791810987431,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791810600000,
+   "section": "ספורט",
+   "title": "האיש שינהל את מכבי ת\"א - בית\"ר ירושלים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0c6e451818a21a1026.htm": {
    "check_attempts": 1,
@@ -11790,6 +11802,18 @@
    "published_ms": 1791483420000,
    "section": "סלבס",
    "title": "הנסיך הארי חושף לראשונה: \"שקעתי בדיכאון, לא תפקדתי\""
+  },
+  "https://www.mako.co.il/finances-consumer/Article-0420e0a363031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791811048458,
+   "content_type": "article",
+   "first_seen_ms": 1791811048458,
+   "indexable": true,
+   "indexnow_ms": 1791811048458,
+   "published_ms": 1791810540000,
+   "section": "כסף",
+   "title": "הארנק הדיגיטלי גורם לישראלים לבזבז הרבה יותר"
   },
   "https://www.mako.co.il/finances-consumer/Article-277546d825601a1026.htm": {
    "check_attempts": 1,
