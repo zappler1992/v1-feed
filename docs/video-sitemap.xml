@@ -36,8 +36,8 @@
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/12/V1_SHIR_POLL_7229_12102026061910_1400_1791829350723_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>סקט המדנטים: אילו הבחירות היו היום - למי הייתם מצביעים?</video:title>
-<video:description>סקט המדנטים: אילו הבחירות היו היום - למי הייתם מצביעים?</video:description>
+<video:title>סקר המדנטים: אילו הבחירות היו היום - למי הייתם מצביעים?</video:title>
+<video:description>סקר המדנטים: אילו הבחירות היו היום - למי הייתם מצביעים?</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_SHIR_POLL_7229_12102026061910/V1_SHIR_POLL_7229_12102026061910_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>135</video:duration>
 <video:publication_date>2026-10-12T18:22:37+00:00</video:publication_date>
@@ -221,6 +221,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -287,6 +288,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -352,6 +354,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -384,6 +387,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -450,6 +454,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
