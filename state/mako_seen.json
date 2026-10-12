@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791824250093,
+ "last_run_ms": 1791824548995,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19267,6 +19267,18 @@
    "section": "פלילים",
    "title": "\"המשטרה בעיר לא קיימת, אנחנו כמו ברווזים במטווח\""
   },
+  "https://www.mako.co.il/men-men_news/Article-20fa6d109f031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791824427374,
+   "content_type": "article",
+   "first_seen_ms": 1791824427374,
+   "indexable": true,
+   "indexnow_ms": 1791824427374,
+   "published_ms": 1791823260000,
+   "section": "",
+   "title": "\"מיטל ניהלה בפועל את העירייה. ידה הייתה בכל\""
+  },
   "https://www.mako.co.il/men-men_news/Article-21ee06c981111a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23537,7 +23549,7 @@
    "indexnow_ms": null,
    "published_ms": 1791824100000,
    "section": "ספורט",
-   "title": "פי 3: קפיצת הערך של אבו פרחי ותורג`מן"
+   "title": "פי 3: קפיצת הערך של תורג'מן ואבו פרחי"
   },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
