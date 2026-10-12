@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791792149505,
+ "last_run_ms": 1791792452535,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7028,6 +7028,18 @@
    "published_ms": 1790861820000,
    "section": "ספורט",
    "title": "\"הבושה הכי גדולה\": הכתם של פ.ס.ז` בחיפה"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-a22ecff8e1f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791792386858,
+   "content_type": "article",
+   "first_seen_ms": 1791792386858,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791792300000,
+   "section": "ספורט",
+   "title": "רונאלדו: \"אני הסקורר הגדול בהיסטוריה\""
   },
   "https://www.mako.co.il/Sports-football-world/europe-league-q3_2026/Article-faf18050d12f0a1026.htm": {
    "check_attempts": 1,
@@ -19421,7 +19433,7 @@
    "indexnow_ms": 1791779550083,
    "published_ms": 1791778920000,
    "section": "",
-   "title": "\"העיר נמכרה לעבריינים שקיבלו הטבות במיליוני שקלים\""
+   "title": "כסף, תכשיטים ושעונים יוקרתיים: \"העיר נמכרה לעבריינים\""
   },
   "https://www.mako.co.il/men-men_news/Article-6e30f5e39ee21a1026.htm": {
    "check_attempts": 1,
@@ -28950,6 +28962,18 @@
    "published_ms": 1790483640000,
    "section": "חופש",
    "title": "למה המדינה הזו כל כך שונאת אותנו כבר המון שנים?"
+  },
+  "https://www.mako.co.il/travel-world/Article-510570c6dab01a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791792266862,
+   "content_type": "article",
+   "first_seen_ms": 1791792266862,
+   "indexable": true,
+   "indexnow_ms": 1791792266862,
+   "published_ms": 1791775380000,
+   "section": "חופש",
+   "title": "הכל כלול ונופים מתחלפים: כך נראית החופשה המושלמת"
   },
   "https://www.mako.co.il/travel-world/Article-5d8c116871a11a1026.htm": {
    "check_attempts": 1,
