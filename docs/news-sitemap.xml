@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0207512e9bf21a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-12T11:09:17+00:00</news:publication_date>
+<news:title>שתי נשים מתחמקום מדריסה בשבריר שניה במלטיה שבטורקיה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/12/V1_turkey_7193_12102026110752_1400_1791803350575_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1781,14 +1790,5 @@
 <news:title>ניסיון החיסול הדרמטי בקריית מלאכי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/10/biata_hisul_101026_1400_1791631929493_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-be9cf58837521a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-10T11:10:42+00:00</news:publication_date>
-<news:title>אלמוג בוקר משתף באומץ על התקף החרדה הקשה שחווה באוקראינה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/10/alona_almog_m_101026_1400_1791630636567_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
