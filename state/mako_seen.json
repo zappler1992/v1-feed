@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791834149029,
+ "last_run_ms": 1791834449062,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6188,6 +6188,18 @@
    "published_ms": 1790842980000,
    "section": "ספורט",
    "title": "מי פרסם ומי לא? הסטורי של שחקני מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3557294b39131a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791834386674,
+   "content_type": "article",
+   "first_seen_ms": 1791834386674,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791834300000,
+   "section": "ספורט",
+   "title": "ברזאו: \"מכבי חיפה היא הטובה בישראל\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3697db5c4c031a1026.htm": {
    "check_attempts": 1,
