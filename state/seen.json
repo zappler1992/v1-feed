@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b4e8adfe03031a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3adaadfe03031a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-c5cd413f62031a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4514,7 +4515,8 @@
    "importance": 2,
    "published_ms": 1791793372000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "התיעוד המדאיג של סולן הביץ' בויז: מייק לאב נראה תשוש על הבמה והרשת סוערת",
    "type": "general",
@@ -4550,7 +4552,8 @@
    "importance": 1,
    "published_ms": 1791788075000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"אתרום את הכסף של הכרטיס שלך לישראל\": סיינפלד השיב למפגינה פלסטינית בקהל",
    "type": "general",
@@ -26924,7 +26927,8 @@
    "importance": 2,
    "published_ms": 1791788530000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בת ה-12 הזמינה מילקשייק - ומתה",
    "type": "news",
@@ -54715,6 +54719,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3a5f1e0fdca21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17121_11102026115526/M_NEWS_17121_11102026115526_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3adaadfe03031a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חובש מד\"א בין הילקוטים הקרועים על הכביש: תיעוד המצמרר מזירת הפיצוץ",
+   "duration_s": 9,
+   "first_seen_ms": 1791810445866,
+   "image": "https://img.mako.co.il/2026/10/12/V1_bags_7201_12102026125934_1400_1791810047422_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791810054000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חובש מד\"א בין הילקוטים הקרועים על הכביש: תיעוד המצמרר מזירת הפיצוץ",
+   "type": "mivzakim",
+   "updated_ms": 1791810054000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3adaadfe03031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_bags_7201_12102026125934/V1_bags_7201_12102026125934_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3b1fa90c38a21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -66760,6 +66782,24 @@
    "updated_ms": 1791704340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/DANIEL_YOAZ_081026/MASTER/DANIEL_YOAZ_081026/DANIEL_YOAZ_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-c5cd413f62031a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "אחרי פגרה ארוכה, ליגת האלופות חוזרת - והגיע הזמן להסביר: זה הסיפור המרתק מאחורי המנון המפעל, שהכתיר בעבר מלכים",
+   "duration_s": 52,
+   "first_seen_ms": 1791810445866,
+   "image": "https://img.mako.co.il/2026/10/12/DANIEL_CHAMPIONS_121026_1400_1791809647256_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791809880000,
+   "sections": [
+    "המיוחדים"
+   ],
+   "title": "ידעת? ליגת האלופות",
+   "type": "general",
+   "updated_ms": 1791809880000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-c5cd413f62031a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/DANIEL_CHAMPIONS_121026/MASTER/DANIEL_CHAMPIONS_121026/DANIEL_CHAMPIONS_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special_projects-magazine/2026-m06_w02/shorts-005285d6e6bae91027.htm": {
    "author": "קקטוס הזהב",
