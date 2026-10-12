@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-3d2a358de4f21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5434f71d95f21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26574,7 +26574,8 @@
    "importance": 2,
    "published_ms": 1791741116000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "המתיחות מול איראן: מי תתקוף ראשונה?",
    "type": "news",
@@ -54657,6 +54658,24 @@
    "updated_ms": 1791728655000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-519bccfc55b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_trump_7163_11102026022256/V1_karind_trump_7163_11102026022256_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5434f71d95f21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סכסוך משפחתי אלים בנגב: 4 נשים נעצרו בחשד ליידוי אבנים לעבר בני משפחתן",
+   "duration_s": 9,
+   "first_seen_ms": 1791797246752,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17170_12102026092143_1400_1791796985430_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791796991000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סכסוך משפחתי אלים בנגב: 4 נשים נעצרו בחשד ליידוי אבנים לעבר בני משפחתן",
+   "type": "mivzakim",
+   "updated_ms": 1791796991000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5434f71d95f21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17170_12102026092143/M_NEWS_17170_12102026092143_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-554bbed969e21a1027.htm": {
    "author": "מבזקים",
