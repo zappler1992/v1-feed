@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791792749880,
+ "last_run_ms": 1791793050651,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14839,6 +14839,18 @@
    "section": "בריאות",
    "title": "רוסיה: חשש לעובד מעבדה נוסף שנדבק במחלה הקשה"
   },
+  "https://www.mako.co.il/health-news/Article-dcb5a663dde21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791792866970,
+   "content_type": "article",
+   "first_seen_ms": 1791792866970,
+   "indexable": true,
+   "indexnow_ms": 1791792866970,
+   "published_ms": 1791792660000,
+   "section": "",
+   "title": "רוצים להתחסן לשפעת? אין מספיק חיסונים זמינים"
+  },
   "https://www.mako.co.il/health-news/Article-de6a97b7008c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15702,6 +15714,18 @@
    "published_ms": 1790507700000,
    "section": "HIX",
    "title": "ממצאים קשים: 1,600 שיני חלב נמצאו בקבר האחים"
+  },
+  "https://www.mako.co.il/hix-special/Article-1a9ceb7f62f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791792987100,
+   "content_type": "article",
+   "first_seen_ms": 1791792987100,
+   "indexable": true,
+   "indexnow_ms": 1791792987100,
+   "published_ms": 1791792780000,
+   "section": "HIX",
+   "title": "אושפזה בגלל קרסול שבור – ומתה תוך פחות מיממה"
   },
   "https://www.mako.co.il/hix-special/Article-1d8b5046a81f0a1026.htm": {
    "check_attempts": 1,
@@ -17274,6 +17298,18 @@
    "published_ms": 1791432000000,
    "section": "עיצוב הבית",
    "title": "ויראלי: התינוק שהתאהב במטלת הבית הנפוצה"
+  },
+  "https://www.mako.co.il/living-diy/maintenance/Article-7d5bf763a0f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791793050651,
+   "content_type": "article",
+   "first_seen_ms": 1791793050651,
+   "indexable": true,
+   "indexnow_ms": 1791793050651,
+   "published_ms": 1791790500000,
+   "section": "עיצוב הבית",
+   "title": "נתקלתם בחרק הזה במזווה? כך תיפטרו ממנו בקלות"
   },
   "https://www.mako.co.il/living-diy/maintenance/Article-85cfa5b4e1830a1027.htm": {
    "check_attempts": 1,
