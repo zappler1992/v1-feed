@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791802948524,
+ "last_run_ms": 1791803249571,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27102,6 +27102,18 @@
    "published_ms": 1790148480000,
    "section": "חדשות",
    "title": "הרשימה המשותפת ורע\"ם נפסלו בוועדת הבחירות המרכזית"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-law/2026_q4/liveblog-dd5b302033f21a1026.htm",
+   "checked_ms": 1791803187109,
+   "content_type": "liveblog",
+   "first_seen_ms": 1791803187109,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791803040000,
+   "section": "חדשות",
+   "title": "היועמ\"ש לשעבר מנדלבליט שב לדוכן העדים בתיק"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-edcbca53f8921a1026.htm": {
    "check_attempts": 1,

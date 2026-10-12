@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/12/Kim_Suitcases_12102026_1400_1791801509625_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>תאילנד משנה את הכללים: יפתחו לכם את המזוודה ללא אישור</video:title>
+<video:description>החל מיום שישי הקרוב, רשויות התעופה בתאילנד יוכלו לפתוח מזוודות שנשלחו לבטן המטוס 
+ללא אישור בעליהן, אם יעלה חשד ביטחוני לתכולתן. הבדיקות יתועדו בווידאו, והנוסעים יקבלו הודעה לאחר הפתיחה. 
+ברשות ממליצים להצטייד במנעול TSA מאושר כדי למנוע נזק למזוודה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Suitcases_12102026/MASTER/Kim_Suitcases_12102026/Kim_Suitcases_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>29</video:duration>
+<video:publication_date>2026-10-12T10:59:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c481ae600af21a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/12/V1_Nepal_7192_12102026103640_1400_1791801484209_FirstFrame.jpg</video:thumbnail_loc>
@@ -30,6 +48,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-56be470a19f21a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/12/rinat_ai_121226_m_1400_1791799895591_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ביל גייטס קובע: AI יותר מסוכן מסמים</video:title>
+<video:description>ביל גייטס בלחץ מה-AI - אמר בריאיון שהבינה המלאכותית היא הדבר הכי מסוכן שהומצא אי פעם, ואסור לתת לחברות הטכנולוגיה לנהל את האירוע הזה לבד. מבחינתו חייבים לשים על זה חוקים, להטיל מס על רובוטים ולשמור על המשרות של כולנו.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/rinat_ai_121226/MASTER/rinat_ai_121226_m/rinat_ai_121226_m_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>41</video:duration>
+<video:publication_date>2026-10-12T10:11:42+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>טכנולוגיה</video:tag>
+<video:tag>מהעולם</video:tag>
 </video:video>
 </url>
 <url>
@@ -312,6 +347,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>טכנולוגיה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -445,6 +481,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
