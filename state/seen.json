@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e46110e923b21a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-deb867720ae21a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0ab6bed969e21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54092,6 +54091,24 @@
    "updated_ms": 1791343366000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_weather0710_6966_07102026032058/V1_weather0710_6966_07102026032058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0ab6bed969e21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לוחם צה\"ל נפצע אמש (ראשון) בתאונה מבצעית בדרום לבנון, כתוצאה מרסיסי ירי של כוחותינו. הוא פונה לקבלת",
+   "duration_s": 9,
+   "first_seen_ms": 1791784646563,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17148_12102026054953_1400_1791784286272_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791784292000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לוחם צה\"ל נפצע אמש (ראשון) בתאונה מבצעית בדרום לבנון, כתוצאה מרסיסי ירי של כוחותינו. הוא פונה לקבלת",
+   "type": "mivzakim",
+   "updated_ms": 1791784292000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0ab6bed969e21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17148_12102026054953/M_NEWS_17148_12102026054953_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm": {
    "author": "מבזקים",
