@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791789149166,
+ "last_run_ms": 1791789449105,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13495,6 +13495,18 @@
    "section": "",
    "title": "כמה קל לשחזר בבית את הקינוח המרגש הזה"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-desserts/Recipe-fc6b281cdce21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791789267534,
+   "content_type": "recipe",
+   "first_seen_ms": 1791789267534,
+   "indexable": true,
+   "indexnow_ms": 1791789267534,
+   "published_ms": 1791789000000,
+   "section": "",
+   "title": "המתכון שמוכיח: אפשר לאכול את העוגה ולהשאיר אותה שלמה"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-desserts/parve_desserts/Recipe-4816de9d7d601a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14574,6 +14586,18 @@
    "published_ms": 1790140260000,
    "section": "בריאות",
    "title": "המאכל הזה יתרום לעיכול הרבה יותר טוב"
+  },
+  "https://www.mako.co.il/health-news/Article-a59f3a736fa11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791789449105,
+   "content_type": "article",
+   "first_seen_ms": 1791789449105,
+   "indexable": true,
+   "indexnow_ms": 1791789449105,
+   "published_ms": 1791786300000,
+   "section": "בריאות",
+   "title": "למרות פגיעות הילדים: בחנוכה יתקיים פסטיבל"
   },
   "https://www.mako.co.il/health-news/Article-a6c1b813de5f0a1027.htm": {
    "check_attempts": 1,
@@ -20994,6 +21018,18 @@
    "published_ms": 1790785560000,
    "section": "",
    "title": "המעריצים נגד עומר אדם: \"תמיד יש בעיות\""
+  },
+  "https://www.mako.co.il/music-news/Article-063e50960fe21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791789387563,
+   "content_type": "article",
+   "first_seen_ms": 1791789387563,
+   "indexable": true,
+   "indexnow_ms": 1791789387563,
+   "published_ms": 1791789060000,
+   "section": "מוזיקה",
+   "title": "בעקבות ההצלחה: הילדים של קוקו מאילת קיבלו הצעה מפתה"
   },
   "https://www.mako.co.il/music-news/Article-0790fe63eecb0a1027.htm": {
    "check_attempts": 1,
