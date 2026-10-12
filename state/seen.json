@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-554bbed969e21a1027.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e46110e923b21a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-deb867720ae21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55030,6 +55031,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dea4d802fcd21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17142_12102026033536/M_NEWS_17142_12102026033536_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-deb867720ae21a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נהג אופנוע הרים גלגל והתפרע בכביש בנצרת - אך לא ידע שצולם על ידי רחפן של המשטרה",
+   "duration_s": 59,
+   "first_seen_ms": 1791784046249,
+   "image": "https://img.mako.co.il/2026/10/12/V1_motorcycle_7188_12102026053859_1400_1791783668715_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791783675000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נהג אופנוע הרים גלגל והתפרע בכביש בנצרת - אך לא ידע שצולם על ידי רחפן של המשטרה",
+   "type": "mivzakim",
+   "updated_ms": 1791783675000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-deb867720ae21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_motorcycle_7188_12102026053859/V1_motorcycle_7188_12102026053859_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dfc6d802fcd21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -55683,6 +55702,22 @@
    "updated_ms": 1791449880000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w02/shorts-fccb63980d501a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/04/POLISHUK_EP07/MASTER/POLISHUK_EP07/POLISHUK_EP07_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e46110e923b21a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 8: פולישוק סוף סוף מגיע לכותרות, אבל מגלה שפורסם בשמו שינוי במדיניות הממשלה כלפי שב\"חים פלסטינים - כשהוא בכלל התכוון לדבר על ילדים שלא רואים את אימם. במקום לעצור ולברר, הוא לוקח את הטלפון ומגן על דבריו בעצמו, וכבר מתלהב מהאפשרות להתראיין לחדשות. ההתלהבות נקטעת כשעל הקו עולה יועץ המפלגה, שדורש להבין מי נתן לו רשות לשנות את מדיניות הממשלה.",
+   "duration_s": 122,
+   "first_seen_ms": 1791784046249,
+   "image": "https://img.mako.co.il/2026/10/11/POLISHUK_EP08_1400_1791726709265_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791726715000,
+   "sections": [],
+   "title": "פולישוק פרק 8: סוף סוף בכותרות",
+   "type": "series",
+   "updated_ms": 1791726715000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e46110e923b21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/POLISHUK_EP08/MASTER/POLISHUK_EP08/POLISHUK_EP08_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/she_has_it-magazine/2026-m04_w02/shorts-6a837bb15ad5d91027.htm": {
    "author": "יש לה את זה",

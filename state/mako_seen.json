@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791783751527,
+ "last_run_ms": 1791784050228,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22939,6 +22939,18 @@
    "section": "דיגיטל",
    "title": "מחשש ל\"מבצע ביפרים\": ישראלי סולק מאירוע טק"
   },
+  "https://www.mako.co.il/nexter-news/Article-3dfdbed969e21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791783867393,
+   "content_type": "article",
+   "first_seen_ms": 1791783867393,
+   "indexable": true,
+   "indexnow_ms": 1791783867393,
+   "published_ms": 1791783540000,
+   "section": "דיגיטל",
+   "title": "שוב זה קורה: דיווח על אקזיט עצום לישראלית"
+  },
   "https://www.mako.co.il/nexter-news/Article-4f0d2d8cd2111a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28938,6 +28950,18 @@
    "published_ms": 1791097440000,
    "section": "",
    "title": "\"הפונדקאית ביקשה שהלידה תיגמר ונתנתק\""
+  },
+  "https://www.mako.co.il/tv-erez-nehederet/season24-articles/Article-a0fd11ae7eb11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791783988162,
+   "content_type": "article",
+   "first_seen_ms": 1791783988162,
+   "indexable": true,
+   "indexnow_ms": 1791783988162,
+   "published_ms": 1791783840000,
+   "section": "",
+   "title": "\"רוב הדיבורים שלנו הם על ריכולים וזוגיות\""
   },
   "https://www.mako.co.il/tv-exposure/articles/Article-51546d1815801a1027.htm": {
    "check_attempts": 1,
