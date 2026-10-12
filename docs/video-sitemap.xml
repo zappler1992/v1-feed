@@ -29,6 +29,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>טכנולוגיה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -99,6 +100,22 @@
 <video:uploader>חדשות</video:uploader>
 <video:tag>מהעולם</video:tag>
 <video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-d018aab34ee21a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/12/sinfeld_tamar_1210_m_1400_1791788066564_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;אתרום את הכסף של הכרטיס שלך לישראל&quot;: סיינפלד השיב למפגינה פלסטינית בקהל</video:title>
+<video:description>⁨הוא הכי משלנו! &quot;אני אתרום את הכסף של הכרטיס שלך לישראל&quot;: ג&#x27;רי סיינפלד השיב למפגינה פרו-פלסטינית שהפריעה במהלך הופעתו בשיקגו, והודיע שיתרום לישראל סכום בגובה מחיר הכרטיס שלה⁩</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/sinfeld_tamar_1210/MASTER/sinfeld_tamar_1210_m/sinfeld_tamar_1210_m_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>26</video:duration>
+<video:publication_date>2026-10-12T06:54:35+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
+<video:tag>סלבס</video:tag>
 </video:video>
 </url>
 <url>

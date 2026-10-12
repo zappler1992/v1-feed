@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e71f7ee400f21a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f8347ee400f21a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-d018aab34ee21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4484,6 +4483,24 @@
    "updated_ms": 1791744540000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-cb849a374ab21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_Sports_111026/MASTER/inbie_Sports_111026/inbie_Sports_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-d018aab34ee21a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "⁨הוא הכי משלנו! \"אני אתרום את הכסף של הכרטיס שלך לישראל\": ג'רי סיינפלד השיב למפגינה פרו-פלסטינית שהפריעה במהלך הופעתו בשיקגו, והודיע שיתרום לישראל סכום בגובה מחיר הכרטיס שלה⁩",
+   "duration_s": 26,
+   "first_seen_ms": 1791790947230,
+   "image": "https://img.mako.co.il/2026/10/12/sinfeld_tamar_1210_m_1400_1791788066564_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791788075000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"אתרום את הכסף של הכרטיס שלך לישראל\": סיינפלד השיב למפגינה פלסטינית בקהל",
+   "type": "general",
+   "updated_ms": 1791788075000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-d018aab34ee21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/sinfeld_tamar_1210/MASTER/sinfeld_tamar_1210_m/sinfeld_tamar_1210_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ec7217d3fda21a1026.htm": {
    "author": "סלבס",
@@ -26609,7 +26626,9 @@
    "image": "https://img.mako.co.il/2026/10/12/biata_charger_121026_1400_1791790020273_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791790026000,
-   "sections": [],
+   "sections": [
+    "טכנולוגיה"
+   ],
    "title": "סכנת התחשמלות: אל תטעינו עם המטען הזה",
    "type": "news",
    "updated_ms": 1791790026000,
