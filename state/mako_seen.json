@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791812248616,
+ "last_run_ms": 1791812548501,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9401,7 +9401,7 @@
    "indexnow_ms": 1791795867631,
    "published_ms": 1791795420000,
    "section": "תרבות tvbee",
-   "title": "בישראל הוא לא מוקרן: ההצלחה של \"נז\"א\" מעבר לים"
+   "title": "גרף מיליונים: הצלחת \"נז\"א\" מעבר לים"
   },
   "https://www.mako.co.il/culture-articles/Article-9e75b813de5f0a1027.htm": {
    "check_attempts": 1,
@@ -20167,6 +20167,18 @@
    "section": "פלילים",
    "title": "נשלח לבידוד: ראש ארגון הפשע הסתבך בכלא"
   },
+  "https://www.mako.co.il/men-men_news/Article-8a7fd52cc4031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791812548501,
+   "content_type": "article",
+   "first_seen_ms": 1791812548501,
+   "indexable": true,
+   "indexnow_ms": 1791812548501,
+   "published_ms": 1791812100000,
+   "section": "פלילים",
+   "title": "אלה העבריינים שנעצרו בחשד שיצאו למסע נקמה"
+  },
   "https://www.mako.co.il/men-men_news/Article-8b16a878df511a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23911,6 +23923,18 @@
    "section": "דיגיטל",
    "title": "גאווה ישראלית: הפיתוח שיציל את האנושות מה-AI"
   },
+  "https://www.mako.co.il/nexter-news/Article-789dd52cc4031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791812427513,
+   "content_type": "article",
+   "first_seen_ms": 1791812427513,
+   "indexable": true,
+   "indexnow_ms": 1791812427513,
+   "published_ms": 1791811980000,
+   "section": "דיגיטל",
+   "title": "מיקרוסופט תפטר עשרות עובדים בישראל"
+  },
   "https://www.mako.co.il/nexter-news/Article-7d0c9a19912e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25566,6 +25590,18 @@
    "published_ms": 1791790680000,
    "section": "",
    "title": "הנשק הישראלי החדש של צבא ארה\"ב נחשף לראשונה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-9e90d52cc4031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791812548501,
+   "content_type": "article",
+   "first_seen_ms": 1791812548501,
+   "indexable": true,
+   "indexnow_ms": 1791812548501,
+   "published_ms": 1791812160000,
+   "section": "",
+   "title": "עכברושים תועדו במגורי חיילות בבסיס, כך הגיבו בצה\"ל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a154d8f00ca11a1027.htm": {
    "check_attempts": 1,
