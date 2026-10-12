@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ed8bf5e39ee21a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-129bd6e70fe21a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f9f7f5e39ee21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26251,6 +26252,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0c9db965ed921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/rinat_yokeramichya_111026/MASTER/rinat_yokeramichya_111026_m/rinat_yokeramichya_111026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-129bd6e70fe21a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נוסעי טיסת פליי דובאי, שבמהלכה ניסה טייס המשנה לחטוף את המטוס ולרסקו, נערכים לתביעות\nשעשויות להגיע למאות מיליוני דולרים. כ־100 נוסעים כבר הצטרפו להתארגנות לבחירת עורכי דין \nשייצגו אותם בתביעות נגד פליי דובאי, מדינת ישראל וגורמים נוספים.",
+   "duration_s": 58,
+   "first_seen_ms": 1791790046801,
+   "image": "https://img.mako.co.il/2026/10/12/Kim_FlyDubai_12102026_1400_1791789085453_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791789092000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "תביעת המיליונים של נוסעי טיסת פליי דובאי",
+   "type": "news",
+   "updated_ms": 1791789092000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-129bd6e70fe21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_FlyDubai_12102026/MASTER/Kim_FlyDubai_12102026/Kim_FlyDubai_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-20f9a7425ba21a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26654,6 +26673,24 @@
    "updated_ms": 1791748463000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f0e2e7cda7c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_BAZAN_111026/MASTER/inbie_BAZAN_111026/inbie_BAZAN_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f9f7f5e39ee21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לידן ערבה, בן 31 מכפר יונה, נעדר במדריד לאחר שיצא לחופשה עם חברים.\n לאחר ששוחח עם אשתו, נותק עמו הקשר והוא לא הגיע לטיסה חזרה לישראל. המשפחה \nוזק״א מבקשים את עזרת הציבור באיתורו",
+   "duration_s": 28,
+   "first_seen_ms": 1791790046801,
+   "image": "https://img.mako.co.il/2026/10/12/Kim_Madrid_12102026_1400_1791788860522_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791788866000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "חשש לחייו: הישראלי שנעדר בחופשה במדריד",
+   "type": "news",
+   "updated_ms": 1791788866000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f9f7f5e39ee21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Madrid_12102026/MASTER/Kim_Madrid_12102026/Kim_Madrid_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
