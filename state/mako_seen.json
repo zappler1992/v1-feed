@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791799949450,
+ "last_run_ms": 1791800249509,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23647,6 +23647,18 @@
    "section": "דיגיטל",
    "title": "\"המחבל בא לירות בי, והיה לו מעצור בנשק\""
   },
+  "https://www.mako.co.il/nexter-news/Article-96d6d25542b21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791800067084,
+   "content_type": "article",
+   "first_seen_ms": 1791800067084,
+   "indexable": true,
+   "indexnow_ms": 1791800067084,
+   "published_ms": 1791799860000,
+   "section": "דיגיטל",
+   "title": "\"ראינו את הבלגן בקבוצות והחלטנו למצוא פתרון\""
+  },
   "https://www.mako.co.il/nexter-news/Article-9717350e27de0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27750,6 +27762,18 @@
    "published_ms": 1790671500000,
    "section": "חופש",
    "title": "\"כמה את לוקחת ללילה\": ישראלית הוטרדה בטיול"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-0992a615c2f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791800249509,
+   "content_type": "article",
+   "first_seen_ms": 1791800249509,
+   "indexable": true,
+   "indexnow_ms": 1791800249509,
+   "published_ms": 1791798780000,
+   "section": "חופש",
+   "title": "הישראלי שהציל את החיים של נהג המונית התאילנדי"
   },
   "https://www.mako.co.il/travel-news/international/Article-0b68333d48de0a1026.htm": {
    "check_attempts": 1,
