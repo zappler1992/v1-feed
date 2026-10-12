@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c293cd0033131a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7b06cd0033131a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2dc9b705fe031a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12596,7 +12597,7 @@
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-2ab1869e61131a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "מתקפת סייבר חסרת תקדים כוונה אל מקררים במאות סניפים של רשתות מזון בצרפת ובלגיה. האקרים הצליחו פרצו למקררים והעלו את הטמפרטורה שלהם ל-50 מעלות. כתוצאה מכך, עובדים נאלצו לזרוק כמויות ענק של מזון שהתקלקל",
+   "description": "מתקפת סייבר חסרת תקדים כוונה אל מקררים במאות סניפים של רשתות מזון בצרפת והולנד. האקרים הצליחו פרצו למקררים והעלו את הטמפרטורה שלהם ל-50 מעלות. כתוצאה מכך, עובדים נאלצו לזרוק כמויות ענק של מזון שהתקלקל.",
    "duration_s": 35,
    "first_seen_ms": 1791827846270,
    "image": "https://img.mako.co.il/2026/10/12/ASAF_FRIDGE_12102026_M_1400_1791826125963_FirstFrame.jpg",
@@ -12607,7 +12608,7 @@
    "type": "general",
    "updated_ms": 1791826132000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-2ab1869e61131a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_FRIDGE_12102026_MFIX/ASAF_FRIDGE_12102026_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_FRIDGE_12102026_MFIX2/ASAF_FRIDGE_12102026_MFIX2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-3747512e9bf21a1027.htm": {
    "author": "מהעולם",
@@ -26619,6 +26620,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_fight_111026/MASTER/inbie_fight_111026/inbie_fight_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2dc9b705fe031a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "חיילות בקורס לפיקוד תצפיתניות בבסיס סיירים מתלוננות על עכברים במגורים. לטענתן, הן פונות לסגל כבר כשבועיים ללא פתרון, ואף ננזפו לאחר שניסו להביא לטיפול בבעיה. מדובר צה\"ל נמסר: \"במהלך הימים האחרונים חיילות בקורס פיקוד התלוננו על חולדה במרחב מגורי הבנות בבסיס, הנושא נבדק ומטופל. לא מוכר אף אירוע בו סגל המפקדים התעלם מהטענות של החיילות, המפקדים מטפלים באופן אישי בבעיה ומנהלים שיח רציף עמן\".",
+   "duration_s": 23,
+   "first_seen_ms": 1791828746255,
+   "image": "https://img.mako.co.il/2026/10/12/ASAF_RATS_12102026_M_1400_1791822639162_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791822645000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "עכברושים תועדו במגורי חיילות בבסיס סיירים, מטפסים על המיטות ובתוך הציוד האישי",
+   "type": "news",
+   "updated_ms": 1791822645000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2dc9b705fe031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_RATS_12102026/MASTER/ASAF_RATS_12102026_M/ASAF_RATS_12102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-360bb3c974b21a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26882,7 +26901,8 @@
    "importance": 2,
    "published_ms": 1791818542000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "אלונקה אחרי אלונקה: חיילי צה\"ל מחלצים את הילדים מהזירה - תמונות מצמררות",
    "type": "news",
@@ -55509,6 +55529,24 @@
    "updated_ms": 1791789071000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-766bd6e70fe21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_meyaret_7190_12102026070952/V1_meyaret_7190_12102026070952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7b06cd0033131a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 27 נפצע בינוני במהלך רכיבה על קורקינט ברחוב אליעזר קפלן בתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1791828746255,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17198_12102026060703_1400_1791828515099_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791828521000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 27 נפצע בינוני במהלך רכיבה על קורקינט ברחוב אליעזר קפלן בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1791828521000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7b06cd0033131a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17198_12102026060703/M_NEWS_17198_12102026060703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7bb0e360c8c21a1026.htm": {
    "author": "מבזקים",
