@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791793349342,
+ "last_run_ms": 1791793649345,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -838,6 +838,18 @@
    "published_ms": 1791760152000,
    "section": "Fashion Forward",
    "title": "שני המותגים שכולן אובססיביות אליהם משתפים פעולה, והאיטגירלס עומדות להשתגע"
+  },
+  "https://fashionforward.mako.co.il/news/321613/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791793649345,
+   "content_type": "article",
+   "first_seen_ms": 1791793649345,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791793380000,
+   "section": "Fashion Forward",
+   "title": "אחרי שנעלמה: סשה אדם חוזרת בג'ינס הורס וצמיד שעשה את כל הלוק"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -6368,6 +6380,18 @@
    "published_ms": 1790955180000,
    "section": "ספורט",
    "title": "על המדף: הישראלים החופשיים שללא קבוצה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8cf5302033f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791793586887,
+   "content_type": "article",
+   "first_seen_ms": 1791793586887,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791793380000,
+   "section": "ספורט",
+   "title": "תביעת הענק של רוס קסטין נגד אייל סגל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8d708edaa1b21a1027.htm": {
    "check_attempts": 1,
@@ -15679,6 +15703,18 @@
    "section": "HIX",
    "title": "הרוצחת כריסטה פייק סירבה לבחור ארוחה אחרונה"
   },
+  "https://www.mako.co.il/hix-special/Article-109bd71bf2f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791793466842,
+   "content_type": "article",
+   "first_seen_ms": 1791793466842,
+   "indexable": true,
+   "indexnow_ms": 1791793466842,
+   "published_ms": 1791793200000,
+   "section": "HIX",
+   "title": "\"ישבה בנוחות בין דגלי חמאס וקריאות בעד חמאס\""
+  },
   "https://www.mako.co.il/hix-special/Article-111c66961e611a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -21414,6 +21450,18 @@
    "published_ms": 1790845680000,
    "section": "מוזיקה",
    "title": "מתמודד \"אמריקן איידול\" הורשע ברצח אשתו"
+  },
+  "https://www.mako.co.il/music-news/Article-56aceb7f62f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791793586887,
+   "content_type": "article",
+   "first_seen_ms": 1791793586887,
+   "indexable": true,
+   "indexnow_ms": 1791793586887,
+   "published_ms": 1791793140000,
+   "section": "מוזיקה",
+   "title": "תיעוד מטריד: הכוכב בן ה-85 כבר בקושי זז על הבמה"
   },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
@@ -30150,6 +30198,18 @@
    "published_ms": 1791358020000,
    "section": "",
    "title": "נועה קירל כובשת את ארגנטינה עם הסדרה החדשה"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-5432cff8e1f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791793586887,
+   "content_type": "article",
+   "first_seen_ms": 1791793586887,
+   "indexable": true,
+   "indexnow_ms": 1791793586887,
+   "published_ms": 1791793500000,
+   "section": "",
+   "title": "כך הגיב בעלה של סתיו נפתלי לסערת הסכם הממון"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-5ae46212d0111a1026.htm": {
    "check_attempts": 1,
