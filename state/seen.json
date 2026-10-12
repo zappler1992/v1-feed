@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-438838cdf6f21a1027.htm",
-  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3a51ae600af21a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c481ae600af21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54552,6 +54552,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-35a730c60db21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17130_11102026050456/M_NEWS_17130_11102026050456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3a51ae600af21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שר החוץ סער נפגש עם יו\"ר הפרלמנט האלבני: \"שוחחנו על המצב באזור וחיזוק הקשרים בין המדינות\"",
+   "duration_s": 9,
+   "first_seen_ms": 1791801745781,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17175_12102026103607_1400_1791801447976_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791801454000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שר החוץ סער נפגש עם יו\"ר הפרלמנט האלבני: \"שוחחנו על המצב באזור וחיזוק הקשרים בין המדינות\"",
+   "type": "mivzakim",
+   "updated_ms": 1791801454000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3a51ae600af21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17175_12102026103607/M_NEWS_17175_12102026103607_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3a5f1e0fdca21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76561,6 +76579,24 @@
    "updated_ms": 1791749596000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a8202628c8c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_turkey_7179_11102026081146/V1_karind_turkey_7179_11102026081146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c481ae600af21a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מסתבר שבמקום חתולים משוטטים, בנפאל יש קרנפים באמצע הרחוב",
+   "duration_s": 39,
+   "first_seen_ms": 1791801745781,
+   "image": "https://img.mako.co.il/2026/10/12/V1_Nepal_7192_12102026103640_1400_1791801484209_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791801490000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מסתבר שבמקום חתולים משוטטים, בנפאל יש קרנפים באמצע הרחוב",
+   "type": "mivzakim",
+   "updated_ms": 1791801490000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c481ae600af21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_Nepal_7192_12102026103640/V1_Nepal_7192_12102026103640_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-dbe69a374ab21a1027.htm": {
    "author": "מבזקים מהעולם",
