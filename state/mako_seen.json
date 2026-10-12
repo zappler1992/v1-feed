@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791814648838,
+ "last_run_ms": 1791814949084,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5936,6 +5936,18 @@
    "published_ms": 1791291000000,
    "section": "ספורט",
    "title": "שני שחקני מכבי חיפה שבספק להפועל ירושלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-10e861a0a7031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791814949084,
+   "content_type": "article",
+   "first_seen_ms": 1791814949084,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791814680000,
+   "section": "ספורט",
+   "title": "\"הכי גרוע שיש\": ה\"סיוט הענק\" של אקס מכבי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-15d1302491b11a1027.htm": {
    "check_attempts": 1,
