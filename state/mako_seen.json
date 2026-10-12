@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791801149439,
+ "last_run_ms": 1791801448393,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11538,6 +11538,18 @@
    "published_ms": 1790496180000,
    "section": "סלבס",
    "title": "אחרי סערת העירום: סידני סוויני תחת מתקפה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-df50bd6f88f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791801448393,
+   "content_type": "article",
+   "first_seen_ms": 1791801448393,
+   "indexable": true,
+   "indexnow_ms": 1791801448393,
+   "published_ms": 1791801240000,
+   "section": "סלבס",
+   "title": "אחרי הסערה: הכוכבת חושפת את השינוי שעשתה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-e17a1d1697ee0a1027.htm": {
    "check_attempts": 1,
@@ -28830,6 +28842,18 @@
    "published_ms": 1790162340000,
    "section": "",
    "title": "משרד החוץ מזהיר ישראלים שנמצאים במדינה הזו"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-fea847ace7f21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791801448393,
+   "content_type": "article",
+   "first_seen_ms": 1791801448393,
+   "indexable": true,
+   "indexnow_ms": 1791801448393,
+   "published_ms": 1791798180000,
+   "section": "חופש",
+   "title": "הטייסים בחברת התעופה האירופית דורשים לבטל את הקו לארץ"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0912145821601a1026.htm": {
    "check_attempts": 1,
