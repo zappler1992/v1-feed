@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791819148697,
+ "last_run_ms": 1791819448830,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6476,6 +6476,18 @@
    "published_ms": 1790955180000,
    "section": "ספורט",
    "title": "על המדף: הישראלים החופשיים שללא קבוצה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-87f3edc76b031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791819386993,
+   "content_type": "article",
+   "first_seen_ms": 1791819386993,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791819300000,
+   "section": "ספורט",
+   "title": "\"הזוי\": בהולנד הופתעו מהוולקאם לאלי דסה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8cf5302033f21a1026.htm": {
    "check_attempts": 1,
@@ -21413,7 +21425,7 @@
    "indexnow_ms": 1791808467302,
    "published_ms": 1791807600000,
    "section": "פלילים",
-   "title": "תיעוד חריג: שלף אקדח בגלל ויכוח על חנייה בכפר סבא"
+   "title": "\"אני משוגע פי אלף ממך\": שלף אקדח בגלל ויכוח על חנייה"
   },
   "https://www.mako.co.il/men-men_news/Article-f3b1cff813b11a1026.htm": {
    "check_attempts": 1,
