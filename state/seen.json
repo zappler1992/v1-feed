@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d9acfad427131a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-82aafad427131a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55637,6 +55638,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7def5bb3d9a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_BUS_7158_11102026110342/V1_BUS_7158_11102026110342_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-82aafad427131a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים בסעודיה: פיצוצים בריאד בעקבות תקיפות חות'ים",
+   "duration_s": 40,
+   "first_seen_ms": 1791831446310,
+   "image": "https://img.mako.co.il/2026/10/12/V1_karind_riaad_7230_12102026065125_1400_1791831181390_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791831187000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים בסעודיה: פיצוצים בריאד בעקבות תקיפות חות'ים",
+   "type": "mivzakim",
+   "updated_ms": 1791831187000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-82aafad427131a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_riaad_7230_12102026065125/V1_karind_riaad_7230_12102026065125_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-82b1e813bff21a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -56321,6 +56340,24 @@
    "updated_ms": 1791816360000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_YARON_121026/SHIR_YARON_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d9acfad427131a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווחים ערביים: שריפות פרצו בריאד בעקבות מתקפת טילים בליסטיים של החות׳ים",
+   "duration_s": 40,
+   "first_seen_ms": 1791831446310,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17199_12102026065249_1400_1791831251906_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791831258000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווחים ערביים: שריפות פרצו בריאד בעקבות מתקפת טילים בליסטיים של החות׳ים",
+   "type": "mivzakim",
+   "updated_ms": 1791831258000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d9acfad427131a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17199_12102026065249/M_NEWS_17199_12102026065249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d9cbdb5c4c031a1026.htm": {
    "author": "מבזקים",
