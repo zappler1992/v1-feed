@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8f2a407318031a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e71a407318031a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e605389788031a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55897,9 +55895,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "\"אין טיפול מספיק בתופעת הנפלים, סכנה לחיי אדם\" | גיא ורון",
-   "duration_s": 53,
+   "duration_s": 44,
    "first_seen_ms": 1791815546022,
-   "image": "https://img.mako.co.il/2026/10/12/V1_SHIR_GUY_7210_12102026022851_1400_1791815427068_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/12/SHIR_YARON_121026_1400_1791816288952_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1791815434000,
    "sections": [
@@ -55909,7 +55907,7 @@
    "type": "mivzakim",
    "updated_ms": 1791815434000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_SHIR_GUY_7210_12102026022851/V1_SHIR_GUY_7210_12102026022851_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_YARON_121026/SHIR_YARON_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc051e0fdca21a1027.htm": {
    "author": "מבזקים",
@@ -56144,6 +56142,24 @@
    "updated_ms": 1791729300000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e5bb392cc5b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_bibi_7164_11102026023114/V1_karind_bibi_7164_11102026023114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e605389788031a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל: מתחקיר ראשוני עולה כי ככל הנראה מדובר בפצצת מצרר של חיזבאללה שנותרה בשטח",
+   "duration_s": 12,
+   "first_seen_ms": 1791816446034,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17192_12102026024324_1400_1791816297198_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791816303000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל: מתחקיר ראשוני עולה כי ככל הנראה מדובר בפצצת מצרר של חיזבאללה שנותרה בשטח",
+   "type": "mivzakim",
+   "updated_ms": 1791816303000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e605389788031a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17192_12102026024324/M_NEWS_17192_12102026024324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e71a407318031a1027.htm": {
    "author": "מבזקים",
