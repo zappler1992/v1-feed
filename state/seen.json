@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-26fbf306c1031a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0947944ae1031a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6464944ae1031a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54444,6 +54445,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w02/shorts-fe6e1c77e4411a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_weather0710_6966_07102026032058/V1_weather0710_6966_07102026032058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0947944ae1031a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מסוקים מפנים פצועים מהפיצוץ במעלות",
+   "duration_s": 5,
+   "first_seen_ms": 1791809245973,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17183_12102026124425_1400_1791809132330_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791809139000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מסוקים מפנים פצועים מהפיצוץ במעלות",
+   "type": "mivzakim",
+   "updated_ms": 1791809139000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0947944ae1031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17183_12102026124425/M_NEWS_17183_12102026124425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0ab6bed969e21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -55003,6 +55022,24 @@
    "updated_ms": 1791688712000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-639f4dad8d821a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17082_11102026031654/M_NEWS_17082_11102026031654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6464944ae1031a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפצועים בפיצוץ: תלמידי הישיבה התיכונית אורט מעלות",
+   "duration_s": 9,
+   "first_seen_ms": 1791809245973,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17179_12102026124158_1400_1791809005873_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791809012000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפצועים בפיצוץ: תלמידי הישיבה התיכונית אורט מעלות",
+   "type": "mivzakim",
+   "updated_ms": 1791809012000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6464944ae1031a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17179_12102026124158/M_NEWS_17179_12102026124158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-66f9ab1d74e21a1026.htm": {
    "author": "מבזקים",
