@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1f7b194c80131a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3a36d109f031a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55124,7 +55124,8 @@
    "importance": 2,
    "published_ms": 1791795392000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "סטפת שטרות, רולקס, טסלה ובירקין: תיעוד השוחד ממעצר ראש עיריית כפר סבא",
    "type": "mivzakim",
@@ -55979,6 +55980,24 @@
    "updated_ms": 1791732422000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d12fbba6b8b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_usa_7168_11102026032541/V1_karind_usa_7168_11102026032541_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3a36d109f031a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב עולה באש בכביש 6 - עומסי תנועה באזור",
+   "duration_s": 4,
+   "first_seen_ms": 1791824846240,
+   "image": "https://img.mako.co.il/2026/10/12/V1_karind_kvish6_7222_12102026050035_1400_1791824508071_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791824515000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב עולה באש בכביש 6 - עומסי תנועה באזור",
+   "type": "mivzakim",
+   "updated_ms": 1791824515000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3a36d109f031a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_kvish6_7222_12102026050035/V1_karind_kvish6_7222_12102026050035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3e8451818a21a1026.htm": {
    "author": "מבזקים",
