@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791797549505,
+ "last_run_ms": 1791797849422,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6812,6 +6812,18 @@
    "published_ms": 1791711600000,
    "section": "ספורט",
    "title": "התיעוד החדש שעלול לסבך את הפועל פ\"ת"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e396657dc6f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791797786992,
+   "content_type": "article",
+   "first_seen_ms": 1791797786992,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791797640000,
+   "section": "ספורט",
+   "title": "נשאר בבירה: גדראני האריך חוזה בבית\"ר י-ם"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e415db7ce96f0a1026.htm": {
    "check_attempts": 1,
@@ -16879,6 +16891,18 @@
    "section": "הורים",
    "title": "רוב הפותרים של החידה מתייאשים אחרי חמש דקות"
   },
+  "https://www.mako.co.il/home-family-kids/Article-d68938c0e5f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791797667041,
+   "content_type": "article",
+   "first_seen_ms": 1791797667041,
+   "indexable": true,
+   "indexnow_ms": 1791797667041,
+   "published_ms": 1791795960000,
+   "section": "הורים",
+   "title": "50% מההורים: המורים למדעים לא מספיק טובים"
+  },
   "https://www.mako.co.il/home-family-kids/Article-f90023bfed701a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -21401,7 +21425,7 @@
    "indexnow_ms": 1791796957676,
    "published_ms": 1791796680000,
    "section": "מוזיקה",
-   "title": "חילקו דפים בהופעה של הזמר: \"הוא אנס\". כך הוא הגיב"
+   "title": "חילקו דפים בהופעה של הזמר: \"הוא אנס. אתה יודע מה עשית\""
   },
   "https://www.mako.co.il/music-news/Article-3791908cb88c0a1026.htm": {
    "check_attempts": 1,
