@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b496869e61131a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-12T17:35:10+00:00</news:publication_date>
+<news:title>כמעט פליי דובאי 2: טיסה מאתיופיה לישראל עשתה פרסה - בגלל שהטייס היה מאינדונזיה, מדינה עוינת</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/12/V1_karind_flydubai_7225_12102026053224_1400_1791826503336_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88b6173881131a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1943,14 +1952,5 @@
 <news:title>נתניהו נגד וינטר בעקבות דבריו בפגוש את העיתונות: &quot;הוא בנט 2&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/10/M_NEWS_17070_10102026053730_1400_1791653923398_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w02/shorts-b19b78e5bd621a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-10T17:34:50+00:00</news:publication_date>
-<news:title>נכנס למתחם הטיגריסים ונהרג: רגעי האימה בגן החיות בבריטניה לעיני המבקרים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/10/V1_TIGER_7137_10102026053306_1400_1791653684256_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
