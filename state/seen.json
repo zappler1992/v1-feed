@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b874aa9a44e21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -26288,6 +26289,22 @@
    "updated_ms": 1791741728000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2752a97201c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_ABAM_111026/MASTER/inbie_ABAM_111026/inbie_ABAM_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מכות מטורפות אחרי בית הספר: בת 12 הותקפה באלימות קשה על ידי ילדה אחרת בזמן שחבריהם עומדים מסביב ומסתכלים.",
+   "duration_s": 79,
+   "first_seen_ms": 1791780446284,
+   "image": "https://img.mako.co.il/2026/10/11/inbie_fight_111026_1400_1791746128718_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791746135000,
+   "sections": [],
+   "title": "מכות מטורפות אחרי בית הספר: בת 12 הותקפה באלימות קשה על ידי ילדה אחרת",
+   "type": "news",
+   "updated_ms": 1791746135000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_fight_111026/MASTER/inbie_fight_111026/inbie_fight_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-360bb3c974b21a1026.htm": {
    "author": "חדשות",
@@ -54530,9 +54547,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "אחרי חקירה סמויה של שנה: ראש עיר במרכז נעצר יחד עם אשתו בחשד לקבלת שוחד ותפירת מכרזים",
-   "duration_s": 53,
+   "duration_s": 80,
    "first_seen_ms": 1791778945870,
-   "image": "https://img.mako.co.il/2026/10/12/biata_mayor_miv_fix_1400_1791779308442_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/12/biata_mayor_miv_fix2_1400_1791780318936_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791778834000,
    "sections": [
@@ -54540,9 +54557,9 @@
    ],
    "title": "אחרי חקירה סמויה של שנה: ראש עיר במרכז נעצר יחד עם אשתו בחשד לקבלת שוחד ותפירת מכרזים",
    "type": "mivzakim",
-   "updated_ms": 1791779940000,
+   "updated_ms": 1791780300000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-94c5ab1d74e21a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_mayor_miv_fix/biata_mayor_miv_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_mayor_miv_fix2/biata_mayor_miv_fix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9dc2df94e8a21a1027.htm": {
    "author": "מבזקים",
@@ -55084,6 +55101,24 @@
    "updated_ms": 1791741937000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e283a97201c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_KARIND_AMMY_7173_11102026060409/V1_KARIND_AMMY_7173_11102026060409_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרשויות בסעודיה: בתקיפה בנמל התעופה בריאד נהרג תושב בעל אזרחות פקיסטנית ו-11 נפצעו",
+   "duration_s": 37,
+   "first_seen_ms": 1791780446284,
+   "image": "https://img.mako.co.il/2026/10/12/M_NEWS_17146_12102026044343_1400_1791780301392_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791780308000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרשויות בסעודיה: בתקיפה בנמל התעופה בריאד נהרג תושב בעל אזרחות פקיסטנית ו-11 נפצעו",
+   "type": "mivzakim",
+   "updated_ms": 1791780308000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17146_12102026044343/M_NEWS_17146_12102026044343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e44f451818a21a1026.htm": {
    "author": "מבזקים",
