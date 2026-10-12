@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791782551984,
+ "last_run_ms": 1791782849254,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14719,6 +14719,18 @@
    "section": "בריאות",
    "title": "\"אין טיפול שיוכל להשכיח את המראות שראינו שם\""
   },
+  "https://www.mako.co.il/health-news/Article-e9a6692416a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791782787512,
+   "content_type": "article",
+   "first_seen_ms": 1791782787512,
+   "indexable": true,
+   "indexnow_ms": 1791782787512,
+   "published_ms": 1791781620000,
+   "section": "בריאות",
+   "title": "לא מצליחים להתגבר על החשק למתוק? הנה הסוד"
+  },
   "https://www.mako.co.il/health-news/Article-e9f7e524b9a11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28435,6 +28447,18 @@
    "section": "",
    "title": "השיחה הדרמטית בין נתניהו לקפטן ההודי מטיסת פליי-דובאי"
   },
+  "https://www.mako.co.il/travel-news/israel/Article-9f143f6a9aa21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791782787512,
+   "content_type": "article",
+   "first_seen_ms": 1791782787512,
+   "indexable": true,
+   "indexnow_ms": 1791782787512,
+   "published_ms": 1791778860000,
+   "section": "חופש",
+   "title": "גם בחורף: טיסות מהארץ לאי האהוב על הישראלים - ממשיכות"
+  },
   "https://www.mako.co.il/travel-news/israel/Article-afc6b05b6bfc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28602,6 +28626,18 @@
    "published_ms": 1790568960000,
    "section": "חופש",
    "title": "המלון המוכר באילת הופך להיות \"הכל כלול אקסטרה\""
+  },
+  "https://www.mako.co.il/travel-world/Article-01cceca640b21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791782787512,
+   "content_type": "article",
+   "first_seen_ms": 1791782787512,
+   "indexable": true,
+   "indexnow_ms": 1791782787512,
+   "published_ms": 1791779880000,
+   "section": "חופש",
+   "title": "העיר האירופית הזו הפכה לאחת המבוקשת ביבשת"
   },
   "https://www.mako.co.il/travel-world/Article-283c43f3529c0a1027.htm": {
    "check_attempts": 1,
