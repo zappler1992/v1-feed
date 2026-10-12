@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-3d191ff3d8e21a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-70b45a43e6e21a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4412,6 +4412,24 @@
    "updated_ms": 1791751148000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-0fb7b207b9c21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIRA_SOLJA_111026/MASTER/SHIRA_SOLJA_111026_M/SHIRA_SOLJA_111026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-3d191ff3d8e21a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "רגע לפני שעומר עולה לבמה במופע NEXT, סשה אדם אשתו הטרייה, כבר נמצאת הכי קרוב לבמה",
+   "duration_s": 20,
+   "first_seen_ms": 1791783147427,
+   "image": "https://img.mako.co.il/2026/10/12/Kim_Sasha_12102026_1400_1791782508202_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791782514000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הכי קרובה לבמה: סשה במופע נקסט רגע לפני שעומר עולה לבמה",
+   "type": "general",
+   "updated_ms": 1791782514000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-3d191ff3d8e21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Sasha_12102026/MASTER/Kim_Sasha_12102026/Kim_Sasha_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-4fe0392cc5b21a1026.htm": {
    "author": "סלבס",
@@ -75934,6 +75952,24 @@
    "updated_ms": 1791707676000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-45dc9f4661a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/NepalFIX/NepalFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-70b45a43e6e21a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עשרות גמלים מטיילים בחוף פזאיה שבעומאן יוצרים מחזה טבע מרהיב",
+   "duration_s": 19,
+   "first_seen_ms": 1791783147427,
+   "image": "https://img.mako.co.il/2026/10/12/V1_camels_7186_12102026052510_1400_1791782784410_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791782790000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עשרות גמלים מטיילים בחוף פזאיה שבעומאן יוצרים מחזה טבע מרהיב",
+   "type": "mivzakim",
+   "updated_ms": 1791782790000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-70b45a43e6e21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_camels_7186_12102026052510/V1_camels_7186_12102026052510_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-78bc4f1008921a1026.htm": {
    "author": "מבזקים מהעולם",
