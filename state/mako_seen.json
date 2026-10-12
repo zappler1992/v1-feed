@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791823949146,
+ "last_run_ms": 1791824250093,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23527,6 +23527,18 @@
    "section": "ספורט",
    "title": "הסערה מאחוריו: רונאלדו כבש את השער ה-980"
   },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-9f506d109f031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791824187318,
+   "content_type": "article",
+   "first_seen_ms": 1791824187318,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791824100000,
+   "section": "ספורט",
+   "title": "פי 3: קפיצת הערך של אבו פרחי ותורג`מן"
+  },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24426,6 +24438,18 @@
    "published_ms": 1791786840000,
    "section": "דיגיטל",
    "title": "זה סוף סוף קורה: הפיצ'ר שחיכינו לו שנים מגיע"
+  },
+  "https://www.mako.co.il/nexter-news/Article-bc58944ae1031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791824250093,
+   "content_type": "article",
+   "first_seen_ms": 1791824250093,
+   "indexable": true,
+   "indexnow_ms": 1791824250093,
+   "published_ms": 1791813480000,
+   "section": "דיגיטל",
+   "title": "שבועיים לפני: התרחיש הקיצון שמאיים על הבחירות"
   },
   "https://www.mako.co.il/nexter-news/Article-be6763dc57011a1027.htm": {
    "check_attempts": 1,
