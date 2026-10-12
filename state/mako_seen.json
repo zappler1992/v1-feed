@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791790351625,
+ "last_run_ms": 1791790651855,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11515,6 +11515,18 @@
    "section": "",
    "title": "מייגן פוקס פתחה עמוד נועז - והאתר קרס"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-f6c9a55d9ce21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791790468256,
+   "content_type": "article",
+   "first_seen_ms": 1791790468256,
+   "indexable": true,
+   "indexnow_ms": 1791790468256,
+   "published_ms": 1791790140000,
+   "section": "סלבס",
+   "title": "אחרי שהואשמו ברעילות: הכוכבות טסו יחד לחגוג"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-f85b53f5447f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14334,6 +14346,18 @@
    "published_ms": 1790232480000,
    "section": "",
    "title": "אחרי 8 חודשים: התרופה שחסרה חוזרת למדפים"
+  },
+  "https://www.mako.co.il/health-news/Article-51e17ee400f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791790588364,
+   "content_type": "article",
+   "first_seen_ms": 1791790588364,
+   "indexable": true,
+   "indexnow_ms": 1791790588364,
+   "published_ms": 1791790080000,
+   "section": "בריאות",
+   "title": "רעננה: חשש לחיי פועל עגורן בשל אירוע בגובה"
   },
   "https://www.mako.co.il/health-news/Article-55ceb6c7ce411a1027.htm": {
    "check_attempts": 1,
