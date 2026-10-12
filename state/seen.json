@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5434f71d95f21a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-438838cdf6f21a1027.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12572,6 +12573,24 @@
    "updated_ms": 1791795121000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-3d2a358de4f21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Girl_12102026/MASTER/Kim_Girl_12102026/Kim_Girl_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-438838cdf6f21a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אישה תועדה כשהיא מחייכת במהלך נסיעה ברכבל, עד שהאייפון 18 פרו שלה נשמט מידיה \nונפל היישר אל הסלעים שמתחת. הסרטון מעורר תהיות ברשת: האם מדובר בתאונה אמיתית או בסרטון מבוים?",
+   "duration_s": 33,
+   "first_seen_ms": 1791799346652,
+   "image": "https://img.mako.co.il/2026/10/12/Kim_IPhone16_12102026_1400_1791797258682_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791797265000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "אמיתי או פייק? האישה שהפילה אייפון 18 פרו מרכבל",
+   "type": "general",
+   "updated_ms": 1791797265000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-438838cdf6f21a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_IPhone16_12102026/MASTER/Kim_IPhone16_12102026/Kim_IPhone16_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-64ca473414b21a1027.htm": {
    "author": "מהעולם",
@@ -69115,6 +69134,24 @@
    "updated_ms": 1791290640000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w02/shorts-f1f80f8137011a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/06/biata_iphone_061026_fix/biata_iphone_061026_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "מעצבת האמוג'ים של גוגל שיתפה בחשבון האינסטגרם שלה מעט מהעבודה על עיצובי תלת המימד ותהתה, אם כבר תלת מימד, איך נראה האמוג'י מכל הזוויות שלו. אז, איך נראה הצד האחורי שלו? ניתן לכם לראות בעצמכם.",
+   "duration_s": 16,
+   "first_seen_ms": 1791799346652,
+   "image": "https://img.mako.co.il/2026/10/12/biata_ass_1211026_1400_1791798419643_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791798426000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "התשובה לשאלה שלא העזתם לשאול על אמוג'ים",
+   "type": "general",
+   "updated_ms": 1791798426000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_ass_1211026/MASTER/biata_ass_1211026/biata_ass_1211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",
