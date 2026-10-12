@@ -79,6 +79,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -164,6 +165,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-5269fad427131a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/12/SHIR_SABA_121026_1400_1791831030028_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מפקחית חנייה לקבל שוחד: השחיתות של אישתו של ראש עיריית כפר סבא</video:title>
+<video:description>מיטל סער, אשת ראש עיריית כפר סבא רפי סער, חשודה בקבלת שוחד מאנשי עסקים וגורמים עברייניים בתמורה לקידום זכייתם במכרזים עירוניים. בפרשה נבדקים חשדות לשחיתות בהיקף של מיליוני שקלים.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_SABA_121026/MASTER/SHIR_SABA_121026/SHIR_SABA_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>69</video:duration>
+<video:publication_date>2026-10-12T18:50:36+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/12/V1_SHIR_POLL_7229_12102026061910_1400_1791829350723_FirstFrame.jpg</video:thumbnail_loc>
@@ -210,6 +228,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
