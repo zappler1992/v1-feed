@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e20bb207b9c21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4366,7 +4366,8 @@
    "importance": 1,
    "published_ms": 1791744208000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "סשה בלוק מהמם להופעה של בעלה הטרי עומר אדם ב-NEXT",
    "type": "general",
@@ -26524,6 +26525,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LIRONNEXTP/MASTER/LIRONNEXTM/LIRONNEXTM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e20bb207b9c21a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791773545902,
+   "image": "https://img.mako.co.il/2026/10/11/inbie_arrest_111026_1400_1791749919179_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791749925000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "דרמה בפרשת פליי דובאי: עוד 2 טייסים נעצרו",
+   "type": "news",
+   "updated_ms": 1791749925000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e20bb207b9c21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_arrest_111026/MASTER/inbie_arrest_111026/inbie_arrest_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e9c946a3b9b21a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -26553,7 +26572,8 @@
    "importance": 2,
    "published_ms": 1791748463000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ההודעה החריגה לתושבי קריית אתא",
    "type": "news",
@@ -75797,7 +75817,8 @@
    "importance": 0,
    "published_ms": 1791749596000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "האוטובוס מתנגש במשאית - ומתהפך: 11 הרוגים ו-27 פצועים בתאונה קטלנית בטורקיה",
    "type": "mivzakim",
