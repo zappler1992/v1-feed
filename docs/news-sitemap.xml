@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bca5c32fc0631a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-13T16:30:00+00:00</news:publication_date>
+<news:title>רופא נתפס בנתב&quot;ג מבריח 300 שתילי בננה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/13/yoav_banana_131026_1400_1791908971285_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d64981e0f531a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2492,23 +2501,5 @@
 <news:title>צעיר כבן 20 פונה במצב בינוני לאחר שנפגע ממסור דיסק במעלה אדומים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/11/M_NEWS_17130_11102026050456_1400_1791738386222_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-a0190a254db21a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-11T16:42:42+00:00</news:publication_date>
-<news:title>אחרי 30 שנה: זוהה &quot;האיש במגפיים הירוקים&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/11/biata_mystery_111026_1400_1791736955364_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-11T16:42:35+00:00</news:publication_date>
-<news:title>הווטסאפ של אוריך: עמית סגל על השיחות שלו שדלפו עם יועץ ראש הממשלה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/11/FIX_SHIRA_AMIT_111026_1400_1791738037528_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
