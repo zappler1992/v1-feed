@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-18ac2463de331a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-51e52463de331a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e922463de331a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -55033,7 +55034,7 @@
    "description": "בהלה בנתב\"ג: הדיווח על פצצה במטוס דלתא שנחת מניו יורק - ככל הנראה התרעת שווא",
    "duration_s": 87,
    "first_seen_ms": 1791871346280,
-   "image": "https://img.mako.co.il/2026/10/13/biata_delta_mivfix2_1400_1791872353043_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/13/biata_deltamivfix3_1400_1791872781588_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791871096000,
    "sections": [
@@ -55041,9 +55042,9 @@
    ],
    "title": "בהלה בנתב\"ג: הדיווח על פצצה במטוס דלתא שנחת מניו יורק - ככל הנראה התרעת שווא",
    "type": "mivzakim",
-   "updated_ms": 1791872340000,
+   "updated_ms": 1791873000000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2b41ccf1ec331a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/biata_delta_mivfix2/biata_delta_mivfix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/biata_deltamivfix3/biata_deltamivfix3_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2c483069cd331a1026.htm": {
    "author": "מבזקים",
@@ -78067,6 +78068,42 @@
    "updated_ms": 1791707676000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-45dc9f4661a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/NepalFIX/NepalFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e922463de331a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רוכב הקורקינט חולף במקום - ושניות לאחר מכן הטיל פוגע: תיעוד מהמתקפה הרוסית בחארקיב שבאוקראינה",
+   "duration_s": 19,
+   "first_seen_ms": 1791873146318,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_ukraine_7239_13102026062536_1400_1791872802444_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791872809000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "רוכב הקורקינט חולף במקום - ושניות לאחר מכן הטיל פוגע: תיעוד מהמתקפה הרוסית בחארקיב שבאוקראינה",
+   "type": "mivzakim",
+   "updated_ms": 1791872809000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e922463de331a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_ukraine_7239_13102026062536/V1_karind_ukraine_7239_13102026062536_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-51e52463de331a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "צילמה סלפי - ושניות לאחר מכן הטיל נפל לידה: תיעוד נוסף מהמתקפה הרוסית באוקראינה",
+   "duration_s": 7,
+   "first_seen_ms": 1791873146318,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_pitzuzukraine_7240_13102026062806_1400_1791872935809_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791872942000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "צילמה סלפי - ושניות לאחר מכן הטיל נפל לידה: תיעוד נוסף מהמתקפה הרוסית באוקראינה",
+   "type": "mivzakim",
+   "updated_ms": 1791872942000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-51e52463de331a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_pitzuzukraine_7240_13102026062806/V1_karind_pitzuzukraine_7240_13102026062806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-5266d62289131a1026.htm": {
    "author": "מבזקים מהעולם",
