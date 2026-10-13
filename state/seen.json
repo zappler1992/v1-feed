@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-f0f5273d19431a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f56856cc4d431a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -27084,7 +27084,9 @@
    "image": "https://img.mako.co.il/2026/10/13/SHIRA_IRAN_131026_M_1400_1791881305940_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791881312000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "איראן מאיימת: נפלוש קרקעית למדינות שכנות",
    "type": "news",
    "updated_ms": 1791881312000,
@@ -57522,6 +57524,24 @@
    "updated_ms": 1791692787000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f38774be20921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_SHIR_HABOKER_7146_11102026042436/V1_SHIR_HABOKER_7146_11102026042436_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f56856cc4d431a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"אתה מפחד ממחבלים\": העימות פנים אל פנים בין בן גביר לבנט",
+   "duration_s": 7,
+   "first_seen_ms": 1791888145800,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_bengvir_7251_13102026103500_1400_1791887775306_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791887782000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"אתה מפחד ממחבלים\": העימות פנים אל פנים בין בן גביר לבנט",
+   "type": "mivzakim",
+   "updated_ms": 1791887782000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f56856cc4d431a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_bengvir_7251_13102026103500/V1_karind_bengvir_7251_13102026103500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f8347ee400f21a1026.htm": {
    "author": "מבזקים",
