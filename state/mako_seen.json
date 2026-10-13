@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791913649907,
+ "last_run_ms": 1791913949962,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28362,6 +28362,18 @@
    "published_ms": 1791137460000,
    "section": "",
    "title": "הפרטים החדשים שהתגלו בחקירת טייס המשנה העומאני"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-3e7e0d68a2631a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-3e7e0d68a2631a1026.htm",
+   "checked_ms": 1791913706877,
+   "content_type": "article",
+   "first_seen_ms": 1791913706877,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791910620000,
+   "section": "חדשות",
+   "title": "כחודש אחרי שהוקמה: פורש ראשון ממפלגתו של עופר וינטר"
   },
   "https://www.mako.co.il/special-mako-news/Article-3f95c8bd2df70a1027.htm": {
    "check_attempts": 1,

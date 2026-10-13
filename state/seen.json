@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e1ca71b1f4631a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-08260d7024631a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6abe71b1f4631a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8539,6 +8540,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6476b6901fb21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17134_11102026054439/M_Celebs_17134_11102026054439_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6abe71b1f4631a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "גוון סטפני חושפת: התורה עזרה לי להתקרב לאמונה שלי",
+   "duration_s": 77,
+   "first_seen_ms": 1791913946618,
+   "image": "https://img.mako.co.il/2026/10/13/M_Music_17272_13102026053815_1400_1791913195155_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791913201000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "גוון סטפני חושפת: התורה עזרה לי להתקרב לאמונה שלי",
+   "type": "mivzakim",
+   "updated_ms": 1791913201000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6abe71b1f4631a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17272_13102026053815/M_Music_17272_13102026053815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6c67c2c78d131a1026.htm": {
    "author": "עדכוני בידור",
@@ -81426,6 +81445,24 @@
    "updated_ms": 1791803357000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0207512e9bf21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_turkey_7193_12102026110752/V1_turkey_7193_12102026110752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-08260d7024631a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עושה סלפי - חוטף טיל ישר לתוך הדירה ונפצע קלות בלבד | התיעוד המטורף מאוקראינה",
+   "duration_s": 60,
+   "first_seen_ms": 1791913946618,
+   "image": "https://img.mako.co.il/2026/10/13/V1_SELFIE_7278_13102026054715_1400_1791913717686_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791913724000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עושה סלפי - חוטף טיל ישר לתוך הדירה ונפצע קלות בלבד | התיעוד המטורף מאוקראינה",
+   "type": "mivzakim",
+   "updated_ms": 1791913724000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-08260d7024631a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_SELFIE_7278_13102026054715/V1_SELFIE_7278_13102026054715_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0dfd50594f531a1026.htm": {
    "author": "מבזקים מהעולם",
