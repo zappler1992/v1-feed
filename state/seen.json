@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-dbc43cd975531a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-d1654933fd531a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ca40d7024631a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-501e38ec7a631a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7e1038ec7a631a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -57831,6 +57830,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d64981e0f531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17269_13102026041033/M_NEWS_17269_13102026041033_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-501e38ec7a631a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דואן \"קף די\" דייוויס, מנהיג כנופיה לשעבר, נידון ל-40 שנות מאסר עד מאסר עולם על רצח טופאק ב-1996",
+   "duration_s": 9,
+   "first_seen_ms": 1791919046681,
+   "image": "https://img.mako.co.il/2026/10/13/V1_Tupac_7285_13102026071139_1400_1791918796204_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791918802000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דואן \"קף די\" דייוויס, מנהיג כנופיה לשעבר, נידון ל-40 שנות מאסר עד מאסר עולם על רצח טופאק ב-1996",
+   "type": "mivzakim",
+   "updated_ms": 1791918802000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-501e38ec7a631a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_Tupac_7285_13102026071139/V1_Tupac_7285_13102026071139_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5029d607c5331a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58464,6 +58481,24 @@
    "updated_ms": 1791716720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7def5bb3d9a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_BUS_7158_11102026110342/V1_BUS_7158_11102026110342_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7e1038ec7a631a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפשיעה משתוללת: אדם נפצע קשה ו-3 בינוני מירי ביישוב בענה, ליד כרמיאל",
+   "duration_s": 9,
+   "first_seen_ms": 1791919046681,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17274_13102026071354_1400_1791918916258_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791918924000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפשיעה משתוללת: אדם נפצע קשה ו-3 בינוני מירי ביישוב בענה, ליד כרמיאל",
+   "type": "mivzakim",
+   "updated_ms": 1791918924000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7e1038ec7a631a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17274_13102026071354/M_NEWS_17274_13102026071354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7e27ccf1ec331a1026.htm": {
    "author": "מבזקים",
