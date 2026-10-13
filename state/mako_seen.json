@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791918449528,
+ "last_run_ms": 1791918749550,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7725,6 +7725,18 @@
    "section": "ספורט",
    "title": "\"הבושה הכי גדולה\": הכתם של פ.ס.ז` בחיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/q4_2026/Article-92fb38ec7a631a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791918749550,
+   "content_type": "article",
+   "first_seen_ms": 1791918749550,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791918420000,
+   "section": "ספורט",
+   "title": "כולל רימוני עשן: המחאה החריגה נגד ישראל"
+  },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-409982ebf8631a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -7760,6 +7772,18 @@
    "published_ms": 1791910500000,
    "section": "ספורט",
    "title": "לצד משפחתו: שוער ויאריאל עבר שוד אלים"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-f6ab1cf67a631a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791918749550,
+   "content_type": "article",
+   "first_seen_ms": 1791918749550,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791918480000,
+   "section": "ספורט",
+   "title": "\"יונייטד התפרקה לרסיסים תוך 51 שניות\""
   },
   "https://www.mako.co.il/Sports-football-world/europe-league-q3_2026/Article-faf18050d12f0a1026.htm": {
    "check_attempts": 1,
@@ -11561,7 +11585,7 @@
    "indexnow_ms": 1791912866777,
    "published_ms": 1791898980000,
    "section": "סלבס",
-   "title": "\"מצאתי את עצמי ממועדון למועדון, כמו שבורה\""
+   "title": "\"מצאתי את עצמי עוברת ממועדון למועדון, כמו שבורה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e12d6d2a98cf0a1026.htm": {
    "check_attempts": 1,
