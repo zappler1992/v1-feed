@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791869848880,
+ "last_run_ms": 1791870148938,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15078,6 +15078,18 @@
    "published_ms": 1790148540000,
    "section": "בריאות",
    "title": "\"לא דמיינתי, חשבתי שמדובר בפריחה או אלרגיה\""
+  },
+  "https://www.mako.co.il/health-news/Article-4259a54c1aa21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791870027020,
+   "content_type": "article",
+   "first_seen_ms": 1791870027020,
+   "indexable": true,
+   "indexnow_ms": 1791870027020,
+   "published_ms": 1791869880000,
+   "section": "בריאות",
+   "title": "צ'יה או פשתן: מה בריא יותר?"
   },
   "https://www.mako.co.il/health-news/Article-456a4b439bcc0a1027.htm": {
    "check_attempts": 1,
