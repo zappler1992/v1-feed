@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791881549248,
+ "last_run_ms": 1791881849314,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5590,6 +5590,18 @@
    "published_ms": 1791820680000,
    "section": "ספורט",
    "title": "האזינו לשידור, דקה 1: כפר סבא-אשדוד 0:0"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-b2c9b24557431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791881786852,
+   "content_type": "article",
+   "first_seen_ms": 1791881786852,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791881520000,
+   "section": "ספורט",
+   "title": "אסרס: \"מקווה לחזור למכבי ת\"א כבר בינואר\""
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-b996f5272ff11a1027.htm": {
    "check_attempts": 1,
@@ -11189,7 +11201,7 @@
    "indexnow_ms": 1791876507469,
    "published_ms": 1791876300000,
    "section": "סלבס",
-   "title": "\"זה לא המודל היהודי - זה מודל שוביניסטי\""
+   "title": "בעקבות הווידוי בשידור: דנה זרמון נגד איתי תורג'מן"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d54821d4807f0a1027.htm": {
    "check_attempts": 1,
@@ -11658,6 +11670,18 @@
    "published_ms": 1791101820000,
    "section": "סלבס",
    "title": "מסיבה אחת לא הספיקה לה: לאלי אספוסיטו חוגגת רווקות"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-5632aa6aa0431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791881786852,
+   "content_type": "article",
+   "first_seen_ms": 1791881786852,
+   "indexable": true,
+   "indexnow_ms": 1791881786852,
+   "published_ms": 1791878880000,
+   "section": "סלבס",
+   "title": "הגרוש של השחקנית טוען שבנם רוצה להעיד נגדה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-5a5aea6109611a1027.htm": {
    "check_attempts": 1,
@@ -13097,7 +13121,7 @@
    "indexnow_ms": 1791880949346,
    "published_ms": 1791880440000,
    "section": "כסף",
-   "title": "החשש הגדול של הבורסה מהיום שאחרי הבחירות"
+   "title": "אם זו תהיה התוצאה בבחירות - זה יעלה לנו הרבה כסף"
   },
   "https://www.mako.co.il/finances-news/Article-9903d40a5e601a1027.htm": {
    "check_attempts": 1,
@@ -25181,7 +25205,7 @@
    "indexnow_ms": 1791879026711,
    "published_ms": 1791878340000,
    "section": "דיגיטל",
-   "title": "החברה נמכרת בסכום מטורף, אבל יש גם בשורה רעה לעובדים"
+   "title": "אקזיט שני ב-5 שנים: החברה שנמכרת בסכום מטורף"
   },
   "https://www.mako.co.il/nexter-news/Article-b977fc8d54b01a1026.htm": {
    "check_attempts": 1,
