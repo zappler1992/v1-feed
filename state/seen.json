@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-70fe083dff331a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1690aa6aa0431a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-24c91e08e0431a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54827,6 +54828,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-15528ff8e3031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_rambam_7203_12102026012254/V1_karind_rambam_7203_12102026012254_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1690aa6aa0431a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: כוחות צה\"ל לכדו 4 מחבלים מהג'יהאד האיסלאמי שהתכוונו לבצע פיגוע בשומרון",
+   "duration_s": 16,
+   "first_seen_ms": 1791874946417,
+   "image": "https://img.mako.co.il/2026/10/13/V1_Karind_shomron_7243_13102026065725_1400_1791874718186_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791874724000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: כוחות צה\"ל לכדו 4 מחבלים מהג'יהאד האיסלאמי שהתכוונו לבצע פיגוע בשומרון",
+   "type": "mivzakim",
+   "updated_ms": 1791874724000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1690aa6aa0431a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_Karind_shomron_7243_13102026065725/V1_Karind_shomron_7243_13102026065725_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-183de813bff21a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -78064,6 +78083,24 @@
    "updated_ms": 1791873589000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-220672e84f331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_lasvegas_7241_13102026063812/V1_karind_lasvegas_7241_13102026063812_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-24c91e08e0431a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הנהג איים לשדוד אותה באיומי אקדח - והיא זינקה ממונית נוסעת במקסיקו סיטי | צפו",
+   "duration_s": 13,
+   "first_seen_ms": 1791874946417,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_taxi_7244_13102026065915_1400_1791874823584_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791874830000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הנהג איים לשדוד אותה באיומי אקדח - והיא זינקה ממונית נוסעת במקסיקו סיטי | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1791874830000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-24c91e08e0431a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_taxi_7244_13102026065915/V1_karind_taxi_7244_13102026065915_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-29a4fad427131a1026.htm": {
    "author": "מבזקים מהעולם",
