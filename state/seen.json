@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2c483069cd331a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7e27ccf1ec331a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97de51e6e331a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12759,15 +12758,15 @@
    "description": "תאונה קטלנית התרחשה בפארק השעשועים \"סיקס פלאגס\" שבג'ורג'יה בה מבקר נפל אל מותו במהלך נסיעה במתקן \"גוליית\" בעקבות אחד ממוטות הבטיחות שהשתחרר והוביל לנפילתו של האיש. מהנהלת הפארק נמסר \"מחשבותינו ותנחומינו הכנים נתונים למשפחתו\".",
    "duration_s": 65,
    "first_seen_ms": 1791869246215,
-   "image": "https://img.mako.co.il/2026/10/13/FIXSHIRA_SIXFLAGS_131026_1400_1791869869763_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/13/SHIRA_SIXFLAGS_131026_FIX_M_1400_1791870148084_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791868692000,
    "sections": [],
    "title": "אסון בסיקס פלאגס ג'ורג'יה: התקן בטיחות השתחרר במהלך הנסיעה – וגבר נפל למותו",
    "type": "general",
-   "updated_ms": 1791869820000,
+   "updated_ms": 1791870120000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-784078d54a331a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/FIXSHIRA_SIXFLAGS_131026/FIXSHIRA_SIXFLAGS_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/SHIRA_SIXFLAGS_131026_FIX_M/SHIRA_SIXFLAGS_131026_FIX_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
@@ -55014,9 +55013,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "בהלה בנתב\"ג: הדיווח על פצצה במטוס דלתא שנחת מניו יורק - ככל הנראה התרעת שווא",
-   "duration_s": 10,
+   "duration_s": 87,
    "first_seen_ms": 1791871346280,
-   "image": "https://img.mako.co.il/2026/10/13/Biata_deltamivfix_1400_1791871294270_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/13/biata_delta_mivfix2_1400_1791872353043_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791871096000,
    "sections": [
@@ -55024,9 +55023,9 @@
    ],
    "title": "בהלה בנתב\"ג: הדיווח על פצצה במטוס דלתא שנחת מניו יורק - ככל הנראה התרעת שווא",
    "type": "mivzakim",
-   "updated_ms": 1791871380000,
+   "updated_ms": 1791872340000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2b41ccf1ec331a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/Biata_deltamivfix/Biata_deltamivfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/biata_delta_mivfix2/biata_delta_mivfix2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2c483069cd331a1026.htm": {
    "author": "מבזקים",
@@ -56129,6 +56128,24 @@
    "updated_ms": 1791721527000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a8e632a97ea21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17125_11102026122356/M_NEWS_17125_11102026122356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97de51e6e331a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סיכול פיגוע בצפון השומרון: ארבעה מחבלים מהג׳יהאד האיסלאמי נעצרו בחטיבת מנשה",
+   "duration_s": 16,
+   "first_seen_ms": 1791872546321,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17228_13102026061826_1400_1791872374135_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791872381000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סיכול פיגוע בצפון השומרון: ארבעה מחבלים מהג׳יהאד האיסלאמי נעצרו בחטיבת מנשה",
+   "type": "mivzakim",
+   "updated_ms": 1791872381000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97de51e6e331a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17228_13102026061826/M_NEWS_17228_13102026061826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a999869e61131a1026.htm": {
    "author": "מבזקים",
