@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791892048579,
+ "last_run_ms": 1791892348567,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6044,6 +6044,18 @@
    "published_ms": 1790500620000,
    "section": "ספורט",
    "title": "\"לא ראיתם כלום\": התאקלמות טברנייר במכבי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-01822f1521531a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791892348567,
+   "content_type": "article",
+   "first_seen_ms": 1791892348567,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791892020000,
+   "section": "ספורט",
+   "title": "עשרות אלפי מושבים: חידוש איצטדיוני ישראל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-05450ce45a621a1026.htm": {
    "check_attempts": 1,
@@ -24749,7 +24761,7 @@
    "indexnow_ms": 1791891867522,
    "published_ms": 1791891060000,
    "section": "דיגיטל",
-   "title": "האמת על \"היעלמות הפרו-פלסטינים\" באינטרנט"
+   "title": "האמת על \"היעלמות הפרו-פלסטינים\" ברשתות"
   },
   "https://www.mako.co.il/nexter-news/Article-0bb6fb0f5dce0a1026.htm": {
    "check_attempts": 1,
@@ -32790,6 +32802,18 @@
    "published_ms": 1791666060000,
    "section": "",
    "title": "ההפתעה שחיכתה לאופירה אסייג ביום ההולדת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-ecf405bf1c431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791892348567,
+   "content_type": "article",
+   "first_seen_ms": 1791892348567,
+   "indexable": true,
+   "indexnow_ms": 1791892348567,
+   "published_ms": 1791892020000,
+   "section": "תרבות tvbee",
+   "title": "בתפקיד סידני סוויני: יוצרת התוכן מישל פרו"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-fd8b0a254db21a1027.htm": {
    "check_attempts": 1,
