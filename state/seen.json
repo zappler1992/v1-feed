@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-79b133318de21a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2b41ccf1ec331a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0fd1ccf1ec331a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -54791,6 +54792,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0f06f0b7bc131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17211_12102026084106/M_NEWS_17211_12102026084106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0fd1ccf1ec331a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופנוע בן 39 נפצע בינוני כשנפגע מרכב בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1791871346280,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17225_13102026055712_1400_1791871111079_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791871117000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופנוע בן 39 נפצע בינוני כשנפגע מרכב בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1791871117000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0fd1ccf1ec331a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17225_13102026055712/M_NEWS_17225_13102026055712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-15528ff8e3031a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -54990,6 +55009,24 @@
    "updated_ms": 1791731629000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-29c8b6ba68b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_petahtikva_7167_11102026031233/V1_karind_petahtikva_7167_11102026031233_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2b41ccf1ec331a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח אודות פצצה במטוס דלתא שנחת בנתב\"ג, הנוסעים הורדו מהמטוס - הפרטים בבדיקה",
+   "duration_s": 9,
+   "first_seen_ms": 1791871346280,
+   "image": "https://img.mako.co.il/2026/10/13/V1_delta_7237_13102026055702_1400_1791871089877_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791871096000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח אודות פצצה במטוס דלתא שנחת בנתב\"ג, הנוסעים הורדו מהמטוס - הפרטים בבדיקה",
+   "type": "mivzakim",
+   "updated_ms": 1791871096000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2b41ccf1ec331a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_delta_7237_13102026055702/V1_delta_7237_13102026055702_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2d20de3fb3331a1026.htm": {
    "author": "מבזקים",
