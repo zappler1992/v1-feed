@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791894176777,
+ "last_run_ms": 1791894468856,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -910,6 +910,18 @@
    "published_ms": 1791888170000,
    "section": "אופנה",
    "title": "עם תרצה ואופירה: גילת בנט וליהיא לפיד זרחו באירוע האופנתי הכי מסקרן"
+  },
+  "https://fashionforward.mako.co.il/news/321735/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791894266706,
+   "content_type": "article",
+   "first_seen_ms": 1791894266706,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1791893945000,
+   "section": "Fashion Forward",
+   "title": "הז'קט האיקוני של מייק טייסון מקבל גרסה חדשה, ודגל ישראל הוחלף בדגל פלסטין"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -10675,6 +10687,18 @@
    "section": "סלבס",
    "title": "שלוש שנים אחרי: נטלי דדון ובעל בית הקפה הגיעו להסכם"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-405dd204ea431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791894266706,
+   "content_type": "article",
+   "first_seen_ms": 1791894266706,
+   "indexable": true,
+   "indexnow_ms": 1791894266706,
+   "published_ms": 1791888240000,
+   "section": "",
+   "title": "\"אם דה נירו יכול לצאת עם ילדה, אז עמוס לוזון לא?\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-40b46492d4011a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14837,7 +14861,7 @@
    "indexnow_ms": 1791873149054,
    "published_ms": 1791872760000,
    "section": "",
-   "title": "יוסי שטרית פתח שיפודייה חדשה. גם המחירים נחשפו"
+   "title": "כל הפרטים על השיפודייה החדשה של יוסי שטרית"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-6af5b5da9ca11a1026.htm": {
    "check_attempts": 1,
@@ -20549,7 +20573,7 @@
    "indexnow_ms": 1791889227397,
    "published_ms": 1791888840000,
    "section": "פלילים",
-   "title": "\"מוסלי וג'רושי חתמו על הפסקת אש קבועה\""
+   "title": "ההחלטה הדרמית של שני ארגוני הפשע המסוכנים"
   },
   "https://www.mako.co.il/men-men_news/Article-4187352f2d201a1027.htm": {
    "check_attempts": 1,
