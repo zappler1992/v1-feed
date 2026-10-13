@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5029d607c5331a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c4d770598331a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -27182,7 +27182,8 @@
    "importance": 1,
    "published_ms": 1791835204000,
    "sections": [
-    "רק בישראל"
+    "רק בישראל",
+    "הכי נצפים עכשיו"
    ],
    "title": "ניסו לפרוץ לחנות ברמת גן - אבל בפנים חיכתה להם הפתעה",
    "type": "news",
@@ -55279,6 +55280,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4b984da407031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_doctor_7208_12102026020614/V1_karind_doctor_7208_12102026020614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c4d770598331a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נעצר שב\"ח מהשטחים שהתחזה לישראלי ונצפה מצלם ומסריט בתחנת הרכבת הקלה אהרונוביץ בבני ברק",
+   "duration_s": 9,
+   "first_seen_ms": 1791866846185,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17223_13102026044236_1400_1791866635016_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791866641000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נעצר שב\"ח מהשטחים שהתחזה לישראלי ונצפה מצלם ומסריט בתחנת הרכבת הקלה אהרונוביץ בבני ברק",
+   "type": "mivzakim",
+   "updated_ms": 1791866641000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c4d770598331a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17223_13102026044236/M_NEWS_17223_13102026044236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c5961a0a7031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76807,7 +76826,8 @@
    "published_ms": 1791571213000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "רעידת האדמה בפנמה תפסה את הקונים באמצע הקניון - כך זה נראה מבפנים",
    "type": "mivzakim",
@@ -77648,7 +77668,8 @@
    "published_ms": 1791632550000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הרוחות העזות מההוריקן בפלורידה מעיפות את גג המלון בעיר פנסקולה",
    "type": "mivzakim",
@@ -77724,7 +77745,8 @@
    "published_ms": 1791464013000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כל הבית שרוף: שני קשישים חולצו מהלהבות במונטה סרנו - ומתו | צפו בדיווח",
    "type": "mivzakim",

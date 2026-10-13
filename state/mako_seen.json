@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791866548975,
+ "last_run_ms": 1791866850030,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6512,6 +6512,18 @@
    "published_ms": 1791692280000,
    "section": "ספורט",
    "title": "הסיבה שבגללה טוריאל לא פתח מול ק\"ש"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-6c7d770598331a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791866786850,
+   "content_type": "article",
+   "first_seen_ms": 1791866786850,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791866460000,
+   "section": "ספורט",
+   "title": "השינויים שקני מילר שוקל לקראת בית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-6f724b6af1b11a1026.htm": {
    "check_attempts": 1,
