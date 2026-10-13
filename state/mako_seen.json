@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791886648445,
+ "last_run_ms": 1791886948396,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6116,6 +6116,18 @@
    "published_ms": 1791865080000,
    "section": "ספורט",
    "title": "בני סכנין תקיים משחק לזכרו של אסולין ז\"ל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-14cd05bf1c431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791886948396,
+   "content_type": "article",
+   "first_seen_ms": 1791886948396,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791886800000,
+   "section": "ספורט",
+   "title": "מיציע חדש: החידוש לאוהדי בית\"ר לקראת שני"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-15d1302491b11a1027.htm": {
    "check_attempts": 1,
@@ -30785,7 +30797,7 @@
    "indexnow_ms": 1791885987159,
    "published_ms": 1791885060000,
    "section": "",
-   "title": "בגלל אירוע פליי-דובאי: בעיות בטיסה למדינה הערבית"
+   "title": "בגלל אירוע פליי-דובאי: חדשות רעות לטסים למדינה המתוירת"
   },
   "https://www.mako.co.il/travel-news/israel/Article-7d3feedb57921a1026.htm": {
    "check_attempts": 1,
