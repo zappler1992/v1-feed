@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791885149314,
+ "last_run_ms": 1791885449423,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18607,6 +18607,18 @@
    "section": "עיצוב הבית",
    "title": "סוכות כל השנה: הפרגולה הפכה לחדר הנחשק בבית"
   },
+  "https://www.mako.co.il/living-home-styling/accessories/Article-1558f4502a431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791885387097,
+   "content_type": "article",
+   "first_seen_ms": 1791885387097,
+   "indexable": true,
+   "indexnow_ms": 1791885387097,
+   "published_ms": 1791884100000,
+   "section": "עיצוב הבית",
+   "title": "חלום כחול: השינוי שעשתה איקאה בפריט האיקוני"
+  },
   "https://www.mako.co.il/living-home-styling/accessories/Article-192bb9ea3d921a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27930,6 +27942,18 @@
    "published_ms": 1791466560000,
    "section": "",
    "title": "עימותים אלימים וכאוס בכבישים, רכב ניסה לדרוס מפגינים"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-630944c133431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-630944c133431a1027.htm",
+   "checked_ms": 1791885267085,
+   "content_type": "article",
+   "first_seen_ms": 1791885267085,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791878640000,
+   "section": "",
+   "title": "מאיימת בפלישה: כך איראן נערכת לחידוש המלחמה"
   },
   "https://www.mako.co.il/special-mako-news/Article-6471198ee0601a1027.htm": {
    "check_attempts": 1,
