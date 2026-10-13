@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791897748740,
+ "last_run_ms": 1791898048655,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15559,6 +15559,18 @@
    "section": "בריאות",
    "title": "\"לא היה איך לכסות את הגופות אז לקחנו שלט\""
   },
+  "https://www.mako.co.il/health-news/Article-56d7f80c36531a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791898048655,
+   "content_type": "article",
+   "first_seen_ms": 1791898048655,
+   "indexable": true,
+   "indexnow_ms": 1791898048655,
+   "published_ms": 1791897720000,
+   "section": "",
+   "title": "פעוט בן 9 חודשים נפל ממגלשה, מצבו אנוש"
+  },
   "https://www.mako.co.il/health-news/Article-57bf6058383e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15953,7 +15965,7 @@
    "indexnow_ms": 1791879026711,
    "published_ms": 1791878520000,
    "section": "",
-   "title": "אירוע חריג במעון: חשד להרעלה - עשרה פעוטות נפגעו"
+   "title": "ביתר עילית: 10 תינוקות פונו - חשד להרעלה"
   },
   "https://www.mako.co.il/health-news/Article-c8ec74493b431a1026.htm": {
    "check_attempts": 1,
@@ -26765,7 +26777,7 @@
    "indexnow_ms": 1791885749374,
    "published_ms": 1791885180000,
    "section": "צבא וביטחון",
-   "title": "המדינה שהציגה טיל ש\"מסוגל להגיע עד לארה\"ב\""
+   "title": "האצבע בעין של ארה\"ב - בדרך לפגישה עם טראמפ"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-565b5b1bc43d0a1027.htm": {
    "check_attempts": 1,
@@ -30509,7 +30521,7 @@
    "indexnow_ms": 1791884067005,
    "published_ms": 1791883020000,
    "section": "חופש",
-   "title": "הסכנה שלא מדברים עליה ביעד הכי אהוב על הישראלים"
+   "title": "הסכנה שלא מדברים עליה במדינה האהובה על הישראלים"
   },
   "https://www.mako.co.il/travel-news/international/Article-afd02e5a603f0a1026.htm": {
    "check_attempts": 1,
