@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d4d20fb073531a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-66a786a334531a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c826fb8674531a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ce13358d83531a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14280,7 +14282,8 @@
    "importance": 1,
    "published_ms": 1791875304000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המצלמה תפסה את רגע האסון על רכבת ההרים",
    "type": "general",
@@ -28828,6 +28831,24 @@
    "updated_ms": 1791752040000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd24bba6b8b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIRA_TRUMP_111026/MASTER/SHIRA_TRUMP_111026M/SHIRA_TRUMP_111026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ce13358d83531a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי ניסיון הבחירה וההסתבכות - מלי וליאל יהלומי מגיעות לתוכנית \"ארץ נהדרת\" בחיקוי חדש. הן עלו לכותרות בחודש באוגוסט לאחר שנעלמו באירופה, מה שהתברר בסוף ככל הנראה כניסיון היעלמות",
+   "duration_s": 32,
+   "first_seen_ms": 1791896546143,
+   "image": "https://img.mako.co.il/2026/10/13/FIX_SHIRA_MLERETZ_131026_1400_1791895869174_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791895860000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "אחרי ניסיון הבריחה וההסתבכות: מלי וליאל מגיעות לארץ נהדרת",
+   "type": "news",
+   "updated_ms": 1791895860000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ce13358d83531a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/FIX_SHIRA_MLERETZ_131026/FIX_SHIRA_MLERETZ_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm": {
    "author": "חדשות",
@@ -73494,7 +73515,8 @@
    "importance": 2,
    "published_ms": 1791880288000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "המחיר המטורף של האייפון המתקפל בישראל",
    "type": "general",
@@ -80919,7 +80941,8 @@
    "importance": 0,
    "published_ms": 1791874830000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הנהג איים לשדוד אותה באיומי אקדח - והיא זינקה ממונית נוסעת במקסיקו סיטי | צפו",
    "type": "mivzakim",
@@ -81040,6 +81063,24 @@
    "updated_ms": 1791835217000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-5266d62289131a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_Karin_france_121026_7233_12102026075844/V1_Karin_france_121026_7233_12102026075844_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-66a786a334531a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הושפל מול המלך - ראש ממשלת ספרד קיבל קריאות מקהל ביום החגיגי: \"פדרו סאנצ'ס בן ז**ה\"",
+   "duration_s": 24,
+   "first_seen_ms": 1791896546143,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_spain_7259_13102026125718_1400_1791896314758_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791896321000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הושפל מול המלך - ראש ממשלת ספרד קיבל קריאות מקהל ביום החגיגי: \"פדרו סאנצ'ס בן ז**ה\"",
+   "type": "mivzakim",
+   "updated_ms": 1791896321000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-66a786a334531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_spain_7259_13102026125718/V1_karind_spain_7259_13102026125718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-70b45a43e6e21a1027.htm": {
    "author": "מבזקים מהעולם",
@@ -81173,6 +81214,24 @@
    "updated_ms": 1791801490000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c481ae600af21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_Nepal_7192_12102026103640/V1_Nepal_7192_12102026103640_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c826fb8674531a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "האמירה המביכה של טראמפ על מפגינה שהפריעה לו - צועק ולועג לה: \"הוא בחור שמן, צריך דיאטה\"",
+   "duration_s": 42,
+   "first_seen_ms": 1791896546143,
+   "image": "https://img.mako.co.il/2026/10/13/V1_karind_trump_131026_7258_13102026125412_1400_1791896181359_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791896187000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "האמירה המביכה של טראמפ על מפגינה שהפריעה לו - צועק ולועג לה: \"הוא בחור שמן, צריך דיאטה\"",
+   "type": "mivzakim",
+   "updated_ms": 1791896187000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c826fb8674531a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_trump_131026_7258_13102026125412/V1_karind_trump_131026_7258_13102026125412_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cebb22829d031a1027.htm": {
    "author": "מבזקים מהעולם",
