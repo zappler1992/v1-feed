@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e31298a62431a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-03b5a4f1e1431a1026.htm",
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w03/shorts-f68c700e51431a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1f3f48ff2f331a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4375,6 +4377,24 @@
    "updated_ms": 1791568887000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w02/shorts-efdda3d40c121a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/09/NOAY_BIBI_091026/MASTER/NOAY_BIBI_091026/NOAY_BIBI_091026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-03b5a4f1e1431a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "השחקנית סלמה בלייר, כוכבת \"לא רק בלונדינית\" נעצרה, לאחר שלפי החשד תקפה שני אנשי צוות בטיסה של דלתא מלוס אנג'לס לניו יורק. לפי דיווחים הכוכבת ניסתה לפתוח את דלת המטוס במהלך הטיסה, הכתה באגרוף איש צוות ונשכה איש צוות נוסף.",
+   "duration_s": 66,
+   "first_seen_ms": 1791877946464,
+   "image": "https://img.mako.co.il/2026/10/13/SHIRA_SALMA_131026_M_1400_1791876169015_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791876175000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"נאלצו לרסן אותה\": המהומה של הכוכבת היהודייה בטיסה",
+   "type": "general",
+   "updated_ms": 1791876175000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-03b5a4f1e1431a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/SHIRA_SALMA_131026/MASTER/SHIRA_SALMA_131026_M/SHIRA_SALMA_131026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-050ae1d444c21a1026.htm": {
    "author": "סלבס",
@@ -12646,6 +12666,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1dd2413f62031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Murder_12102026_MFIX/Kim_Murder_12102026_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1f3f48ff2f331a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בזמן שנשיא ארה\"ב דונלד טראמפ דיבר לקהל הוא הבחין בדגל של \"גייז עבור פלסטין\", והסביר בשעשוע מדוע הוא אוהב אותו כל כך: \"הם זורקים אותם מגגות של בניינים, למה אין נשים עבור פלסטין? הן מקבלות כמעט אותו יחס\".",
+   "duration_s": 44,
+   "first_seen_ms": 1791877946464,
+   "image": "https://img.mako.co.il/2026/10/13/Biata_Trumpgays_131026_1400_1791873219733_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791873226000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "טראמפ: אני הכי אוהב את גייז עבור פלסטין",
+   "type": "general",
+   "updated_ms": 1791873226000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1f3f48ff2f331a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/Biata_Trumpgays_131026/MASTER/Biata_Trumpgays_131026/Biata_Trumpgays_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-2ab1869e61131a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -12777,7 +12815,9 @@
    "image": "https://img.mako.co.il/2026/10/13/SHIRA_SIXFLAGS_131026_FIX_M_1400_1791870148084_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791868692000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "אסון בסיקס פלאגס ג'ורג'יה: התקן בטיחות השתחרר במהלך הנסיעה – וגבר נפל למותו",
    "type": "general",
    "updated_ms": 1791870120000,
@@ -73520,6 +73560,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m09_w01/shorts-2a6842b328260a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/02/KOLZOGOT_TAMAR_0209/MASTER/KOLZOGOT_TAMAR_0209_M/KOLZOGOT_TAMAR_0209_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w03/shorts-f68c700e51431a1026.htm": {
+   "author": "TV1",
+   "date_source": "json-publishDate",
+   "description": "\"אמרת מירי רגב - קיבלת מירי רגב\": באמצע דיווח תעופה של דין פישר - כוכבי ארץ נהדרת פרצו לאולפן חדשות הבוקר, רגע לפני שארץ נהדרת חוזרת הערב בעונה חדשה בקשת 12.",
+   "duration_s": 65,
+   "first_seen_ms": 1791877946464,
+   "image": "https://img.mako.co.il/2026/10/13/NOAB_ERETZ_131026_M_1400_1791875426133_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791875432000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "בשידור חי: כוכבי ארץ נהדרת התפרצו לאולפן",
+   "type": "general",
+   "updated_ms": 1791875432000,
+   "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w03/shorts-f68c700e51431a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/NOAB_ERETZ_131026_M/MASTER/NOAB_ERETZ_131026_M/NOAB_ERETZ_131026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m07_w05/shorts-39b7f929289af91026.htm": {
    "author": "מבזקים מהעולם",
