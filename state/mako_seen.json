@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791879449196,
+ "last_run_ms": 1791879749386,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17155,6 +17155,18 @@
    "section": "HIX",
    "title": "לא אהבה את הניתוח הפלסטי – וחיסלה את המנתח"
   },
+  "https://www.mako.co.il/hix-special/Article-a2d9397a05431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791879506717,
+   "content_type": "article",
+   "first_seen_ms": 1791879506717,
+   "indexable": true,
+   "indexnow_ms": 1791879506717,
+   "published_ms": 1791879300000,
+   "section": "HIX",
+   "title": "צילמה ולוג כשהטיל פגע. לא ברור מה עלה בגורלה"
+  },
   "https://www.mako.co.il/hix-special/Article-a4b2a97201c21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19661,7 +19673,7 @@
    "indexnow_ms": 1791877587594,
    "published_ms": 1791876780000,
    "section": "פלילים",
-   "title": "העונש למנהל בבית המלון באילת שהטריד מינית עובדת"
+   "title": "מנהל במלון באילת הטריד עובדת. זה העונש שקיבל"
   },
   "https://www.mako.co.il/men-men_news/Article-0f3f696cdc1e0a1026.htm": {
    "check_attempts": 1,
@@ -31422,6 +31434,18 @@
    "published_ms": 1791255600000,
    "section": "",
    "title": "\"רק לחלק אחד מהציבור מתים ונפצעים ילדים\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-dee0460fc3431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791879626723,
+   "content_type": "article",
+   "first_seen_ms": 1791879626723,
+   "indexable": true,
+   "indexnow_ms": 1791879626723,
+   "published_ms": 1791879240000,
+   "section": "קשת 12",
+   "title": "חיים כהן לא ראה את זה בא: \"קראת לי שמן?\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5/Article-4da9689b2dce0a1027.htm": {
    "check_attempts": 1,
