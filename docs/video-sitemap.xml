@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2000d68a2631a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/13/M_NEWS_17270_13102026050006_1400_1791910881198_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>התקבל דיווח על רכב נטוש במאה שערים בירושלים, חבלנים בדקו אותו והחשד נשלל</video:title>
+<video:description>התקבל דיווח על רכב נטוש במאה שערים בירושלים, חבלנים בדקו אותו והחשד נשלל</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17270_13102026050006/M_NEWS_17270_13102026050006_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-13T17:01:27+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bca5c32fc0631a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/13/yoav_banana_131026_1400_1791908971285_FirstFrame.jpg</video:thumbnail_loc>
@@ -175,6 +191,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -447,6 +464,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -593,6 +611,7 @@
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -12618,6 +12637,7 @@ Powered by Spikes</video:description>
 <video:uploader>מיוחד</video:uploader>
 <video:tag>מVינים חדשות</video:tag>
 <video:tag>בחירות 2026</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מיוחד</video:tag>
 </video:video>
 </url>

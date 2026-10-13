@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2000d68a2631a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-13T17:01:27+00:00</news:publication_date>
+<news:title>התקבל דיווח על רכב נטוש במאה שערים בירושלים, חבלנים בדקו אותו והחשד נשלל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/13/M_NEWS_17270_13102026050006_1400_1791910881198_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bca5c32fc0631a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2492,14 +2501,5 @@
 <news:title>תיעוד משוגע מהודו: המכונית פוגעת באופנוע - והרוכב נותר ללא פגע</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/11/V1_bike_7171_11102026051138_1400_1791738807417_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-35a730c60db21a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-11T17:06:32+00:00</news:publication_date>
-<news:title>צעיר כבן 20 פונה במצב בינוני לאחר שנפגע ממסור דיסק במעלה אדומים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/11/M_NEWS_17130_11102026050456_1400_1791738386222_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

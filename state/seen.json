@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bca5c32fc0631a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2000d68a2631a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14618,7 +14618,8 @@
    "importance": 2,
    "published_ms": 1791892942000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הזוי: מרצה נהג להשתין על חפצים בקמפוס - עד שנתפס",
    "type": "general",
@@ -59485,6 +59486,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e0d2d25542b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17127_11102026013542/M_NEWS_17127_11102026013542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2000d68a2631a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "התקבל דיווח על רכב נטוש במאה שערים בירושלים, חבלנים בדקו אותו והחשד נשלל",
+   "duration_s": 9,
+   "first_seen_ms": 1791911246508,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17270_13102026050006_1400_1791910881198_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791910887000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "התקבל דיווח על רכב נטוש במאה שערים בירושלים, חבלנים בדקו אותו והחשד נשלל",
+   "type": "mivzakim",
+   "updated_ms": 1791910887000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2000d68a2631a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17270_13102026050006/M_NEWS_17270_13102026050006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e283a97201c21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71144,7 +71163,8 @@
    "published_ms": 1791296940000,
    "sections": [
     "מVינים חדשות",
-    "בחירות 2026"
+    "בחירות 2026",
+    "הכי נצפים עכשיו"
    ],
    "title": "מVינים בחירות: ימין או פלסטין? מה ששרה חשפה למנסור עבאס",
    "type": "general",
@@ -81423,7 +81443,8 @@
    "importance": 2,
    "published_ms": 1791903275000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מול כל העולם: דוברת הבית הלבן החדשה טועה באמצע התדריך הראשון: \"הנשיא שלי, סליחה.... בעלי\"",
    "type": "mivzakim",
@@ -81535,7 +81556,8 @@
    "importance": 1,
    "published_ms": 1791896321000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הושפל מול המלך - ראש ממשלת ספרד קיבל קריאות מקהל ביום החגיגי: \"פדרו סאנצ'ס בן ז**ה\"",
    "type": "mivzakim",
