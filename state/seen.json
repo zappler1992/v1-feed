@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62d8981c19531a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96b5981c19531a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -56752,14 +56752,14 @@
    "duration_s": 9,
    "first_seen_ms": 1791898346037,
    "image": "https://img.mako.co.il/2026/10/13/V1_ashkelon_7264_13102026012616_1400_1791898062705_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791898069000,
    "sections": [
     "מבזקים"
    ],
-   "title": "פעוט שנפל מממגלשה ברחוב הנשיא באשקלון מפונה במצב אנוש לבית החולים תוך כדי ניסיונות החייאה",
+   "title": "תינוק בן 9 חודשים נפל ממגלשה בג'ימבורי באשקלון: הוא פונה במצב אנוש לבית החולים",
    "type": "mivzakim",
-   "updated_ms": 1791898069000,
+   "updated_ms": 1791900600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_ashkelon_7264_13102026012616/V1_ashkelon_7264_13102026012616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -58246,6 +58246,24 @@
    "updated_ms": 1791780900000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-94c5ab1d74e21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_mayor_miv_fix3/biata_mayor_miv_fix3_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96b5981c19531a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: תקיפה עוצמתית של סעודיה בצנעא - בירת החות'ים",
+   "duration_s": 22,
+   "first_seen_ms": 1791901046397,
+   "image": "https://img.mako.co.il/2026/10/13/V1_SanaaBoom_7267_13102026021414_1400_1791900939448_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791900946000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: תקיפה עוצמתית של סעודיה בצנעא - בירת החות'ים",
+   "type": "mivzakim",
+   "updated_ms": 1791900946000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96b5981c19531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_SanaaBoom_7267_13102026021414/V1_SanaaBoom_7267_13102026021414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9c19fb8674531a1026.htm": {
    "author": "מבזקים",
