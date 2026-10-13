@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791888448425,
+ "last_run_ms": 1791888748617,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -898,6 +898,18 @@
    "published_ms": 1791807555000,
    "section": "Fashion Forward",
    "title": "נופשת בגבוה: בואו נתעכב לרגע על השרשרת המטורפת של יעל שלביה"
+  },
+  "https://fashionforward.mako.co.il/news/321698/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791888507316,
+   "content_type": "post",
+   "first_seen_ms": 1791888507316,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "גילת בנט וליהיא לפיד זרחו באירוע האופנתי הכי מסקרן"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -10410,6 +10422,18 @@
    "published_ms": 1790163960000,
    "section": "סלבס",
    "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-09a2367428431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791888627331,
+   "content_type": "article",
+   "first_seen_ms": 1791888627331,
+   "indexable": true,
+   "indexnow_ms": 1791888627331,
+   "published_ms": 1791888300000,
+   "section": "",
+   "title": "\"מאיימים, מקללים\": האירוע המבהיל שעבר יוצא \"חתונמי\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-09bca707732f0a1026.htm": {
    "check_attempts": 1,
