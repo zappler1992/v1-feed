@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791888748617,
+ "last_run_ms": 1791889049476,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -263,7 +263,7 @@
    "indexnow_ms": null,
    "published_ms": 1791461963000,
    "section": "",
-   "title": "כולם יודעים מה הולך אצלי בבית. למדתי לא להתרגש מזה"
+   "title": "הדוגמנית על האמא המפורסמת: \"קשה לראות אותה ככה\""
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -907,9 +907,9 @@
    "first_seen_ms": 1791888507316,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1791888170000,
    "section": "אופנה",
-   "title": "גילת בנט וליהיא לפיד זרחו באירוע האופנתי הכי מסקרן"
+   "title": "עם תרצה ואופירה: גילת בנט וליהיא לפיד זרחו באירוע האופנתי הכי מסקרן"
   },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
@@ -15870,6 +15870,18 @@
    "published_ms": 1791878520000,
    "section": "",
    "title": "אירוע חריג במעון: חשד להרעלה - עשרה פעוטות נפגעו"
+  },
+  "https://www.mako.co.il/health-news/Article-c8ec74493b431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791888987327,
+   "content_type": "article",
+   "first_seen_ms": 1791888987327,
+   "indexable": true,
+   "indexnow_ms": 1791888987327,
+   "published_ms": 1791885780000,
+   "section": "בריאות",
+   "title": "מסתמן: הסיבה להרעלה החריגה במעון בביתר עילית"
   },
   "https://www.mako.co.il/health-news/Article-d0b631e5b7b01a1027.htm": {
    "check_attempts": 1,

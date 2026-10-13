@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1f5faf1cfd431a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/13/V1_karind_Nuremberg_7252_13102026105201_1400_1791888870227_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>דרמה בגרמניה: נמל התעופה בנירנברג נסגר - דיווחים על רחפנים שנראו בשמי האזור</video:title>
+<video:description>דרמה בגרמניה: נמל התעופה בנירנברג נסגר - דיווחים על רחפנים שנראו בשמי האזור</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_Nuremberg_7252_13102026105201/V1_karind_Nuremberg_7252_13102026105201_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-13T10:54:37+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f56856cc4d431a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/13/V1_karind_bengvir_7251_13102026103500_1400_1791887775306_FirstFrame.jpg</video:thumbnail_loc>
@@ -14,6 +30,22 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-02821f21cc431a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/13/alice_131026_water_1400_1791887574553_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>האזהרה החריגה: אין לישראל מים</video:title>
+<video:description>רשות המים מפרסמת אזהרה חריגה: שפל היסטורי במקורות המים בצפון. נפח המים הזמינים בכנרת בשנתיים האחרונות היה הנמוך ביותר במאה השנים האחרונות, ובמילים אחרות: אין לישראל מים. אז נכון - בשנים האחרונות מפעל ההתפלה הענק בישראל שינה את התמונה, ואנחנו כבר לא תלויים רק ב&quot;איך היה החורף האחרון&quot;. אבל לטווח ארוך המשמעויות לא פשוטות. משבר האקלים כבר כאן, והמצב לא הולך להשתפר. המאגר המצטצם בכינרת משקף תמונה רחבה ומדאיגה, שאת ההשלכות שלה קשה לחזות.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/alice_131026_water/MASTER/alice_131026_water/alice_131026_water_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>53</video:duration>
+<video:publication_date>2026-10-13T10:33:01+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -179,6 +211,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -259,6 +292,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -275,6 +309,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
