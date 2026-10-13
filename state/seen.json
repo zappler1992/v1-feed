@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-45311392ff631a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ba7c8fe54d631a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c177cb4aa1631a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14764,7 +14763,8 @@
    "importance": 2,
    "published_ms": 1791906660000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "במפגן כוח עוצמתי: צפון קוריאה מציגה טיל ש\"מסוגל להגיע עד לארה\"ב\"",
    "type": "general",
@@ -28977,7 +28977,8 @@
    "importance": 2,
    "published_ms": 1791913380000,
    "sections": [
-    "רק בישראל"
+    "רק בישראל",
+    "הכי נצפים עכשיו"
    ],
    "title": "לא תאמינו שזו חתונה בישראל: חוגגים על סוסים עם נשקים שלופים ונוהגים בפראות",
    "type": "news",
@@ -29152,6 +29153,24 @@
    "updated_ms": 1791727804000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bfebb3c974b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/biata_kfas_111026/MASTER/biata_kfas_111026/biata_kfas_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c177cb4aa1631a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ניר דבורי מדווח כי איראן ביצעה בימים האחרונים שורת ניסויים בטילים בליסטיים, בניסיון לשקם את מערך הטילים שלה. בישראל ובארה\"ב עוקבים בדאגה אחר ההתפתחויות, מחשש שטעות בחישוב מצד איראן תוביל להסלמה מחודשת. מתוך חדשות 12",
+   "duration_s": 87,
+   "first_seen_ms": 1791926845800,
+   "image": "https://img.mako.co.il/2026/10/13/yoav_iran_131026_1400_1791911630100_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791926580000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "חשש בישראל: איראן משקמת את מערך הטילים",
+   "type": "news",
+   "updated_ms": 1791926580000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c177cb4aa1631a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/yoav_iran_131026/MASTER/yoav_iran_131026/yoav_iran_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c26759919a031a1027.htm": {
    "author": "חדשות",
@@ -81716,7 +81735,8 @@
    "importance": 0,
    "published_ms": 1791913724000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "עושה סלפי - חוטף טיל ישר לתוך הדירה ונפצע קלות בלבד | התיעוד המטורף מאוקראינה",
    "type": "mivzakim",
