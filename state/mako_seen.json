@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791880649243,
+ "last_run_ms": 1791880949346,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13075,6 +13075,18 @@
    "section": "כסף",
    "title": "אורלי חגגה 35, בבנק החליטו שהיא לא סטודנטית"
   },
+  "https://www.mako.co.il/finances-news/Article-9792e1c906431a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791880949346,
+   "content_type": "article",
+   "first_seen_ms": 1791880949346,
+   "indexable": true,
+   "indexnow_ms": 1791880949346,
+   "published_ms": 1791880440000,
+   "section": "כסף",
+   "title": "החשש הגדול של הבורסה מהיום שאחרי הבחירות"
+  },
   "https://www.mako.co.il/finances-news/Article-9903d40a5e601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20262,6 +20274,18 @@
    "published_ms": 1791138360000,
    "section": "",
    "title": "\"בלתי נתפס, מסכנים לנו את הילדים\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-3dbf888fb5431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791880949346,
+   "content_type": "article",
+   "first_seen_ms": 1791880949346,
+   "indexable": true,
+   "indexnow_ms": 1791880949346,
+   "published_ms": 1791880080000,
+   "section": "פלילים",
+   "title": "\"היא הבטיחה שנתחתן, העברתי כסף והיא נעלמה\""
   },
   "https://www.mako.co.il/men-men_news/Article-3efb3dd7eb1e0a1026.htm": {
    "check_attempts": 1,
