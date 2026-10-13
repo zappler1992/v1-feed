@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-29fc7172af431a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-13T11:19:38+00:00</news:publication_date>
+<news:title>&quot;מצב חירום תעופתי&quot; בגרמניה: מטוסי קרב הוזנקו לעבר טיסה שהגיעה מיוון לנירנברג</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/13/V1_karind_airport_7253_13102026111639_1400_1791890371885_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-d9b827edbe431a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2015,14 +2024,5 @@
 <news:title>רגע מאסון באיילון: סלעים הושלכו מגשר על רכבים נוסעים סמוך למחלף ההלכה, החשוד נמלט.</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/11/V1_AYALON_7159_11102026113657_1400_1791718714269_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-20f9a7425ba21a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-11T11:26:49+00:00</news:publication_date>
-<news:title>הנתון החריג בתלוש השכר - והמחיר שתשלמו גם ב-2027</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/11/SHIR_HOLIDAY_111026_1400_1791718002899_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
