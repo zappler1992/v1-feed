@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791863548833,
+ "last_run_ms": 1791863848741,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3358,6 +3358,18 @@
    "published_ms": 1790774280000,
    "section": "ספורט",
    "title": "מפתיע: אוליניק קרוב לחתום בקבוצה אירופית"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-1455355455331a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791863787597,
+   "content_type": "article",
+   "first_seen_ms": 1791863787597,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791863640000,
+   "section": "ספורט",
+   "title": "בארה\"ב ניתחו: כך חזרת לילארד תועיל לדני"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-181e1de8e7911a1026.htm": {
    "check_attempts": 1,
@@ -17563,6 +17575,18 @@
    "section": "הורים",
    "title": "50% מההורים: המורים למקצוע הזה לא מספיק טובים"
   },
+  "https://www.mako.co.il/home-family-kids/Article-e2e1355455331a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791863787597,
+   "content_type": "article",
+   "first_seen_ms": 1791863787597,
+   "indexable": true,
+   "indexnow_ms": 1791863787597,
+   "published_ms": 1791863400000,
+   "section": "",
+   "title": "אלעזר יאיר וילנסקי הוא ההרוג באסון הנפל"
+  },
   "https://www.mako.co.il/home-family-kids/Article-f90023bfed701a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29515,6 +29539,18 @@
    "section": "",
    "title": "אסון בחופשה: צעיר ישראלי טבע למוות"
   },
+  "https://www.mako.co.il/travel-news/international/Article-b7074da407031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791863787597,
+   "content_type": "article",
+   "first_seen_ms": 1791863787597,
+   "indexable": true,
+   "indexnow_ms": 1791863787597,
+   "published_ms": 1791865860000,
+   "section": "חופש",
+   "title": "היא נחשבה לאפורה - והיום המוני תיירים נוהרים אליה"
+  },
   "https://www.mako.co.il/travel-news/international/Article-b745e9d1a9bf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29898,6 +29934,18 @@
    "published_ms": 1790782200000,
    "section": "",
    "title": "אחרי יום מטלטל: נוסעי פליי-דובאי נחתו בארץ"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-39c960c1894a0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791863787597,
+   "content_type": "article",
+   "first_seen_ms": 1791863787597,
+   "indexable": true,
+   "indexnow_ms": 1791863787597,
+   "published_ms": 1791864720000,
+   "section": "חופש",
+   "title": "אווירה קסומה: זה היעד הכי זול לטוס אליו לכריסמס"
   },
   "https://www.mako.co.il/travel-news/israel/Article-4693f069184e0a1026.htm": {
    "check_attempts": 1,
