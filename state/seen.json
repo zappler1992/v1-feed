@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f933da5327631a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d670608b97631a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-327d41639b531a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6555,6 +6556,24 @@
    "updated_ms": 1791894666000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d4d20fb073531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_COURTNEY_7255_13102026122940/V1_COURTNEY_7255_13102026122940_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d670608b97631a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"חוגגת שנה למהפך שלי\": אמירה בוזגלו מציינת שנה לניתוח לקיצור קיבה וחושפת שירדה 59 ק\"ג",
+   "duration_s": 22,
+   "first_seen_ms": 1791918446616,
+   "image": "https://img.mako.co.il/2026/10/13/V1_BUZAGLO_7284_13102026062717_1400_1791916112187_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791916119000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"חוגגת שנה למהפך שלי\": אמירה בוזגלו מציינת שנה לניתוח לקיצור קיבה וחושפת שירדה 59 ק\"ג",
+   "type": "mivzakim",
+   "updated_ms": 1791916119000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d670608b97631a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_BUZAGLO_7284_13102026062717/V1_BUZAGLO_7284_13102026062717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-eb93121f3f921a1026.htm": {
    "author": "מבזקי סלבס",
@@ -28695,6 +28714,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2dc9b705fe031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_RATS_12102026/MASTER/ASAF_RATS_12102026_M/ASAF_RATS_12102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-327d41639b531a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "התפתחות דרמטית בחקירת פרשת פליי דובאי: שני טייסי משנה מהמלדיביים נעצרו באיחוד האמירויות בחשד לקשר לתוקף. לפי הדיווחים, השניים הכירו אותו והתגוררו באותו בניין.",
+   "duration_s": 43,
+   "first_seen_ms": 1791918446616,
+   "image": "https://img.mako.co.il/2026/10/13/FIX_yoav_CNN_131026_1400_1791904482255_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791904500000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "התפתחות דרמטית בחקירת פרשת פליי דובאי",
+   "type": "news",
+   "updated_ms": 1791904500000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-327d41639b531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/FIX_yoav_CNN_131026/FIX_yoav_CNN_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-360bb3c974b21a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -28998,7 +29035,10 @@
    "image": "https://img.mako.co.il/2026/10/13/yoav_banana_131026_1400_1791908971285_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791909000000,
-   "sections": [],
+   "sections": [
+    "חדשות",
+    "הכי נצפים עכשיו"
+   ],
    "title": "רופא נתפס בנתב\"ג מבריח 300 שתילי בננה",
    "type": "news",
    "updated_ms": 1791909000000,
@@ -29070,7 +29110,9 @@
    "image": "https://img.mako.co.il/2026/10/13/Liron_idAroma_13102026_M_1400_1791901503291_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791901560000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "20 מיליון שקל: הצעד המפתיע של עידן עמדי",
    "type": "news",
    "updated_ms": 1791901560000,
