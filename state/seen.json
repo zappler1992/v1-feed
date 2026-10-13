@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-44c302a395531a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-bffbf80c36531a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -56710,6 +56709,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0fd1ccf1ec331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17225_13102026055712/M_NEWS_17225_13102026055712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פעוט שנפל מממגלשה ברחוב הנשיא באשקלון מפונה במצב אנוש לבית החולים תוך כדי ניסיונות החייאה",
+   "duration_s": 9,
+   "first_seen_ms": 1791898346037,
+   "image": "https://img.mako.co.il/2026/10/13/V1_ashkelon_7264_13102026012616_1400_1791898062705_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791898069000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פעוט שנפל מממגלשה ברחוב הנשיא באשקלון מפונה במצב אנוש לבית החולים תוך כדי ניסיונות החייאה",
+   "type": "mivzakim",
+   "updated_ms": 1791898069000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_ashkelon_7264_13102026012616/V1_ashkelon_7264_13102026012616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-15528ff8e3031a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -81143,14 +81160,14 @@
    "duration_s": 24,
    "first_seen_ms": 1791896546143,
    "image": "https://img.mako.co.il/2026/10/13/V1_karind_spain_7259_13102026125718_1400_1791896314758_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791896321000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "הושפל מול המלך - ראש ממשלת ספרד קיבל קריאות מקהל ביום החגיגי: \"פדרו סאנצ'ס בן ז**ה\"",
    "type": "mivzakim",
-   "updated_ms": 1791896321000,
+   "updated_ms": 1791898140000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-66a786a334531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_spain_7259_13102026125718/V1_karind_spain_7259_13102026125718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
