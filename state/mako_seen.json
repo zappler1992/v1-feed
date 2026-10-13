@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791912450797,
+ "last_run_ms": 1791912749544,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2854,6 +2854,18 @@
    "published_ms": 1790886780000,
    "section": "ספורט",
    "title": "עם הבאזר: אקס גליל הימם את אולימפיאקוס"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-3dd971b1f4631a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791912749544,
+   "content_type": "article",
+   "first_seen_ms": 1791912749544,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791912600000,
+   "section": "ספורט",
+   "title": "צפו באולפן Hackett לקראת ברצלונה - מכבי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-41d6aa861d611a1027.htm": {
    "check_attempts": 1,
@@ -15691,6 +15703,18 @@
    "section": "בריאות",
    "title": "רעננה: חשש לחיי פועל עגורן בשל אירוע בגובה"
   },
+  "https://www.mako.co.il/health-news/Article-54b4028851631a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791912749544,
+   "content_type": "article",
+   "first_seen_ms": 1791912749544,
+   "indexable": true,
+   "indexnow_ms": 1791912749544,
+   "published_ms": 1791909780000,
+   "section": "בריאות",
+   "title": "כלב \"ענק\" תקף גבר - ששלף אקדח וירה בו למוות"
+  },
   "https://www.mako.co.il/health-news/Article-55ceb6c7ce411a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17141,7 +17165,7 @@
    "indexnow_ms": 1791905787422,
    "published_ms": 1791903540000,
    "section": "",
-   "title": "זהות הקורבן מגן החיות נחשפה"
+   "title": "שלושה ימים אחרי: זהות הקורבן מגן החיות נחשפה"
   },
   "https://www.mako.co.il/hix-special/Article-17b9111c15801a1026.htm": {
    "check_attempts": 1,
@@ -25901,7 +25925,7 @@
    "indexnow_ms": 1791907349169,
    "published_ms": 1791907200000,
    "section": "דיגיטל",
-   "title": "בגיל 30: שחר הקימה חברה שגייסה עשרות מיליוני דולרים"
+   "title": "בגיל 30: החברה שהקימה שחר גייסה עשרות מיליוני דולרים"
   },
   "https://www.mako.co.il/nexter-news/Article-cc6cb1ca4ea11a1027.htm": {
    "check_attempts": 1,
@@ -28577,7 +28601,7 @@
    "indexnow_ms": null,
    "published_ms": 1791908700000,
    "section": "",
-   "title": "נתניהו או איזנקוט? ההתייחסות של טראמפ לבחירות בישראל"
+   "title": "טראמפ נשאל על הבחירות בישראל: \"אולי אעשה עם זה משהו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
