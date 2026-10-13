@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dab41639b531a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd8e673b0a531a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-791541639b531a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c51541639b531a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -28919,6 +28921,22 @@
    "updated_ms": 1791752040000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd24bba6b8b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIRA_TRUMP_111026/MASTER/SHIRA_TRUMP_111026M/SHIRA_TRUMP_111026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd8e673b0a531a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1791904347495,
+   "image": "https://img.mako.co.il/2026/10/13/Liron_idAroma_13102026_M_1400_1791901503291_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791901560000,
+   "sections": [],
+   "title": "20 מיליון שקל: הצעד המפתיע של עידן עמדי",
+   "type": "news",
+   "updated_ms": 1791901560000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd8e673b0a531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/Liron_idAroma_13102026_M/MASTER/Liron_idAroma_13102026_M/Liron_idAroma_13102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ce13358d83531a1026.htm": {
    "author": "חדשות",
@@ -58085,6 +58103,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-766bd6e70fe21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_meyaret_7190_12102026070952/V1_meyaret_7190_12102026070952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-791541639b531a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילדה בת 12 נפגעה מרכב בחיפה, מצבה קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1791904347495,
+   "image": "https://img.mako.co.il/2026/10/13/M_NEWS_17265_13102026030649_1400_1791904096566_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791904103000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילדה בת 12 נפגעה מרכב בחיפה, מצבה קשה",
+   "type": "mivzakim",
+   "updated_ms": 1791904103000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-791541639b531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17265_13102026030649/M_NEWS_17265_13102026030649_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7b06cd0033131a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58733,6 +58769,24 @@
    "updated_ms": 1791725715000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c41bb61f92b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_KARIND_HAMAS_7160_11102026013348/V1_KARIND_HAMAS_7160_11102026013348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c51541639b531a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חדש מהתקיפה נגד החות'ים: להבות ענק מעל תחנת הרכבת של צנעא",
+   "duration_s": 17,
+   "first_seen_ms": 1791904347495,
+   "image": "https://img.mako.co.il/2026/10/13/V1_airstrike_7270_13102026030701_1400_1791904089486_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791904096000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד חדש מהתקיפה נגד החות'ים: להבות ענק מעל תחנת הרכבת של צנעא",
+   "type": "mivzakim",
+   "updated_ms": 1791904096000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c51541639b531a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_airstrike_7270_13102026030701/V1_airstrike_7270_13102026030701_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c51e355455331a1026.htm": {
    "author": "מבזקים",
