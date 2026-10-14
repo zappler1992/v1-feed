@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-af52a14afab31a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b5aa7c0c2cb31a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-50cc2bd7fbb31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9309,6 +9310,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b272b6901fb21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17133_11102026053732/M_Tarbut_17133_11102026053732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b5aa7c0c2cb31a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה קורה: אלעד צפני ובת הזוג בחופה",
+   "duration_s": 60,
+   "first_seen_ms": 1792004246266,
+   "image": "https://img.mako.co.il/2026/10/14/M_Celebs_17343_14102026065130_1400_1792003983268_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792003989000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה קורה: אלעד צפני ובת הזוג בחופה",
+   "type": "mivzakim",
+   "updated_ms": 1792003989000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b5aa7c0c2cb31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17343_14102026065130/M_Celebs_17343_14102026065130_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b78cf763a0f21a1027.htm": {
    "author": "עדכוני בידור",
@@ -84174,6 +84193,24 @@
    "updated_ms": 1791872809000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e922463de331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_ukraine_7239_13102026062536/V1_karind_ukraine_7239_13102026062536_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-50cc2bd7fbb31a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שיא עולם חדש: הסיני שפתר קובייה הונגרית ב-2.51 שניות ושבר את השיא הקודם ברבע שנייה",
+   "duration_s": 20,
+   "first_seen_ms": 1792004246266,
+   "image": "https://img.mako.co.il/2026/10/14/V1_SHIR_CUBE_7337_14102026065300_1400_1792004065604_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792004072000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "שיא עולם חדש: הסיני שפתר קובייה הונגרית ב-2.51 שניות ושבר את השיא הקודם ברבע שנייה",
+   "type": "mivzakim",
+   "updated_ms": 1792004072000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-50cc2bd7fbb31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_SHIR_CUBE_7337_14102026065300/V1_SHIR_CUBE_7337_14102026065300_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-51e52463de331a1026.htm": {
    "author": "מבזקים מהעולם",
