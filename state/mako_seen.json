@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791978148864,
+ "last_run_ms": 1791978448853,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10721,7 +10721,7 @@
    "indexnow_ms": 1791959067397,
    "published_ms": 1791958800000,
    "section": "תרבות tvbee",
-   "title": "הסיפור המצליח מגיע לישראל - ולא רק כסרט"
+   "title": "הסיפור שהדהים את העולם מגיע לישראל - ולא רק כסרט"
   },
   "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-cb910f1aa3011a1027.htm": {
    "check_attempts": 1,
@@ -30150,6 +30150,18 @@
    "published_ms": 1790923980000,
    "section": "",
    "title": "\"הרגשתי שהמטוס צולל, ידעתי שאסור לתת להם למות\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-cbb72e13a1a31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-cbb72e13a1a31a1026.htm",
+   "checked_ms": 1791978267404,
+   "content_type": "article",
+   "first_seen_ms": 1791978267404,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791977400000,
+   "section": "",
+   "title": "ראשוני: פיצוץ במפעל בקריית גת, 3 פצועים קשה"
   },
   "https://www.mako.co.il/special-mako-news/Article-cbfafc2e86ee0a1027.htm": {
    "check_attempts": 1,
