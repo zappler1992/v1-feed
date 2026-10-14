@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-98c756ad14931a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-14T07:19:17+00:00</news:publication_date>
+<news:title>סערה מפלצתית: מערכת אדירה מתגלגלת מעל אורוגוואי עם רוחות של עד 125 קמ״ש</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_karind_Uruguay_141026_7303_14102026071758_1400_1791962350781_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-22ca8b8ce3931a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2582,14 +2591,5 @@
 <news:title>79 שקלים לכיוון: המהפכה בטיסות מנתב&quot;ג לאילת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/12/rinat_eilat_121026_m_1400_1791789949954_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/recipes-2026/m10_w03/shorts-eec4e2be4fe21a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-12T07:21:38+00:00</news:publication_date>
-<news:title>מתכון לסניקרס שמוכיח שאפשר גם אחרת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/12/M_Food_17156_12102026071936_1400_1791789691501_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
