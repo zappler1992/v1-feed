@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9cd62e4f0da31a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ed4cd9fd5ea31a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4851f1aa9da31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -960,7 +961,7 @@
    ],
    "title": "בקצב השקר פרק 10: משאירה אבק למתחזה",
    "type": "series",
-   "updated_ms": 1791967440000,
+   "updated_ms": 1791990000000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-f358b583a1611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/ACADEMY_OF_LIES_EP10/MASTER/ACADEMY_OF_LIES_EP10/ACADEMY_OF_LIES_EP10_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -8507,6 +8508,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-42323a6e04131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17197_12102026060606/M_Tarbut_17197_12102026060606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4851f1aa9da31a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סחטיין על האומץ: סתיו נפתלי בחיקוי לא רע של רותי ברודו",
+   "duration_s": 14,
+   "first_seen_ms": 1791990146010,
+   "image": "https://img.mako.co.il/2026/10/14/M_Celebs_17336_14102026025214_1400_1791989606833_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791989613000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סחטיין על האומץ: סתיו נפתלי בחיקוי לא רע של רותי ברודו",
+   "type": "mivzakim",
+   "updated_ms": 1791989613000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4851f1aa9da31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17336_14102026025214/M_Celebs_17336_14102026025214_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4936944ae1031a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -9544,6 +9563,24 @@
    "updated_ms": 1791815166000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-e73d61a0a7031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17191_12102026022444/M_Celebs_17191_12102026022444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ed4cd9fd5ea31a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עוד מוסד נפל: שחקן קולומביה האגדי, קרלוס ולדרמה, נפרד מסימן ההיכר שלו",
+   "duration_s": 47,
+   "first_seen_ms": 1791990146010,
+   "image": "https://img.mako.co.il/2026/10/14/M_Celebs_17337_14102026025549_1400_1791989842927_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791989850000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עוד מוסד נפל: שחקן קולומביה האגדי, קרלוס ולדרמה, נפרד מסימן ההיכר שלו",
+   "type": "mivzakim",
+   "updated_ms": 1791989850000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ed4cd9fd5ea31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17337_14102026025549/M_Celebs_17337_14102026025549_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-eeccb207b9c21a1026.htm": {
    "author": "עדכוני בידור",
@@ -60667,17 +60704,17 @@
    "description": "פיצוץ אדיר נשמע בשכונת תקומה בנתיבות בעקבות רכב שהתפוצץ",
    "duration_s": 44,
    "first_seen_ms": 1791989245998,
-   "image": "https://img.mako.co.il/2026/10/14/FIX_CAR_1400_1791989328413_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/14/FIX_NETIVOT_UNDER_1400_1791989958767_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1791989145000,
    "sections": [
     "מבזקים"
    ],
    "title": "פיצוץ אדיר נשמע בשכונת תקומה בנתיבות בעקבות רכב שהתפוצץ",
    "type": "mivzakim",
-   "updated_ms": 1791989460000,
+   "updated_ms": 1791989940000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c7402e4f0da31a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/FIX_CAR/FIX_CAR_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/FIX_NETIVOT_UNDER/FIX_NETIVOT_UNDER_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c78878d54a331a1026.htm": {
    "author": "מבזקים",
