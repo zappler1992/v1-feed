@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-ee3a37abab931a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c2237abab931a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-60ed37abab931a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-451d19450c931a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58436,6 +58438,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4b984da407031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_doctor_7208_12102026020614/V1_karind_doctor_7208_12102026020614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c2237abab931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרוג בתאונה קטלנית בין משאית לאוטובוס בכביש 91 סמוך לצומת מחניים, 20 נפצעו באורח קל",
+   "duration_s": 15,
+   "first_seen_ms": 1791970646773,
+   "image": "https://img.mako.co.il/2026/10/14/V1_KARIND_TEHUNA_7314_14102026093314_1400_1791970465736_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791970472000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרוג בתאונה קטלנית בין משאית לאוטובוס בכביש 91 סמוך לצומת מחניים, 20 נפצעו באורח קל",
+   "type": "mivzakim",
+   "updated_ms": 1791970472000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c2237abab931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_KARIND_TEHUNA_7314_14102026093314/V1_KARIND_TEHUNA_7314_14102026093314_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4c4d770598331a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62234,6 +62254,24 @@
    "updated_ms": 1791968348000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17305_14102026085644/M_Food_17305_14102026085644_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-451d19450c931a1026.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "קילומטר מג'אגר: המבורגר קצבים חדש בדרך לפסגת הקציצות",
+   "duration_s": 33,
+   "first_seen_ms": 1791970646773,
+   "image": "https://img.mako.co.il/2026/10/14/M_Food_17308_14102026093232_1400_1791970478816_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791970486000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "קילומטר מג'אגר: המבורגר קצבים חדש בדרך לפסגת הקציצות",
+   "type": "mivzakim",
+   "updated_ms": 1791970486000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-451d19450c931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17308_14102026093232/M_Food_17308_14102026093232_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-967d1f21cc431a1026.htm": {
    "author": "לין לוי",
@@ -83035,6 +83073,24 @@
    "updated_ms": 1791952779000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-5753b47799831a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_chile_141026_7290_14102026043830/V1_karind_chile_141026_7290_14102026043830_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-60ed37abab931a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "כועסת על בן הזוג? אישה זרקה חפצים מהמרפסת בטורונטו - וכמעט פגעה בעובר אורח",
+   "duration_s": 44,
+   "first_seen_ms": 1791970646773,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_porch_7313_14102026093012_1400_1791970296055_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791970302000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "כועסת על בן הזוג? אישה זרקה חפצים מהמרפסת בטורונטו - וכמעט פגעה בעובר אורח",
+   "type": "mivzakim",
+   "updated_ms": 1791970302000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-60ed37abab931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_porch_7313_14102026093012/V1_karind_porch_7313_14102026093012_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-66a786a334531a1027.htm": {
    "author": "מבזקים מהעולם",
