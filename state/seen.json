@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-81914bed9f931a1027.htm"
+  "https://www.v-1.co.il/sport-magazine/2026-m10_w03/shorts-92dcbee19f931a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6a3ebee19f931a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8690,6 +8691,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6476b6901fb21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17134_11102026054439/M_Celebs_17134_11102026054439_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6a3ebee19f931a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בלונדון נפתח משפטו של השחקן והקומיקאי הבריטי ראסל ברנד, המואשם באונס ותקיפה מינית",
+   "duration_s": 23,
+   "first_seen_ms": 1791975145801,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17316_14102026104312_1400_1791974676936_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791974683000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בלונדון נפתח משפטו של השחקן והקומיקאי הבריטי ראסל ברנד, המואשם באונס ותקיפה מינית",
+   "type": "mivzakim",
+   "updated_ms": 1791974683000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6a3ebee19f931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17316_14102026104312/M_Tarbut_17316_14102026104312_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6abe71b1f4631a1026.htm": {
    "author": "עדכוני בידור",
@@ -74187,6 +74206,22 @@
    "updated_ms": 1790248140000,
    "url": "https://www.v-1.co.il/sport-magazine/2026-m09_w04/shorts-b7cc1fd8da2d0a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/24/yoav_Rooney_240926/MASTER/yoav_Rooney_240926/yoav_Rooney_240926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/sport-magazine/2026-m10_w03/shorts-92dcbee19f931a1026.htm": {
+   "author": "ספורט",
+   "date_source": "json-publishDate",
+   "description": "אחרי 35 שנה כבעלי מכבי חיפה, יעקב שחר ושותפיו מעמידים את המועדון למכירה תמורת כ־100 מיליון דולר. \nבנק השקעות בין־לאומי כבר החל לאתר רוכשים פוטנציאליים, ובין האפשרויות שנבחנות: \nקבוצת רכישה בהובלת מיליארדר יהודי ואנשי הייטק אוהדי הקבוצה. שחר צפוי למכור רק לרוכש שיבטיח\nאת המשכיות המועדון.",
+   "duration_s": 27,
+   "first_seen_ms": 1791975145801,
+   "image": "https://img.mako.co.il/2026/10/14/Kim_Yaakov_14102026_1400_1791974555780_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791974562000,
+   "sections": [],
+   "title": "אחרי 35 שנה: יעקב שחר מעמיד את מכבי חיפה למכירה",
+   "type": "general",
+   "updated_ms": 1791974562000,
+   "url": "https://www.v-1.co.il/sport-magazine/2026-m10_w03/shorts-92dcbee19f931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Yaakov_14102026/MASTER/Kim_Yaakov_14102026/Kim_Yaakov_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m04_w01/shorts-27d8d7a024e4d91026.htm": {
    "author": "טכנולוגיה",
