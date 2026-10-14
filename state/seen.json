@@ -1,11 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ee1af21fe831a1027.htm",
-  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4d3926c842931a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-6b7faf21fe831a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1c74af21fe831a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-46aa1a12e2931a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0e4a1a12e2931a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-603326c842931a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-794226c842931a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6cf91a12e2931a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8675,6 +8675,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6c8302ed7fb21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17131_11102026053614/M_Celebs_17131_11102026053614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6cf91a12e2931a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"הם התרגשו, רצו לבוא ואמרו שהם יפים מהם\": השלישייה שנקראה על שמם של שורדי השבי",
+   "duration_s": 67,
+   "first_seen_ms": 1791961047462,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17293_14102026065020_1400_1791960799029_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960805000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"הם התרגשו, רצו לבוא ואמרו שהם יפים מהם\": השלישייה שנקראה על שמם של שורדי השבי",
+   "type": "mivzakim",
+   "updated_ms": 1791960805000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6cf91a12e2931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17293_14102026065020/M_Tarbut_17293_14102026065020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-71080ae4f9531a1026.htm": {
    "author": "עדכוני בידור",
@@ -57261,6 +57279,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17105_11102026074153/M_NEWS_17105_11102026074153_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0e4a1a12e2931a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מד\"א: חלק ממבנה קרס בדרום תל אביב, כרגע לא ידוע על נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1791961047462,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17295_14102026065223_1400_1791960834244_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960840000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מד\"א: חלק ממבנה קרס בדרום תל אביב, כרגע לא ידוע על נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1791960840000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0e4a1a12e2931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17295_14102026065223/M_NEWS_17295_14102026065223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0f06f0b7bc131a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58074,6 +58110,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-45311392ff631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17277_13102026084954/M_NEWS_17277_13102026084954_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-46aa1a12e2931a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד נוסף של הבניין שקרס בתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1791961047462,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17296_14102026065252_1400_1791960870434_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960877000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד נוסף של הבניין שקרס בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1791960877000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-46aa1a12e2931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17296_14102026065252/M_NEWS_17296_14102026065252_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58530,6 +58584,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f98451818a21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17114_11102026102915/M_NEWS_17114_11102026102915_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-603326c842931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הולכת רגל נפגעה מרכב ברחוב הנביאים בתל אביב, מצבה בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1791961047462,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17294_14102026065159_1400_1791960805759_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960812000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הולכת רגל נפגעה מרכב ברחוב הנביאים בתל אביב, מצבה בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1791960812000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-603326c842931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17294_14102026065159/M_NEWS_17294_14102026065159_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-61334ceb31931a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58817,6 +58889,24 @@
    "updated_ms": 1791904103000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-791541639b531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17265_13102026030649/M_NEWS_17265_13102026030649_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-794226c842931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מבנה קרס בנחלת בנימין - פצוע קל במקום",
+   "duration_s": 7,
+   "first_seen_ms": 1791961047462,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_krisa_7299_14102026065019_1400_1791960693242_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960700000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מבנה קרס בנחלת בנימין - פצוע קל במקום",
+   "type": "mivzakim",
+   "updated_ms": 1791960700000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-794226c842931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_krisa_7299_14102026065019/V1_karind_krisa_7299_14102026065019_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7b06cd0033131a1026.htm": {
    "author": "מבזקים",
