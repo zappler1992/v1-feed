@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-43f86d8f74931a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-981e468825931a1027.htm",
-  "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-3e6b6d8f74931a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-8432eedb52931a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-bfa14ceb31931a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-249986e327931a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -57732,6 +57728,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-23d8a90c38a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17115_11102026102937/M_NEWS_17115_11102026102937_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-249986e327931a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה הטורקית פשטה על משרדי ערוץ הטלוויזיה האופוזיציוני באיסטנבול - והפסיקה את השידורים",
+   "duration_s": 83,
+   "first_seen_ms": 1791965546792,
+   "image": "https://img.mako.co.il/2026/10/14/V1_rinat_bazak_141026_7307_14102026080455_1400_1791965221393_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791965232000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה הטורקית פשטה על משרדי ערוץ הטלוויזיה האופוזיציוני באיסטנבול - והפסיקה את השידורים",
+   "type": "mivzakim",
+   "updated_ms": 1791965232000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-249986e327931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_rinat_bazak_141026_7307_14102026080455/V1_rinat_bazak_141026_7307_14102026080455_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-26fbf306c1031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58896,9 +58910,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "קם בשנייה האחרונה מהספסל - והבניין קורס: תיעוד נוסף מרגע קריסת הבניין בתל אביב",
-   "duration_s": 15,
+   "duration_s": 27,
    "first_seen_ms": 1791963748020,
-   "image": "https://img.mako.co.il/2026/10/14/V1_Karind_safsal_141026_7305_14102026073651_1400_1791963488014_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/14/fix_safsal_1400_1791965403659_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1791963494000,
    "sections": [
@@ -58906,9 +58920,9 @@
    ],
    "title": "קם בשנייה האחרונה מהספסל - והבניין קורס: תיעוד נוסף מרגע קריסת הבניין בתל אביב",
    "type": "mivzakim",
-   "updated_ms": 1791964680000,
+   "updated_ms": 1791965280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a42468825931a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_Karind_safsal_141026_7305_14102026073651/V1_Karind_safsal_141026_7305_14102026073651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/fix_safsal/fix_safsal_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6b1402ed7fb21a1027.htm": {
    "author": "מבזקים",
