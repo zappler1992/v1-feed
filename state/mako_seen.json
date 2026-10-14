@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791997649127,
+ "last_run_ms": 1791997948990,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3466,6 +3466,18 @@
    "published_ms": 1791708600000,
    "section": "ספורט",
    "title": "\"מכוונים שהדרבי השני ביורוליג יהיה בארץ\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-affb7c2026b31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791997948990,
+   "content_type": "article",
+   "first_seen_ms": 1791997948990,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791997740000,
+   "section": "ספורט",
+   "title": "\"האמת תתגלה\": דורסי תקף את אולימפיאקוס"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-b05cc85033201a1026.htm": {
    "check_attempts": 1,
@@ -17285,7 +17297,7 @@
    "indexnow_ms": 1791969750220,
    "published_ms": 1791969120000,
    "section": "בריאות",
-   "title": "בעקבות ההרעלה במעון: מתי טונה מסכנת חיים?"
+   "title": "אחרי ההרעלה במעון: המצב שבו טונה הופכת לסכנת חיים"
   },
   "https://www.mako.co.il/health-news/Article-fbb954f40e8c0a1027.htm": {
    "check_attempts": 1,
