@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791969750220,
+ "last_run_ms": 1791970049580,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5098,6 +5098,18 @@
    "published_ms": 1791144000000,
    "section": "ספורט",
    "title": "התשובה לאירים: צפו בחגיגת השער של פרץ"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-37e509481b931a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791969986770,
+   "content_type": "article",
+   "first_seen_ms": 1791969986770,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791969780000,
+   "section": "ספורט",
+   "title": "\"יש 14 ליגיונרים בנבחרת, אבל מאיפה?\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-3930f0bffeaf0a1026.htm": {
    "check_attempts": 1,
@@ -13890,6 +13902,18 @@
    "published_ms": 1791435600000,
    "section": "",
    "title": "הפגנת חרדים ומופע ענק באצטדיון ר\"ג"
+  },
+  "https://www.mako.co.il/finances-news/Article-b27017340a931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791969866768,
+   "content_type": "article",
+   "first_seen_ms": 1791969866768,
+   "indexable": true,
+   "indexnow_ms": 1791969866768,
+   "published_ms": 1791968700000,
+   "section": "כסף",
+   "title": "ככה צריך: התקבלת לעבודה, נתראה אחרי הלידה"
   },
   "https://www.mako.co.il/finances-news/Article-b590c1ad00601a1026.htm": {
    "check_attempts": 1,
