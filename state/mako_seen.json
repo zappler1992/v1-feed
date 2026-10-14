@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791978448853,
+ "last_run_ms": 1791978748801,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16543,6 +16543,18 @@
    "section": "",
    "title": "\"הימים קריטיים\": חשש להתפרצות מגפה ברוסיה"
   },
+  "https://www.mako.co.il/health-news/Article-7af738fb33a31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791978748801,
+   "content_type": "article",
+   "first_seen_ms": 1791978748801,
+   "indexable": true,
+   "indexnow_ms": 1791978748801,
+   "published_ms": 1791978360000,
+   "section": "",
+   "title": "פצועים קשה בפיצוץ ושריפה במפעל אינטל בקריית גת"
+  },
   "https://www.mako.co.il/health-news/Article-83032efeb8701a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28314,6 +28326,18 @@
    "published_ms": 1790746980000,
    "section": "צבא וביטחון",
    "title": "ארה\"ב יוצאת, איראן נכנסת? המהלך הדרמטי באזור"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-7510cdbce2a31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791978627440,
+   "content_type": "article",
+   "first_seen_ms": 1791978627440,
+   "indexable": true,
+   "indexnow_ms": 1791978627440,
+   "published_ms": 1791978000000,
+   "section": "צבא וביטחון",
+   "title": "בדרך לתימן: משלוח נשק נתפס וחשף את מזימת החות'ים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,

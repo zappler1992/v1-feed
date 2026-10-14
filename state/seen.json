@@ -59097,8 +59097,8 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62c8cdbce2a31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "ראשוני: פיצוץ במפעל אינטל בקריית גת, דיווח על 3 פצועים במקום",
-   "duration_s": 7,
+   "description": "ראשוני: פיצוץ במפעל אינטל בקריית גת, דיווח על 3 פצועים במקום.",
+   "duration_s": 72,
    "first_seen_ms": 1791977845916,
    "image": "https://img.mako.co.il/2026/10/14/V1_karind_kiryatgat_7320_14102026113115_1400_1791977579876_FirstFrame.jpg",
    "importance": 1,
@@ -59110,7 +59110,7 @@
    "type": "mivzakim",
    "updated_ms": 1791978240000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62c8cdbce2a31a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_kiryatgat_7320_14102026113115/V1_karind_kiryatgat_7320_14102026113115_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/INTEL/INTEL_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62d8981c19531a1027.htm": {
    "author": "מבזקים",
@@ -61105,7 +61105,9 @@
    "importance": 1,
    "published_ms": 1791977607000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות",
+    "חופש וטיולים"
    ],
    "title": "רונן בר תובע את נתניהו על לשון הרע: טוען ל״עלילת דם״ וחושף התרעות שהעביר לפני 7 באוקטובר",
    "type": "mivzakim",
@@ -74382,7 +74384,9 @@
    "image": "https://img.mako.co.il/2026/10/14/Kim_Yaakov_14102026_1400_1791974555780_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791974562000,
-   "sections": [],
+   "sections": [
+    "ספורט"
+   ],
    "title": "אחרי 35 שנה: יעקב שחר מעמיד את מכבי חיפה למכירה",
    "type": "general",
    "updated_ms": 1791974562000,
