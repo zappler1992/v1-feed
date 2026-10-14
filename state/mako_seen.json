@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791998249049,
+ "last_run_ms": 1791998549022,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8168,6 +8168,18 @@
    "published_ms": 1791918780000,
    "section": "ספורט",
    "title": "\"השיוויון באשמתו\": צפו באדום שספג אוליסה"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-8e31efec55b31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791998549022,
+   "content_type": "article",
+   "first_seen_ms": 1791998549022,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791998160000,
+   "section": "ספורט",
+   "title": "צפו. כאן להישאר: חגיגת ה\"שמע\" של אראוחו"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-970a3d2d8e631a1027.htm": {
    "check_attempts": 1,
@@ -30138,6 +30150,18 @@
    "published_ms": 1791374700000,
    "section": "",
    "title": "התמונה של מלי וליאל יהלומי אחרי הנחיתה בישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5d0b7cbac3b31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-5d0b7cbac3b31a1026.htm",
+   "checked_ms": 1791998426777,
+   "content_type": "article",
+   "first_seen_ms": 1791998426777,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791997080000,
+   "section": "",
+   "title": "הודה בחקירה: הפגישה של אוריך עם הבכיר הקטארי"
   },
   "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
