@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3bcb465eb8b31a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f1fdca82b7b31a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d724ca82b7b31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4779,6 +4780,22 @@
    "updated_ms": 1791834720000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ec7217d3fda21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/rinat_tomwelling_111026_m/MASTER/rinat_tomwelling_111026_m/rinat_tomwelling_111026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f1fdca82b7b31a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "שיהיה במזל: אלעד צפני (36) נישא לבת זוגו רומי גרוסמן (26) אחרי שנתיים וחצי של זוגיות.",
+   "duration_s": 15,
+   "first_seen_ms": 1792001246209,
+   "image": "https://img.mako.co.il/2026/10/14/biata_elad_141026_1400_1792000415944_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792000423000,
+   "sections": [],
+   "title": "בשעה טובה! אלעד צפני נישא לבחירת ליבו",
+   "type": "general",
+   "updated_ms": 1792000423000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f1fdca82b7b31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/biata_elad_141026/MASTER/biata_elad_141026/biata_elad_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -61434,6 +61451,24 @@
    "updated_ms": 1791816360000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d6a361a0a7031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_YARON_121026/SHIR_YARON_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d724ca82b7b31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקבע מותו של הפצוע האנוש בפיצוץ במפעל אינטל",
+   "duration_s": 9,
+   "first_seen_ms": 1792001246209,
+   "image": "https://img.mako.co.il/2026/10/14/V1_ANOSH_7335_14102026060304_1400_1792001063364_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792001070000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקבע מותו של הפצוע האנוש בפיצוץ במפעל אינטל",
+   "type": "mivzakim",
+   "updated_ms": 1792001070000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d724ca82b7b31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_ANOSH_7335_14102026060304/V1_ANOSH_7335_14102026060304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d796d1ab63331a1027.htm": {
    "author": "מבזקים",
