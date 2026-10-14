@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/14/ASAF_IRAN_14102026_M_1400_1791976579746_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הסימנים המעידים להסלמה עם איראן</video:title>
+<video:description>האיום של טראמפ, השיחה בינו ובין נתניהו ומטוסי התדלוק שמגיעים לאירופה: לאחרונה הצטברו מספר סימנים שמעידים - המלחמה עם איראן מתקרבת.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/ASAF_IRAN_14102026/MASTER/ASAF_IRAN_14102026_M/ASAF_IRAN_14102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>79</video:duration>
+<video:publication_date>2026-10-14T17:44:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-79edefec55b31a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/14/V1_SHIR_OFER_7333_14102026050215_1400_1791997460987_FirstFrame.jpg</video:thumbnail_loc>
@@ -368,6 +384,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -534,6 +551,7 @@
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>חדשות אמריקה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>

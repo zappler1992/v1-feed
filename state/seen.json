@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-79edefec55b31a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4680,7 +4680,8 @@
    "importance": 2,
    "published_ms": 1791986198000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אהבה בלי חוקים: הלנה בונהם קרטר בת ה־60 ובן זוגה ריי בן ה־38 בטיול עם הכלבים",
    "type": "general",
@@ -15076,7 +15077,8 @@
    "importance": 1,
    "published_ms": 1791980864000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "מה קורה? הדוברת של טראמפ שוב טועה בשידור",
    "type": "general",
@@ -29605,6 +29607,22 @@
    "updated_ms": 1791956822000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-6b7faf21fe831a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/NOAB_GERTA_141026_M/MASTER/NOAB_GERTA_141026_M/NOAB_GERTA_141026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "האיום של טראמפ, השיחה בינו ובין נתניהו ומטוסי התדלוק שמגיעים לאירופה: לאחרונה הצטברו מספר סימנים שמעידים - המלחמה עם איראן מתקרבת.",
+   "duration_s": 79,
+   "first_seen_ms": 1792000046172,
+   "image": "https://img.mako.co.il/2026/10/14/ASAF_IRAN_14102026_M_1400_1791976579746_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1791999840000,
+   "sections": [],
+   "title": "הסימנים המעידים להסלמה עם איראן",
+   "type": "news",
+   "updated_ms": 1791999840000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/ASAF_IRAN_14102026/MASTER/ASAF_IRAN_14102026_M/ASAF_IRAN_14102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm": {
    "author": "חדשות",
