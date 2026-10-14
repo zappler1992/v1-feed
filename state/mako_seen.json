@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791955652517,
+ "last_run_ms": 1791955948955,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16013,7 +16013,7 @@
    "indexnow_ms": 1791912749544,
    "published_ms": 1791909780000,
    "section": "בריאות",
-   "title": "כלב \"ענק\" תקף גבר - ששלף אקדח וירה בו למוות"
+   "title": "כלב תקף גבר בחצר בית, הוא שלף אקדח והרג אותו"
   },
   "https://www.mako.co.il/health-news/Article-55ceb6c7ce411a1027.htm": {
    "check_attempts": 1,
@@ -17035,6 +17035,18 @@
    "section": "HIX",
    "title": "התאומות נישאו לתאומים, ושמרו על הזוגיות בסוד"
   },
+  "https://www.mako.co.il/hix-bizarre/Article-f232f80c36531a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791955827314,
+   "content_type": "article",
+   "first_seen_ms": 1791955827314,
+   "indexable": true,
+   "indexnow_ms": 1791955827314,
+   "published_ms": 1791946800000,
+   "section": "HIX",
+   "title": "זיהו חפץ חשוד בשיקוף – וזה מה שהתגלה במחשב"
+  },
   "https://www.mako.co.il/hix-bizarre/Article-fb8207b6ddf21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17862,6 +17874,18 @@
    "published_ms": 1791190740000,
    "section": "HIX",
    "title": "\"אם לא ימצאו את הגופה, לא יאשימו אותי ברצח\""
+  },
+  "https://www.mako.co.il/hix-special/Article-7cc15b9cf6531a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791955827314,
+   "content_type": "article",
+   "first_seen_ms": 1791955827314,
+   "indexable": true,
+   "indexnow_ms": 1791955827314,
+   "published_ms": 1791946800000,
+   "section": "HIX",
+   "title": "\"הוא אמר שיש לו נשק ושהוא יפתור הכל ביריות\""
   },
   "https://www.mako.co.il/hix-special/Article-7e11f9f49cbe0a1026.htm": {
    "check_attempts": 1,
@@ -28409,7 +28433,7 @@
    "indexnow_ms": 1791926248747,
    "published_ms": 1791924360000,
    "section": "חדשות",
-   "title": "האיום של טראמפ: \"ננחית עליהם מכה קשה\""
+   "title": "בחיוך ומול אלפים: האיום החדש של הנשיא טראמפ"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-50f994351bc21a1026.htm": {
    "check_attempts": 1,
@@ -29970,6 +29994,18 @@
    "published_ms": 1789649040000,
    "section": "",
    "title": "קירות מתקלפים וזבל: מה קרה לבית המלון המפואר שננטש"
+  },
+  "https://www.mako.co.il/travel-israel/Article-441d3a835bf21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791955948955,
+   "content_type": "article",
+   "first_seen_ms": 1791955948955,
+   "indexable": true,
+   "indexnow_ms": 1791955948955,
+   "published_ms": 1791866640000,
+   "section": "חופש",
+   "title": "כמו בחו\"ל: המקום המושלם בארץ לעשות בו טיול כוכב"
   },
   "https://www.mako.co.il/travel-israel/Article-55000db231eb0a1026.htm": {
    "check_attempts": 1,
