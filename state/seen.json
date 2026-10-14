@@ -1,7 +1,13 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5f3da4e070a31a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8c9ccdbce2a31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62c8cdbce2a31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e439cdbce2a31a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b517915e7d931a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-019bcdbce2a31a1026.htm",
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-8c98bee19f931a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-607b211e0e931a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8091,6 +8097,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w02/shorts-e7eecf7aa0721a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17074_10102026063002/M_Celebs_17074_10102026063002_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-019bcdbce2a31a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בנטפליקס חשפו טריילר ראשון ל״נרניה: אחיינו של הקוסם״",
+   "duration_s": 150,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17323_14102026113205_1400_1791977692387_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791977698000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בנטפליקס חשפו טריילר ראשון ל״נרניה: אחיינו של הקוסם״",
+   "type": "mivzakim",
+   "updated_ms": 1791977698000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-019bcdbce2a31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17323_14102026113205/M_Tarbut_17323_14102026113205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-04fed8b5d7531a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -10066,6 +10090,24 @@
    "updated_ms": 1791389040000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_rinat_zionist_071026_7011_07102026013355/V1_rinat_zionist_071026_7011_07102026013355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-8c98bee19f931a1026.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "הדבר הכי חמוד שתראו: איחרה ללימודים כי חמור וכלב חסמו לה את הדרך",
+   "duration_s": 15,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_hamor_7316_14102026103342_1400_1791974113203_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791974127000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "הדבר הכי חמוד שתראו: איחרה ללימודים כי חמור וכלב חסמו לה את הדרך",
+   "type": "mivzakim",
+   "updated_ms": 1791974127000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-8c98bee19f931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_hamor_7316_14102026103342/V1_karind_hamor_7316_14102026103342_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm": {
    "author": "סרטונים מהירים",
@@ -14938,6 +14980,24 @@
    "updated_ms": 1791799902000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-56be470a19f21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/rinat_ai_121226/MASTER/rinat_ai_121226_m/rinat_ai_121226_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-607b211e0e931a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שערורייה בכלא הבריטי: אחות המוסד הודתה בבית המשפט בניהול מערכת יחסים אישית ורומנטית עם רוצח מורשע, תוך שימוש במכשיר מוברח בתוך הכלא. החשד עלה רק כשהאסיר רשם את כתובת מגוריה במסמכים משפטיים  וכעת השניים ממתינים לגזר הדין.",
+   "duration_s": 54,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/rinat_prison_141026_m_1400_1791972635011_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791972641000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "האחות והרוצח: הרומן האסור בכלא בבריטניה נחשף",
+   "type": "general",
+   "updated_ms": 1791972641000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-607b211e0e931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/rinat_prison_141026/MASTER/rinat_prison_141026_m/rinat_prison_141026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-64ca473414b21a1027.htm": {
    "author": "מהעולם",
@@ -29385,7 +29445,8 @@
    "published_ms": 1791957033000,
    "sections": [
     "חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חופש וטיולים"
    ],
    "title": "פעם שנייה בתוך 24 שעות: חשש לפצצה בטיסת דלתא לישראל",
    "type": "news",
@@ -29523,6 +29584,24 @@
    "updated_ms": 1791722627000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b093eeaeeea21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_ALIMUT_111026_1/MASTER/SHIR_ALIMUT_111026_1/SHIR_ALIMUT_111026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b517915e7d931a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מפקח בתחנת רכבת בלונדון דרש מנוסע יהודי לעזוב את התחנה, לאחר שהתלונן על עובד שענד סיכה פרו-פלסטינית. \nבתיעוד שפורסם, נשמע המפקח מאשים את ישראל בטבח באזרחים ומפיץ טענות קונספירטיביות על מתקפת 7 באוקטובר. חברת הרכבות פתחה בחקירה פנימית.",
+   "duration_s": 41,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/Kim_London_14102026_1400_1791972339789_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791972346000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "סערה ברכבת בלונדון: מפקח התחנה דרש להוציא נוסע יהודי",
+   "type": "news",
+   "updated_ms": 1791972346000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-b517915e7d931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_London_14102026/MASTER/Kim_London_14102026/Kim_London_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bc59c24f51b21a1026.htm": {
    "author": "חדשות",
@@ -59020,6 +59099,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-61334ceb31931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_memshala_7298_14102026063428/V1_karind_memshala_7298_14102026063428_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62c8cdbce2a31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראשוני: פיצוץ במפעל אינטל בקריית גת, דיווח על 3 פצועים במקום",
+   "duration_s": 7,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_kiryatgat_7320_14102026113115_1400_1791977579876_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791977640000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראשוני: פיצוץ במפעל אינטל בקריית גת, דיווח על 3 פצועים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1791977640000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62c8cdbce2a31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_kiryatgat_7320_14102026113115/V1_karind_kiryatgat_7320_14102026113115_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-62d8981c19531a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -59578,6 +59675,24 @@
    "updated_ms": 1791825722000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88b6173881131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_BIKE_7224_12102026052040/V1_BIKE_7224_12102026052040_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8c9ccdbce2a31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח ראשונים על פיצוץ במפעל אינטל בקריית גת. 3 נפגעים במקום",
+   "duration_s": 12,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17324_14102026113417_1400_1791977727917_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791977734000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח ראשונים על פיצוץ במפעל אינטל בקריית גת. 3 נפגעים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1791977734000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8c9ccdbce2a31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17324_14102026113417/M_NEWS_17324_14102026113417_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e450a5167931a1027.htm": {
    "author": "מבזקים",
@@ -60966,6 +61081,24 @@
    "updated_ms": 1791780308000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17146_12102026044343/M_NEWS_17146_12102026044343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e439cdbce2a31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רונן בר תובע את נתניהו על לשון הרע: טוען ל״עלילת דם״ וחושף התרעות שהעביר לפני 7 באוקטובר",
+   "duration_s": 93,
+   "first_seen_ms": 1791977845916,
+   "image": "https://img.mako.co.il/2026/10/14/V1_RONENBAR_7319_14102026112725_1400_1791977601106_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791977607000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רונן בר תובע את נתניהו על לשון הרע: טוען ל״עלילת דם״ וחושף התרעות שהעביר לפני 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1791977607000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e439cdbce2a31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_RONENBAR_7319_14102026112725/V1_RONENBAR_7319_14102026112725_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e44f451818a21a1026.htm": {
    "author": "מבזקים",
