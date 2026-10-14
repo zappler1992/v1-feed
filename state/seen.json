@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b0dbb31a1eb31a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-55e83e6a0eb31a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5e2fb31a1eb31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8871,6 +8870,24 @@
    "updated_ms": 1791912384000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5aaf0d7024631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17271_13102026052503/M_Celebs_17271_13102026052503_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5e2fb31a1eb31a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״מפחדים שלא יאהבו אותנו״: גיה והשופטים חיים ורותי בשיחה על הצד הפחות זוהר של הפרסום",
+   "duration_s": 89,
+   "first_seen_ms": 1792006946196,
+   "image": "https://img.mako.co.il/2026/10/14/M_Celebs_17351_14102026072826_1400_1792006378535_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792006385000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״מפחדים שלא יאהבו אותנו״: גיה והשופטים חיים ורותי בשיחה על הצד הפחות זוהר של הפרסום",
+   "type": "mivzakim",
+   "updated_ms": 1792006385000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5e2fb31a1eb31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17351_14102026072826/M_Celebs_17351_14102026072826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5efd798bbdc21a1026.htm": {
    "author": "עדכוני בידור",
@@ -84402,17 +84419,17 @@
    "description": "איסטנבול טובעת: שיטפונות כבדים הפכו את הרחובות לנהרות ענק",
    "duration_s": 33,
    "first_seen_ms": 1792006346203,
-   "image": "https://img.mako.co.il/2026/10/14/V1_SHITFONOT_7340_14102026072703_1400_1792006123803_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/14/FIX_SHITFONOT_1400_1792006691233_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1792006200000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "איסטנבול טובעת: שיטפונות כבדים הפכו את הרחובות לנהרות ענק",
    "type": "mivzakim",
-   "updated_ms": 1792006200000,
+   "updated_ms": 1792006680000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-55e83e6a0eb31a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_SHITFONOT_7340_14102026072703/V1_SHITFONOT_7340_14102026072703_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/FIX_SHITFONOT/FIX_SHITFONOT_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-5753b47799831a1026.htm": {
    "author": "מבזקים מהעולם",
