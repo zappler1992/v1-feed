@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791980848880,
+ "last_run_ms": 1791981148878,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -945,7 +945,7 @@
    "indexnow_ms": null,
    "published_ms": 1791975048000,
    "section": "Fashion Forward",
-   "title": "דרמה על דרמה: שמלת העירום של עדן פינס והטוויסט המפתיע"
+   "title": "שכבות של דרמה: שמלת העירום של עדן פינס הפתיעה גם אותנו"
   },
   "https://fashionforward.mako.co.il/news/321755/": {
    "check_attempts": 1,
@@ -22050,6 +22050,18 @@
    "published_ms": 1790064360000,
    "section": "פלילים",
    "title": "בעקבות המעצר: המראה החדש של ראש ארגון הפשע"
+  },
+  "https://www.mako.co.il/men-men_news/Article-5d47ce7a25a31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791981026907,
+   "content_type": "article",
+   "first_seen_ms": 1791981026907,
+   "indexable": true,
+   "indexnow_ms": 1791981026907,
+   "published_ms": 1791980700000,
+   "section": "פלילים",
+   "title": "\"המנהל ביטל את ההזמנות ולקח את הכסף לכיסו\""
   },
   "https://www.mako.co.il/men-men_news/Article-5d730b68782e0a1026.htm": {
    "check_attempts": 1,
