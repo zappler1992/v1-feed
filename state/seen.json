@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ca53ba67aaa31a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc4f0719eba31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-49b50de45ba31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58657,6 +58658,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_SHIR_POLL_7229_12102026061910/V1_SHIR_POLL_7229_12102026061910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-49b50de45ba31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפה בעקבות פיצוץ פח בביתר עלית: ילד בן 10 מחוסר הכרה במצב אנוש",
+   "duration_s": 9,
+   "first_seen_ms": 1791987746004,
+   "image": "https://img.mako.co.il/2026/10/14/V1_FIRE_7325_14102026021445_1400_1791987390516_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791987408000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפה בעקבות פיצוץ פח בביתר עלית: ילד בן 10 מחוסר הכרה במצב אנוש",
+   "type": "mivzakim",
+   "updated_ms": 1791987408000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-49b50de45ba31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_FIRE_7325_14102026021445/V1_FIRE_7325_14102026021445_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4a910ea945031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60698,6 +60717,24 @@
    "updated_ms": 1791892426000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ca152f1521531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_itamarbengvir_7254_13102026115124/V1_karind_itamarbengvir_7254_13102026115124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc4f0719eba31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפיצוץ באינטל: מבית החולים סורוקה נמסר כי אחד הפצועים במצב אנוש, והשניים האחרים במצב קשה",
+   "duration_s": 13,
+   "first_seen_ms": 1791987746004,
+   "image": "https://img.mako.co.il/2026/10/14/V1_INTELHOSPITAL_7326_14102026021741_1400_1791987532527_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791987539000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפיצוץ באינטל: מבית החולים סורוקה נמסר כי אחד הפצועים במצב אנוש, והשניים האחרים במצב קשה",
+   "type": "mivzakim",
+   "updated_ms": 1791987539000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc4f0719eba31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_INTELHOSPITAL_7326_14102026021741/V1_INTELHOSPITAL_7326_14102026021741_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc7c59cf86b21a1027.htm": {
    "author": "מבזקים",
