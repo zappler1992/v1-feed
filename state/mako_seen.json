@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791975148831,
+ "last_run_ms": 1791975448701,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26263,6 +26263,18 @@
    "section": "דיגיטל",
    "title": "זה הסטודנט העזתי בהולנד שטען שהיה מעורב ב-7.10"
   },
+  "https://www.mako.co.il/nexter-news/Article-2b6c99dd0f931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791975387162,
+   "content_type": "article",
+   "first_seen_ms": 1791975387162,
+   "indexable": true,
+   "indexnow_ms": 1791975387162,
+   "published_ms": 1791973680000,
+   "section": "דיגיטל",
+   "title": "רק בגלל פוסט: הצעירה האיראנית שתוצא להורג"
+  },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29791,6 +29803,18 @@
    "section": "",
    "title": "מה שסיפר הטייס המחבל לחוקרים - והמעורבות של השב\"כ"
   },
+  "https://www.mako.co.il/special-mako-news/Article-8ca9fd3870931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-8ca9fd3870931a1026.htm",
+   "checked_ms": 1791975267111,
+   "content_type": "article",
+   "first_seen_ms": 1791975267111,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791975060000,
+   "section": "",
+   "title": "בסך 3 מיליון שקל: תביעת הדיבה של רונן בר נגד נתניהו"
+  },
   "https://www.mako.co.il/special-mako-news/Article-96d3a94bd3211a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-96d3a94bd3211a1026.htm",
@@ -32777,7 +32801,7 @@
    "indexnow_ms": 1791970226836,
    "published_ms": 1791968580000,
    "section": "חופש",
-   "title": "\"אמרו שהוא ברח, התפללתי שיתקשרו ויגידו שהוא בחיים\""
+   "title": "\"ראיתי תגובות מזעזעות, אנשים כתבו שהוא ברח\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-e38b2d1558db0a1027.htm": {
    "check_attempts": 1,
