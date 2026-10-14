@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-bce26d8f74931a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-14T07:27:35+00:00</news:publication_date>
+<news:title>הבניין נופל - ואבק מתפזר בכל מקום: תיעוד רגע הקריסה של הבניין בתל אביב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_FALL_7304_14102026072632_1400_1791962848962_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-98c756ad14931a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2564,14 +2573,5 @@
 <news:title>מפגינה פרו-פלסטינית קטעה את הופעתו של סיינפלד: &quot;22 אלף ילדים נהרגו ואתה מספר בדיחות?&quot;; הוא לא נותר ח</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/12/M_Tarbut_17158_12102026073051_1400_1791790355972_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f8347ee400f21a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-12T07:30:13+00:00</news:publication_date>
-<news:title>פועל כבן 40 נפצע בינוני לאחר שנפל מגובה במהלך עבודתו באתר בנייה סמוך למחלף אבו כף</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/12/M_NEWS_17157_12102026072907_1400_1791790206893_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
