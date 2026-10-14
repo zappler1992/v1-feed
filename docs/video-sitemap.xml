@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-22ca8b8ce3931a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/14/V1_karind_shchenim_7302_14102026071046_1400_1791961922653_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>השכנים ההמומים מתעדים את ההרס ברחוב - בעקבות הבניין שקרס בנחלת בנימין פינת רוטשילד</video:title>
+<video:description>השכנים ההמומים מתעדים את ההרס ברחוב - בעקבות הבניין שקרס בנחלת בנימין פינת רוטשילד</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_shchenim_7302_14102026071046/V1_karind_shchenim_7302_14102026071046_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>11</video:duration>
+<video:publication_date>2026-10-14T07:12:09+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dd4f1a12e2931a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/14/V1_karind_nahalat_7301_14102026065853_1400_1791961199423_FirstFrame.jpg</video:thumbnail_loc>
@@ -532,6 +548,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -662,6 +679,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
