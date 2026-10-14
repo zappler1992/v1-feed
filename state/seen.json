@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cc4f0719eba31a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-49b50de45ba31a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ca10244d8ca31a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-bc02ba67aaa31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15194,6 +15194,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-981e468825931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/rinat_naked_141026/MASTER/rinat_naked_141026_m/rinat_naked_141026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-bc02ba67aaa31a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "זהו שמו של ההרוג באסון המזעזע ברכבת ההרים \"גוליית\" בפארק Six Flags באטלנטה: חסן ג'יהאד איבן קארים, בן 42, מורה ומנהל IT אהוב בקהילה. חסן נפל אל מותו מהמתקן בזמן בילוי משפחתי, בעקבות האסון, הפארק סגר באופן זמני מתקנים דומים ברחבי המדינה, והרשויות יחד עם יצרנית המתקן פתחו בחקירת חירום",
+   "duration_s": 50,
+   "first_seen_ms": 1791988345978,
+   "image": "https://img.mako.co.il/2026/10/14/rinat_rollercoaster_141026_m_1400_1791986140815_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791986147000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "מורה אהוב ונערץ: זה האיש שנפל אל מותו מרכבת הרים",
+   "type": "general",
+   "updated_ms": 1791986147000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-bc02ba67aaa31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/rinat_rollercoaster_141026/MASTER/rinat_rollercoaster_141026_m/rinat_rollercoaster_141026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-bfa14ceb31931a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -29782,6 +29800,22 @@
    "updated_ms": 1791821220000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c26759919a031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/SHIR_PICTURE_121026/MASTER/SHIR_PICTURE_121026/SHIR_PICTURE_121026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ca10244d8ca31a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1791988345978,
+   "image": "https://img.mako.co.il/2026/10/14/biata_kibbeh_141026_1400_1791988063532_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791988070000,
+   "sections": [],
+   "title": "משרד הבריאות קורא להחזיר את הקובה לחנות",
+   "type": "news",
+   "updated_ms": 1791988070000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-ca10244d8ca31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/biata_kibbeh_141026/MASTER/biata_kibbeh_141026/biata_kibbeh_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-cd24bba6b8b21a1027.htm": {
    "author": "חדשות",
