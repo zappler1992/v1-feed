@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791993149729,
+ "last_run_ms": 1791994055426,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2854,6 +2854,18 @@
    "published_ms": 1791991380000,
    "section": "ספורט",
    "title": "לראשונה: הפועל תל אביב ללא ישראלי בסגל"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-22423ccc4fa31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791994055426,
+   "content_type": "article",
+   "first_seen_ms": 1791994055426,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791990960000,
+   "section": "ספורט",
+   "title": "רשמי: הקבוצה החדשה של מרקוס הווארד"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-23a80a254db21a1027.htm": {
    "check_attempts": 1,
@@ -21019,6 +21031,18 @@
    "section": "",
    "title": "כוכבת הרשת נשברת: \"לא הייתי במצב כזה בחיים\""
   },
+  "https://www.mako.co.il/makoz-news/Article-d798f6ed01b31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791994055426,
+   "content_type": "article",
+   "first_seen_ms": 1791994055426,
+   "indexable": true,
+   "indexnow_ms": 1791994055426,
+   "published_ms": 1791992280000,
+   "section": "",
+   "title": "במאות אלפי שקלים: הצעד הבא של בתו של הכוכב"
+  },
   "https://www.mako.co.il/makoz-news/Article-e3ea5261416f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26682,6 +26706,18 @@
    "published_ms": 1791783540000,
    "section": "דיגיטל",
    "title": "שוב זה קורה: דיווח על אקזיט עצום לישראלית"
+  },
+  "https://www.mako.co.il/nexter-news/Article-4f02d9fd5ea31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791994055426,
+   "content_type": "article",
+   "first_seen_ms": 1791994055426,
+   "indexable": true,
+   "indexnow_ms": 1791994055426,
+   "published_ms": 1791989880000,
+   "section": "דיגיטל",
+   "title": "הקיצוץ הגדול מאז 2022: פיטורי ענק בנטפליקס"
   },
   "https://www.mako.co.il/nexter-news/Article-4f0d2d8cd2111a1027.htm": {
    "check_attempts": 1,
