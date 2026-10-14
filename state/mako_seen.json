@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791968250183,
+ "last_run_ms": 1791968549447,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6740,6 +6740,18 @@
    "published_ms": 1791785700000,
    "section": "ספורט",
    "title": "הסעיף שהכניסה מכבי חיפה בחוזהו של דסה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-542c17340a931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791968549447,
+   "content_type": "article",
+   "first_seen_ms": 1791968549447,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791968220000,
+   "section": "ספורט",
+   "title": "ג`ובאני רוסו: הכדורגלנים הישראלים קמצנים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-572f1fc2ca501a1027.htm": {
    "check_attempts": 1,
@@ -31601,7 +31613,7 @@
    "indexnow_ms": 1791954027151,
    "published_ms": 1791952740000,
    "section": "חופש",
-   "title": "העיר באיטליה בה דרשו מהמבקרים לגנות את ישראל"
+   "title": "בעיר האירופית דרשו מהמבקרים לגנות את ישראל"
   },
   "https://www.mako.co.il/travel-news/international/Article-98f94dc8acf01a1027.htm": {
    "check_attempts": 1,
