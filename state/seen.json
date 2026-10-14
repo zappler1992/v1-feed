@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d0957e9bf6a31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c312612488a31a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -59780,6 +59781,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88b6173881131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_BIKE_7224_12102026052040/V1_BIKE_7224_12102026052040_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ושב\"כ חשפו שיתוף פעולה של ״ארגוני צדקה״ עם ארגוני טרור ביהודה ושומרון ופעלו למעצר פעילים בארגונ",
+   "duration_s": 23,
+   "first_seen_ms": 1791984746025,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17332_14102026012435_1400_1791984366039_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791984373000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ושב\"כ חשפו שיתוף פעולה של ״ארגוני צדקה״ עם ארגוני טרור ביהודה ושומרון ופעלו למעצר פעילים בארגונ",
+   "type": "mivzakim",
+   "updated_ms": 1791984373000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17332_14102026012435/M_NEWS_17332_14102026012435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8c9ccdbce2a31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -60410,6 +60429,24 @@
    "updated_ms": 1791911653000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c1f833ac04631a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_vinter_7275_13102026051233/V1_vinter_7275_13102026051233_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c312612488a31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אזרחית זרה נעצרה בחשד להסתה נגד רה\"מ נתניהו ולתמיכה בארגון טרור - והועברה לשימוע לפני גירוש",
+   "duration_s": 9,
+   "first_seen_ms": 1791984746025,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17333_14102026012528_1400_1791984402110_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791984408000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אזרחית זרה נעצרה בחשד להסתה נגד רה\"מ נתניהו ולתמיכה בארגון טרור - והועברה לשימוע לפני גירוש",
+   "type": "mivzakim",
+   "updated_ms": 1791984408000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c312612488a31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17333_14102026012528/M_NEWS_17333_14102026012528_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c41bb61f92b21a1027.htm": {
    "author": "מבזקים",
@@ -76260,7 +76297,8 @@
    "importance": 1,
    "published_ms": 1791962542000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "שימו לב - החופשה הבאה שלכם באירופה עלולה להתייקר",
    "type": "general",
@@ -83559,7 +83597,8 @@
    "importance": 0,
    "published_ms": 1791970302000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כועסת על בן הזוג? אישה זרקה חפצים מהמרפסת בטורונטו - וכמעט פגעה בעובר אורח",
    "type": "mivzakim",
@@ -83877,7 +83916,8 @@
    "importance": 0,
    "published_ms": 1791970056000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "השוד הכי משעשע של השנה: גנב עשרות קופסאות של מחשבי מק בארצות הברית - אבל כולן היו ריקות",
    "type": "mivzakim",
