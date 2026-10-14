@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ec0d211e0e931a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9a4b4bed9f931a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4fdeffc1ae931a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-177e211e0e931a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8200,6 +8202,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-152c413f62031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17182_12102026124349/M_Tarbut_17182_12102026124349_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-177e211e0e931a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מנכ\"ל סרטי DC ג'יימס גאן על \"קלייפייס\", הסרט החדש ביקום הקולנועי של החברה",
+   "duration_s": 62,
+   "first_seen_ms": 1791974545778,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17314_14102026101158_1400_1791972863671_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791972870000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מנכ\"ל סרטי DC ג'יימס גאן על \"קלייפייס\", הסרט החדש ביקום הקולנועי של החברה",
+   "type": "mivzakim",
+   "updated_ms": 1791972870000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-177e211e0e931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17314_14102026101158/M_Tarbut_17314_14102026101158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-2358fb8674531a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -8562,6 +8582,24 @@
    "updated_ms": 1791793760000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f2e2fe863f21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17166_12102026082619/M_Tarbut_17166_12102026082619_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4fdeffc1ae931a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מייקל דאגלס ואליס קופר הוציאו אוטוביוגרפיות, אז למה לא לעשות אירוע יחד",
+   "duration_s": 20,
+   "first_seen_ms": 1791974545778,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17315_14102026101818_1400_1791973189989_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791973196000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מייקל דאגלס ואליס קופר הוציאו אוטוביוגרפיות, אז למה לא לעשות אירוע יחד",
+   "type": "mivzakim",
+   "updated_ms": 1791973196000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4fdeffc1ae931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17315_14102026101818/M_Tarbut_17315_14102026101818_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5171ae8da6331a1026.htm": {
    "author": "עדכוני בידור",
@@ -59593,6 +59631,24 @@
    "updated_ms": 1791958861000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-98d6e61710931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_hativa_7296_14102026061936/V1_karind_hativa_7296_14102026061936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9a4b4bed9f931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שגרירות קולומביה בישראל נחנכה בירושלים - העשירית בבירת ישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1791974545778,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_colombia_7317_14102026103557_1400_1791974246795_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791974253000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שגרירות קולומביה בישראל נחנכה בירושלים - העשירית בבירת ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1791974253000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9a4b4bed9f931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_colombia_7317_14102026103557/V1_karind_colombia_7317_14102026103557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9c19fb8674531a1026.htm": {
    "author": "מבזקים",
