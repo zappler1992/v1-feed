@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-e19ae92ba8931a1026.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f95c0a5167931a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-ee3a37abab931a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10021,7 +10020,7 @@
    "duration_s": 125,
    "first_seen_ms": 1791960747820,
    "image": "https://img.mako.co.il/2026/10/14/V1_karind_bus_141026_7297_14102026062317_1400_1791959117082_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791959124000,
    "sections": [
     "חדשות"
@@ -83336,6 +83335,24 @@
    "updated_ms": 1791914805000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-eb42dfaa66631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_PopeLeo_7280_13102026060512/V1_PopeLeo_7280_13102026060512_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-ee3a37abab931a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "השוד הכי משעשע של השנה: גנב עשרות קופסאות של מחשבי מק בארצות הברית - אבל כולן היו ריקות",
+   "duration_s": 37,
+   "first_seen_ms": 1791970346789,
+   "image": "https://img.mako.co.il/2026/10/14/V1_KARIND_SHOD_7312_14102026092559_1400_1791970049732_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791970056000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "השוד הכי משעשע של השנה: גנב עשרות קופסאות של מחשבי מק בארצות הברית - אבל כולן היו ריקות",
+   "type": "mivzakim",
+   "updated_ms": 1791970056000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-ee3a37abab931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_KARIND_SHOD_7312_14102026092559/V1_KARIND_SHOD_7312_14102026092559_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-f631545449031a1027.htm": {
    "author": "מבזקים מהעולם",
