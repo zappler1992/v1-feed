@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791971549707,
+ "last_run_ms": 1791971849787,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26827,6 +26827,18 @@
    "section": "דיגיטל",
    "title": "אמר ש\"החטופים היו מרוצים בשבי\" - וכך הישראלית ענתה"
   },
+  "https://www.mako.co.il/nexter-news/Article-d0e51751ea931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791971849787,
+   "content_type": "article",
+   "first_seen_ms": 1791971849787,
+   "indexable": true,
+   "indexnow_ms": 1791971849787,
+   "published_ms": 1791969900000,
+   "section": "דיגיטל",
+   "title": "הגיע הזמן: גוגל ומטא החליטו להשיב מלחמה"
+  },
   "https://www.mako.co.il/nexter-news/Article-d3de1ceb81a21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34145,7 +34157,7 @@
    "indexnow_ms": 1791963153563,
    "published_ms": 1791962640000,
    "section": "",
-   "title": "תיעוד: המשטרה פשטה על הערוץ, שידורים הופסקו"
+   "title": "המשטרה בטורקיה פשטה על הערוץ - השידור הופסק"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8c89fffe5fce0a1026.htm": {
    "check_attempts": 1,
@@ -34218,6 +34230,18 @@
    "published_ms": 1790140980000,
    "section": "תרבות tvbee",
    "title": "פרומו ושיר נושא: הצצה לסדרה הארגנטינאית של נועה קירל"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-be833d2d8e631a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791971786925,
+   "content_type": "article",
+   "first_seen_ms": 1791971786925,
+   "indexable": true,
+   "indexnow_ms": 1791971786925,
+   "published_ms": 1791971580000,
+   "section": "",
+   "title": "\"אנחנו בקושי מכירים. זה טוב למצלמה וזה הכל\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-c310d5ccdf011a1026.htm": {
    "check_attempts": 1,
