@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-466fe3a767a11a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-f358b583a1611a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-566e44c133431a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5cf6281f1a931a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58767,6 +58766,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5caa598801031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/DVORI_MFIX4/DVORI_MFIX4_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5cf6281f1a931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צפו: הרגע שבו הופסקו השידורים בערוץ האופוזיציה בטורקיה - לאחר השתלטות פקידי הממשלה עליו",
+   "duration_s": 17,
+   "first_seen_ms": 1791968846789,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karin_tv_7311_14102026090216_1400_1791968617495_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791968624000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צפו: הרגע שבו הופסקו השידורים בערוץ האופוזיציה בטורקיה - לאחר השתלטות פקידי הממשלה עליו",
+   "type": "mivzakim",
+   "updated_ms": 1791968624000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5cf6281f1a931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karin_tv_7311_14102026090216/V1_karin_tv_7311_14102026090216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5ec3641c69031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62127,6 +62144,24 @@
    "updated_ms": 1791876802000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-0b3f298a62431a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17238_13102026073154/M_Food_17238_13102026073154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "מחפשים להוסיף חלבון לאוכל בכל הזדמנות? זה בשבילכם",
+   "duration_s": 20,
+   "first_seen_ms": 1791968846789,
+   "image": "https://img.mako.co.il/2026/10/14/M_Food_17305_14102026085644_1400_1791968341541_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791968348000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "מחפשים להוסיף חלבון לאוכל בכל הזדמנות? זה בשבילכם",
+   "type": "mivzakim",
+   "updated_ms": 1791968348000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17305_14102026085644/M_Food_17305_14102026085644_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-967d1f21cc431a1026.htm": {
    "author": "לין לוי",
