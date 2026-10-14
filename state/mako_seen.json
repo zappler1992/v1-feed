@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791996449846,
+ "last_run_ms": 1791997349791,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3082,6 +3082,18 @@
    "published_ms": 1791048180000,
    "section": "ספורט",
    "title": "היה סגור במכבי: כך התפספסה החתמת בינגהאם"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-4a7c4f0c83b31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791997349791,
+   "content_type": "article",
+   "first_seen_ms": 1791997349791,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791995400000,
+   "section": "ספורט",
+   "title": "יופי קופי: הניצוצות בבכורה של הפורוורד"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-4aef55e759011a1027.htm": {
    "check_attempts": 1,
@@ -14117,7 +14129,7 @@
    "indexnow_ms": 1791986187183,
    "published_ms": 1791985680000,
    "section": "כסף",
-   "title": "סמוטריץ': אני רוצה לממן שמונה ילדים לחרדים"
+   "title": "סמוטריץ': \"אני רוצה לממן שמונה ילדים לחרדים\""
   },
   "https://www.mako.co.il/finances-news/Article-9395f8b3f7011a1026.htm": {
    "check_attempts": 1,
@@ -16818,6 +16830,18 @@
    "published_ms": 1791361080000,
    "section": "בריאות",
    "title": "אב ובן סגרו את מועדון הכושר ויצאו למסע שיקום"
+  },
+  "https://www.mako.co.il/health-news/Article-8f098ae905b31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791997349791,
+   "content_type": "article",
+   "first_seen_ms": 1791997349791,
+   "indexable": true,
+   "indexnow_ms": 1791997349791,
+   "published_ms": 1791996480000,
+   "section": "",
+   "title": "נולד ללא דופק: הדרמה במהלך הלידה בירושלים"
   },
   "https://www.mako.co.il/health-news/Article-8f41f4a1ce6e0a1027.htm": {
    "check_attempts": 1,
@@ -23945,7 +23969,7 @@
    "indexnow_ms": 1791995549802,
    "published_ms": 1791994380000,
    "section": "",
-   "title": "\"היה פיצוץ חזק, יצאנו החוצה וראינו את המכונית בעמוד\""
+   "title": "ניסיון חיסול בנתיבות: מטען התפוצץ ברכב בזמן נסיעה"
   },
   "https://www.mako.co.il/men-men_news/Article-e69046a3b9b21a1026.htm": {
    "check_attempts": 1,
@@ -26681,7 +26705,7 @@
    "indexnow_ms": 1791975387162,
    "published_ms": 1791973680000,
    "section": "דיגיטל",
-   "title": "בגלל ששיתפה פוסט: העונש האכזרי שנגזר על הסטודנטית"
+   "title": "רק בגלל פוסט: הצעירה האיראנית שתוצא להורג"
   },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
@@ -34002,6 +34026,18 @@
    "published_ms": 1791879240000,
    "section": "קשת 12",
    "title": "חיים כהן לא ראה את זה בא: \"קראת לי שמן?\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-e9774f0c83b31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791997349791,
+   "content_type": "article",
+   "first_seen_ms": 1791997349791,
+   "indexable": true,
+   "indexnow_ms": 1791997349791,
+   "published_ms": 1791996180000,
+   "section": "הכי חם",
+   "title": "\"היא צריכה לזרוק את הטלפון ולהשקיע בילדות\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5/Article-4da9689b2dce0a1027.htm": {
    "check_attempts": 1,
