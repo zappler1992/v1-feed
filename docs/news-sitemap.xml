@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3bcb465eb8b31a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-14T17:54:59+00:00</news:publication_date>
+<news:title>אירוע דקירה בגינת לווינסקי בתל אביב: הקורבן נפצע באורח בינוני</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_LEVINSKI_7334_14102026055343_1400_1792000493414_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2492,14 +2501,5 @@
 <news:title>חתול חולץ באוקראינה מזירת תקיפה רוסית בה נהרגו 20 בני אדם. צפו ברגעי החילוץ המרגשים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/12/V1_Mivzak__7228_12102026060051_1400_1791828128711_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-28f749ea23131a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-12T17:54:56+00:00</news:publication_date>
-<news:title>ידידיה, אחד התלמידים מהאסון בצפון, משחזר: &quot;חבר שלי אוהב טילים, הוא שיחק ושיחק - עד שה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/12/V1_karind_yedidia_7227_12102026055309_1400_1791827690160_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
