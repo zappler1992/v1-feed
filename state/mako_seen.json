@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791975748745,
+ "last_run_ms": 1791976048766,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7868,6 +7868,18 @@
    "published_ms": 1791451800000,
    "section": "ספורט",
    "title": "\"ירדן יודע מה הציפייה ממנו, לא היה כלום\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fdaa3fbf11a31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1791975987213,
+   "content_type": "article",
+   "first_seen_ms": 1791975987213,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1791975840000,
+   "section": "ספורט",
+   "title": "נחשף: זה האיש שמתווך בעסקת מכירת חיפה"
   },
   "https://www.mako.co.il/Sports-football-il/q3_2026/Article-0b6c1b40338e0a1026.htm": {
    "check_attempts": 1,
@@ -33534,6 +33546,18 @@
    "published_ms": 1791255600000,
    "section": "",
    "title": "\"רק לחלק אחד מהציבור מתים ונפצעים ילדים\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-d7bce583c2531a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791975867189,
+   "content_type": "article",
+   "first_seen_ms": 1791975867189,
+   "indexable": true,
+   "indexnow_ms": 1791975867189,
+   "published_ms": 1791975720000,
+   "section": "הכי חם",
+   "title": "\"כל פעם שניסיתי לדבר על הזוגיות הוא אמר 'לא'"
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-dee0460fc3431a1027.htm": {
    "check_attempts": 1,
