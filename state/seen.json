@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-eb04145f58831a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-13c86a247a831a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-303db47799831a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -57128,6 +57129,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_ashkelon_7264_13102026012616/V1_ashkelon_7264_13102026012616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-13c86a247a831a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"חכו ותראו מה נעשה לאיראן. אנחנו הולכים להנחית עליה מכה קשה כי כבר די נמאס לנו\"",
+   "duration_s": 34,
+   "first_seen_ms": 1791952046555,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_trump_7288_14102026042421_1400_1791951931177_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791951937000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"חכו ותראו מה נעשה לאיראן. אנחנו הולכים להנחית עליה מכה קשה כי כבר די נמאס לנו\"",
+   "type": "mivzakim",
+   "updated_ms": 1791951937000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-13c86a247a831a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_trump_7288_14102026042421/V1_karind_trump_7288_14102026042421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-14b8dfaa66631a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -57526,6 +57545,24 @@
    "updated_ms": 1791862895000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2f76d1ab63331a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17219_13102026034006/M_NEWS_17219_13102026034006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-303db47799831a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "5 הכותרות החשובות של הבוקר: טראמפ שוב מאיים על איראן ונתניהו על ביקור הבכיר המצרי לפני ה-7.10",
+   "duration_s": 38,
+   "first_seen_ms": 1791952046555,
+   "image": "https://img.mako.co.il/2026/10/14/V1_KOTAROT_7287_14102026042129_1400_1791951767581_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791951774000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "5 הכותרות החשובות של הבוקר: טראמפ שוב מאיים על איראן ונתניהו על ביקור הבכיר המצרי לפני ה-7.10",
+   "type": "mivzakim",
+   "updated_ms": 1791951774000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-303db47799831a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_KOTAROT_7287_14102026042129/V1_KOTAROT_7287_14102026042129_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-31cbe1d444c21a1026.htm": {
    "author": "מבזקים",
@@ -58998,7 +59035,7 @@
    "duration_s": 34,
    "first_seen_ms": 1791947850566,
    "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17278_14102026030943_1400_1791947473868_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1791947481000,
    "sections": [
     "מבזקים"
