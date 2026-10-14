@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-7c2de8957ab31a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-180814dfa7b31a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-af52a14afab31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4670,6 +4669,24 @@
    "updated_ms": 1791892797000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-a90a85a702531a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/SHIRA_BRIAN_131026/MASTER/SHIRA_BRIAN_131026_M/SHIRA_BRIAN_131026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-af52a14afab31a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "פול מקרטני מדגים איך נשמעים הלהיטים של היום – ולא חוסך עקיצות על המוזיקה של הדור הנוכחי.",
+   "duration_s": 18,
+   "first_seen_ms": 1792003946417,
+   "image": "https://img.mako.co.il/2026/10/14/SHIR_PAUL_141026_1400_1792003392807_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792003399000,
+   "sections": [
+    "חם במוזיקה"
+   ],
+   "title": "פול מקרטני חושף: זה מה שאני חושב על מוזיקה של היום",
+   "type": "general",
+   "updated_ms": 1792003399000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-af52a14afab31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/SHIR_PAUL_141026/MASTER/SHIR_PAUL_141026/SHIR_PAUL_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-c689a02758a31a1026.htm": {
    "author": "סלבס",
@@ -29382,7 +29399,7 @@
    "sections": [],
    "title": "תקיפה אלימה בנמל יפו",
    "type": "news",
-   "updated_ms": 1791996060000,
+   "updated_ms": 1792003080000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-19af4f0c83b31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/yoav_yaffo_141026/MASTER/yoav_yaffo_141026/yoav_yaffo_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
