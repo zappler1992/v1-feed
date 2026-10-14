@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-020002c63c831a1026.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e2c819b5f0f21a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6566,14 +6566,14 @@
    "duration_s": 22,
    "first_seen_ms": 1791918446616,
    "image": "https://img.mako.co.il/2026/10/13/V1_BUZAGLO_7284_13102026062717_1400_1791916112187_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791916119000,
    "sections": [
     "סלבס"
    ],
    "title": "\"חוגגת שנה למהפך שלי\": אמירה בוזגלו מציינת שנה לניתוח לקיצור קיבה וחושפת שירדה 59 ק\"ג",
    "type": "mivzakim",
-   "updated_ms": 1791916119000,
+   "updated_ms": 1791955320000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-d670608b97631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_BUZAGLO_7284_13102026062717/V1_BUZAGLO_7284_13102026062717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -29038,7 +29038,7 @@
    "sections": [],
    "title": "\"לא קרה לי פעם אחת\": הסרטון שמפריך את טענת נתניהו על ראש המודיעין המצרי",
    "type": "news",
-   "updated_ms": 1791927240000,
+   "updated_ms": 1791955200000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-972ee31da1731a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/LIRON_Bb_M/MASTER/LIRON_Bb_M/LIRON_Bb_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -60856,6 +60856,23 @@
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-79b133318de21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP09/MASTER/POLISHUK_EP09/POLISHUK_EP09_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e2c819b5f0f21a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "page-jsonld",
+   "description": "פולישוק פרק 10: פולישוק ממשיך להסתבך בראיון, עד שצלצול הטלפון קוטע את ההקלטה וצוות החדשות מוותר ועוזב. אלא שאז מתברר שדווקא ההודעה שלו עזרה לעכב גינוי בינלאומי נגד ישראל, וקוזו דורש ממנו להחזיר את העיתונאים ולהכחיש את ההכחשה. פתאום כולם מרוצים מהשר החדש, והוא אפילו מקבל את קוד הכניסה ללשכה - עם עלבון קטן שמתחבא במספרים.\nPowered by Spikes",
+   "duration_s": 118,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1791955646365,
+   "image": "https://img.mako.co.il/2026/10/12/POLISHUK_EP10_1400_1791790913020_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791790919000,
+   "sections": [],
+   "title": "פולישוק פרק 10: הטעות שהצילה את המדינה",
+   "type": "series",
+   "updated_ms": 1791790919000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e2c819b5f0f21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP10/MASTER/POLISHUK_EP10/POLISHUK_EP10_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e46110e923b21a1026.htm": {
    "author": "פולישוק",
    "date_source": "json-publishDate",
@@ -81937,7 +81954,8 @@
    "published_ms": 1791913724000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי Vיראלים"
    ],
    "title": "עושה סלפי - חוטף טיל ישר לתוך הדירה ונפצע קלות בלבד | התיעוד המטורף מאוקראינה",
    "type": "mivzakim",
@@ -81990,7 +82008,7 @@
    "duration_s": 16,
    "first_seen_ms": 1791915446746,
    "image": "https://img.mako.co.il/2026/10/13/V1_Yavan_7282_13102026061324_1400_1791915276087_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791915283000,
    "sections": [
     "מבזקים מהעולם",
@@ -81998,7 +82016,7 @@
    ],
    "title": "“כמו סרט אימה״: כתב אישום נגד נהג שיכור שדהר לתוך מסעדת תיירים עמוסה בסלוניקי ופצע שלושה",
    "type": "mivzakim",
-   "updated_ms": 1791915283000,
+   "updated_ms": 1791955380000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-1ad7dfaa66631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_Yavan_7282_13102026061324/V1_Yavan_7282_13102026061324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

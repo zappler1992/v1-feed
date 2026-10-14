@@ -453,6 +453,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי Vיראלים</video:tag>
 </video:video>
 </url>
 <url>
@@ -4222,6 +4223,23 @@
 <video:live>no</video:live>
 <video:uploader>עדכוני בידור</video:uploader>
 <video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e2c819b5f0f21a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/12/POLISHUK_EP10_1400_1791790913020_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>פולישוק פרק 10: הטעות שהצילה את המדינה</video:title>
+<video:description>פולישוק פרק 10: פולישוק ממשיך להסתבך בראיון, עד שצלצול הטלפון קוטע את ההקלטה וצוות החדשות מוותר ועוזב. אלא שאז מתברר שדווקא ההודעה שלו עזרה לעכב גינוי בינלאומי נגד ישראל, וקוזו דורש ממנו להחזיר את העיתונאים ולהכחיש את ההכחשה. פתאום כולם מרוצים מהשר החדש, והוא אפילו מקבל את קוד הכניסה ללשכה - עם עלבון קטן שמתחבא במספרים.
+Powered by Spikes</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP10/MASTER/POLISHUK_EP10/POLISHUK_EP10_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>118</video:duration>
+<video:publication_date>2026-10-12T07:41:59+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>פולישוק</video:uploader>
+<video:tag>פולישוק</video:tag>
 </video:video>
 </url>
 <url>
