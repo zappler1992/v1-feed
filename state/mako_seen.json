@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791969450223,
+ "last_run_ms": 1791969750220,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13555,6 +13555,18 @@
    "section": "כסף",
    "title": "כניעה לפרוטקשן? המדינה תשלם פיצוי לנפגעים"
   },
+  "https://www.mako.co.il/finances-news/Article-3c88e92ba8931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791969750220,
+   "content_type": "article",
+   "first_seen_ms": 1791969750220,
+   "indexable": true,
+   "indexnow_ms": 1791969750220,
+   "published_ms": 1791968580000,
+   "section": "כסף",
+   "title": "\"המשפחה לא מכירה אותנו, בונים סיפור כיסוי\""
+  },
   "https://www.mako.co.il/finances-news/Article-41dd45dea2a21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16818,6 +16830,18 @@
    "published_ms": 1791448380000,
    "section": "בריאות",
    "title": "ההורים חשבו שזה שיניים - התינוק היה בסכנה"
+  },
+  "https://www.mako.co.il/health-news/Article-f29fe92ba8931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791969750220,
+   "content_type": "article",
+   "first_seen_ms": 1791969750220,
+   "indexable": true,
+   "indexnow_ms": 1791969750220,
+   "published_ms": 1791969120000,
+   "section": "בריאות",
+   "title": "בעקבות ההרעלה במעון: מתי טונה מסכנת חיים?"
   },
   "https://www.mako.co.il/health-news/Article-fbb954f40e8c0a1027.htm": {
    "check_attempts": 1,
@@ -31326,6 +31350,18 @@
    "published_ms": 1791184680000,
    "section": "חופש",
    "title": "הציג רישיון נהיגה ישראלי - ונשלח למעצר ממושך"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-4bfaa4bd28931a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791969506835,
+   "content_type": "article",
+   "first_seen_ms": 1791969506835,
+   "indexable": true,
+   "indexnow_ms": 1791969506835,
+   "published_ms": 1791969420000,
+   "section": "",
+   "title": "מטוס שידר אות מצוקה לחטיפה, הטיסה הוסטה ממסלולה"
   },
   "https://www.mako.co.il/travel-news/international/Article-4c90168405b01a1026.htm": {
    "check_attempts": 1,
