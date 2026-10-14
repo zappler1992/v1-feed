@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-61334ceb31931a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ee1af21fe831a1027.htm",
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4d3926c842931a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-6b7faf21fe831a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1c74af21fe831a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4643,7 +4647,9 @@
    "image": "https://img.mako.co.il/2026/10/14/ASAF_GIRLS_14102026_M_1400_1791957659811_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791957666000,
-   "sections": [],
+   "sections": [
+    "חדשות מהמסך"
+   ],
    "title": "אחרי עשור: כוכבות הסדרה המיתולוגית \"בנות\" מכריזות על עונה חדשה",
    "type": "general",
    "updated_ms": 1791957666000,
@@ -8487,6 +8493,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4d3060e993921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17088_11102026044653/M_Tarbut_17088_11102026044653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4d3926c842931a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"אתה אור גדול וכישרון ענק\": כשחני נחמיאס פגשה את אמיר בנאי בחזרות ל\"פיטר פן\"",
+   "duration_s": 71,
+   "first_seen_ms": 1791960747820,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17292_14102026064110_1400_1791960170910_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791960177000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"אתה אור גדול וכישרון ענק\": כשחני נחמיאס פגשה את אמיר בנאי בחזרות ל\"פיטר פן\"",
+   "type": "mivzakim",
+   "updated_ms": 1791960177000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4d3926c842931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17292_14102026064110/M_Tarbut_17292_14102026064110_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f2e2fe863f21a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -9918,6 +9942,24 @@
    "updated_ms": 1791389040000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_rinat_zionist_071026_7011_07102026013355/V1_rinat_zionist_071026_7011_07102026013355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "\"אתה מקבל כסף מהמדינה שלנו\": נהג אוטובוס עצר באמצע הכביש בשל תקלה - וספג קללות גזעניות מהנוסעים",
+   "duration_s": 125,
+   "first_seen_ms": 1791960747820,
+   "image": "https://img.mako.co.il/2026/10/14/V1_karind_bus_141026_7297_14102026062317_1400_1791959117082_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791959124000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "\"אתה מקבל כסף מהמדינה שלנו\": נהג אוטובוס עצר באמצע הכביש בשל תקלה - וספג קללות גזעניות מהנוסעים",
+   "type": "mivzakim",
+   "updated_ms": 1791959124000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_bus_141026_7297_14102026062317/V1_karind_bus_141026_7297_14102026062317_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2025-m05_w04/shorts-8f181379998e691026.htm": {
    "author": "אוכל",
@@ -14629,6 +14671,24 @@
    "updated_ms": 1791877080000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-0e9f1e08e0431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/biata_rollercoaster_131026_fix250000/biata_rollercoaster_131026_fix250000_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1c74af21fe831a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בזמן שטראמפ נאם בעצרת באלסקה, מפגין החל לעורר מהומה והוצא מהאולם בידי המאבטחים לצלילי תשואות הקהל. טראמפ לא נשאר חייב וזרק מהבמה \"נשמע כמו ילד מפונק\" - וחתם בעקיצה: \"עכשיו יש לו את האי-נעימות לחזור הביתה להורים שלו, ששניהם אגב הצביעו לי\".",
+   "duration_s": 43,
+   "first_seen_ms": 1791960747820,
+   "image": "https://img.mako.co.il/2026/10/14/rinat_trump_141026_m_1400_1791957490285_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791957497000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "\"ילד מפונק\": מפגין העז להפריע לנאום של טראמפ - ונזרק מהאולם",
+   "type": "general",
+   "updated_ms": 1791957497000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1c74af21fe831a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/rinat_trump_141026/MASTER/rinat_trump_141026_m/rinat_trump_141026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1dd2413f62031a1026.htm": {
    "author": "מהעולם",
@@ -28986,6 +29046,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62aa1256c0b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_PHONE_111026/MASTER/SHIR_PHONE_111026/SHIR_PHONE_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-6b7faf21fe831a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תראו מופתעים: גרטה טונברג הגיעה לסן-דני שבצרפת בכאפייה פלסטינית, כדי לתמוך במחאות של התלמידים שחוסמים בתי ספר. זאת בזמן שהמהומות בצרפת מובילות לעימותים עם המשטרה ולפציעתם של יותר מ־100 אנשי צוות חינוכי.",
+   "duration_s": 14,
+   "first_seen_ms": 1791960747820,
+   "image": "https://img.mako.co.il/2026/10/14/NOAB_GERTA_141026_M_1400_1791956815606_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791956822000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "תראו מופתעים: גרטה הגיעה להפגנות בצרפת",
+   "type": "news",
+   "updated_ms": 1791956822000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-6b7faf21fe831a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/NOAB_GERTA_141026_M/MASTER/NOAB_GERTA_141026_M/NOAB_GERTA_141026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -29059,6 +29137,24 @@
    "updated_ms": 1791913380000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ca40d7024631a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/LIRON_MITNAHALIM_P/MASTER/LIRON_MITNAHALIM_M/LIRON_MITNAHALIM_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ee1af21fe831a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שתי טיסות של דלתא בקו ניו יורק–תל אביב נקלעו לאירועי איומים בתוך יממה: \nמטוס שנחת בנתב״ג נבדק לאחר דיווח על חפץ חשוד, ומטוס נוסף עוכב לפני ההמראה\nמניו יורק בעקבות שיחת טלפון המדווחת על פצצה. בשני המקרים לא נמצאו ממצאים חריגים.",
+   "duration_s": 61,
+   "first_seen_ms": 1791960747820,
+   "image": "https://img.mako.co.il/2026/10/14/Kim_Bomb_14102026_1400_1791957026469_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791957033000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "פעם שנייה בתוך 24 שעות: חשש לפצצה בטיסת דלתא לישראל",
+   "type": "news",
+   "updated_ms": 1791957033000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-8ee1af21fe831a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Bomb_14102026/MASTER/Kim_Bomb_14102026/Kim_Bomb_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-972ee31da1731a1026.htm": {
    "author": "חדשות",

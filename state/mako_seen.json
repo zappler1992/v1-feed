@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1791960452613,
+ "last_run_ms": 1791960752940,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16470,6 +16470,18 @@
    "published_ms": 1790757900000,
    "section": "בריאות",
    "title": "החפץ היה תקוע בין מיתרי הקול של התינוק ימים"
+  },
+  "https://www.mako.co.il/health-news/Article-b5621e08e0431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791960752940,
+   "content_type": "article",
+   "first_seen_ms": 1791960752940,
+   "indexable": true,
+   "indexnow_ms": 1791960752940,
+   "published_ms": 1791960360000,
+   "section": "בריאות",
+   "title": "\"כתמי השמש\" התבררו כמחלה נדירה"
   },
   "https://www.mako.co.il/health-news/Article-b7f322435d6f0a1027.htm": {
    "check_attempts": 1,
@@ -33150,6 +33162,18 @@
    "published_ms": 1791514800000,
    "section": "",
    "title": "\"ראיתי אותה בזמן אמת, זו סביבה עבריינית\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-12e19083a1931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1791960752940,
+   "content_type": "article",
+   "first_seen_ms": 1791960752940,
+   "indexable": true,
+   "indexnow_ms": 1791960752940,
+   "published_ms": 1791960360000,
+   "section": "קשת 12",
+   "title": "\"אחרי הרבה זמן זה יוצא, ופתאום זה לא שלך\""
   },
   "https://www.mako.co.il/tv-the_escape/season1-articles/Article-3570b583a1611a1027.htm": {
    "check_attempts": 1,
