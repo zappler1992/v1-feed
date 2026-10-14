@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-bce26d8f74931a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e2d468825931a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d7c468825931a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-7e1d63e115931a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8781,6 +8783,24 @@
    "updated_ms": 1791790994000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-7c42f763a0f21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17160_12102026073945/M_Celebs_17160_12102026073945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-7e1d63e115931a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "טורקיה: המשטרה פשטה על ערוץ האופוזיציה Halk TV.  השידורים הופסקו, 11 נעצרו",
+   "duration_s": 91,
+   "first_seen_ms": 1791963447455,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17298_14102026073022_1400_1791963115705_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791963122000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "טורקיה: המשטרה פשטה על ערוץ האופוזיציה Halk TV.  השידורים הופסקו, 11 נעצרו",
+   "type": "mivzakim",
+   "updated_ms": 1791963122000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-7e1d63e115931a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17298_14102026073022/M_Tarbut_17298_14102026073022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-812a17e9cef21a1026.htm": {
    "author": "עדכוני בידור",
@@ -57591,14 +57611,14 @@
    "duration_s": 11,
    "first_seen_ms": 1791962247761,
    "image": "https://img.mako.co.il/2026/10/14/V1_karind_shchenim_7302_14102026071046_1400_1791961922653_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1791961929000,
    "sections": [
     "מבזקים"
    ],
    "title": "השכנים ההמומים מתעדים את ההרס ברחוב - בעקבות הבניין שקרס בנחלת בנימין פינת רוטשילד",
    "type": "mivzakim",
-   "updated_ms": 1791961929000,
+   "updated_ms": 1791963180000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-22ca8b8ce3931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_shchenim_7302_14102026071046/V1_karind_shchenim_7302_14102026071046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -58000,6 +58020,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3b1fa90c38a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LEOFIX/LEOFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e2d468825931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד הקריסה בתל אביב ממצלמת אבטחה ברחוב",
+   "duration_s": 26,
+   "first_seen_ms": 1791963447455,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17300_14102026073302_1400_1791963237194_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791963244000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד הקריסה בתל אביב ממצלמת אבטחה ברחוב",
+   "type": "mivzakim",
+   "updated_ms": 1791963244000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e2d468825931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17300_14102026073302/M_NEWS_17300_14102026073302_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3fc42c9b03e21a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -58252,6 +58290,24 @@
    "updated_ms": 1791907920000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d64981e0f531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17269_13102026041033/M_NEWS_17269_13102026041033_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d7c468825931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תושב קנדה שסורב להיכנס לישראל ריסס כתובות נאצה על קירות תא המעצר במתקן הכליאה בו שהה, ויגורש בימים ה",
+   "duration_s": 9,
+   "first_seen_ms": 1791963447455,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17299_14102026073156_1400_1791963192982_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791963199000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תושב קנדה שסורב להיכנס לישראל ריסס כתובות נאצה על קירות תא המעצר במתקן הכליאה בו שהה, ויגורש בימים ה",
+   "type": "mivzakim",
+   "updated_ms": 1791963199000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4d7c468825931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17299_14102026073156/M_NEWS_17299_14102026073156_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-501e38ec7a631a1027.htm": {
    "author": "מבזקים",
