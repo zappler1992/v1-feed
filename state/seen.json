@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aef62eefe1831a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96e2554776831a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4bc2554776831a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8415,6 +8416,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4af349b7a7c21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17138_11102026075114/M_Music_17138_11102026075114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4bc2554776831a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שר ההסברה הבא? יוסף חדד מצהיר כוונות ב\"ארץ נהדרת\"",
+   "duration_s": 90,
+   "first_seen_ms": 1791950246700,
+   "image": "https://img.mako.co.il/2026/10/14/M_Tarbut_17279_14102026034951_1400_1791949930561_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791949937000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שר ההסברה הבא? יוסף חדד מצהיר כוונות ב\"ארץ נהדרת\"",
+   "type": "mivzakim",
+   "updated_ms": 1791949937000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4bc2554776831a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17279_14102026034951/M_Tarbut_17279_14102026034951_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4ce3d1ab63331a1027.htm": {
    "author": "עדכוני בידור",
@@ -58774,6 +58793,24 @@
    "updated_ms": 1791900946000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96b5981c19531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_SanaaBoom_7267_13102026021414/V1_SanaaBoom_7267_13102026021414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96e2554776831a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 30 התנגש בצד הדרך בדרך בן צבי בת\"א, הוא פונה לביה\"ח וולפסון במצב אנוש תוך פעולות החייאה",
+   "duration_s": 9,
+   "first_seen_ms": 1791950246700,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17280_14102026035051_1400_1791949950185_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791949956000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 30 התנגש בצד הדרך בדרך בן צבי בת\"א, הוא פונה לביה\"ח וולפסון במצב אנוש תוך פעולות החייאה",
+   "type": "mivzakim",
+   "updated_ms": 1791949956000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-96e2554776831a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17280_14102026035051/M_NEWS_17280_14102026035051_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9c19fb8674531a1026.htm": {
    "author": "מבזקים",
