@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5cf6281f1a931a1027.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c510248b7a931a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -59991,6 +59990,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c41bb61f92b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_KARIND_HAMAS_7160_11102026013348/V1_KARIND_HAMAS_7160_11102026013348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c510248b7a931a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מטפלת בפריט לחימה ישן שנמצא ביער אשתאול, פיצוץ צפוי להישמע באזור",
+   "duration_s": 9,
+   "first_seen_ms": 1791969148014,
+   "image": "https://img.mako.co.il/2026/10/14/M_NEWS_17306_14102026090708_1400_1791968933546_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1791968940000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מטפלת בפריט לחימה ישן שנמצא ביער אשתאול, פיצוץ צפוי להישמע באזור",
+   "type": "mivzakim",
+   "updated_ms": 1791968940000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c510248b7a931a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17306_14102026090708/M_NEWS_17306_14102026090708_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c51541639b531a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62146,9 +62163,9 @@
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17238_13102026073154/M_Food_17238_13102026073154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-26e8281f1a931a1027.htm": {
-   "author": "מתכונים",
+   "author": "יעל קצב",
    "date_source": "json-publishDate",
-   "description": "מחפשים להוסיף חלבון לאוכל בכל הזדמנות? זה בשבילכם",
+   "description": "אם אתם מהאנשים שמחפשים להוסיף חלבון לאוכל שלהם בכל הזדמנות - תשמחו מאוד להכיר את חטיפי החומוס האלה. ההרגשה היא של ג'אנק מפנק ברמות, אבל ערכי החלבון מספרים סיפור אחר",
    "duration_s": 20,
    "first_seen_ms": 1791968846789,
    "image": "https://img.mako.co.il/2026/10/14/M_Food_17305_14102026085644_1400_1791968341541_FirstFrame.jpg",
