@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8bf5fcda19041a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e81fcda19041a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-397c750349041a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-12f6ec6b3b041a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f8eaa68c03041a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31459,6 +31458,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f0e2e7cda7c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_BAZAN_111026/MASTER/inbie_BAZAN_111026/inbie_BAZAN_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f8eaa68c03041a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "בדרך למלחמה נוספת? בדיווח דרמטי ברשת Fox News נאמר שלמרות שנשיא ארה\"ב טראמפ טוען כי הסכסוך הצבאי עם איראן קרוב להסתיים, הצבא האמריקאי ממשיך לבנות מצבור של כוחות צבאיים ותחמושת במזרח התיכון. במקביל, פיקוד המרכז של צבא ארה\"ב הודיע בעקיפין כי נושאת המטוסים \"בוש\" - נפרסה שוב באזור.",
+   "duration_s": 49,
+   "first_seen_ms": 1792087947673,
+   "image": "https://img.mako.co.il/2026/10/15/biata_foxnews_151026_fix_1400_1792080915312_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792078547000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "נושאת המטוסים \"בוש\" - חזרה למזרח התיכון",
+   "type": "news",
+   "updated_ms": 1792080900000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f8eaa68c03041a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/biata_foxnews_151026_fix/biata_foxnews_151026_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f983e7687ce31a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -59297,6 +59314,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-10f96daaf6531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_ashkelon_7264_13102026012616/V1_ashkelon_7264_13102026012616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-12f6ec6b3b041a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלוף (במיל') חיים נדל, מפקד חטיבת הצנחנים לשעבר, הלך לעולמו בגיל 92",
+   "duration_s": 9,
+   "first_seen_ms": 1792087947673,
+   "image": "https://img.mako.co.il/2026/10/15/V1_zal_7371_15102026060631_1400_1792087667284_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792087674000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלוף (במיל') חיים נדל, מפקד חטיבת הצנחנים לשעבר, הלך לעולמו בגיל 92",
+   "type": "mivzakim",
+   "updated_ms": 1792087674000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-12f6ec6b3b041a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_zal_7371_15102026060631/V1_zal_7371_15102026060631_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-13c86a247a831a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -86481,7 +86516,8 @@
    "importance": 0,
    "published_ms": 1792073219000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תייר נתפס מפשפש בכבודת הנוסעים הישנים במטוס בתאילנד - ונעצר",
    "type": "mivzakim",
@@ -86537,7 +86573,8 @@
    "importance": 0,
    "published_ms": 1792076798000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "האישה יוצאת לרחוב - ואז גל גדול של שיטפון מגיע: התיעוד המפחיד מהשיטפונות בטורקיה",
    "type": "mivzakim",
@@ -86668,7 +86705,8 @@
    "importance": 0,
    "published_ms": 1792067570000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"אני לא מרגיש טוב\": בכיר המפלגה בדרום אפריקה, פיקילה מבלולה התמוטט בשידור חי",
    "type": "mivzakim",
