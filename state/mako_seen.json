@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792088253174,
+ "last_run_ms": 1792088553080,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8648,6 +8648,18 @@
    "published_ms": 1790768700000,
    "section": "ספורט",
    "title": "אלקמאר הודיעה: לא תתאפשר כניסה לקהל ב\"ש"
+  },
+  "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-993e5d522c041a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792088553080,
+   "content_type": "article",
+   "first_seen_ms": 1792088553080,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792088280000,
+   "section": "ספורט",
+   "title": "\"לא יאמן, משום מקום\": בהולנד הופתעו מב\"ש"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q3_2026/Article-1452ed86b42d0a1026.htm": {
    "check_attempts": 1,
@@ -23226,6 +23238,18 @@
    "published_ms": 1790493840000,
    "section": "פלילים",
    "title": "התפתחות בחקירת הרצח נגד קצין גולני לשעבר"
+  },
+  "https://www.mako.co.il/men-men_news/Article-3fa85d522c041a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792088428257,
+   "content_type": "article",
+   "first_seen_ms": 1792088428257,
+   "indexable": true,
+   "indexnow_ms": 1792088428257,
+   "published_ms": 1792087800000,
+   "section": "",
+   "title": "השוטרים הזדעזעו: איתרו אדם כפות לעמוד בטון בשרשראות"
   },
   "https://www.mako.co.il/men-men_news/Article-3fe6261845e31a1027.htm": {
    "check_attempts": 1,
