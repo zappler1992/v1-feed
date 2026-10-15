@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aacdcf754bf31a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a9c373250cf31a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4a0073250cf31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4547,7 +4548,7 @@
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-24e10f64a5f31a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
-   "description": "האחים גל ורואי אדם היו מעורבים, לפי דיווחים של מאקו, בקטטה עם אורח בחתונתו של חברם הקרוב - אלעד צפני, \nלאחר שסירבו לבקשתו לסלפי. האורח נפצע ופונה לבית החולים, ועומר אדם, שהיה בדרכו לאירוע, לא הגיע לבסוף.",
+   "description": "האחים גל ורואי אדם היו מעורבים, לפי דיווחים של מאקו, בקטטה עם אורח בחתונתו של חברם הקרוב - אלעד צפני, \nלאחר שסירבו לבקשתו לסלפי. האורח נפצע ופונה לבית החולים, ועומר אדם, שהיה בדרכו לאירוע, לא הגיע לבסוף",
    "duration_s": 28,
    "first_seen_ms": 1792069646275,
    "image": "https://img.mako.co.il/2026/10/15/Kim_Adam_15102026_1400_1792064718145_FirstFrame.jpg",
@@ -61950,6 +61951,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a999869e61131a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_missing_7223_12102026051034/V1_karind_missing_7223_12102026051034_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a9c373250cf31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילד בן 9 במצב קשה, עם חבלה רב מערכתית לאחר פגיעת רכב ברהט",
+   "duration_s": 9,
+   "first_seen_ms": 1792071445902,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17405_15102026013354_1400_1792071317916_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792071326000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילד בן 9 במצב קשה, עם חבלה רב מערכתית לאחר פגיעת רכב ברהט",
+   "type": "mivzakim",
+   "updated_ms": 1792071326000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a9c373250cf31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17405_15102026013354/M_NEWS_17405_15102026013354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a9fb4680bc931a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85684,6 +85703,24 @@
    "updated_ms": 1791707676000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-45dc9f4661a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/NepalFIX/NepalFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4a0073250cf31a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עובד סופרמרקט בדרום אפריקה הגיע לשימוע משמעתי - ופתח באש על הנוכחים",
+   "duration_s": 62,
+   "first_seen_ms": 1792071445902,
+   "image": "https://img.mako.co.il/2026/10/15/V1_southafrica_7359_15102026012950_1400_1792071099363_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792071106000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עובד סופרמרקט בדרום אפריקה הגיע לשימוע משמעתי - ופתח באש על הנוכחים",
+   "type": "mivzakim",
+   "updated_ms": 1792071106000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4a0073250cf31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_southafrica_7359_15102026012950/V1_southafrica_7359_15102026012950_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-4e31298a62431a1026.htm": {
    "author": "מבזקים מהעולם",
