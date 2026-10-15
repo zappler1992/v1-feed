@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2d3ea2092141a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf03ea2092141a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ac2ea2092141a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c455ea2092141a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10218,6 +10215,24 @@
    "updated_ms": 1792075600000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c1cddebffff31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17411_15102026024524/M_Celebs_17411_15102026024524_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c455ea2092141a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"שנים שאני מנסה לברוח מהתואר 'אשתו של'\": סתיו נפתלי מגיבה לשיח סביב המעמד של בעלה ב\"המטבח המנצח\"",
+   "duration_s": 60,
+   "first_seen_ms": 1792097846537,
+   "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17425_15102026085134_1400_1792097581166_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792097588000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"שנים שאני מנסה לברוח מהתואר 'אשתו של'\": סתיו נפתלי מגיבה לשיח סביב המעמד של בעלה ב\"המטבח המנצח\"",
+   "type": "mivzakim",
+   "updated_ms": 1792097588000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c455ea2092141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17425_15102026085134/M_Tarbut_17425_15102026085134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c4a57c0c2cb31a1027.htm": {
    "author": "עדכוני בידור",
@@ -30627,7 +30642,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן: בטהרן ביצעו מהלכים צבאיים חדשים. ירון אברהם מדווח את כל מה שהצנזורה מתירה לפרסם. מתוך \"המהדורה המרכזית\", חדשות 12",
+   "description": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן: בטהרן ביצעו מהלכים צבאיים חדשים. ירון אברהם מדווח את כל מה שהצנזורה מתירה לפרסם. מתוך \"המהדורה המרכזית\", חדשות 12.",
    "duration_s": 58,
    "first_seen_ms": 1792097546566,
    "image": "https://img.mako.co.il/2026/10/15/rinat_iran_151016_m_1400_1792091882363_FirstFrame.jpg",
