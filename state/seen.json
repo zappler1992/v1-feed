@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-8ae59103adf31a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97a9f60def31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a627e4493ef31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -61900,6 +61901,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a3c4554776831a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_tahazit_7286_14102026035833/V1_tahazit_7286_14102026035833_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a627e4493ef31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נערה בת 13 במצב בינוני לאחר שנפלה מגובה של כ-4 מטרים ברחוב פייגין בחיפה",
+   "duration_s": 9,
+   "first_seen_ms": 1792074145925,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17406_15102026021557_1400_1792073843672_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792073850000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נערה בת 13 במצב בינוני לאחר שנפלה מגובה של כ-4 מטרים ברחוב פייגין בחיפה",
+   "type": "mivzakim",
+   "updated_ms": 1792073850000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a627e4493ef31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17406_15102026021557/M_NEWS_17406_15102026021557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a71c358de4f21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61953,6 +61972,24 @@
    "updated_ms": 1791721527000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a8e632a97ea21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17125_11102026122356/M_NEWS_17125_11102026122356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97a9f60def31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מתקפת טילים של החות'ים על העיר עדן בתימן, מקום מושבה של הממשלה הנתמכת על ידי הסעודים",
+   "duration_s": 38,
+   "first_seen_ms": 1792074145925,
+   "image": "https://img.mako.co.il/2026/10/15/V1_aden_7364_15102026021745_1400_1792073949179_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792073956000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מתקפת טילים של החות'ים על העיר עדן בתימן, מקום מושבה של הממשלה הנתמכת על ידי הסעודים",
+   "type": "mivzakim",
+   "updated_ms": 1792073956000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97a9f60def31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_aden_7364_15102026021745/V1_aden_7364_15102026021745_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97de51e6e331a1027.htm": {
    "author": "מבזקים",
