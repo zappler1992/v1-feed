@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-6f3f960ba5e31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1c35960ba5e31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9e6b17a906e31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58679,6 +58680,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-18c59e0908531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_TILYELED10_7265_13102026015621/V1_TILYELED10_7265_13102026015621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1c35960ba5e31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ההרוג השני בפיצוץ במפעל באינטל: נקבע מותו של פצוע נוסף",
+   "duration_s": 9,
+   "first_seen_ms": 1792048346524,
+   "image": "https://img.mako.co.il/2026/10/15/V1_intel2_7351_15102026070717_1400_1792048103271_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792048109000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ההרוג השני בפיצוץ במפעל באינטל: נקבע מותו של פצוע נוסף",
+   "type": "mivzakim",
+   "updated_ms": 1792048109000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1c35960ba5e31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_intel2_7351_15102026070717/V1_intel2_7351_15102026070717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1dad3eba54431a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61193,6 +61212,24 @@
    "updated_ms": 1791716088000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9dc2df94e8a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17120_11102026105318/M_NEWS_17120_11102026105318_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9e6b17a906e31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקבע מותו של פצוע נוסף בפיצוץ במפעל אינטל",
+   "duration_s": 9,
+   "first_seen_ms": 1792048346524,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17379_15102026070511_1400_1792048004783_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792048011000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקבע מותו של פצוע נוסף בפיצוץ במפעל אינטל",
+   "type": "mivzakim",
+   "updated_ms": 1792048011000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9e6b17a906e31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17379_15102026070511/M_NEWS_17379_15102026070511_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a2cc9526bba21a1026.htm": {
    "author": "מבזקים",
