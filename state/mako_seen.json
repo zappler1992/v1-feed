@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792050449306,
+ "last_run_ms": 1792050749306,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14285,7 +14285,7 @@
    "indexnow_ms": 1792047267032,
    "published_ms": 1792046880000,
    "section": "כסף",
-   "title": "חרדה כלכלית: הנתון שצריך להטריד מאות אלפי ישראלים"
+   "title": "מבט בתלוש השכר: הנתון שצריך להטריד מאות אלפי ישראלים"
   },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
@@ -14862,6 +14862,18 @@
    "published_ms": 1789827180000,
    "section": "נדל\"ן",
    "title": "אותם 2 מיליון שקל, אבל הדירה מתכווצת בכל שנה"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-380c327d28e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792050507245,
+   "content_type": "article",
+   "first_seen_ms": 1792050507245,
+   "indexable": true,
+   "indexnow_ms": 1792050507245,
+   "published_ms": 1792049340000,
+   "section": "נדל\"ן",
+   "title": "4 חדרים עד 2.5 מיליון? הרוכשים עזבו את ת\"א"
   },
   "https://www.mako.co.il/finances-real-estate/Article-3df0318829601a1026.htm": {
    "check_attempts": 1,
@@ -27426,6 +27438,18 @@
    "published_ms": 1790580420000,
    "section": "דיגיטל",
    "title": "\"ה-AI יכול להוביל לאירוע של מיליארד מתים\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-3362a34477e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792050749306,
+   "content_type": "article",
+   "first_seen_ms": 1792050749306,
+   "indexable": true,
+   "indexnow_ms": 1792050749306,
+   "published_ms": 1792049760000,
+   "section": "דיגיטל",
+   "title": "רוצים לקנות את האייפון המתקפל? יהיה לכם קשה"
   },
   "https://www.mako.co.il/nexter-news/Article-3b1bd8ac4b8c0a1026.htm": {
    "check_attempts": 1,
