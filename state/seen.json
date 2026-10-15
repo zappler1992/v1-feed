@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-24e10f64a5f31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aacdcf754bf31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -61968,6 +61968,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a9fb4680bc931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_mada_141026_7315_14102026094316/V1_karind_mada_141026_7315_14102026094316_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aacdcf754bf31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 40 אותר ללא רוח חיים בביתו בעיר תל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1792070845892,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17404_15102026012316_1400_1792070678089_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792070685000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 40 אותר ללא רוח חיים בביתו בעיר תל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1792070685000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aacdcf754bf31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17404_15102026012316/M_NEWS_17404_15102026012316_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ac4fb34300b31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85984,7 +86002,7 @@
    ],
    "title": "\"אני לא מרגיש טוב\": בכיר המפלגה בדרום אפריקה, פיקילה מבלולה התמוטט בשידור חי",
    "type": "mivzakim",
-   "updated_ms": 1792067570000,
+   "updated_ms": 1792070700000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-7ea5853f78f31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_anc_7358_15102026123104/V1_anc_7358_15102026123104_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
