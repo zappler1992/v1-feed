@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792094250009,
+ "last_run_ms": 1792094550144,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -60,6 +60,18 @@
    "published_ms": 1791487849000,
    "section": "Fashion Forward",
    "title": "מתנה בשישי: 500 שקלים לקנייה ב-Liminal"
+  },
+  "https://fashionforward.mako.co.il/gift/321798/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792094550144,
+   "content_type": "article",
+   "first_seen_ms": 1792094550144,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792094107000,
+   "section": "Fashion Forward",
+   "title": "מתנה בשישי: משקפי שמש של Calvin Klein בשווי 700 שקלים"
   },
   "https://fashionforward.mako.co.il/industry/collections/321666/": {
    "check_attempts": 1,
@@ -1007,6 +1019,30 @@
    "section": "Fashion Forward",
    "title": "הכי פשוט, הכי יפה: סשה אדם בשמלת מיני וקוקו מרושל"
   },
+  "https://fashionforward.mako.co.il/news/321868/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792094550144,
+   "content_type": "article",
+   "first_seen_ms": 1792094550144,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792094126000,
+   "section": "Fashion Forward",
+   "title": "מדיווה לדיווה: עינב בובליל עושה את פריז בשמלת מיני ואקססורי מפתיע"
+  },
+  "https://fashionforward.mako.co.il/nofilter/321843/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792094550144,
+   "content_type": "article",
+   "first_seen_ms": 1792094550144,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792094123000,
+   "section": "Fashion Forward",
+   "title": "תרצה כהן: \"כולם עושים את זה, מי שאומר שלא שקרן\""
+  },
   "https://fashionforward.mako.co.il/selections/320541/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1174,6 +1210,18 @@
    "published_ms": 1791939630000,
    "section": "Fashion Forward",
    "title": "הסטנלי החדש: הטרנד הכי חם היום בעולם האופנה הוא לא מה שחשבתם"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/321871/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792094550144,
+   "content_type": "article",
+   "first_seen_ms": 1792094550144,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792094129000,
+   "section": "Fashion Forward",
+   "title": "אין ספק לגבי הצבע החם של החורף. נשאר רק למצוא את הפריט המנצח"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
