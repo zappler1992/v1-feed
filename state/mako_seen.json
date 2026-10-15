@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792040549023,
+ "last_run_ms": 1792040850210,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16531,6 +16531,18 @@
    "section": "בריאות",
    "title": "\"הטראומה מגיעה ללא התרעה - אבל זו שליחות\""
   },
+  "https://www.mako.co.il/health-magazine/Article-a8902f4457fff91026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792040850210,
+   "content_type": "article",
+   "first_seen_ms": 1792040850210,
+   "indexable": true,
+   "indexnow_ms": 1792040850210,
+   "published_ms": 1792040640000,
+   "section": "בריאות",
+   "title": "בייחוד בקיץ: הנקבוביות פעורות? כך מטפלים בהן"
+  },
   "https://www.mako.co.il/health-magazine/Article-b18f772b357f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18053,7 +18065,7 @@
    "indexnow_ms": 1792033467207,
    "published_ms": 1792033200000,
    "section": "",
-   "title": "גשמים, קור וסופות: המערכת החורפית שכבר כאן"
+   "title": "גשמים, קור וסופות: זה מה שצפוי בסוף השבוע"
   },
   "https://www.mako.co.il/hix-nature/Article-1d5fcb1bcb621a1027.htm": {
    "check_attempts": 1,
@@ -22121,7 +22133,7 @@
    "indexnow_ms": 1792039349105,
    "published_ms": 1792039260000,
    "section": "",
-   "title": "התופעה המדאיגה בנתב\"ג: \"נכנסתי בלי שום בעיות\""
+   "title": "באמצעות דרכונים זרים: התופעה המדאיגה בנתב\"ג נחשפת"
   },
   "https://www.mako.co.il/men-men_news/Article-2cc5653226511a1027.htm": {
    "check_attempts": 1,
@@ -31698,6 +31710,18 @@
    "published_ms": 1791520560000,
    "section": "חופש",
    "title": "כמו בתמונה: טיול בשכונה הכי יפה בישראל"
+  },
+  "https://www.mako.co.il/travel-israel/leisure/Article-3a92ba67aaa31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792040667648,
+   "content_type": "article",
+   "first_seen_ms": 1792040667648,
+   "indexable": true,
+   "indexnow_ms": 1792040667648,
+   "published_ms": 1792038900000,
+   "section": "חופש",
+   "title": "כמו בחו\"ל: ככה באמת נראה המלון שכולם מדברים עליו עכשיו"
   },
   "https://www.mako.co.il/travel-israel/leisure/Article-53a3dd9979db0a1026.htm": {
    "check_attempts": 1,
