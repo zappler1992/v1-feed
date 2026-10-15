@@ -1,6 +1,10 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-660985d536041a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ebb742a01ff31a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f4c342a01ff31a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -4889,6 +4893,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-e2b8f7ffd1531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/biata_leo_131026/MASTER/biata_leo_131026/biata_leo_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ebb742a01ff31a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "שחר חסון חושף בהשקת העונה החדשה של הזמר במסיכה, מוצ\"ש בקשת 12, אחרי החדשות. פגשתי את אחת המסיכות באירוע עם אנשים והייתי צריך להסתיר את הסוד וזה היה קשה",
+   "duration_s": 47,
+   "first_seen_ms": 1792082246038,
+   "image": "https://img.mako.co.il/2026/10/15/SHAHAR_TAMAR_1510_M_1400_1792074956721_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792074964000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "שחר חסון חושף: ככה התקשתי לשמור על הסוד אחרי הצילומים",
+   "type": "general",
+   "updated_ms": 1792074964000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ebb742a01ff31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/SHAHAR_TAMAR_1510/MASTER/SHAHAR_TAMAR_1510_M/SHAHAR_TAMAR_1510_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-ec7217d3fda21a1026.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -4925,6 +4947,24 @@
    "updated_ms": 1792004580000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f1fdca82b7b31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/biata_elad_141026/MASTER/biata_elad_141026/biata_elad_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f4c342a01ff31a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "אופירה על הבחירות: \"לא צריך לשתף את הבחירה הפוליטית שלנו, שכל אחד ישמור לעצמו מה שקורה מאחורי הפרגוד\". \n\n העונה החדשה של \"הזמר במסיכה\" במוצ\"ש, בקשת 12",
+   "duration_s": 26,
+   "first_seen_ms": 1792082246038,
+   "image": "https://img.mako.co.il/2026/10/15/ofira_tamar_1510_m_1400_1792074654452_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792074661000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "שכל ישמור את הבחירה הפוליטית מאחורי הפרגוד: אופירה על הבחירות",
+   "type": "general",
+   "updated_ms": 1792074661000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f4c342a01ff31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/ofira_tamar_1510/MASTER/ofira_tamar_1510_m/ofira_tamar_1510_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -61088,6 +61128,24 @@
    "updated_ms": 1792032147000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-65d51c14edc31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17355_15102026024051/M_NEWS_17355_15102026024051_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-660985d536041a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ושב\"כ חיסלו שני מחבלים שקידמו הברחות אמצעי לחימה וציוד צבאי לשטח רצועת עזה",
+   "duration_s": 9,
+   "first_seen_ms": 1792082246038,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17417_15102026043003_1400_1792081864171_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792081871000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ושב\"כ חיסלו שני מחבלים שקידמו הברחות אמצעי לחימה וציוד צבאי לשטח רצועת עזה",
+   "type": "mivzakim",
+   "updated_ms": 1792081871000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-660985d536041a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17417_15102026043003/M_NEWS_17417_15102026043003_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-66f9ab1d74e21a1026.htm": {
    "author": "מבזקים",
