@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-62ee415c8bd31a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-53c43e6f10e31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6654,19 +6654,19 @@
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
    "description": "בגיל 52: שחקנית זוכת האוסקר, הילרי סוונק חושפת היריון שלישי",
-   "duration_s": 9,
+   "duration_s": 36,
    "first_seen_ms": 1792042346363,
-   "image": "https://img.mako.co.il/2026/10/15/V1_Hilery_7344_15102026042215_1400_1792038208910_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/15/hilary_1400_1792042354436_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1792038215000,
    "sections": [
     "סלבס"
    ],
    "title": "בגיל 52: שחקנית זוכת האוסקר, הילרי סוונק חושפת היריון שלישי",
    "type": "mivzakim",
-   "updated_ms": 1792038215000,
+   "updated_ms": 1792042320000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-62ee415c8bd31a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_Hilery_7344_15102026042215/V1_Hilery_7344_15102026042215_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/hilary/hilary_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-b2b9b24557431a1026.htm": {
    "author": "מבזקי סלבס",
@@ -8944,6 +8944,24 @@
    "updated_ms": 1791865234000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-5171ae8da6331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17222_13102026041751/M_Celebs_17222_13102026041751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-53c43e6f10e31a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כמה סבלנות יש לה: סלין בשיחה עם ילדה מחוץ למלון שלה בפריז",
+   "duration_s": 81,
+   "first_seen_ms": 1792043246376,
+   "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17375_15102026053434_1400_1792042576323_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792042582000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כמה סבלנות יש לה: סלין בשיחה עם ילדה מחוץ למלון שלה בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1792042582000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-53c43e6f10e31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17375_15102026053434/M_Tarbut_17375_15102026053434_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-59c5e1b6b6a21a1026.htm": {
    "author": "עדכוני בידור",
@@ -30528,7 +30546,7 @@
    ],
    "title": "אלו הכבישים שייחסמו בגלל מופעי NEXT",
    "type": "news",
-   "updated_ms": 1791906060000,
+   "updated_ms": 1792042620000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-dd77b965ed921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LIRONNEXTP/MASTER/LIRONNEXTM/LIRONNEXTM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
