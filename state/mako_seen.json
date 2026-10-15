@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792033648876,
+ "last_run_ms": 1792033949226,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14297,7 +14297,7 @@
    "indexnow_ms": 1791986187183,
    "published_ms": 1791985680000,
    "section": "כסף",
-   "title": "סמוטריץ': \"אני רוצה לממן שמונה ילדים לחרדים\""
+   "title": "סמוטריץ': אני רוצה לממן שמונה ילדים לחרדים"
   },
   "https://www.mako.co.il/finances-news/Article-9395f8b3f7011a1026.htm": {
    "check_attempts": 1,
@@ -30283,6 +30283,18 @@
    "section": "",
    "title": "עימות חריף בין רגב לראש השב\"כ על הפסקת הטיסות מדובאי"
   },
+  "https://www.mako.co.il/special-mako-news/Article-458681ccf2c31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-458681ccf2c31a1026.htm",
+   "checked_ms": 1792033949226,
+   "content_type": "article",
+   "first_seen_ms": 1792033949226,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792033200000,
+   "section": "חדשות",
+   "title": "הקלפי הראשונה כבר נפתחה: הבחירות לכנסת ה-26 יצאו לדרך"
+  },
   "https://www.mako.co.il/special-mako-news/Article-45db5836ce2f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30737,7 +30749,7 @@
    "indexnow_ms": null,
    "published_ms": 1792006860000,
    "section": "",
-   "title": "סתרו את נתניהו: קרב הגרסאות על ביקור המטוס המצרי"
+   "title": "ראשי מערכת הביטחון לפני 7.10 סתרו את נתניהו"
   },
   "https://www.mako.co.il/special-mako-news/Article-b1e2c489b3b01a1027.htm": {
    "check_attempts": 1,
