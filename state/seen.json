@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-afe61c14edc31a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc476a1152d31a1026.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-f93f3ff4dfb31a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-203ab56091b31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4625,7 +4627,9 @@
    "image": "https://img.mako.co.il/2026/10/14/biata_khloe_141026_1400_1792005640321_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792005647000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "הכוכבת שחושפת: לא קיימתי יחסי מין 4 שנים",
    "type": "general",
    "updated_ms": 1792005647000,
@@ -29624,6 +29628,24 @@
    "updated_ms": 1792003080000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-19af4f0c83b31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/yoav_yaffo_141026/MASTER/yoav_yaffo_141026/yoav_yaffo_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-203ab56091b31a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "בני סבטי מסביר למה דווקא כשהמשטר האיראני חושש מתקיפה, הוא מגביר את איומיו ומפגין כוח - ומה זה אומר על האפשרות למלחמה נוספת.",
+   "duration_s": 73,
+   "first_seen_ms": 1792033046155,
+   "image": "https://img.mako.co.il/2026/10/14/FIX_SABTI_M_1400_1792008510288_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792008480000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "הבכירים האיראנים מתכוננים למלחמה - ומסתתרים: בני סבטי מסביר",
+   "type": "news",
+   "updated_ms": 1792008480000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-203ab56091b31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/FIX_SABTI_M/FIX_SABTI_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-20f9a7425ba21a1027.htm": {
    "author": "חדשות",
@@ -61968,6 +61990,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc051e0fdca21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17123_11102026120348/M_NEWS_17123_11102026120348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc476a1152d31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב עלה באש הלילה בקריית אונו, לא דווח על נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1792033046155,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17359_15102026024955_1400_1792032679014_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792032685000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב עלה באש הלילה בקריית אונו, לא דווח על נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1792032685000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc476a1152d31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17359_15102026024955/M_NEWS_17359_15102026024955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dce150594f531a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76905,6 +76945,24 @@
    "updated_ms": 1791803580000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_ass_1211026/MASTER/biata_ass_1211026/biata_ass_1211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-f93f3ff4dfb31a1026.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "כך נראה ריאיון עבודה בלי אף בן אדם: יוצר התוכן גרהאם דוט זיפ החליט לשלוח בוט של בינה מלאכותית להתראיין במקומו, אלא שגם בצד השני חיכה לו בוט ששימש כמראיין. שני הבוטים פשוט לא הצליחו לסיים את השיחה ונקלעו ללופ בלתי נגמר של פרידות.",
+   "duration_s": 25,
+   "first_seen_ms": 1792033046155,
+   "image": "https://img.mako.co.il/2026/10/14/yoav_BOT_141026_1400_1792008263103_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792008480000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "ריאיון העבודה ששבר את הרשת",
+   "type": "general",
+   "updated_ms": 1792008480000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-f93f3ff4dfb31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/yoav_BOT_141026/MASTER/yoav_BOT_141026/yoav_BOT_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m02_w03/shorts-77fb5d3a2667c91027.htm": {
    "author": "חופש וטיולים",

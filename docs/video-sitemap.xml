@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-dc476a1152d31a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/15/M_NEWS_17359_15102026024955_1400_1792032679014_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>רכב עלה באש הלילה בקריית אונו, לא דווח על נפגעים</video:title>
+<video:description>רכב עלה באש הלילה בקריית אונו, לא דווח על נפגעים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17359_15102026024955/M_NEWS_17359_15102026024955_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-15T02:51:25+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-afe61c14edc31a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/15/M_NEWS_17358_15102026024641_1400_1792032479047_FirstFrame.jpg</video:thumbnail_loc>
@@ -97,6 +113,40 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-f93f3ff4dfb31a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/14/yoav_BOT_141026_1400_1792008263103_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ריאיון העבודה ששבר את הרשת</video:title>
+<video:description>כך נראה ריאיון עבודה בלי אף בן אדם: יוצר התוכן גרהאם דוט זיפ החליט לשלוח בוט של בינה מלאכותית להתראיין במקומו, אלא שגם בצד השני חיכה לו בוט ששימש כמראיין. שני הבוטים פשוט לא הצליחו לסיים את השיחה ונקלעו ללופ בלתי נגמר של פרידות.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/yoav_BOT_141026/MASTER/yoav_BOT_141026/yoav_BOT_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>25</video:duration>
+<video:publication_date>2026-10-14T20:08:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>טכנולוגיה</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>טכנולוגיה</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-203ab56091b31a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/14/FIX_SABTI_M_1400_1792008510288_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הבכירים האיראנים מתכוננים למלחמה - ומסתתרים: בני סבטי מסביר</video:title>
+<video:description>בני סבטי מסביר למה דווקא כשהמשטר האיראני חושש מתקיפה, הוא מגביר את איומיו ומפגין כוח - ומה זה אומר על האפשרות למלחמה נוספת.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/FIX_SABTI_M/FIX_SABTI_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>73</video:duration>
+<video:publication_date>2026-10-14T20:08:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b8bb91323fb31a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/14/M_Tarbut_17353_14102026074822_1400_1792007472797_FirstFrame.jpg</video:thumbnail_loc>
@@ -190,6 +240,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
