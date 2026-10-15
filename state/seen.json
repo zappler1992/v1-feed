@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-7ea5853f78f31a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c8664ee4a7f31a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-24e10f64a5f31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4544,6 +4543,24 @@
    "updated_ms": 1792002780000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-180814dfa7b31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/SHIR_CURLY_141026_FIX/SHIR_CURLY_141026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-24e10f64a5f31a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "האחים גל ורואי אדם היו מעורבים, לפי דיווחים של מאקו, בקטטה עם אורח בחתונתו של חברם הקרוב - אלעד צפני, \nלאחר שסירבו לבקשתו לסלפי. האורח נפצע ופונה לבית החולים, ועומר אדם, שהיה בדרכו לאירוע, לא הגיע לבסוף.",
+   "duration_s": 28,
+   "first_seen_ms": 1792069646275,
+   "image": "https://img.mako.co.il/2026/10/15/Kim_Adam_15102026_1400_1792064718145_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792064728000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "האחים של עומר אדם הסתבכו בקטטה בחתונה של אלעד צפני",
+   "type": "general",
+   "updated_ms": 1792064728000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-24e10f64a5f31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/Kim_Adam_15102026/MASTER/Kim_Adam_15102026/Kim_Adam_15102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-3d191ff3d8e21a1026.htm": {
    "author": "סלבס",
@@ -15968,7 +15985,7 @@
    ],
    "title": "נפלה מספינת תענוגות מול יוון: ונמצאה לאחר 20 שעות",
    "type": "general",
-   "updated_ms": 1792052928000,
+   "updated_ms": 1792068780000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7d5d39e0aae31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/Kim_Boat_15102026/MASTER/Kim_Boat_15102026/Kim_Boat_15102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -30353,10 +30370,10 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-4a96a9aa5de31a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "שלושה ימי תקיפה, תשתיות על הכוונת ו״אם כל הפצצות״ על השולחן: כך נראית תוכנית המתקפה האמריקאית באיראן. לפי הדיווחים ב-CNN וב\"הניו יורק טיימס\".",
+   "description": "שלושה ימי תקיפה, תשתיות על הכוונת ו״אם כל הפצצות״ על השולחן: כך נראית תוכנית המתקפה האמריקאית באיראן. לפי הדיווחים ב-CNN וב\"הניו יורק טיימס\"",
    "duration_s": 56,
    "first_seen_ms": 1792065145697,
-   "image": "https://img.mako.co.il/2026/10/15/SHIR_IRAN_151026_FIX_1400_1792068225365_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/15/SHIR_IRAN_151026_FIX888_1400_1792069447105_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792056161000,
    "sections": [],
@@ -30364,7 +30381,7 @@
    "type": "news",
    "updated_ms": 1792068240000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-4a96a9aa5de31a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/SHIR_IRAN_151026_FIX/SHIR_IRAN_151026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/SHIR_IRAN_151026_FIX888/SHIR_IRAN_151026_FIX888_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-4d2e1e0fdca21a1027.htm": {
    "author": "חדשות",
