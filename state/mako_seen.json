@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792034248975,
+ "last_run_ms": 1792034548893,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30294,6 +30294,18 @@
    "published_ms": 1792033200000,
    "section": "חדשות",
    "title": "הקלפי הראשונה כבר נפתחה: הבחירות לכנסת ה-26 יצאו לדרך"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-458c51b8d0c31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-458c51b8d0c31a1026.htm",
+   "checked_ms": 1792034548893,
+   "content_type": "article",
+   "first_seen_ms": 1792034548893,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792033800000,
+   "section": "חדשות",
+   "title": "דיווח: ישראל בלמה את פרויקט \"מועצת השלום\""
   },
   "https://www.mako.co.il/special-mako-news/Article-45db5836ce2f0a1026.htm": {
    "check_attempts": 1,
