@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-1324ec6b3b041a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b08b6a780f041a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9942,6 +9942,24 @@
    "updated_ms": 1791836263000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b003cbb38b131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17207_12102026081533/M_Tarbut_17207_12102026081533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b08b6a780f041a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כשעמוס תמם הבהיל את אגם רודברג",
+   "duration_s": 10,
+   "first_seen_ms": 1792091546473,
+   "image": "https://img.mako.co.il/2026/10/15/M_Celebs_17420_15102026070100_1400_1792090941045_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792090949000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כשעמוס תמם הבהיל את אגם רודברג",
+   "type": "mivzakim",
+   "updated_ms": 1792090949000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b08b6a780f041a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17420_15102026070100/M_Celebs_17420_15102026070100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b272b6901fb21a1026.htm": {
    "author": "עדכוני בידור",
@@ -86530,15 +86548,15 @@
    "duration_s": 64,
    "first_seen_ms": 1792073545909,
    "image": "https://img.mako.co.il/2026/10/15/V1_Thailand_7363_15102026020508_1400_1792073211995_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792073219000,
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו"
    ],
-   "title": "תייר נתפס מפשפש בכבודת הנוסעים הישנים במטוס בתאילנד - ונעצר",
+   "title": "בזמן שהנוסעים ישנו בטיסה בתאילנד: תייר גנב כרטיסי אשראי, כסף וטלפונים מהתיקים - ונעצר",
    "type": "mivzakim",
-   "updated_ms": 1792073219000,
+   "updated_ms": 1792091280000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-5a9799094df31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_Thailand_7363_15102026020508/V1_Thailand_7363_15102026020508_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
