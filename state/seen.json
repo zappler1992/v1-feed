@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6700a2b642e31a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-b59fa2b642e31a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-264ce8957ab31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -29863,6 +29862,22 @@
    "updated_ms": 1791712560000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-23dd6e62e5a21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_LOTTO_111026/MASTER/SHIR_LOTTO_111026/SHIR_LOTTO_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-264ce8957ab31a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ניר דבורי מנתח את אזהרת הרמטכ\"ל ומסביר מדוע אויבי ישראל מתלבטים מתי לתקוף – ומה המסר שזמיר מעביר להם.",
+   "duration_s": 56,
+   "first_seen_ms": 1792047446493,
+   "image": "https://img.mako.co.il/2026/10/14/SHIR_DVORI_141026_1400_1792002590219_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792045020000,
+   "sections": [],
+   "title": "הרמטכ\"ל מזהיר: \"גובר הפוטנציאל להסלמה\" - האויבים מתלבטים מתי לתקוף",
+   "type": "news",
+   "updated_ms": 1792045020000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-264ce8957ab31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/SHIR_DVORI_141026/MASTER/SHIR_DVORI_141026/SHIR_DVORI_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2752a97201c21a1027.htm": {
    "author": "חדשות",
@@ -85051,7 +85066,8 @@
    "published_ms": 1792006200000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "מהעולם"
    ],
    "title": "איסטנבול טובעת: שיטפונות כבדים הפכו את הרחובות בטורקיה לנהרות ענק",
    "type": "mivzakim",
