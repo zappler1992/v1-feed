@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792081048759,
+ "last_run_ms": 1792081648977,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1965,7 +1965,7 @@
    "indexnow_ms": null,
    "published_ms": 1792077420000,
    "section": "ספורט",
-   "title": "מנהלי ה-NBA קבעו: המקום בו תסיים פורטלנד"
+   "title": "מנהלי ה-NBA ניחשו: המקום בו תהיה פורטלנד"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-bb8737041caf0a1026.htm": {
    "check_attempts": 1,
@@ -12619,6 +12619,18 @@
    "section": "סלבס",
    "title": "לוהט כאן: עדי שילון ואקי אבני בתמונות צמודות"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d2e189c852041a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": 1792077780000,
+   "section": "",
+   "title": "לא חסר למשפחה שלי כסף, אבל אני עובדת כמו סודנית"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d356004c242e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15175,6 +15187,18 @@
    "section": "נדל\"ן",
    "title": "בהשקעת 24 מיליון שקל: חלל עבודה חדש ברמת גן"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-2ccddebffff31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "פינוי-בינוי בירושלים: המתווה שישאיר אתכם יחד"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-31bc512e9bf21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15534,6 +15558,18 @@
    "published_ms": null,
    "section": "נדל\"ן",
    "title": "פינוי ובינוי בתוך שדרות: כך ייראה מרכז העיר"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-b984debffff31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": null,
+   "section": "נדל\"ן",
+   "title": "הבניינים הישנים ייהרסו: המגדלים שייבנו בחדרה"
   },
   "https://www.mako.co.il/finances-real-estate/Article-b9c326b00b9c0a1026.htm": {
    "check_attempts": 1,
@@ -16567,6 +16603,18 @@
    "section": "",
    "title": "פחות ממשולש פיצה: מצאנו את הקבב הכי זול בארץ"
   },
+  "https://www.mako.co.il/food-restaurants/best/Article-de7956cc4d431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": 1792069200000,
+   "section": "",
+   "title": "14 מקומות חדשים שמגישים את המנה הכי קלאסית שיש"
+  },
   "https://www.mako.co.il/food-restaurants/best_israeli_restaurants/Article-0616d3dc402e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17538,6 +17586,18 @@
    "published_ms": 1791749460000,
    "section": "חדשות",
    "title": "זיהום חריג ליד בתי הזיקוק: שני בתי ספר יישארו סגורים"
+  },
+  "https://www.mako.co.il/health-news/Article-6d084ee4a7f31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": 1792066320000,
+   "section": "",
+   "title": "קונים בטלגרם, מערבבים בבית: זריקות ההרזיה החדשות"
   },
   "https://www.mako.co.il/health-news/Article-6efe31e5b7b01a1027.htm": {
    "check_attempts": 1,
@@ -24054,6 +24114,18 @@
    "published_ms": 1791752220000,
    "section": "פלילים",
    "title": "\"ערבי מחבל, צריך להרוג אותך\": נהג אוטובוס הותקף בעפולה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-8dd31792f3041a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": 1792080120000,
+   "section": "",
+   "title": "המותגים, רכבי היוקרה והשטרות. החיים של אשת ראש העיר"
   },
   "https://www.mako.co.il/men-men_news/Article-8ed7b8e5c0a31a1026.htm": {
    "check_attempts": 1,
@@ -36246,6 +36318,18 @@
    "published_ms": 1791091200000,
    "section": "תרבות tvbee",
    "title": "\"ג'ניפר לא תרצה לדבר על מת'יו ולבכות מול המצלמה\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-29b99f60def31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792081586921,
+   "content_type": "article",
+   "first_seen_ms": 1792081586921,
+   "indexable": true,
+   "indexnow_ms": 1792081586921,
+   "published_ms": 1792073640000,
+   "section": "",
+   "title": "לא יודע כמה מטרנה יש לנו. אני יודע מה המצב בחשבון הבנק"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-349aac93d1f31a1026.htm": {
    "check_attempts": 1,
