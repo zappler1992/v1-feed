@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7077e778a8e31a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-15T08:05:24+00:00</news:publication_date>
+<news:title>לראשונה מזה חצי שנה: הדולר מזנק ונסחר סביב 3.10 שקל</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/15/V1_dolar_7352_15102026080345_1400_1792051518219_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1306f55297e31a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2447,23 +2456,5 @@
 <news:title>שלוש פעוטות כבני שנה פונו במצב בינוני | תיעוד מהזירה בביתר עילית</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/13/V1_karind_beitarilit_7248_13102026081819_1400_1791879552777_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fe009cbb84431a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-13T08:07:17+00:00</news:publication_date>
-<news:title>עשרה פעוטות פיתחו תסמיני אלרגיה במעון בביתר עילית</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/13/M_NEWS_17239_13102026080549_1400_1791878831255_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1dad3eba54431a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-13T08:03:20+00:00</news:publication_date>
-<news:title>10 פעוטות כבני שנה פיתחו תגובה אלרגית במעון בביתר עילית, המקום פונה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/13/V1_karind_babys_7247_13102026080156_1400_1791878591518_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
