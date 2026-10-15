@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-96b0832a11f31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1cdccdef62f31a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-de06a952d1f31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -58987,6 +58988,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1c35960ba5e31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_intel2_7351_15102026070717/V1_intel2_7351_15102026070717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1cdccdef62f31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חריג מלבנון: רחפן ישראלי תועד מקרוב מטיל פצצה לעבר שטח מיוער",
+   "duration_s": 20,
+   "first_seen_ms": 1792061546588,
+   "image": "https://img.mako.co.il/2026/10/15/V1_Bomb_7354_15102026104521_1400_1792061198140_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792061206000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד חריג מלבנון: רחפן ישראלי תועד מקרוב מטיל פצצה לעבר שטח מיוער",
+   "type": "mivzakim",
+   "updated_ms": 1792061206000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1cdccdef62f31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_Bomb_7354_15102026104521/V1_Bomb_7354_15102026104521_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1dad3eba54431a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85924,6 +85943,24 @@
    "updated_ms": 1791736547000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-dbe69a374ab21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_japan_7170_11102026043407/V1_karind_japan_7170_11102026043407_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-de06a952d1f31a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חסמו את הכביש: עשרות אריות ים השתלטו על הדרך בקליפורניה והשוטרים נאלצו להפעיל סירנות",
+   "duration_s": 19,
+   "first_seen_ms": 1792061546588,
+   "image": "https://img.mako.co.il/2026/10/15/V1_calbcaliforina_7355_15102026104533_1400_1792061212271_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792061219000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "חסמו את הכביש: עשרות אריות ים השתלטו על הדרך בקליפורניה והשוטרים נאלצו להפעיל סירנות",
+   "type": "mivzakim",
+   "updated_ms": 1792061219000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-de06a952d1f31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_calbcaliforina_7355_15102026104533/V1_calbcaliforina_7355_15102026104533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-eb42dfaa66631a1027.htm": {
    "author": "מבזקים מהעולם",
