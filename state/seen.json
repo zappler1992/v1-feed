@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8717943a08d31a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ebaa415c8bd31a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dae415c8bd31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9909,6 +9910,24 @@
    "updated_ms": 1791815166000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-e73d61a0a7031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17191_12102026022444/M_Celebs_17191_12102026022444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ebaa415c8bd31a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "פורסם תיעוד התקרית של קלי קלרקסון בחנות שלטענתה סירבה למכור לה ציפור מכנית ב-15 אלף דולר",
+   "duration_s": 110,
+   "first_seen_ms": 1792038446253,
+   "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17366_15102026041134_1400_1792037611275_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792037617000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "פורסם תיעוד התקרית של קלי קלרקסון בחנות שלטענתה סירבה למכור לה ציפור מכנית ב-15 אלף דולר",
+   "type": "mivzakim",
+   "updated_ms": 1792037617000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ebaa415c8bd31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17366_15102026041134/M_Tarbut_17366_15102026041134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ed4cd9fd5ea31a1026.htm": {
    "author": "עדכוני בידור",
@@ -84652,6 +84671,24 @@
    "updated_ms": 1791903275000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dab41639b531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/DOVERET_FIX/DOVERET_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dae415c8bd31a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "נס בלב ים ביוון: אישה נפלה מספינת תענוגות ונמצאה בחיים אחרי 20 שעות במים",
+   "duration_s": 40,
+   "first_seen_ms": 1792038446253,
+   "image": "https://img.mako.co.il/2026/10/15/V1_zaki_7343_15102026042046_1400_1792038131475_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792038138000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "נס בלב ים ביוון: אישה נפלה מספינת תענוגות ונמצאה בחיים אחרי 20 שעות במים",
+   "type": "mivzakim",
+   "updated_ms": 1792038138000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dae415c8bd31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_zaki_7343_15102026042046/V1_zaki_7343_15102026042046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-45dc9f4661a21a1027.htm": {
    "author": "מבזקים מהעולם",
