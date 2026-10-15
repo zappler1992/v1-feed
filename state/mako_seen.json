@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792036948940,
+ "last_run_ms": 1792037249011,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13495,6 +13495,18 @@
    "section": "סלבס",
    "title": "הנסיך הארי חושף לראשונה: \"שקעתי בדיכאון, לא תפקדתי\""
   },
+  "https://www.mako.co.il/entertainment-celebs/world/Article-78c1da1c39d31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792037187452,
+   "content_type": "article",
+   "first_seen_ms": 1792037187452,
+   "indexable": true,
+   "indexnow_ms": 1792037187452,
+   "published_ms": 1792036560000,
+   "section": "",
+   "title": "בגיל 52: הכוכבת חושפת היריון שלישי"
+  },
   "https://www.mako.co.il/finances-consumer/Article-0420e0a363031a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -15450,6 +15462,18 @@
    "published_ms": 1791755100000,
    "section": "",
    "title": "\"מנה מצטיינת\": השיפוד של איתי תורג'מן"
+  },
+  "https://www.mako.co.il/food-cooking-with-keshet/mkr_recipes/Article-5caf3e6a0eb31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792037249011,
+   "content_type": "article",
+   "first_seen_ms": 1792037249011,
+   "indexable": true,
+   "indexnow_ms": 1792037249011,
+   "published_ms": 1792035600000,
+   "section": "הכי חם",
+   "title": "\"אמיצה ויפהפייה\": המנה המקורית של אברי גלעד"
   },
   "https://www.mako.co.il/food-cooking_magazine/Article-69db08f6a8da751006.htm": {
    "check_attempts": 1,
