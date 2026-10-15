@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792042349054,
+ "last_run_ms": 1792042649062,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13531,6 +13531,18 @@
    "section": "סלבס",
    "title": "הנסיך הארי חושף לראשונה: \"שקעתי בדיכאון, לא תפקדתי\""
   },
+  "https://www.mako.co.il/entertainment-celebs/world/Article-76af3e6f10e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792042586743,
+   "content_type": "article",
+   "first_seen_ms": 1792042586743,
+   "indexable": true,
+   "indexnow_ms": 1792042586743,
+   "published_ms": 1792041420000,
+   "section": "",
+   "title": "מעולפת ברחוב: התיעוד המטריד של בת המלוכה"
+  },
   "https://www.mako.co.il/entertainment-celebs/world/Article-78c1da1c39d31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16302,6 +16314,18 @@
    "published_ms": 1791785460000,
    "section": "",
    "title": "בלי ויטרינה: מקום חדש לקבוצת המסעדות האהובה"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-aa48d0da3d931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792042649062,
+   "content_type": "article",
+   "first_seen_ms": 1792042649062,
+   "indexable": true,
+   "indexnow_ms": 1792042649062,
+   "published_ms": 1792041300000,
+   "section": "",
+   "title": "פודטראק כזה עוד לא ראינו. בטח לא באשדוד"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-b56e87efc0a11a1027.htm": {
    "check_attempts": 1,
@@ -33462,6 +33486,18 @@
    "published_ms": 1791186900000,
    "section": "",
    "title": "אלה החופים בכנרת שאסור לשחות בהם"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-16b63f6a9aa21a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792042466733,
+   "content_type": "article",
+   "first_seen_ms": 1792042466733,
+   "indexable": true,
+   "indexnow_ms": 1792042466733,
+   "published_ms": 1792038060000,
+   "section": "חופש",
+   "title": "עם שלושה מתחמים: הרופטופ החדש שנפתח באילת"
   },
   "https://www.mako.co.il/travel-news/israel/Article-2c9d7d7fd1601a1026.htm": {
    "check_attempts": 1,
