@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792060650555,
+ "last_run_ms": 1792060949304,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7064,6 +7064,18 @@
    "published_ms": 1791536100000,
    "section": "ספורט",
    "title": "קשר בני יהודה ובית שאן לשעבר נכנס לקומה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5cbea952d1f31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792060949304,
+   "content_type": "article",
+   "first_seen_ms": 1792060949304,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792060800000,
+   "section": "ספורט",
+   "title": "מירר בבכי: חשש לפציעה קשה של אסנטה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5d90a5db82721a1026.htm": {
    "check_attempts": 1,
@@ -22962,6 +22974,18 @@
    "published_ms": 1791896460000,
    "section": "פלילים",
    "title": "בגלל ויכוח על בגדים לחתונה: \"הצית את רכבה של דודתו\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-4f00832a11f31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792060827623,
+   "content_type": "article",
+   "first_seen_ms": 1792060827623,
+   "indexable": true,
+   "indexnow_ms": 1792060827623,
+   "published_ms": 1792059780000,
+   "section": "פלילים",
+   "title": "האחים הישראלים עומדים בפני העונש הקשה ביותר בארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-4f73422676011a1027.htm": {
    "check_attempts": 1,
