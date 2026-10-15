@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-e13b6b17e9e31a1027.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-0236e0dc19e31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d35c7f27e9e31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -62206,6 +62205,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d12fbba6b8b21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_usa_7168_11102026032541/V1_karind_usa_7168_11102026032541_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d35c7f27e9e31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט בהצהרה בגבול עזה: \"תוך 18 חודשים מכניסתי ללשכת ראש הממשלה, חמאס לא ישלוט יותר ברצועת עזה\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792052546651,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17391_15102026081424_1400_1792052161198_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792052168000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט בהצהרה בגבול עזה: \"תוך 18 חודשים מכניסתי ללשכת ראש הממשלה, חמאס לא ישלוט יותר ברצועת עזה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792052168000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d35c7f27e9e31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17391_15102026081424/M_NEWS_17391_15102026081424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d3a36d109f031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85322,14 +85339,14 @@
    "duration_s": 21,
    "first_seen_ms": 1792048046493,
    "image": "https://img.mako.co.il/2026/10/15/V1_greece_7350_15102026070308_1400_1792047871235_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792047877000,
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "כאוס מוחלט: רגע לפני שמזג האוויר החורפי מגיע אלינו - זה מה שקורה ביוון",
+   "title": "כאוס מוחלט: רגע לפני שמזג האוויר החורפי מגיע אלינו - זה מה שקורה ברודוס ביוון",
    "type": "mivzakim",
-   "updated_ms": 1792047877000,
+   "updated_ms": 1792052400000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-6f3f960ba5e31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_greece_7350_15102026070308/V1_greece_7350_15102026070308_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
