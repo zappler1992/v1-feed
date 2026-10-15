@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e9bf50d821141a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2d3ea2092141a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf03ea2092141a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ac2ea2092141a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15983,7 +15986,8 @@
    "importance": 2,
    "published_ms": 1792087404000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "מאימפריית נדל\"ן למאסר עולם: העונש הכבד של האחים הישראלים",
    "type": "general",
@@ -30619,6 +30623,22 @@
    "updated_ms": 1791904500000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-327d41639b531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/FIX_yoav_CNN_131026/FIX_yoav_CNN_131026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן: בטהרן ביצעו מהלכים צבאיים חדשים. ירון אברהם מדווח את כל מה שהצנזורה מתירה לפרסם. מתוך \"המהדורה המרכזית\", חדשות 12",
+   "duration_s": 58,
+   "first_seen_ms": 1792097546566,
+   "image": "https://img.mako.co.il/2026/10/15/rinat_iran_151016_m_1400_1792091882363_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792091889000,
+   "sections": [],
+   "title": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן",
+   "type": "news",
+   "updated_ms": 1792091889000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/rinat_iran_151016/MASTER/rinat_iran_151016_m/rinat_iran_151016_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-360bb3c974b21a1026.htm": {
    "author": "חדשות",
@@ -59565,6 +59585,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1a6f85d536041a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_yaron_7368_15102026044347/V1_yaron_7368_15102026044347_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ac2ea2092141a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "4 בני אדם נפצעו בתאונת דרכים בין 2 כלי רכב בחיפה, מהם אישה שמצבה קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1792097546566,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17423_15102026084354_1400_1792097121152_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792097132000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "4 בני אדם נפצעו בתאונת דרכים בין 2 כלי רכב בחיפה, מהם אישה שמצבה קשה",
+   "type": "mivzakim",
+   "updated_ms": 1792097132000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1ac2ea2092141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17423_15102026084354/M_NEWS_17423_15102026084354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1c35960ba5e31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -63287,6 +63325,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ce9f71e95b921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17097_11102026064901/M_NEWS_17097_11102026064901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf03ea2092141a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תקיפות בשכונת דארג' תופאח בעיר עזה",
+   "duration_s": 9,
+   "first_seen_ms": 1792097546566,
+   "image": "https://img.mako.co.il/2026/10/15/V1_tufach_7373_15102026084605_1400_1792097254226_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792097261000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תקיפות בשכונת דארג' תופאח בעיר עזה",
+   "type": "mivzakim",
+   "updated_ms": 1792097261000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf03ea2092141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_tufach_7373_15102026084605/V1_tufach_7373_15102026084605_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cfa01ad48ee31a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -63971,6 +64027,24 @@
    "updated_ms": 1791780308000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e287aa9a44e21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/M_NEWS_17146_12102026044343/M_NEWS_17146_12102026044343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2d3ea2092141a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלעד: חשודים השליכו רימון על ביתו של בכיר בעירייה לאחר שקיבלו צו פינוי על נכס שבבעלותם",
+   "duration_s": 7,
+   "first_seen_ms": 1792097546566,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17424_15102026084839_1400_1792097380719_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792097387000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלעד: חשודים השליכו רימון על ביתו של בכיר בעירייה לאחר שקיבלו צו פינוי על נכס שבבעלותם",
+   "type": "mivzakim",
+   "updated_ms": 1792097387000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e2d3ea2092141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17424_15102026084839/M_NEWS_17424_15102026084839_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-e439cdbce2a31a1026.htm": {
    "author": "מבזקים",
