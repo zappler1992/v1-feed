@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792060349128,
+ "last_run_ms": 1792060650555,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12019,6 +12019,18 @@
    "section": "סלבס",
    "title": "\"כשאנחנו מתכנסים לרגע אינטימי אני בחרדה\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-76c94933fd531a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792060587971,
+   "content_type": "article",
+   "first_seen_ms": 1792060587971,
+   "indexable": true,
+   "indexnow_ms": 1792060587971,
+   "published_ms": 1792059360000,
+   "section": "",
+   "title": "אופירה על חגיגות יום ההולדת: \"קיבלתי הרבה תלונות\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-76d2b120fa601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17550,6 +17562,18 @@
    "published_ms": 1790144400000,
    "section": "בריאות",
    "title": "התוכנית החדשה שתקל את הסבל של החולים"
+  },
+  "https://www.mako.co.il/health-news/Article-ace83fe85de31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792060467587,
+   "content_type": "article",
+   "first_seen_ms": 1792060467587,
+   "indexable": true,
+   "indexnow_ms": 1792060467587,
+   "published_ms": 1792059240000,
+   "section": "בריאות",
+   "title": "\"10 מקרים בשנה של תינוקות שנזקקו לאשפוז\""
   },
   "https://www.mako.co.il/health-news/Article-b11333ec627e0a1027.htm": {
    "check_attempts": 1,
@@ -30149,7 +30173,7 @@
    "indexnow_ms": 1792060050159,
    "published_ms": 1792059780000,
    "section": "",
-   "title": "לקראת עימות אפשרי: ההנחיה של איראן לחיזבאללה"
+   "title": "לקראת עימות אפשרי: ההנחיה הדרמטית של איראן לחיזבאללה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d2faa180b23d0a1027.htm": {
    "check_attempts": 1,
@@ -30485,7 +30509,7 @@
    "indexnow_ms": 1792011386776,
    "published_ms": 1792011180000,
    "section": "",
-   "title": "ההבטחה של איזנקוט בגבול עזה - והתגובה של נתניהו"
+   "title": "ההבטחה של גדי איזנקוט בגבול עזה - והתגובה של נתניהו"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-4d16de3fb3331a1026.htm": {
    "check_attempts": 1,
