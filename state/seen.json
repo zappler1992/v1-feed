@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-4eafb002a7041a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8bf5fcda19041a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e81fcda19041a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-397c750349041a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -61972,6 +61974,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17332_14102026012435/M_NEWS_17332_14102026012435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8bf5fcda19041a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שלושה פצועים קל-בינוני בתאונת דרכים בין טרקטור לרכב פרטי סמוך לעידן",
+   "duration_s": 9,
+   "first_seen_ms": 1792087648622,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17419_15102026054326_1400_1792086292037_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792086299000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שלושה פצועים קל-בינוני בתאונת דרכים בין טרקטור לרכב פרטי סמוך לעידן",
+   "type": "mivzakim",
+   "updated_ms": 1792086299000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8bf5fcda19041a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17419_15102026054326/M_NEWS_17419_15102026054326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8c9ccdbce2a31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62007,6 +62027,24 @@
    "updated_ms": 1791965825000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e450a5167931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_rinat_opposition_141026_7309_14102026081443/V1_rinat_opposition_141026_7309_14102026081443_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e81fcda19041a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המתיחות עם איראן: נתניהו שוחח עם רוביו, גורמי ביטחון - \"אם טהראן לא תתעשת, פעולה - תרחיש ריאלי\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792087648622,
+   "image": "https://img.mako.co.il/2026/10/15/V1_rubiodor_7370_15102026053246_1400_1792085635428_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792085643000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המתיחות עם איראן: נתניהו שוחח עם רוביו, גורמי ביטחון - \"אם טהראן לא תתעשת, פעולה - תרחיש ריאלי\"",
+   "type": "mivzakim",
+   "updated_ms": 1792085643000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8e81fcda19041a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_rubiodor_7370_15102026053246/V1_rubiodor_7370_15102026053246_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8f2a407318031a1027.htm": {
    "author": "מבזקים",
@@ -86184,6 +86222,24 @@
    "updated_ms": 1791915276000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-37eeda5327631a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_whale_7281_13102026061309/V1_whale_7281_13102026061309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-397c750349041a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "טיטאניק גרסת המציאות: הפסנתרן ממשיך לנגן בזמן שהשיטפון הציף את לובי המלון בטורקיה",
+   "duration_s": 18,
+   "first_seen_ms": 1792087648622,
+   "image": "https://img.mako.co.il/2026/10/15/V1_titanic_7369_15102026052758_1400_1792085361484_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792085368000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "טיטאניק גרסת המציאות: הפסנתרן ממשיך לנגן בזמן שהשיטפון הציף את לובי המלון בטורקיה",
+   "type": "mivzakim",
+   "updated_ms": 1792085368000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-397c750349041a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_titanic_7369_15102026052758/V1_titanic_7369_15102026052758_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3dab41639b531a1027.htm": {
    "author": "מבזקים מהעולם",
