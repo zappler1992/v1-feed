@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792096650336,
+ "last_run_ms": 1792096949984,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3107,6 +3107,18 @@
    "section": "ספורט",
    "title": "\"אינסטלטור הטיס מטוס? אפשר לנצח את ריאל\""
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-3a61ea2092141a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792096949984,
+   "content_type": "article",
+   "first_seen_ms": 1792096949984,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792096800000,
+   "section": "ספורט",
+   "title": "זה אמיתי? החלטות השיפוט ההזויות נגד מכבי"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-3c286977d29f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -3789,7 +3801,7 @@
    "indexnow_ms": null,
    "published_ms": 1792090440000,
    "section": "ספורט",
-   "title": "\"איפה הייתם עד עכשיו?!\". ברשת מתמוגגים"
+   "title": "\"סוף סוף קלארק נראה כמו קלארק\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cb290d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -31878,6 +31890,18 @@
    "published_ms": 1791997080000,
    "section": "",
    "title": "הודה בחקירה: הפגישה של אוריך עם הבכיר הקטארי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5e3716e440141a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-5e3716e440141a1027.htm",
+   "checked_ms": 1792096949984,
+   "content_type": "article",
+   "first_seen_ms": 1792096949984,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792094220000,
+   "section": "",
+   "title": "אירוע דריסה בבנימין: רכב פגע בישראלי, מצוד אחר הנהג"
   },
   "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
