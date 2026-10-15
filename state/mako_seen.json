@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792042649062,
+ "last_run_ms": 1792042949105,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19663,6 +19663,18 @@
    "section": "הורים",
    "title": "כשהילד מזכיר את האב שמת – והאם מתקשה להתמודד"
   },
+  "https://www.mako.co.il/home-family-kids/Article-75b0b05a40e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792042826726,
+   "content_type": "article",
+   "first_seen_ms": 1792042826726,
+   "indexable": true,
+   "indexnow_ms": 1792042826726,
+   "published_ms": 1792042140000,
+   "section": "הורים",
+   "title": "לאחר האסון: התלמידים חוזרים לטייל בצפון"
+  },
   "https://www.mako.co.il/home-family-kids/Article-88d59efca1701a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26514,6 +26526,18 @@
    "published_ms": 1791989220000,
    "section": "ספורט",
    "title": "הצל שמאיים על אחת הקבוצות הטובות בעולם"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-4192b05a40e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792042949105,
+   "content_type": "article",
+   "first_seen_ms": 1792042949105,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792042680000,
+   "section": "ספורט",
+   "title": "מטורף: חוזה העתק שדחה דורסי באולימפיאקוס"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-84bbce6496421a1026.htm": {
    "check_attempts": 1,
