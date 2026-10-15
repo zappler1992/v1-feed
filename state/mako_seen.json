@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792050149307,
+ "last_run_ms": 1792050449306,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14285,7 +14285,7 @@
    "indexnow_ms": 1792047267032,
    "published_ms": 1792046880000,
    "section": "כסף",
-   "title": "סטודנטים בישראל? הנתון שצריך להטריד אתכם יותר מהכל"
+   "title": "חרדה כלכלית: הנתון שצריך להטריד מאות אלפי ישראלים"
   },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
@@ -28927,6 +28927,18 @@
    "section": "צבא וביטחון",
    "title": "חיזבאללה נערך מחדש - מחוץ לטווח האש של צה\"ל"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-07e2c6db56e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792050449306,
+   "content_type": "article",
+   "first_seen_ms": 1792050449306,
+   "indexable": true,
+   "indexnow_ms": 1792050449306,
+   "published_ms": 1792049040000,
+   "section": "",
+   "title": "אירופה דרוכה: הירי שבוצע לראשונה קרוב לישראל"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-0845a82bbf1e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34182,6 +34194,18 @@
    "published_ms": 1791520320000,
    "section": "חופש",
    "title": "נופים יפהפיים וסוד יהודי: המקום שהתיירים שלא מכירים"
+  },
+  "https://www.mako.co.il/travel-world/Article-3a83a615c2f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792050449306,
+   "content_type": "article",
+   "first_seen_ms": 1792050449306,
+   "indexable": true,
+   "indexnow_ms": 1792050449306,
+   "published_ms": 1792037760000,
+   "section": "חופש",
+   "title": "לא הרבה מכירים: זה המקום הכי שווה לנחות בו בכריסמס"
   },
   "https://www.mako.co.il/travel-world/Article-462bf277c0ec0a1027.htm": {
    "check_attempts": 1,
