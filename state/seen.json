@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-64746affb4f31a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-3d026cc444f31a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-36f76affb4f31a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-127fa952d1f31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8800,6 +8800,24 @@
    "updated_ms": 1791861484000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-36bdde3fb3331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17215_13102026031643/M_Celebs_17215_13102026031643_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-36f76affb4f31a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "התגעגעתם? החלו הצילומים ל״עוזרת הבית 2״, בכיכובם של סידני סוויני ומיקלה מורנה",
+   "duration_s": 50,
+   "first_seen_ms": 1792064245731,
+   "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17402_15102026113117_1400_1792063993826_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792064001000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "התגעגעתם? החלו הצילומים ל״עוזרת הבית 2״, בכיכובם של סידני סוויני ומיקלה מורנה",
+   "type": "mivzakim",
+   "updated_ms": 1792064001000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-36f76affb4f31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17402_15102026113117/M_Tarbut_17402_15102026113117_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-374841639b531a1027.htm": {
    "author": "עדכוני בידור",
@@ -30041,6 +30059,24 @@
    "updated_ms": 1791802740000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Suitcases_12102026/MASTER/Kim_Suitcases_12102026/Kim_Suitcases_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-127fa952d1f31a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "המכירה המוקדמת של האייפון המתקפל תיפתח מחר, אבל רק כ־500 מכשירים צפויים\nלהגיע לישראל במשלוחים הראשונים. המחירים מתחילים ב־8,199 שקל — ואם אתם רוצים אחד, כדאי שתהיו זריזים.",
+   "duration_s": 25,
+   "first_seen_ms": 1792064245731,
+   "image": "https://img.mako.co.il/2026/10/15/Kim_Iphone_15102026_1400_1792060872256_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792060879000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "רוצים את האייפון המתקפל? תתכוננו לתחרות",
+   "type": "news",
+   "updated_ms": 1792060879000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-127fa952d1f31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/Kim_Iphone_15102026/MASTER/Kim_Iphone_15102026/Kim_Iphone_15102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-129bd6e70fe21a1027.htm": {
    "author": "חדשות",
