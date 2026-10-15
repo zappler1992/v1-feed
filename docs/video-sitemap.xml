@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-53ddeaec37141a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/16/M_Music_17428_15102026100557_1400_1792102039512_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מפגש ענקים: בהופעה בפריז, סטיבי וונדר העלה לבמה בהפתעה את לני קרביץ. הקהל בהלם</video:title>
+<video:description>מפגש ענקים: בהופעה בפריז, סטיבי וונדר העלה לבמה בהפתעה את לני קרביץ. הקהל בהלם</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17428_15102026100557/M_Music_17428_15102026100557_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>28</video:duration>
+<video:publication_date>2026-10-15T22:07:31+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/recipes-2026/m10_w03/shorts-5e4b5fb995141a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/16/M_Food_17426_15102026090009_1400_1792098153607_FirstFrame.jpg</video:thumbnail_loc>
@@ -158,6 +174,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -257,6 +274,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -272,6 +290,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
@@ -811,6 +830,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
