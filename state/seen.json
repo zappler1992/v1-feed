@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-25e6415c8bd31a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-06886cabedd31a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-78148dd03cd31a1026.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-d6111791fbf21a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-41783e6f10e31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8429,12 +8428,12 @@
    "duration_s": 94,
    "first_seen_ms": 1792039346299,
    "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17367_15102026043038_1400_1792038753099_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792038759000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "בלוס אנג'לס התקיימה הלילה פרמיירת הסרט החדש של סשה ברון כהן, \"עלי ג'י\". זה היה מופרע בדיוק כמו שדמיי",
+   "title": "בלוס אנג'לס התקיימה הלילה פרמיירת הסרט החדש של סשה ברון כהן, \"עלי ג'י\". זה היה מופרע",
    "type": "mivzakim",
    "updated_ms": 1792038759000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1883415c8bd31a1027.htm",
@@ -30395,7 +30394,8 @@
    "published_ms": 1791926580000,
    "sections": [
     "הכי נצפים עכשיו",
-    "חדשות"
+    "חדשות",
+    "הכי נצפים השבוע"
    ],
    "title": "חשש בישראל: איראן משקמת את מערך הטילים",
    "type": "news",
@@ -59352,6 +59352,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-40ffa14f84c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17136_11102026065837/M_NEWS_17136_11102026065837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-41783e6f10e31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הבחירות לכנסת ה-26 בנציגויות ישראל ברחבי העולם: הצבעה בשגרירות בפיג'י ובייג'ינג",
+   "duration_s": 11,
+   "first_seen_ms": 1792042046349,
+   "image": "https://img.mako.co.il/2026/10/15/V1_electionstart_7347_15102026052058_1400_1792041723881_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792041731000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הבחירות לכנסת ה-26 בנציגויות ישראל ברחבי העולם: הצבעה בשגרירות בפיג'י ובייג'ינג",
+   "type": "mivzakim",
+   "updated_ms": 1792041731000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-41783e6f10e31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_electionstart_7347_15102026052058/V1_electionstart_7347_15102026052058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-440077a23c831a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -63386,6 +63404,23 @@
    "updated_ms": 1791881640000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-79b133318de21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP09/MASTER/POLISHUK_EP09/POLISHUK_EP09_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-d6111791fbf21a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "page-jsonld",
+   "description": "פולישוק פרק 11: פולישוק סוף סוף נכנס ללשכה שלו, מתרשם מהחדרים ומתחיל להרגיש כמו שר חשוב באמת. אבל כשהוא פותח את החדשות, הוא מגלה שיו\"ר המפלגה קיבל את כל הקרדיט על היוזמה שהצילה את ישראל מגינוי. לפחות בסיום מחכה לו שדרוג אחד שאפשר לחייך בגללו: מאבטח חדש ומרשים שמחליף את \"המאבטח בשקל\".",
+   "duration_s": 123,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1792042046349,
+   "image": "https://img.mako.co.il/2026/10/12/POLISHUK_EP11_1400_1791802865851_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1791802872000,
+   "sections": [],
+   "title": "פולישוק פרק 11: סוף סוף בלשכת השר",
+   "type": "series",
+   "updated_ms": 1791802872000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-d6111791fbf21a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP11/MASTER/POLISHUK_EP11/POLISHUK_EP11_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e2c819b5f0f21a1026.htm": {
    "author": "פולישוק",
@@ -84599,7 +84634,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים השבוע"
    ],
    "title": "עושה סלפי - חוטף טיל ישר לתוך הדירה ונפצע קלות בלבד | התיעוד המטורף מאוקראינה",
    "type": "mivzakim",

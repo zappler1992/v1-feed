@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792041749099,
+ "last_run_ms": 1792042050684,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15870,6 +15870,18 @@
    "published_ms": 1790479800000,
    "section": "",
    "title": "רמה גבוהה של רושם: רולדת דבש עם קרם מסקרפונה"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/cakes_for_weekend/Recipe-38c5598801031a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-38c5598801031a1027.htm",
+   "checked_ms": 1792042050684,
+   "content_type": "recipe",
+   "first_seen_ms": 1792042050684,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792041600000,
+   "section": "",
+   "title": "מהיום אין דבר כזה \"לא אוהבים עוגות לימון\""
   },
   "https://www.mako.co.il/food-recipes/recipes_column-chicken/Recipe-0040d71bf2f21a1027.htm": {
    "check_attempts": 1,
