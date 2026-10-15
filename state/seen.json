@@ -1,7 +1,17 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-1ab4762505e31a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f983e7687ce31a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c10639e0aae31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88f56c75bde31a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-921d1f731ce31a1027.htm",
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-30f2ece255b11a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-77268178dbe31a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-affe39e0aae31a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1e6d52aa9be31a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-0f7334224be31a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7d5d39e0aae31a1026.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-13e839e0aae31a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -981,6 +991,25 @@
    "updated_ms": 1791990000000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-f358b583a1611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/ACADEMY_OF_LIES_EP10/MASTER/ACADEMY_OF_LIES_EP10/ACADEMY_OF_LIES_EP10_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-77268178dbe31a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 11: אחרי הניצחון, מיה וג׳אד שוב מתקרבים לנשיקה, אבל שיחה מאימא שלה קוטעת את הרגע. אשלי מחליטה לנקום על ההפסד, והחברות שלה שופכות על מיה דלי מים ומצלמות את ההשפלה. מיה בורחת לחדר המוזיקה ומקבלת גם שם הערות מגעילות, עד שג׳אד נכנס, יוצא נגד החברים שלו ועוטף אותה בצעיף שלו.",
+   "duration_s": 135,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/ACADEMY_OF_LIES_EP11_1400_1792054652305_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792054659000,
+   "sections": [
+    "מיקרו סדרות",
+    "בקצב השקר"
+   ],
+   "title": "בקצב השקר פרק 11: דלי מלא בנקמה",
+   "type": "series",
+   "updated_ms": 1792054659000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-77268178dbe31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/ACADEMY_OF_LIES_EP11/MASTER/ACADEMY_OF_LIES_EP11/ACADEMY_OF_LIES_EP11_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -8366,6 +8395,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-0f3cb7799e431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17249_13102026110231/M_Tarbut_17249_13102026110231_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-0f7334224be31a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"שתשלח לי זימון בקלנדר ואדע שהיא האחת\": עידו טאקו עם טייק מעניין על דייטים",
+   "duration_s": 12,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/M_Celebs_17392_15102026084226_1400_1792053826553_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792053833000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"שתשלח לי זימון בקלנדר ואדע שהיא האחת\": עידו טאקו עם טייק מעניין על דייטים",
+   "type": "mivzakim",
+   "updated_ms": 1792053833000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-0f7334224be31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17392_15102026084226/M_Celebs_17392_15102026084226_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-121c8a7c6e921a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": null,
@@ -8528,6 +8575,24 @@
    "updated_ms": 1792004173000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1d702bd7fbb31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17345_14102026065314/M_Celebs_17345_14102026065314_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1e6d52aa9be31a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"שתשלח לי זימון בקלנדר ואדע שהיא האחת\": עידו טאקו עם טייק מעניין על דייטים",
+   "duration_s": 23,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/M_Tarbut_17393_15102026084248_1400_1792053849195_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792053855000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"שתשלח לי זימון בקלנדר ואדע שהיא האחת\": עידו טאקו עם טייק מעניין על דייטים",
+   "type": "mivzakim",
+   "updated_ms": 1792053855000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1e6d52aa9be31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17393_15102026084248/M_Tarbut_17393_15102026084248_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-23254f0c83b31a1027.htm": {
    "author": "עדכוני בידור",
@@ -15809,6 +15874,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-784078d54a331a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/SHIRA_SIXFLAGS_131026_FIX_M/SHIRA_SIXFLAGS_131026_FIX_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7d5d39e0aae31a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אישה בת 44 נפלה מספינת תענוגות של חברת רויאל קריביאן מול חופי האי זקינתוס שביוון, ונמצאה בחיים כעבור כ־20 שעות בלב ים. האישה אותרה ביום שבת כשהיא צפה בים היוני בתוך גלגל הצלה, וחולצה על ידי משמר החופים היווני. לפי הדיווחים, היא נפלה למים ביום שישי, ושרדה שעות ארוכות בים הפתוח עד שאותרה.",
+   "duration_s": 14,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/Kim_Boat_15102026_1400_1792052921527_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792052928000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "נפלה מספינת תענוגות מול יוון: ונמצאה לאחר 20 שעות",
+   "type": "general",
+   "updated_ms": 1792052928000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7d5d39e0aae31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/Kim_Boat_15102026/MASTER/Kim_Boat_15102026/Kim_Boat_15102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7e0c85a702531a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -21081,6 +21164,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-77ccb6ba68b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/LOADED_EP58/MASTER/LOADED_EP58/LOADED_EP58_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-affe39e0aae31a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 61: ארז מודיע על קיצוצים בקבוצה ועל מכירת שירזי, ומגלה שהאוהדים מוכנים להגיע עד הווילה כדי לדרוש שיתפטר. בזמן שיעל שומעת ממנו שהמיליונים בסכנה ואולי גם המכונית שלה, ברלד יורד להרגיע את המפגינים. שיחה קצרה מספיקה לו כדי להשתכנע שהם צודקים - ולהצטרף לקריאות נגד ארז עם מגפון.",
+   "duration_s": 185,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/LOADED_EP_61_1400_1792052982151_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792054200000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 61: הפגנה עד הבית",
+   "type": "series",
+   "updated_ms": 1792054200000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-affe39e0aae31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/LOADED_EP_61/MASTER/LOADED_EP_61/LOADED_EP_61_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -21582,6 +21683,25 @@
    "updated_ms": 1791794640000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-24184d325c511a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/LOVE_CORNER_EP27/MASTER/LOVE_CORNER_EP27_M/LOVE_CORNER_EP27_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-30f2ece255b11a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 30: דניאלה מנסה להחזיר את שירלי לשגרת הלימודים והאימונים, אבל הדאגה שלה רק מעצבנת את שירלי, שרוצה שיעזבו אותה בשקט. בפיצרייה, אלונה מסבירה לאיש שמחפש את נתן שאביה ברח לחו\"ל ולא יחזור, ומגלה שהוא טוען שנתן חייב לו כסף על הירקות. הניסיון לברר את החוב רק מלבה את הכעס שלו, והוא דורש שהמשפחה תשלם - לפני שסבלנותו תיגמר.",
+   "duration_s": 122,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/08/LOVE_CORNER_EP30_M_1400_1791460457138_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792054080000,
+   "sections": [
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 30: החוב עובר למשפחה",
+   "type": "series",
+   "updated_ms": 1792054080000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-30f2ece255b11a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/LOVE_CORNER_EP30/MASTER/LOVE_CORNER_EP30_M/LOVE_CORNER_EP30_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-466fe3a767a11a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -30561,6 +30681,25 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-bfebb3c974b21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/biata_kfas_111026/MASTER/biata_kfas_111026/biata_kfas_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c10639e0aae31a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/inbalair151026m_1400_1792053308159_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792053314000,
+   "sections": [
+    "חדשות",
+    "חופש וטיולים"
+   ],
+   "title": "ריקול דחוף למאוורר התקרה: \"עלול להשתחרר וליפול\"",
+   "type": "news",
+   "updated_ms": 1792053314000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c10639e0aae31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/inbalair151026/MASTER/inbalair151026m/inbalair151026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c177cb4aa1631a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -30859,6 +30998,24 @@
    "updated_ms": 1791748463000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f0e2e7cda7c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_BAZAN_111026/MASTER/inbie_BAZAN_111026/inbie_BAZAN_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f983e7687ce31a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 18,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/inbaldolar151026m_1400_1792055263791_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792055271000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "לראשונה מזה חצי שנה: שער הדולר מזנק ל3.10",
+   "type": "news",
+   "updated_ms": 1792055271000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f983e7687ce31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/inbaldolar151016/MASTER/inbaldolar151026m/inbaldolar151026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f9f7f5e39ee21a1026.htm": {
    "author": "חדשות",
@@ -61105,6 +61262,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88b6173881131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_BIKE_7224_12102026052040/V1_BIKE_7224_12102026052040_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88f56c75bde31a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הושמד תוואי תת-קרקעי שחצה את מרחב הקו הצהוב ברצועת עזה",
+   "duration_s": 33,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17394_15102026092347_1400_1792056325027_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792056332000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הושמד תוואי תת-קרקעי שחצה את מרחב הקו הצהוב ברצועת עזה",
+   "type": "mivzakim",
+   "updated_ms": 1792056332000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88f56c75bde31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17394_15102026092347/M_NEWS_17394_15102026092347_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61176,6 +61351,24 @@
    "updated_ms": 1791815405000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8f2a407318031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_nefel_7211_12102026022850/V1_karind_nefel_7211_12102026022850_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-921d1f731ce31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט בהצהרה מגבול עזה: מתחייב כי חמאס לא ישלוט בעזה תוך 18 חודשים מבחירתו לראשות הממשלה",
+   "duration_s": 38,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/FIX_GADI_E_1400_1792056301684_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792054339000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט בהצהרה מגבול עזה: מתחייב כי חמאס לא ישלוט בעזה תוך 18 חודשים מבחירתו לראשות הממשלה",
+   "type": "mivzakim",
+   "updated_ms": 1792054339000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-921d1f731ce31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/FIX_GADI_E/FIX_GADI_E_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92884a96b7d31a1026.htm": {
    "author": "מבזקים",
@@ -63684,10 +63877,13 @@
    "image": "https://img.mako.co.il/2026/10/12/POLISHUK_EP11_1400_1791802865851_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791802872000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 11: סוף סוף בלשכת השר",
    "type": "series",
-   "updated_ms": 1791802872000,
+   "updated_ms": 1792054140000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-d6111791fbf21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP11/MASTER/POLISHUK_EP11/POLISHUK_EP11_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -74798,6 +74994,24 @@
    "updated_ms": 1791704340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w02/shorts-fab0497eb3b11a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/DANIEL_YOAZ_081026/MASTER/DANIEL_YOAZ_081026/DANIEL_YOAZ_081026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-13e839e0aae31a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "ענת בן דור ישראלי, האחות השיקומית של רומי הגיעה להתארח בפודקאסט שלה שם הם סיפרו על ההתמודדות היומיומית, הכאב של רומי שלא מרפא והחלק הכי קשה בשיקום",
+   "duration_s": 85,
+   "first_seen_ms": 1792057046795,
+   "image": "https://img.mako.co.il/2026/10/15/Amit_ROMI_ANAT_SHIKUM_M_1400_1792052710604_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792052727000,
+   "sections": [
+    "רומי גונן: הפודקאסט"
+   ],
+   "title": "החיים החדשים של רומי גונן: החלק הכי קשה בשיקום",
+   "type": "general",
+   "updated_ms": 1792052727000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-13e839e0aae31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/Amit_ROMI_ANAT_SHIKUM/MASTER/Amit_ROMI_ANAT_SHIKUM_M/Amit_ROMI_ANAT_SHIKUM_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-a5e0545449031a1027.htm": {
    "author": "מיוחד",

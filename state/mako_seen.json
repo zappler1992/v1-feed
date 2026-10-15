@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792053149379,
+ "last_run_ms": 1792057049570,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1006,6 +1006,18 @@
    "published_ms": 1791450085000,
    "section": "Fashion Forward",
    "title": "בר רפאלי כבר יודעת: זו החולצה הכי טרנדית לחורף והיא עולה פחות ממאה שקלים"
+  },
+  "https://fashionforward.mako.co.il/selections/321808/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "post",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792053820000,
+   "section": "אופנה",
+   "title": "הטמפרטורות מתחילות לרדת: זה מה שאתם צריכים ללבוש בסתיו"
   },
   "https://fashionforward.mako.co.il/trend/alert/320462/": {
    "check_attempts": 1,
@@ -3069,7 +3081,7 @@
    "indexnow_ms": null,
    "published_ms": 1792041120000,
    "section": "ספורט",
-   "title": "דיווח: הקבוצה החדשה של לוני ווקר"
+   "title": "רשמי: הקבוצה החדשה של לוני ווקר"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-461222593dc01a1027.htm": {
    "check_attempts": 1,
@@ -3430,6 +3442,18 @@
    "published_ms": 1791921300000,
    "section": "ספורט",
    "title": "שיא אישי בהפסד: המשחק הגדול של ים מדר"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-8fe752aa9be31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792054320000,
+   "section": "ספורט",
+   "title": "\"זעם ועזב את המלון\": מאחורי סערת דורסי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-950b1df4fc631a1027.htm": {
    "check_attempts": 1,
@@ -11659,6 +11683,18 @@
    "section": "",
    "title": "לא מסתתרת עוד: הצעד של יוצאת הריאליטי"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-3d096b17e9e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792053780000,
+   "section": "סלבס",
+   "title": "כולל גבות: גל גברעם מציגה לוק בלתי מזוהה"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-3e589ed4b9011a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -12414,6 +12450,18 @@
    "published_ms": 1790273280000,
    "section": "סלבס",
    "title": "רביד פלוטניק ומאי גריאני חושפים את שם בנם"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d97af55297e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792055160000,
+   "section": "סלבס",
+   "title": "גל ורואי אדם היו מעורבים בתקרית אלימה בחתונה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-da958947c1df0a1027.htm": {
    "check_attempts": 1,
@@ -14179,6 +14227,18 @@
    "section": "",
    "title": "מה שקרה כשהאישה ללא צוואר הפסיקה למחוק את הבדיחות ברשת"
   },
+  "https://www.mako.co.il/finances-news/Article-2e0ee7687ce31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792054980000,
+   "section": "כסף",
+   "title": "יש לכם מאוורר בתקרה? זהירות, הוא יכול ליפול"
+  },
   "https://www.mako.co.il/finances-news/Article-31a043ad56011a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14873,7 +14933,7 @@
    "indexnow_ms": 1792050507245,
    "published_ms": 1792049340000,
    "section": "נדל\"ן",
-   "title": "4 חדרים עד 2.5 מיליון? הרוכשים עזבו את ת\"א"
+   "title": "הרוכשים עזבו את ת\"א: הערים שכולם רוצים לגור בהן"
   },
   "https://www.mako.co.il/finances-real-estate/Article-3df0318829601a1026.htm": {
    "check_attempts": 1,
@@ -17179,6 +17239,18 @@
    "section": "בריאות",
    "title": "הילדה הייתה בסכנת חיים - אבל האם סירבה לחסן"
   },
+  "https://www.mako.co.il/health-news/Article-71cefd3870931a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792053600000,
+   "section": "בריאות",
+   "title": "מדריכת כושר באה לבדיקה עם הילד, וגילתה שהיא בעצמה חולה"
+  },
   "https://www.mako.co.il/health-news/Article-729efffe5fce0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17837,7 +17909,7 @@
    "indexnow_ms": 1792047267032,
    "published_ms": 1792047000000,
    "section": "HIX",
-   "title": "נסע 2,000 ק\"מ בשביל אהובתו - ואז התגלתה האמת המפתיעה"
+   "title": "נסע 2,000 ק\"מ בשביל אהובתו - ואז התגלתה האמת הכואבת"
   },
   "https://www.mako.co.il/hix-bizarre/Article-23407c7d8e1f0a1027.htm": {
    "check_attempts": 1,
@@ -18138,6 +18210,18 @@
    "published_ms": 1791720180000,
    "section": "HIX",
    "title": "צעקו להם \"תחזרו למקסיקו\" – ואז הגיעה הפתעה"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-ce348a2deae31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792053780000,
+   "section": "HIX",
+   "title": "\"לא חשבתי שהמחלה הזאת יכולה לקחת להרוג אותה\""
   },
   "https://www.mako.co.il/hix-bizarre/Article-d3e252bddfa11a1026.htm": {
    "check_attempts": 1,
@@ -20682,6 +20766,18 @@
    "published_ms": 1791172800000,
    "section": "עיצוב הבית",
    "title": "אם לסבתא שלכם יש את הפיירקס הזה - הוא שווה הרבה כסף"
+  },
+  "https://www.mako.co.il/living-home-styling/accessories/Article-5ef3413f62031a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792049220000,
+   "section": "עיצוב הבית",
+   "title": "חדשות העיצוב: מצאנו שולחן קפה מושלם"
   },
   "https://www.mako.co.il/living-home-styling/accessories/Article-61502c0b03701a1026.htm": {
    "check_attempts": 1,
@@ -23287,6 +23383,18 @@
    "section": "",
    "title": "הסלמה במלחמה בין ארגוני הפשע בדרום"
   },
+  "https://www.mako.co.il/men-men_news/Article-7bb6f55297e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792053267389,
+   "content_type": "article",
+   "first_seen_ms": 1792053267389,
+   "indexable": true,
+   "indexnow_ms": 1792053267389,
+   "published_ms": 1792050420000,
+   "section": "פלילים",
+   "title": "רעולי פנים ירו לעבר ביתו של איש עסקים מוכר"
+  },
   "https://www.mako.co.il/men-men_news/Article-7c0effc1ae931a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24019,6 +24127,18 @@
    "section": "פלילים",
    "title": "רו\"ח נעצר בחשד להעלמת הכנסה של 60 מיליון"
   },
+  "https://www.mako.co.il/men-men_news/Article-b6eb1f731ce31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792054320000,
+   "section": "פלילים",
+   "title": "\"ירד למחתרת\": לאן נעלם העבריין המוכר מנתניה?"
+  },
   "https://www.mako.co.il/men-men_news/Article-b812adfe03031a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24138,6 +24258,18 @@
    "published_ms": 1790595540000,
    "section": "פלילים",
    "title": "הקשר המפתיע של ראש ארגון הפשע הישראלי בטורקיה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-c3156b17e9e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792053267389,
+   "content_type": "article",
+   "first_seen_ms": 1792053267389,
+   "indexable": true,
+   "indexnow_ms": 1792053267389,
+   "published_ms": 1792052340000,
+   "section": "פלילים",
+   "title": "הפשיעה משתוללת בנתניה: \"זה הפך לשגרה\""
   },
   "https://www.mako.co.il/men-men_news/Article-c32698ac7ab11a1027.htm": {
    "check_attempts": 1,
@@ -29071,6 +29203,18 @@
    "section": "",
    "title": "סוכן כפול בכיר: פרשת ריגול מביכה מעצמה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-1c25a9aa5de31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792056180000,
+   "section": "צבא וביטחון",
+   "title": "באמת מה שצה\"ל צריך? השאלות סביב עסקת הענק"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-1ca5cab9314d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q3/Article-1ca5cab9314d0a1026.htm",
@@ -31771,6 +31915,18 @@
    "section": "SENSES",
    "title": "עם כל הכוכבים: הפסטיבל הענק שמגיע לשדרות"
   },
+  "https://www.mako.co.il/special-senses/coltura/Article-5029374a4ba31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792053540000,
+   "section": "SENSES",
+   "title": "יהיה מצחיק: גיתית פישר וגורי אלפי על במה אחת"
+  },
   "https://www.mako.co.il/special-senses/coltura/Article-63b498cb5fea0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31818,6 +31974,18 @@
    "published_ms": 1791457200000,
    "section": "SENSES",
    "title": "בלב המדבר: המחווה המרגשת לשורדי הנובה"
+  },
+  "https://www.mako.co.il/special-senses/future/Article-3362a34477e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/nexter-news/Article-3362a34477e31a1026.htm",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792052400000,
+   "section": "SENSES",
+   "title": "רוצים לקנות את האייפון המתקפל? יהיה לכם קשה"
   },
   "https://www.mako.co.il/special-senses/future/Article-7f116a45c0aa0a1026.htm": {
    "check_attempts": 1,
@@ -33211,6 +33379,18 @@
    "section": "חופש",
    "title": "לא עומדת בעומס: המדינה שמתחילה לקרוס מתיירים"
   },
+  "https://www.mako.co.il/travel-news/international/Article-986be778a8e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792052820000,
+   "section": "חופש",
+   "title": "\"תעזרו לי להציל את העסק\": תמך בצה\"ל - וחטף"
+  },
   "https://www.mako.co.il/travel-news/international/Article-98d977a23c831a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34303,6 +34483,18 @@
    "section": "חופש",
    "title": "זול, יפה וקרוב: היעד שהכי משתלם לנחות בו עכשיו"
   },
+  "https://www.mako.co.il/travel-world/Article-6406632f5ae31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792052880000,
+   "section": "חופש",
+   "title": "האובססיה החדשה: המוצר המוזר שכולם חוזרים איתו מחו\"ל"
+  },
   "https://www.mako.co.il/travel-world/Article-784fcb9ed84e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35274,6 +35466,18 @@
    "published_ms": 1790305200000,
    "section": "תרבות tvbee",
    "title": "כוכב הסדרה לא מתרגש מהסערה בסט: \"בא לעבוד\""
+  },
+  "https://www.mako.co.il/tvbee-articles/Article-4e2e460fc3431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057049570,
+   "content_type": "article",
+   "first_seen_ms": 1792057049570,
+   "indexable": true,
+   "indexnow_ms": 1792057049570,
+   "published_ms": 1792050120000,
+   "section": "תרבות tvbee",
+   "title": "ההשראה הישראלית של קרי ראסל"
   },
   "https://www.mako.co.il/tvbee-articles/Article-50274e0b300c0a1026.htm": {
    "check_attempts": 1,
