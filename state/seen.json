@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-c455ea2092141a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-9a7a5fb995141a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-5e4b5fb995141a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9833,6 +9834,24 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-986f180916c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17137_11102026072642/M_Celebs_17137_11102026072642_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-9a7a5fb995141a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ספרנו 6 מטריות שיגנו על טיילור סוויפט שחלילה לא תיגע בה טיפה",
+   "duration_s": 15,
+   "first_seen_ms": 1792098446518,
+   "image": "https://img.mako.co.il/2026/10/16/M_Celebs_17427_15102026090022_1400_1792098113420_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792098123000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ספרנו 6 מטריות שיגנו על טיילור סוויפט שחלילה לא תיגע בה טיפה",
+   "type": "mivzakim",
+   "updated_ms": 1792098123000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-9a7a5fb995141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17427_15102026090022/M_Celebs_17427_15102026090022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-a1006ad68a921a1026.htm": {
    "author": "עדכוני בידור",
@@ -65641,6 +65660,24 @@
    "updated_ms": 1791970486000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-451d19450c931a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17308_14102026093232/M_Food_17308_14102026093232_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-5e4b5fb995141a1026.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "אחת המסעדות הכשרות הכי טובות בארץ? הופתענו לגלות שכן",
+   "duration_s": 35,
+   "first_seen_ms": 1792098446518,
+   "image": "https://img.mako.co.il/2026/10/16/M_Food_17426_15102026090009_1400_1792098153607_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792098161000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "אחת המסעדות הכשרות הכי טובות בארץ? הופתענו לגלות שכן",
+   "type": "mivzakim",
+   "updated_ms": 1792098161000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-5e4b5fb995141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17426_15102026090009/M_Food_17426_15102026090009_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-745c4680bc931a1027.htm": {
    "author": "לין לוי",
