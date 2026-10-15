@@ -1,17 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-f983e7687ce31a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-c10639e0aae31a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-88f56c75bde31a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-921d1f731ce31a1027.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-30f2ece255b11a1026.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-77268178dbe31a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-affe39e0aae31a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-1e6d52aa9be31a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-0f7334224be31a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-7d5d39e0aae31a1026.htm",
-  "https://www.v-1.co.il/special-magazine/2026-m10_w03/shorts-13e839e0aae31a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cfa01ad48ee31a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -62361,6 +62351,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ce9f71e95b921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17097_11102026064901/M_NEWS_17097_11102026064901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cfa01ad48ee31a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לפני נאום הרצוג: נציגי איראן טורקיה עזבו, אמיר קטאר נשאר באולם",
+   "duration_s": 59,
+   "first_seen_ms": 1792057646454,
+   "image": "https://img.mako.co.il/2026/10/15/M_NEWS_17395_15102026094152_1400_1792057409716_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792057417000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לפני נאום הרצוג: נציגי איראן טורקיה עזבו, אמיר קטאר נשאר באולם",
+   "type": "mivzakim",
+   "updated_ms": 1792057417000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cfa01ad48ee31a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17395_15102026094152/M_NEWS_17395_15102026094152_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d02f392cc5b21a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85479,7 +85487,8 @@
    "importance": 0,
    "published_ms": 1792043231000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מעולפת ברחוב לצד גבר מחוסר הכרה: התיעוד המטריד של בת המלוכה האמירותית",
    "type": "mivzakim",
@@ -85574,7 +85583,8 @@
    "importance": 1,
    "published_ms": 1792047877000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כאוס מוחלט: רגע לפני שמזג האוויר החורפי מגיע אלינו - זה מה שקורה ברודוס ביוון",
    "type": "mivzakim",

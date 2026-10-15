@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792057349088,
+ "last_run_ms": 1792057649110,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12031,6 +12031,18 @@
    "section": "סלבס",
    "title": "האקסים המיתולוגיים צמודים בהלבשה תחתונה"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7b8939e0aae31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057467375,
+   "content_type": "article",
+   "first_seen_ms": 1792057467375,
+   "indexable": true,
+   "indexnow_ms": 1792057467375,
+   "published_ms": 1792057200000,
+   "section": "סלבס",
+   "title": "הבילוי המשותף של מיכל הקטנה והגרוש ניר ויצמן"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7d3f50c7c2c50a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -14766,6 +14778,18 @@
    "published_ms": 1791019200000,
    "section": "כסף",
    "title": "מחירי המזון העולמי בשיא, כך אנחנו מושפעים"
+  },
+  "https://www.mako.co.il/finances-news/Article-eebd1ad48ee31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792057587389,
+   "content_type": "article",
+   "first_seen_ms": 1792057587389,
+   "indexable": true,
+   "indexnow_ms": 1792057587389,
+   "published_ms": 1792047600000,
+   "section": "כסף",
+   "title": "זהירות עוקץ: הרשות לנירות ערך באזהרה חריגה"
   },
   "https://www.mako.co.il/finances-news/Article-fb01c0192edc0a1027.htm": {
    "check_attempts": 1,
