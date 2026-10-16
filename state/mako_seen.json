@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792144349662,
+ "last_run_ms": 1792144650400,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10711,6 +10711,18 @@
    "section": "ספורט",
    "title": "השוער שהצטיין נגד אנגליה - שותף שלא כחוק"
   },
+  "https://www.mako.co.il/Sports-others/q4_2026/Article-01a42f3c31441a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792144650400,
+   "content_type": "article",
+   "first_seen_ms": 1792144650400,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792144500000,
+   "section": "ספורט",
+   "title": "בגלל דגל פלסטין: טייסון תובע חברת ביגוד"
+  },
   "https://www.mako.co.il/Sports-others/q4_2026/Article-67c7093941611a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -14739,9 +14751,9 @@
    "first_seen_ms": 1792122386725,
    "indexable": true,
    "indexnow_ms": 1792122386725,
-   "published_ms": null,
+   "published_ms": 1792144500000,
    "section": "כסף",
-   "title": "באיזה עשירון אתם באמת, ומה זה אומר על המינוס"
+   "title": "הצעד של הבנק הישראלי שצריך להדליק נורה אדומה אצלנו"
   },
   "https://www.mako.co.il/finances-magazine/money_week/Article-b408008a40021a1026.htm": {
    "check_attempts": 1,
@@ -32093,7 +32105,7 @@
    "indexnow_ms": 1792140450172,
    "published_ms": 1792139820000,
    "section": "",
-   "title": "המתקפה החריפה על איזנקוט: \"בני גנץ 2\""
+   "title": "ליברמן תוקף בחריפות את איזנקוט: \"בני גנץ 2\""
   },
   "https://www.mako.co.il/special-mako-news/Article-216ae20b9b711a1026.htm": {
    "check_attempts": 1,
@@ -34517,7 +34529,7 @@
    "indexnow_ms": 1792139426688,
    "published_ms": 1792139220000,
    "section": "",
-   "title": "מגיעים לתאילנד? הנוהל החדש שתעברו, גם בלי שתסכימו"
+   "title": "הנוהל החדש בכניסה לתאילנד - שמתחיל היום"
   },
   "https://www.mako.co.il/travel-news/international/Article-49adf163c1b01a1027.htm": {
    "check_attempts": 1,
