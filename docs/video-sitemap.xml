@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b2000a892f441a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/16/M_Tarbut_17473_16102026014923_1400_1792158697258_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;לא הייתי חושב בחיים&quot;: רגע לפני ש&quot;הזמר במסכה&quot; חוזרת, נראה שצדי צרפתי עדיין קצת חלוד</video:title>
+<video:description>&quot;לא הייתי חושב בחיים&quot;: רגע לפני ש&quot;הזמר במסכה&quot; חוזרת, נראה שצדי צרפתי עדיין קצת חלוד</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17473_16102026014923/M_Tarbut_17473_16102026014923_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>65</video:duration>
+<video:publication_date>2026-10-16T13:51:44+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6e1a0a892f441a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/16/V1_DOTS_7395_16102026014530_1400_1792158391272_FirstFrame.jpg</video:thumbnail_loc>
@@ -14,6 +30,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-7e16c078ad441a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/16/V1_NEVATIM_7394_16102026013841_1400_1792157977220_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בהלה בנבטים: מצנח רחיפה נחת סמוך ליישוב ולבסיס. המשטרה לתושבים המודאגים: &quot;לא מוכר איר</video:title>
+<video:description>בהלה בנבטים: מצנח רחיפה נחת סמוך ליישוב ולבסיס. המשטרה לתושבים המודאגים: &quot;לא מוכר אירוע פלילי&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_NEVATIM_7394_16102026013841/V1_NEVATIM_7394_16102026013841_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>12</video:duration>
+<video:publication_date>2026-10-16T13:39:44+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סרטונים מהירים</video:uploader>
+<video:tag>חדשות</video:tag>
+<video:tag>סרטונים מהירים</video:tag>
 </video:video>
 </url>
 <url>
@@ -337,6 +370,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>

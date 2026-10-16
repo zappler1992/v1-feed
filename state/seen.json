@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6e1a0a892f441a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-99acc078ad441a1027.htm"
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-7e16c078ad441a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b2000a892f441a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10235,6 +10235,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b08b6a780f041a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17420_15102026070100/M_Celebs_17420_15102026070100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b2000a892f441a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"לא הייתי חושב בחיים\": רגע לפני ש\"הזמר במסכה\" חוזרת, נראה שצדי צרפתי עדיין קצת חלוד",
+   "duration_s": 65,
+   "first_seen_ms": 1792159046102,
+   "image": "https://img.mako.co.il/2026/10/16/M_Tarbut_17473_16102026014923_1400_1792158697258_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792158704000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"לא הייתי חושב בחיים\": רגע לפני ש\"הזמר במסכה\" חוזרת, נראה שצדי צרפתי עדיין קצת חלוד",
+   "type": "mivzakim",
+   "updated_ms": 1792158704000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b2000a892f441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17473_16102026014923/M_Tarbut_17473_16102026014923_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-b272b6901fb21a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": null,
@@ -11588,6 +11606,24 @@
    "updated_ms": 1791389040000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w02/shorts-103d21cdd8611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/V1_rinat_zionist_071026_7011_07102026013355/V1_rinat_zionist_071026_7011_07102026013355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-7e16c078ad441a1027.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "בהלה בנבטים: מצנח רחיפה נחת סמוך ליישוב ולבסיס. המשטרה לתושבים המודאגים: \"לא מוכר אירוע פלילי\"",
+   "duration_s": 12,
+   "first_seen_ms": 1792159046102,
+   "image": "https://img.mako.co.il/2026/10/16/V1_NEVATIM_7394_16102026013841_1400_1792157977220_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792157984000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "בהלה בנבטים: מצנח רחיפה נחת סמוך ליישוב ולבסיס. המשטרה לתושבים המודאגים: \"לא מוכר איר",
+   "type": "mivzakim",
+   "updated_ms": 1792157984000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-7e16c078ad441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_NEVATIM_7394_16102026013841/V1_NEVATIM_7394_16102026013841_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-8c98bee19f931a1026.htm": {
    "author": "סרטונים מהירים",
@@ -62209,7 +62245,8 @@
    "importance": 2,
    "published_ms": 1792148224000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "תיעוד: צלמת העתונות היידי לוין, בת 63 הותקפה על ידי מתנחלים ביו\"ש",
    "type": "mivzakim",
