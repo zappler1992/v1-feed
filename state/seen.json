@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-12af348b00641a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f97d132e95641a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f53b78414641a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fb05348b00641a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9452,6 +9454,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f2e2fe863f21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17166_12102026082619/M_Tarbut_17166_12102026082619_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f53b78414641a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ישי סוויסה כבש את אינדינגב",
+   "duration_s": 18,
+   "first_seen_ms": 1792182446385,
+   "image": "https://img.mako.co.il/2026/10/16/M_Music_17488_16102026080821_1400_1792181405450_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792181413000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ישי סוויסה כבש את אינדינגב",
+   "type": "mivzakim",
+   "updated_ms": 1792181413000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4f53b78414641a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17488_16102026080821/M_Music_17488_16102026080821_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4fdeffc1ae931a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -11227,6 +11247,24 @@
    "updated_ms": 1792004123000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fadf7c0c2cb31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17346_14102026065337/M_Celebs_17346_14102026065337_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fb05348b00641a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"אני לא רוצה לבזבז נדל\"ן, אני אשרף\": נורית גפן מספרת איך היא רוצה להיקבר",
+   "duration_s": 88,
+   "first_seen_ms": 1792182446385,
+   "image": "https://img.mako.co.il/2026/10/16/M_Tarbut_17487_16102026073839_1400_1792179692532_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792179699000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"אני לא רוצה לבזבז נדל\"ן, אני אשרף\": נורית גפן מספרת איך היא רוצה להיקבר",
+   "type": "mivzakim",
+   "updated_ms": 1792179699000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fb05348b00641a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17487_16102026073839/M_Tarbut_17487_16102026073839_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fb62700e51431a1026.htm": {
    "author": "עדכוני בידור",
@@ -66171,6 +66209,24 @@
    "updated_ms": 1791915809000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f933da5327631a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_AMITS_7283_13102026062109/V1_AMITS_7283_13102026062109_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f97d132e95641a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אזרח ישראלי נעצר בקולומביה בחשד להונאת ענק בדובאי",
+   "duration_s": 45,
+   "first_seen_ms": 1792182446385,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17489_16102026082247_1400_1792182281755_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792182289000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אזרח ישראלי נעצר בקולומביה בחשד להונאת ענק בדובאי",
+   "type": "mivzakim",
+   "updated_ms": 1792182289000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f97d132e95641a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17489_16102026082247/M_NEWS_17489_16102026082247_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fabb598801031a1027.htm": {
    "author": "מבזקים",
