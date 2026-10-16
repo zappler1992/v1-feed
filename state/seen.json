@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f0463398ef341a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-48d07e1a61441a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7164bf7f70441a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4706,6 +4707,24 @@
    "updated_ms": 1791880200000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-6e8944c133431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/alice_131026_americans/MASTER/alice_131026_americans/alice_131026_americans_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7164bf7f70441a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 21,
+   "first_seen_ms": 1792144946574,
+   "image": "https://img.mako.co.il/2026/10/16/SHIRA_DANNY_161026_M_1400_1792143457465_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792143465000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "התואר החדש והנחשק של דני אבדיה",
+   "type": "general",
+   "updated_ms": 1792143465000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7164bf7f70441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/SHIRA_DANNY_161026/MASTER/SHIRA_DANNY_161026_M/SHIRA_DANNY_161026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7204208becb31a1026.htm": {
    "author": "סלבס",
@@ -30623,10 +30642,10 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "החל מיום שישי הקרוב, רשויות התעופה בתאילנד יוכלו לפתוח מזוודות שנשלחו לבטן המטוס \nללא אישור בעליהן, אם יעלה חשד ביטחוני לתכולתן. הבדיקות יתועדו בווידאו, והנוסעים יקבלו הודעה לאחר הפתיחה. \nברשות ממליצים להצטייד במנעול TSA מאושר כדי למנוע נזק למזוודה.",
+   "description": "החל מיום שישי הקרוב, רשויות התעופה בתאילנד יוכלו לפתוח מזוודות שנשלחו לבטן המטוס \nללא אישור בעליהן, אם יעלה חשד ביטחוני לתכולתן. הבדיקות יתועדו בווידאו, והנוסעים יקבלו הודעה לאחר הפתיחה. \nברשות ממליצים להצטייד במנעול TSA מאושר כדי למנוע נזק למזוודה",
    "duration_s": 29,
    "first_seen_ms": 1791803245854,
-   "image": "https://img.mako.co.il/2026/10/12/Kim_Suitcases_12102026_1400_1791801509625_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/16/FIXKim_Suitcases_161026_1400_1792144191339_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791802740000,
    "sections": [
@@ -30634,9 +30653,9 @@
    ],
    "title": "תאילנד משנה את הכללים: יפתחו לכם את המזוודה ללא אישור",
    "type": "news",
-   "updated_ms": 1791802740000,
+   "updated_ms": 1792144200000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/Kim_Suitcases_12102026/MASTER/Kim_Suitcases_12102026/Kim_Suitcases_12102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/FIXKim_Suitcases_161026/FIXKim_Suitcases_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-127fa952d1f31a1027.htm": {
    "author": "חדשות",
@@ -60907,6 +60926,24 @@
    "updated_ms": 1791960877000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-46aa1a12e2931a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17296_14102026065252/M_NEWS_17296_14102026065252_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-48d07e1a61441a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נמשכים החיפושים בכפר קרע, בניסיון לאתר את החשוד החמוש",
+   "duration_s": 18,
+   "first_seen_ms": 1792144946574,
+   "image": "https://img.mako.co.il/2026/10/16/V1_KARA_7387_16102026095842_1400_1792144803655_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792144810000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נמשכים החיפושים בכפר קרע, בניסיון לאתר את החשוד החמוש",
+   "type": "mivzakim",
+   "updated_ms": 1792144810000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-48d07e1a61441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_KARA_7387_16102026095842/V1_KARA_7387_16102026095842_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-494cab3b05131a1026.htm": {
    "author": "מבזקים",
