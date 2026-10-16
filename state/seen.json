@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7a1b5cf9c7341a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62285cf9c7341a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-17ef550098341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30741,7 +30742,8 @@
    "importance": 2,
    "published_ms": 1792091889000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן",
    "type": "news",
@@ -30948,6 +30950,22 @@
    "updated_ms": 1791991560000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-60c8b34300b31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/yoav_dana_141026/MASTER/yoav_dana_141026/yoav_dana_141026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62285cf9c7341a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שבועיים לאחר אירועי טיסת פליי דובאי, יותר מ-100 נוסעים מתאגדים להגשת תביעה נגד החברה. הנוסעים, שחוו אירוע טראומטי באוויר ונאלצו למצוא לעצמם פתרונות טיסה וחזרה לישראל בכוחות עצמם, טוענים להתעלמות מוחלטת, היעדר פיצויים או מסמכים רשמיים, והסתפקות בהודעות גנריות בלבד.",
+   "duration_s": 68,
+   "first_seen_ms": 1792135346681,
+   "image": "https://img.mako.co.il/2026/10/16/rinat_flydubai_161026_m_1400_1792133759483_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792134900000,
+   "sections": [],
+   "title": "שבועיים אחרי טיסת פליי דובאי: יותר מ-100 נוסעים מתארגנים להגשת ענק נגד החברה",
+   "type": "news",
+   "updated_ms": 1792134900000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62285cf9c7341a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/rinat_flydubai_161026/MASTER/rinat_flydubai_161026_m/rinat_flydubai_161026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62aa1256c0b21a1027.htm": {
    "author": "חדשות",
@@ -59658,6 +59676,24 @@
    "updated_ms": 1791874724000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-1690aa6aa0431a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_Karind_shomron_7243_13102026065725/V1_Karind_shomron_7243_13102026065725_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-17ef550098341a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קשת בנוף הפסטרולי של הצפון בטיילת אכזיב",
+   "duration_s": 24,
+   "first_seen_ms": 1792135346681,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17450_16102026071624_1400_1792135068593_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792135075000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קשת בנוף הפסטרולי של הצפון בטיילת אכזיב",
+   "type": "mivzakim",
+   "updated_ms": 1792135075000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-17ef550098341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17450_16102026071624/M_NEWS_17450_16102026071624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-183de813bff21a1026.htm": {
    "author": "מבזקים",
