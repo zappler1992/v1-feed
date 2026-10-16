@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792156648634,
+ "last_run_ms": 1792156949224,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14741,7 +14741,7 @@
    "indexnow_ms": 1792122386725,
    "published_ms": 1792121400000,
    "section": "כסף",
-   "title": "בזמן שיש לנו צרות משלנו: ההסלמה שמשפיעה לכולנו על הכיס"
+   "title": "חשבתם שהמלחמה של סעודיה היא לא הבעיה שלנו?"
   },
   "https://www.mako.co.il/finances-magazine/Article-7aa6518e7c6f0a1026.htm": {
    "check_attempts": 1,
@@ -21341,7 +21341,7 @@
    "indexnow_ms": 1792122386725,
    "published_ms": 1792089840000,
    "section": "עיצוב הבית",
-   "title": "הבת קיבלה את הבית הישן, ההורים בנו אחוזה חדשה"
+   "title": "חמסה: וילה נוטפת סטייל למשפחה עם 8 ילדים"
   },
   "https://www.mako.co.il/living-architecture/local-renovation/Article-6e79c0d43dec0a1026.htm": {
    "check_attempts": 1,
@@ -31830,6 +31830,18 @@
    "published_ms": 1791116580000,
    "section": "צבא וביטחון",
    "title": "לא צפוי: האירוע שמביך את הצבא הגדול בעולם"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-fe0c0fafd4441a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-fe0c0fafd4441a1027.htm",
+   "checked_ms": 1792156949224,
+   "content_type": "article",
+   "first_seen_ms": 1792156949224,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792147560000,
+   "section": "",
+   "title": "בארה\"ב מגנים את תקיפת העיתונאית: \"קוראים לחקירה\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-fee4e642d3a21a1027.htm": {
    "check_attempts": 1,
