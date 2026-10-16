@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792143749519,
+ "last_run_ms": 1792144049662,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12127,6 +12127,18 @@
    "section": "סלבס",
    "title": "יוצא הריאליטי חושף: \"לא הייתי פה היום אם לא אח שלי\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-31c6d204ea431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792143866918,
+   "content_type": "article",
+   "first_seen_ms": 1792143866918,
+   "indexable": true,
+   "indexnow_ms": 1792143866918,
+   "published_ms": 1792143780000,
+   "section": "",
+   "title": "\"אופירה אסייג נהייתה כמו אחותי או אמא שלי\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-39da058d7c621a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13049,7 +13061,7 @@
    "indexnow_ms": 1792140386837,
    "published_ms": 1792139580000,
    "section": "",
-   "title": "אחרי שהתגרשו: מור ממן ודוד אזולאי מאורסים"
+   "title": "רגע אחרי שהתגרשו: מלכת היופי לשעבר והאקס מאורסים שוב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e0b9b7799e431a1027.htm": {
    "check_attempts": 1,
@@ -32106,6 +32118,18 @@
    "published_ms": 1791186900000,
    "section": "חדשות",
    "title": "ההתפרצות באמצע נאומו של נתניהו בהר הרצל: \"בושה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-21fc14d1d9341a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm",
+   "checked_ms": 1792143866918,
+   "content_type": "article",
+   "first_seen_ms": 1792143866918,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792135980000,
+   "section": "חדשות",
+   "title": "\"וינטר סירב להסכם עודפים עם הנדל וזליכה\""
   },
   "https://www.mako.co.il/special-mako-news/Article-25614e77c5611a1027.htm": {
    "check_attempts": 1,
