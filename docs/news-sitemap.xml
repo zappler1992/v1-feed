@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6676d1f58c541a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-16T18:32:57+00:00</news:publication_date>
+<news:title>התושבים חסרי אונים: קולות ירי מטורפים ביישוב גבעות בר הסמוך לרהט</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/16/V1_BOOM_1610_7401_16102026063138_1400_1792175570431_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-d7919637ed541a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2150,14 +2159,5 @@
 <news:title>פול מקרטני חושף: זה מה שאני חושב על מוזיקה של היום</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/14/SHIR_PAUL_141026_1400_1792003392807_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-7c2de8957ab31a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-14T18:35:48+00:00</news:publication_date>
-<news:title>שטפונות כבדים באינסטנבול: אוטובוס מלא במים נתקע בכביש המוצף</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_ISTANBUL_7336_14102026063436_1400_1792002942260_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
