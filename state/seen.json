@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92dbaf4151341a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2f84a74720341a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92497e9ea3341a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ad287e9ea3341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -62373,6 +62373,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-921d1f731ce31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/FIX_GADI_E/FIX_GADI_E_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92497e9ea3341a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פועל בן 30 במצב אנוש לאחר שנפל מגובה של כ-3 קומות באתר בנייה ברחוב תלמוד בבלי בבית שמש",
+   "duration_s": 9,
+   "first_seen_ms": 1792129646340,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17447_16102026054146_1400_1792129378858_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792129385000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פועל בן 30 במצב אנוש לאחר שנפל מגובה של כ-3 קומות באתר בנייה ברחוב תלמוד בבלי בבית שמש",
+   "type": "mivzakim",
+   "updated_ms": 1792129385000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92497e9ea3341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17447_16102026054146/M_NEWS_17447_16102026054146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-92884a96b7d31a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62894,6 +62912,24 @@
    "updated_ms": 1791991888000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ac4fb34300b31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_PITZUZ_7330_14102026033003/V1_PITZUZ_7330_14102026033003_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ad287e9ea3341a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לוחמי האש השיגו שליטה על שריפה שפרצה בקרוון במגרש רכבים ברחוב הרב עוזיאל בחדרה",
+   "duration_s": 19,
+   "first_seen_ms": 1792129646340,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17446_16102026054043_1400_1792129319065_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792129325000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לוחמי האש השיגו שליטה על שריפה שפרצה בקרוון במגרש רכבים ברחוב הרב עוזיאל בחדרה",
+   "type": "mivzakim",
+   "updated_ms": 1792129325000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ad287e9ea3341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17446_16102026054043/M_NEWS_17446_16102026054043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-aee280c9b5031a1027.htm": {
    "author": "מבזקים",
