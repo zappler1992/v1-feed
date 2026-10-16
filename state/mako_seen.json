@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792160850160,
+ "last_run_ms": 1792161152552,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32610,6 +32610,18 @@
    "published_ms": 1790353200000,
    "section": "",
    "title": "הטביעה באשקלון: נקבע מותו של בן 17"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-526861d193441a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-526861d193441a1027.htm",
+   "checked_ms": 1792161027959,
+   "content_type": "article",
+   "first_seen_ms": 1792161027959,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792160880000,
+   "section": "",
+   "title": "\"שמעתי את הצרחה בטלפון והבנתי שיאיר איננו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-5422026ca5121a1026.htm": {
    "check_attempts": 1,
