@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7043b8749a241a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-16T04:31:28+00:00</news:publication_date>
+<news:title>אלו הן חמש הכותרות החשובות של הבוקר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/16/V1_COTAROT_7377_16102026043000_1400_1792125081432_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ca02b8749a241a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2420,14 +2429,5 @@
 <news:title>סופה קטלנית בצ&#x27;ילה: תחנת המטרו &quot;סלבדור&quot; הוצפה | צפו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_karind_chile_141026_7290_14102026043830_1400_1791952773131_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cf71b47799831a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-14T04:37:10+00:00</news:publication_date>
-<news:title>לכם זה לא יקרה: דוב פרץ לבקתה בקליפורניה וזלל משני המקררים במשך חמש שעות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/14/V1_KARIND_BEAR_141026_7289_14102026043538_1400_1791952623683_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
