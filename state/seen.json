@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5469a279a9341a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-4a885cf9c7341a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f766a279a9341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -64915,6 +64914,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f56856cc4d431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_bengvir_7251_13102026103500/V1_karind_bengvir_7251_13102026103500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f766a279a9341a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה בהודעה חריגה: חיפוש אחר חשוד חמוש במטע באזור כפר קרע - מסוקים הוקפצו לסריקות",
+   "duration_s": 9,
+   "first_seen_ms": 1792136546506,
+   "image": "https://img.mako.co.il/2026/10/16/V1_KFARKARA_7383_16102026073741_1400_1792136381311_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792136388000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה בהודעה חריגה: חיפוש אחר חשוד חמוש במטע באזור כפר קרע - מסוקים הוקפצו לסריקות",
+   "type": "mivzakim",
+   "updated_ms": 1792136388000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f766a279a9341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_KFARKARA_7383_16102026073741/V1_KFARKARA_7383_16102026073741_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f8347ee400f21a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -79369,10 +79386,10 @@
   "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-3fb8af4151341a1027.htm": {
    "author": "טכנולוגיה",
    "date_source": "json-publishDate",
-   "description": "אילון מאסק חשף את המכונית המעופפת הראשונה בשם \"הרודסטר\". הרכב הדו-מושבי פותח בשיתוף פעולה עם SpaceX ומצויד במנועי דחף המאפשרים לו לתמרן באוויר. לדברי מאסק, הרכב מסוגל להאיץ ל-97 קמ\"ש בתוך פחות משנייה ולהגיע למהירות מרבית של כ-370 קמ\"ש, תוך שימוש במכל אוויר בלחץ גבוה. אך לא ברור איך המכונית תשתלב בכ | צפובשים ציבוריים והאם השימוש בה יהיה חוקי",
+   "description": "אילון מאסק חשף את המכונית המעופפת הראשונה בשם \"הרודסטר\". הרכב הדו-מושבי פותח בשיתוף פעולה עם SpaceX ומצויד במנועי דחף המאפשרים לו לתמרן באוויר. לדברי מאסק, הרכב מסוגל להאיץ ל-97 קמ\"ש בתוך פחות משנייה ולהגיע למהירות מרבית של כ-370 קמ\"ש, תוך שימוש במכל אוויר בלחץ גבוה. אך לא ברור איך המכונית תשתלב בכ | צפובשים ציבוריים והאם השימוש בה יהיה חוקי.",
    "duration_s": 45,
    "first_seen_ms": 1792127245948,
-   "image": "https://img.mako.co.il/2026/10/16/SHIRA_TESLA_161026_M_1400_1792126865713_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/16/FIXSHIRA_TESLA_161026_1400_1792135996357_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792126872000,
    "sections": [
@@ -79380,9 +79397,9 @@
    ],
    "title": "מבט לעתיד: אילון מאסק השיק את המכונית המעופפת הראשונה",
    "type": "general",
-   "updated_ms": 1792127880000,
+   "updated_ms": 1792135980000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-3fb8af4151341a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/SHIRA_TESLA_161026/MASTER/SHIRA_TESLA_161026_M/SHIRA_TESLA_161026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/FIXSHIRA_TESLA_161026/FIXSHIRA_TESLA_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm": {
    "author": "טכנולוגיה",
