@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f6dfaf5e5d341a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dbe7bf1b9d341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10488,6 +10488,24 @@
    "updated_ms": 1791882365000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-da57b24557431a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17244_13102026090445/M_Tarbut_17244_13102026090445_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dbe7bf1b9d341a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"היה כל כך שווה לחכות לו\": מעיין אדם ובן ויובל צלנר מקבלים את בייבי מספר 3 שנולד הלילה",
+   "duration_s": 9,
+   "first_seen_ms": 1792141346921,
+   "image": "https://img.mako.co.il/2026/10/16/M_Celebs_17454_16102026084205_1400_1792140638469_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792140645000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"היה כל כך שווה לחכות לו\": מעיין אדם ובן ויובל צלנר מקבלים את בייבי מספר 3 שנולד הלילה",
+   "type": "mivzakim",
+   "updated_ms": 1792140645000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dbe7bf1b9d341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17454_16102026084205/M_Celebs_17454_16102026084205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-e13b6b17e9e31a1027.htm": {
    "author": "עדכוני בידור",
@@ -30508,7 +30526,7 @@
    ],
    "title": "\"הטילה עליו כישוף\": אשת ראש העיר שחיה חיי פאר - וחשודה בשוחד",
    "type": "news",
-   "updated_ms": 1792097288000,
+   "updated_ms": 1792140720000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0b13ea2092141a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/inbie_KfarSaba_151026/MASTER/inbie_KfarSaba_151026/inbie_KfarSaba_151026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -63516,7 +63534,8 @@
    "importance": 2,
    "published_ms": 1792136831000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "כפר קרע: סריקות אחר אדם חשוד לבוש במדי צה\"ל שהחל להימלט רגלית - כביש 6 לצפון נחסם לתנועה",
    "type": "mivzakim",
