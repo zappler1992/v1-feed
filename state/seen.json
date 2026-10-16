@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2db33398ef341a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b24a1ebd52441a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30652,7 +30652,7 @@
    ],
    "title": "תאילנד משנה את הכללים: יפתחו לכם את המזוודה ללא אישור",
    "type": "news",
-   "updated_ms": 1792144200000,
+   "updated_ms": 1792145280000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/FIXKim_Suitcases_161026/FIXKim_Suitcases_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -63509,6 +63509,24 @@
    "updated_ms": 1791749785000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b2012628c8c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_deadsea_7180_11102026081447/V1_karind_deadsea_7180_11102026081447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b24a1ebd52441a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שקעי החשמל שבהם הוטמנו ההאזנות הסתר על ידי המשטרה בביתו של חגי זגורי",
+   "duration_s": 15,
+   "first_seen_ms": 1792145546596,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17458_16102026100438_1400_1792145151884_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792145158000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שקעי החשמל שבהם הוטמנו ההאזנות הסתר על ידי המשטרה בביתו של חגי זגורי",
+   "type": "mivzakim",
+   "updated_ms": 1792145158000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b24a1ebd52441a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17458_16102026100438/M_NEWS_17458_16102026100438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b30902a395531a1027.htm": {
    "author": "מבזקים",
