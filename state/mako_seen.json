@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792159648945,
+ "last_run_ms": 1792159949310,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1834,6 +1834,18 @@
    "published_ms": 1791533220000,
    "section": "ספורט",
    "title": "״פתח לי את העיניים״: לברון לערוץ הספורט"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-7139900ba0541a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792159949310,
+   "content_type": "article",
+   "first_seen_ms": 1792159949310,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792159620000,
+   "section": "ספורט",
+   "title": "תכריע היום? ההחלטה שפורטלנד חייבת לקבל"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-7450c32fc0631a1027.htm": {
    "check_attempts": 1,
@@ -36942,6 +36954,18 @@
    "published_ms": 1791577740000,
    "section": "",
    "title": "\"הלשכה יצרה מצג שווא בזמן המלחמה, זו בגידה\""
+  },
+  "https://www.mako.co.il/tv-ofira_ohana_seri/articles/Article-f2b90a892f441a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792159949310,
+   "content_type": "article",
+   "first_seen_ms": 1792159949310,
+   "indexable": true,
+   "indexnow_ms": 1792159949310,
+   "published_ms": 1792159740000,
+   "section": "",
+   "title": "\"צריך לבדוק מה קורה בין נתניהו לקטאר\""
   },
   "https://www.mako.co.il/tv-special/Article-382ffda32d2e0a1027.htm": {
    "check_attempts": 1,

@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6f57dd83dc441a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-fb37dd83dc441a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-287a4c3e60541a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e58900ba0541a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5072,6 +5074,22 @@
    "updated_ms": 1792074661000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-f4c342a01ff31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/NOAB_OFIRA_ZAMAR_FIX/NOAB_OFIRA_ZAMAR_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-fb37dd83dc441a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "בר רפאלי מספרת מה קרה בפגישה הראשונה שלה עם אופירה אסייג שלא אמרה לה שלום.",
+   "duration_s": 59,
+   "first_seen_ms": 1792159946148,
+   "image": "https://img.mako.co.il/2026/10/16/inbie_refaeli_161026_1400_1792158953210_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792158960000,
+   "sections": [],
+   "title": "\"אכלתי סרטים\": בר רפאלי על הפגישה הראשונה עם אופירה אסייג",
+   "type": "general",
+   "updated_ms": 1792158960000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-fb37dd83dc441a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/inbie_refaeli_161026/MASTER/inbie_refaeli_161026/inbie_refaeli_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -60602,6 +60620,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2778943a08d31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17362_15102026030222/M_NEWS_17362_15102026030222_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-287a4c3e60541a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופנוע כבן 60 אותר ללא רוח חיים בשטח פתוח סמוך לבית שמש",
+   "duration_s": 9,
+   "first_seen_ms": 1792159946148,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17476_16102026020836_1400_1792159802094_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792159809000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופנוע כבן 60 אותר ללא רוח חיים בשטח פתוח סמוך לבית שמש",
+   "type": "mivzakim",
+   "updated_ms": 1792159809000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-287a4c3e60541a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17476_16102026020836/M_NEWS_17476_16102026020836_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-28f749ea23131a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -61091,6 +61127,24 @@
    "updated_ms": 1791963244000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e2d468825931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17300_14102026073302/M_NEWS_17300_14102026073302_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e58900ba0541a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל חיסל ראש חוליית נוח'בה שפשט למחנה רעים בטבח 7 באוקטובר",
+   "duration_s": 9,
+   "first_seen_ms": 1792159946148,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17475_16102026020814_1400_1792159766810_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792159774000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל חיסל ראש חוליית נוח'בה שפשט למחנה רעים בטבח 7 באוקטובר",
+   "type": "mivzakim",
+   "updated_ms": 1792159774000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e58900ba0541a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17475_16102026020814/M_NEWS_17475_16102026020814_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3fc42c9b03e21a1026.htm": {
    "author": "מבזקים",
