@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792128148775,
+ "last_run_ms": 1792128449331,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3622,6 +3622,18 @@
    "published_ms": 1791958200000,
    "section": "ספורט",
    "title": "בשום מצב: הלקח הכואב שלמדה מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-97e2af4151341a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792128386929,
+   "content_type": "article",
+   "first_seen_ms": 1792128386929,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792128120000,
+   "section": "ספורט",
+   "title": "התפוצצות התקפית: היפוך המגמה של מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-9860c5c4d1c11a1027.htm": {
    "check_attempts": 1,
@@ -28913,7 +28925,7 @@
    "indexnow_ms": 1792127066871,
    "published_ms": 1792125540000,
    "section": "",
-   "title": "מאסק הציג את \"הטסלה המעופפת\""
+   "title": "מאסק הציג את \"הטסלה המעופפת\", וזה המחיר"
   },
   "https://www.mako.co.il/nexter-news/Article-7d0c9a19912e0a1026.htm": {
    "check_attempts": 1,
@@ -29573,7 +29585,7 @@
    "indexnow_ms": 1792059267523,
    "published_ms": 1792058220000,
    "section": "דיגיטל",
-   "title": "בת 16 הוטרדה מינית בלייב - והמטרידן הוא לא בן אנוש"
+   "title": "המשטרה חוקרת: רובוט הטריד מינית בת 16 בלייב"
   },
   "https://www.mako.co.il/nexter-reviews/Article-7fc3e926f5ab0a1026.htm": {
    "check_attempts": 1,
@@ -29681,7 +29693,7 @@
    "indexnow_ms": 1792047867043,
    "published_ms": 1792047000000,
    "section": "הורים",
-   "title": "הסטודנט לרפואה ראה לידה - התגובה הדהימה גם אותנו"
+   "title": "הסטודנט לרפואה ראה לידה ולא הפסיק להתרגש מזה"
   },
   "https://www.mako.co.il/ninemonth-birth/Article-9c1d307e92dc0a1027.htm": {
    "check_attempts": 1,
@@ -30583,6 +30595,18 @@
    "section": "צבא וביטחון",
    "title": "כלי טיס יקר של צה\"ל נהרס בתאונה - והסיבה חמורה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-3f0a48bff2e31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792128449331,
+   "content_type": "article",
+   "first_seen_ms": 1792128449331,
+   "indexable": true,
+   "indexnow_ms": 1792128449331,
+   "published_ms": 1792128300000,
+   "section": "צבא וביטחון",
+   "title": "במקום דרום אמריקה: צינור החמצן החדש של טהרן"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-477f5afb0fa01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31398,6 +31422,18 @@
    "published_ms": 1790078400000,
    "section": "צבא וביטחון",
    "title": "כולל 7 באוקטובר: העלה 45 פרסומי הסתה בטיקטוק"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-ee96a952d1f31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792128449331,
+   "content_type": "article",
+   "first_seen_ms": 1792128449331,
+   "indexable": true,
+   "indexnow_ms": 1792128449331,
+   "published_ms": 1792128300000,
+   "section": "צבא וביטחון",
+   "title": "המצב הזמני המסוכן שמתקבע ב\"אם כל הזירות\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-eed6932f551f0a1026.htm": {
    "check_attempts": 1,
