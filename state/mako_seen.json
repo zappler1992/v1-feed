@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792148249632,
+ "last_run_ms": 1792148549866,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28231,6 +28231,18 @@
    "section": "ספורט",
    "title": "\"רק 200? אתה משוגע?\": האוהד שחילק שטרות"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-d4150fafd4441a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792148549866,
+   "content_type": "article",
+   "first_seen_ms": 1792148549866,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792148160000,
+   "section": "ספורט",
+   "title": "\"מיליארדים יחולקו לקבוצות בשנים הקרובות\""
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-d53f17f961d01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -34577,7 +34589,7 @@
    "indexnow_ms": 1792139426688,
    "published_ms": 1792139220000,
    "section": "",
-   "title": "ביעד הכי פופולרי: הנוהל החדש שיעברו הישראלים"
+   "title": "החמרה בנהלים: השינוי לכל מי שיטוס מתאילנד"
   },
   "https://www.mako.co.il/travel-news/international/Article-49adf163c1b01a1027.htm": {
    "check_attempts": 1,
