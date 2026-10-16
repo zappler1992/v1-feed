@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-76f2bf7f70441a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/16/M_NEWS_17456_16102026093237_1400_1792143250509_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>רוכב קורקינט כבן 30 נפצע קשה במהלך רכיבה בשדרות ירושלים בנתיבות</video:title>
+<video:description>רוכב קורקינט כבן 30 נפצע קשה במהלך רכיבה בשדרות ירושלים בנתיבות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17456_16102026093237/M_NEWS_17456_16102026093237_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-16T09:34:17+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-81ba5d982f341a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/16/M_NEWS_17455_16102026090244_1400_1792141468325_FirstFrame.jpg</video:thumbnail_loc>
@@ -30,6 +46,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -46,6 +63,22 @@
 <video:live>no</video:live>
 <video:uploader>עדכוני בידור</video:uploader>
 <video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7f87bf1b9d341a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/16/SHIRA_MOR_161026_M_1400_1792140526840_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מור ממן ודוד אזולאי מאורסים בפעם השנייה: לאחר שנפרדו כחודשיים בלבד אחרי חתונתם</video:title>
+<video:description>מור ממן ודוד אזולאי התארסו בפעם השנייה - לאחר שנפרדו כחודשיים בלבד אחרי חתונתם. כזכור השניים נישאו במאי 2025 וחזרו אחד לשני באוקטובר האחרון</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/SHIRA_MOR_161026/MASTER/SHIRA_MOR_161026_M/SHIRA_MOR_161026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>10</video:duration>
+<video:publication_date>2026-10-16T08:48:53+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
+<video:tag>סלבס</video:tag>
 </video:video>
 </url>
 <url>
@@ -95,6 +128,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>סלבס</video:tag>
 </video:video>
 </url>
 <url>

@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-5bae5ce1bb341a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-d5b314d1d9341a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-76f2bf7f70441a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7f87bf1b9d341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4743,6 +4743,24 @@
    "updated_ms": 1791985948000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7be0163b2aa31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Kelly_14102026/MASTER/Kim_Kelly_14102026/Kim_Kelly_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7f87bf1b9d341a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "מור ממן ודוד אזולאי התארסו בפעם השנייה - לאחר שנפרדו כחודשיים בלבד אחרי חתונתם. כזכור השניים נישאו במאי 2025 וחזרו אחד לשני באוקטובר האחרון",
+   "duration_s": 10,
+   "first_seen_ms": 1792143446545,
+   "image": "https://img.mako.co.il/2026/10/16/SHIRA_MOR_161026_M_1400_1792140526840_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792140533000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "מור ממן ודוד אזולאי מאורסים בפעם השנייה: לאחר שנפרדו כחודשיים בלבד אחרי חתונתם",
+   "type": "general",
+   "updated_ms": 1792140533000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7f87bf1b9d341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/SHIRA_MOR_161026/MASTER/SHIRA_MOR_161026_M/SHIRA_MOR_161026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-8f14d71bf2f21a1027.htm": {
    "author": "סלבס",
@@ -61064,7 +61082,8 @@
    "importance": 2,
    "published_ms": 1792141323000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "ליברמן במתקפה חריפה: \"איזנקוט - גנץ 2 - חותר להקמת ממשלה עם נתניהו\"",
    "type": "mivzakim",
@@ -62087,6 +62106,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-766bd6e70fe21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_meyaret_7190_12102026070952/V1_meyaret_7190_12102026070952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-76f2bf7f70441a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב קורקינט כבן 30 נפצע קשה במהלך רכיבה בשדרות ירושלים בנתיבות",
+   "duration_s": 9,
+   "first_seen_ms": 1792143446545,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17456_16102026093237_1400_1792143250509_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792143257000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב קורקינט כבן 30 נפצע קשה במהלך רכיבה בשדרות ירושלים בנתיבות",
+   "type": "mivzakim",
+   "updated_ms": 1792143257000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-76f2bf7f70441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17456_16102026093237/M_NEWS_17456_16102026093237_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-7842c2a1eea31a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -62115,7 +62152,8 @@
    "importance": 1,
    "published_ms": 1792139773000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "סלבס"
    ],
    "title": "מזל טוב כפול! מעיין אדם התארסה וילדה אח קטן לתבור וקדם",
    "type": "mivzakim",
