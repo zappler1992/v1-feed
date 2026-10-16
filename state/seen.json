@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-95857ef7be241a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fd18af4151341a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-48d57ef7be241a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9071,6 +9072,24 @@
    "updated_ms": 1791989613000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4851f1aa9da31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17336_14102026025214/M_Celebs_17336_14102026025214_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-48d57ef7be241a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מאסק חשף את \"הטסלה המעופפת\"",
+   "duration_s": 46,
+   "first_seen_ms": 1792126945945,
+   "image": "https://img.mako.co.il/2026/10/16/M_Tarbut_17439_16102026043539_1400_1792125402739_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792125409000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מאסק חשף את \"הטסלה המעופפת\"",
+   "type": "mivzakim",
+   "updated_ms": 1792125409000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-48d57ef7be241a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17439_16102026043539/M_Tarbut_17439_16102026043539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4936944ae1031a1027.htm": {
    "author": "עדכוני בידור",
@@ -30709,7 +30728,7 @@
    ],
    "title": "לקראת תקיפה? בישראל מזהים \"צעדים קיצוניים\" באיראן",
    "type": "news",
-   "updated_ms": 1792091889000,
+   "updated_ms": 1792126620000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-34994445ef041a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/rinat_iran_151016/MASTER/rinat_iran_151016_m/rinat_iran_151016_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -30814,7 +30833,8 @@
    "published_ms": 1792056161000,
    "sections": [
     "הכי נצפים עכשיו",
-    "חדשות"
+    "חדשות",
+    "הכי נצפים השבוע"
    ],
    "title": "ארה״ב נערכת למתקפה באיראן: שלושה ימים של אש",
    "type": "news",
@@ -64752,6 +64772,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fcb36cdb16241a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17429_16102026025742/M_NEWS_17429_16102026025742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fd18af4151341a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המיועד להיות ח\"כ ביהדות התורה: \"מצב החרדים היום קרוב למה שהיה בשואה\"",
+   "duration_s": 25,
+   "first_seen_ms": 1792126945945,
+   "image": "https://img.mako.co.il/2026/10/16/V1_shoa_7378_16102026045854_1400_1792126814283_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792126821000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המיועד להיות ח\"כ ביהדות התורה: \"מצב החרדים היום קרוב למה שהיה בשואה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792126821000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fd18af4151341a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_shoa_7378_16102026045854/V1_shoa_7378_16102026045854_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fde68ff8e3031a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -86607,7 +86645,8 @@
    "published_ms": 1791915283000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "“כמו סרט אימה״: כתב אישום נגד נהג שיכור שדהר לתוך מסעדת תיירים עמוסה בסלוניקי ופצע שלושה",
    "type": "mivzakim",
@@ -86915,7 +86954,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים השבוע"
    ],
    "title": "איסטנבול טובעת: שיטפונות כבדים הפכו את הרחובות בטורקיה לנהרות ענק",
    "type": "mivzakim",
@@ -86953,7 +86993,8 @@
    "published_ms": 1792073219000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בזמן שהנוסעים ישנו בטיסה בתאילנד: תייר גנב כרטיסי אשראי, כסף וטלפונים מהתיקים - ונעצר",
    "type": "mivzakim",
@@ -87029,7 +87070,8 @@
    "published_ms": 1792047877000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "כאוס מוחלט: רגע לפני שמזג האוויר החורפי מגיע אלינו - זה מה שקורה ברודוס ביוון",
    "type": "mivzakim",
@@ -87142,7 +87184,8 @@
    "published_ms": 1792067570000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "\"אני לא מרגיש טוב\": בכיר המפלגה בדרום אפריקה, פיקילה מבלולה התמוטט בשידור חי",
    "type": "mivzakim",
