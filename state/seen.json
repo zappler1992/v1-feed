@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-438fb0c5c3441a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dc290fafd4441a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4775,7 +4775,7 @@
    ],
    "title": "מור ממן ודוד אזולאי מאורסים בפעם השנייה: לאחר שנפרדו כחודשיים בלבד אחרי חתונתם",
    "type": "general",
-   "updated_ms": 1792140533000,
+   "updated_ms": 1792147320000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7f87bf1b9d341a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/SHIRA_MOR_161026/MASTER/SHIRA_MOR_161026_M/SHIRA_MOR_161026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -10560,6 +10560,24 @@
    "updated_ms": 1792140645000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dbe7bf1b9d341a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17454_16102026084205/M_Celebs_17454_16102026084205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dc290fafd4441a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "איתי תורג׳מן: ״סלבס לא צריכים לדבר על פוליטיקה״",
+   "duration_s": 106,
+   "first_seen_ms": 1792147646616,
+   "image": "https://img.mako.co.il/2026/10/16/M_Celebs_17461_16102026104131_1400_1792147417953_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792147424000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "איתי תורג׳מן: ״סלבס לא צריכים לדבר על פוליטיקה״",
+   "type": "mivzakim",
+   "updated_ms": 1792147424000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-dc290fafd4441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17461_16102026104131/M_Celebs_17461_16102026104131_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-e13b6b17e9e31a1027.htm": {
    "author": "עדכוני בידור",
@@ -30666,7 +30684,8 @@
    "importance": 1,
    "published_ms": 1791802740000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "חדשות"
    ],
    "title": "תאילנד משנה את הכללים: יפתחו לכם את המזוודה ללא אישור",
    "type": "news",
