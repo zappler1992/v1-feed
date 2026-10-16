@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a07b0c5c3441a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3d443a36f5441a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30648,7 +30648,8 @@
    "importance": 1,
    "published_ms": 1792097288000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "\"הטילה עליו כישוף\": אשת ראש העיר שחיה חיי פאר - וחשודה בשוחד",
    "type": "news",
@@ -60784,6 +60785,24 @@
    "updated_ms": 1792000499000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3bcb465eb8b31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_LEVINSKI_7334_14102026055343/V1_LEVINSKI_7334_14102026055343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3d443a36f5441a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "העיתונאית היידי לוין מספרת על רגע בו הותקפה על ידי מתנחלים ביו\"ש.",
+   "duration_s": 29,
+   "first_seen_ms": 1792150345702,
+   "image": "https://img.mako.co.il/2026/10/16/V1_nitholim_7389_16102026112552_1400_1792150020926_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792150028000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "העיתונאית היידי לוין מספרת על רגע בו הותקפה על ידי מתנחלים ביו\"ש",
+   "type": "mivzakim",
+   "updated_ms": 1792150028000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3d443a36f5441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/V1_nitholim_7389_16102026112552/V1_nitholim_7389_16102026112552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-3e2d468825931a1027.htm": {
    "author": "מבזקים",
