@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-53ddeaec37141a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fcb36cdb16241a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0b13ea2092141a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30439,6 +30440,24 @@
    "updated_ms": 1791738000000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/FIX_SHIRA_AMIT_111026/FIX_SHIRA_AMIT_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0b13ea2092141a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "הכירו את מיטל סער, אשת ראש עיריית כפר סבא. אורח החיים הראוותני ומנקר העיניים שלה, לצד המעורבות העמוקה שלה במינויים ופיטורים, משכו לא מעט תשומת לב - ועכשיו גם את זו של המשטרה. החוקרים בודקים כעת אם ההכנסות של בני הזוג תואמות את חיי הפאר, וחושדים שמיטל קיבלה מאות אלפי שקלים שוחד מבעלי אינטרסים.",
+   "duration_s": 81,
+   "first_seen_ms": 1792119745917,
+   "image": "https://img.mako.co.il/2026/10/15/inbie_KfarSaba_151026_1400_1792097281348_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792097288000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "\"הטילה עליו כישוף\": אשת ראש העיר שחיה חיי פאר - וחשודה בשוחד",
+   "type": "news",
+   "updated_ms": 1792097288000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0b13ea2092141a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/inbie_KfarSaba_151026/MASTER/inbie_KfarSaba_151026/inbie_KfarSaba_151026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0c9db965ed921a1026.htm": {
    "author": "חדשות",
@@ -64553,6 +64572,24 @@
    "updated_ms": 1791689278000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fb524dad8d821a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/M_NEWS_17085_11102026032624/M_NEWS_17085_11102026032624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fcb36cdb16241a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ על \"אם כל הפצצות\": \"זו פצצה גדולה במיוחד, כמו פצצה גרעינית זעירה\"",
+   "duration_s": 30,
+   "first_seen_ms": 1792119745917,
+   "image": "https://img.mako.co.il/2026/10/16/M_NEWS_17429_16102026025742_1400_1792119543077_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792119554000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ על \"אם כל הפצצות\": \"זו פצצה גדולה במיוחד, כמו פצצה גרעינית זעירה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792119554000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fcb36cdb16241a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/M_NEWS_17429_16102026025742/M_NEWS_17429_16102026025742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fde68ff8e3031a1027.htm": {
    "author": "מבזקים",
