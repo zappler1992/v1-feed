@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792121848879,
+ "last_run_ms": 1792122148775,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3634,6 +3634,18 @@
    "published_ms": 1791473460000,
    "section": "ספורט",
    "title": "ישיר: אולפן היורוליג לקראת ולנסיה-הפועל"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-994cb8749a241a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792122148775,
+   "content_type": "article",
+   "first_seen_ms": 1792122148775,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792121760000,
+   "section": "ספורט",
+   "title": "\"שיפור בכל משחק\": מאחורי הניצחון של מכבי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-9aa0dbfc42141a1027.htm": {
    "check_attempts": 1,
@@ -15941,7 +15953,7 @@
    "indexnow_ms": 1792078226739,
    "published_ms": 1792078200000,
    "section": "",
-   "title": "חדשות טובות על מחירי הדיור: פה נרשמה הירידה הכי דרמטית"
+   "title": "המחירים צונחים: איפה נרשמה הירידה הכי דרמטית"
   },
   "https://www.mako.co.il/finances-real-estate/Article-f0aaaa1902fa0a1027.htm": {
    "check_attempts": 1,
@@ -31289,7 +31301,7 @@
    "indexnow_ms": 1792101866989,
    "published_ms": 1792100640000,
    "section": "חדשות",
-   "title": "בסוריה טוענים: תקיפות צה\"ל בא-סווידא הופסקו בתיווך אמר"
+   "title": "המסר של טראמפ לאיראן - ולנתניהו, רגע לפני הבחירות"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-3d6ac9d81eee0a1026.htm": {
    "check_attempts": 1,
@@ -31889,7 +31901,7 @@
    "indexnow_ms": null,
    "published_ms": 1792092120000,
    "section": "",
-   "title": "המצוקה באיראן - והחשש: \"בעל הבית משתגע, אין הרבה זמן\""
+   "title": "לקראת תקיפה? המהלכים הצבאיים שזוהו באיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-493254f40e8c0a1027.htm": {
    "check_attempts": 1,
@@ -32238,6 +32250,18 @@
    "published_ms": 1791370020000,
    "section": "",
    "title": "\"ויתרתי על ההורים במודע כדי לשרוד\": דניאל חוזר לתופת"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-9b40750349041a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-9b40750349041a1027.htm",
+   "checked_ms": 1792122148775,
+   "content_type": "article",
+   "first_seen_ms": 1792122148775,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792122000000,
+   "section": "חדשות",
+   "title": "הביקורת בגוש השינוי על אמירת ליברמן"
   },
   "https://www.mako.co.il/special-mako-news/Article-9e72a54f49d11a1027.htm": {
    "check_attempts": 1,
