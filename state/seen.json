@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-48d07e1a61441a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-7164bf7f70441a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2db33398ef341a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30821,6 +30820,24 @@
    "updated_ms": 1791783240000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2839180916c21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/inbie_fight_111026/MASTER/inbie_fight_111026/inbie_fight_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2db33398ef341a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1792145246559,
+   "image": "https://img.mako.co.il/2026/10/16/rinat_dubaimovie_161026_m_1400_1792143190222_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792143197000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "תרשמו ביומנים: הסרט הראשון על פליי דובאי עומד לצאת",
+   "type": "news",
+   "updated_ms": 1792143197000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2db33398ef341a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/rinat_dubaimovie_161026/MASTER/rinat_dubaimovie_161026_m/rinat_dubaimovie_161026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-2dc9b705fe031a1027.htm": {
    "author": "חדשות",
