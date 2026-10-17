@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0c870612bb941a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/17/V1_SHIR_PALESTINE_7425_17102026125604_1400_1792241839813_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>דרמה בבנימין: מתנחלים רעולי פנים תקפו דיפלומטים אירופים במהלך מסיק זיתים - והכול תועד במצלמות</video:title>
+<video:description>דרמה בבנימין: מתנחלים רעולי פנים תקפו דיפלומטים אירופים במהלך מסיק זיתים - והכול תועד במצלמות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_SHIR_PALESTINE_7425_17102026125604/V1_SHIR_PALESTINE_7425_17102026125604_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>14</video:duration>
+<video:publication_date>2026-10-17T12:57:26+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd820612bb941a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/17/V1_france_7424_17102026123948_1400_1792240899645_FirstFrame.jpg</video:thumbnail_loc>
@@ -244,6 +260,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a8452e8fd841a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/17/alona_dafna_m_171026_1400_1792226339398_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הטעות שיכולה להכריע את הבחירות</video:title>
+<video:description>מתוך &quot;חדשות 12&quot;: דפנה ליאל מסבירה כיצד טעות בחישוב הפוליטי עלולה להכריע את הבחירות, ולמה הסכמי העודפים בין המפלגות עשויים להיות משמעותיים במיוחד. בן גביר, שלא חתום על הסכם עודפים, עלול למצוא את עצמו בעמדת נחיתות בחלוקת המנדטים - ובתרחיש מסוים, היעדר ההסכם עשוי דווקא לחזק את גוש השינוי ולהשפיע על יחסי הכוחות בכנסת הבאה.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/alona_dafna_171026/MASTER/alona_dafna_m_171026/alona_dafna_m_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>100</video:duration>
+<video:publication_date>2026-10-17T08:39:06+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-c59a52e8fd841a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/17/V1_irandor2_7416_17102026080528_1400_1792224424333_FirstFrame.jpg</video:thumbnail_loc>
@@ -387,6 +420,7 @@
 <video:live>no</video:live>
 <video:uploader>סרטונים מהירים</video:uploader>
 <video:tag>חדשות מהמסך</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סרטונים מהירים</video:tag>
 </video:video>
 </url>
@@ -404,6 +438,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>

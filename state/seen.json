@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd820612bb941a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0c870612bb941a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a8452e8fd841a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7139,7 +7140,8 @@
    "importance": 1,
    "published_ms": 1792218152000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עדיין מעניינת: בריטני קפצה לקפה בניו יורק ולא הצליחה להתחמק מהצלמים",
    "type": "mivzakim",
@@ -12122,7 +12124,8 @@
    "importance": 2,
    "published_ms": 1792218576000,
    "sections": [
-    "חדשות מהמסך"
+    "חדשות מהמסך",
+    "הכי נצפים עכשיו"
    ],
    "title": "הראיון באולפן שיצא משליטה: העימות של בנט ואוחנה על יונתן אוריך",
    "type": "mivzakim",
@@ -31819,6 +31822,24 @@
    "updated_ms": 1791704340000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a2765af1e921a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/SHIR_TAXI_111026/MASTER/SHIR_TAXI_111026/SHIR_TAXI_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a8452e8fd841a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מתוך \"חדשות 12\": דפנה ליאל מסבירה כיצד טעות בחישוב הפוליטי עלולה להכריע את הבחירות, ולמה הסכמי העודפים בין המפלגות עשויים להיות משמעותיים במיוחד. בן גביר, שלא חתום על הסכם עודפים, עלול למצוא את עצמו בעמדת נחיתות בחלוקת המנדטים - ובתרחיש מסוים, היעדר ההסכם עשוי דווקא לחזק את גוש השינוי ולהשפיע על יחסי הכוחות בכנסת הבאה.",
+   "duration_s": 100,
+   "first_seen_ms": 1792242145869,
+   "image": "https://img.mako.co.il/2026/10/17/alona_dafna_m_171026_1400_1792226339398_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792226346000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "הטעות שיכולה להכריע את הבחירות",
+   "type": "news",
+   "updated_ms": 1792226346000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3a8452e8fd841a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/alona_dafna_171026/MASTER/alona_dafna_m_171026/alona_dafna_m_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-3e2fe7ac45041a1026.htm": {
    "author": "חדשות",
@@ -60682,6 +60703,24 @@
    "updated_ms": 1792010923000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0b3551b8d0c31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_MALGEZA_7341_14102026084727/V1_MALGEZA_7341_14102026084727_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0c870612bb941a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דרמה בבנימין: מתנחלים רעולי פנים תקפו דיפלומטים אירופים במהלך מסיק זיתים - והכול תועד במצלמות",
+   "duration_s": 14,
+   "first_seen_ms": 1792242145869,
+   "image": "https://img.mako.co.il/2026/10/17/V1_SHIR_PALESTINE_7425_17102026125604_1400_1792241839813_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792241846000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דרמה בבנימין: מתנחלים רעולי פנים תקפו דיפלומטים אירופים במהלך מסיק זיתים - והכול תועד במצלמות",
+   "type": "mivzakim",
+   "updated_ms": 1792241846000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0c870612bb941a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_SHIR_PALESTINE_7425_17102026125604/V1_SHIR_PALESTINE_7425_17102026125604_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-0d3168756e921a1027.htm": {
    "author": "מבזקים",
