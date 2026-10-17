@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8432758321841a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-439528d16b741a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6d0528d16b741a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-961428d16b741a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9326,6 +9328,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-438fb0c5c3441a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17459_16102026103223/M_Celebs_17459_16102026103223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-439528d16b741a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אמה אלפי קפצה עם חברות לצימר",
+   "duration_s": 19,
+   "first_seen_ms": 1792214246220,
+   "image": "https://img.mako.co.il/2026/10/17/M_Celebs_17503_17102026051343_1400_1792214105509_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792214113000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אמה אלפי קפצה עם חברות לצימר",
+   "type": "mivzakim",
+   "updated_ms": 1792214113000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-439528d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17503_17102026051343/M_Celebs_17503_17102026051343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-4851f1aa9da31a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -9889,6 +9909,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6cf91a12e2931a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17293_14102026065020/M_Tarbut_17293_14102026065020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6d0528d16b741a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עדיין מעניינת: בריטני קפצה לקפה בניו יורק ולא הצליחה להתחמק מהצלמים",
+   "duration_s": 14,
+   "first_seen_ms": 1792214246220,
+   "image": "https://img.mako.co.il/2026/10/17/M_Celebs_17502_17102026050830_1400_1792213774785_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792213786000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עדיין מעניינת: בריטני קפצה לקפה בניו יורק ולא הצליחה להתחמק מהצלמים",
+   "type": "mivzakim",
+   "updated_ms": 1792213786000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-6d0528d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17502_17102026050830/M_Celebs_17502_17102026050830_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-71080ae4f9531a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -10178,6 +10216,24 @@
    "updated_ms": 1792162030000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-91354c3e60541a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17481_16102026024539/M_Celebs_17481_16102026024539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-961428d16b741a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מריה קארי משפצת את הקליפים שלה ושחררה היום את גרסת ה-4k ללהיט שלה משנת 2001 ״loverboy”",
+   "duration_s": 29,
+   "first_seen_ms": 1792214246220,
+   "image": "https://img.mako.co.il/2026/10/17/M_Music_17501_17102026050307_1400_1792213464157_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792213471000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מריה קארי משפצת את הקליפים שלה ושחררה היום את גרסת ה-4k ללהיט שלה משנת 2001 ״loverboy”",
+   "type": "mivzakim",
+   "updated_ms": 1792213471000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-961428d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17501_17102026050307/M_Music_17501_17102026050307_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-96b0832a11f31a1026.htm": {
    "author": "עדכוני בידור",
@@ -81906,6 +81962,22 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/tv1-magazine/2025-m04_w05/shorts-c092ff365308691027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/04/29/TAL_BABALUBA_290425/MASTER/TAL_BABALUBA_290425/TAL_BABALUBA_290425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2025-m05_w05/shorts-87ccc51a7531791027.htm": {
+   "author": "TV1",
+   "date_source": null,
+   "description": "עוד חשיפה ב\"זמר במסכה\": לא תאמינו מי הייתה תחת מסכת הבובה - לא אחרת מאשר האישה הראשונה של הקולנוע והתיאטרון הישראלי - גילה אלמגור!",
+   "duration_s": 37,
+   "first_seen_ms": 1792214246220,
+   "image": "https://img.mako.co.il/2025/05/27/NOAB_ZEMER_270525_M_1400_1748376922787_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": null,
+   "sections": [],
+   "title": "רגע החשיפה של הבובה",
+   "type": "general",
+   "updated_ms": null,
+   "url": "https://www.v-1.co.il/tv1-magazine/2025-m05_w05/shorts-87ccc51a7531791027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/05/27/NOAB_ZAMER_270525_FIX/NOAB_ZAMER_270525_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2025-m06_w03/shorts-baaec0044519791026.htm": {
    "author": "TV1",
