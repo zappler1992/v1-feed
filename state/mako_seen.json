@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792229249375,
+ "last_run_ms": 1792229549634,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27787,6 +27787,18 @@
    "section": "מוזיקה",
    "title": "קורע לב: הכוכבת בת השמונה מתה במפתיע"
   },
+  "https://www.mako.co.il/music-news/local/Article-f06b6befa1941a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792229549634,
+   "content_type": "article",
+   "first_seen_ms": 1792229549634,
+   "indexable": true,
+   "indexnow_ms": 1792229549634,
+   "published_ms": 1792228440000,
+   "section": "",
+   "title": "המוזיקאי ארז הלוי הלך לעולמו בגיל 71"
+  },
   "https://www.mako.co.il/music-news/world/Article-1c85871e84ed0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28602,6 +28614,18 @@
    "published_ms": 1792045020000,
    "section": "ספורט",
    "title": "פרטים חדשים: הדרמה במו\"מ למכירת חיפה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-615027e0f0941a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792229549634,
+   "content_type": "article",
+   "first_seen_ms": 1792229549634,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792229100000,
+   "section": "ספורט",
+   "title": "אלו 10 הכדורגלנים המרוויחים בעולם"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-6ba9b0ce97441a1026.htm": {
    "check_attempts": 1,
