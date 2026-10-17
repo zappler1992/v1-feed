@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d7b2bb501ca41a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-09154216fba41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31598,6 +31598,24 @@
    "updated_ms": 1791738000000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-08dc30c60db21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/FIX_SHIRA_AMIT_111026/FIX_SHIRA_AMIT_111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-09154216fba41a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 63,
+   "first_seen_ms": 1792258645682,
+   "image": "https://img.mako.co.il/2026/10/17/yoav_mehes_171026_1400_1792256994764_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792257002000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1792257002000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-09154216fba41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/yoav_mehes_171026/MASTER/yoav_mehes_171026/yoav_mehes_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0b13ea2092141a1026.htm": {
    "author": "חדשות",
@@ -82940,6 +82958,22 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/tv1-magazine/2025-m04_w05/shorts-c092ff365308691027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/04/29/TAL_BABALUBA_290425/MASTER/TAL_BABALUBA_290425/TAL_BABALUBA_290425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2025-m05_w04/shorts-2cc462055d2f691027.htm": {
+   "author": "TV1",
+   "date_source": null,
+   "description": "\"הזמר במסכה\" חוזרת וזה הזמן להיזכר בחשיפות הגדולות מכל העונות. התרנגול האחד והיחיד - שגם זכה בעונה הראשונה",
+   "duration_s": 24,
+   "first_seen_ms": 1792258645682,
+   "image": "https://img.mako.co.il/2025/05/21/TAL_CHICKENZAMAR_210525_1400_1747831657840_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": null,
+   "sections": [],
+   "title": "הזמר במסכה הגדולים: התרנגול",
+   "type": "general",
+   "updated_ms": null,
+   "url": "https://www.v-1.co.il/tv1-magazine/2025-m05_w04/shorts-2cc462055d2f691027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/05/21/TAL_CHICKENZAMAR_210525/MASTER/TAL_CHICKENZAMAR_210525/TAL_CHICKENZAMAR_210525_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2025-m05_w05/shorts-6e8f9de4e651791027.htm": {
    "author": "TV1",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792258348396,
+ "last_run_ms": 1792258648472,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8408,6 +8408,18 @@
    "published_ms": 1792252620000,
    "section": "ספורט",
    "title": "\"צריך לקבל 3 אדומים\": קרייב במוקד ברשת"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c773035f8ea41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792258586864,
+   "content_type": "article",
+   "first_seen_ms": 1792258586864,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792258440000,
+   "section": "ספורט",
+   "title": "ענו: הפנדל לזכות הפועל ת\"א מוצדק?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c85df8b3f7011a1026.htm": {
    "check_attempts": 1,
@@ -25913,7 +25925,7 @@
    "indexnow_ms": 1792256426695,
    "published_ms": 1792255800000,
    "section": "",
-   "title": "הדרכונים שנמצאו אצל הישראלי שנעצר בקולומביה"
+   "title": "מה שנמצא אצל הישראלי שהסתבך בקולומביה"
   },
   "https://www.mako.co.il/men-men_news/Article-b02e9f6168ac0a1027.htm": {
    "check_attempts": 1,
