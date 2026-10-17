@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792209748977,
+ "last_run_ms": 1792210048966,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24665,7 +24665,7 @@
    "indexnow_ms": 1792182749313,
    "published_ms": 1792181820000,
    "section": "",
-   "title": "אזרח ישראלי נעצר בקולומביה בחשד להונאת ענק בדובאי"
+   "title": "המעצר הדרמטי בקולומביה - והונאת הענק של הישראלי בדובאי"
   },
   "https://www.mako.co.il/men-men_news/Article-7250bdf8669e0a1027.htm": {
    "check_attempts": 1,
@@ -31146,6 +31146,18 @@
    "published_ms": 1790482980000,
    "section": "צבא וביטחון",
    "title": "המהלך של הצבא הגדול בעולם נגד האיום הבליסטי"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-32c08c58f7541a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-32c08c58f7541a1026.htm",
+   "checked_ms": 1792209867452,
+   "content_type": "article",
+   "first_seen_ms": 1792209867452,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792209780000,
+   "section": "",
+   "title": "חשש בישראל: סכום העתק שמרוויח חמאס מהסיוע שנכנס לעזה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-33d946a3b9b21a1026.htm": {
    "check_attempts": 1,
