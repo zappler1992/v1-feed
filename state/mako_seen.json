@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792258048458,
+ "last_run_ms": 1792258348396,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11069,7 +11069,7 @@
    "indexnow_ms": null,
    "published_ms": 1792251720000,
    "section": "ספורט",
-   "title": "\"חרפה\": הפנדל שלא נשרק לרוי רביבו"
+   "title": "לאחר סערת הפנדל: מחוות אלצ`ה לרביבו"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-534d722894421a1026.htm": {
    "check_attempts": 1,
@@ -33690,6 +33690,18 @@
    "published_ms": 1792210620000,
    "section": "",
    "title": "שבת של סתיו: הגשם חוזר, אבל ההתחממות כבר מעבר לפינה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-903fe681dda41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-903fe681dda41a1026.htm",
+   "checked_ms": 1792258348396,
+   "content_type": "article",
+   "first_seen_ms": 1792258348396,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792257840000,
+   "section": "",
+   "title": "החשש בישראל: \"אנחנו עלולים לאבד שליטה בקרוב\""
   },
   "https://www.mako.co.il/special-mako-news/Article-96d3a94bd3211a1026.htm": {
    "check_attempts": 1,
