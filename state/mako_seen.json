@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792246048701,
+ "last_run_ms": 1792246351967,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10197,6 +10197,18 @@
    "section": "ספורט",
    "title": "ההתבטאות הראשונה של הלאנד לאשמה של סיטי"
   },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-e4e0e13fa1a41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792246351967,
+   "content_type": "article",
+   "first_seen_ms": 1792246351967,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792245960000,
+   "section": "ספורט",
+   "title": "בעידוד סיטי: הצעד הבא ב\"מחאת הבננות\""
+  },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-014bd5b45f0e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -11850,6 +11862,18 @@
    "published_ms": 1790859600000,
    "section": "תרבות tvbee",
    "title": "\"ידענו שהמצב חמור, אבל לא ידענו עד כמה\""
+  },
+  "https://www.mako.co.il/culture-articles/Article-d5046af99c341a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792246106825,
+   "content_type": "article",
+   "first_seen_ms": 1792246106825,
+   "indexable": true,
+   "indexnow_ms": 1792246106825,
+   "published_ms": 1792246020000,
+   "section": "הכי חם",
+   "title": "השחקנית משתפת פעולה עם בתה בפעם הראשונה"
   },
   "https://www.mako.co.il/culture-articles/Article-d615ee0f842f0a1026.htm": {
    "check_attempts": 1,
@@ -30425,7 +30449,7 @@
    "indexnow_ms": 1792120351795,
    "published_ms": 1792119600000,
    "section": "דיגיטל",
-   "title": "\"כרגע אני רווקה, והעסק הוא הזוגיות הכי אינטנסיבית שלי\""
+   "title": "בלי עובדים: יהב בנה חברה שמכניסה מיליון דולר בשנה"
   },
   "https://www.mako.co.il/nexter-news/Article-fd11352f2d201a1027.htm": {
    "check_attempts": 1,
