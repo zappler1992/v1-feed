@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-09154216fba41a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-82be642e2fa41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b6c411823fa41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32276,6 +32277,22 @@
    "updated_ms": 1792000380000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-806d2e13a1a31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/ASAF_IRAN_14102026/MASTER/ASAF_IRAN_14102026_M/ASAF_IRAN_14102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-82be642e2fa41a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "\"ניסיתי לבלום את המכות ונפצעתי מהגרזן\": קברניט פליי דובאי בעדות מטלטלת על המאבק במחבל שהציל את המטוס",
+   "duration_s": 47,
+   "first_seen_ms": 1792260145750,
+   "image": "https://img.mako.co.il/2026/10/17/yoav_flydubai_171026_1400_1792259641537_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792259700000,
+   "sections": [],
+   "title": "קברניט פליי דובאי בעדות מטלטלת על המאבק במחבל שהציל את המטוס",
+   "type": "news",
+   "updated_ms": 1792259700000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-82be642e2fa41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/yoav_flydubai_171026/MASTER/yoav_flydubai_171026/yoav_flydubai_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-831ea97201c21a1027.htm": {
    "author": "חדשות",
@@ -65580,6 +65597,24 @@
    "updated_ms": 1791809941000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b4e8adfe03031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_shvil_7200_12102026125645/V1_shvil_7200_12102026125645_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b6c411823fa41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פעוט כבן שנתיים נמצא מחוסר הכרה בבית בבני ברק ופונה במצב קשה לבית החולים שיבא תל השומר",
+   "duration_s": 9,
+   "first_seen_ms": 1792260145750,
+   "image": "https://img.mako.co.il/2026/10/17/V1_KARIND_BNEIBRAK_7442_17102026055853_1400_1792260023611_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792260031000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פעוט כבן שנתיים נמצא מחוסר הכרה בבית בבני ברק ופונה במצב קשה לבית החולים שיבא תל השומר",
+   "type": "mivzakim",
+   "updated_ms": 1792260031000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b6c411823fa41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_KARIND_BNEIBRAK_7442_17102026055853/V1_KARIND_BNEIBRAK_7442_17102026055853_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-b874aa9a44e21a1027.htm": {
    "author": "מבזקים",
