@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-eda33bff03b41a1027.htm"
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-6ab0dca742b41a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf41d9a174b41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8261,6 +8262,22 @@
    "updated_ms": 1792071446000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-101ba3ca4cf31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/inbie_CACTUS_151026/MASTER/inbie_CACTUS_151026/inbie_CACTUS_151026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-6ab0dca742b41a1026.htm": {
+   "author": "תרבות",
+   "date_source": "json-publishDate",
+   "description": "נמס לנו הלב, דניאלה בת ה-4 צילמה את הצעת הנישואין של דודה שלה וזה לגמרי סרטון ההצעה המתוק ביותר",
+   "duration_s": 32,
+   "first_seen_ms": 1792265245886,
+   "image": "https://img.mako.co.il/2026/10/17/inbalpos171026m_1400_1792262756748_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792262763000,
+   "sections": [],
+   "title": "דניאלה בת ה-4 התבקשה לצלם את הצעת הנישואין - וזה הסרטון הכי מתוק שתראו היום",
+   "type": "general",
+   "updated_ms": 1792262763000,
+   "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-6ab0dca742b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/inbalpos171026/MASTER/inbalpos171026m/inbalpos171026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-a0264c3e60541a1026.htm": {
    "author": "תרבות",
@@ -66370,6 +66387,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf03ea2092141a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_tufach_7373_15102026084605/V1_tufach_7373_15102026084605_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf41d9a174b41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בזמן כנס של סמוטריץ' בלוד: צרורות ירי נשמעו באזור האירוע",
+   "duration_s": 5,
+   "first_seen_ms": 1792265245886,
+   "image": "https://img.mako.co.il/2026/10/17/V1_karind_smotrich_7446_17102026072257_1400_1792265041386_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792265048000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בזמן כנס של סמוטריץ' בלוד: צרורות ירי נשמעו באזור האירוע",
+   "type": "mivzakim",
+   "updated_ms": 1792265048000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf41d9a174b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_karind_smotrich_7446_17102026072257/V1_karind_smotrich_7446_17102026072257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cfa01ad48ee31a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -67422,19 +67457,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "גדי איזנקוט עונה לינון מגל: \"הפחד מהפסד חושף את האמת המכוערת שלכם\"",
-   "duration_s": 9,
+   "duration_s": 31,
    "first_seen_ms": 1792264345833,
-   "image": "https://img.mako.co.il/2026/10/17/V1_KARIND_GADI_7445_17102026070518_1400_1792264044297_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/17/fix_gadi_1400_1792264862839_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1792264051000,
    "sections": [
     "מבזקים"
    ],
    "title": "גדי איזנקוט עונה לינון מגל: \"הפחד מהפסד חושף את האמת המכוערת שלכם\"",
    "type": "mivzakim",
-   "updated_ms": 1792264051000,
+   "updated_ms": 1792264860000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-eda33bff03b41a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_KARIND_GADI_7445_17102026070518/V1_KARIND_GADI_7445_17102026070518_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/fix_gadi/fix_gadi_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-ede6df94e8a21a1027.htm": {
    "author": "מבזקים",
