@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5a45e13fa1a41a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-17T14:18:44+00:00</news:publication_date>
+<news:title>המהומות בצרפת: מפגינים עם דגלי פלסטין פרצו לבניין עיריית מארסיי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/17/M_NEWS_17525_17102026021518_1400_1792246717924_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-7892e13fa1a41a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1871,23 +1880,5 @@
 <news:title>מה צריך לעמוד בראש סדר היום? הגענו יחד עם לידור אדמוני לפגוש את הפרלמנט הכי מפורסם בת&quot;א</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/15/M_Tarbut_17407_15102026022626_1400_1792074490931_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a97a9f60def31a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-15T14:19:16+00:00</news:publication_date>
-<news:title>מתקפת טילים של החות&#x27;ים על העיר עדן בתימן, בה יושבת הממשלה - ראש הממשלה והשרים ניצלו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/15/V1_aden_7364_15102026021745_1400_1792073949179_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a627e4493ef31a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-15T14:17:30+00:00</news:publication_date>
-<news:title>נערה בת 13 במצב בינוני לאחר שנפלה מגובה של כ-4 מטרים ברחוב פייגין בחיפה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/15/M_NEWS_17406_15102026021557_1400_1792073843672_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
