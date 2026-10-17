@@ -1,10 +1,6 @@
 {
  "bootstrapped": true,
- "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-d3cbdca742b41a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9ea54d3202b41a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-ac3bdca742b41a1026.htm"
- ],
+ "last_new_urls": [],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -83094,6 +83090,22 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/tv1-magazine/2025-m05_w05/shorts-87ccc51a7531791027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/05/27/NOAB_ZAMER_270525_FIX/NOAB_ZAMER_270525_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2025-m06_w02/shorts-ded477b8e215791027.htm": {
+   "author": "TV1",
+   "date_source": null,
+   "description": "החשיפה הדרמטית של העטלף במסכה - העיתונאי ומגיש הטלוויזיה נדב בורנשטיין הוא זה שהסתתר מתחת למסכה!",
+   "duration_s": 38,
+   "first_seen_ms": 1792263145798,
+   "image": "https://img.mako.co.il/2025/06/08/noam_mize_080625_1400_1749414117032_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": null,
+   "sections": [],
+   "title": "העטלף נחשף!",
+   "type": "general",
+   "updated_ms": null,
+   "url": "https://www.v-1.co.il/tv1-magazine/2025-m06_w02/shorts-ded477b8e215791027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2025/06/08/noam_mize_080625/MASTER/noam_mize_080625/noam_mize_080625_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tv1-magazine/2025-m06_w03/shorts-baaec0044519791026.htm": {
    "author": "TV1",
