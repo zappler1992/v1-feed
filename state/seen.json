@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e793598801031a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5115bd79d4841a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0ee17fb027841a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32677,7 +32676,7 @@
    ],
    "title": "מיליוני ישראלים צפו: טרנד סרטוני הai של נתניהו כבש את הרשת",
    "type": "news",
-   "updated_ms": 1792173214000,
+   "updated_ms": 1792218540000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-fa4133fffc541a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/MAYA_BBAI_161026/MASTER/MAYA_BBAI_161026/MAYA_BBAI_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -88610,6 +88609,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0e0c4a0d2bb21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/V1_karind_solela_7169_11102026040657/V1_karind_solela_7169_11102026040657_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0ee17fb027841a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "שריפות הענק בקליפורניה: התושבים מתעדים את הלהבות האדירות בשכונות המגורים",
+   "duration_s": 59,
+   "first_seen_ms": 1792219646556,
+   "image": "https://img.mako.co.il/2026/10/17/V1_miv_california_7413_17102026064149_1400_1792219425743_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792219433000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "שריפות הענק בקליפורניה: התושבים מתעדים את הלהבות האדירות בשכונות המגורים",
+   "type": "mivzakim",
+   "updated_ms": 1792219433000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-0ee17fb027841a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_miv_california_7413_17102026064149/V1_miv_california_7413_17102026064149_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-1ad7dfaa66631a1027.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -88698,7 +88715,8 @@
    "importance": 0,
    "published_ms": 1792212573000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "להבות ענק מעל הבריכה בבית היוקרתי: תיעוד חדש מהשריפה הענקית בקליפורניה",
    "type": "mivzakim",
@@ -89272,7 +89290,8 @@
    "importance": 0,
    "published_ms": 1792211090000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בת 25 שכבה במים – ונסחפה אל מותה: התיעוד המצמרר מהמפל באינדונזיה",
    "type": "mivzakim",
@@ -89607,7 +89626,8 @@
    "importance": 0,
    "published_ms": 1792211452000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מצר הורמוז? יותר מצר האייפונים: לאחר שנפלו מכשירים אל הים בגלל תקיפה - איראנים תועדו אוספים אותם",
    "type": "mivzakim",
