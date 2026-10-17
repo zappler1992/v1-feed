@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792215448985,
+ "last_run_ms": 1792215749100,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4330,6 +4330,18 @@
    "published_ms": 1790774280000,
    "section": "ספורט",
    "title": "מפתיע: אוליניק קרוב לחתום בקבוצה אירופית"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-01a8c497b5841a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792215749100,
+   "content_type": "article",
+   "first_seen_ms": 1792215749100,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792215540000,
+   "section": "ספורט",
+   "title": "מוכן לעונה: מספרי ההכנה של דני אבדיה"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-1455355455331a1026.htm": {
    "check_attempts": 1,
@@ -33474,6 +33486,18 @@
    "published_ms": 1791484500000,
    "section": "חדשות",
    "title": "האיש שהעיר את נתניהו: \"מה שפורסם לא משקף אפילו חצי\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bd0d62b373741a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-bd0d62b373741a1026.htm",
+   "checked_ms": 1792215627603,
+   "content_type": "article",
+   "first_seen_ms": 1792215627603,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792215480000,
+   "section": "",
+   "title": "ירי בארה\"ב: המורה נאבקה בנער החמוש - ומנעה אסון כבד"
   },
   "https://www.mako.co.il/special-mako-news/Article-bf2378e5bd621a1026.htm": {
    "check_attempts": 1,
