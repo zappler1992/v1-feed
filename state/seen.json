@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2ec827e0f0941a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-955d32b7d8b11a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-36e4e4493ef31a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-20d15ea5d9441a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -981,6 +983,24 @@
    "updated_ms": 1791990000000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w02/shorts-f358b583a1611a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/ACADEMY_OF_LIES_EP10/MASTER/ACADEMY_OF_LIES_EP10/ACADEMY_OF_LIES_EP10_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-36e4e4493ef31a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 12: אשלי ממשיכה ללעוג למיה, אבל ג׳אד מוריד את החולצה שלו כדי לכסות אותה ודורש למחוק את הסרטון המשפיל. הפעם גם מיה לא שותקת: היא מעיפה את הטלפון המצלם, וג׳אד מסלק את אשלי והחברות מחדר המוזיקה. בכיתה, אשלי שוב מנסה לשדר ביטחון, עד ששאלה פשוטה על ההיסטוריה של המחול משאירה אותה בלי תשובה.",
+   "duration_s": 127,
+   "first_seen_ms": 1792227746611,
+   "image": "https://img.mako.co.il/2026/10/15/ACADEMY_OF_LIES_EP12_1400_1792073698584_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792227300000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "בקצב השקר פרק 12: מגן עליה מול כולם",
+   "type": "series",
+   "updated_ms": 1792227300000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-36e4e4493ef31a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/ACADEMY_OF_LIES_EP12/MASTER/ACADEMY_OF_LIES_EP12/ACADEMY_OF_LIES_EP12_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-77268178dbe31a1026.htm": {
    "author": "בקצב השקר",
@@ -22487,6 +22507,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w02/shorts-e77fdf170cb11a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/LOADED_EP56/MASTER/LOADED_EP56/LOADED_EP56_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-20d15ea5d9441a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 62: גיא כבר מסכים לשלם לווסרמן 300 אלף דולר כדי להיפטר ממנו, אבל אז מגיעה התוספת לתפריט: ארוחת ערב עם יעל. החברים מנסים לשכנע את תומר שזה רק דייט, אבל הוא לא מוכן אפילו לשאול אותה. מבחינתו הכבוד שווה 217 מיליון — ואת החשבון שינסו לסגור בבנק.",
+   "duration_s": 160,
+   "first_seen_ms": 1792227746611,
+   "image": "https://img.mako.co.il/2026/10/16/LOADED_EP62_1400_1792153499792_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792227420000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 62: סחיטה עם תוספת דייט",
+   "type": "series",
+   "updated_ms": 1792227420000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-20d15ea5d9441a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/LOADED_EP62/MASTER/LOADED_EP62/LOADED_EP62_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m10_w03/shorts-34079a374ab21a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -23120,6 +23158,24 @@
    "updated_ms": 1791881580000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-7e3b8241f2611a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/07/LOVE_CORNER_EP28/MASTER/LOVE_CORNER_EP28_M/LOVE_CORNER_EP28_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-955d32b7d8b11a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 31: ליאור מספר לעודד על הנשיקה עם אלונה, וכשעודד מנסה להבין לאן זה הולך, ליאור מודה שלא בטוח שהוא בכלל רוצה לעצור. בפיצרייה, אלונה מנסה להבהיר לספק הירקות שגם המשפחה נשארה עם הצרות של נתן, אבל הוא דורש כסף ולוקח את מה שיש למרות מחאתה. כשהיא דורשת שיעזוב, גולן נכנס ושואל מה קורה - והספק מתעקש שחייבים לו כסף.",
+   "duration_s": 123,
+   "first_seen_ms": 1792227746611,
+   "image": "https://img.mako.co.il/2026/10/08/LOVE_CORNER_EP31_M_1400_1791463978478_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792226940000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 31: לא מתכוון לעצור",
+   "type": "series",
+   "updated_ms": 1792226940000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w02/shorts-955d32b7d8b11a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/08/LOVE_CORNER_EP31/MASTER/LOVE_CORNER_EP31_M/LOVE_CORNER_EP31_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
@@ -61508,9 +61564,9 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "המוזיקאי והיוצר ארז הלוי הלך לעולמו בגיל 71",
+   "title": "בגיל 71: האיש מאחורי הלהיט \"כך ברא אותך הטבע\" הלך לעולמו | פרידה מהיוצר ארז הלוי",
    "type": "mivzakim",
-   "updated_ms": 1792227276000,
+   "updated_ms": 1792227360000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2ec827e0f0941a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_erez_7418_17102026085319/V1_erez_7418_17102026085319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -67372,10 +67428,13 @@
    "image": "https://img.mako.co.il/2026/10/12/POLISHUK_EP12_1400_1791808305179_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1791808312000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 12: השר בשידור, הכביש בצרות",
    "type": "series",
-   "updated_ms": 1791808312000,
+   "updated_ms": 1792227000000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e793598801031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP12/MASTER/POLISHUK_EP12/POLISHUK_EP12_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
