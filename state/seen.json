@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd820612bb941a1026.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -89774,6 +89776,24 @@
    "updated_ms": 1792004262000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd232bd7fbb31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_SHIR_PANDA_7338_14102026065610/V1_SHIR_PANDA_7338_14102026065610_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd820612bb941a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המחאה בצרפת יוצאת משליטה: עימותים חריגים בין שוטרים ומפגינים ברחובות מרסיי",
+   "duration_s": 49,
+   "first_seen_ms": 1792241245866,
+   "image": "https://img.mako.co.il/2026/10/17/V1_france_7424_17102026123948_1400_1792240899645_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792240906000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המחאה בצרפת יוצאת משליטה: עימותים חריגים בין שוטרים ומפגינים ברחובות מרסיי",
+   "type": "mivzakim",
+   "updated_ms": 1792240906000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bd820612bb941a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_france_7424_17102026123948/V1_france_7424_17102026123948_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-bddac497b5841a1027.htm": {
    "author": "מבזקים מהעולם",
