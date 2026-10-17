@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f738c3dc66a41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9920140fc5a41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-56cf140fc5a41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -62839,6 +62840,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5602b06693f31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/V1_flyingcarpolice_7356_15102026110720/V1_flyingcarpolice_7356_15102026110720_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-56cf140fc5a41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כשהמפגינים מתחזקים: ידין גלמן נתקע בפריז ונקלע למחאה האלימה מחוץ למלון שלו",
+   "duration_s": 17,
+   "first_seen_ms": 1792250246058,
+   "image": "https://img.mako.co.il/2026/10/17/V1_YADIN_FRANCE_7434_17102026031105_1400_1792249932585_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792249939000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כשהמפגינים מתחזקים: ידין גלמן נתקע בפריז ונקלע למחאה האלימה מחוץ למלון שלו",
+   "type": "mivzakim",
+   "updated_ms": 1792249939000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-56cf140fc5a41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_YADIN_FRANCE_7434_17102026031105/V1_YADIN_FRANCE_7434_17102026031105_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-5826add2c6031a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -64662,6 +64681,24 @@
    "updated_ms": 1791958861000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-98d6e61710931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_hativa_7296_14102026061936/V1_karind_hativa_7296_14102026061936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9920140fc5a41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מחזירים את התקווה\": הפגנות נגד הממשלה בגליל המערבי, חיפה וכרמיאל",
+   "duration_s": 9,
+   "first_seen_ms": 1792250246058,
+   "image": "https://img.mako.co.il/2026/10/17/V1_karind_hafgana_7435_17102026031203_1400_1792250010026_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792250016000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מחזירים את התקווה\": הפגנות נגד הממשלה בגליל המערבי, חיפה וכרמיאל",
+   "type": "mivzakim",
+   "updated_ms": 1792250016000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9920140fc5a41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_karind_hafgana_7435_17102026031203/V1_karind_hafgana_7435_17102026031203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-9969b8749a241a1027.htm": {
    "author": "מבזקים",
