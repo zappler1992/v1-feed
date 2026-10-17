@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-182c183c83b41a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-81af3bff03b41a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f591183c83b41a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-06dcb8d702a41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4646,7 +4646,8 @@
    "importance": 2,
    "published_ms": 1792253078000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "באמצע ההופעה: המעריצה חשפה את החזה - והזמרת לא נשארה חייבת",
    "type": "general",
@@ -11521,6 +11522,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f42eb47799831a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17282_14102026041859/M_Celebs_17282_14102026041859_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f591183c83b41a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "היישר מיפן: הסושי הגיע ל״הזמר במסכה״",
+   "duration_s": 46,
+   "first_seen_ms": 1792264045804,
+   "image": "https://img.mako.co.il/2026/10/17/M_Tarbut_17544_17102026070149_1400_1792263851314_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792263858000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "היישר מיפן: הסושי הגיע ל״הזמר במסכה״",
+   "type": "mivzakim",
+   "updated_ms": 1792263858000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f591183c83b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17544_17102026070149/M_Tarbut_17544_17102026070149_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f5edc132df941a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -17650,7 +17669,8 @@
    "importance": 2,
    "published_ms": 1792243020000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "דרמה בשמיים: דלת המטוס התנתקה באוויר",
    "type": "general",
@@ -31599,6 +31619,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-02821f21cc431a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/alice_131026_water/MASTER/alice_131026_water/alice_131026_water_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-06dcb8d702a41a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 22,
+   "first_seen_ms": 1792264045804,
+   "image": "https://img.mako.co.il/2026/10/17/TALI_HAMAS_171026_1400_1792245363694_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792245370000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "דיווח סעודי: כך ניצל \"יורשו של סינוואר\" מתקיפת צה\"ל",
+   "type": "news",
+   "updated_ms": 1792245370000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-06dcb8d702a41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/TALI_HAMAS_171026/MASTER/TALI_HAMAS_171026/TALI_HAMAS_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-0794a97201c21a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -31749,14 +31787,14 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-182c183c83b41a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "ינון מגל בערוץ 14 בסדרת אמירות גזעניות נגד איזנקוט, יושב ראש מפלגת ישר: ״איזנקוט הוא קוף, מזרחי מרוקאי, אשכנזים מנהלים אותו״.",
    "duration_s": 27,
    "first_seen_ms": 1792263745795,
    "image": "https://img.mako.co.il/2026/10/17/TALI_KOF_171026_1400_1792263540227_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792263548000,
    "sections": [],
-   "title": "",
+   "title": "הגזענות של ינון מגל בערוץ 14: ״איזנקוט הוא קוף, מזרחי\"",
    "type": "news",
    "updated_ms": 1792263548000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-182c183c83b41a1026.htm",
@@ -90417,7 +90455,8 @@
    "importance": 0,
    "published_ms": 1792253607000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הכאוס בפריז: הפורעים מתקרבים לארמון האליזה, משכנו של הנשיא מקרון",
    "type": "mivzakim",
