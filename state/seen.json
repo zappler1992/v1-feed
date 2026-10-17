@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-6ab0dca742b41a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-cf41d9a174b41a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-3586d9a174b41a1026.htm",
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-cee2b84e74b41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9290,6 +9290,24 @@
    "updated_ms": 1792155037000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-34c5674459441a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17469_16102026124903/M_Celebs_17469_16102026124903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-3586d9a174b41a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כמה סטייל: הביצוע הראשון של הפאשניסטה ב״הזמר במסכה״",
+   "duration_s": 51,
+   "first_seen_ms": 1792265845896,
+   "image": "https://img.mako.co.il/2026/10/17/M_Tarbut_17545_17102026072756_1400_1792265451867_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792265458000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כמה סטייל: הביצוע הראשון של הפאשניסטה ב״הזמר במסכה״",
+   "type": "mivzakim",
+   "updated_ms": 1792265458000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-3586d9a174b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17545_17102026072756/M_Tarbut_17545_17102026072756_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-36bdde3fb3331a1026.htm": {
    "author": "עדכוני בידור",
@@ -82233,6 +82251,24 @@
    "updated_ms": 1791803580000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-bad2c25587f21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/biata_ass_1211026/MASTER/biata_ass_1211026/biata_ass_1211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-cee2b84e74b41a1027.htm": {
+   "author": "טכנולוגיה",
+   "date_source": "json-publishDate",
+   "description": "החלום לעוף עולה ביוקר: אילון מאסק חשף את הטסלה המעופפת, שמסוגלת להתרומם מהקרקע באמצעות מערכת אוויר דחוס. המחיר הרשמי עדיין לא פורסם, אך לפי ההערכות הוא עשוי להגיע לחצי מיליון דולר.",
+   "duration_s": 60,
+   "first_seen_ms": 1792265845896,
+   "image": "https://img.mako.co.il/2026/10/17/yoav_tesla_171026_1400_1792265048961_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792265340000,
+   "sections": [
+    "טכנולוגיה"
+   ],
+   "title": "כמה תעלה המכונית המעופפת של מאסק?",
+   "type": "general",
+   "updated_ms": 1792265340000,
+   "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-cee2b84e74b41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/yoav_tesla_171026/MASTER/yoav_tesla_171026/yoav_tesla_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m10_w03/shorts-f93f3ff4dfb31a1026.htm": {
    "author": "טכנולוגיה",
