@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6225276d9c741a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a69e28d16b741a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a3ae28d16b741a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cc9e28d16b741a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -64207,6 +64209,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a627e4493ef31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/M_NEWS_17406_15102026021557/M_NEWS_17406_15102026021557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a69e28d16b741a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צעיר בן 25 שרכב על אופנוע נהרג בהרצליה",
+   "duration_s": 9,
+   "first_seen_ms": 1792211246115,
+   "image": "https://img.mako.co.il/2026/10/17/M_NEWS_17498_17102026041922_1400_1792210843990_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792210851000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צעיר בן 25 שרכב על אופנוע נהרג בהרצליה",
+   "type": "mivzakim",
+   "updated_ms": 1792210851000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a69e28d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/M_NEWS_17498_17102026041922/M_NEWS_17498_17102026041922_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-a71c358de4f21a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -89065,6 +89085,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a263edc76b031a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/V1_karind_losangeles_7216_12102026033116/V1_karind_losangeles_7216_12102026033116_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a3ae28d16b741a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בת 25 שכבה במים – ונסחפה אל מותה: התיעוד המצמרר מהמפל באינדונזיה",
+   "duration_s": 28,
+   "first_seen_ms": 1792211246115,
+   "image": "https://img.mako.co.il/2026/10/17/V1_mapaldor_7405_17102026042330_1400_1792211083001_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792211090000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בת 25 שכבה במים – ונסחפה אל מותה: התיעוד המצמרר מהמפל באינדונזיה",
+   "type": "mivzakim",
+   "updated_ms": 1792211090000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a3ae28d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_mapaldor_7405_17102026042330/V1_mapaldor_7405_17102026042330_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-a8202628c8c21a1027.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -89177,6 +89215,24 @@
    "updated_ms": 1791896187000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-c826fb8674531a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_karind_trump_131026_7258_13102026125412/V1_karind_trump_131026_7258_13102026125412_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cc9e28d16b741a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עשרות מיליונים עולים בלהבות: תיעוד מהשריפה הענקית בקליפורניה בשכונת היוקרה",
+   "duration_s": 24,
+   "first_seen_ms": 1792211246115,
+   "image": "https://img.mako.co.il/2026/10/17/V1_fireklifo_7404_17102026042050_1400_1792210935473_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792210943000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עשרות מיליונים עולים בלהבות: תיעוד מהשריפה הענקית בקליפורניה בשכונת היוקרה",
+   "type": "mivzakim",
+   "updated_ms": 1792210943000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cc9e28d16b741a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_fireklifo_7404_17102026042050/V1_fireklifo_7404_17102026042050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-cebb22829d031a1027.htm": {
    "author": "מבזקים מהעולם",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792210948904,
+ "last_run_ms": 1792211248976,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33198,6 +33198,18 @@
    "published_ms": 1791975060000,
    "section": "",
    "title": "דורש 3 מיליון שקלים: הצעד של רונן בר נגד נתניהו"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8e35af2b6d641a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-science/2026_q4/Article-8e35af2b6d641a1026.htm",
+   "checked_ms": 1792211187350,
+   "content_type": "article",
+   "first_seen_ms": 1792211187350,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792210620000,
+   "section": "",
+   "title": "התחזית: היום גשם בצפון ובמרכז, מחר צפויה התחממות"
   },
   "https://www.mako.co.il/special-mako-news/Article-96d3a94bd3211a1026.htm": {
    "check_attempts": 1,
