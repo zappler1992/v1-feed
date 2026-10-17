@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-38bc31738a841a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-d12a31738a841a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-63f90c0e1a841a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f3ae7fb027841a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-e0ecc497b5841a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4984,6 +4983,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-df0cdb2641041a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/rinat_pnina_151026/MASTER/rinat_pnina_151026_m/rinat_pnina_151026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-e0ecc497b5841a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "מגישת החדשות יונית לוי שיתפה ברשתות החברתיות שלה סרטון נוסטלגי מלפני עשור, מבחירות 2006 בתשדיר של ערוץ 2. בסרטון רואים את לוי נוסעת על טרקטור בשדה ומנופפת לאנשים. \"כן, זו אני. אתם בטח תוהים איך הגעתי למצב הזה\" כתה לוי על הפוסט ששיתפה.",
+   "duration_s": 20,
+   "first_seen_ms": 1792222046402,
+   "image": "https://img.mako.co.il/2026/10/17/alona_yonit_m_171026_1400_1792216993335_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792217008000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "יונית לוי על טרקטור בשדה? תשדיר הבחירות מלפני עשור",
+   "type": "general",
+   "updated_ms": 1792217008000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-e0ecc497b5841a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/alona_yonit_171026/MASTER/alona_yonit_m_171026/alona_yonit_m_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-e2b8f7ffd1531a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -7075,6 +7092,24 @@
    "updated_ms": 1791705571000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-eb93121f3f921a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/11/ELLANFIXM1/ELLANFIXM1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f3ae7fb027841a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "עדיין מעניינת: בריטני קפצה לקפה בניו יורק ולא הצליחה להתחמק מהצלמים",
+   "duration_s": 14,
+   "first_seen_ms": 1792222046402,
+   "image": "https://img.mako.co.il/2026/10/17/V1_britnidor_7411_17102026062100_1400_1792218145151_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792218152000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "עדיין מעניינת: בריטני קפצה לקפה בניו יורק ולא הצליחה להתחמק מהצלמים",
+   "type": "mivzakim",
+   "updated_ms": 1792218152000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f3ae7fb027841a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_britnidor_7411_17102026062100/V1_britnidor_7411_17102026062100_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f95c0a5167931a1027.htm": {
    "author": "מבזקי סלבס",
