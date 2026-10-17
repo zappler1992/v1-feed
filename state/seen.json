@@ -1,6 +1,9 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8af6dca742b41a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f2b6dca742b41a1026.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -11481,6 +11484,24 @@
    "updated_ms": 1792143418000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f0463398ef341a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17457_16102026093406/M_Tarbut_17457_16102026093406_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f2b6dca742b41a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "המסכה הראשונה של הערב: תכירו את העוף המוזר",
+   "duration_s": 51,
+   "first_seen_ms": 1792263445812,
+   "image": "https://img.mako.co.il/2026/10/17/M_Tarbut_17536_17102026065146_1400_1792263257358_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792263264000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "המסכה הראשונה של הערב: תכירו את העוף המוזר",
+   "type": "mivzakim",
+   "updated_ms": 1792263264000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f2b6dca742b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17536_17102026065146/M_Tarbut_17536_17102026065146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-f42eb47799831a1026.htm": {
    "author": "עדכוני בידור",
@@ -64636,6 +64657,24 @@
    "updated_ms": 1791984373000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8ad1612488a31a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/M_NEWS_17332_14102026012435/M_NEWS_17332_14102026012435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8af6dca742b41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רעולי פנים, נשק אוטומטי וצרורות באמצע היום: תיעוד הירי בסח'נין - על רקע גל האלימות בחברה הערבית",
+   "duration_s": 19,
+   "first_seen_ms": 1792263445812,
+   "image": "https://img.mako.co.il/2026/10/17/V1_karind_sahnin_7444_17102026065258_1400_1792263259979_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792263267000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רעולי פנים, נשק אוטומטי וצרורות באמצע היום: תיעוד הירי בסח'נין - על רקע גל האלימות בחברה הערבית",
+   "type": "mivzakim",
+   "updated_ms": 1792263267000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8af6dca742b41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_karind_sahnin_7444_17102026065258/V1_karind_sahnin_7444_17102026065258_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-8bf5fcda19041a1026.htm": {
    "author": "מבזקים",
