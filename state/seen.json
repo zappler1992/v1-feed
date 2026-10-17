@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-fe38bb501ca41a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-d1284216fba41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d7b2bb501ca41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -66503,6 +66502,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d796d1ab63331a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17220_13102026034024/M_NEWS_17220_13102026034024_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d7b2bb501ca41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נעצרו 16 שוהים בלתי חוקיים אשר שהו בדירה בדרום תל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1792256846606,
+   "image": "https://img.mako.co.il/2026/10/17/M_NEWS_17534_17102026050232_1400_1792256632433_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792256638000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נעצרו 16 שוהים בלתי חוקיים אשר שהו בדירה בדרום תל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1792256638000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d7b2bb501ca41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/M_NEWS_17534_17102026050232/M_NEWS_17534_17102026050232_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-d80b02a395531a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -89792,7 +89809,8 @@
    "importance": 0,
    "published_ms": 1792248226000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הכאוס במרסיי: המחאה יוצאת משליטה, וגוברת הקריאות להפעלת הצבא",
    "type": "mivzakim",
@@ -90023,7 +90041,8 @@
    "importance": 0,
    "published_ms": 1792235521000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "זיקוקים באוויר ואלפי שוטרים: ההפגנות בפריז חודשו | עשרות כבר נעצרו",
    "type": "mivzakim",
