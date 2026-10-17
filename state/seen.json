@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-4577e7d28d941a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a6cc132df941a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-335cc132df941a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -61788,6 +61789,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-333d86a334531a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/V1_yemandor_7256_13102026123942/V1_yemandor_7256_13102026123942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-335cc132df941a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פריז: המפגינים מניפים את הדגל הפלסטיני על פסל החירות בכיכר הרפובליקה",
+   "duration_s": 9,
+   "first_seen_ms": 1792243345946,
+   "image": "https://img.mako.co.il/2026/10/17/M_NEWS_17521_17102026011752_1400_1792243140780_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792243148000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פריז: המפגינים מניפים את הדגל הפלסטיני על פסל החירות בכיכר הרפובליקה",
+   "type": "mivzakim",
+   "updated_ms": 1792243148000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-335cc132df941a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/M_NEWS_17521_17102026011752/M_NEWS_17521_17102026011752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-341cde3fb3331a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -63365,6 +63384,24 @@
    "updated_ms": 1791965280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a42468825931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/fix_safsal/fix_safsal_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a6cc132df941a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר נפצע מירי בנתניה. המשטרה פתחה בחקירה",
+   "duration_s": 9,
+   "first_seen_ms": 1792243345946,
+   "image": "https://img.mako.co.il/2026/10/17/M_NEWS_17522_17102026011828_1400_1792243183095_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792243189000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר נפצע מירי בנתניה. המשטרה פתחה בחקירה",
+   "type": "mivzakim",
+   "updated_ms": 1792243189000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6a6cc132df941a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/M_NEWS_17522_17102026011828/M_NEWS_17522_17102026011828_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-6b1402ed7fb21a1027.htm": {
    "author": "מבזקים",
