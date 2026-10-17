@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-f738c3dc66a41a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-17T15:07:42+00:00</news:publication_date>
+<news:title>״נגד עמנואל ובריז׳יט מקרון״: רחובות פריז בוערים</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/17/M_NEWS_17527_17102026030543_1400_1792249655697_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-3fbaeb29b4a41a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1826,14 +1835,5 @@
 <news:title>הנסיך הארי ומייגן מרקל הגיעו לאירוע הרשמי הראשון שלהם בנוטינגהאם מאז שחזרו להתגוורר בבריטניה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/15/M_Celebs_17413_15102026032534_1400_1792078058923_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w03/shorts-62dfdb2641041a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-15T15:11:22+00:00</news:publication_date>
-<news:title>גברי בנאי בן ה-87 פותח את הלב ב&quot;מי רוצה להתחיל&quot;: &quot;שתיתי הרבה, הלכתי לטיפול&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/15/M_Tarbut_17412_15102026030944_1400_1792077075489_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
