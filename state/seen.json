@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1ab258cf5051a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fe0d258cf5051a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7381,7 +7381,9 @@
    "image": "https://img.mako.co.il/2026/10/18/V1_IRIT_7487_18102026040118_1400_1792339381082_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792339388000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "\"מישהו הרביץ לי\": אירית רחמים נקלעה ללב המהומות בפריז - והותקפה",
    "type": "mivzakim",
    "updated_ms": 1792341420000,
@@ -12694,6 +12696,24 @@
    "updated_ms": 1792307938000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17585_18102026071739/M_Celebs_17585_18102026071739_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fe0d258cf5051a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"משהו בארוחה הרגיש לי שתלטני\": גיה באר גורביץ' נגד טקס הקקאו שערכו אברי גלעד ואילון נופר בארוחה שלהם",
+   "duration_s": 89,
+   "first_seen_ms": 1792351345851,
+   "image": "https://img.mako.co.il/2026/10/18/M_Tarbut_17633_18102026070325_1400_1792350406396_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792350413000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"משהו בארוחה הרגיש לי שתלטני\": גיה באר גורביץ' נגד טקס הקקאו שערכו אברי גלעד ואילון נופר בארוחה שלהם",
+   "type": "mivzakim",
+   "updated_ms": 1792350413000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fe0d258cf5051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17633_18102026070325/M_Tarbut_17633_18102026070325_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -69414,18 +69434,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2a952b4765051a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "מטוס שהמריא מישראל לווינה נחת בבולגריה בשל דיווח על חפץ חשוד",
+   "description": "מטוס שהמריא מישראל לווינה נחת בבולגריה בשל דיווח אנונימי על פצצה",
    "duration_s": 9,
    "first_seen_ms": 1792350145807,
    "image": "https://img.mako.co.il/2026/10/18/V1_MATOS_7491_18102026065729_1400_1792349945567_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792349951000,
    "sections": [
     "מבזקים"
    ],
-   "title": "מטוס שהמריא מישראל לווינה נחת בבולגריה בשל דיווח על חפץ חשוד",
+   "title": "מטוס שהמריא מישראל לווינה נחת בבולגריה בשל דיווח אנונימי על פצצה",
    "type": "mivzakim",
-   "updated_ms": 1792349951000,
+   "updated_ms": 1792351080000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2a952b4765051a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_MATOS_7491_18102026065729/V1_MATOS_7491_18102026065729_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
