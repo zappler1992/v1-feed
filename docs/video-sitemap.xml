@@ -109,6 +109,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -157,6 +158,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -336,6 +338,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-b63c063792051a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/18/FIX_SHIRA_AIZENKOT_181026_M_1400_1792347841886_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>לאחר הסערה: סרטון של איזנקוט בדמות קוף הופץ על ידי פעיל ליכוד</video:title>
+<video:description>לאחר הנאום של ינון מגל בו הוא קרא לגדי איינזקוט &quot;קוף שמופעל על ידי אשכנזים&quot; פעיל הליכוד רמי בן יהודה הפיץ סרטון שהפך את הרמטכ&quot;ל לשעבר ממש לקוף.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/FIX_SHIRA_AIZENKOT_181026_M/FIX_SHIRA_AIZENKOT_181026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>26</video:duration>
+<video:publication_date>2026-10-18T18:07:09+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
