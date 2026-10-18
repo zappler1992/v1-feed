@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-eb41724176051a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d814258cf5051a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9655f28308051a1027.htm",
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w04/shorts-b0db2b4765051a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12536,6 +12536,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9059120eaae41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17602_18102026110035/M_Celebs_17602_18102026110035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9655f28308051a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ז'אן-קלוד ואן דאם חגג היום 66, וכיבה את הנר באופן טיפוסי",
+   "duration_s": 8,
+   "first_seen_ms": 1792352845797,
+   "image": "https://img.mako.co.il/2026/10/18/M_Tarbut_17635_18102026073822_1400_1792352372310_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792352378000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ז'אן-קלוד ואן דאם חגג היום 66, וכיבה את הנר באופן טיפוסי",
+   "type": "mivzakim",
+   "updated_ms": 1792352378000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9655f28308051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17635_18102026073822/M_Tarbut_17635_18102026073822_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a0ff2c6773d41a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13292,6 +13310,24 @@
    "updated_ms": 1791968880000,
    "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w03/shorts-999b4ceb31931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_karind_bus_141026_7297_14102026062317/V1_karind_bus_141026_7297_14102026062317_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w04/shorts-b0db2b4765051a1026.htm": {
+   "author": "סרטונים מהירים",
+   "date_source": "json-publishDate",
+   "description": "\"מה יגיד לעצמו ילד בפריפריה\": קרן מראצינו נגד האמירה של ינון מגל",
+   "duration_s": 29,
+   "first_seen_ms": 1792352845797,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KERENM_7490_18102026064746_1400_1792349392497_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792349399000,
+   "sections": [
+    "הפרשנים"
+   ],
+   "title": "\"מה יגיד לעצמו ילד בפריפריה\": קרן מראצינו נגד האמירה של ינון מגל",
+   "type": "mivzakim",
+   "updated_ms": 1792349399000,
+   "url": "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w04/shorts-b0db2b4765051a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KERENM_7490_18102026064746/V1_KERENM_7490_18102026064746_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2025-m05_w04/shorts-8f181379998e691026.htm": {
    "author": "אוכל",
