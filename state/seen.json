@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9059120eaae41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2ec8120eaae41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c64fcf6fb9e41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2f3587ff5be41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b38087ff5be41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5249,8 +5248,10 @@
    "image": "https://img.mako.co.il/2026/10/18/SHIR_MAOR_181026_FIX_1400_1792319292827_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792319180000,
-   "sections": [],
-   "title": "עשרות אלפי שקלים: פריצה למסעדה של הכוכב",
+   "sections": [
+    "סלבס"
+   ],
+   "title": "פרץ למסעדה של הכוכב הישראלי: הדרמה בת\"א",
    "type": "general",
    "updated_ms": 1792319280000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-3885556a08e41a1026.htm",
@@ -68847,6 +68848,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-281f021c73e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17591_18102026085554/M_NEWS_17591_18102026085554_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2f3587ff5be41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בית הימורים ובית בושת נחשפו בחיפה, מעל 100 אלף שקל נתפסו ושלושה חשודים נעצרו",
+   "duration_s": 62,
+   "first_seen_ms": 1792322846272,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17603_18102026112147_1400_1792322632074_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792322638000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בית הימורים ובית בושת נחשפו בחיפה, מעל 100 אלף שקל נתפסו ושלושה חשודים נעצרו",
+   "type": "mivzakim",
+   "updated_ms": 1792322638000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2f3587ff5be41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17603_18102026112147/M_NEWS_17603_18102026112147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-30c19e961fd41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -69152,6 +69171,24 @@
    "updated_ms": 1792317039000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MABUL_7473_18102026094916/V1_KARIND_MABUL_7473_18102026094916_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b38087ff5be41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד: דם נלקח ממטופלים בביה\"ח קפלן לצורך ביצוע מחקר - ללא ידיעתם",
+   "duration_s": 9,
+   "first_seen_ms": 1792322846272,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_KAPLAN_7477_18102026111744_1400_1792322379070_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792322386000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד: דם נלקח ממטופלים בביה\"ח קפלן לצורך ביצוע מחקר - ללא ידיעתם",
+   "type": "mivzakim",
+   "updated_ms": 1792322386000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b38087ff5be41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_KAPLAN_7477_18102026111744/V1_KARIND_KAPLAN_7477_18102026111744_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b5aff70eded41a1027.htm": {
    "author": "מבזקים",
