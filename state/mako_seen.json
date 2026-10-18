@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792293449204,
+ "last_run_ms": 1792293748525,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28541,6 +28541,18 @@
    "section": "",
    "title": "רכב התפוצץ בשכונת ארמון הנציב בירושלים, 2 פצועים בזירה"
   },
+  "https://www.mako.co.il/news-law/2026_q4/Article-d867ea38ecb41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792293748525,
+   "content_type": "article",
+   "first_seen_ms": 1792293748525,
+   "indexable": true,
+   "indexnow_ms": 1792293748525,
+   "published_ms": 1792293660000,
+   "section": "חדשות",
+   "title": "האלימות משתוללת: בן 17 נרצח בדקירות באשקלון"
+  },
   "https://www.mako.co.il/news-military/2026_q3/Article-0968581a69ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29464,6 +29476,18 @@
    "published_ms": 1791084960000,
    "section": "ספורט",
    "title": "צפו. יחי המלכה החדשה: סילבה זכתה באליפות"
+  },
+  "https://www.mako.co.il/news-sport/sports_others-2026_q4/Article-bedeb8ef2ec41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792293748525,
+   "content_type": "article",
+   "first_seen_ms": 1792293748525,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792293480000,
+   "section": "ספורט",
+   "title": "צפו בטירוף: נוקאאוט בברכית אכזרית ב-UFC"
   },
   "https://www.mako.co.il/news-sport/sports_others-2026_q4/Article-f378836a8b531a1026.htm": {
    "check_attempts": 1,
