@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0691127280d41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31959,7 +31959,7 @@
    ],
    "title": "הגזענות של ינון מגל בערוץ 14: ״איזנקוט הוא קוף, מזרחי\"",
    "type": "news",
-   "updated_ms": 1792263548000,
+   "updated_ms": 1792296060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-182c183c83b41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/TALI_KOF_171026/MASTER/TALI_KOF_171026/TALI_KOF_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -68140,6 +68140,24 @@
    "updated_ms": 1792294516000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-361d127280d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17556_18102026033319/M_NEWS_17556_18102026033319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גשם צפוי לרדת היום בצפון ובמישור החוף: צפו בתחזית המלאה",
+   "duration_s": 53,
+   "first_seen_ms": 1792296446610,
+   "image": "https://img.mako.co.il/2026/10/18/V1_WEATHER_7450_18102026035955_1400_1792296086472_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792296093000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גשם צפוי לרדת היום בצפון ובמישור החוף: צפו בתחזית המלאה",
+   "type": "mivzakim",
+   "updated_ms": 1792296093000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_WEATHER_7450_18102026035955/V1_WEATHER_7450_18102026035955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
