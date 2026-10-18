@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-959a899558d41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6800ddcf99d41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5211,7 +5212,8 @@
    "importance": 2,
    "published_ms": 1792299650000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי Vיראלים"
    ],
    "title": "הודחה ראשונה: זמרת הענק שהסתתרה בתוך תחפושת הברבור השאירה את השופטים בהלם",
    "type": "general",
@@ -11972,6 +11974,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-27b17e2915d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17565_18102026045817/M_Tarbut_17565_18102026045817_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות",
+   "duration_s": 71,
+   "first_seen_ms": 1792305146013,
+   "image": "https://img.mako.co.il/2026/10/18/M_Music_17583_18102026062717_1400_1792304937128_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792304943000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות",
+   "type": "mivzakim",
+   "updated_ms": 1792304943000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17583_18102026062717/M_Music_17583_18102026062717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2d7351a993d41a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -12061,6 +12081,24 @@
    "updated_ms": 1792299422000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-669251a993d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17564_18102026045548/M_Tarbut_17564_18102026045548_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6800ddcf99d41a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כשידין גלמן מצלם אותה: אדוה דדון מנסה לדווח מהמהומות בפריז",
+   "duration_s": 60,
+   "first_seen_ms": 1792305146013,
+   "image": "https://img.mako.co.il/2026/10/18/M_Celebs_17582_18102026061044_1400_1792303935478_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792303942000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כשידין גלמן מצלם אותה: אדוה דדון מנסה לדווח מהמהומות בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1792303942000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6800ddcf99d41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17582_18102026061044/M_Celebs_17582_18102026061044_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm": {
    "author": "עדכוני בידור",
@@ -33388,7 +33426,9 @@
    "image": "https://img.mako.co.il/2026/10/17/TALI_BIBI_171026_1400_1792262347534_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792262355000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "פליטת הפה של נתניהו - בשידור חי: \"החרדים\" במקום \"התומכים שלנו\"",
    "type": "news",
    "updated_ms": 1792300560000,
@@ -68504,6 +68544,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/kotarotfix/kotarotfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אותרו בתא המטען: לוחמי מג\"ב עצרו ארבעה שוהים בלתי חוקיים במעבר א-זעיים שממזרח לירושלים",
+   "duration_s": 14,
+   "first_seen_ms": 1792305146013,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_MAGAV_7455_18102026062710_1400_1792304905371_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792304912000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אותרו בתא המטען: לוחמי מג\"ב עצרו ארבעה שוהים בלתי חוקיים במעבר א-זעיים שממזרח לירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1792304912000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MAGAV_7455_18102026062710/V1_KARIND_MAGAV_7455_18102026062710_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
    "date_source": null,
@@ -91873,7 +91931,8 @@
    "importance": 0,
    "published_ms": 1792298451000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הוצת במהלך הפגנות: מבנה העירייה ההיסטורי של לימוז' בצרפת, בן ה-143, עלה באש",
    "type": "mivzakim",

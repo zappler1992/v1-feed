@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/18/M_Music_17583_18102026062717_1400_1792304937128_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות</video:title>
+<video:description>סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17583_18102026062717/M_Music_17583_18102026062717_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>71</video:duration>
+<video:publication_date>2026-10-18T06:29:03+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/18/V1_KARIND_MAGAV_7455_18102026062710_1400_1792304905371_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אותרו בתא המטען: לוחמי מג&quot;ב עצרו ארבעה שוהים בלתי חוקיים במעבר א-זעיים שממזרח לירושלים</video:title>
+<video:description>אותרו בתא המטען: לוחמי מג&quot;ב עצרו ארבעה שוהים בלתי חוקיים במעבר א-זעיים שממזרח לירושלים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MAGAV_7455_18102026062710/V1_KARIND_MAGAV_7455_18102026062710_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>14</video:duration>
+<video:publication_date>2026-10-18T06:28:32+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6800ddcf99d41a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/18/M_Celebs_17582_18102026061044_1400_1792303935478_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כשידין גלמן מצלם אותה: אדוה דדון מנסה לדווח מהמהומות בפריז</video:title>
+<video:description>כשידין גלמן מצלם אותה: אדוה דדון מנסה לדווח מהמהומות בפריז</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17582_18102026061044/M_Celebs_17582_18102026061044_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>60</video:duration>
+<video:publication_date>2026-10-18T06:12:22+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/18/M_Tarbut_17580_18102026054651_1400_1792302472895_FirstFrame.jpg</video:thumbnail_loc>
@@ -176,6 +224,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי Vיראלים</video:tag>
 </video:video>
 </url>
 <url>
@@ -304,6 +353,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -786,6 +836,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
