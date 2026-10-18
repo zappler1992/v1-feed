@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-5c04127280d41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -68177,6 +68177,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_WEATHER_7450_18102026035955/V1_WEATHER_7450_18102026035955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלה חמש הכותרות החשובות של הבוקר",
+   "duration_s": 47,
+   "first_seen_ms": 1792297645910,
+   "image": "https://img.mako.co.il/2026/10/18/V1_koatrot_7451_18102026042343_1400_1792297503899_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792297511000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלה חמש הכותרות החשובות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1792297511000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_koatrot_7451_18102026042343/V1_koatrot_7451_18102026042343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
    "date_source": null,
@@ -79795,7 +79813,8 @@
    "published_ms": 1791817680000,
    "sections": [
     "מVינים חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מVינים בחירות: מי לא נותן לנתניהו לשכוח את הרגע המביך",
    "type": "general",
@@ -90222,7 +90241,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים השבוע"
    ],
    "title": "שריפות הענק בקליפורניה: התושבים מתעדים את הלהבות האדירות בשכונות המגורים",
    "type": "mivzakim",
