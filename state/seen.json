@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4632,7 +4632,7 @@
    ],
    "title": "עינת ארליך משתפת על טיפולי ההקרנות: \"שגרה חדשה\"",
    "type": "general",
-   "updated_ms": 1792269135000,
+   "updated_ms": 1792307400000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-2a2f0eac48b41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/TALI_EINAT_171026/MASTER/TALI_ERLICH_171026/TALI_ERLICH_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -68595,6 +68595,24 @@
    "updated_ms": 1792307172000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_HASHMAL_7459_18102026070442/V1_KARIND_HASHMAL_7459_18102026070442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הגיע הזמן להוציא את המטריות: הגשם הגיע לתל אביב",
+   "duration_s": 8,
+   "first_seen_ms": 1792307846040,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_rain_181026_7460_18102026071200_1400_1792307586051_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792307592000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הגיע הזמן להוציא את המטריות: הגשם הגיע לתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1792307592000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_rain_181026_7460_18102026071200/V1_karind_rain_181026_7460_18102026071200_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2092cdbcbd41a1026.htm": {
    "author": "מבזקים",

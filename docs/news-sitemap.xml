@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-18T07:13:12+00:00</news:publication_date>
+<news:title>הגיע הזמן להוציא את המטריות: הגשם הגיע לתל אביב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_karind_rain_181026_7460_18102026071200_1400_1792307586051_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2078,14 +2087,5 @@
 <news:title>קשת בנוף הפסטרולי של הצפון בטיילת אכזיב</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/16/M_NEWS_17450_16102026071624_1400_1792135068593_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-62285cf9c7341a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-16T07:15:00+00:00</news:publication_date>
-<news:title>שבועיים אחרי טיסת פליי דובאי: יותר מ-100 נוסעים מתארגנים להגשת ענק נגד החברה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/16/rinat_flydubai_161026_m_1400_1792133759483_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
