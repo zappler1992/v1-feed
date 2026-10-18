@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-77f581550bd41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ecda60531e41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-924e1a2921e41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -68628,6 +68629,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_WEATHER_7450_18102026035955/V1_WEATHER_7450_18102026035955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ecda60531e41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ישראלים מתעדים את ההרס ברחובות פריז בבוקר שאחרי",
+   "duration_s": 21,
+   "first_seen_ms": 1792311746069,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17590_18102026081652_1400_1792311474251_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792311481000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ישראלים מתעדים את ההרס ברחובות פריז בבוקר שאחרי",
+   "type": "mivzakim",
+   "updated_ms": 1792311481000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ecda60531e41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17590_18102026081652/M_NEWS_17590_18102026081652_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -68663,6 +68682,24 @@
    "updated_ms": 1792309020000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66e54acd8cd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_hasimot_7458_18102026065824/V1_karind_hasimot_7458_18102026065824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-924e1a2921e41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שעה לאחר שאחיו נתפס עם אקדח: בן 13 נתפס נוהג על אופנוע ביישוב כאבול בצפון",
+   "duration_s": 9,
+   "first_seen_ms": 1792311746069,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17589_18102026081627_1400_1792311453040_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792311459000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שעה לאחר שאחיו נתפס עם אקדח: בן 13 נתפס נוהג על אופנוע ביישוב כאבול בצפון",
+   "type": "mivzakim",
+   "updated_ms": 1792311459000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-924e1a2921e41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17589_18102026081627/M_NEWS_17589_18102026081627_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm": {
    "author": "מבזקים",
