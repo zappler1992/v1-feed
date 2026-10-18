@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9ac2a4e7051a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12499,6 +12499,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-81853c75fbf41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17626_18102026041140/M_Tarbut_17626_18102026041140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כשיש לך אפצ׳י באמצע הופעה",
+   "duration_s": 15,
+   "first_seen_ms": 1792354345982,
+   "image": "https://img.mako.co.il/2026/10/18/M_Music_17636_18102026075148_1400_1792353175565_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792353182000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כשיש לך אפצ׳י באמצע הופעה",
+   "type": "mivzakim",
+   "updated_ms": 1792353182000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17636_18102026075148/M_Music_17636_18102026075148_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8ad9a0d175e41a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -12682,7 +12700,7 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d814258cf5051a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "\"קפץ למרפסת שלי והשאיר לי פרחים בזמן שהייתי עם מאהב אחר\": אילון נופר מספרת על היחסים שלא צלחו עם אבר",
+   "description": "\"קפץ למרפסת שלי והשאיר לי פרחים בזמן שהייתי עם מאהב אחר\": אילון נופר מספרת על היחסים עם אברי",
    "duration_s": 66,
    "first_seen_ms": 1792351646013,
    "image": "https://img.mako.co.il/2026/10/18/M_Tarbut_17634_18102026072007_1400_1792351421508_FirstFrame.jpg",
@@ -12691,7 +12709,7 @@
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "\"קפץ למרפסת שלי והשאיר לי פרחים בזמן שהייתי עם מאהב אחר\": אילון נופר מספרת על היחסים שלא צלחו עם אבר",
+   "title": "\"קפץ למרפסת שלי והשאיר לי פרחים בזמן שהייתי עם מאהב אחר\": אילון נופר מספרת על היחסים עם אברי",
    "type": "mivzakim",
    "updated_ms": 1792351427000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d814258cf5051a1027.htm",
@@ -69925,7 +69943,8 @@
    "importance": 1,
    "published_ms": 1792344997000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "השר יצחק וסרלאוף (עוצמה יהודית) הגיע עם בנו בן ה-6 ימים לקופת החולים - וחטף צעקות",
    "type": "mivzakim",
