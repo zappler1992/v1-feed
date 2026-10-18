@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2f3587ff5be41a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b38087ff5be41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-04eb3a00bde41a1027.htm",
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-7410a0d175e41a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-861ddae57ae41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18399,6 +18400,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-f7927e9bf6a31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Motorcycle_14102026/MASTER/Kim_Motorcycle_14102026/Kim_Motorcycle_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-861ddae57ae41a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד ויראלי חדש של דונלד טראמפ מפספס את דלת הלימוזינה הנשיאותית ונזקק להכוונת מאבטחים הצית סערה ברשת  כשגולשים רבים מכתירים את האירוע כ\"צעדת הדמנציה\". הסרטון קיבל חיזוק ממאמר וראיון של ד\"ר הנרי דיוויד אברהם - פסיכיאטר וחתן פרס נובל שהזהיר כי טראמפ מציג תסמינים מובהקים של הידרדרות קוגניטיבית. לדבריו, אובדן השליטה בדחפים ובשפה מעיד על תהליך דמנציה מתקדם, שמציב סכנה ממשית בניהול משברים וביטחון לאומי.",
+   "duration_s": 44,
+   "first_seen_ms": 1792324646322,
+   "image": "https://img.mako.co.il/2026/10/18/rinat_trump_181026_m_1400_1792321418433_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792321425000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "התיעוד המדאיג של טראמפ: \"סימן לדמנציה\"",
+   "type": "general",
+   "updated_ms": 1792321425000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-861ddae57ae41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/rinat_trump_181026/MASTER/rinat_trump_181026_m/rinat_trump_181026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
    "date_source": null,
@@ -21731,6 +21750,24 @@
    "updated_ms": 1791793703000,
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w03/shorts-32ace75483f21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/rinat_whatsapp_121026/MASTER/rinat_whatsapp_121026_m/rinat_whatsapp_121026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-7410a0d175e41a1026.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792324646322,
+   "image": "https://img.mako.co.il/2026/10/18/SHIR_DAN_181026_FIX_1400_1792318756797_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792316466000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "המהלך של עלי אקספרס לישראלים - רגע לפני הסיילים",
+   "type": "general",
+   "updated_ms": 1792318740000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-7410a0d175e41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_DAN_181026_FIX/SHIR_DAN_181026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/living_healthy-magazine/2025-m07_w03/shorts-5251f6336830891026.htm": {
    "author": "חיים בריא",
@@ -68775,6 +68812,24 @@
    "updated_ms": 1791878837000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fe009cbb84431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17239_13102026080549/M_NEWS_17239_13102026080549_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-04eb3a00bde41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צוותי הרפואה של איחוד הצלה העניקו סיוע ראשוני לגבר ואשה בגילאי 50 שנפצעו קל כתוצאה מתאונה עצמית (התנ",
+   "duration_s": 9,
+   "first_seen_ms": 1792324646322,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17604_18102026115344_1400_1792324512110_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792324518000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צוותי הרפואה של איחוד הצלה העניקו סיוע ראשוני לגבר ואשה בגילאי 50 שנפצעו קל כתוצאה מתאונה עצמית (התנ",
+   "type": "mivzakim",
+   "updated_ms": 1792324518000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-04eb3a00bde41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17604_18102026115344/M_NEWS_17604_18102026115344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0691127280d41a1027.htm": {
    "author": "מבזקים",
