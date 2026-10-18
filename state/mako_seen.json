@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792325249143,
+ "last_run_ms": 1792325550096,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21953,6 +21953,18 @@
    "section": "HIX",
    "title": "\"הם חטפו אותי, והם הולכים להרוג אותי\""
   },
+  "https://www.mako.co.il/hix-special/Article-fce9fad87ee41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792325550096,
+   "content_type": "article",
+   "first_seen_ms": 1792325550096,
+   "indexable": true,
+   "indexnow_ms": 1792325550096,
+   "published_ms": 1792325400000,
+   "section": "HIX",
+   "title": "המורה שיתפה מם אנטישמי של מסי – ועוררה זעם"
+  },
   "https://www.mako.co.il/hix-special/Article-fdded5d24aed0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30676,6 +30688,18 @@
    "published_ms": 1790315220000,
    "section": "הכי חם",
    "title": "סומכים על התשובות מהצ'אט? כדאי שתתחילו לפקפק"
+  },
+  "https://www.mako.co.il/nexter-news/Article-2430bf6c3ce41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792325550096,
+   "content_type": "article",
+   "first_seen_ms": 1792325550096,
+   "indexable": true,
+   "indexnow_ms": 1792325550096,
+   "published_ms": 1792324920000,
+   "section": "דיגיטל",
+   "title": "\"אם זה תלוי בי, הייתי רק עובד עליו ולא לומד בבית ספר\""
   },
   "https://www.mako.co.il/nexter-news/Article-274b7d18cb3d0a1027.htm": {
    "check_attempts": 1,
