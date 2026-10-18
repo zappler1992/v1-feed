@@ -1,12 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2ba24e9406f41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b7a14e9406f41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-44b4fa91b5f41a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-a755a01ce4f41a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-34baa01ce4f41a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-126ca01ce4f41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b886fa91b5f41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5257,7 +5253,8 @@
    "importance": 2,
    "published_ms": 1792319180000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "פרץ למסעדה של הכוכב הישראלי: הדרמה בת\"א",
    "type": "general",
@@ -21875,7 +21872,8 @@
    "importance": 2,
    "published_ms": 1792316466000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "המהלך של עלי אקספרס לישראלים - רגע לפני הסיילים",
    "type": "general",
@@ -34388,7 +34386,7 @@
    ],
    "title": "בחילות ושלשולים: הרעלת מזון במלון היוקרה",
    "type": "news",
-   "updated_ms": 1792327152000,
+   "updated_ms": 1792333860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-867b263330f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/biata_kfar_181026/MASTER/biata_kfar_181026/biata_kfar_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -69130,6 +69128,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-162ffd2170d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17557_18102026034825/M_NEWS_17557_18102026034825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילד שרכב על קורקינט נהרג כתוצאה מפגיעת אוטובוסבמודיעין עילית",
+   "duration_s": 9,
+   "first_seen_ms": 1792334246589,
+   "image": "https://img.mako.co.il/2026/10/18/V1_MODIIN_7482_18102026023309_1400_1792334096871_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792334103000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילד שרכב על קורקינט נהרג כתוצאה מפגיעת אוטובוסבמודיעין עילית",
+   "type": "mivzakim",
+   "updated_ms": 1792334103000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_MODIIN_7482_18102026023309/V1_MODIIN_7482_18102026023309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2618ba33ffd41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -69615,6 +69631,24 @@
    "updated_ms": 1792312260000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b69ef07012e41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_IRAN_7467_18102026082923/V1_KARIND_IRAN_7467_18102026082923_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b886fa91b5f41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ילד בן 5 נהרג לאחר שנפגע מאוטובוס במודיעין עילית",
+   "duration_s": 9,
+   "first_seen_ms": 1792334246589,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17620_18102026023020_1400_1792333907108_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792333913000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ילד בן 5 נהרג לאחר שנפגע מאוטובוס במודיעין עילית",
+   "type": "mivzakim",
+   "updated_ms": 1792333913000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b886fa91b5f41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17620_18102026023020/M_NEWS_17620_18102026023020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ba62a01ce4f41a1026.htm": {
    "author": "מבזקים",
@@ -93061,7 +93095,8 @@
    "importance": 0,
    "published_ms": 1792318077000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשידור חי ברשתות החברתיות: צלב ענקי נפל על כומר במהלך המיסה באקוודור - והוא נהרג במקום",
    "type": "mivzakim",
@@ -93157,7 +93192,8 @@
    "importance": 0,
    "published_ms": 1792316920000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "חנויות הרוסות, מכוניות שרופות וכיכר מרכזית שהושחתה: כך נראית צרפת לאחר המחאות | צפו בנזקים",
    "type": "mivzakim",
