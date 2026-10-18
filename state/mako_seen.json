@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792324049195,
+ "last_run_ms": 1792324349222,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1064,6 +1064,18 @@
    "published_ms": 1792318617000,
    "section": "אופנה",
    "title": "בטקס הנוצץ: קים לבשה שמלת סטרפלס מדהימה, אבל קנדל היא המנצחת שלנו"
+  },
+  "https://fashionforward.mako.co.il/news/321945/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792324107273,
+   "content_type": "article",
+   "first_seen_ms": 1792324107273,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792323838000,
+   "section": "Fashion Forward",
+   "title": "טליה עובדיה עלתה על הגלאם בשמלת מחוך מטורפת"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
