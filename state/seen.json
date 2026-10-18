@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-30c19e961fd41a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dfb5f70eded41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-db4b4a927fd41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -68636,19 +68634,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "עמוד חשמל מרכזי בחדרה עלה באש וגרם לפיצוץ אדיר - שעורר בהלה בקרב התושבים",
-   "duration_s": 9,
+   "duration_s": 15,
    "first_seen_ms": 1792307546028,
-   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_HASHMAL_7459_18102026070442_1400_1792307165052_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/18/fix_hashmal_1400_1792309707690_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1792307172000,
    "sections": [
     "מבזקים"
    ],
    "title": "עמוד חשמל מרכזי בחדרה עלה באש וגרם לפיצוץ אדיר - שעורר בהלה בקרב התושבים",
    "type": "mivzakim",
-   "updated_ms": 1792307172000,
+   "updated_ms": 1792309680000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_HASHMAL_7459_18102026070442/V1_KARIND_HASHMAL_7459_18102026070442_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/fix_hashmal/fix_hashmal_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm": {
    "author": "מבזקים",
@@ -68757,6 +68755,24 @@
    "updated_ms": 1792304912000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MAGAV_7455_18102026062710/V1_KARIND_MAGAV_7455_18102026062710_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-db4b4a927fd41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מפנה את המפגינים החרדים מכביש 4, מכת\"זית הוצבה במקום",
+   "duration_s": 10,
+   "first_seen_ms": 1792309946062,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_mahtazit_7465_18102026074434_1400_1792309537932_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792309546000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מפנה את המפגינים החרדים מכביש 4, מכת\"זית הוצבה במקום",
+   "type": "mivzakim",
+   "updated_ms": 1792309546000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-db4b4a927fd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_mahtazit_7465_18102026074434/V1_karind_mahtazit_7465_18102026074434_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
