@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792356448743,
+ "last_run_ms": 1792356748794,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25649,6 +25649,18 @@
    "section": "",
    "title": "האב ראה שבנו משחק בנפל טיל - ומנע אסון"
   },
+  "https://www.mako.co.il/men-men_news/Article-3bbbf033b9051a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792356627589,
+   "content_type": "article",
+   "first_seen_ms": 1792356627589,
+   "indexable": true,
+   "indexnow_ms": 1792356627589,
+   "published_ms": 1792354200000,
+   "section": "",
+   "title": "מתמוטט על הכביש: התיעוד הדרמטי של הרצח ביפו"
+  },
   "https://www.mako.co.il/men-men_news/Article-3ca3b6e546f31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27963,7 +27975,7 @@
    "indexnow_ms": 1792337549771,
    "published_ms": 1792334940000,
    "section": "",
-   "title": "העבירות המזעזעות של נהג ההסעות בתלמידה בת 15"
+   "title": "נהג הסעות הורשע בעבירות מין בתלמידה בת 15"
   },
   "https://www.mako.co.il/men-men_news/Article-dcfab1dedd1e0a1026.htm": {
    "check_attempts": 1,
@@ -34563,7 +34575,7 @@
    "indexnow_ms": 1792269627421,
    "published_ms": 1792269240000,
    "section": "חדשות",
-   "title": "\"אזרחי ישראל יודעים היטב שיש להם חולשות חמורות\""
+   "title": "טראמפ חשף למה החליט לתמוך בנתניהו"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-a25fb01d429f0a1026.htm": {
    "check_attempts": 1,
@@ -34624,6 +34636,18 @@
    "published_ms": 1791580140000,
    "section": "חדשות",
    "title": "בתקיפה בח'אן יונס: חוסל מפקד מפקד בג'יהאד האיסלאמי"
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-c9642f6fea051a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792356627589,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792356627589,
+   "indexable": true,
+   "indexnow_ms": 1792356627589,
+   "published_ms": 1792355940000,
+   "section": "",
+   "title": "\"אזרחי ישראל יודעים היטב\": האיום החדש של איראן"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-cdf170d8b8721a1027.htm": {
    "check_attempts": 1,
