@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -4632,7 +4633,7 @@
    ],
    "title": "עינת ארליך משתפת על טיפולי ההקרנות: \"שגרה חדשה\"",
    "type": "general",
-   "updated_ms": 1792307400000,
+   "updated_ms": 1792307760000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-2a2f0eac48b41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/TALI_EINAT_171026/MASTER/TALI_ERLICH_171026/TALI_ERLICH_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -12277,6 +12278,24 @@
    "updated_ms": 1792299244000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-deae7e2915d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17561_18102026045257/M_Tarbut_17561_18102026045257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ביזנס ופלז׳ר: תומר הכהן ומיה מינץ בשדה התעופה, רגע לפני שימריאו לצילומי קמפיין משותף במילאנו",
+   "duration_s": 15,
+   "first_seen_ms": 1792308146047,
+   "image": "https://img.mako.co.il/2026/10/18/M_Celebs_17585_18102026071739_1400_1792307932434_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792307938000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ביזנס ופלז׳ר: תומר הכהן ומיה מינץ בשדה התעופה, רגע לפני שימריאו לצילומי קמפיין משותף במילאנו",
+   "type": "mivzakim",
+   "updated_ms": 1792307938000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17585_18102026071739/M_Celebs_17585_18102026071739_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -68613,6 +68632,24 @@
    "updated_ms": 1792307592000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-961b3ce69dd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_rain_181026_7460_18102026071200/V1_karind_rain_181026_7460_18102026071200_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה הודיעה: כביש 4 נחסם לתנועה בשני הכיוונים באזור מחלף יבנה עקב הפגנת החרדים הקיצוניים",
+   "duration_s": 18,
+   "first_seen_ms": 1792308146047,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_KVISH4_7461_18102026071849_1400_1792308014767_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792308021000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה הודיעה: כביש 4 נחסם לתנועה בשני הכיוונים באזור מחלף יבנה עקב הפגנת החרדים הקיצוניים",
+   "type": "mivzakim",
+   "updated_ms": 1792308021000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_KVISH4_7461_18102026071849/V1_KARIND_KVISH4_7461_18102026071849_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2092cdbcbd41a1026.htm": {
    "author": "מבזקים",
