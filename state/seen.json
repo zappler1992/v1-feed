@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-bcc1896963051a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fcda0c776a051a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b4090c776a051a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12606,6 +12608,24 @@
    "updated_ms": 1792297771000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a0ff2c6773d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17560_18102026042825/M_Celebs_17560_18102026042825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b4090c776a051a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מזל טוב! שני גולדשטיין וסאם קליין רשמית בעל ואישה",
+   "duration_s": 39,
+   "first_seen_ms": 1792354945844,
+   "image": "https://img.mako.co.il/2026/10/18/M_Celebs_17637_18102026081336_1400_1792354518339_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792354526000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מזל טוב! שני גולדשטיין וסאם קליין רשמית בעל ואישה",
+   "type": "mivzakim",
+   "updated_ms": 1792354526000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b4090c776a051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17637_18102026081336/M_Celebs_17637_18102026081336_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b7a14e9406f41a1026.htm": {
    "author": "עדכוני בידור",
@@ -34714,6 +34734,22 @@
    "updated_ms": 1792332932000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-a755a01ce4f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_economy_181026/MASTER/inbie_economy_181026/inbie_economy_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-bcc1896963051a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ברק רביד מסביר מה המשמעות מאחורי תמיכת טראמפ בנתניהו ואיך זה מתקשר לתקיפה אפשרית באיראן, בשבועות הקרובים.",
+   "duration_s": 79,
+   "first_seen_ms": 1792354945844,
+   "image": "https://img.mako.co.il/2026/10/18/inbie_ravid_181026_1400_1792347825326_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792354620000,
+   "sections": [],
+   "title": "המשמעות מאחורי תמיכת טראמפ בנתניהו - לקראת תקיפה אפשרית באיראן",
+   "type": "news",
+   "updated_ms": 1792354620000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-bcc1896963051a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_ravid_181026/MASTER/inbie_ravid_181026/inbie_ravid_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-d774273991051a1027.htm": {
    "author": "חדשות",
@@ -70348,6 +70384,24 @@
    "updated_ms": 1792335600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fa37e4dc07f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_TRUMP_7483_18102026025141/V1_TRUMP_7483_18102026025141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fcda0c776a051a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בהפרש של 4 נקודות בלבד: זה הזוג שעולה לגמר \"המטבח המנצח VIP\" ויתחרה באיתי תורג'מן ואלי מזוז",
+   "duration_s": 73,
+   "first_seen_ms": 1792354945844,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17638_18102026081404_1400_1792354652665_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792354659000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בהפרש של 4 נקודות בלבד: זה הזוג שעולה לגמר \"המטבח המנצח VIP\" ויתחרה באיתי תורג'מן ואלי מזוז",
+   "type": "mivzakim",
+   "updated_ms": 1792354659000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fcda0c776a051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17638_18102026081404/M_NEWS_17638_18102026081404_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
