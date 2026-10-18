@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6fc4c3cbf9f41a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6960c3cbf9f41a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-073e4e9406f41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18528,6 +18529,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w03/shorts-f7927e9bf6a31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Motorcycle_14102026/MASTER/Kim_Motorcycle_14102026/Kim_Motorcycle_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-073e4e9406f41a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בתיעוד שהפך לוויראלי נראו תיירים שטים בנהר בפריז כשמסביב הכל בוער",
+   "duration_s": 19,
+   "first_seen_ms": 1792338746665,
+   "image": "https://img.mako.co.il/2026/10/18/SHIRA_PARIS_181026_M_1400_1792333505874_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792333512000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "\"תתעלמו מהאש והעשן\": התיירים יצאו לשיט בנהר הסיין כשמסביב הכל בוער",
+   "type": "general",
+   "updated_ms": 1792333512000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-073e4e9406f41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIRA_PARIS_181026/MASTER/SHIRA_PARIS_181026_M/SHIRA_PARIS_181026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-861ddae57ae41a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -34385,6 +34404,22 @@
    "updated_ms": 1792307666000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-547c3ce69dd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/rinat_hermes_181026/MASTER/rinat_hermes_181026_m/rinat_hermes_181026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6960c3cbf9f41a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "רגעי אימה בטיסת אל על לניו יורק: מה שהתחיל כהוראה לבטל נחיתה בגלל חפץ זר על המסלול, הפך תוך שניות לסכנת חיים ממשית. צוות המטוס, שכבר החל להתרומם חזרה לאוויר, קיבל פתאום קריאה דרמטית ממגדל הפיקוח לשבור מיד ימינה - כדי לחמוק מהתרסקות עם מטוס נוסף. הטייסים שתפקדו בקור רוח תחת הלחץ, ביצעו את התמרון החריף בזמן, ומנעו אסון תעופה מחריד בשמי ארה\"ב.",
+   "duration_s": 84,
+   "first_seen_ms": 1792338746665,
+   "image": "https://img.mako.co.il/2026/10/18/inbie_flightNY_181026_1400_1792337995979_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792338480000,
+   "sections": [],
+   "title": "דרמה בשמיים: טיסת אל על לניו יורק כמעט התנגשה במטוס אחר באוויר",
+   "type": "news",
+   "updated_ms": 1792338480000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6960c3cbf9f41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_flightNY_181026/MASTER/inbie_flightNY_181026/inbie_flightNY_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-77f581550bd41a1026.htm": {
    "author": "חדשות",
