@@ -1,12 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-0b9351a993d41a1027.htm",
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-deb5dd83dc441a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7d834391b6d41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-657a18d0e6d41a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7a1751a993d41a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-42c77ffc47d41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12067,7 +12062,7 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "שרליז תרון קיבלה הלילה את פרס האייקון בגאלת מוזיאון האקדמיה, ועל הדרך קברה עם שמלה שקופה",
+   "description": "באירוע הוענק לשרליז תרון פרס האייקון - והיא קברה לכולם בשמלה שקופה",
    "duration_s": 12,
    "first_seen_ms": 1792300946118,
    "image": "https://img.mako.co.il/2026/10/18/M_Celebs_17571_18102026051420_1400_1792300528693_FirstFrame.jpg",
@@ -12076,7 +12071,7 @@
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "שרליז תרון קיבלה הלילה את פרס האייקון בגאלת מוזיאון האקדמיה, ועל הדרך קברה עם שמלה שקופה",
+   "title": "באירוע הוענק לשרליז תרון פרס האייקון - והיא קברה לכולם בשמלה שקופה",
    "type": "mivzakim",
    "updated_ms": 1792300535000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm",
@@ -91806,6 +91801,24 @@
    "updated_ms": 1792243488000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-ff3952be70a41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/V1_SUN_7426_17102026012324/V1_SUN_7426_17102026012324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-42c77ffc47d41a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המפגינים פורצים לחנויות יוקרה ובוזזים סחורה באלפי יורו: תיעודים מהמחאות ברחבי צרפת",
+   "duration_s": 46,
+   "first_seen_ms": 1792302145966,
+   "image": "https://img.mako.co.il/2026/10/18/V1_rinat_hermes_181026_7454_18102026053714_1400_1792301926105_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792301932000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המפגינים פורצים לחנויות יוקרה ובוזזים סחורה באלפי יורו: תיעודים מהמחאות ברחבי צרפת",
+   "type": "mivzakim",
+   "updated_ms": 1792301932000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-42c77ffc47d41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_rinat_hermes_181026_7454_18102026053714/V1_rinat_hermes_181026_7454_18102026053714_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-885e51a993d41a1027.htm": {
    "author": "מבזקים מהעולם",
