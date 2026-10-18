@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -92082,6 +92081,24 @@
    "updated_ms": 1792298451000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-885e51a993d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_rinat_france_181026_7452_18102026043931/V1_rinat_france_181026_7452_18102026043931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בזמן שצרפת בוערת: הנשיא מקרון ואשתו נצפו מבלים בהופעה של סלין דיון",
+   "duration_s": 6,
+   "first_seen_ms": 1792308746035,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_macron_7462_18102026072519_1400_1792308386184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792308392000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בזמן שצרפת בוערת: הנשיא מקרון ואשתו נצפו מבלים בהופעה של סלין דיון",
+   "type": "mivzakim",
+   "updated_ms": 1792308392000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_macron_7462_18102026072519/V1_karind_macron_7462_18102026072519_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
