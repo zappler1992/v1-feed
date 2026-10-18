@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9655f28308051a1027.htm",
-  "https://www.v-1.co.il/fast_content-newsflash/2026-m10_w04/shorts-b0db2b4765051a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-66f7c2a4e7051a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-7679f28308051a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7372,6 +7372,24 @@
    "updated_ms": 1791965705000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f95c0a5167931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_KARIN_MAYA_7308_14102026081339/V1_KARIN_MAYA_7308_14102026081339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-7679f28308051a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "אחרי הפרידה המתוקשרת מתום אבני: השחקנית לירז צ'רכי בזוגיות חדשה עם איש חיי הלילה, בנג'מין לנפנט",
+   "duration_s": 10,
+   "first_seen_ms": 1792353145821,
+   "image": "https://img.mako.co.il/2026/10/18/V1_LIRAZC_7493_18102026073225_1400_1792352020809_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792352027000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "אחרי הפרידה המתוקשרת מתום אבני: השחקנית לירז צ'רכי בזוגיות חדשה עם איש חיי הלילה, בנג'מין לנפנט",
+   "type": "mivzakim",
+   "updated_ms": 1792352027000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-7679f28308051a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_LIRAZC_7493_18102026073225/V1_LIRAZC_7493_18102026073225_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-da193c75fbf41a1027.htm": {
    "author": "מבזקי סלבס",
@@ -34569,6 +34587,22 @@
    "updated_ms": 1792307666000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-547c3ce69dd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/rinat_hermes_181026/MASTER/rinat_hermes_181026_m/rinat_hermes_181026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-66f7c2a4e7051a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 27,
+   "first_seen_ms": 1792353145821,
+   "image": "https://img.mako.co.il/2026/10/18/AVISHAI_FLIGHT_1810_M_1400_1792352617314_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792352623000,
+   "sections": [],
+   "title": "בהלה בטיסה מישראל: דיווח על פצצה במטוס",
+   "type": "news",
+   "updated_ms": 1792352623000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-66f7c2a4e7051a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/AVISHAI_FLIGHT_1810/MASTER/AVISHAI_FLIGHT_1810_M/AVISHAI_FLIGHT_1810_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6960c3cbf9f41a1027.htm": {
    "author": "חדשות",
