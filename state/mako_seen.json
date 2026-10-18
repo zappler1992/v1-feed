@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792319248930,
+ "last_run_ms": 1792319549105,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8250,6 +8250,18 @@
    "published_ms": 1792234440000,
    "section": "ספורט",
    "title": "אוברוב: \"ההצעה מהפועל? לא נרדמתי 3 ימים\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-961b1bd9d8e41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792319549105,
+   "content_type": "article",
+   "first_seen_ms": 1792319549105,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792319340000,
+   "section": "ספורט",
+   "title": "מנתצת השלשלאות: מה שמיוחד בחיפה של העונה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9749248b7a931a1027.htm": {
    "check_attempts": 1,
@@ -38032,6 +38044,18 @@
    "published_ms": 1791450120000,
    "section": "חופש",
    "title": "למרות האיסור: הטעות שהנהגים עושים בנתב\"ג"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-f57c0a9ea6e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792319549105,
+   "content_type": "article",
+   "first_seen_ms": 1792319549105,
+   "indexable": true,
+   "indexnow_ms": 1792319549105,
+   "published_ms": 1792317540000,
+   "section": "חופש",
+   "title": "\"תיקחו את הדברים שלכם ותעופו לי מהמלון\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-f6581231356f0a1026.htm": {
    "check_attempts": 1,
