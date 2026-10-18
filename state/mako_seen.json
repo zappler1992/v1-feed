@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792308748879,
+ "last_run_ms": 1792309048895,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31409,6 +31409,18 @@
    "section": "הורים",
    "title": "אחת מכל שש אמהות נמצאת בסיכון לסבול מזה"
   },
+  "https://www.mako.co.il/ninemonth-birth/Article-b9314acd8cd41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792308987545,
+   "content_type": "article",
+   "first_seen_ms": 1792308987545,
+   "indexable": true,
+   "indexnow_ms": 1792308987545,
+   "published_ms": 1792306440000,
+   "section": "הורים",
+   "title": "כל מה שחשוב לדעת על הימים הראשונים עם התינוק"
+  },
   "https://www.mako.co.il/pride-culture/Article-190610a7dbee0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -32332,6 +32344,18 @@
    "published_ms": 1791185220000,
    "section": "צבא וביטחון",
    "title": "בלב מוסקבה: לוויין חשף מה רוסיה ניסתה להסתיר"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-49e85fc50dd41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792308987545,
+   "content_type": "article",
+   "first_seen_ms": 1792308987545,
+   "indexable": true,
+   "indexnow_ms": 1792308987545,
+   "published_ms": 1792307040000,
+   "section": "צבא וביטחון",
+   "title": "פיתוח מישראל תועד במפתיע במדינה ערבית שכנה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -39663,7 +39687,7 @@
    "indexnow_ms": 1792303827370,
    "published_ms": 1792303320000,
    "section": "תרבות tvbee",
-   "title": "בגלל בדיחה: ההחלטה התקדימית ב\"רוקדים עם כוכבים\""
+   "title": "התבדח - והושעה מ\"רוקדים עם כוכבים\" ארה\"ב"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-d2dc820efe911a1027.htm": {
    "check_attempts": 1,
@@ -39819,7 +39843,7 @@
    "indexnow_ms": 1792308627532,
    "published_ms": 1792308000000,
    "section": "תרבות tvbee",
-   "title": "קטטה פרצה על סט צילומי הסדרה של נטפליקס: \"כולם בהלם\""
+   "title": "\"כולם היו בהלם\": האירוע האלים והחריג על הסט של נטפליקס"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-f7618822d7931a1026.htm": {
    "check_attempts": 1,
