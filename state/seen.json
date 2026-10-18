@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-6731f7dad3e41a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-111fb8d702a41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -32360,6 +32360,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-10a1ae600af21a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/16/FIXKim_Suitcases_161026/FIXKim_Suitcases_161026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-111fb8d702a41a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 20,
+   "first_seen_ms": 1792315046113,
+   "image": "https://img.mako.co.il/2026/10/17/yoav_eilat_171026_1400_1792245494897_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792245720000,
+   "sections": [],
+   "title": "בהלה באילת: תקיפות כלבים באזור המלונות",
+   "type": "news",
+   "updated_ms": 1792314660000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-111fb8d702a41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/17/yoav_eilat_171026/MASTER/yoav_eilat_171026/yoav_eilat_171026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-127fa952d1f31a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -33551,7 +33567,8 @@
    "importance": 2,
    "published_ms": 1792262355000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "פליטת הפה של נתניהו - בשידור חי: \"החרדים\" במקום \"התומכים שלנו\"",
    "type": "news",
@@ -33938,7 +33955,9 @@
    "image": "https://img.mako.co.il/2026/10/18/SHIR_TIRENA_181026_1400_1792306543553_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792306550000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "אזהרה לישראלים: אלימות במדינה האירופית",
    "type": "news",
    "updated_ms": 1792306550000,
