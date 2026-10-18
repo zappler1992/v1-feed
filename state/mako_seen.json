@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792317748952,
+ "last_run_ms": 1792318048981,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8802,6 +8802,18 @@
    "published_ms": 1792300320000,
    "section": "ספורט",
    "title": "\"תחושת קיפוח\": התלונות של עירוני טבריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-dd400a9ea6e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792317986926,
+   "content_type": "article",
+   "first_seen_ms": 1792317986926,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792317840000,
+   "section": "ספורט",
+   "title": "\"יש חקירות סמויות נוספות שמתנהלות כרגע\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-df5fde3fb3331a1026.htm": {
    "check_attempts": 1,
@@ -19456,6 +19468,18 @@
    "published_ms": 1790832720000,
    "section": "בריאות",
    "title": "\"לאישה היה תפקיד קריטי בהצלת המטוס\""
+  },
+  "https://www.mako.co.il/health-news/Article-a77f1b2f72e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792317986926,
+   "content_type": "article",
+   "first_seen_ms": 1792317986926,
+   "indexable": true,
+   "indexnow_ms": 1792317986926,
+   "published_ms": 1792314900000,
+   "section": "",
+   "title": "\"כל הלילה הקאנו ושלשלנו\": הרעלת מזון במלון המוכר"
   },
   "https://www.mako.co.il/health-news/Article-a84c427b68041a1026.htm": {
    "check_attempts": 1,
