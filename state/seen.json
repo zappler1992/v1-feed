@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-3bae7d4eebd41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66e54acd8cd41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -11975,16 +11975,16 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות",
+   "description": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפריז. במאי היא תשוב ל-10 נוספות",
    "duration_s": 71,
    "first_seen_ms": 1792305146013,
    "image": "https://img.mako.co.il/2026/10/18/M_Music_17583_18102026062717_1400_1792304937128_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792304943000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפרזי. במאי היא תשוב ל-10 נוספות",
+   "title": "סלין דיון מסכמת 16 הופעות במסגרת סיבוב הופעות הקאמבק שלה בפריז. במאי היא תשוב ל-10 נוספות",
    "type": "mivzakim",
    "updated_ms": 1792304943000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-29ecfacacad41a1027.htm",
@@ -68541,6 +68541,24 @@
    "updated_ms": 1792297800000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/kotarotfix/kotarotfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66e54acd8cd41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשעות העומס: עימותים חריגים בין מפגינים חרדים לנהגים שנחסמו בכביש 4 באזור מחלף יבנה",
+   "duration_s": 9,
+   "first_seen_ms": 1792306946019,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_hasimot_7458_18102026065824_1400_1792306773953_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792306780000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשעות העומס: עימותים חריגים בין מפגינים חרדים לנהגים שנחסמו בכביש 4 באזור מחלף יבנה",
+   "type": "mivzakim",
+   "updated_ms": 1792306780000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66e54acd8cd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_hasimot_7458_18102026065824/V1_karind_hasimot_7458_18102026065824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2092cdbcbd41a1026.htm": {
    "author": "מבזקים",
