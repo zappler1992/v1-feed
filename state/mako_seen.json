@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792336650196,
+ "last_run_ms": 1792336949788,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19251,7 +19251,7 @@
    "indexnow_ms": 1792322187188,
    "published_ms": 1792321860000,
    "section": "בריאות",
-   "title": "חשד בבית החולים: דם נלקח ממטופלים ללא הסכמתם"
+   "title": "קפלן: דם נלקח ממטופלים ללא הסכמתם"
   },
   "https://www.mako.co.il/health-news/Article-4fdbe0663ed41a1026.htm": {
    "check_attempts": 1,
@@ -25815,7 +25815,7 @@
    "indexnow_ms": 1792320867244,
    "published_ms": 1792320660000,
    "section": "פלילים",
-   "title": "\"רק כי צפרתי לה\": סבתא הוכתה באלימות מול נכדה בן ה-11"
+   "title": "\"הכתה אותי לעיני נכדי בן ה-11 אחרי שצפרתי\""
   },
   "https://www.mako.co.il/men-men_news/Article-630f554064ea0a1026.htm": {
    "check_attempts": 1,
@@ -27735,7 +27735,7 @@
    "indexnow_ms": 1792321949070,
    "published_ms": 1792321320000,
    "section": "פלילים",
-   "title": "פגש את הקטינות בגינה הציבורית, ואנס אותן בביתו"
+   "title": "\"פגש בת 14 בגינה ציבורית, ואנס אותה בביתו\""
   },
   "https://www.mako.co.il/men-men_news/Article-e35b5e95da601a1026.htm": {
    "check_attempts": 1,
@@ -34203,7 +34203,7 @@
    "indexnow_ms": 1792269627421,
    "published_ms": 1792269240000,
    "section": "חדשות",
-   "title": "טראמפ הודיע על תמיכה בנתניהו: \"מנהיג אחר - טעות\""
+   "title": "בחר צד: ההודעה של טראמפ רגע לפני הבחירות בישראל"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-a25fb01d429f0a1026.htm": {
    "check_attempts": 1,
@@ -35140,6 +35140,18 @@
    "published_ms": 1790875500000,
    "section": "",
    "title": "הטייס העומאני הועבר לאמירויות: פרטים חדשים מתוך החקירה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-a92bbc9cf4f41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-a92bbc9cf4f41a1027.htm",
+   "checked_ms": 1792336826926,
+   "content_type": "article",
+   "first_seen_ms": 1792336826926,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792332060000,
+   "section": "חדשות",
+   "title": "הרמטכ\"ל החליט על עוצר יציאות בצה\"ל בבחירות"
   },
   "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
    "check_attempts": 1,
