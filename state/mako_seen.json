@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792295248588,
+ "last_run_ms": 1792295549362,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29560,6 +29560,18 @@
    "published_ms": 1791690600000,
    "section": "ספורט",
    "title": "חזר חד: צמד, שער ניצחון ובישול לטוקלומטי"
+  },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-15e0127280d41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792295549362,
+   "content_type": "article",
+   "first_seen_ms": 1792295549362,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792295160000,
+   "section": "ספורט",
+   "title": "בדקה ה-101: בנימין סחט פנדל והוביל ל-2:2"
   },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-73ef6d1c8e121a1027.htm": {
    "check_attempts": 1,
