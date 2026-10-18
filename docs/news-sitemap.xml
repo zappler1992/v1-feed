@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e99ac3cbf9f41a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-18T15:34:06+00:00</news:publication_date>
+<news:title>ההפגנות שוב יוצאות משליטה: המפגינים שוב מבעירים את הרחובות באזור כיכר הרפובליקה בפריז</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/18/M_NEWS_17622_18102026033244_1400_1792337640152_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-bd4d9718d8f41a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2168,14 +2177,5 @@
 <news:title>סיוט בבית הספר: חשד שמאבטח כלא והטריד מינית תלמידה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/16/MAYA_JAFFA_161026_1400_1792165285170_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-afde0e71e3541a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-16T15:33:41+00:00</news:publication_date>
-<news:title>סוף למצוד בכפר קרע: שב&quot;כ והמשטרה עצרו את החשוד שנמלט במטע הזיתים. בסמוך אותר M16 מוסלק</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/16/V1_HASHUD_7397_16102026033210_1400_1792164814085_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
