@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-53c3583a94e41a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-d1edd77fb1e41a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-547c3ce69dd41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5253,6 +5254,24 @@
    "updated_ms": 1792311012000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-cb0b798dd0e41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/fix_rinat_annaeden_181026_m/fix_rinat_annaeden_181026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-d1edd77fb1e41a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "בר רפאלי חושפת את סיפור האודישן הכושל שלה מול צביקה פיק: לאחר שהתקשר לאמה, ציפי רפאלי, לבקש שבר תבוא להיבחן למחזמר \"מרי לו\" בטענה שיכול ללמד כל אחד לשיר, בר הגיעה לביתו להיבחן. כשבר החלה לשיר, צביקה עצר אותה לאחר מספר שניות ואמר שכנראה אי אפשר ללמד את כולם.",
+   "duration_s": 32,
+   "first_seen_ms": 1792315946104,
+   "image": "https://img.mako.co.il/2026/10/18/biata_bar_181026_1400_1792311891925_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792311898000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "בר רפאלי לא עברה אודישן - מול צביקה פיק",
+   "type": "general",
+   "updated_ms": 1792311898000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-d1edd77fb1e41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/biata_bar_181026/MASTER/biata_bar_181026/biata_bar_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -33963,6 +33982,24 @@
    "updated_ms": 1792306550000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_TIRENA_181026/MASTER/SHIR_TIRENA_181026/SHIR_TIRENA_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-547c3ce69dd41a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אברי ושרקי בדיון לוהט על האמירה שהסעירה את הצופים: באולפן ניתחו את המתקפה של ינון מגל על גדי איזנקוט והכינוי \"קוף\", לצד הטענה כי מדובר בתרגיל עדתי.",
+   "duration_s": 48,
+   "first_seen_ms": 1792315946104,
+   "image": "https://img.mako.co.il/2026/10/18/rinat_hermes_181026_m_1400_1792307659523_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792307666000,
+   "sections": [
+    "הפרשנים"
+   ],
+   "title": "\"קוף שמופעל מאחור\": ינון מגל פתח פה בשידור חי על גדי איזנקוט",
+   "type": "news",
+   "updated_ms": 1792307666000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-547c3ce69dd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/rinat_hermes_181026/MASTER/rinat_hermes_181026_m/rinat_hermes_181026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-77f581550bd41a1026.htm": {
    "author": "חדשות",
