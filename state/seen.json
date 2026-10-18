@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-42c77ffc47d41a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-959a899558d41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5209,7 +5210,9 @@
    "image": "https://img.mako.co.il/2026/10/18/rinat_masicha_181026_m_1400_1792299643494_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792299650000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "הודחה ראשונה: זמרת הענק שהסתתרה בתוך תחפושת הברבור השאירה את השופטים בהלם",
    "type": "general",
    "updated_ms": 1792299650000,
@@ -12076,6 +12079,24 @@
    "updated_ms": 1792300535000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17571_18102026051420/M_Celebs_17571_18102026051420_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנחנו אובססיבים לאינדי נאברטי",
+   "duration_s": 20,
+   "first_seen_ms": 1792302746005,
+   "image": "https://img.mako.co.il/2026/10/18/M_Tarbut_17580_18102026054651_1400_1792302472895_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792302479000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנחנו אובססיבים לאינדי נאברטי",
+   "type": "mivzakim",
+   "updated_ms": 1792302479000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17580_18102026054651/M_Tarbut_17580_18102026054651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7a1751a993d41a1027.htm": {
    "author": "עדכוני בידור",
@@ -32223,7 +32244,8 @@
    "importance": 2,
    "published_ms": 1792263548000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "הגזענות של ינון מגל בערוץ 14: ״איזנקוט הוא קוף, מזרחי\"",
    "type": "news",
@@ -33752,7 +33774,9 @@
    "image": "https://img.mako.co.il/2026/10/18/biata_soccer_181026_1400_1792300105601_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792300112000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "פרשת ענק בליגת העל - החשד: עבירות כלכליות",
    "type": "news",
    "updated_ms": 1792300112000,
@@ -68428,16 +68452,16 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-370f51a993d41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "חברי הנהלה של קבוצת כדורגל בליגת העל נעצרו בחשד לעבירות כלכליות",
+   "description": "הסתבכות בליגת העל: בכירי ההנהלה של קבוצת הכדורגל עירוני טבריה חשודים בעבירות כלכליות",
    "duration_s": 9,
    "first_seen_ms": 1792298845903,
    "image": "https://img.mako.co.il/2026/10/18/V1_ligatal_7453_18102026044132_1400_1792298570532_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792298577000,
    "sections": [
     "מבזקים"
    ],
-   "title": "חברי הנהלה של קבוצת כדורגל בליגת העל נעצרו בחשד לעבירות כלכליות",
+   "title": "הסתבכות בליגת העל: בכירי ההנהלה של קבוצת הכדורגל עירוני טבריה חשודים בעבירות כלכליות",
    "type": "mivzakim",
    "updated_ms": 1792298577000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-370f51a993d41a1027.htm",
@@ -69738,6 +69762,24 @@
    "updated_ms": 1791789698000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-eec4e2be4fe21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17156_12102026071936/M_Food_17156_12102026071936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-959a899558d41a1026.htm": {
+   "author": "יעל קצב",
+   "date_source": "json-publishDate",
+   "description": "את הטוסט הבא שלנו (אולי אפילו הערב?) אנחנו רוצים בדיוק ככה! מטוגן במחבת על תלולית של מוצרלה מגוררת, עם מלית של ביצה והפתעות שהופכת אותו לארוחה שלמה ומספקת",
+   "duration_s": 31,
+   "first_seen_ms": 1792302746005,
+   "image": "https://img.mako.co.il/2026/10/18/M_Food_17573_18102026053934_1400_1792302071302_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792302077000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "אין לנו איך לתאר את הטוסט הזה חוץ מפסיכי",
+   "type": "mivzakim",
+   "updated_ms": 1792302077000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-959a899558d41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17573_18102026053934/M_Food_17573_18102026053934_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/she_has_it-magazine/2026-m04_w02/shorts-6a837bb15ad5d91027.htm": {
    "author": "יש לה את זה",
