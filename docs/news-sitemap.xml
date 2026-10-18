@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-bb277d4eebd41a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-18T14:56:00+00:00</news:publication_date>
+<news:title>60 שניות עם משי קליינשטיין</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/18/Amit_MESHI_60_M_1400_1792306324239_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fa37e4dc07f41a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-18T14:53:03+00:00</news:publication_date>
-<news:title>טראמפ הודיע על תמיכה ברה&quot;מ נתניהו בבחירות</news:title>
+<news:title>״כל מנהיג אחר יהיה לא נכון״: טראמפ הודיע על תמיכתו ברה&quot;מ נתניהו בבחירות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_TRUMP_7483_18102026025141_1400_1792335177260_FirstFrame.jpg</image:loc></image:image>
 </url>
@@ -14,9 +23,9 @@
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-18T14:49:20+00:00</news:publication_date>
-<news:title>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-07a2e4dc07f41a1026.htm</news:title>
+<news:title>ביום הבחירות - עוצר יציאות מלא בצה&quot;ל</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/AVISHAI_ZAHAL_1810_M_1400_1792334953489_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/10/18/FIX_MAIN_BHIROT_1400_1792335393613_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm</loc>
@@ -2159,14 +2168,5 @@
 <news:title>אין התקדמות: פליי דובאי מבטלת את הטיסות לארץ עד 15 בנובמבר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/16/M_NEWS_17483_16102026031223_1400_1792163612012_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/culture-magazine/2026-m10_w03/shorts-a0264c3e60541a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-16T14:59:10+00:00</news:publication_date>
-<news:title>המטרה מקדשת: הדודים עזרו לאבא להרדים את התינוק כדי לצאת לקזינו בחופשה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/16/inbie_casino_161026_1400_1792162741124_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
