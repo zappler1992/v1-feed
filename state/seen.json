@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-607d0cc93cf41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-81853c75fbf41a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-da193c75fbf41a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3568cbf13df41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7373,6 +7373,22 @@
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w03/shorts-f95c0a5167931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/V1_KARIN_MAYA_7308_14102026081339/V1_KARIN_MAYA_7308_14102026081339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-da193c75fbf41a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"מישהו הרביץ לי\": אירית רחמים נקלעה ללב המהומות בפריז - והותקפה",
+   "duration_s": 54,
+   "first_seen_ms": 1792340846667,
+   "image": "https://img.mako.co.il/2026/10/18/V1_IRIT_7487_18102026040118_1400_1792339381082_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792339388000,
+   "sections": [],
+   "title": "\"מישהו הרביץ לי\": אירית רחמים נקלעה ללב המהומות בפריז - והותקפה",
+   "type": "mivzakim",
+   "updated_ms": 1792339388000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-da193c75fbf41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_IRIT_7487_18102026040118/V1_IRIT_7487_18102026040118_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
    "date_source": null,
@@ -12211,6 +12227,24 @@
    "updated_ms": 1792321301000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2ec8120eaae41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17601_18102026110016/M_Celebs_17601_18102026110016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3568cbf13df41a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "צדי צרפתי ובר רפאלי רוקדים ביחד לצלילי משה פרץ: שופטי \"הזמר במסכה\" חוגגים בערב הבכורה של התוכנית",
+   "duration_s": 31,
+   "first_seen_ms": 1792340846667,
+   "image": "https://img.mako.co.il/2026/10/18/M_Tarbut_17627_18102026042147_1400_1792340594580_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792340601000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "צדי צרפתי ובר רפאלי רוקדים ביחד לצלילי משה פרץ: שופטי \"הזמר במסכה\" חוגגים בערב הבכורה של התוכנית",
+   "type": "mivzakim",
+   "updated_ms": 1792340601000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3568cbf13df41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17627_18102026042147/M_Tarbut_17627_18102026042147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-44b4fa91b5f41a1027.htm": {
    "author": "עדכוני בידור",
@@ -93484,7 +93518,7 @@
    ],
    "title": "טרגדיה בסן אנטוניו: איש צוות של חייל האוויר האמריקאי נפל מגג האצטדיון - ומת",
    "type": "mivzakim",
-   "updated_ms": 1792336264000,
+   "updated_ms": 1792339500000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-bd4d9718d8f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_HADGAMA_7484_18102026030945/V1_HADGAMA_7484_18102026030945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
