@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-9a55a0d175e41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5248,7 +5247,9 @@
    "image": "https://img.mako.co.il/2026/10/18/rinat_annaeden_181026_m_1400_1792311006319_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792311012000,
-   "sections": [],
+   "sections": [
+    "חם במוזיקה"
+   ],
    "title": "צמודות ובלבוש מינימלי: הקליפ הנועז של אנה זק ועדן גולן מעורר סערה ברשת",
    "type": "general",
    "updated_ms": 1792311012000,
@@ -68883,6 +68884,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66e54acd8cd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_hasimot_7458_18102026065824/V1_karind_hasimot_7458_18102026065824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הלך לעולמו איש העסקים מוטי סנדר, שהיה מקרוב לנשיא הרצוג וראש הממשלה נתניהו",
+   "duration_s": 9,
+   "first_seen_ms": 1792317446140,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_sender_7474_18102026095403_1400_1792317313363_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792317320000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הלך לעולמו איש העסקים מוטי סנדר, שהיה מקרוב לנשיא הרצוג וראש הממשלה נתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1792317320000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_sender_7474_18102026095403/V1_karind_sender_7474_18102026095403_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-924e1a2921e41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92547,7 +92566,8 @@
    "importance": 0,
    "published_ms": 1792308392000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "מהעולם"
    ],
    "title": "בזמן שצרפת בוערת: הנשיא מקרון ואשתו נצפו מבלים בהופעה של סלין דיון",
    "type": "mivzakim",
