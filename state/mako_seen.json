@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792314149068,
+ "last_run_ms": 1792314449058,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20331,7 +20331,7 @@
    "indexnow_ms": 1792292850039,
    "published_ms": 1792292400000,
    "section": "HIX",
-   "title": "קר מהרגיל: אלו האזורים שבהם צפוי היום גשם"
+   "title": "היום יהיה קר מהרגיל, עם סיכוי לגשם מקומי"
   },
   "https://www.mako.co.il/hix-nature/Article-1d5fcb1bcb621a1027.htm": {
    "check_attempts": 1,
@@ -22792,6 +22792,18 @@
    "published_ms": 1791100320000,
    "section": "עיצוב הבית",
    "title": "ממלאים את הסיר במים חמים מהברז? כדאי שתדעו את זה"
+  },
+  "https://www.mako.co.il/living-diy/maintenance/Article-51c14391b6d41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792314449058,
+   "content_type": "article",
+   "first_seen_ms": 1792314449058,
+   "indexable": true,
+   "indexnow_ms": 1792314449058,
+   "published_ms": 1792314240000,
+   "section": "עיצוב הבית",
+   "title": "הפילטר שצריך לנקות – אבל אתם בכלל לא יודעים איפה הוא"
   },
   "https://www.mako.co.il/living-diy/maintenance/Article-5f38ce2f14511a1026.htm": {
    "check_attempts": 1,
@@ -32535,7 +32547,7 @@
    "indexnow_ms": 1792308987545,
    "published_ms": 1792307040000,
    "section": "צבא וביטחון",
-   "title": "פיתוח מישראל תועד במפתיע במדינה ערבית שכנה"
+   "title": "סיוע מישראל? תיעוד ממצרים מסעיר את העולם הערבי"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4a9c80c0e63d0a1027.htm": {
    "check_attempts": 1,
@@ -36124,6 +36136,18 @@
    "published_ms": 1791798780000,
    "section": "חופש",
    "title": "הישראלי שהציל את החיים של נהג המונית התאילנדי"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-0ada3ce69dd41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792314266754,
+   "content_type": "article",
+   "first_seen_ms": 1792314266754,
+   "indexable": true,
+   "indexnow_ms": 1792314266754,
+   "published_ms": 1792314060000,
+   "section": "",
+   "title": "אירופה בוערת: הכאוס מתפשט למדינות נוספות"
   },
   "https://www.mako.co.il/travel-news/international/Article-0b68333d48de0a1026.htm": {
    "check_attempts": 1,
