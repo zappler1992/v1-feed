@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792318648954,
+ "last_run_ms": 1792318948876,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16505,6 +16505,18 @@
    "section": "כסף",
    "title": "זהירות עוקץ: הרשות לנירות ערך באזהרה חריגה"
   },
+  "https://www.mako.co.il/finances-news/Article-f9930a9ea6e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792318827011,
+   "content_type": "article",
+   "first_seen_ms": 1792318827011,
+   "indexable": true,
+   "indexnow_ms": 1792318827011,
+   "published_ms": 1792318140000,
+   "section": "חדשות",
+   "title": "קיצוץ של 2.6 מיליארד: חינוך ובריאות ייפגעו"
+  },
   "https://www.mako.co.il/finances-news/Article-fb01c0192edc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -16527,7 +16539,7 @@
    "indexnow_ms": 1792305387432,
    "published_ms": 1792304520000,
    "section": "",
-   "title": "אחרי חסימת הכבישים: בוטלה ההפגנה שתוכננה להיום בכביש 4"
+   "title": "חדשות טובות לנהגים לגבי המשך היום"
   },
   "https://www.mako.co.il/finances-real-estate/Article-004c482082c01a1026.htm": {
    "check_attempts": 1,
