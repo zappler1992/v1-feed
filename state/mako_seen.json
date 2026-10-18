@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792320749140,
+ "last_run_ms": 1792321049201,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1556,6 +1556,18 @@
    "published_ms": 1791825300000,
    "section": "ספורט",
    "title": "צפו בשידור: מכבי אשדוד - עירוני נס ציונה"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-8aa5cf6fb9e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792320987141,
+   "content_type": "article",
+   "first_seen_ms": 1792320987141,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792320780000,
+   "section": "ספורט",
+   "title": "בהפועל טוענים: זה מספר המנויים שנמכרו"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-8ad89a374ab21a1027.htm": {
    "check_attempts": 1,
@@ -13457,6 +13469,18 @@
    "section": "סלבס",
    "title": "עשו סולחה? כך תועדו אופירה אסייג וציפי רפאלי"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-70ab1a29cddc0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792320987141,
+   "content_type": "article",
+   "first_seen_ms": 1792320987141,
+   "indexable": true,
+   "indexnow_ms": 1792320987141,
+   "published_ms": 1792320540000,
+   "section": "סלבס",
+   "title": "זה נגמר: שני כוכבי הריאליטי נפרדו שוב"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7595e5fe3c501a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -13731,7 +13755,7 @@
    "indexnow_ms": 1792318648954,
    "published_ms": 1792318380000,
    "section": "סלבס",
-   "title": "איש עסקים? פחות: האמת על \"ההשקעה החדשה\" של ליאם גולן"
+   "title": "איש עסקים? פחות: האמת על הצעד הבא של ליאם גולן"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-a63ad977bb441a1027.htm": {
    "check_attempts": 1,
@@ -25601,6 +25625,18 @@
    "section": "",
    "title": "הקטטה ביישוב היוקרתי: \"אנשים פחדו לצאת מהבתים\""
   },
+  "https://www.mako.co.il/men-men_news/Article-62ffcf6fb9e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792320867244,
+   "content_type": "article",
+   "first_seen_ms": 1792320867244,
+   "indexable": true,
+   "indexnow_ms": 1792320867244,
+   "published_ms": 1792320660000,
+   "section": "פלילים",
+   "title": "\"הכתה אותי לעיני נכדי בן ה-11 אחרי שצפרתי\""
+  },
   "https://www.mako.co.il/men-men_news/Article-630f554064ea0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30856,6 +30892,18 @@
    "published_ms": 1790603460000,
    "section": "דיגיטל",
    "title": "אקזיט \"צנוע\": החברה שנמכרת ב-340 מיליון דולר"
+  },
+  "https://www.mako.co.il/nexter-news/Article-6684a972f7e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792320867244,
+   "content_type": "article",
+   "first_seen_ms": 1792320867244,
+   "indexable": true,
+   "indexnow_ms": 1792320867244,
+   "published_ms": 1792318920000,
+   "section": "דיגיטל",
+   "title": "כולם רוצים טסלה מעופפת - אתם לא תשיגו אותה"
   },
   "https://www.mako.co.il/nexter-news/Article-6689848c03ce0a1026.htm": {
    "check_attempts": 1,
