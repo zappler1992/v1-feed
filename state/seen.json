@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b5aff70eded41a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-30c19e961fd41a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dfb5f70eded41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33839,6 +33840,22 @@
    "updated_ms": 1791835204000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w03/shorts-fe0edc0aea131a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_BURGLAR_12102026/MASTER/ASAF_BURGLAR_12102026_M/ASAF_BURGLAR_12102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792309646039,
+   "image": "https://img.mako.co.il/2026/10/18/SHIR_TIRENA_181026_1400_1792306543553_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792306550000,
+   "sections": [],
+   "title": "אזהרה לישראלים: אלימות במדינה האירופית",
+   "type": "news",
+   "updated_ms": 1792306550000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_TIRENA_181026/MASTER/SHIR_TIRENA_181026/SHIR_TIRENA_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8c4551a993d41a1027.htm": {
    "author": "חדשות",
@@ -68507,6 +68524,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-162ffd2170d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17557_18102026034825/M_NEWS_17557_18102026034825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-30c19e961fd41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "״נזק חסר תקדים״: בניין עיריית לימוז׳ הבוקר",
+   "duration_s": 24,
+   "first_seen_ms": 1792309646039,
+   "image": "https://img.mako.co.il/2026/10/18/M_NEWS_17588_18102026074056_1400_1792309327024_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792309333000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "״נזק חסר תקדים״: בניין עיריית לימוז׳ הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1792309333000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-30c19e961fd41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17588_18102026074056/M_NEWS_17588_18102026074056_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-361d127280d41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92136,6 +92171,24 @@
    "updated_ms": 1792308392000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_macron_7462_18102026072519/V1_karind_macron_7462_18102026072519_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dfb5f70eded41a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "\"זו לא המטרה!\" פעילת שמאל צרפתייה נחרדה כשמהגרים שמפגינים לצידה - החלו לבזוז חנויות",
+   "duration_s": 25,
+   "first_seen_ms": 1792309646039,
+   "image": "https://img.mako.co.il/2026/10/18/V1_karind_philatsmol_7464_18102026074046_1400_1792309341188_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792309348000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "\"זו לא המטרה!\" פעילת שמאל צרפתייה נחרדה כשמהגרים שמפגינים לצידה - החלו לבזוז חנויות",
+   "type": "mivzakim",
+   "updated_ms": 1792309348000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dfb5f70eded41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_philatsmol_7464_18102026074046/V1_karind_philatsmol_7464_18102026074046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",

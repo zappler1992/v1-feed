@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792309348879,
+ "last_run_ms": 1792309648874,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1040,6 +1040,18 @@
    "published_ms": 1792094126000,
    "section": "Fashion Forward",
    "title": "מדיווה לדיווה: עינב בובליל עושה את פריז בשמלת מיני ואקססורי מפתיע"
+  },
+  "https://fashionforward.mako.co.il/news/321916/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792309648874,
+   "content_type": "article",
+   "first_seen_ms": 1792309648874,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792309564000,
+   "section": "Fashion Forward",
+   "title": "עם סייד בוב מנצנץ: בר רפאלי לא מתנצלת ולובשת את אחת השמלות השוות"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -7206,6 +7218,18 @@
    "published_ms": 1791291000000,
    "section": "ספורט",
    "title": "שני שחקני מכבי חיפה שבספק להפועל ירושלים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0df39e961fd41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792309587547,
+   "content_type": "article",
+   "first_seen_ms": 1792309587547,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792309200000,
+   "section": "ספורט",
+   "title": "3 דק` יותר מדי: ההחלטה שצריכה הפועל לקבל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-10e861a0a7031a1026.htm": {
    "check_attempts": 1,
@@ -17571,7 +17595,7 @@
    "indexnow_ms": 1792302267304,
    "published_ms": 1792302120000,
    "section": "",
-   "title": "שכבות של בשר ופירה: 3 מאכלים מנחמים לחורף בתחילת השבוע"
+   "title": "3 מתכונים מושלמים שכיף להתחיל איתם שבוע חדש"
   },
   "https://www.mako.co.il/food-meals/lunch_recipes/Article-81fea931f7ec0a1027.htm": {
    "check_attempts": 1,
@@ -39723,7 +39747,7 @@
    "indexnow_ms": 1792303827370,
    "published_ms": 1792303320000,
    "section": "תרבות tvbee",
-   "title": "התבדח - והושעה מ\"רוקדים עם כוכבים\" ארה\"ב"
+   "title": "בגלל בדיחה: ההחלטה התקדימית ב\"רוקדים עם כוכבים\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-d2dc820efe911a1027.htm": {
    "check_attempts": 1,
