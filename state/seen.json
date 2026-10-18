@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-94f3bbf475e41a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8ad9a0d175e41a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-9a55a0d175e41a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -69009,6 +69009,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2092cdbcbd41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_haredim_7456_18102026063918/V1_karind_haredim_7456_18102026063918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תל אביב תחת מבול: הגשם מציף את הכבישים והמים זורמים ברחובות העיר",
+   "duration_s": 38,
+   "first_seen_ms": 1792317146138,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_MABUL_7473_18102026094916_1400_1792317032520_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792317039000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תל אביב תחת מבול: הגשם מציף את הכבישים והמים זורמים ברחובות העיר",
+   "type": "mivzakim",
+   "updated_ms": 1792317039000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MABUL_7473_18102026094916/V1_KARIND_MABUL_7473_18102026094916_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b5aff70eded41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92500,6 +92518,24 @@
    "updated_ms": 1792298451000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-885e51a993d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_rinat_france_181026_7452_18102026043931/V1_rinat_france_181026_7452_18102026043931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-9a55a0d175e41a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חנויות הרוסות, מכוניות שרופות וכיכר מרכזית שהושחתה: כך נראית צרפת לאחר המחאות | צפו בנזקים",
+   "duration_s": 58,
+   "first_seen_ms": 1792317146138,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_PARIS_7472_18102026094655_1400_1792316912967_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792316920000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "חנויות הרוסות, מכוניות שרופות וכיכר מרכזית שהושחתה: כך נראית צרפת לאחר המחאות | צפו בנזקים",
+   "type": "mivzakim",
+   "updated_ms": 1792316920000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-9a55a0d175e41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_PARIS_7472_18102026094655/V1_KARIND_PARIS_7472_18102026094655_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm": {
    "author": "מבזקים מהעולם",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792316848943,
+ "last_run_ms": 1792317148854,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15977,6 +15977,18 @@
    "section": "כסף",
    "title": "חברה מעל טריליון שקל נסחרת בבורסה בישראל"
   },
+  "https://www.mako.co.il/finances-news/Article-4732bbf475e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792317026840,
+   "content_type": "article",
+   "first_seen_ms": 1792317026840,
+   "indexable": true,
+   "indexnow_ms": 1792317026840,
+   "published_ms": 1792316400000,
+   "section": "כסף",
+   "title": "תואר ראשון בגיל 19, דוקטורט בגיל 81"
+  },
   "https://www.mako.co.il/finances-news/Article-4d428a7c6e921a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20163,7 +20175,7 @@
    "indexnow_ms": 1792308748879,
    "published_ms": 1792308600000,
    "section": "HIX",
-   "title": "זה נגמר עם פלמינגו בחדר המלון: המתיחה שיצאה משליטה"
+   "title": "מתיחה שיצאה משליטה: תייר השתכר ו\"חטף\" פלמינגו"
   },
   "https://www.mako.co.il/hix-bizarre/Article-b986fda32d2e0a1027.htm": {
    "check_attempts": 1,
@@ -24843,7 +24855,7 @@
    "indexnow_ms": 1792312048905,
    "published_ms": 1792311540000,
    "section": "פלילים",
-   "title": "\"החשבון יגיע\": הגרפיטי המסתורי עורר בהלה בשכונת היוקרה"
+   "title": "כתובות גרפיטי בערבית עוררו בהלה בשכונת היוקרה בהרצליה"
   },
   "https://www.mako.co.il/men-men_news/Article-327488acd7021a1026.htm": {
    "check_attempts": 1,
@@ -38680,6 +38692,18 @@
    "published_ms": 1791982020000,
    "section": "קשת 12",
    "title": "המגיש על הפרידה: \"הורדתי אפליקציות היכרויות\""
+  },
+  "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-c1518617e6f31a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792317026840,
+   "content_type": "article",
+   "first_seen_ms": 1792317026840,
+   "indexable": true,
+   "indexnow_ms": 1792317026840,
+   "published_ms": 1792316940000,
+   "section": "",
+   "title": "\"יכול להיות שבלב אני לא הבחורה הכי אמהית\""
   },
   "https://www.mako.co.il/tv-mkr_israel/vip5-articles/Article-cf986b95bdfc0a1026.htm": {
    "check_attempts": 1,
