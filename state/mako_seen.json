@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792333349963,
+ "last_run_ms": 1792333649615,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9906,6 +9906,18 @@
    "published_ms": 1791352260000,
    "section": "ספורט",
    "title": "אחרי מסי: מי יהיה ה-10 הבא של ארגנטינה?"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-1923fa91b5f41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792333586796,
+   "content_type": "article",
+   "first_seen_ms": 1792333586796,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792333380000,
+   "section": "ספורט",
+   "title": "אפשרי. דיווח: סעיף השחרור של בלם הנבחרת"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-1cb1701068111a1027.htm": {
    "check_attempts": 1,
@@ -31131,7 +31143,7 @@
    "indexnow_ms": 1792320867244,
    "published_ms": 1792318920000,
    "section": "דיגיטל",
-   "title": "כך תוכלו לשריין את עצמכם לרשימת המתנה לטסלה המעופפת"
+   "title": "כולם רוצים טסלה מעופפת - אתם לא תשיגו אותה"
   },
   "https://www.mako.co.il/nexter-news/Article-6689848c03ce0a1026.htm": {
    "check_attempts": 1,
@@ -39868,6 +39880,18 @@
    "published_ms": 1791612600000,
    "section": "הכי חם",
    "title": "\"אני יורד על ארבע ומתחנן, אבל הוא לא מוכן\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-10d089d121f41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792333586796,
+   "content_type": "article",
+   "first_seen_ms": 1792333586796,
+   "indexable": true,
+   "indexnow_ms": 1792333586796,
+   "published_ms": 1792331280000,
+   "section": "",
+   "title": "\"את הטמבלית\": אברי גלעד עונה לרותי ברודו"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-1766d0af49be0a1026.htm": {
    "check_attempts": 1,
