@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792312348869,
+ "last_run_ms": 1792312648872,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15400,6 +15400,18 @@
    "published_ms": 1790516700000,
    "section": "כסף",
    "title": "ויקטורי שוברת את השוק עם אייפון ב-4,399 שקל"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-c138e1d3d1e41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792312586676,
+   "content_type": "article",
+   "first_seen_ms": 1792312586676,
+   "indexable": true,
+   "indexnow_ms": 1792312586676,
+   "published_ms": 1792299600000,
+   "section": "כסף",
+   "title": "החגיגה נגמרת: זארה בחדשות רעות לישראלים"
   },
   "https://www.mako.co.il/finances-consumer/Article-c82b4264081f0a1027.htm": {
    "check_attempts": 1,
@@ -36028,6 +36040,18 @@
    "published_ms": 1790148420000,
    "section": "חופש",
    "title": "נוסע ישראלי נעצר בזמן הטיסה באירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-013ba60531e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792312466675,
+   "content_type": "article",
+   "first_seen_ms": 1792312466675,
+   "indexable": true,
+   "indexnow_ms": 1792312466675,
+   "published_ms": 1792311360000,
+   "section": "חופש",
+   "title": "\"היה מאוד מפחיד, האלימות שררה כאן בכל מקום\""
   },
   "https://www.mako.co.il/travel-news/international/Article-05ce355188601a1027.htm": {
    "check_attempts": 1,

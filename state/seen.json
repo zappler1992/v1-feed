@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-cb0b798dd0e41a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b69ef07012e41a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33898,7 +33898,8 @@
    "published_ms": 1792300112000,
    "sections": [
     "חדשות",
-    "ספורט"
+    "ספורט",
+    "הכי נצפים עכשיו"
    ],
    "title": "פרשת ענק בליגת העל - החשד: עבירות כלכליות",
    "type": "news",
@@ -68824,6 +68825,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b5aff70eded41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17587_18102026073633/M_NEWS_17587_18102026073633_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b69ef07012e41a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפרלמנט באיראן אישר: מהרדאד אח'לאקי מונה לשר ההגנה החדש של המדינה",
+   "duration_s": 9,
+   "first_seen_ms": 1792312646092,
+   "image": "https://img.mako.co.il/2026/10/18/V1_KARIND_IRAN_7467_18102026082923_1400_1792312253192_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792312260000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפרלמנט באיראן אישר: מהרדאד אח'לאקי מונה לשר ההגנה החדש של המדינה",
+   "type": "mivzakim",
+   "updated_ms": 1792312260000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b69ef07012e41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_IRAN_7467_18102026082923/V1_KARIND_IRAN_7467_18102026082923_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92230,7 +92249,8 @@
    "published_ms": 1792301932000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המפגינים פורצים לחנויות יוקרה ובוזזים סחורה באלפי יורו: תיעודים מהמחאות ברחבי צרפת",
    "type": "mivzakim",
