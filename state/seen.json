@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4951ad057c551a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3675ad057c551a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72e4ad057c551a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a73f90f98c551a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-558ead057c551a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5347,7 +5343,9 @@
    "image": "https://img.mako.co.il/2026/10/19/SHIR_MASK_191026_1400_1792440931527_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792440938000,
-   "sections": [],
+   "sections": [
+    "הזמר במסכה"
+   ],
    "title": "כוכבת הרשת מאחורי מסכת הבוטוקס!",
    "type": "general",
    "updated_ms": 1792440900000,
@@ -13010,6 +13008,24 @@
    "updated_ms": 1792339990000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-81853c75fbf41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17626_18102026041140/M_Tarbut_17626_18102026041140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "צרחות: זאת המפורסמת שנחשפה מאחורי מסכת הבוטוקס ב״הזמר במסכה״",
+   "duration_s": 64,
+   "first_seen_ms": 1792441646554,
+   "image": "https://img.mako.co.il/2026/10/19/M_Tarbut_17709_19102026081616_1400_1792441222003_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792441230000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "צרחות: זאת המפורסמת שנחשפה מאחורי מסכת הבוטוקס ב״הזמר במסכה״",
+   "type": "mivzakim",
+   "updated_ms": 1792441230000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17709_19102026081616/M_Tarbut_17709_19102026081616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm": {
    "author": "עדכוני בידור",
