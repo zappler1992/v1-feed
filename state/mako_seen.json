@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792387049128,
+ "last_run_ms": 1792387349017,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37109,6 +37109,18 @@
    "section": "",
    "title": "בעקבות דיווח על פצצה במטוס: הנוסעים בנתב\"ג פונו בבהלה"
   },
+  "https://www.mako.co.il/travel-news/Article-d522f9fc08251a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792387349017,
+   "content_type": "article",
+   "first_seen_ms": 1792387349017,
+   "indexable": true,
+   "indexnow_ms": 1792387349017,
+   "published_ms": 1792386720000,
+   "section": "חופש",
+   "title": "ישראלית הוקפה בידי מפגינים בקניון"
+  },
   "https://www.mako.co.il/travel-news/Article-df8b97156eec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -38764,6 +38776,18 @@
    "published_ms": 1791885060000,
    "section": "",
    "title": "חדשות רעות לישראלים שרצו לטוס למדינה הזו"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-7802d98685251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792387349017,
+   "content_type": "article",
+   "first_seen_ms": 1792387349017,
+   "indexable": true,
+   "indexnow_ms": 1792387349017,
+   "published_ms": 1792383960000,
+   "section": "חופש",
+   "title": "\"אמרו לנו לשים את הדברים על הרצפה ולהתרחק\""
   },
   "https://www.mako.co.il/travel-news/israel/Article-7d3feedb57921a1026.htm": {
    "check_attempts": 1,

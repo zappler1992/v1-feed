@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-16384158cde41a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d78df9fc08251a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a350f9fc08251a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5313,6 +5312,24 @@
    "updated_ms": 1792328280000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-6549263330f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_GLENN_181026_FIX/SHIR_GLENN_181026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a350f9fc08251a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "אחרי שמונה שנים, חזיית הפנטזיה של ויקטוריה'ס סיקרט חוזרת למסלול – והפעם על קיילי ג'נר. \nהחזייה, בשווי 50 מיליון דולר, משובצת ב־4,410 יהלומים וביהלום צהוב נדיר במשקל 75.54 קראט, \nונבנתה במשך יותר מ־1,000 שעות עבודה בהתאמה אישית לגוף של קיילי. \nג'נר צעדה בתצוגה לראשונה בקריירה שלה, ובקהל נצפו בן הזוג טימותי שאלאמה ואמה קריס ג'נר, שהגיעו לפרגן.",
+   "duration_s": 35,
+   "first_seen_ms": 1792387346335,
+   "image": "https://img.mako.co.il/2026/10/19/Kim_Kylie_19102026_1400_1792386230705_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792386237000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "עם חזייה ב-50 מיליון דולר: קיילי ג'נר לראשונה על מסלול ויקטוריה'ס סיקרט",
+   "type": "general",
+   "updated_ms": 1792386237000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a350f9fc08251a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Kim_Kylie_19102026/MASTER/Kim_Kylie_19102026/Kim_Kylie_19102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-cb0b798dd0e41a1027.htm": {
    "author": "סלבס",
@@ -70124,7 +70141,7 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "\"טרוריסטית\": ישראלית הותקפה בקניון ונרדפה ע\"י מקומיים - לאחר שסומנה ברשת",
-   "duration_s": 173,
+   "duration_s": 72,
    "first_seen_ms": 1792385246260,
    "image": "https://img.mako.co.il/2026/10/19/V1_Turkey_7497_19102026044015_1400_1792384970230_FirstFrame.jpg",
    "importance": 2,
@@ -70136,7 +70153,7 @@
    "type": "mivzakim",
    "updated_ms": 1792384977000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_Turkey_7497_19102026044015/V1_Turkey_7497_19102026044015_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/TURFIXM/TURFIXM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm": {
    "author": "מבזקים",
@@ -71231,7 +71248,7 @@
    "sections": [],
    "title": "פולישוק פרק 14: שיחה אחת והדוברת מסתבכת",
    "type": "series",
-   "updated_ms": 1792324489000,
+   "updated_ms": 1792387080000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-16384158cde41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/POLISHUK_EP14/MASTER/POLISHUK_EP14/POLISHUK_EP14_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
