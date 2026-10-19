@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d3a70f1362451a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34e10aa233451a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98110aa233451a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -70433,6 +70434,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-334587d49f351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_WATER_7520_19102026115542/V1_WATER_7520_19102026115542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34e10aa233451a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גנץ פורש: ״לא אתמודד בבחירות הקרובות - אמשיך להיאבק למען אחדות\" - עמית סגל מסביר",
+   "duration_s": 114,
+   "first_seen_ms": 1792415246256,
+   "image": "https://img.mako.co.il/2026/10/19/AMITS_1400_1792415134847_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792415142000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גנץ פורש: ״לא אתמודד בבחירות הקרובות - אמשיך להיאבק למען אחדות\" - עמית סגל מסביר",
+   "type": "mivzakim",
+   "updated_ms": 1792415142000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34e10aa233451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/AMITS/AMITS_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-353d0c75d3251a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71046,6 +71065,24 @@
    "updated_ms": 1792336138000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-96da9718d8f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17621_18102026030654/M_NEWS_17621_18102026030654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98110aa233451a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גם יאיר גולן מתייחס לפרישתו של גנץ: \"קיבל החלטה אחראית ונכונה בשעה גורלית למדינה\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792415246256,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17687_19102026010328_1400_1792415100223_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792415110000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גם יאיר גולן מתייחס לפרישתו של גנץ: \"קיבל החלטה אחראית ונכונה בשעה גורלית למדינה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792415110000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98110aa233451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17687_19102026010328/M_NEWS_17687_19102026010328_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm": {
    "author": "מבזקים",
