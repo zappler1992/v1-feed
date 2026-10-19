@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b395cabaca451a1027.htm"
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-7fce7b2994451a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71022,7 +71022,8 @@
    "importance": 2,
    "published_ms": 1792416414000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "ההתלבטות של גנץ וההחלטה: דפנה ליאל עם מאחורי הקלעים של הפרישה ברגע האחרון",
    "type": "mivzakim",
@@ -89385,6 +89386,24 @@
    "updated_ms": 1791875432000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w03/shorts-f68c700e51431a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/NOAB_ERETZ_131026_M/MASTER/NOAB_ERETZ_131026_M/NOAB_ERETZ_131026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-7fce7b2994451a1026.htm": {
+   "author": "TV1",
+   "date_source": "json-publishDate",
+   "description": "תכירו את משחק \"אמת או שקר\" של נמלת האש: האם מאיה בוסקילה יצאה עם אושר כהן - או ישבה ליד בריטני ספירס בטיסה?",
+   "duration_s": 60,
+   "first_seen_ms": 1792424246374,
+   "image": "https://img.mako.co.il/2026/10/19/Inbalfinesfix_1400_1792423707261_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792415805000,
+   "sections": [
+    "הזמר במסכה"
+   ],
+   "title": "תכירו את משחק \"אמת או שקר\" של נמלת האש",
+   "type": "general",
+   "updated_ms": 1792423740000,
+   "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-7fce7b2994451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Inbalfinesfix/Inbalfinesfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m07_w05/shorts-39b7f929289af91026.htm": {
    "author": "מבזקים מהעולם",
