@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792403248556,
+ "last_run_ms": 1792403548664,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8370,6 +8370,18 @@
    "published_ms": 1792380120000,
    "section": "ספורט",
    "title": "בהפועל ב\"ש חוששים מפציעה חמורה של ונטורה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7bb92e4509351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792403548664,
+   "content_type": "article",
+   "first_seen_ms": 1792403548664,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792403340000,
+   "section": "ספורט",
+   "title": "יציאה מהמקום: השדרוג שעבר הליו וארלה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7c451a86cff41a1027.htm": {
    "check_attempts": 1,
@@ -41176,6 +41188,18 @@
    "published_ms": 1790659980000,
    "section": "",
    "title": "כוכב \"הצלצול הגואל\" הלך לעולמו בגיל 75"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-1d33908fece41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792403548664,
+   "content_type": "article",
+   "first_seen_ms": 1792403548664,
+   "indexable": true,
+   "indexnow_ms": 1792403548664,
+   "published_ms": 1792403280000,
+   "section": "",
+   "title": "בגלל דניאל? הצעד המסקרן של נועה קירל"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-22af9fdc3ba11a1026.htm": {
    "check_attempts": 1,
