@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-7f62ff0b5d551a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a90c6eaa1e551a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6ec5ff0b5d551a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12901,6 +12902,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-695e4391b6d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17571_18102026051420/M_Celebs_17571_18102026051420_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6ec5ff0b5d551a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אין על קוקי ואירנה",
+   "duration_s": 15,
+   "first_seen_ms": 1792442846532,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17715_19102026083316_1400_1792442072581_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792442079000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אין על קוקי ואירנה",
+   "type": "mivzakim",
+   "updated_ms": 1792442079000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6ec5ff0b5d551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17715_19102026083316/M_Celebs_17715_19102026083316_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-6f95f1ed27351a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13260,6 +13279,24 @@
    "updated_ms": 1792396734000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a835080432351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_FF_17665_19102026075702/M_FF_17665_19102026075702_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a90c6eaa1e551a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סלין דיון סיימה את סיבוב ההופעות בפריז ועזבה את בית המלון לאחר חודש עם עשרות המזוודות שלה",
+   "duration_s": 24,
+   "first_seen_ms": 1792442846532,
+   "image": "https://img.mako.co.il/2026/10/19/M_Music_17716_19102026084234_1400_1792442643667_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792442650000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סלין דיון סיימה את סיבוב ההופעות בפריז ועזבה את בית המלון לאחר חודש עם עשרות המזוודות שלה",
+   "type": "mivzakim",
+   "updated_ms": 1792442650000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a90c6eaa1e551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17716_19102026084234/M_Music_17716_19102026084234_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b4090c776a051a1027.htm": {
    "author": "עדכוני בידור",
@@ -71524,7 +71561,7 @@
    "first_seen_ms": 1792434446501,
    "image": "https://img.mako.co.il/2025/09/15/fallbackv1new.png",
    "importance": 2,
-   "published_ms": 1792434170000,
+   "published_ms": 1792432620000,
    "sections": [
     "מבזקים",
     "חדשות"
