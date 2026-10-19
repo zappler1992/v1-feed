@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-22cb441c0c551a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4951ad057c551a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3675ad057c551a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72e4ad057c551a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a73f90f98c551a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-558ead057c551a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5333,6 +5337,22 @@
    "updated_ms": 1792319280000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-3885556a08e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_MAOR_181026_FIX/SHIR_MAOR_181026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4951ad057c551a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "השופטים היו בהלם: כוכבת הרשת דניאל עמית הסתתרה מאחורי מסכת הבוטוקס!",
+   "duration_s": 20,
+   "first_seen_ms": 1792441346558,
+   "image": "https://img.mako.co.il/2026/10/19/SHIR_MASK_191026_1400_1792440931527_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792440938000,
+   "sections": [],
+   "title": "כוכבת הרשת מאחורי מסכת הבוטוקס!",
+   "type": "general",
+   "updated_ms": 1792440900000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4951ad057c551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/SHIR_MASK_191026/MASTER/SHIR_MASK_191026/SHIR_MASK_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-54060a9ea6e41a1027.htm": {
    "author": "סלבס",
@@ -12703,6 +12723,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c38d98685251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17647_19102026040740/M_Tarbut_17647_19102026040740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-558ead057c551a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מתן פרץ: ״המלחמות בינינו יהיו הסוף שלנו״",
+   "duration_s": 88,
+   "first_seen_ms": 1792441346558,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17708_19102026081107_1400_1792440779144_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792440785000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מתן פרץ: ״המלחמות בינינו יהיו הסוף שלנו״",
+   "type": "mivzakim",
+   "updated_ms": 1792440785000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-558ead057c551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17708_19102026081107/M_Celebs_17708_19102026081107_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-579badef1c051a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -12900,6 +12938,24 @@
    "updated_ms": 1792302479000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72a0d3a208d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17580_18102026054651/M_Tarbut_17580_18102026054651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72e4ad057c551a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אליענה בקייר גרסת אודיה פינטו",
+   "duration_s": 45,
+   "first_seen_ms": 1792441346558,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17710_19102026081648_1400_1792441121625_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792441128000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אליענה בקייר גרסת אודיה פינטו",
+   "type": "mivzakim",
+   "updated_ms": 1792441128000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72e4ad057c551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17710_19102026081648/M_Celebs_17710_19102026081648_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7a1751a993d41a1027.htm": {
    "author": "עדכוני בידור",
@@ -13116,6 +13172,24 @@
    "updated_ms": 1792416853000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a27d3b2f65451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17688_19102026012959/M_Celebs_17688_19102026012959_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a73f90f98c551a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "רגע אחרי החשיפה: דניאל עמית משתפת ממאחורי הקלעים של ״הזמר במסכה״",
+   "duration_s": 12,
+   "first_seen_ms": 1792441346558,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17711_19102026081651_1400_1792441091402_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792441097000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "רגע אחרי החשיפה: דניאל עמית משתפת ממאחורי הקלעים של ״הזמר במסכה״",
+   "type": "mivzakim",
+   "updated_ms": 1792441097000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a73f90f98c551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17711_19102026081651/M_Celebs_17711_19102026081651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a835080432351a1026.htm": {
    "author": "עדכוני בידור",
@@ -71047,6 +71121,24 @@
    "updated_ms": 1792294516000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-361d127280d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17556_18102026033319/M_NEWS_17556_18102026033319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3675ad057c551a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תפנית בפרשת רצח בניהו רזי | ביהמ\"ש המחוזי בי-ם: אין ראיות לאישום נגד אגם צרפי ושילת חוטה",
+   "duration_s": 9,
+   "first_seen_ms": 1792441346558,
+   "image": "https://img.mako.co.il/2026/10/19/V1_KARIND_AGAM_7544_19102026081709_1400_1792441130121_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792441137000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תפנית בפרשת רצח בניהו רזי | ביהמ\"ש המחוזי בי-ם: אין ראיות לאישום נגד אגם צרפי ושילת חוטה",
+   "type": "mivzakim",
+   "updated_ms": 1792441137000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3675ad057c551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_KARIND_AGAM_7544_19102026081709/V1_KARIND_AGAM_7544_19102026081709_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-370f51a993d41a1027.htm": {
    "author": "מבזקים",
