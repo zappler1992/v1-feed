@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792399649247,
+ "last_run_ms": 1792399949193,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21,9 +21,9 @@
    "first_seen_ms": 1792399348497,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1792399100000,
    "section": "אופנה",
-   "title": "לשמלה של אניה בוקשטיין יש מחשוף גב משגע"
+   "title": "איפה קנית: לשמלה של אניה בוקשטיין יש מחשוף גב משגע"
   },
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -3248,6 +3248,18 @@
    "published_ms": 1791991380000,
    "section": "ספורט",
    "title": "לראשונה: הפועל תל אביב ללא ישראלי בסגל"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-22081e18a5351a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792399949193,
+   "content_type": "article",
+   "first_seen_ms": 1792399949193,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792399680000,
+   "section": "ספורט",
+   "title": "עניין של שעות: הדרמה שהובילה לחתימת ווקר"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-22423ccc4fa31a1026.htm": {
    "check_attempts": 1,
@@ -15412,6 +15424,18 @@
    "published_ms": 1790844180000,
    "section": "סלבס",
    "title": "התפתחות בפרשת הירי לעבר הבית של הכוכבת"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-97f019de91351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792399949193,
+   "content_type": "article",
+   "first_seen_ms": 1792399949193,
+   "indexable": true,
+   "indexnow_ms": 1792399949193,
+   "published_ms": 1792399680000,
+   "section": "סלבס",
+   "title": "רואים לך: אשתו של קניה ווסט שוב משאירה אפס מקום לדמיון"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-97f6b8186cdc0a1027.htm": {
    "check_attempts": 1,
