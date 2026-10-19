@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792393349264,
+ "last_run_ms": 1792393649337,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21449,6 +21449,18 @@
    "section": "HIX",
    "title": "הוגשה תלונה למשטרה: בן שנה וחצי ברח מהגנון"
   },
+  "https://www.mako.co.il/hix-special/Article-024a6bf47f251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792393649337,
+   "content_type": "article",
+   "first_seen_ms": 1792393649337,
+   "indexable": true,
+   "indexnow_ms": 1792393649337,
+   "published_ms": 1792393500000,
+   "section": "HIX",
+   "title": "חמושים פתחו באש לעבר רכבו של הכוכב הבוליוודי"
+  },
   "https://www.mako.co.il/hix-special/Article-0647273d19431a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -40552,6 +40564,18 @@
    "published_ms": 1791540900000,
    "section": "",
    "title": "יהודה לוי: \"זה כל מה שמעניין אותי בחיים\""
+  },
+  "https://www.mako.co.il/tvbee-articles/Article-35fadae57ae41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792393467293,
+   "content_type": "article",
+   "first_seen_ms": 1792393467293,
+   "indexable": true,
+   "indexnow_ms": 1792393467293,
+   "published_ms": 1792392840000,
+   "section": "תרבות tvbee",
+   "title": "כוכב מארוול בדרך לפסגה: \"הזדמנות של פעם אחת\""
   },
   "https://www.mako.co.il/tvbee-articles/Article-4ad7a5e0662d0a1026.htm": {
    "check_attempts": 1,
