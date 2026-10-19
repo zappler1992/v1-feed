@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-24747c4389251a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-8b457c4389251a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a75e9ed43a251a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e74583331a251a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12878,6 +12878,24 @@
    "updated_ms": 1792299244000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-deae7e2915d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17561_18102026045257/M_Tarbut_17561_18102026045257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e74583331a251a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סלינה גומז משתפת שהסיגריה האלקטרונית שינתה את הקול שלה: \"זה כל כך קשה להיגמל\"",
+   "duration_s": 51,
+   "first_seen_ms": 1792388846377,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17654_19102026053939_1400_1792388480129_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792388487000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סלינה גומז משתפת שהסיגריה האלקטרונית שינתה את הקול שלה: \"זה כל כך קשה להיגמל\"",
+   "type": "mivzakim",
+   "updated_ms": 1792388487000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e74583331a251a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17654_19102026053939/M_Celebs_17654_19102026053939_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ec3a273991051a1027.htm": {
    "author": "עדכוני בידור",
@@ -70162,7 +70180,7 @@
    "description": "תיעוד אימה מקניון בטורקיה: ישראלית הותקפה בידי המון \"תסתלקי מפה, רוצחת ילדים!\"",
    "duration_s": 72,
    "first_seen_ms": 1792385246260,
-   "image": "https://img.mako.co.il/2026/10/19/V1_Turkey_7497_19102026044015_1400_1792384970230_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/19/TURFIXM_1400_1792388600511_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792384977000,
    "sections": [
@@ -70390,6 +70408,24 @@
    "updated_ms": 1792309174000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_canada_7463_18102026073806/V1_karind_canada_7463_18102026073806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a75e9ed43a251a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פעלו לשיקום הארגון והפרו את הפסקת האש: צה\"ל חיסל בסוף השבוע 3 מחבלי חמאס בצפון הרצועה",
+   "duration_s": 9,
+   "first_seen_ms": 1792388846377,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17655_19102026054000_1400_1792388471435_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792388478000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פעלו לשיקום הארגון והפרו את הפסקת האש: צה\"ל חיסל בסוף השבוע 3 מחבלי חמאס בצפון הרצועה",
+   "type": "mivzakim",
+   "updated_ms": 1792388478000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a75e9ed43a251a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17655_19102026054000/M_NEWS_17655_19102026054000_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm": {
    "author": "מבזקים",
