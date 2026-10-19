@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-16384158cde41a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d78df9fc08251a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7383,7 +7383,8 @@
    "importance": 0,
    "published_ms": 1792352027000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי הפרידה המתוקשרת מתום אבני: השחקנית לירז צ'רכי בזוגיות חדשה עם איש חיי הלילה, בנג'מין לנפנט",
    "type": "mivzakim",
@@ -12805,6 +12806,24 @@
    "updated_ms": 1792320691000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c64fcf6fb9e41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17600_18102026105005/M_Celebs_17600_18102026105005_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d78df9fc08251a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מעריץ מספר 1: התגובה המרגשת של דילן סופראוס כשאשתו ברברה צעדה על המסלול של ויקטוריה סיקרט",
+   "duration_s": 32,
+   "first_seen_ms": 1792386446341,
+   "image": "https://img.mako.co.il/2026/10/19/M_FF_17648_19102026045734_1400_1792385935733_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792385942000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מעריץ מספר 1: התגובה המרגשת של דילן סופראוס כשאשתו ברברה צעדה על המסלול של ויקטוריה סיקרט",
+   "type": "mivzakim",
+   "updated_ms": 1792385942000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d78df9fc08251a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_FF_17648_19102026045734/M_FF_17648_19102026045734_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d814258cf5051a1027.htm": {
    "author": "עדכוני בידור",
@@ -71200,6 +71219,22 @@
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w03/shorts-e793598801031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/POLISHUK_EP12/MASTER/POLISHUK_EP12/POLISHUK_EP12_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-16384158cde41a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 14: פולישוק עוד מנסה לצאת מהבלגן בכביש, וכבר מגלה שגם הריאיון שלו השאיר נזק. כשקוזו דורש הסברים, הוא מגלגל את האחריות על תקומה - והיא מתפרצת על קוזו בלי לדעת שגם הוא שומע כל מילה.",
+   "duration_s": 117,
+   "first_seen_ms": 1792386446341,
+   "image": "https://img.mako.co.il/2026/10/18/POLISHUK_EP14_1400_1792324482614_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792324489000,
+   "sections": [],
+   "title": "פולישוק פרק 14: שיחה אחת והדוברת מסתבכת",
+   "type": "series",
+   "updated_ms": 1792324489000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-16384158cde41a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/POLISHUK_EP14/MASTER/POLISHUK_EP14/POLISHUK_EP14_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/recipes-2026/m09_w03/shorts-84f82fb2553b0a1027.htm": {
    "author": "מתכונים",
    "date_source": null,
@@ -93012,7 +93047,8 @@
    "published_ms": 1792248226000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הכאוס במרסיי: המחאה יוצאת משליטה, וגוברת הקריאות להפעלת הצבא",
    "type": "mivzakim",
@@ -93414,7 +93450,8 @@
    "published_ms": 1792253607000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הכאוס בפריז: הפורעים מתקרבים לארמון האליזה, משכנו של הנשיא מקרון",
    "type": "mivzakim",
@@ -94129,7 +94166,8 @@
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
     "הכי Vיראלים",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים השבוע"
    ],
    "title": "הוא קפץ למים - וסירה חלפה לידו במהירות מסוכנת: צפו בתיעוד המטורף ממצרים",
    "type": "mivzakim",
