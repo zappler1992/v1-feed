@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-4274cebccc451a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a4f2ab480c451a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b9ac2d87cd451a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-73fb2d87cd451a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-017d664b9d451a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -35245,18 +35246,18 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-4274cebccc451a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "שמועות ברשת טוענות כי מנהיג צפון קוריאה, קים ג'ונג און, נמצא בתרדמת לאחר דימום מוחי ואף הועבר לטיפול בסין. במקביל, גוברים הדיווחים על האפשרות שאחותו, קים יו ג'ונג, תירש את מקומו. עם זאת, הטענות טרם אומתו באופן עצמאי.",
+   "description": "מה קרה לדיקטטור של קוריאה הצפונית: הרשת מתמלאת בשמועות על כך שקים ג'ונג און \"עבר דימום מוחי והתפנה לבית חולים בסין\"",
    "duration_s": 26,
    "first_seen_ms": 1792425147230,
-   "image": "https://img.mako.co.il/2026/10/19/SHIR_KIMJHON_191026_3_1400_1792425015887_FirstFrame.jpg",
-   "importance": 2,
+   "image": "https://img.mako.co.il/2026/10/19/SHIR_KIMJHON_191026_FIX_1400_1792425607552_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1792424838000,
    "sections": [],
-   "title": "לאן נעלם הדיקטטור? ברשת טוענים: מנהיג קוריאה הצפונית עבר דימום מוחי - ואושפז בסין",
+   "title": "מה קרה לדיקטטור: השמועות על קים ג'ונג און",
    "type": "news",
-   "updated_ms": 1792424838000,
+   "updated_ms": 1792425540000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-4274cebccc451a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/SHIR_KIMJHON_191026_2/MASTER/SHIR_KIMJHON_191026_2/SHIR_KIMJHON_191026_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/SHIR_KIMJHON_191026_FIX/SHIR_KIMJHON_191026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-529e4acd8cd41a1027.htm": {
    "author": "חדשות",
@@ -70216,6 +70217,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-fe009cbb84431a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/13/M_NEWS_17239_13102026080549/M_NEWS_17239_13102026080549_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-017d664b9d451a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר כבן 45 אותר ללא רוח חיים בביתו בתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1792426047170,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17691_19102026035048_1400_1792425127953_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792425134000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר כבן 45 אותר ללא רוח חיים בביתו בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1792425134000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-017d664b9d451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17691_19102026035048/M_NEWS_17691_19102026035048_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-038558cb32451a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -70992,6 +71011,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6fc4c3cbf9f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_GADIO_7485_18102026034050/V1_GADIO_7485_18102026034050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-73fb2d87cd451a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"הגיע הזמן לפתוח פרק חדש\": לאחר 43 שנים, כריסטיאן אמנפור עוזבת את CNN",
+   "duration_s": 66,
+   "first_seen_ms": 1792426047170,
+   "image": "https://img.mako.co.il/2026/10/19/V1_karind_Christiane_7530_19102026035801_1400_1792425584333_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792425591000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"הגיע הזמן לפתוח פרק חדש\": לאחר 43 שנים, כריסטיאן אמנפור עוזבת את CNN",
+   "type": "mivzakim",
+   "updated_ms": 1792425591000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-73fb2d87cd451a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_Christiane_7530_19102026035801/V1_karind_Christiane_7530_19102026035801_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71552,6 +71589,24 @@
    "updated_ms": 1792338005000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b970c3cbf9f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17623_18102026033831/M_NEWS_17623_18102026033831_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b9ac2d87cd451a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח בלבנון: ישראל תקפה בדרום המדינה",
+   "duration_s": 9,
+   "first_seen_ms": 1792426047170,
+   "image": "https://img.mako.co.il/2026/10/19/V1_karind_lebanon_7531_19102026035943_1400_1792425682927_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792425689000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח בלבנון: ישראל תקפה בדרום המדינה",
+   "type": "mivzakim",
+   "updated_ms": 1792425689000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b9ac2d87cd451a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_lebanon_7531_19102026035943/V1_karind_lebanon_7531_19102026035943_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ba62a01ce4f41a1026.htm": {
    "author": "מבזקים",
