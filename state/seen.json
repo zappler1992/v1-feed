@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1a2ff7d2b6251a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -70099,6 +70100,42 @@
    "updated_ms": 1792338138000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6fc4c3cbf9f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_GADIO_7485_18102026034050/V1_GADIO_7485_18102026034050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"טרוריסטית\": ישראלית הותקפה בקניון ונרדפה ע\"י מקומיים - לאחר שסומנה ברשת",
+   "duration_s": 173,
+   "first_seen_ms": 1792385246260,
+   "image": "https://img.mako.co.il/2026/10/19/V1_Turkey_7497_19102026044015_1400_1792384970230_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792384977000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"טרוריסטית\": ישראלית הותקפה בקניון ונרדפה ע\"י מקומיים - לאחר שסומנה ברשת",
+   "type": "mivzakim",
+   "updated_ms": 1792384977000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_Turkey_7497_19102026044015/V1_Turkey_7497_19102026044015_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "8 פורעים יהודים נעצרו בחשד למעורבות בתקריות האלימות ביהודה ושומרון בסוף השבוע",
+   "duration_s": 5,
+   "first_seen_ms": 1792385246260,
+   "image": "https://img.mako.co.il/2026/10/19/V1_alimot_7498_19102026044444_1400_1792385145791_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792385152000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "8 פורעים יהודים נעצרו בחשד למעורבות בתקריות האלימות ביהודה ושומרון בסוף השבוע",
+   "type": "mivzakim",
+   "updated_ms": 1792385152000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_alimot_7498_19102026044444/V1_alimot_7498_19102026044444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-83683c75fbf41a1027.htm": {
    "author": "מבזקים",
