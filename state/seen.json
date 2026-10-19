@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7457,7 +7457,9 @@
    "image": "https://img.mako.co.il/2026/10/19/V1_HADARSHIRI_7512_19102026085141_1400_1792399983673_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1792399990000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "הדר שירי צעקה לבלה חדיד \"עם ישראל חי\" בזמן שצעדה על המסלול של ויקטוריה סיקרט",
    "type": "mivzakim",
    "updated_ms": 1792399990000,
@@ -70697,6 +70699,24 @@
    "updated_ms": 1792317540000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_sender_7474_18102026095403/V1_karind_sender_7474_18102026095403_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עורכת דינה של אשת ראש העיר כפר סבא: \"השילה ממשקלה כחמישה קילוגרם ונוטלת כדורי הרגעה\"",
+   "duration_s": 8,
+   "first_seen_ms": 1792408646162,
+   "image": "https://img.mako.co.il/2026/10/19/V1_meital_7519_19102026110946_1400_1792408257112_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792408263000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עורכת דינה של אשת ראש העיר כפר סבא: \"השילה ממשקלה כחמישה קילוגרם ונוטלת כדורי הרגעה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792408263000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_meital_7519_19102026110946/V1_meital_7519_19102026110946_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85cc8ebc24351a1026.htm": {
    "author": "מבזקים",
