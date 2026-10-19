@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3c746eaa1e551a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98c790438f551a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7567,7 +7567,8 @@
    "importance": 1,
    "published_ms": 1792428480000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "רמז ליעל שלביה? עומר אדם משחרר הצצה לשיר חדש",
    "type": "mivzakim",
@@ -19678,7 +19679,8 @@
    "importance": 1,
    "published_ms": 1792430102000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "מליונים כבר צפו: כשהסיוט של כולנו במטוס - מתגשם",
    "type": "general",
@@ -35648,7 +35650,8 @@
    "importance": 2,
    "published_ms": 1792434137000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשרון ובנגב: מבצע אכיפה משטרתי נרחב יוצא לדרך",
    "type": "news",
@@ -71969,6 +71972,24 @@
    "updated_ms": 1792415110000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98110aa233451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17687_19102026010328/M_NEWS_17687_19102026010328_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98c790438f551a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשיא המתיחות ורגע לפני הבחירות: שר ההגנה האמריקני פיט הגסת' ביקר אתמול בישראל ונפגש עם נתניהו",
+   "duration_s": 9,
+   "first_seen_ms": 1792450046753,
+   "image": "https://img.mako.co.il/2026/10/20/V1_Stiv_bikur_7548_19102026104301_1400_1792449864727_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792449871000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשיא המתיחות ורגע לפני הבחירות: שר ההגנה האמריקני פיט הגסת' ביקר אתמול בישראל ונפגש עם נתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1792449871000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-98c790438f551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_Stiv_bikur_7548_19102026104301/V1_Stiv_bikur_7548_19102026104301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm": {
    "author": "מבזקים",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792449765716,
+ "last_run_ms": 1792450065547,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1304,6 +1304,18 @@
    "published_ms": 1792094129000,
    "section": "Fashion Forward",
    "title": "אין ספק לגבי הצבע החם של החורף. נשאר רק למצוא את הפריט המנצח"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/321908/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792450065547,
+   "content_type": "article",
+   "first_seen_ms": 1792450065547,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792298153000,
+   "section": "Fashion Forward",
+   "title": "ספיר אביסרור יודעת בדיוק איך נראית החגורה המבוקשת של העונה"
   },
   "https://fashionforward.mako.co.il/trend/alert/321979/": {
    "check_attempts": 1,
