@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792398449459,
+ "last_run_ms": 1792398749444,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10507,6 +10507,18 @@
    "section": "ספורט",
    "title": "צפו בתקציר. רקדה על הדשא: 0:7 לארגנטינה"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-92bd8ebc24351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792398749444,
+   "content_type": "article",
+   "first_seen_ms": 1792398749444,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792398300000,
+   "section": "ספורט",
+   "title": "\"מאמן כדורגל התקפי\": מה שנאמר על יצחקי"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-964737d8d2311a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16001,6 +16013,18 @@
    "section": "כסף",
    "title": "צרפת: האקרים הפשירו מקררים, מיליוני אירו נזרקו לפח"
   },
+  "https://www.mako.co.il/finances-consumer/Article-7e188ebc24351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792398627578,
+   "content_type": "article",
+   "first_seen_ms": 1792398627578,
+   "indexable": true,
+   "indexnow_ms": 1792398627578,
+   "published_ms": 1792398240000,
+   "section": "כסף",
+   "title": "ריקול למתאם שקע לחו\"ל: נמס, מתפרק ומסכן חיים"
+  },
   "https://www.mako.co.il/finances-consumer/Article-8a62ed9e523e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20955,7 +20979,7 @@
    "indexnow_ms": 1792391187084,
    "published_ms": 1792390920000,
    "section": "HIX",
-   "title": "במתקן הפופולרי: בן 13 עלה לרכבת הרים - ונהרג"
+   "title": "הנער נהרג ברכבת ההרים, ותגובת ההנהלה מרתיחה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-7ad74bb5618c0a1027.htm": {
    "check_attempts": 1,
@@ -39568,6 +39592,18 @@
    "published_ms": 1791261420000,
    "section": "חופש",
    "title": "הסוד של המדינה היפה: העיר הזו היא קסם האמיתי"
+  },
+  "https://www.mako.co.il/travel-world/Article-84c8302033f21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792398627578,
+   "content_type": "article",
+   "first_seen_ms": 1792398627578,
+   "indexable": true,
+   "indexnow_ms": 1792398627578,
+   "published_ms": 1792398360000,
+   "section": "חופש",
+   "title": "יצאנו לטיול מאורגן למשפחות - ואתם חייבים לשמוע עליו"
   },
   "https://www.mako.co.il/travel-world/Article-9e540d542aa01a1026.htm": {
    "check_attempts": 1,
