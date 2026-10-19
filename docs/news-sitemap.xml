@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0c49f7d2b6251a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-19T04:29:21+00:00</news:publication_date>
+<news:title>אלה הן 5 הכותרות החשובות של הבוקר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_KOTAROT_7495_19102026042739_1400_1792384155638_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e3b20c75d3251a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2303,14 +2312,5 @@
 <news:title>״אני ודולי לנצח״: מיילי סיירוס מתפרקת על הבמה כשהיא מדברת על דולי פרטון שהלכה לעולמה לפני חודשיים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/17/M_Music_17499_17102026044338_1400_1792212292271_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w03/shorts-f93b758321841a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-17T04:30:52+00:00</news:publication_date>
-<news:title>מצר הורמוז? יותר מצר האייפונים: לאחר שנפלו מכשירים אל הים בגלל תקיפה - איראנים תועדו אוספים אותם</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/17/V1_Iraniphone_7406_17102026042915_1400_1792211444327_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
