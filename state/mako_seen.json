@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792380148911,
+ "last_run_ms": 1792380450985,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8275,6 +8275,18 @@
    "section": "ספורט",
    "title": "יעשה היסטוריה? הבישולים של ברוניניו"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7a18558803251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792380450985,
+   "content_type": "article",
+   "first_seen_ms": 1792380450985,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792380120000,
+   "section": "ספורט",
+   "title": "בהפועל ב\"ש חוששים מפציעה חמורה של ונטורה"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7c451a86cff41a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -9282,6 +9294,18 @@
    "published_ms": 1792225800000,
    "section": "ספורט",
    "title": "לא כזה פשוט: מי השוער הכי טוב בליגה?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ec15289400251a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792380387420,
+   "content_type": "article",
+   "first_seen_ms": 1792380387420,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792380180000,
+   "section": "ספורט",
+   "title": "\"רצו להרביץ למרציאנו, היום הוא הכי טוב\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ec58a74720341a1026.htm": {
    "check_attempts": 1,
@@ -38175,7 +38199,7 @@
    "indexnow_ms": 1792351827570,
    "published_ms": 1792351260000,
    "section": "",
-   "title": "בגלל דיווח על פצצה: טיסה מישראל ביצעה נחיתת חירום"
+   "title": "נחיתת החירום באוסטריה: בישראל בודקים התרעת שווא מכוונת"
   },
   "https://www.mako.co.il/travel-news/international/Article-df508050d12f0a1026.htm": {
    "check_attempts": 1,
