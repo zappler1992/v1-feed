@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ea8d5387fd351a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-39aa5387fd351a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f0c85387fd351a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12449,6 +12451,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3568cbf13df41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17627_18102026042147/M_Tarbut_17627_18102026042147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-39aa5387fd351a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"משה פרץ ובר רפאלי הם ההקבצה ב' של הפאנל\": אופירה אסייג לא עושה הנחות לשופטים החדשים",
+   "duration_s": 62,
+   "first_seen_ms": 1792408946172,
+   "image": "https://img.mako.co.il/2026/10/19/M_Tarbut_17677_19102026111456_1400_1792408665526_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792408673000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"משה פרץ ובר רפאלי הם ההקבצה ב' של הפאנל\": אופירה אסייג לא עושה הנחות לשופטים החדשים",
+   "type": "mivzakim",
+   "updated_ms": 1792408673000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-39aa5387fd351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17677_19102026111456/M_Tarbut_17677_19102026111456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3dfa6bf47f251a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13132,6 +13152,24 @@
    "updated_ms": 1792345345000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ec3a273991051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17629_18102026054115/M_Tarbut_17629_18102026054115_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f0c85387fd351a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ניקי לא אישרה את הזוגיות?\nענבל אלדן בסרטון עם הכלבה \nשל בן הזוג אביתר עוזרי",
+   "duration_s": 18,
+   "first_seen_ms": 1792408946172,
+   "image": "https://img.mako.co.il/2026/10/19/M_Celebs_17676_19102026111428_1400_1792408557903_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792408565000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ניקי לא אישרה את הזוגיות?\nענבל אלדן בסרטון עם הכלבה \nשל בן הזוג אביתר עוזרי",
+   "type": "mivzakim",
+   "updated_ms": 1792408565000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f0c85387fd351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17676_19102026111428/M_Celebs_17676_19102026111428_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f7cb0c776a051a1027.htm": {
    "author": "עדכוני בידור",
@@ -35269,7 +35307,9 @@
    "image": "https://img.mako.co.il/2026/10/19/inbie_dvori_191026_1400_1792397046872_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792404960000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "החשש ממתקפה איראנית בבחירות | דיווח: היעדים שטראמפ מתכנן לתקוף",
    "type": "news",
    "updated_ms": 1792404960000,
@@ -35302,7 +35342,8 @@
    "importance": 2,
    "published_ms": 1792395367000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשורה רעה ללקוחות זארה: סוגרת סניפים בישראל",
    "type": "news",
@@ -71314,6 +71355,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e99ac3cbf9f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17622_18102026033244/M_NEWS_17622_18102026033244_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ea8d5387fd351a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ארגון הצלה מבקש את עזרת הציבור: בשעות האחרונות נגנבו בחיפה אופני חירום של ארגון הצלה עם ציוד רפואי מ",
+   "duration_s": 9,
+   "first_seen_ms": 1792408946172,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17680_19102026111900_1400_1792408825781_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792408832000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ארגון הצלה מבקש את עזרת הציבור: בשעות האחרונות נגנבו בחיפה אופני חירום של ארגון הצלה עם ציוד רפואי מ",
+   "type": "mivzakim",
+   "updated_ms": 1792408832000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ea8d5387fd351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17680_19102026111900/M_NEWS_17680_19102026111900_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-eb41724176051a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -94888,7 +94947,8 @@
    "importance": 0,
    "published_ms": 1792396857000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בן 13 נהרג בנפילה מרכבת הרים בפארק שעשועים בביירות - ההנהלה טוענת שקפץ | המשטרה חוקרת",
    "type": "mivzakim",
@@ -95080,7 +95140,8 @@
    "importance": 0,
    "published_ms": 1792398662000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מזג אוויר קיצוני והצפות בספרד: הנחיה להישאר בבתים בוולנסיה ובאליקנטה וחסימת כבישים",
    "type": "mivzakim",
