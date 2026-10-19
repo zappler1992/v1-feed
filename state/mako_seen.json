@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792395749311,
+ "last_run_ms": 1792396049865,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8419,6 +8419,18 @@
    "section": "ספורט",
    "title": "בלי מו\"מ: מה היה בין דסה למכבי ת\"א בקיץ?"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8ecf19de91351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792395987756,
+   "content_type": "article",
+   "first_seen_ms": 1792395987756,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792395840000,
+   "section": "ספורט",
+   "title": "\"ברק יצחקי מועמד מוביל לאימון אנורתוזיס\""
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8f60c0c633921a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16432,6 +16444,18 @@
    "published_ms": 1791538320000,
    "section": "כסף",
    "title": "המשקיעים הפכו למיליונרים, עד שהגיעה המכה"
+  },
+  "https://www.mako.co.il/finances-money/Article-0d06dc27f0351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792395867760,
+   "content_type": "article",
+   "first_seen_ms": 1792395867760,
+   "indexable": true,
+   "indexnow_ms": 1792395867760,
+   "published_ms": 1792395480000,
+   "section": "כסף",
+   "title": "הקלטת את הבוס? מותר. את הישיבה? עבירה פלילית"
   },
   "https://www.mako.co.il/finances-money/Article-1543e89345f21a1026.htm": {
    "check_attempts": 1,
