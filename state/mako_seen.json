@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792392451232,
+ "last_run_ms": 1792392749390,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9078,6 +9078,18 @@
    "published_ms": 1791811680000,
    "section": "ספורט",
    "title": "הסכום שקיבל שוער בני סכנין ומה קנה בכסף?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d8a823d0ce251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792392749390,
+   "content_type": "article",
+   "first_seen_ms": 1792392749390,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792392480000,
+   "section": "ספורט",
+   "title": "אחד בהרכב, אחד מחוץ לסגל: הדילמה בבית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-dbf8b7abd9621a1027.htm": {
    "check_attempts": 1,
@@ -22865,6 +22877,18 @@
    "section": "הורים",
    "title": "\"רוצים לשמוע רק מה שמחזק את הדעות שלהם\""
   },
+  "https://www.mako.co.il/home-family-kids/Article-96c7ba57eb251a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792392627252,
+   "content_type": "article",
+   "first_seen_ms": 1792392627252,
+   "indexable": true,
+   "indexnow_ms": 1792392627252,
+   "published_ms": 1792390380000,
+   "section": "הורים",
+   "title": "האם אנחנו לא יודעים כבר איך להתרכז?"
+  },
   "https://www.mako.co.il/home-family-kids/Article-a46030d07d1e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -32224,6 +32248,18 @@
    "published_ms": 1791642960000,
    "section": "",
    "title": "המציא מידע על רצח ושלח למשטרה: ה-AI משתולל"
+  },
+  "https://www.mako.co.il/nexter-news/Article-c548564b2c251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792392627252,
+   "content_type": "article",
+   "first_seen_ms": 1792392627252,
+   "indexable": true,
+   "indexnow_ms": 1792392627252,
+   "published_ms": 1792392180000,
+   "section": "דיגיטל",
+   "title": "\"לי יש דעות פוליטיות, אני לא מספרת אותן מפחד ברשתות\""
   },
   "https://www.mako.co.il/nexter-news/Article-c76b18b209431a1026.htm": {
    "check_attempts": 1,

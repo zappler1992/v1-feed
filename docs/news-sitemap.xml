@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-7546564b2c251a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-19T06:18:05+00:00</news:publication_date>
+<news:title>המלון הכי מפורסם בניו יורק סוגר את שעריו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/19/biata_plazza_191026_1400_1792390678772_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-552c564b2c251a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2294,14 +2303,5 @@
 <news:title>״הקפאתי ביציות כשהייתי בת 37״: הילארי סוונק מספרת על התהליך שהביא אותה להיכנס להיריון בגיל 52</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/17/M_Celebs_17506_17102026065920_1400_1792220455447_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w03/shorts-84337fb027841a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-17T06:50:41+00:00</news:publication_date>
-<news:title>החשיפה האישית של השחקן האהוב: &quot;נגמלתי מאלכוהול&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/17/alona_gavri_m_171026_1400_1792219834928_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
