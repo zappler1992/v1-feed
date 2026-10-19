@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-a3a6a37da7451a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-19T14:28:00+00:00</news:publication_date>
+<news:title>המהלך הדרמטי שעשוי להשפיע לכולנו על הכיס</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/19/yoav_200_191026_1400_1792419840322_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-de86a37da7451a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -8,6 +17,15 @@
 <news:title>מסוכן: מטיילים באינדונזיה נקלעו להתפרצות הר געש - שלושה מהם נהרגו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_hargaash_7526_19102026022127_1400_1792419781462_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-b8b7b325e6451a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-19T14:13:01+00:00</news:publication_date>
+<news:title>בזמן שרחובות צרפת בוערים - הזוג שלא ויתר על הערב הרומנטי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/19/Inbalsmoke19m_1400_1792419172772_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4ccb325e6451a1027.htm</loc>
@@ -2471,14 +2489,5 @@
 <news:title>מסכות החמצן נפלו באוויר - והמטוס חזר לנחיתה בלימה: דרמה בטיסה מפרו לברזיל בעקבות תקלה טכנית</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/17/V1_karind_tisa_7432_17102026023934_1400_1792248041068_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w03/shorts-2f977aca73a41a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-17T14:36:53+00:00</news:publication_date>
-<news:title>צה״ל: &quot;סיור הקונסוליה לא תואם מראש, אך אנו מגנים את תקיפת הדיפלומטים בידי פורעים ישראלים&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/17/V1_karind_diplomatim_7431_17102026023537_1400_1792247806232_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
