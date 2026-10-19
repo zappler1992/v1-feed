@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792437449297,
+ "last_run_ms": 1792437750451,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36772,6 +36772,18 @@
    "published_ms": 1790875500000,
    "section": "",
    "title": "הטייס העומאני הועבר לאמירויות: פרטים חדשים מתוך החקירה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-a6eb664b9d451a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-a6eb664b9d451a1026.htm",
+   "checked_ms": 1792437750451,
+   "content_type": "article",
+   "first_seen_ms": 1792437750451,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792432800000,
+   "section": "",
+   "title": "השינוי במפת הגושים והמפלגות שנופלות מתחת לאחוז החסימה"
   },
   "https://www.mako.co.il/special-mako-news/Article-a92bbc9cf4f41a1027.htm": {
    "check_attempts": 1,
