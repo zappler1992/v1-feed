@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792399049573,
+ "last_run_ms": 1792399348497,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12,6 +12,18 @@
    "published_ms": 1790894962000,
    "section": "Fashion Forward",
    "title": "מה שטוב לקים קרדשיאן: ניסינו את הטיפול הכי מדובר לפנים ולצוואר"
+  },
+  "https://fashionforward.mako.co.il/celebs/shopping/321958/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792399348497,
+   "content_type": "post",
+   "first_seen_ms": 1792399348497,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "לשמלה של אניה בוקשטיין יש מחשוף גב משגע"
   },
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
@@ -9595,6 +9607,18 @@
    "section": "ספורט",
    "title": "בית\"ר י-ם תיפגע? המהלך האפשרי בבית וגן"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fe36080432351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792399348497,
+   "content_type": "article",
+   "first_seen_ms": 1792399348497,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792396740000,
+   "section": "ספורט",
+   "title": "חניה בתשלום: החידוש הנוסף באצטדיון טדי"
+  },
   "https://www.mako.co.il/Sports-football-il/q3_2026/Article-0b6c1b40338e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16023,7 +16047,7 @@
    "indexnow_ms": 1792398627578,
    "published_ms": 1792398240000,
    "section": "כסף",
-   "title": "ריקול למתאם שקע לחו\"ל: נמס, מתפרק ומסכן חיים"
+   "title": "ריקול למכשיר החשמל הפופולרי: \"עלול להתפרק ולבעור\""
   },
   "https://www.mako.co.il/finances-consumer/Article-8a62ed9e523e0a1027.htm": {
    "check_attempts": 1,
@@ -23727,7 +23751,7 @@
    "indexnow_ms": 1792397427571,
    "published_ms": 1792393980000,
    "section": "עיצוב הבית",
-   "title": "המדינה עדיין בהלם: הבניין ההיסטורי שנשרף במהומות"
+   "title": "צעד אחד של המפגינים בצרפת גרם לכל אירופה להיכנס להלם"
   },
   "https://www.mako.co.il/living-architecture/world/Article-d3dad85933a11a1026.htm": {
    "check_attempts": 1,
@@ -33915,7 +33939,7 @@
    "indexnow_ms": 1792384226690,
    "published_ms": 1792378800000,
    "section": "צבא וביטחון",
-   "title": "50 טנקים מתקדמים בחוץ: המכה לכוחות נאט\"ו"
+   "title": "ביטול התרגיל שחשף משבר בצבא הבריטי: 50 טנקים לא יופעלו"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4f47fd3870931a1026.htm": {
    "check_attempts": 1,
