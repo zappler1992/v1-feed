@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0e292d139b351a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb18f5778c351a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71207,11 +71207,11 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "\"תורידו את הראש\": אבנים הושלכו על רכבה של פלר חסן-נחום, מספר 5 במפלגת \"עמך ישראל\" בסיור בבנימין.",
+   "description": "\"תורידו את הראש\": אבנים הושלכו על רכבה של פלר חסן-נחום, מספר 5 במפלגת \"עמך ישראל\" בסיור בבנימין",
    "duration_s": 34,
    "first_seen_ms": 1792405645917,
    "image": "https://img.mako.co.il/2026/10/19/V1_5_7517_19102026102043_1400_1792405327410_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792405335000,
    "sections": [
     "מבזקים"
@@ -71365,6 +71365,24 @@
    "updated_ms": 1792393565000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fa4bf6f89f251a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17660_19102026070323/M_NEWS_17660_19102026070323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb18f5778c351a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זו האבן שהושלכה על רכבה של פלר חסן-נחום מ\"עמך ישראל\" בבנימין",
+   "duration_s": 32,
+   "first_seen_ms": 1792407146937,
+   "image": "https://img.mako.co.il/2026/10/19/V1_EVEN_7518_19102026104819_1400_1792407019908_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792407029000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זו האבן שהושלכה על רכבה של פלר חסן-נחום מ\"עמך ישראל\" בבנימין",
+   "type": "mivzakim",
+   "updated_ms": 1792407029000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb18f5778c351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_EVEN_7518_19102026104819/V1_EVEN_7518_19102026104819_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fc60b01dbe251a1027.htm": {
    "author": "מבזקים",
