@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8ab55470c6551a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/19/V1_karind_alert_7541_19102026063712_1400_1792435135599_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>ארצות הברית מזהירה את אזרחיה בצרפת: התרחקו ממוקדי המחאות האלימות</video:title>
+<video:description>ארצות הברית מזהירה את אזרחיה בצרפת: התרחקו ממוקדי המחאות האלימות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_alert_7541_19102026063712/V1_karind_alert_7541_19102026063712_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-19T18:39:02+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-01551ea0f5551a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/19/V1_karind_beeri_7540_19102026062539_1400_1792434407917_FirstFrame.jpg</video:thumbnail_loc>
@@ -288,6 +304,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>מהעולם</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
