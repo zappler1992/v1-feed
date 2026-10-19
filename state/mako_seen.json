@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792440749348,
+ "last_run_ms": 1792441049373,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8574,6 +8574,18 @@
    "published_ms": 1790955180000,
    "section": "ספורט",
    "title": "על המדף: הישראלים החופשיים שללא קבוצה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-85d295661b551a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792441049373,
+   "content_type": "article",
+   "first_seen_ms": 1792441049373,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792439820000,
+   "section": "ספורט",
+   "title": "\"אם בית\"ר ישלחו לי חוזה, אחתום בשמחה\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-87f3edc76b031a1026.htm": {
    "check_attempts": 1,
@@ -25889,6 +25901,18 @@
    "section": "פלילים",
    "title": "הסיוט של המתרחצים בחוף הים בתל אביב"
   },
+  "https://www.mako.co.il/men-men_news/Article-0aa890f98c551a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792440987434,
+   "content_type": "article",
+   "first_seen_ms": 1792440987434,
+   "indexable": true,
+   "indexnow_ms": 1792440987434,
+   "published_ms": 1792440480000,
+   "section": "",
+   "title": "תפנית דרמטית בפרשת רצח בניהו רזי"
+  },
   "https://www.mako.co.il/men-men_news/Article-0b56e288263d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33687,7 +33711,7 @@
    "indexnow_ms": 1792425150106,
    "published_ms": 1792424160000,
    "section": "גאווה",
-   "title": "\"הרופאים אמרו לי 'צריך לשרוף הומואים בתנור\""
+   "title": "\"הרופאים אמרו לי 'צריך לשרוף הומואים בתנור'\""
   },
   "https://www.mako.co.il/pride-culture/Article-b5deea6d14490a1027.htm": {
    "check_attempts": 1,
