@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f7e85b898c351a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6e9e29f348351a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e17687d49f351a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-841c0f1362451a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19283,7 +19282,8 @@
    "importance": 1,
    "published_ms": 1792398452000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי Vיראלים"
    ],
    "title": "1.5 מיליון בני אדם באו לראות: הכרישה שנתקעה בתעלה בדרום קוריאה",
    "type": "general",
@@ -70831,6 +70831,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_sender_7474_18102026095403/V1_karind_sender_7474_18102026095403_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-841c0f1362451a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 18 נפצע קשה לאחר שנפגע מרכב בדרך עכו בקרית מוצקין",
+   "duration_s": 9,
+   "first_seen_ms": 1792413746277,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17683_19102026123417_1400_1792413353642_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792413362000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 18 נפצע קשה לאחר שנפגע מרכב בדרך עכו בקרית מוצקין",
+   "type": "mivzakim",
+   "updated_ms": 1792413362000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-841c0f1362451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17683_19102026123417/M_NEWS_17683_19102026123417_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71263,6 +71281,24 @@
    "updated_ms": 1792380125000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c3f4289400251a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17643_19102026032020/M_NEWS_17643_19102026032020_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לוחמי יחידת דובדבן עצרו בהכוונת שב\"כ שני מחבלים שפעלו להקמת תשתית טרור והתכוונו לבצע פעילות טרור בטו",
+   "duration_s": 9,
+   "first_seen_ms": 1792413746277,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17684_19102026123440_1400_1792413385491_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792413393000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לוחמי יחידת דובדבן עצרו בהכוונת שב\"כ שני מחבלים שפעלו להקמת תשתית טרור והתכוונו לבצע פעילות טרור בטו",
+   "type": "mivzakim",
+   "updated_ms": 1792413393000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17684_19102026123440/M_NEWS_17684_19102026123440_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm": {
    "author": "מבזקים",
