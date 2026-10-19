@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ca819de91351a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9f05dc27f0351a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -70084,6 +70085,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17663_19102026073212/M_NEWS_17663_19102026073212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ca819de91351a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפה בכביש 6: משאית עולה באש סמוך למחלף חורשים | עומסי תנועה במקום",
+   "duration_s": 27,
+   "first_seen_ms": 1792395746630,
+   "image": "https://img.mako.co.il/2026/10/19/V1_6ROAD_7505_19102026073829_1400_1792395589956_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792395596000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפה בכביש 6: משאית עולה באש סמוך למחלף חורשים | עומסי תנועה במקום",
+   "type": "mivzakim",
+   "updated_ms": 1792395596000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ca819de91351a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_6ROAD_7505_19102026073829/V1_6ROAD_7505_19102026073829_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -70516,6 +70535,24 @@
    "updated_ms": 1792309174000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_canada_7463_18102026073806/V1_karind_canada_7463_18102026073806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9f05dc27f0351a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "600 מ\"מ ביממה: בספרד מדווחים על גשמים עזים והצפות חריגות במזרח המדינה",
+   "duration_s": 27,
+   "first_seen_ms": 1792395746630,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17664_19102026073552_1400_1792395432908_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792395439000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "600 מ\"מ ביממה: בספרד מדווחים על גשמים עזים והצפות חריגות במזרח המדינה",
+   "type": "mivzakim",
+   "updated_ms": 1792395439000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9f05dc27f0351a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17664_19102026073552/M_NEWS_17664_19102026073552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a75e9ed43a251a1026.htm": {
    "author": "מבזקים",
