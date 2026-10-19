@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-17ef1ea0f5551a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a15ff9c77551a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1753ff9c77551a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f83cff9c77551a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12415,6 +12417,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1405273991051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17630_18102026055327/M_Tarbut_17630_18102026055327_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1753ff9c77551a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מי זאת? מסכת הבוטוקוס מגיעה ל״הזמר במסכה״",
+   "duration_s": 41,
+   "first_seen_ms": 1792436546580,
+   "image": "https://img.mako.co.il/2026/10/19/M_Tarbut_17699_19102026065308_1400_1792436207628_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792436214000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מי זאת? מסכת הבוטוקוס מגיעה ל״הזמר במסכה״",
+   "type": "mivzakim",
+   "updated_ms": 1792436214000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1753ff9c77551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17699_19102026065308/M_Tarbut_17699_19102026065308_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23d7021c73e41a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13332,6 +13352,24 @@
    "updated_ms": 1792354725000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f7cb0c776a051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17639_18102026081541/M_Tarbut_17639_18102026081541_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f83cff9c77551a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הגיעה היישר מהודו: תכירו את הפרה הקדושה",
+   "duration_s": 42,
+   "first_seen_ms": 1792436546580,
+   "image": "https://img.mako.co.il/2026/10/19/M_Tarbut_17698_19102026064204_1400_1792435597662_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792435604000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הגיעה היישר מהודו: תכירו את הפרה הקדושה",
+   "type": "mivzakim",
+   "updated_ms": 1792435604000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f83cff9c77551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17698_19102026064204/M_Tarbut_17698_19102026064204_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fc1c2a80fdd41a1027.htm": {
    "author": "עדכוני בידור",
@@ -70922,6 +70960,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-395fadef1c051a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17642_18102026085651/M_NEWS_17642_18102026085651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a15ff9c77551a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: שלושה בני אדם נעצרו בכביש 1 בחשד שתכננו לבצע פיגוע בטווח הזמן המיידי",
+   "duration_s": 15,
+   "first_seen_ms": 1792436546580,
+   "image": "https://img.mako.co.il/2026/10/19/V1_karind_kvish1_7542_19102026065935_1400_1792436436017_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792436442000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: שלושה בני אדם נעצרו בכביש 1 בחשד שתכננו לבצע פיגוע בטווח הזמן המיידי",
+   "type": "mivzakim",
+   "updated_ms": 1792436442000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a15ff9c77551a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_kvish1_7542_19102026065935/V1_karind_kvish1_7542_19102026065935_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a4bf39d84051a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71189,7 +71245,7 @@
    ],
    "title": "המפלגה שמתרסקת שבוע לפני הבחירות: הסקר הדרמטי של חדשות 12",
    "type": "mivzakim",
-   "updated_ms": 1792434170000,
+   "updated_ms": 1792436280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6da01ea0f5551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_seker_7539_19102026061948/V1_karind_seker_7539_19102026061948_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
