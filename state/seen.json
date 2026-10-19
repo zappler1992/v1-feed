@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-e61cbefae2351a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -70215,10 +70215,10 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הרמטכ\"ל הכריז על עוצר יציאות בצה\"ל בימים שלפני הבחירות",
-   "duration_s": 48,
+   "duration_s": 4,
    "first_seen_ms": 1792405045823,
-   "image": "https://img.mako.co.il/2026/10/19/V1_OTZER_7516_19102026100845_1400_1792404671358_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/19/ZAMIRFIX_1400_1792405466376_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1792404678000,
    "sections": [
     "מבזקים"
@@ -70227,7 +70227,7 @@
    "type": "mivzakim",
    "updated_ms": 1792404678000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2bd8912c4a351a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_OTZER_7516_19102026100845/V1_OTZER_7516_19102026100845_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/ZAMIRFIX/ZAMIRFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2f3587ff5be41a1027.htm": {
    "author": "מבזקים",
@@ -71185,6 +71185,24 @@
    "updated_ms": 1792309546000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-db4b4a927fd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_mahtazit_7465_18102026074434/V1_karind_mahtazit_7465_18102026074434_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"תורידו את הראש\": אבנים הושלכו על רכבה של פלר חסן-נחום, מספר 5 במפלגת \"עמך ישראל\" בסיור בבנימין.",
+   "duration_s": 29,
+   "first_seen_ms": 1792405645917,
+   "image": "https://img.mako.co.il/2026/10/19/V1_5_7517_19102026102043_1400_1792405327410_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792405335000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"תורידו את הראש\": אבנים הושלכו על רכבה של פלר חסן-נחום, מספר 5 במפלגת \"עמך ישראל\" בסיור בבנימין.",
+   "type": "mivzakim",
+   "updated_ms": 1792405335000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_5_7517_19102026102043/V1_5_7517_19102026102043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e0506bf47f251a1026.htm": {
    "author": "מבזקים",
