@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e5bd43b0a9551a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/19/M_Tarbut_17702_19102026071829_1400_1792437656221_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הגיע ספורטיבי במיוחד: תכירו את החמור קופץ בראש</video:title>
+<video:description>הגיע ספורטיבי במיוחד: תכירו את החמור קופץ בראש</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17702_19102026071829/M_Tarbut_17702_19102026071829_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>41</video:duration>
+<video:publication_date>2026-10-19T19:21:03+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-5d8ef9ddb8551a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/19/M_Tarbut_17701_19102026070829_1400_1792437116037_FirstFrame.jpg</video:thumbnail_loc>
@@ -78,6 +94,22 @@
 <video:live>no</video:live>
 <video:uploader>עדכוני בידור</video:uploader>
 <video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/tech-magazine/2026-m10_w04/shorts-7c18ffada7551a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/19/FIX_SHIRA_GROK_191026_1400_1792435703028_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>עוקב אחרי מחירים ועונה להודעות: כך תבנו לעצמכם &quot;עוזר אישי&quot; חדש</video:title>
+<video:description>בעזרת אפליקציית Grok Bot, תוכלו ליצור לעצמכם עוזר אישי שינטר עבורכם מחירי מוצרים, יקרא ויענה להודעות בשמכם, יקפיץ התראות מהאפליקציות והערוצים, ואף יוכל לגלול לבדו ולחפש עבורכם מה שתבקשו, האפליקציה היא בתשלום עבור מנויי טוויטר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/FIX_SHIRA_GROK_191026/FIX_SHIRA_GROK_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>97</video:duration>
+<video:publication_date>2026-10-19T18:45:08+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>טכנולוגיה</video:uploader>
+<video:tag>טכנולוגיה</video:tag>
 </video:video>
 </url>
 <url>
@@ -552,6 +584,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
