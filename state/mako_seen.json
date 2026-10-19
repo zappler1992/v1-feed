@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792388849127,
+ "last_run_ms": 1792389149096,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18401,6 +18401,18 @@
    "section": "",
    "title": "שעה ומוכן: לחם בירה של קרין גורן"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-9eb5798dd0e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792388906952,
+   "content_type": "recipe",
+   "first_seen_ms": 1792388906952,
+   "indexable": true,
+   "indexnow_ms": 1792388906952,
+   "published_ms": 1792383180000,
+   "section": "",
+   "title": "בבית, במחבת הצלחנו להכין יופי של פיתה דרוזית"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-df29cf2e4721731006.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31528,6 +31540,18 @@
    "published_ms": 1792312200000,
    "section": "דיגיטל",
    "title": "בגיל 25: אילון מוכר את החברה ב-30 מיליון דולר"
+  },
+  "https://www.mako.co.il/nexter-news/Article-433f89793fe41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792389026941,
+   "content_type": "article",
+   "first_seen_ms": 1792389026941,
+   "indexable": true,
+   "indexnow_ms": 1792389026941,
+   "published_ms": 1792388820000,
+   "section": "דיגיטל",
+   "title": "הסיבה שסרטוני ה-AI של ביבי כן מסוכנים"
   },
   "https://www.mako.co.il/nexter-news/Article-4f02d9fd5ea31a1026.htm": {
    "check_attempts": 1,
