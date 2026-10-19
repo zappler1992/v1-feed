@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb18f5778c351a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71222,6 +71222,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/FIX5/FIX5_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל באיגרת למפקדים: \"יש לפעול כדי להבטיח את מימוש זכות ההצבעה לכל המשרתים והקפדה על טוהר הבחירות\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792407746278,
+   "image": "https://img.mako.co.il/2026/10/19/M_NEWS_17675_19102026105543_1400_1792407421890_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792407428000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל באיגרת למפקדים: \"יש לפעול כדי להבטיח את מימוש זכות ההצבעה לכל המשרתים והקפדה על טוהר הבחירות\"",
+   "type": "mivzakim",
+   "updated_ms": 1792407428000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17675_19102026105543/M_NEWS_17675_19102026105543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e0506bf47f251a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -95046,7 +95064,7 @@
    ],
    "title": "מזג אוויר קיצוני והצפות בספרד: הנחיה להישאר בבתים בוולנסיה ובאליקנטה וחסימת כבישים",
    "type": "mivzakim",
-   "updated_ms": 1792398662000,
+   "updated_ms": 1792407240000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-ba6e8ebc24351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_SPAIN_7511_19102026082936/V1_SPAIN_7511_19102026082936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792407151138,
+ "last_run_ms": 1792407749659,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -298,6 +298,18 @@
    "published_ms": 1791369864000,
    "section": "Fashion Forward",
    "title": "בטירה קסומה: אין פנטזיה שהכלה הזאת לא הגשימה בחתונה שלה"
+  },
+  "https://fashionforward.mako.co.il/more/weddings/321987/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792407507530,
+   "content_type": "article",
+   "first_seen_ms": 1792407507530,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792407005000,
+   "section": "Fashion Forward",
+   "title": "עם מחוך וכיסוי ראש: שני גולדשטיין התחתנה והופתענו מהשמלה השלישית"
   },
   "https://fashionforward.mako.co.il/more/weekend/321127/": {
    "check_attempts": 1,
@@ -10591,6 +10603,18 @@
    "section": "ספורט",
    "title": "\"סבע שולף שפן מהכובע כל פעם. גאון אמיתי\""
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8c915b898c351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792407749659,
+   "content_type": "article",
+   "first_seen_ms": 1792407749659,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792407480000,
+   "section": "ספורט",
+   "title": "\"מצב מלחיץ\": אקס ליברפול מחפש עבודה"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8cda12d9bc401a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -19323,7 +19347,7 @@
    "indexnow_ms": 1792401867155,
    "published_ms": 1792400520000,
    "section": "",
-   "title": "אם רק תשרדו את התור - תזכו לטעום כריך מהאגדות"
+   "title": "אם רק תשרדו את התור, תטעמו כריך פניני מהאגדות"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-d31e9083a1931a1026.htm": {
    "check_attempts": 1,
@@ -26535,7 +26559,7 @@
    "indexnow_ms": 1792401867155,
    "published_ms": 1792399860000,
    "section": "פלילים",
-   "title": "נשלפו מהתאים בכלא: התפתחות בחקירת רצח בשרון"
+   "title": "נשלפו מהתאים בכלא: התפתחות בחקירת הרצח המזעזע"
   },
   "https://www.mako.co.il/men-men_news/Article-4f00832a11f31a1026.htm": {
    "check_attempts": 1,
@@ -34059,7 +34083,7 @@
    "indexnow_ms": 1792401867155,
    "published_ms": 1792401240000,
    "section": "צבא וביטחון",
-   "title": "הכי אכזרי שיש: כך ארגון הטרור נתפס על חם"
+   "title": "בלי רחמים על אזרחיו: המסמך שחשף את חמאס"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-3f0a48bff2e31a1027.htm": {
    "check_attempts": 1,
@@ -41259,7 +41283,7 @@
    "indexnow_ms": 1792403548664,
    "published_ms": 1792403280000,
    "section": "",
-   "title": "בגלל דניאל? הכפילה של נועה קירל"
+   "title": "הצעד החריג בנוגע לסצנות הנשיקה בסדרה של נועה קירל"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-22af9fdc3ba11a1026.htm": {
    "check_attempts": 1,
