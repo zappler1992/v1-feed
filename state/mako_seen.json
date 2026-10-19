@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792396049865,
+ "last_run_ms": 1792396350029,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19073,6 +19073,18 @@
    "section": "",
    "title": "פודטראק כזה עוד לא ראינו. בטח לא באשדוד"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-b2eb7cfd2fe41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792396350029,
+   "content_type": "article",
+   "first_seen_ms": 1792396350029,
+   "indexable": true,
+   "indexnow_ms": 1792396350029,
+   "published_ms": 1792394460000,
+   "section": "",
+   "title": "אייל שני מגיש: עגבניה מקולפת ובורגר 3 ביסים"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-b56e87efc0a11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19636,6 +19648,18 @@
    "published_ms": 1791748920000,
    "section": "",
    "title": "זיהום חריג ליד בתי הזיקוק: 2 בתי ספר יישארו סגורים מחר"
+  },
+  "https://www.mako.co.il/health-news/Article-2f9d23d0ce251a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792396228756,
+   "content_type": "article",
+   "first_seen_ms": 1792396228756,
+   "indexable": true,
+   "indexnow_ms": 1792396228756,
+   "published_ms": 1792395720000,
+   "section": "בריאות",
+   "title": "גירוי וכוויות קשות: טרנד הבועות המסוכן שסוחף את הנוער"
   },
   "https://www.mako.co.il/health-news/Article-315fac880c1d0a1027.htm": {
    "check_attempts": 1,
@@ -20883,7 +20907,7 @@
    "indexnow_ms": 1792391187084,
    "published_ms": 1792390920000,
    "section": "HIX",
-   "title": "בן 13 נהרג בפארק השעשועים. לא תאמינו איך הגיבה ההנהלה"
+   "title": "במתקן הפופולרי: בן 13 עלה לרכבת הרים - ונהרג"
   },
   "https://www.mako.co.il/hix-bizarre/Article-7ad74bb5618c0a1027.htm": {
    "check_attempts": 1,
@@ -33783,7 +33807,7 @@
    "indexnow_ms": 1792384226690,
    "published_ms": 1792378800000,
    "section": "צבא וביטחון",
-   "title": "בזמן שצרפת בוערת, הבעיה הגדולה בבריטניה נחשפת"
+   "title": "50 טנקים מתקדמים בחוץ: המכה לכוחות נאט\"ו"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-4f47fd3870931a1026.htm": {
    "check_attempts": 1,
