@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e2f9ca4472551a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7f1fca4472551a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c9feca4472551a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71152,6 +71153,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_alimot_7498_19102026044444/V1_alimot_7498_19102026044444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7f1fca4472551a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הוארך מעצרם של 10 החשודים בתקיפת אשת התקשורת ודיפלומטים בסוף השבוע",
+   "duration_s": 9,
+   "first_seen_ms": 1792430846450,
+   "image": "https://img.mako.co.il/2026/10/19/V1_karind_tkifa_7537_19102026052011_1400_1792430497958_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792430504000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הוארך מעצרם של 10 החשודים בתקיפת אשת התקשורת ודיפלומטים בסוף השבוע",
+   "type": "mivzakim",
+   "updated_ms": 1792430504000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7f1fca4472551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_tkifa_7537_19102026052011/V1_karind_tkifa_7537_19102026052011_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-83383b2f65451a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71784,6 +71803,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17684_19102026123440/M_NEWS_17684_19102026123440_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c9feca4472551a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גנץ פורש רשמית: \"בלב כבד ומתוך אחריות החלטתי להסיר את מועמדותי לכנסת ה-26\"",
+   "duration_s": 40,
+   "first_seen_ms": 1792430846450,
+   "image": "https://img.mako.co.il/2026/10/19/V1_karind_gantz_191026_7536_19102026051933_1400_1792430455599_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792430462000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גנץ פורש רשמית: \"בלב כבד ומתוך אחריות החלטתי להסיר את מועמדותי לכנסת ה-26\"",
+   "type": "mivzakim",
+   "updated_ms": 1792430462000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c9feca4472551a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_gantz_191026_7536_19102026051933/V1_karind_gantz_191026_7536_19102026051933_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -71951,16 +71988,16 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e2f9ca4472551a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "יועץ רה\"מ מודה שקיבל מאות אלפי שקלים עבור פרויקטים לקטאר: תמלולי החקירה נחשפים",
+   "description": "יועץ רה\"מ אוריך מודה בחקירה: קיבלתי מאות אלפי שקלים מקטאר",
    "duration_s": 41,
    "first_seen_ms": 1792430546469,
    "image": "https://img.mako.co.il/2026/10/19/V1_URICH_7535_19102026051435_1400_1792430176634_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792430183000,
    "sections": [
     "מבזקים"
    ],
-   "title": "יועץ רה\"מ מודה שקיבל מאות אלפי שקלים עבור פרויקטים לקטאר: תמלולי החקירה נחשפים",
+   "title": "יועץ רה\"מ אוריך מודה בחקירה: קיבלתי מאות אלפי שקלים מקטאר",
    "type": "mivzakim",
    "updated_ms": 1792430183000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e2f9ca4472551a1027.htm",

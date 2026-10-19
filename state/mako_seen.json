@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792430549373,
+ "last_run_ms": 1792430849278,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36424,6 +36424,18 @@
    "published_ms": 1791123240000,
    "section": "",
    "title": "ההתקרבות לישראל נעצרה: \"זה מביך את השלטונות\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-6585c215ab451a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-6585c215ab451a1027.htm",
+   "checked_ms": 1792430787081,
+   "content_type": "article",
+   "first_seen_ms": 1792430787081,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792429200000,
+   "section": "",
+   "title": "ההודאה הדרמטית של אוריך על קטאר - ותגובת נתניהו"
   },
   "https://www.mako.co.il/special-mako-news/Article-669c41a9312e0a1026.htm": {
    "check_attempts": 1,
