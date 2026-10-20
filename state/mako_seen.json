@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792476148614,
+ "last_run_ms": 1792476448634,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15640,6 +15640,18 @@
    "published_ms": 1791993600000,
    "section": "",
    "title": "כוכב נבחרת קולומביה לשעבר נפרד מסימן ההיכר שלו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-497e3089fc751a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792476386672,
+   "content_type": "article",
+   "first_seen_ms": 1792476386672,
+   "indexable": true,
+   "indexnow_ms": 1792476386672,
+   "published_ms": 1792476180000,
+   "section": "סלבס",
+   "title": "בגיל 34: הטרגדיה של האקסית של ג'סטין ביבר"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-4d899b77cdcc0a1026.htm": {
    "check_attempts": 1,
@@ -34793,6 +34805,18 @@
    "section": "",
    "title": "הערכה: הסכום האסטרונומי שחמאס מרוויח כל חודש"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-33943089fc751a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792476266671,
+   "content_type": "article",
+   "first_seen_ms": 1792476266671,
+   "indexable": true,
+   "indexnow_ms": 1792476266671,
+   "published_ms": 1792475460000,
+   "section": "",
+   "title": "אחרי המהומות בצרפת: ההודעה ההזויה של איראן"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-33d946a3b9b21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-33d946a3b9b21a1026.htm",
@@ -38259,7 +38283,7 @@
    "indexnow_ms": 1792437267298,
    "published_ms": 1792436460000,
    "section": "",
-   "title": "הצעד חסר התקדים שננקט הלילה בפריז ובערים נוספות בצרפת"
+   "title": "הצעד הדרמטי שננקט בפריז, והתיעודים הבלתי נתפסים"
   },
   "https://www.mako.co.il/travel-news/Article-312648ed578d0a1026.htm": {
    "check_attempts": 1,
@@ -39423,7 +39447,7 @@
    "indexnow_ms": 1792473148661,
    "published_ms": 1792469340000,
    "section": "חופש",
-   "title": "הבעיה החדשה שמתמודדים איתה בטיסות בארץ"
+   "title": "שלושה מקרים בתוך שבוע: התופעה החדשה בטיסות לארץ"
   },
   "https://www.mako.co.il/travel-news/international/Article-9868b24557431a1026.htm": {
    "check_attempts": 1,
