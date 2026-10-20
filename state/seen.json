@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-0fcfd12f78a51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-349dae93e9a51a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e15dae93e9a51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -72332,6 +72333,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34993333d4a51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_lyon_7575_20102026051730/V1_karind_lyon_7575_20102026051730_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-349dae93e9a51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"נשאר לנו רק לקבל את ההחלטה הסופית לגבי הדרך בה אנחנו רוצים לנצח את איראן\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792522646248,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_trump_7582_20102026065353_1400_1792522522810_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792522530000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"נשאר לנו רק לקבל את ההחלטה הסופית לגבי הדרך בה אנחנו רוצים לנצח את איראן\"",
+   "type": "mivzakim",
+   "updated_ms": 1792522530000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-349dae93e9a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_trump_7582_20102026065353/V1_karind_trump_7582_20102026065353_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34e10aa233451a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -74353,6 +74372,24 @@
    "updated_ms": 1792393839000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e0506bf47f251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_MIRDAF_7504_19102026070635/V1_MIRDAF_7504_19102026070635_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e15dae93e9a51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מבקשת את עזרת הציבור באיתור נהוראי אלמה בן 15 משדרות שנראה לאחרונה ב-27.9 בתחנת רכבת הגנה",
+   "duration_s": 9,
+   "first_seen_ms": 1792522646248,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_missing2_7581_20102026065159_1400_1792522402253_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792522409000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מבקשת את עזרת הציבור באיתור נהוראי אלמה בן 15 משדרות שנראה לאחרונה ב-27.9 בתחנת רכבת הגנה",
+   "type": "mivzakim",
+   "updated_ms": 1792522409000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e15dae93e9a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_missing2_7581_20102026065159/V1_karind_missing2_7581_20102026065159_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e175c7e130851a1026.htm": {
    "author": "מבזקים",
