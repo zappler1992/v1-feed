@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792492348973,
+ "last_run_ms": 1792492649102,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1736,6 +1736,18 @@
    "published_ms": 1791825300000,
    "section": "ספורט",
    "title": "צפו בשידור: מכבי אשדוד - עירוני נס ציונה"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-80cc00c0fd851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792492586787,
+   "content_type": "article",
+   "first_seen_ms": 1792492586787,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792492380000,
+   "section": "ספורט",
+   "title": "\"זו סגירת מעגל. כאן קיבלתי צ`אנס ראשון\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-8aa5cf6fb9e41a1027.htm": {
    "check_attempts": 1,
@@ -39928,6 +39940,18 @@
    "published_ms": 1791912900000,
    "section": "",
    "title": "הנוסעים בטיסה לא הפסיקו להתגרד - זה מה שהדיילים עשו"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-877d724cda851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792492466704,
+   "content_type": "article",
+   "first_seen_ms": 1792492466704,
+   "indexable": true,
+   "indexnow_ms": 1792492466704,
+   "published_ms": 1792491720000,
+   "section": "חופש",
+   "title": "\"יש ציד של ישראלים. המקומיים הם הבאים בתור\""
   },
   "https://www.mako.co.il/travel-news/international/Article-879ca01a43851a1026.htm": {
    "check_attempts": 1,
