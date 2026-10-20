@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-bcfb89290e751a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-58512a4c4e751a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1dfe2a4c4e751a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ecbe2a4c4e751a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1e532a4c4e751a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -35978,7 +35975,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-bcfb89290e751a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "מתקרבים להגשת כתב אישום בפרשת השחיתות בכפר סבא: התחזק החשד לשוחד - מסמך הלוואה של 2.5 מיליון ש\"ח שיועד לאשת ראש העיר, והשחקן שדרשה לכאורה לצרף לקבוצת הכדורגל",
+   "description": "מתקרבים להגשת כתב אישום בפרשת השחיתות בכפר סבא: התחזק החשד לשוחד - מסמך הלוואה של 2.5 מיליון ש\"ח שיועד לאשת ראש העיר, והשחקן שדרשה לכאורה לצרף לקבוצת הכדורגל. עורכת דינה טוענת שמצבה הנפשי קשה \"השילה 5 ק\"ג מגופה בשבוע\"",
    "duration_s": 66,
    "first_seen_ms": 1792476746029,
    "image": "https://img.mako.co.il/2026/10/20/inbie_SABA_201026_1400_1792475964077_FirstFrame.jpg",
@@ -70997,6 +70994,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/FIX_MODIIN/FIX_MODIIN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1e532a4c4e751a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פרשת שחיתות חדשה:21 אזרחים ומשרתי קבע חשודים בהונאה במיליונים בעבודות בעזה",
+   "duration_s": 16,
+   "first_seen_ms": 1792477045922,
+   "image": "https://img.mako.co.il/2026/10/20/V1_GAZA_7554_20102026061339_1400_1792476873610_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792476880000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פרשת שחיתות חדשה:21 אזרחים ומשרתי קבע חשודים בהונאה במיליונים בעבודות בעזה",
+   "type": "mivzakim",
+   "updated_ms": 1792476880000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1e532a4c4e751a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_GAZA_7554_20102026061339/V1_GAZA_7554_20102026061339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-21aafe8116451a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -96882,7 +96897,8 @@
    "importance": 0,
    "published_ms": 1792473414000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אנטישמיות בלונדון: גבר בן 33 נעצר לאחר שהכה באגרופים נשים יהודיות. האירוע נחקר כפשע שנאה",
    "type": "mivzakim",
