@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ec09176c78751a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4c2176c78751a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -72352,6 +72352,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b395cabaca451a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_diplomatim_7528_19102026031101/V1_karind_diplomatim_7528_19102026031101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4c2176c78751a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חריג בגודלו: המשטרה חשפה מצבור אמל\"ח ששייך לארגון הפשע אבו לטיף בשטח פתוח מעל הכפר ראמה",
+   "duration_s": 129,
+   "first_seen_ms": 1792471045858,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17727_20102026043046_1400_1792470804611_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792470816000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חריג בגודלו: המשטרה חשפה מצבור אמל\"ח ששייך לארגון הפשע אבו לטיף בשטח פתוח מעל הכפר ראמה",
+   "type": "mivzakim",
+   "updated_ms": 1792470816000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4c2176c78751a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17727_20102026043046/M_NEWS_17727_20102026043046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4ccb325e6451a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -72891,7 +72909,7 @@
    ],
    "title": "שר המלחמה האמריקאי הגסת' ביקר בישראל ונפגש עם נתניהו 8 ימים לפני הבחירות",
    "type": "mivzakim",
-   "updated_ms": 1792470024000,
+   "updated_ms": 1792470840000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ec09176c78751a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/Fix_Hegsth/Fix_Hegsth_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
