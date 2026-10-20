@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ac0e568ae6851a1026.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d0cc0e1890f41a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7db93f4bf6351a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-635ac832aa451a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1075,6 +1077,24 @@
    "updated_ms": 1792399980000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-5bb1ef4273351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/ACADEMY_OF_LIES_EP14/MASTER/ACADEMY_OF_LIES_EP14/ACADEMY_OF_LIES_EP14_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7db93f4bf6351a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 15: מיה נהנית לראות את אשלי מסתבכת בתירוצים כשעולה האפשרות להתראיין לעיתונות ולהכיר לחברות את \"אימא שלה\" מאחורי הקלעים. אשלי מנסה להיפטר ממיה, אבל דווקא אז מופיע מייקל הנהג, ואשלי קוראת לו בטעות \"אבא\". התיקון המהיר כבר לא עוזר: החברות שמעו, ומיה סוף־סוף מבינה מי עומדת מולה.",
+   "duration_s": 142,
+   "first_seen_ms": 1792486346134,
+   "image": "https://img.mako.co.il/2026/10/19/ACADEMY_OF_LIES_EP15_1400_1792401263931_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792486140000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "בקצב השקר פרק 15: הסוד של המתחזה נחשף",
+   "type": "series",
+   "updated_ms": 1792486140000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7db93f4bf6351a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/ACADEMY_OF_LIES_EP15/MASTER/ACADEMY_OF_LIES_EP15/ACADEMY_OF_LIES_EP15_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -12508,16 +12528,16 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1dfe2a4c4e751a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "\"כולם פה מהמרים נגדי\": רגע לפני גמר \"המטבח המנצח VIP\" הפיינליסטית סתיו נפתלי חושפת שלחבריה בחדשות הב",
+   "description": "רגע לפני גמר \"המטבח המנצח VIP\" סתיו נפתלי חושפת שלחבריה בחדשות הבוקר יש פייבוריט אחר לניצחון",
    "duration_s": 46,
    "first_seen_ms": 1792476746029,
    "image": "https://img.mako.co.il/2026/10/20/M_Tarbut_17735_20102026060542_1400_1792476437862_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792476444000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "\"כולם פה מהמרים נגדי\": רגע לפני גמר \"המטבח המנצח VIP\" הפיינליסטית סתיו נפתלי חושפת שלחבריה בחדשות הב",
+   "title": "רגע לפני גמר \"המטבח המנצח VIP\" סתיו נפתלי חושפת שלחבריה בחדשות הבוקר יש פייבוריט אחר לניצחון",
    "type": "mivzakim",
    "updated_ms": 1792476444000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1dfe2a4c4e751a1027.htm",
@@ -25175,6 +25195,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-00c3dc27f0351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/LOADED_EP64/MASTER/LOADED_EP64/LOADED_EP64_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-635ac832aa451a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 65: וסרמן סוף־סוף יוצא עם יעל, אבל כשהוא מתחיל לספור לה את השתייה ולחלק את החשבון, היא \"נזכרת\" שהארנק באוטו ומשאירה אותו לחכות. בווילה, גיא, תומר, ארז וברלד חוגגים את חזרת המיליונים בג׳קוזי עם שמפניה ועקיצות על חשבון כולם. רק שברלד מרגיש קצת יותר מדי בנוח, והחברים ממהרים לצאת מהמים כשהוא מציע לארז להשתין בפנים.\nPowered by Spikes",
+   "duration_s": 131,
+   "first_seen_ms": 1792486346134,
+   "image": "https://img.mako.co.il/2026/10/19/LOADED_EP65_1400_1792421997998_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792486140000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 65: חוגגים את חזרת המיליונים",
+   "type": "series",
+   "updated_ms": 1792486140000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-635ac832aa451a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/LOADED_EP65/MASTER/LOADED_EP65/LOADED_EP65_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -25790,6 +25828,24 @@
    "updated_ms": 1792399920000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w03/shorts-f68cab8417f31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/LOVE_CORNER_EP33/MASTER/LOVE_CORNER_EP33_M/LOVE_CORNER_EP33_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d0cc0e1890f41a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 34: שירלי מתעקשת לפרוש, והמאמן מנסה לשנות את דעתה בעזרת תזכורת לכל מה שהשקיע בה ולכישרון שהיא עומדת לוותר עליו. במקביל, ליאור ועודד מגיעים לפיצרייה של אלונה ופוגשים את דניאלה, בלי להבין את הקשר ביניהן. עודד מזכיר שלמקום יש לקוחות קבועים, אבל ליאור בטוח שאחרי פתיחת הסניף החדש, המתחרים ייאלצו לסגור את הבסטה.",
+   "duration_s": 158,
+   "first_seen_ms": 1792486346134,
+   "image": "https://img.mako.co.il/2026/10/18/LOVE_CORNER_EP34_M_2_1400_1792327577355_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792486020000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 34: אין להם סיכוי",
+   "type": "series",
+   "updated_ms": 1792486020000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d0cc0e1890f41a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/LOVE_CORNER_EP34_2/MASTER/LOVE_CORNER_EP34_M_2/LOVE_CORNER_EP34_M_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
@@ -36053,7 +36109,7 @@
    "sections": [],
    "title": "תיעוד קשה לצפייה | הרצח בנתניה: מתנקש רעול פנים ירה באלכסנדר מטווח אפס",
    "type": "news",
-   "updated_ms": 1792485285000,
+   "updated_ms": 1792485840000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ac0e568ae6851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/inbie_murder_201026/MASTER/inbie_murder_201026/inbie_murder_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -73962,10 +74018,12 @@
    "image": "https://img.mako.co.il/2026/10/19/POLISHUK_EP15_1400_1792408425991_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792408432000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות"
+   ],
    "title": "פולישוק פרק 15: הבוס מתפוצץ מבושות",
    "type": "series",
-   "updated_ms": 1792477080000,
+   "updated_ms": 1792486080000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-53562a773d351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/POLISHUK_EP15/MASTER/POLISHUK_EP15/POLISHUK_EP15_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

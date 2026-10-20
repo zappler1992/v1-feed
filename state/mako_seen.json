@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792486048801,
+ "last_run_ms": 1792486348816,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23093,6 +23093,18 @@
    "section": "HIX",
    "title": "רוקנה את הפנסיה של בעלה, ורצחה אותו באכזריות"
   },
+  "https://www.mako.co.il/hix-special/Article-a10d3745d7851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792486348816,
+   "content_type": "article",
+   "first_seen_ms": 1792486348816,
+   "indexable": true,
+   "indexnow_ms": 1792486348816,
+   "published_ms": 1792486140000,
+   "section": "HIX",
+   "title": "בילתה עם חבריה במפל – ונהרגה בתאונה קטלנית"
+  },
   "https://www.mako.co.il/hix-special/Article-a121aa05c77e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39651,7 +39663,7 @@
    "indexnow_ms": 1792483707122,
    "published_ms": 1792481340000,
    "section": "חופש",
-   "title": "\"אנשים קפצו למים\": יצאו לשיט  - והסירה החלה לעלות באש"
+   "title": "כמעט אסון בחופשה: \"כולם נחנקו, לאמא שלי היה קשה לנשום\""
   },
   "https://www.mako.co.il/travel-news/international/Article-89f4af326c411a1027.htm": {
    "check_attempts": 1,
@@ -42496,6 +42508,18 @@
    "published_ms": 1791612600000,
    "section": "הכי חם",
    "title": "\"אני יורד על ארבע ומתחנן, אבל הוא לא מוכן\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-10cb099266851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792486227240,
+   "content_type": "article",
+   "first_seen_ms": 1792486227240,
+   "indexable": true,
+   "indexnow_ms": 1792486227240,
+   "published_ms": 1792485960000,
+   "section": "תרבות tvbee",
+   "title": "\"חבטו והכו\": עיתונאיות הותקפו במהומות בצרפת"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-10d089d121f41a1027.htm": {
    "check_attempts": 1,
