@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-810355ef7da51a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e29ebb346ea51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14091,6 +14091,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e17687d49f351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17681_19102026115714/M_Celebs_17681_19102026115714_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e29ebb346ea51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "קים קרדשיאן מוכנה להאלווין",
+   "duration_s": 29,
+   "first_seen_ms": 1792528946279,
+   "image": "https://img.mako.co.il/2026/10/20/M_Celebs_17792_20102026081002_1400_1792527092628_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792527099000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "קים קרדשיאן מוכנה להאלווין",
+   "type": "mivzakim",
+   "updated_ms": 1792527099000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e29ebb346ea51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17792_20102026081002/M_Celebs_17792_20102026081002_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e3bedf5d2d551a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -20383,7 +20401,8 @@
    "importance": 1,
    "published_ms": 1792511028000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי Vיראלים"
    ],
    "title": "דג על שפת בריכה - והותקף על ידי תנין",
    "type": "general",
@@ -36700,7 +36719,8 @@
    "importance": 2,
    "published_ms": 1792516063000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "בושות בתאילנד: הישראלים הזמינו נערות ליווי, גילו שמדובר בליידי בויז",
    "type": "news",
@@ -36994,7 +37014,8 @@
    "importance": 2,
    "published_ms": 1792508004000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "חמש שנים אחרי שאובחנה עם טרשת נפוצה, הרופאים הודיע לשחקנית: \"טעינו\"",
    "type": "news",
@@ -37171,7 +37192,8 @@
    "importance": 2,
    "published_ms": 1792510149000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ארה״ב נערכת להסלמה מול איראן",
    "type": "news",
