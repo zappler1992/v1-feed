@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0d4bb4e7e651a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-adc6bb4e7e651a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8665d19264751a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71848,6 +71848,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85cc8ebc24351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_pales_7510_19102026082732/V1_pales_7510_19102026082732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8665d19264751a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בשל אירוע רפואי: טיסת ארקיע מניו יורק לתל אביב נאלצה לנחות בקנדה",
+   "duration_s": 9,
+   "first_seen_ms": 1792467745797,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17725_20102026033659_1400_1792467499670_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792467506000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בשל אירוע רפואי: טיסת ארקיע מניו יורק לתל אביב נאלצה לנחות בקנדה",
+   "type": "mivzakim",
+   "updated_ms": 1792467506000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8665d19264751a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17725_20102026033659/M_NEWS_17725_20102026033659_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-892bed50dfe41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -72226,6 +72244,24 @@
    "updated_ms": 1792308021000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-aa85e365add41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_KVISH4_7461_18102026071849/V1_KARIND_KVISH4_7461_18102026071849_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-adc6bb4e7e651a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עם מסוקים באוויר: כך נראה העוצר הלילי בפריז",
+   "duration_s": 5,
+   "first_seen_ms": 1792467745797,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17726_20102026033903_1400_1792467612168_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792467619000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עם מסוקים באוויר: כך נראה העוצר הלילי בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1792467619000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-adc6bb4e7e651a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17726_20102026033903/M_NEWS_17726_20102026033903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2092cdbcbd41a1026.htm": {
    "author": "מבזקים",
