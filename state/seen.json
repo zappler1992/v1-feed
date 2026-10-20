@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-5b4493c4f2a51a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1f073e32b2a51a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-f3046af890a51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b7c93333d4a51a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34993333d4a51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -72262,6 +72261,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-33e0e861e0751a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17719_20102026025141/M_NEWS_17719_20102026025141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34993333d4a51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פורצים דרך החלון השבור: עשרות נכנסו לבזוז חנות תכשיטים בליון שבצרפת - בזמן המהומות",
+   "duration_s": 38,
+   "first_seen_ms": 1792516946617,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_lyon_7575_20102026051730_1400_1792516748467_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792516755000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פורצים דרך החלון השבור: עשרות נכנסו לבזוז חנות תכשיטים בליון שבצרפת - בזמן המהומות",
+   "type": "mivzakim",
+   "updated_ms": 1792516755000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34993333d4a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_lyon_7575_20102026051730/V1_karind_lyon_7575_20102026051730_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34e10aa233451a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -73777,6 +73794,24 @@
    "updated_ms": 1792434364000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b71210b775551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17697_19102026062437/M_NEWS_17697_19102026062437_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b7c93333d4a51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מבקשת את עזרת הציבור באיתור ארד איילון בן 11 שנראה סמוך לבית ינאי בשעות הצהריים",
+   "duration_s": 9,
+   "first_seen_ms": 1792516946617,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_missing_7576_20102026051837_1400_1792516797838_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792516804000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מבקשת את עזרת הציבור באיתור ארד איילון בן 11 שנראה סמוך לבית ינאי בשעות הצהריים",
+   "type": "mivzakim",
+   "updated_ms": 1792516804000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b7c93333d4a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_missing_7576_20102026051837/V1_karind_missing_7576_20102026051837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b886fa91b5f41a1027.htm": {
    "author": "מבזקים",
