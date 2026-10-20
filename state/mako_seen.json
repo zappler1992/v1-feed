@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792505549665,
+ "last_run_ms": 1792506748790,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10302,6 +10302,18 @@
    "published_ms": 1792035540000,
    "section": "ספורט",
    "title": "מהשפלה לניצחון היסטורי: הקאמבק של ריאל"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-06b8c2c23b951a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792506506827,
+   "content_type": "article",
+   "first_seen_ms": 1792506506827,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792506120000,
+   "section": "ספורט",
+   "title": "ברמת 2009? העונה ההיסטורית של ברצלונה"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-409982ebf8631a1026.htm": {
    "check_attempts": 1,
@@ -31745,6 +31757,18 @@
    "section": "",
    "title": "ליד בית הכנסת שהותקף: סערה במנצ'סטר"
   },
+  "https://www.mako.co.il/music-news/Article-fe5fb8fe77951a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792506506827,
+   "content_type": "article",
+   "first_seen_ms": 1792506506827,
+   "indexable": true,
+   "indexnow_ms": 1792506506827,
+   "published_ms": 1792505640000,
+   "section": "",
+   "title": "מאבטחים פינו גבר שהטריד את יובל דיין בהופעה"
+  },
   "https://www.mako.co.il/music-news/Article-fe91f31bd7ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33183,7 +33207,7 @@
    "indexnow_ms": 1792421186736,
    "published_ms": 1792421100000,
    "section": "הכי חם",
-   "title": "לא יודעים מה לאכול הערב? גם היום יש לנו פתרון"
+   "title": "שוב לא יודעים מה לאכול הערב? יש לנו את הפתרון"
   },
   "https://www.mako.co.il/nexter-guide/Article-efa706fd64a21a1027.htm": {
    "check_attempts": 1,
@@ -34288,6 +34312,18 @@
    "published_ms": 1791907200000,
    "section": "דיגיטל",
    "title": "בגיל 30: החברה שהקימה שחר גייסה 42 מיליון"
+  },
+  "https://www.mako.co.il/nexter-news/Article-c9d15073c9951a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792506626829,
+   "content_type": "article",
+   "first_seen_ms": 1792506626829,
+   "indexable": true,
+   "indexnow_ms": 1792506626829,
+   "published_ms": 1792505280000,
+   "section": "דיגיטל",
+   "title": "האייפון נגנב - ומכאן הסיוט של נועה רק התחיל"
   },
   "https://www.mako.co.il/nexter-news/Article-cc6cb1ca4ea11a1027.htm": {
    "check_attempts": 1,
