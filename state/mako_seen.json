@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792522649359,
+ "last_run_ms": 1792522949307,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37925,6 +37925,18 @@
    "section": "",
    "title": "אירוע דריסה בבנימין: ישראלי נפצע בינוני מפגיעת רכב"
   },
+  "https://www.mako.co.il/special-mako-news/Article-613e7cabe3a51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q4/Article-613e7cabe3a51a1026.htm",
+   "checked_ms": 1792522827585,
+   "content_type": "article",
+   "first_seen_ms": 1792522827585,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792520100000,
+   "section": "",
+   "title": "מבצע ההשפעה הזר - והזעם של מדינת הענק הערבית על ישראל"
+  },
   "https://www.mako.co.il/special-mako-news/Article-621cda1015bf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-621cda1015bf0a1027.htm",
@@ -40539,7 +40551,7 @@
    "indexnow_ms": 1792492466704,
    "published_ms": 1792491720000,
    "section": "חופש",
-   "title": "\"יש ציד של ישראלים. הבאים בתור הם המקומיים\""
+   "title": "\"יש ציד של ישראלים. המקומיים הם הבאים בתור\""
   },
   "https://www.mako.co.il/travel-news/international/Article-879ca01a43851a1026.htm": {
    "check_attempts": 1,
