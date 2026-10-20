@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792491748991,
+ "last_run_ms": 1792492050017,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1136,6 +1136,18 @@
    "published_ms": 1792487941000,
    "section": "אופנה",
    "title": "ברכותינו! אירינה שייק מצאה את המכנסיים הנמוכים בעולם"
+  },
+  "https://fashionforward.mako.co.il/news/322080/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792492050017,
+   "content_type": "article",
+   "first_seen_ms": 1792492050017,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792491841000,
+   "section": "Fashion Forward",
+   "title": "סוד כמוס: טיילור מלכוב ולירז צ'רכי לבשו לנז'רי לאירוע, וזה היה הכי הולם"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -14835,7 +14847,7 @@
    "indexnow_ms": 1792491387646,
    "published_ms": 1792490880000,
    "section": "",
-   "title": "גל רובין הבריזה מההשקה של רפאלה טווינה"
+   "title": "סולחה? פחות: גל רובין לא צחקה מהמהלך של רפאלה טווינה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-9d5c5ffddef01a1027.htm": {
    "check_attempts": 1,
@@ -38812,6 +38824,18 @@
    "published_ms": 1792078500000,
    "section": "",
    "title": "הרוגים וביטולי טיסות: העיר הענקית בכאוס שלא היה 40 שנה"
+  },
+  "https://www.mako.co.il/travel-news/Article-3abcdee32c851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792491866686,
+   "content_type": "article",
+   "first_seen_ms": 1792491866686,
+   "indexable": true,
+   "indexnow_ms": 1792491866686,
+   "published_ms": 1792490760000,
+   "section": "",
+   "title": "הקו מישראל ליעד המבוקש בוטל. כך הגיבו בחברת התעופה"
   },
   "https://www.mako.co.il/travel-news/Article-4929aa470b9e0a1026.htm": {
    "check_attempts": 1,
