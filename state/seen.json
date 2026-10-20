@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-3dcdf4bbec851a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-3d7d00c0fd851a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-551598d9d0951a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-88ae819d01951a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13174,6 +13174,24 @@
    "updated_ms": 1792441230000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17709_19102026081616/M_Tarbut_17709_19102026081616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-88ae819d01951a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זמר אופרה קנדי הניף דגל פלסטין בתום מופע הבכורה - והודח לפי שעה. זמר אחר יחליף אותו בהופעות הקרובות",
+   "duration_s": 17,
+   "first_seen_ms": 1792496246419,
+   "image": "https://img.mako.co.il/2026/10/20/M_Tarbut_17752_20102026112954_1400_1792495914676_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792495921000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זמר אופרה קנדי הניף דגל פלסטין בתום מופע הבכורה - והודח לפי שעה. זמר אחר יחליף אותו בהופעות הקרובות",
+   "type": "mivzakim",
+   "updated_ms": 1792495921000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-88ae819d01951a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17752_20102026112954/M_Tarbut_17752_20102026112954_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm": {
    "author": "עדכוני בידור",
@@ -72002,6 +72020,24 @@
    "updated_ms": 1792327746000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5444263330f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_ashdod_7479_18102026124737/V1_karind_ashdod_7479_18102026124737_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-551598d9d0951a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רימוני רסס ו-5 ק\"ג סמים נתפסו בפשיטה על מתחם מגורים בשכונת נווה ירק בלוד",
+   "duration_s": 9,
+   "first_seen_ms": 1792496246419,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17753_20102026113411_1400_1792496134478_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792496141000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רימוני רסס ו-5 ק\"ג סמים נתפסו בפשיטה על מתחם מגורים בשכונת נווה ירק בלוד",
+   "type": "mivzakim",
+   "updated_ms": 1792496141000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-551598d9d0951a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17753_20102026113411/M_NEWS_17753_20102026113411_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-552c564b2c251a1026.htm": {
    "author": "מבזקים",
