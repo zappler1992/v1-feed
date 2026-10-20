@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792487249796,
+ "last_run_ms": 1792487548998,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1112,6 +1112,18 @@
    "published_ms": 1792405101000,
    "section": "אופנה",
    "title": "בתצוגה של ויקטוריה'ס סיקרט: שמלת התחרה של הדר שירי עוצרת נשימה"
+  },
+  "https://fashionforward.mako.co.il/news/322054/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792487307344,
+   "content_type": "article",
+   "first_seen_ms": 1792487307344,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792487195000,
+   "section": "Fashion Forward",
+   "title": "סייד בוב של הביוקר: שמלת האירועים של ליה נוגה גמרה אותנו"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -14356,6 +14368,18 @@
    "published_ms": 1790077800000,
    "section": "סלבס",
    "title": "\"לא חשבתם שזה יעבור בשקט, כן? לא על הגב שלי\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-56a9e13c84851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792487307344,
+   "content_type": "article",
+   "first_seen_ms": 1792487307344,
+   "indexable": true,
+   "indexnow_ms": 1792487307344,
+   "published_ms": 1792487040000,
+   "section": "סלבס",
+   "title": "\"יש דברים שמגלים על אנשים רק אחרי פרידה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5dbbebe619601a1027.htm": {
    "check_attempts": 1,
