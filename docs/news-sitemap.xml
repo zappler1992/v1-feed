@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cf3cffd624951a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-20T12:26:52+00:00</news:publication_date>
+<news:title>&quot;חמאס הרג את הבן שלי, אין אדם שרוצה להשמיד אותם יותר ממני&quot;: המפגש של איזנקוט במרכז מסחרי בדימונה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/20/V1_isenkot_7562_20102026122527_1400_1792499206163_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-eb8dafa9f3951a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2428,14 +2437,5 @@
 <news:title>רוכב אופנוע בן 29 נפגע מרכב באשדוד, מצבו בינוני</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/M_NEWS_17606_18102026123433_1400_1792326967824_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-892bed50dfe41a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T12:31:33+00:00</news:publication_date>
-<news:title>טראמפ מגיב למהומות שאירעו בצרפת: &quot;אנשים הנושאים שנאה בליבם - ריסקה את המדינה. סגרו את הגבולות!&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_karind_trump_7478_18102026123006_1400_1792326686889_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
