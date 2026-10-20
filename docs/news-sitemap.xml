@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-617504700a751a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-20T05:06:04+00:00</news:publication_date>
+<news:title>כותרות הבוקר עם עדי זריפי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/20/V1_rinat_kotarot_201026_7552_20102026050420_1400_1792472757805_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b04c1877c9751a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2516,23 +2525,5 @@
 <news:title>ג&#x27;סטין טימברלייק וג&#x27;סיקה בייל זוגיים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/M_Tarbut_17570_18102026051356_1400_1792300508555_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7a1751a993d41a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T05:11:06+00:00</news:publication_date>
-<news:title>על רקע הגירושים מבעלה אחרי 9 שנות נישואים: אמנדה סייפריד מנסה להתמודד עם ראיונות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/M_Tarbut_17569_18102026050925_1400_1792300259305_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8c4551a993d41a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T05:08:32+00:00</news:publication_date>
-<news:title>פרשת ענק בליגת העל - החשד: עבירות כלכליות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/biata_soccer_fix_1400_1792302819353_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
