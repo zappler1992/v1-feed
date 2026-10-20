@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6dd8c924f6751a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-20T03:56:21+00:00</news:publication_date>
+<news:title>מזג האוויר יהיה מעונן וקריר, ממחר: התחממות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/20/V1_tahazit_7549_20102026035448_1400_1792468573383_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-adc6bb4e7e651a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2615,14 +2624,5 @@
 <news:title>‏עדן ואושר צופים ברגע החשיפה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/M_Celebs_17559_18102026040452_1400_1792296471021_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T04:01:33+00:00</news:publication_date>
-<news:title>גשם צפוי לרדת היום בצפון ובמישור החוף: צפו בתחזית המלאה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_WEATHER_7450_18102026035955_1400_1792296086472_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
