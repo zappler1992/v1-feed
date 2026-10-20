@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792480648617,
+ "last_run_ms": 1792480948620,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26861,6 +26861,18 @@
    "section": "",
    "title": "תקף את בת זוגו - והרג את כלבתו בחרב סמוראים"
   },
+  "https://www.mako.co.il/men-men_news/Article-34d09a6142851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792480948620,
+   "content_type": "article",
+   "first_seen_ms": 1792480948620,
+   "indexable": true,
+   "indexnow_ms": 1792480948620,
+   "published_ms": 1792480440000,
+   "section": "פלילים",
+   "title": "העבריין מסתבך: \"ניקב ארבעה גלגלי רכב\""
+  },
   "https://www.mako.co.il/men-men_news/Article-35a07e0d80511a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26931,7 +26943,7 @@
    "indexnow_ms": 1792477048798,
    "published_ms": 1792476420000,
    "section": "פלילים",
-   "title": "במהלך הליכי הגירושים:  כך פעל תושב המרכז נגד גרושתו"
+   "title": "\"התקין מצלמות בחדר השינה מבלי שאשתו ידעה\""
   },
   "https://www.mako.co.il/men-men_news/Article-37aeff8ad15d0a1026.htm": {
    "check_attempts": 1,
@@ -30736,6 +30748,18 @@
    "published_ms": 1791055080000,
    "section": "מוזיקה",
    "title": "עוד כוכב אמריקאי הביע תמיכה בפלסטין"
+  },
+  "https://www.mako.co.il/music-news/Article-b18d09c632851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792480948620,
+   "content_type": "article",
+   "first_seen_ms": 1792480948620,
+   "indexable": true,
+   "indexnow_ms": 1792480948620,
+   "published_ms": 1792480500000,
+   "section": "",
+   "title": "ההחלטה של אייל גולן לגבי סיבוב ההופעות בצרפת"
   },
   "https://www.mako.co.il/music-news/Article-b1d97ea4d94e0a1027.htm": {
    "check_attempts": 1,
@@ -39567,7 +39591,7 @@
    "indexnow_ms": 1792473148661,
    "published_ms": 1792469340000,
    "section": "חופש",
-   "title": "שלושה מקרים בתוך שבוע: התופעה החדשה בטיסות לארץ"
+   "title": "הבעיה החדשה שמתמודדים איתה בטיסות בארץ"
   },
   "https://www.mako.co.il/travel-news/international/Article-9868b24557431a1026.htm": {
    "check_attempts": 1,
@@ -40227,7 +40251,7 @@
    "indexnow_ms": 1792477706730,
    "published_ms": 1792476540000,
    "section": "חופש",
-   "title": "המצב בשפל של שנים: ככה הכנרת נראית היום"
+   "title": "כואב לראות אותה ככה: הכנרת כמו שלא ראיתם מעולם"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0912145821601a1026.htm": {
    "check_attempts": 1,
