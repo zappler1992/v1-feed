@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5e785222eda51a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-215d55ef7da51a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-810355ef7da51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13461,6 +13460,24 @@
    "updated_ms": 1792300705000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7d834391b6d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17572_18102026051718/M_Tarbut_17572_18102026051718_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-810355ef7da51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עוד לא התחלנו את החורף ועומר נודלמן כבר חולה",
+   "duration_s": 7,
+   "first_seen_ms": 1792526546286,
+   "image": "https://img.mako.co.il/2026/10/20/M_Celebs_17791_20102026075446_1400_1792526168275_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792526175000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עוד לא התחלנו את החורף ועומר נודלמן כבר חולה",
+   "type": "mivzakim",
+   "updated_ms": 1792526175000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-810355ef7da51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17791_20102026075446/M_Celebs_17791_20102026075446_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-81853c75fbf41a1027.htm": {
    "author": "עדכוני בידור",
@@ -37153,7 +37170,9 @@
    "image": "https://img.mako.co.il/2026/10/20/SHIR_USA_201026_FIX_1400_1792510740004_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792510149000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "ארה״ב נערכת להסלמה מול איראן",
    "type": "news",
    "updated_ms": 1792514880000,
@@ -72967,9 +72986,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "\"מה הבעיה שלך? אתה בן אדם חולה?\": טראמפ מתעצבן על כתב בבית הלבן | צפו",
-   "duration_s": 13,
+   "duration_s": 12,
    "first_seen_ms": 1792526246250,
-   "image": "https://img.mako.co.il/2026/10/20/V1_karind_trump2_7585_20102026075008_1400_1792525872971_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/20/biata_trump_fixmiv_1400_1792526348650_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792525879000,
    "sections": [
@@ -72977,9 +72996,9 @@
    ],
    "title": "\"מה הבעיה שלך? אתה בן אדם חולה?\": טראמפ מתעצבן על כתב בבית הלבן | צפו",
    "type": "mivzakim",
-   "updated_ms": 1792525879000,
+   "updated_ms": 1792526340000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5e785222eda51a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_trump2_7585_20102026075008/V1_karind_trump2_7585_20102026075008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/biata_trump_fixmiv/biata_trump_fixmiv_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5f50263330f41a1026.htm": {
    "author": "מבזקים",
