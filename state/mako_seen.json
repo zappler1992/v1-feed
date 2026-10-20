@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792483649813,
+ "last_run_ms": 1792483948802,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35237,6 +35237,18 @@
    "section": "",
    "title": "מצבא מפתיע: דיווח - הבכיר שנפגש עם נתניהו"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-5f5f2d1fa3851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792483948802,
+   "content_type": "article",
+   "first_seen_ms": 1792483948802,
+   "indexable": true,
+   "indexnow_ms": 1792483948802,
+   "published_ms": 1792482120000,
+   "section": "צבא וביטחון",
+   "title": "שינוי משמעותי: היחידות החדשות שיוקמו בצה\"ל"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-64eb1547cc501a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39592,6 +39604,18 @@
    "published_ms": 1791912900000,
    "section": "",
    "title": "הנוסעים בטיסה לא הפסיקו להתגרד - זה מה שהדיילים עשו"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-879ca01a43851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792483707122,
+   "content_type": "article",
+   "first_seen_ms": 1792483707122,
+   "indexable": true,
+   "indexnow_ms": 1792483707122,
+   "published_ms": 1792481340000,
+   "section": "חופש",
+   "title": "\"אנשים קפצו למים\": יצאו לשיט  - והסירה החלה לעלות באש"
   },
   "https://www.mako.co.il/travel-news/international/Article-89f4af326c411a1027.htm": {
    "check_attempts": 1,
