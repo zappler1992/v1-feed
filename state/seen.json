@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-283dbb8309951a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-df7f084af8951a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ed79084af8951a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -36685,6 +36686,24 @@
    "updated_ms": 1792405800000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ea0f233611351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/inbie_zara_191026/MASTER/inbie_zara_191026/inbie_zara_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ed79084af8951a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תמונות של הפנתר הוורוד במהומות בצרפת הפכו לוויראליות, אך מדובר בתמונות שנוצרו בבינה מלאכותית, חלקן על בסיס צילומים קיימים שעברו עיבוד. התמונות נראו אמינות, אך הציגו אירועים שלא התרחשו במציאות.",
+   "duration_s": 39,
+   "first_seen_ms": 1792504946694,
+   "image": "https://img.mako.co.il/2026/10/20/SHIR_PANTER_201026_1400_1792503970332_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792503980000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "כל העולם התלהב מהפנתר הוורוד במחאות בפריז - ואז התבררה האמת",
+   "type": "news",
+   "updated_ms": 1792503980000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ed79084af8951a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIR_PANTER_201026/MASTER/SHIR_PANTER_201026/SHIR_PANTER_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efc6201dbcf41a1027.htm": {
    "author": "חדשות",
@@ -73808,6 +73827,24 @@
    "updated_ms": 1792407428000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17675_19102026105543/M_NEWS_17675_19102026105543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-df7f084af8951a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח: ארה״ב ואיראן הסכימו להצעת פשרה של קטאר ופקיסטן לחידוש המו״מ ולמניעת הסלמה",
+   "duration_s": 9,
+   "first_seen_ms": 1792504946694,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_iran_7568_20102026015330_1400_1792504579160_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792504585000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח: ארה״ב ואיראן הסכימו להצעת פשרה של קטאר ופקיסטן לחידוש המו״מ ולמניעת הסלמה",
+   "type": "mivzakim",
+   "updated_ms": 1792504585000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-df7f084af8951a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_iran_7568_20102026015330/V1_karind_iran_7568_20102026015330_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e0506bf47f251a1026.htm": {
    "author": "מבזקים",
