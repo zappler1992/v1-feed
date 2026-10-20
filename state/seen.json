@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f485819d01951a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9b1ea68763951a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7566,7 +7566,7 @@
    "duration_s": 23,
    "first_seen_ms": 1792488446167,
    "image": "https://img.mako.co.il/2026/10/20/V1_rinat_wedding_201026_7560_20102026085926_1400_1792486843204_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792486850000,
    "sections": [
     "סלבס"
@@ -20048,7 +20048,7 @@
    "sections": [],
    "title": "בעולם מדווחים בזעזוע: תינוקת נהרגה בעגלה מכטב\"ם רוסי בגן שעשועים באוקראינה",
    "type": "general",
-   "updated_ms": 1792496274000,
+   "updated_ms": 1792498440000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f485819d01951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/inbie_baby_201026/MASTER/inbie_baby_201026/inbie_baby_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -72781,6 +72781,24 @@
    "updated_ms": 1792309174000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-99b1f70eded41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_karind_canada_7463_18102026073806/V1_karind_canada_7463_18102026073806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9b1ea68763951a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פעולות החייאה בגבר כבן 50 שרכבו עלה באש תוך כדי נסיעה בכביש 92 בסמוך לרמות",
+   "duration_s": 9,
+   "first_seen_ms": 1792498646483,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17758_20102026121006_1400_1792498288845_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792498296000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פעולות החייאה בגבר כבן 50 שרכבו עלה באש תוך כדי נסיעה בכביש 92 בסמוך לרמות",
+   "type": "mivzakim",
+   "updated_ms": 1792498296000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9b1ea68763951a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17758_20102026121006/M_NEWS_17758_20102026121006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9ed260db63551a1026.htm": {
    "author": "מבזקים",
