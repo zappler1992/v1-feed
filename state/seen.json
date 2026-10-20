@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cf33c0dc9ca51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5e785222eda51a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-215d55ef7da51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12704,6 +12705,24 @@
    "updated_ms": 1792476444000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1dfe2a4c4e751a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17735_20102026060542/M_Tarbut_17735_20102026060542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-215d55ef7da51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "נטע ברזני עם פרשנות ספורט",
+   "duration_s": 23,
+   "first_seen_ms": 1792526246250,
+   "image": "https://img.mako.co.il/2026/10/20/M_Celebs_17790_20102026075026_1400_1792525908002_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792525914000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "נטע ברזני עם פרשנות ספורט",
+   "type": "mivzakim",
+   "updated_ms": 1792525914000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-215d55ef7da51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17790_20102026075026/M_Celebs_17790_20102026075026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-22cb441c0c551a1027.htm": {
    "author": "עדכוני בידור",
@@ -72943,6 +72962,24 @@
    "updated_ms": 1792499002000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-58fcafa9f3951a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17759_20102026122201/M_NEWS_17759_20102026122201_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5e785222eda51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מה הבעיה שלך? אתה בן אדם חולה?\": טראמפ מתעצבן על כתב בבית הלבן | צפו",
+   "duration_s": 13,
+   "first_seen_ms": 1792526246250,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_trump2_7585_20102026075008_1400_1792525872971_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792525879000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מה הבעיה שלך? אתה בן אדם חולה?\": טראמפ מתעצבן על כתב בבית הלבן | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1792525879000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5e785222eda51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_trump2_7585_20102026075008/V1_karind_trump2_7585_20102026075008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5f50263330f41a1026.htm": {
    "author": "מבזקים",
