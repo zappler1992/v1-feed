@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-2e1e9a012f951a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3cc2236ea1a51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fb60236ea1a51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-60f06af890a51a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37506af890a51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5528,7 +5531,8 @@
    "importance": 2,
    "published_ms": 1792504665000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "יובל דיין ביקשה ממאבטחים לפנות אדם בקהל",
    "type": "general",
@@ -12812,6 +12816,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3568cbf13df41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17627_18102026042147/M_Tarbut_17627_18102026042147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37506af890a51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מזל טוב: שיר הדס מאיר וישי סוויסה - חתן וכלה",
+   "duration_s": 9,
+   "first_seen_ms": 1792513946088,
+   "image": "https://img.mako.co.il/2026/10/20/M_Celebs_17778_20102026041534_1400_1792513357219_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792513363000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מזל טוב: שיר הדס מאיר וישי סוויסה - חתן וכלה",
+   "type": "mivzakim",
+   "updated_ms": 1792513363000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37506af890a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17778_20102026041534/M_Celebs_17778_20102026041534_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-39aa5387fd351a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13063,6 +13085,24 @@
    "updated_ms": 1792306946000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-5fc5a05aacd41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17584_18102026070110/M_Celebs_17584_18102026070110_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-60f06af890a51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "דסטין הופמן בשירת התקווה לצד אסתר רדא, באירוע למען ישראל שהתקיים אמש בלוס אנג'לס",
+   "duration_s": 10,
+   "first_seen_ms": 1792513946088,
+   "image": "https://img.mako.co.il/2026/10/20/M_Tarbut_17780_20102026042544_1400_1792513607709_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792513614000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "דסטין הופמן בשירת התקווה לצד אסתר רדא, באירוע למען ישראל שהתקיים אמש בלוס אנג'לס",
+   "type": "mivzakim",
+   "updated_ms": 1792513614000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-60f06af890a51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17780_20102026042544/M_Tarbut_17780_20102026042544_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-657a18d0e6d41a1027.htm": {
    "author": "עדכוני בידור",
@@ -14017,6 +14057,24 @@
    "updated_ms": 1792435604000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f83cff9c77551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17698_19102026064204/M_Tarbut_17698_19102026064204_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fb60236ea1a51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ההרכב הישראלי ״טמפר סיטי״ מועמד לפרס פריצת השנה בטקס פרסי הילדים של ניקלודיאון",
+   "duration_s": 9,
+   "first_seen_ms": 1792513946088,
+   "image": "https://img.mako.co.il/2026/10/20/M_Music_17779_20102026042009_1400_1792513675702_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792513682000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ההרכב הישראלי ״טמפר סיטי״ מועמד לפרס פריצת השנה בטקס פרסי הילדים של ניקלודיאון",
+   "type": "mivzakim",
+   "updated_ms": 1792513682000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fb60236ea1a51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17779_20102026042009/M_Music_17779_20102026042009_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fbbfd723aa551a1026.htm": {
    "author": "עדכוני בידור",
@@ -20108,7 +20166,7 @@
    "description": "סטיבן המילטון בן ה-71 מפלורידה יצא לדוג על שפת בריכה מלאכותית, כשלפתע הותקף על ידי תנין, נפל למים - וטבע. צוותי החילוץ שהגיעו להשיב את גופתו מהמים נתקלו בבעיה משום שעדיין היו תנינים פעילים באזור, ורק לאחר מאמץ רב הצליחו לאתר אותו במים. כעת הנתיחה לאחר המוות קובעת שהמילטון מת כתוצאה מחבלה בתאונה הטרגית.",
    "duration_s": 19,
    "first_seen_ms": 1792512146073,
-   "image": "https://img.mako.co.il/2026/10/20/biata_alligator_201026_1400_1792511021835_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/20/biata_alligator_201026_fix_1400_1792511991397_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792511028000,
    "sections": [
@@ -20116,9 +20174,9 @@
    ],
    "title": "דג על שפת בריכה - והותקף על ידי תנין",
    "type": "general",
-   "updated_ms": 1792511028000,
+   "updated_ms": 1792511940000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-2e1e9a012f951a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/biata_alligator_201026/MASTER/biata_alligator_201026/biata_alligator_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/biata_alligator_201026_fix/biata_alligator_201026_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3070efddef851a1026.htm": {
    "author": "מהעולם",
@@ -36282,7 +36340,9 @@
    "image": "https://img.mako.co.il/2026/10/20/SHIRA_MEITAL_201026_M_1400_1792500470573_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792500488000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "החשד החדש נגד אשת ראש העיר",
    "type": "news",
    "updated_ms": 1792500488000,
@@ -72276,6 +72336,24 @@
    "updated_ms": 1792443291000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3c746eaa1e551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_KARIND_ZELENSKY_7547_19102026085110/V1_KARIND_ZELENSKY_7547_19102026085110_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3cc2236ea1a51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סוללה לא תקנית של אופניים חשמליים התלקחה בתאונה עם רכב ברמת גן, לא היו נפגעים",
+   "duration_s": 9,
+   "first_seen_ms": 1792513946088,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_fire_7574_20102026042901_1400_1792513821873_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792513829000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סוללה לא תקנית של אופניים חשמליים התלקחה בתאונה עם רכב ברמת גן, לא היו נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1792513829000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3cc2236ea1a51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_fire_7574_20102026042901/V1_karind_fire_7574_20102026042901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm": {
    "author": "מבזקים",
