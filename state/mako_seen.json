@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792498949183,
+ "last_run_ms": 1792499249399,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20895,7 +20895,7 @@
    "indexnow_ms": 1792484848807,
    "published_ms": 1792481160000,
    "section": "",
-   "title": "סכנה בריאותית: הטרנד המסוכן שסוחף ילדות קטנות"
+   "title": "הטרנד שסוחף ילדות - עלול להזיק לפנים שלהן"
   },
   "https://www.mako.co.il/health-news/Article-54b4028851631a1026.htm": {
    "check_attempts": 1,
@@ -30581,6 +30581,18 @@
    "section": "",
    "title": "המעריצים נגד עומר אדם: \"תמיד יש בעיות\""
   },
+  "https://www.mako.co.il/music-news/Article-051d9cc4a3951a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792499067526,
+   "content_type": "article",
+   "first_seen_ms": 1792499067526,
+   "indexable": true,
+   "indexnow_ms": 1792499067526,
+   "published_ms": 1792498620000,
+   "section": "מוזיקה",
+   "title": "התאבדות או רצח? סימני שאלה חדשים במותו של הכוכב"
+  },
   "https://www.mako.co.il/music-news/Article-063e50960fe21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39556,6 +39568,18 @@
    "published_ms": 1790915640000,
    "section": "חופש",
    "title": "הבחירות במדינה יכולות לשנות את היחס שלה לישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-1dad00ec67851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792499249399,
+   "content_type": "article",
+   "first_seen_ms": 1792499249399,
+   "indexable": true,
+   "indexnow_ms": 1792499249399,
+   "published_ms": 1792499160000,
+   "section": "",
+   "title": "עוצר לילי ומפת הפגנות: תמונת המצב של המחאות בצרפת"
   },
   "https://www.mako.co.il/travel-news/international/Article-211fde4e19d41a1026.htm": {
    "check_attempts": 1,
