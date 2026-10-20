@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0c92a05c4b851a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-905a9ae81c851a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13243,6 +13244,24 @@
    "updated_ms": 1792321321000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9059120eaae41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17602_18102026110035/M_Celebs_17602_18102026110035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-905a9ae81c851a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "תחנה ראשונה לפני מנורה: בוי ג'ורג' (תום יער) מגיע הערב ל\"ארץ נהדרת\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792490846257,
+   "image": "https://img.mako.co.il/2026/10/20/M_Tarbut_17750_20102026095209_1400_1792490576275_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792490583000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "תחנה ראשונה לפני מנורה: בוי ג'ורג' (תום יער) מגיע הערב ל\"ארץ נהדרת\"",
+   "type": "mivzakim",
+   "updated_ms": 1792490583000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-905a9ae81c851a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17750_20102026095209/M_Tarbut_17750_20102026095209_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-94af3f3a5b251a1026.htm": {
    "author": "עדכוני בידור",
@@ -36129,6 +36148,22 @@
    "updated_ms": 1792302780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8c4551a993d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/biata_soccer_fix/biata_soccer_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מחווה מרגשת או צירוף מקרים מצמרר? העונה החדשה של \"הדיפלומטית\" בנטפליקס מטריפה את הרשת בעקבות סצנה בפרק השישי, שבה מסופר על חייל בשם הרשל פולין מווירג'יניה שאיבד את ידו כשבלם רימון חי. השם המזהה, עיר המגורים ופציעת הקטיעה מהדיפת הרימון יצרו דמיון מטורף להירש גולדברג-פולין ז\"ל שנחטף ב-7 באוקטובר ונרצח בשבי.",
+   "duration_s": 42,
+   "first_seen_ms": 1792490846257,
+   "image": "https://img.mako.co.il/2026/10/20/rinat_hirshgoldberg_201026_m_1400_1792490285650_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792490296000,
+   "sections": [],
+   "title": "הסצנה בנטפליקס - והדמיון המצמרר לחטוף שנרצח",
+   "type": "news",
+   "updated_ms": 1792490296000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/rinat_hirshgoldberg_201026/MASTER/rinat_hirshgoldberg_201026_m/rinat_hirshgoldberg_201026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-a3a6a37da7451a1026.htm": {
    "author": "חדשות",
