@@ -1,12 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-aa395ef628951a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7582b8fe77951a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-fd81a38357951a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e051a38357951a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-576fa38357951a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2a5fa38357951a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dbb428a958951a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e9f15ef628951a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13842,6 +13838,24 @@
    "updated_ms": 1792388487000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e74583331a251a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17654_19102026053939/M_Celebs_17654_19102026053939_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e9f15ef628951a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי שנים: כריסטינה אפלגייט חושפת שאובחנה בטעות עם טרשת נפוצה",
+   "duration_s": 6,
+   "first_seen_ms": 1792504046653,
+   "image": "https://img.mako.co.il/2026/10/20/M_Tarbut_17768_20102026013931_1400_1792503658325_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792503666000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי שנים: כריסטינה אפלגייט חושפת שאובחנה בטעות עם טרשת נפוצה",
+   "type": "mivzakim",
+   "updated_ms": 1792503666000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e9f15ef628951a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17768_20102026013931/M_Tarbut_17768_20102026013931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ec3a273991051a1027.htm": {
    "author": "עדכוני בידור",
@@ -97960,6 +97974,24 @@
    "updated_ms": 1792339500000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-bd4d9718d8f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_HADGAMA_7484_18102026030945/V1_HADGAMA_7484_18102026030945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dbb428a958951a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מחזה שלא רואים כל יום: כריש מגיח מהמים בקפיצה מפתיעה מול חופי קליפורניה",
+   "duration_s": 14,
+   "first_seen_ms": 1792504046653,
+   "image": "https://img.mako.co.il/2026/10/20/V1_karind_shark_7566_20102026014123_1400_1792503799148_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792503806000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מחזה שלא רואים כל יום: כריש מגיח מהמים בקפיצה מפתיעה מול חופי קליפורניה",
+   "type": "mivzakim",
+   "updated_ms": 1792503806000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dbb428a958951a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_shark_7566_20102026014123/V1_karind_shark_7566_20102026014123_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-de86a37da7451a1026.htm": {
    "author": "מבזקים מהעולם",
