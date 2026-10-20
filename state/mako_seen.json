@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792479748587,
+ "last_run_ms": 1792480048573,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19313,6 +19313,18 @@
    "section": "",
    "title": "מהיום אין דבר כזה \"לא אוהבים עוגות לימון\""
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/parve_cakes/Recipe-f7470a9ea6e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792480048573,
+   "content_type": "recipe",
+   "first_seen_ms": 1792480048573,
+   "indexable": true,
+   "indexnow_ms": 1792480048573,
+   "published_ms": 1792479900000,
+   "section": "",
+   "title": "איזה כיף זה מתוקים שלא מגיעים עם שנאה עצמית?"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-chicken/Recipe-0040d71bf2f21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26368,6 +26380,18 @@
    "published_ms": 1792313580000,
    "section": "פלילים",
    "title": "שוטף כלים במסעדה חשוד שתקף מינית עובדת"
+  },
+  "https://www.mako.co.il/men-men_news/Article-15a5c7e130851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792479986850,
+   "content_type": "article",
+   "first_seen_ms": 1792479986850,
+   "indexable": true,
+   "indexnow_ms": 1792479986850,
+   "published_ms": 1792478580000,
+   "section": "פלילים",
+   "title": "ירי מטווח אפס: תיעוד הרצח בתחנת הדלק בנתניה"
   },
   "https://www.mako.co.il/men-men_news/Article-1affeb177f501a1027.htm": {
    "check_attempts": 1,
