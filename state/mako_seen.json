@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792489349072,
+ "last_run_ms": 1792489648897,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19685,6 +19685,18 @@
    "section": "",
    "title": "מכורים לנאצ'וס בקולנוע? חכו שתטעמו את זה"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-stuffed/Recipe-421ce6b981451a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792489587477,
+   "content_type": "recipe",
+   "first_seen_ms": 1792489587477,
+   "indexable": true,
+   "indexnow_ms": 1792489587477,
+   "published_ms": 1792489200000,
+   "section": "",
+   "title": "ככה מכינים אורז פרסי חגיגי ב-10 צעדים פשוטים"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-stuffed/Recipe-d0ac4c487ff01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19828,6 +19840,18 @@
    "published_ms": 1791886380000,
    "section": "",
    "title": "חדש בקריית אונו: המבורגר וואגיו נדיר ב-74 שקלים"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-41a622fec9351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792489587477,
+   "content_type": "article",
+   "first_seen_ms": 1792489587477,
+   "indexable": true,
+   "indexnow_ms": 1792489587477,
+   "published_ms": 1792489320000,
+   "section": "",
+   "title": "לכריך המפורסם משוק הכרמל נולד חתיכת מתחרה"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-46c621542aea0a1027.htm": {
    "check_attempts": 1,
@@ -20751,7 +20775,7 @@
    "indexnow_ms": 1792484848807,
    "published_ms": 1792481160000,
    "section": "",
-   "title": "הטרנד שסוחף ילדות - עלול להזיק לפנים שלהן"
+   "title": "סכנה בריאותית: הטרנד המסוכן שסוחף ילדות קטנות"
   },
   "https://www.mako.co.il/health-news/Article-54b4028851631a1026.htm": {
    "check_attempts": 1,
@@ -31001,6 +31025,18 @@
    "section": "מוזיקה",
    "title": "עוד כוכב אמריקאי הביע תמיכה בפלסטין"
   },
+  "https://www.mako.co.il/music-news/Article-af26b678f9851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792489587477,
+   "content_type": "article",
+   "first_seen_ms": 1792489587477,
+   "indexable": true,
+   "indexnow_ms": 1792489587477,
+   "published_ms": 1792489140000,
+   "section": "מוזיקה",
+   "title": "\"ראה אותך יח\"צ\": נועה סוגרת חשבון עם האקס"
+  },
   "https://www.mako.co.il/music-news/Article-b18d09c632851a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31299,7 +31335,7 @@
    "indexnow_ms": 1792470987470,
    "published_ms": 1792470360000,
    "section": "",
-   "title": "חודשיים בלבד אחרי שאובחנה במחלה: הכוכבת מתה בגיל 39"
+   "title": "הזמרת והשחקנית לואה בלנקו מתה בגיל 39"
   },
   "https://www.mako.co.il/music-news/Article-f49dbccb8cce0a1027.htm": {
    "check_attempts": 1,
@@ -36303,7 +36339,7 @@
    "indexnow_ms": 1792465587319,
    "published_ms": 1792465200000,
    "section": "",
-   "title": "פוטין הסתיר את האמת מכולם, ואז היא נחשפה"
+   "title": "האמת שרוסיה מסתירה על המפציץ האסטרטגי"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-f76d0b91f7a11a1027.htm": {
    "check_attempts": 1,
@@ -38703,7 +38739,7 @@
    "indexnow_ms": 1792488627422,
    "published_ms": 1792487220000,
    "section": "",
-   "title": "ההפתעה שחיכתה לישראלים בחו\"ל: \"הוא הגיע לפתח הדלת\""
+   "title": "ישראלים השכירו דירה באירופה ולא האמינו שזה מה שיקרה"
   },
   "https://www.mako.co.il/travel-news/Article-2c70ffada7551a1027.htm": {
    "check_attempts": 1,
@@ -43180,6 +43216,18 @@
    "published_ms": 1792482180000,
    "section": "תרבות tvbee",
    "title": "הסצנה בנטפליקס והדמיון המצמרר לחטוף שנרצח"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-91362d1fa3851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792489587477,
+   "content_type": "article",
+   "first_seen_ms": 1792489587477,
+   "indexable": true,
+   "indexnow_ms": 1792489587477,
+   "published_ms": 1792482900000,
+   "section": "הכי חם",
+   "title": "דניאל עמית: \"אמילי הייתה איתי כל הדרך\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-a55e032425431a1026.htm": {
    "check_attempts": 1,
