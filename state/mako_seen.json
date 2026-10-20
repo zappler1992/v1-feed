@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792494449032,
+ "last_run_ms": 1792494749326,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21077,6 +21077,18 @@
    "section": "",
    "title": "ילד בן 7 במצב קשה לאחר שהוכש על ידי נחש"
   },
+  "https://www.mako.co.il/health-news/Article-850fdee32c851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792494506874,
+   "content_type": "article",
+   "first_seen_ms": 1792494506874,
+   "indexable": true,
+   "indexnow_ms": 1792494506874,
+   "published_ms": 1792493280000,
+   "section": "",
+   "title": "עשרות אורחים נוספים שהיו במלון מתלוננים על תסמינים"
+  },
   "https://www.mako.co.il/health-news/Article-85929d28b97c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39784,6 +39796,18 @@
    "published_ms": 1790762760000,
    "section": "",
    "title": "אנשי הצוות מכוסי דם על הרצפה – הישראלים משתלטים עליהם"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-5a7265352d851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792494506874,
+   "content_type": "article",
+   "first_seen_ms": 1792494506874,
+   "indexable": true,
+   "indexnow_ms": 1792494506874,
+   "published_ms": 1792489260000,
+   "section": "חופש",
+   "title": "נוסעת לא קיבלה את המושב שלה - ובכתה 3 שעות"
   },
   "https://www.mako.co.il/travel-news/international/Article-5b77ed86b42d0a1026.htm": {
    "check_attempts": 1,
