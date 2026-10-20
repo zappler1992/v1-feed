@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3213bb4e7e651a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0d4bb4e7e651a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -71901,6 +71902,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8d72bb4e7e651a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17720_20102026025344/M_NEWS_17720_20102026025344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח: שני בני אדם נהרגו בתקיפה במערב העיר עזה הלילה",
+   "duration_s": 9,
+   "first_seen_ms": 1792466545828,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17722_20102026031555_1400_1792466237757_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792466244000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח: שני בני אדם נהרגו בתקיפה במערב העיר עזה הלילה",
+   "type": "mivzakim",
+   "updated_ms": 1792466244000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17722_20102026031555/M_NEWS_17722_20102026031555_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-90b61a86cff41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -72495,6 +72514,24 @@
    "updated_ms": 1792430462000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c9feca4472551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_gantz_191026_7536_19102026051933/V1_karind_gantz_191026_7536_19102026051933_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0d4bb4e7e651a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"לא מתערב בבחירות בישראל\": בניגוד לטראמפ, ואנס נמנע מלהביע תמיכה בנתניהו",
+   "duration_s": 33,
+   "first_seen_ms": 1792466545828,
+   "image": "https://img.mako.co.il/2026/10/20/M_NEWS_17723_20102026031810_1400_1792466351588_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792466358000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"לא מתערב בבחירות בישראל\": בניגוד לטראמפ, ואנס נמנע מלהביע תמיכה בנתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1792466358000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0d4bb4e7e651a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17723_20102026031810/M_NEWS_17723_20102026031810_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0dcfacacad41a1027.htm": {
    "author": "מבזקים",
