@@ -1,11 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-5bab09c632851a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-fe2d09c632851a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1f09c632851a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1bf7f67b91851a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-f8889a6142851a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c50812bc51851a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c6df279390851a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19854,6 +19851,42 @@
    "updated_ms": 1792419181000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-b8b7b325e6451a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/inbalsmoke19/MASTER/Inbalsmoke19m/Inbalsmoke19m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c50812bc51851a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 34,
+   "first_seen_ms": 1792481245949,
+   "image": "https://img.mako.co.il/2026/10/20/rinat_blanco_201026_m_1400_1792479189543_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792479202000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "טרגדיה בברזיל: כוכבת \"רבלדה\" מתה מסרטן בגיל 39 - כחודשיים לאחר שהובחנה",
+   "type": "general",
+   "updated_ms": 1792479202000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c50812bc51851a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/rinat_blanco_201026/MASTER/rinat_blanco_201026_m/rinat_blanco_201026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c6df279390851a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "היסטוריה בשדה הקרב: אוקראינה מדווחת על חילוץ ראשון מסוגו בעולם, שבו חייל פצוע פונה מקו החזית ישירות דרך האוויר - באמצעות רחפן. הלוחם שנפצע נלכד בשטח רווי מוקשים ותחת איום מתמיד של רחפנים רוסיים, מה שמנע כל סיכוי לחילוץ קרקעי רגיל או רובוטי. בעקבות המצב הנואש, לוחמי החטיבה ה-92 חברו לחברת טכנולוגיה מקומית, ויחד התאימו מערכת מיוחדת שאפשרה לרחפן כבד לשאת את החייל באוויר בצורה יציבה. המבצע חסר התקדים הסתיים בהצלחה, והחייל הועבר לטיפול רפואי, בצעד שעשוי לשנות את כללי המשחק בחילוץ פצועים תחת אש.",
+   "duration_s": 54,
+   "first_seen_ms": 1792481245949,
+   "image": "https://img.mako.co.il/2026/10/20/inbie_rachfan_201026_1400_1792478666769_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792478673000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "חילוץ היסטורי באוקראינה: חייל פצוע פונה מהחזית באמצעות רחפן",
+   "type": "general",
+   "updated_ms": 1792478673000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c6df279390851a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/inbie_rachfan_201026/MASTER/inbie_rachfan_201026/inbie_rachfan_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f7e85b898c351a1026.htm": {
    "author": "מהעולם",
