@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792473448695,
+ "last_run_ms": 1792473748766,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9942,6 +9942,18 @@
    "published_ms": 1791451800000,
    "section": "ספורט",
    "title": "\"ירדן יודע מה הציפייה ממנו, לא היה כלום\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fba51877c9751a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792473748766,
+   "content_type": "article",
+   "first_seen_ms": 1792473748766,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792473420000,
+   "section": "ספורט",
+   "title": "אלי דסה בתמונת ההרכב של מכבי חיפה לב\"ש"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fc013caf67e41a1026.htm": {
    "check_attempts": 1,
