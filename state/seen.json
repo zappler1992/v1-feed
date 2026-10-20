@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c50812bc51851a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-c6df279390851a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1d1a01a43851a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -72940,6 +72939,24 @@
    "updated_ms": 1792350212000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1ab258cf5051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17632_18102026070135/M_NEWS_17632_18102026070135_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1d1a01a43851a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רגע לפני שנשלחו לבקו\"ם: תיעוד של החרדים רוקדים בנתב\"ג",
+   "duration_s": 13,
+   "first_seen_ms": 1792481845985,
+   "image": "https://img.mako.co.il/2026/10/20/V1_HAREDIM_7556_20102026073221_1400_1792481611329_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792481618000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רגע לפני שנשלחו לבקו\"ם: תיעוד של החרדים רוקדים בנתב\"ג",
+   "type": "mivzakim",
+   "updated_ms": 1792481618000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1d1a01a43851a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_HAREDIM_7556_20102026073221/V1_HAREDIM_7556_20102026073221_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d3a70f1362451a1026.htm": {
    "author": "מבזקים",
