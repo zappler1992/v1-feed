@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0e9ac1235c951a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-20T14:48:08+00:00</news:publication_date>
+<news:title>וינטר בתגובה לפגישה של סמוטריץ&#x27; ונתניהו עם הרב סדן: &quot;עם ישראל מאס בקמפיין המכוער והלא ערכי שהובלתם&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/20/M_NEWS_17771_20102026024636_1400_1792507681074_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-00c3d53cea951a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2446,14 +2455,5 @@
 <news:title>״כל מנהיג אחר יהיה לא נכון״: טראמפ הודיע על תמיכתו ברה&quot;מ נתניהו בבחירות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_TRUMP_7483_18102026025141_1400_1792335177260_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-07a2e4dc07f41a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T14:49:20+00:00</news:publication_date>
-<news:title>ביום הבחירות - עוצר יציאות מלא בצה&quot;ל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/fix_dvori_zahal_1400_1792336447482_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
