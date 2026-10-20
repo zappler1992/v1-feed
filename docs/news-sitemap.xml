@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0c92a05c4b851a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-20T09:54:31+00:00</news:publication_date>
+<news:title>נעצר חשוד כבן 50 בהטרדת זמרת מפורסמת</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/20/V1_NEETZAR_7561_20102026095308_1400_1792490064219_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cfc5b678f9851a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2428,14 +2437,5 @@
 <news:title>בשידור חי ברשתות החברתיות: צלב ענקי נפל על כומר במהלך המיסה באקוודור - והוא נהרג במקום</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_karind_komer_7475_18102026100650_1400_1792318071091_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-838d8ea3b6e41a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-18T09:55:20+00:00</news:publication_date>
-<news:title>הלך לעולמו מוטי סנדר, שהיה מקרוב לנשיא הרצוג וראש הממשלה נתניהו</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/18/V1_karind_sender_7474_18102026095403_1400_1792317313363_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
