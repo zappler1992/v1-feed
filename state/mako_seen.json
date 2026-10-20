@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792477648737,
+ "last_run_ms": 1792477948683,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24125,6 +24125,18 @@
    "section": "הורים",
    "title": "\"שנים הסתובבתי עם תחושה של בושה\""
   },
+  "https://www.mako.co.il/home-family-relationship/Article-b0f0271b1f751a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792477826726,
+   "content_type": "article",
+   "first_seen_ms": 1792477826726,
+   "indexable": true,
+   "indexnow_ms": 1792477826726,
+   "published_ms": 1792476960000,
+   "section": "הורים",
+   "title": "\"למדנו ללכת על ביצים ליד אבא שלנו\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-d2945accc0de0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -40120,6 +40132,18 @@
    "published_ms": 1791831300000,
    "section": "תרבות tvbee",
    "title": "המקום ההיסטורי בפריז נשרף לחלוטין"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-0633f277c0ec0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792477706730,
+   "content_type": "article",
+   "first_seen_ms": 1792477706730,
+   "indexable": true,
+   "indexnow_ms": 1792477706730,
+   "published_ms": 1792476540000,
+   "section": "חופש",
+   "title": "המצב בשפל של שנים: ככה הכנרת נראית היום"
   },
   "https://www.mako.co.il/travel-news/israel/Article-0912145821601a1026.htm": {
    "check_attempts": 1,
