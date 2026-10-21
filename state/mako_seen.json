@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792592549897,
+ "last_run_ms": 1792593149487,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4532,6 +4532,18 @@
    "published_ms": 1790948280000,
    "section": "ספורט",
    "title": "\"התקרית בדרבי? הייתי עושה את אותו דבר\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-a437e7b5bce51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792593026978,
+   "content_type": "article",
+   "first_seen_ms": 1792593026978,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792592640000,
+   "section": "ספורט",
+   "title": "דיווח: בוסטון הוזכר כמועמד למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-a69e597e33d11a1027.htm": {
    "check_attempts": 1,
@@ -15783,7 +15795,7 @@
    "indexnow_ms": 1792590626875,
    "published_ms": 1792590300000,
    "section": "סלבס",
-   "title": "במהלך הניתוח הקיסרי: ההחלטה של מאמנת הכושר"
+   "title": "רגע מהלידה: ההחלטה של מאמנת הכושר של הסלבס"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-abf8e2aa9f7e0a1027.htm": {
    "check_attempts": 1,
@@ -16192,6 +16204,18 @@
    "published_ms": 1791192000000,
    "section": "סלבס",
    "title": "\"חשבתי שבא להרוג אותי\": אמה של הכוכבת עברה תאונת דרכים"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e4185b7d8ae51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792593026978,
+   "content_type": "article",
+   "first_seen_ms": 1792593026978,
+   "indexable": true,
+   "indexnow_ms": 1792593026978,
+   "published_ms": 1792592340000,
+   "section": "",
+   "title": "גל גברעם בדמעות: \"לא מצליחה לקום מהמיטה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e42a6ad68a921a1026.htm": {
    "check_attempts": 1,
@@ -25059,7 +25083,7 @@
    "indexnow_ms": 1792591226949,
    "published_ms": 1792591080000,
    "section": "",
-   "title": "יש גם הפתעות: אלה בתי הספר שהצטיינו בבגרויות השנה"
+   "title": "אלה בתי הספר שהצטיינו בבגרות: חפשו את שלכם"
   },
   "https://www.mako.co.il/home-family-kids/Article-104252719fb01a1026.htm": {
    "check_attempts": 1,
@@ -27411,7 +27435,7 @@
    "indexnow_ms": 1792584627549,
    "published_ms": 1792584180000,
    "section": "",
-   "title": "בהלבשה תחתונה: הצעד המפתיע של כוכבת הרשת"
+   "title": "בהלבשה תחתונה: כוכבת הרשת בתמונות לוהטות"
   },
   "https://www.mako.co.il/makoz-news/Article-7bfdebe619601a1027.htm": {
    "check_attempts": 1,
@@ -45051,6 +45075,18 @@
    "section": "תרבות tvbee",
    "title": "\"ג'ניפר לא תרצה לדבר על מת'יו ולבכות מול המצלמה\""
   },
+  "https://www.mako.co.il/tvbee-tv-news/Article-2833e7b5bce51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792593026978,
+   "content_type": "article",
+   "first_seen_ms": 1792593026978,
+   "indexable": true,
+   "indexnow_ms": 1792593026978,
+   "published_ms": 1792592520000,
+   "section": "תרבות tvbee",
+   "title": "אחרי יותר מעשור: סדרת הלהיט חוזרת למסך"
+  },
   "https://www.mako.co.il/tvbee-tv-news/Article-29b99f60def31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45494,6 +45530,18 @@
    "published_ms": 1791372600000,
    "section": "תרבות tvbee",
    "title": "מ\"הכוכב הבא\" לנטפליקס: ליהוק הענק של הכוכבת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-aa6ff40272e51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792593026978,
+   "content_type": "article",
+   "first_seen_ms": 1792593026978,
+   "indexable": true,
+   "indexnow_ms": 1792593026978,
+   "published_ms": 1792581240000,
+   "section": "הכי חם",
+   "title": "\"לא הגיוני שאחרי שנה, אם נתגרש היא תקבל חצי\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-aa85d43425d51a1027.htm": {
    "check_attempts": 1,
