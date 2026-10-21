@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792565848846,
+ "last_run_ms": 1792566148865,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15639,7 +15639,7 @@
    "indexnow_ms": 1792518149658,
    "published_ms": 1792517640000,
    "section": "",
-   "title": "הזמר הישראלי ובת זוגו המגישה התחתנו"
+   "title": "בשעה טובה: שיר הדס מאיר וישי סוויסה נישאו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d001e7687ce31a1027.htm": {
    "check_attempts": 1,
@@ -34973,6 +34973,18 @@
    "section": "דיגיטל",
    "title": "מיליונים צפו: אפילו נתניהו היה צריך להתייחס"
   },
+  "https://www.mako.co.il/nexter-news/Article-d638a69293d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792565907654,
+   "content_type": "article",
+   "first_seen_ms": 1792565907654,
+   "indexable": true,
+   "indexnow_ms": 1792565907654,
+   "published_ms": 1792565400000,
+   "section": "דיגיטל",
+   "title": "מספרים סודות לצ'אט? השינוי הזה בול בשבילכם"
+  },
   "https://www.mako.co.il/nexter-news/Article-d74b4e3eda241a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -36675,7 +36687,7 @@
    "indexnow_ms": 1792560449717,
    "published_ms": 1792559760000,
    "section": "צבא וביטחון",
-   "title": "לא לומדים: התנהלות מביכה בצה\"ל כמעט גרמה לאסון"
+   "title": "החליפו כוח במוצב צה\"ל ונדהמו ממה שגילו בשטח"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7ed558bf34f21a1027.htm": {
    "check_attempts": 1,
@@ -38990,6 +39002,18 @@
    "published_ms": 1790577600000,
    "section": "",
    "title": "למדה לקח מאיראן: המעצמה שמתכוננת למלחמה עם ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d0525519e5b51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-money/2026_q4/Article-d0525519e5b51a1027.htm",
+   "checked_ms": 1792566148865,
+   "content_type": "article",
+   "first_seen_ms": 1792566148865,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792561800000,
+   "section": "",
+   "title": "מה שמחכה לנו מיד אחרי הבחירות - ויעלה לנו הרבה כסף"
   },
   "https://www.mako.co.il/special-mako-news/Article-d572f47b3c541a1027.htm": {
    "check_attempts": 1,
