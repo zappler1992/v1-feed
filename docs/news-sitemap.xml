@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-df46ae07a9d51a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T08:47:30+00:00</news:publication_date>
+<news:title>כחודש לאחר שנצפה בתאילנד: הדולפין הוורוד הנדיר תועד שוב, הפעם סמוך לחופי עומאן</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_dolphin_7593_21102026084507_1400_1792572443396_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-0406d77b76d51a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2419,23 +2428,5 @@
 <news:title>מסודרים פרק 64: הדוגמנית לוקחת מרחק</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/LOADED_EP64_1400_1792395374149_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w03/shorts-f68cab8417f31a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T08:52:00+00:00</news:publication_date>
-<news:title>אהבה מעבר לפינה פרק 33: לרגל אצל המתחרים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/15/LOVE_CORNER_EP33_M_1400_1792065932418_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4ba682ca05351a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T08:50:28+00:00</news:publication_date>
-<news:title>כש&quot;לוקי&quot; טיפס לאוורסט: טום הידלסטון מספר ל-mako על החוויה מאחורי הסרט החדש &quot;טנזינג&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/M_Tarbut_17668_19102026084702_1400_1792399820055_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

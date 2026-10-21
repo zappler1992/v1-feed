@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-dd57a0dcc1951a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-b187ffd624951a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-0406d77b76d51a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-df46ae07a9d51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1107,7 +1105,8 @@
    "importance": 1,
    "published_ms": 1792572180000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 16: מרחמת על המתחזה",
    "type": "series",
@@ -26840,7 +26839,8 @@
    "importance": 1,
    "published_ms": 1792572060000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 35: המותג או הטעם?",
    "type": "series",
@@ -37124,7 +37124,8 @@
    "importance": 2,
    "published_ms": 1792525857000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "הקמפיין הסודי של אוריך נחשף: הנזק שנגרם",
    "type": "news",
@@ -73838,7 +73839,9 @@
    "importance": 1,
    "published_ms": 1792568289000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות",
+    "חופש וטיולים"
    ],
    "title": "ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה",
    "type": "mivzakim",
@@ -76222,7 +76225,8 @@
    "importance": 1,
    "published_ms": 1792416740000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "פולישוק"
    ],
    "title": "פולישוק פרק 16: עכשיו השר על הכוונת",
    "type": "series",
@@ -99712,6 +99716,24 @@
    "updated_ms": 1792419788000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-de86a37da7451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_hargaash_7526_19102026022127/V1_karind_hargaash_7526_19102026022127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-df46ae07a9d51a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "כחודש לאחר שנצפה בתאילנד: הדולפין הוורוד הנדיר תועד שוב, הפעם סמוך לחופי עומאן",
+   "duration_s": 63,
+   "first_seen_ms": 1792572746151,
+   "image": "https://img.mako.co.il/2026/10/21/V1_dolphin_7593_21102026084507_1400_1792572443396_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792572450000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "כחודש לאחר שנצפה בתאילנד: הדולפין הוורוד הנדיר תועד שוב, הפעם סמוך לחופי עומאן",
+   "type": "mivzakim",
+   "updated_ms": 1792572450000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-df46ae07a9d51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_dolphin_7593_21102026084507/V1_dolphin_7593_21102026084507_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-dfb5f70eded41a1027.htm": {
    "author": "מבזקים מהעולם",
