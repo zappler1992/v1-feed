@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a90075e4bc51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c3162dd72cc51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-73a4075e4bc51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13389,6 +13390,24 @@
    "updated_ms": 1792441128000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-72e4ad057c551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17710_19102026081648/M_Celebs_17710_19102026081648_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-73a4075e4bc51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״איך גומלים ונגמלים מהנקה? אני מכורה״: בר זומר עם שאלות שאין לנו עליהן תשובות",
+   "duration_s": 14,
+   "first_seen_ms": 1792559545809,
+   "image": "https://img.mako.co.il/2026/10/21/M_Celebs_17796_21102026050449_1400_1792559151918_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792559158000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״איך גומלים ונגמלים מהנקה? אני מכורה״: בר זומר עם שאלות שאין לנו עליהן תשובות",
+   "type": "mivzakim",
+   "updated_ms": 1792559158000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-73a4075e4bc51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17796_21102026050449/M_Celebs_17796_21102026050449_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7582b8fe77951a1026.htm": {
    "author": "עדכוני בידור",
@@ -74397,6 +74416,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c255c55e26351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/NEWSBREAKFIX/NEWSBREAKFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c3162dd72cc51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בור עם עשרות פרטי אמל\"ח צה\"ליים נחשף על ידי שוטרים בתוך בית קברות בכפר זרזיר",
+   "duration_s": 39,
+   "first_seen_ms": 1792559545809,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17797_21102026050741_1400_1792559338750_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792559345000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בור עם עשרות פרטי אמל\"ח צה\"ליים נחשף על ידי שוטרים בתוך בית קברות בכפר זרזיר",
+   "type": "mivzakim",
+   "updated_ms": 1792559345000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c3162dd72cc51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17797_21102026050741/M_NEWS_17797_21102026050741_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c3f4289400251a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -74846,7 +74883,7 @@
    ],
    "title": "דיווח בפייננשל טיימס: ישראל תכננה מתקפה נרחבת באיראן החודש, אך טראמפ התנגד בשל בחירות האמצע בארה\"ב",
    "type": "mivzakim",
-   "updated_ms": 1792557905000,
+   "updated_ms": 1792559160000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e44c075e4bc51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_IRAN_211026_MIV/yoav_IRAN_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
