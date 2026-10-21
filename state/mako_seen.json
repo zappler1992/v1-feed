@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792574427057,
+ "last_run_ms": 1792574848973,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -321,7 +321,7 @@
    "indexnow_ms": null,
    "published_ms": 1792573652000,
    "section": "Fashion Forward",
-   "title": "שמלת הכלולות של דיר הדס מאיר הייתה מדהימה, אנחנו בקראש על השמלה השנייה"
+   "title": "שמלת הכלולות של שיר הדס מאיר הייתה מדהימה, אנחנו בקראש על השמלה השנייה"
   },
   "https://fashionforward.mako.co.il/more/weekend/321127/": {
    "check_attempts": 1,
@@ -20225,6 +20225,18 @@
    "section": "",
    "title": "ככה הופכים חצי קילו עוף טחון לארוחה ל-6"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-chicken/pullet/Recipe-be44450455c7a41006.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-be44450455c7a41006.htm",
+   "checked_ms": 1792574787090,
+   "content_type": "recipe",
+   "first_seen_ms": 1792574787090,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792574100000,
+   "section": "",
+   "title": "שעה ומוכן: תבשיל פרגיות עם קינואה ואטריות"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-dairy_recipes/Recipe-854c85a702531a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22108,6 +22120,18 @@
    "published_ms": 1790059680000,
    "section": "בריאות",
    "title": "חריג: חטף התקף לב בגיל 100 - וניצל"
+  },
+  "https://www.mako.co.il/health-news/Article-c4201e0f87d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792574787090,
+   "content_type": "article",
+   "first_seen_ms": 1792574787090,
+   "indexable": true,
+   "indexnow_ms": 1792574787090,
+   "published_ms": 1792574280000,
+   "section": "בריאות",
+   "title": "20 מקרים בעולם: הגיעה למיון אחרי דיקור"
   },
   "https://www.mako.co.il/health-news/Article-c48a92c6691e0a1026.htm": {
    "check_attempts": 1,
@@ -29439,7 +29463,7 @@
    "indexnow_ms": 1792573349126,
    "published_ms": 1792573200000,
    "section": "",
-   "title": "\"מיטל סער העבירה לאמא שלה 190 אלף שקל במזומן\""
+   "title": "הכל במזומן: הסכום שהעבירה מיטל סער לאמא שלה"
   },
   "https://www.mako.co.il/men-men_news/Article-84047dadc97f0a1027.htm": {
    "check_attempts": 1,

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-44ac6a520cd51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T09:22:42+00:00</news:publication_date>
+<news:title>רכב עלה באש בצומת כרמיאל מרכז, לכיוון ביג. אין נפגעים במקום</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_NEWS_17824_21102026091912_1400_1792574555110_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89b53a560bd51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2410,14 +2419,5 @@
 <news:title>עם בד רשת, נטולת חזייה: ביאנקה סנסורי שוב משאירה אפס מקום לדמיון</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/M_FF_17669_19102026090942_1400_1792402096683_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f188a33b87351a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T09:23:27+00:00</news:publication_date>
-<news:title>חשד לדליפת חומרים מסוכנים בקריית גת - במפעל אינטל שבו אירע האסון בשבוע שעבר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_INTEL_7514_19102026092204_1400_1792401801482_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

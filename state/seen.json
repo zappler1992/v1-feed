@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-69cdae07a9d51a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89b53a560bd51a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-58dd3a560bd51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-44ac6a520cd51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -73251,6 +73249,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-432b9718a2d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17808_21102026063454/M_NEWS_17808_21102026063454_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-44ac6a520cd51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב עלה באש בצומת כרמיאל מרכז, לכיוון ביג. אין נפגעים במקום",
+   "duration_s": 9,
+   "first_seen_ms": 1792574846160,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17824_21102026091912_1400_1792574555110_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792574562000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב עלה באש בצומת כרמיאל מרכז, לכיוון ביג. אין נפגעים במקום",
+   "type": "mivzakim",
+   "updated_ms": 1792574562000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-44ac6a520cd51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17824_21102026091912/M_NEWS_17824_21102026091912_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-462a11a377c51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87564,7 +87580,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-232aa69293d51a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "3 מילים שלא היה לכם מושג! שהן בכלל נולדו בחו\"ל ועשו עלייה לישראל",
+   "description": "3 מילים שלא היה לכם מושג! שהן בכלל נולדו בחו\"ל ועשו עלייה לישראל.",
    "duration_s": 78,
    "first_seen_ms": 1792567046055,
    "image": "https://img.mako.co.il/2026/10/21/lior_MILIM02_1400_1792565610163_FirstFrame.jpg",
