@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792583249724,
+ "last_run_ms": 1792583549805,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11634,6 +11634,18 @@
    "published_ms": 1792506960000,
    "section": "ספורט",
    "title": "החתימה מתקרבת: ברק יצחקי הגיע לקפריסין"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-a7be457134e51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792583549805,
+   "content_type": "article",
+   "first_seen_ms": 1792583549805,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792583160000,
+   "section": "ספורט",
+   "title": "אי אימון: השפעת קפריסין על המאמן הישראלי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-aa7c8a07d0101a1026.htm": {
    "check_attempts": 1,
@@ -37263,7 +37275,7 @@
    "indexnow_ms": 1792573949142,
    "published_ms": 1792573320000,
    "section": "צבא וביטחון",
-   "title": "בלי להטיל אף פצצה: מטוסים מתקדמים בדרך לאזור"
+   "title": "כולם בלחץ מהמצב במזרח התיכון: הצעד החריג של בריטניה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7625aea73c8c0a1027.htm": {
    "check_attempts": 1,
