@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-151ca8325fc51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-52617b8aafc51a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-ecb72dd72cc51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5536,6 +5537,24 @@
    "updated_ms": 1792506420000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-dcf5bb8309951a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/biata_yuval_201026fix/biata_yuval_201026fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-ecb72dd72cc51a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "כוכבת \"אופוריה\" האנטר שייפר חשפה בריאיון כי עברה ניתוח לשינוי מגדרי בדצמבר האחרון, ותיארה את ההליך כחוויה מדהימה. השחקנית סיפרה על הדרך שעברה עד שהגיעה להשלמה עם זהותה כאישה, ועל תקופת ההחלמה המורכבת, שבמהלכה הוגבלה ל-150 צעדים ביום. לצד זאת, שייפר הסבירה מדוע היא מעדיפה שלא להיות מזוהה רק כטרנסג'נדרית, למרות תחושת האחריות שהיא חשה כלפי הקהילה: \"אני לא רוצה להיות מצומצמת רק להגדרה הזו\".",
+   "duration_s": 15,
+   "first_seen_ms": 1792561946816,
+   "image": "https://img.mako.co.il/2026/10/21/Kim_Euphoria_21102026_1400_1792559459449_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792559466000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "כוכבת אופוריה חושפת: עברתי ניתוח לשינוי מגדרי",
+   "type": "general",
+   "updated_ms": 1792559466000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-ecb72dd72cc51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/Kim_Euphoria_21102026/MASTER/Kim_Euphoria_21102026/Kim_Euphoria_21102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-f3046af890a51a1027.htm": {
    "author": "סלבס",
@@ -73025,6 +73044,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-51f23f2c13351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17667_19102026081522/M_NEWS_17667_19102026081522_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-52617b8aafc51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה: פעיל הג'יהאד האיסלאמי, שעבד כנהג מונית בשטחים, נעצר בחשד להעברת כספי טרור | צפו ברגע המעצר",
+   "duration_s": 43,
+   "first_seen_ms": 1792561946816,
+   "image": "https://img.mako.co.il/2026/10/21/yoav_police_211026_MIV_1400_1792561694325_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792561700000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה: פעיל הג'יהאד האיסלאמי, שעבד כנהג מונית בשטחים, נעצר בחשד להעברת כספי טרור | צפו ברגע המעצר",
+   "type": "mivzakim",
+   "updated_ms": 1792561700000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-52617b8aafc51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_police_211026_MIV/yoav_police_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5308263330f41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -73161,7 +73198,8 @@
    "importance": 1,
    "published_ms": 1792525879000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות אמריקה"
    ],
    "title": "\"מה הבעיה שלך? אתה בן אדם חולה?\": טראמפ מתעצבן על כתב בבית הלבן | צפו",
    "type": "mivzakim",
@@ -74932,7 +74970,8 @@
    "importance": 2,
    "published_ms": 1792557905000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "דיווח בפייננשל טיימס: ישראל תכננה מתקפה נרחבת באיראן החודש, אך טראמפ התנגד בשל בחירות האמצע בארה\"ב",
    "type": "mivzakim",
