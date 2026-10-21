@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f9aff48c64d51a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1b5aa0ea31d51a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-22a2fccb96d51a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-65f7427db5d51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5317,6 +5317,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-1d4b82ca05351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Biata_Selena_191026/MASTER/Biata_Selena_191026/Biata_Selena_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-22a2fccb96d51a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "כסף על הרצפה: עמוס לוזון פיזר שטרות על הבמה בברית של נכדו",
+   "duration_s": 20,
+   "first_seen_ms": 1792570346367,
+   "image": "https://img.mako.co.il/2026/10/21/NOAB_AMOS_211026_M_1400_1792569133124_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792569139000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "עמוס לוזון מפזר שטרות על הרצפה",
+   "type": "general",
+   "updated_ms": 1792569139000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-22a2fccb96d51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/NOAB_AMOS_211026_M/MASTER/NOAB_AMOS_211026_M/NOAB_AMOS_211026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-306df1476f451a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -5406,6 +5424,24 @@
    "updated_ms": 1792328280000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-6549263330f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIR_GLENN_181026_FIX/SHIR_GLENN_181026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-65f7427db5d51a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "שבוע אחרי הלידה: מעיין אדם חושפת סרטון חדש ללא פילטרים",
+   "duration_s": 17,
+   "first_seen_ms": 1792570346367,
+   "image": "https://img.mako.co.il/2026/10/21/NOAB_MAAYAN_211026_M_1400_1792568563626_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792568570000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "שבוע אחרי הלידה: מעיין אדם בסרטון חדש",
+   "type": "general",
+   "updated_ms": 1792568570000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-65f7427db5d51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/NOAB_MAAYAN_211026_M/MASTER/NOAB_MAAYAN_211026_M/NOAB_MAAYAN_211026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a350f9fc08251a1027.htm": {
    "author": "סלבס",
@@ -73741,9 +73777,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה",
-   "duration_s": 9,
+   "duration_s": 39,
    "first_seen_ms": 1792568546237,
-   "image": "https://img.mako.co.il/2026/10/21/V1_MAROCO_7592_21102026073649_1400_1792568282594_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/21/yoav_DEAN_211026_MIV_1400_1792570051563_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792568289000,
    "sections": [
@@ -73751,9 +73787,9 @@
    ],
    "title": "ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה",
    "type": "mivzakim",
-   "updated_ms": 1792568289000,
+   "updated_ms": 1792570140000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7d33b3a6f5d51a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_MAROCO_7592_21102026073649/V1_MAROCO_7592_21102026073649_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_DEAN_211026_MIV/yoav_DEAN_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm": {
    "author": "מבזקים",
