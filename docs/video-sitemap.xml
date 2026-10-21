@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8f270907cdd51a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/21/alice_211026_saar_1400_1792576394754_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>הסכום שמיטל סער העבירה לאמא שלה במזומן</video:title>
+<video:description>הסכום שמיטל סער העבירה לאמא שלה במזומן</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/alice_211026_saar/MASTER/alice_211026_saar/alice_211026_saar_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>22</video:duration>
+<video:publication_date>2026-10-21T11:11:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f7c9545922e51a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/21/M_Tarbut_17833_21102026110414_1400_1792580755216_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>השחקנית הישראלית שירז צרפתי בפרמיירת &quot;רשימת חיסול 2&quot; של אמזון, שבה היא מגלמת סוכנת מוסד</video:title>
+<video:description>השחקנית הישראלית שירז צרפתי בפרמיירת &quot;רשימת חיסול 2&quot; של אמזון, שבה היא מגלמת סוכנת מוסד</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17833_21102026110414/M_Tarbut_17833_21102026110414_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>14</video:duration>
+<video:publication_date>2026-10-21T11:06:01+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8cb0d3a361e51a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/21/yoav_mai_211026_MIV_1400_1792580281430_FirstFrame.jpg</video:thumbnail_loc>
@@ -257,6 +289,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>טכנולוגיה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -424,6 +457,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי Vיראלים</video:tag>
 </video:video>
 </url>
 <url>
