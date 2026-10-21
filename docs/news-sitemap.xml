@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d797e1422af51a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T18:23:13+00:00</news:publication_date>
+<news:title>מי מתחזק ומי מתרסק: סקר מנדטים חדש ודרמטי</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_NOAY_MANDAT2_211026_1_7601_21102026062036_1400_1792606986686_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4d3be1422af51a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -8,6 +17,15 @@
 <news:title>גבר נפצע באורח בינוני ברחוב ירושלים בעפולה, הוא פונה לבית החולים עם פציעות חודרות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/21/M_NEWS_17857_21102026060555_1400_1792606064279_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-e1ab158ed9f51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T18:03:02+00:00</news:publication_date>
+<news:title>מותר להצביע בבחירות רק מגיל 18? לא בדיוק</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/dor_18_211026_1400_1792605776093_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a3f62a1067f51a1027.htm</loc>
@@ -2440,32 +2458,5 @@
 <news:title>ארצות הברית מזהירה את אזרחיה בצרפת: התרחקו ממוקדי המחאות האלימות</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_alert_7541_19102026063712_1400_1792435135599_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-01551ea0f5551a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T18:26:54+00:00</news:publication_date>
-<news:title>נגרייה נשרפה בקיבוץ בארי, חמישה צוותי כיבוי בדרכם למקום. לא ידוע על נפגעים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_beeri_7540_19102026062539_1400_1792434407917_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b71210b775551a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T18:26:04+00:00</news:publication_date>
-<news:title>כוחות הביטחון באלבניה נערכים ללילה נוסף של מחאות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/M_NEWS_17697_19102026062437_1400_1792434357229_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c4131ea0f5551a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T18:25:58+00:00</news:publication_date>
-<news:title>תגובה מרגשת: עדי עצמי ואור אוחנה הפתיעו את הבנות שלהם עם כלב חדש</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/M_Celebs_17696_19102026062352_1400_1792434351984_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
