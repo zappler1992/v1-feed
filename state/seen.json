@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4ce85ad340f51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4db80b371f51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-073c80b371f51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5433,7 +5434,7 @@
    "author": "סלבס",
    "date_source": "json-publishDate",
    "description": "",
-   "duration_s": 30,
+   "duration_s": 51,
    "first_seen_ms": 1792596146929,
    "image": "https://img.mako.co.il/2026/10/21/NOAY_MARGOL_211026_1400_1792595558313_FirstFrame.jpg",
    "importance": 1,
@@ -5443,7 +5444,7 @@
    "type": "general",
    "updated_ms": 1792595564000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-4ce85ad340f51a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/NOAY_MARGOL_211026/MASTER/NOAY_MARGOL_211026/NOAY_MARGOL_211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/FIXXXXXXXXXNOAY_MARGOL_211026_1/FIXXXXXXXXXNOAY_MARGOL_211026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-54060a9ea6e41a1027.htm": {
    "author": "סלבס",
@@ -12689,6 +12690,24 @@
    "updated_ms": 1792520363000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-05cd5d0568a51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17782_20102026061751/M_Celebs_17782_20102026061751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-073c80b371f51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סתיו נפתלי שאלה את העוקבים שלה מי הולך לנצח הערב בגמר \"המטבח המנצח VIP\", וקיבלה תשובה מפתיעה",
+   "duration_s": 35,
+   "first_seen_ms": 1792597346672,
+   "image": "https://img.mako.co.il/2026/10/21/M_Tarbut_17850_21102026033713_1400_1792597145669_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792597152000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סתיו נפתלי שאלה את העוקבים שלה מי הולך לנצח הערב בגמר \"המטבח המנצח VIP\", וקיבלה תשובה מפתיעה",
+   "type": "mivzakim",
+   "updated_ms": 1792597152000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-073c80b371f51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17850_21102026033713/M_Tarbut_17850_21102026033713_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-09b60c776a051a1027.htm": {
    "author": "עדכוני בידור",
@@ -75928,6 +75947,24 @@
    "updated_ms": 1792576933000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_PILOT_211026_MIV/yoav_PILOT_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4db80b371f51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עובר ללא רוח חיים הונח נחוץ לבית חולים בירושלים, חשוד נעצר",
+   "duration_s": 9,
+   "first_seen_ms": 1792597346672,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17849_21102026033634_1400_1792597077952_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792597084000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עובר ללא רוח חיים הונח נחוץ לבית חולים בירושלים, חשוד נעצר",
+   "type": "mivzakim",
+   "updated_ms": 1792597084000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4db80b371f51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17849_21102026033634/M_NEWS_17849_21102026033634_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm": {
    "author": "מבזקים",
