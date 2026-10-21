@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-aaa380b371f51a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6257ac23f2f51a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d1ac061a14f51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14417,6 +14418,24 @@
    "updated_ms": 1792524280000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cbb64f192ba51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17784_20102026072249/M_Celebs_17784_20102026072249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d1ac061a14f51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הבאנו את הפוליטיקאים לענות על מצפן הבחירות של mako - והפעם: חברת הכנסת מירב בן ארי",
+   "duration_s": 70,
+   "first_seen_ms": 1792600346962,
+   "image": "https://img.mako.co.il/2026/10/21/M_Tarbut_17853_21102026042447_1400_1792599999804_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792600006000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הבאנו את הפוליטיקאים לענות על מצפן הבחירות של mako - והפעם: חברת הכנסת מירב בן ארי",
+   "type": "mivzakim",
+   "updated_ms": 1792600006000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d1ac061a14f51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17853_21102026042447/M_Tarbut_17853_21102026042447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d78df9fc08251a1027.htm": {
    "author": "עדכוני בידור",
@@ -37457,6 +37476,24 @@
    "updated_ms": 1792480306000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-5bab09c632851a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIRA_FAKE_201026/MASTER/SHIRA_FAKE_201026_M/SHIRA_FAKE_201026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6257ac23f2f51a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 33,
+   "first_seen_ms": 1792600346962,
+   "image": "https://img.mako.co.il/2026/10/21/SHIRA_HAFRIA_211026_M_1400_1792599431971_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792599438000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מחדל ההפריה: האבא גילה את האמת - אחרי 13 שנה",
+   "type": "news",
+   "updated_ms": 1792599438000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6257ac23f2f51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/SHIRA_HAFRIA_211026/MASTER/SHIRA_HAFRIA_211026_M/SHIRA_HAFRIA_211026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6574c19068e51a1027.htm": {
    "author": "חדשות",
