@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b37a075e4bc51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e44c075e4bc51a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-890c075e4bc51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13533,6 +13534,24 @@
    "updated_ms": 1792495921000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-88ae819d01951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17752_20102026112954/M_Tarbut_17752_20102026112954_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-890c075e4bc51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הרגע המרגש ברוקדים עם כוכבים בארה״ב: כוכבי הסרט \"10 דברים שאני הכי שונאת אצלך\" עולים על הבמה המחווה",
+   "duration_s": 38,
+   "first_seen_ms": 1792558045771,
+   "image": "https://img.mako.co.il/2026/10/21/M_Tarbut_17795_21102026044035_1400_1792557711544_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792557718000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הרגע המרגש ברוקדים עם כוכבים בארה״ב: כוכבי הסרט \"10 דברים שאני הכי שונאת אצלך\" עולים על הבמה המחווה",
+   "type": "mivzakim",
+   "updated_ms": 1792557718000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-890c075e4bc51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17795_21102026044035/M_Tarbut_17795_21102026044035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-89be50aaa8051a1027.htm": {
    "author": "עדכוני בידור",
@@ -74795,6 +74814,24 @@
    "updated_ms": 1792383168000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e3b20c75d3251a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_tahazit_7494_19102026041101/V1_tahazit_7494_19102026041101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e44c075e4bc51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח בפייננשל טיימס: ישראל תכננה מתקפה נרחבת באיראן החודש, אך טראמפ התנגד בשל בחירות האמצע בארה\"ב",
+   "duration_s": 12,
+   "first_seen_ms": 1792558045771,
+   "image": "https://img.mako.co.il/2026/10/21/yoav_IRAN_211026_MIV_1400_1792557898527_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792557905000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח בפייננשל טיימס: ישראל תכננה מתקפה נרחבת באיראן החודש, אך טראמפ התנגד בשל בחירות האמצע בארה\"ב",
+   "type": "mivzakim",
+   "updated_ms": 1792557905000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e44c075e4bc51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_IRAN_211026_MIV/yoav_IRAN_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e83895661b551a1027.htm": {
    "author": "מבזקים",
