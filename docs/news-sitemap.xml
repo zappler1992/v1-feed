@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8626061a14f51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T16:38:59+00:00</news:publication_date>
+<news:title>טעות מביכה: הפרומו למדגם של ערוץ 14 הציג 129 מנדטים - במקום 120</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/NOAY_FOURTEEN_21026_1400_1792600732650_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d1ac061a14f51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2458,14 +2467,5 @@
 <news:title>רמז ליעל שלביה? עומר אדם משחרר הצצה לשיר חדש</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_omeradam_7533_19102026044150_1400_1792428195210_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2c841856ef451a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T16:43:57+00:00</news:publication_date>
-<news:title>צה&quot;ל: התרעה הופעלה באביתר שבשומרון מחשש לחדירת מחבלים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_evitar_7534_19102026044218_1400_1792428230481_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
