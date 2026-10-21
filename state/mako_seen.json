@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792560149143,
+ "last_run_ms": 1792560449717,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22157,6 +22157,18 @@
    "section": "בריאות",
    "title": "\"פעם שאלו על דיאטה, היום שואלים איזו זריקה\""
   },
+  "https://www.mako.co.il/health-wellness/diet/Article-5dc95c2d2ee1d91027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792560449717,
+   "content_type": "article",
+   "first_seen_ms": 1792560449717,
+   "indexable": true,
+   "indexnow_ms": 1792560449717,
+   "published_ms": 1792559280000,
+   "section": "בריאות",
+   "title": "דיאטניות: אלה המזונות שכדאי להעיף מהבית"
+  },
   "https://www.mako.co.il/health-wellness/diet/Article-7d2b846b578af91027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28479,7 +28491,7 @@
    "indexnow_ms": 1792555826969,
    "published_ms": 1792555440000,
    "section": "",
-   "title": "רועה צאן טייל עם הכבשים - ומצא משהו מזעזע"
+   "title": "\"אני רועה פה את הכבשים שלי ומצאתי גולגולת\""
   },
   "https://www.mako.co.il/men-men_news/Article-62ffcf6fb9e41a1027.htm": {
    "check_attempts": 1,
@@ -36496,6 +36508,18 @@
    "published_ms": 1791363480000,
    "section": "צבא וביטחון",
    "title": "הפגיעה מאיראן: דוח חשף מה ארה\"ב ניסתה להסתיר"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-7951d66dedc51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792560449717,
+   "content_type": "article",
+   "first_seen_ms": 1792560449717,
+   "indexable": true,
+   "indexnow_ms": 1792560449717,
+   "published_ms": 1792559760000,
+   "section": "צבא וביטחון",
+   "title": "החליפו כוח במוצב צה\"ל ונדהמו ממה שגילו בשטח"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7ed558bf34f21a1027.htm": {
    "check_attempts": 1,
