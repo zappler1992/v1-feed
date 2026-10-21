@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1deb087e0df51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-debbd23250061a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-103ad23250061a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -73316,6 +73317,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0e9ac1235c951a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17771_20102026024636/M_NEWS_17771_20102026024636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-103ad23250061a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בפריז ניקו היום את פסל החירות בכיכר הרפובליקה שהושחת על ידי המפגינים",
+   "duration_s": 36,
+   "first_seen_ms": 1792612946063,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17864_21102026075227_1400_1792612559333_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792612565000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בפריז ניקו היום את פסל החירות בכיכר הרפובליקה שהושחת על ידי המפגינים",
+   "type": "mivzakim",
+   "updated_ms": 1792612565000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-103ad23250061a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17864_21102026075227/M_NEWS_17864_21102026075227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-11fdc5c8a3f41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76585,6 +76604,24 @@
    "updated_ms": 1792407428000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17675_19102026105543/M_NEWS_17675_19102026105543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-debbd23250061a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מאיראן: עמוד עשן מעל סיריק אחרי הפיצוצים המסתוריים",
+   "duration_s": 9,
+   "first_seen_ms": 1792612946063,
+   "image": "https://img.mako.co.il/2026/10/21/V1_SIRIK_7605_21102026075545_1400_1792612736261_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792612742000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מאיראן: עמוד עשן מעל סיריק אחרי הפיצוצים המסתוריים",
+   "type": "mivzakim",
+   "updated_ms": 1792612742000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-debbd23250061a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_SIRIK_7605_21102026075545/V1_SIRIK_7605_21102026075545_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-df7f084af8951a1027.htm": {
    "author": "מבזקים",
