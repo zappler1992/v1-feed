@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792602749455,
+ "last_run_ms": 1792603048735,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4796,6 +4796,18 @@
    "published_ms": 1792090440000,
    "section": "ספורט",
    "title": "\"סוף סוף קלארק נראה כמו קלארק\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c809f88d27f51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792602987550,
+   "content_type": "article",
+   "first_seen_ms": 1792602987550,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792602780000,
+   "section": "ספורט",
+   "title": "\"לא באנו להתחרות\": איטודיס זעם במחצית"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-cb290d05dfdf0a1027.htm": {
    "check_attempts": 1,
@@ -11070,6 +11082,18 @@
    "published_ms": 1791918480000,
    "section": "ספורט",
    "title": "צפו. \"יונייטד פשוט התפרקה תוך 51 שניות\""
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-f919f88d27f51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792602987550,
+   "content_type": "article",
+   "first_seen_ms": 1792602987550,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792602840000,
+   "section": "ספורט",
+   "title": "\"היורש של מסי\": צפו בגולאסו של ניקו פאס"
   },
   "https://www.mako.co.il/Sports-football-world/europe-league-q3_2026/Article-faf18050d12f0a1026.htm": {
    "check_attempts": 1,
