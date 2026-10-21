@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c829742b1ed51a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3549742b1ed51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84a6c70efdd51a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37437,10 +37437,10 @@
    "duration_s": 25,
    "first_seen_ms": 1792576946184,
    "image": "https://img.mako.co.il/2026/10/21/rinat_fight_211026_m_1400_1792576486178_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792576492000,
    "sections": [],
-   "title": "",
+   "title": "כוכב ריאליטי חשוד שתקף את בת זוגו, גם היא נעצרה",
    "type": "news",
    "updated_ms": 1792576492000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c829742b1ed51a1026.htm",
@@ -74100,6 +74100,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84212a773d351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_meital_7519_19102026110946/V1_meital_7519_19102026110946_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84a6c70efdd51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלפי אזרחים מפגינים בלב אתונה במחאה על מצב מערכת החינוך במדינה",
+   "duration_s": 44,
+   "first_seen_ms": 1792577246210,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17827_21102026100301_1400_1792577088644_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792577095000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלפי אזרחים מפגינים בלב אתונה במחאה על מצב מערכת החינוך במדינה",
+   "type": "mivzakim",
+   "updated_ms": 1792577095000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84a6c70efdd51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17827_21102026100301/M_NEWS_17827_21102026100301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85cc8ebc24351a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -75271,6 +75289,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d3b39fc9a8e41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_AFIFIOR_7476_18102026103630/V1_KARIND_AFIFIOR_7476_18102026103630_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "משרד התחבורה אסר על טייס יונייטד איירליינס ממוצא איראני להיכנס לישראל, כי הביע ברשתות תמיכה במשטר",
+   "duration_s": 9,
+   "first_seen_ms": 1792577246210,
+   "image": "https://img.mako.co.il/2026/10/21/yoav_PILOT_211026_MIV_1400_1792576926942_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792576933000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "משרד התחבורה אסר על טייס יונייטד איירליינס ממוצא איראני להיכנס לישראל, כי הביע ברשתות תמיכה במשטר",
+   "type": "mivzakim",
+   "updated_ms": 1792576933000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_PILOT_211026_MIV/yoav_PILOT_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-da9aa01ce4f41a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -75663,7 +75699,8 @@
    "importance": 0,
    "published_ms": 1792571645000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "רעידת אדמה הורגשה בערבה",
    "type": "mivzakim",
