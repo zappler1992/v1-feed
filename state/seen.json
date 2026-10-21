@@ -1,9 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7d33b3a6f5d51a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ee8f427db5d51a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a9ceb3a6f5d51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-481bd77b76d51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23b6b3a6f5d51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8455b3a6f5d51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12762,6 +12762,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-22cb441c0c551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17707_19102026080106/M_Tarbut_17707_19102026080106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23b6b3a6f5d51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סנופ דוג חוגג יומולדת 55 עם הכלב שלו",
+   "duration_s": 55,
+   "first_seen_ms": 1792568846155,
+   "image": "https://img.mako.co.il/2026/10/21/M_Celebs_17815_21102026073839_1400_1792568415404_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792568421000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סנופ דוג חוגג יומולדת 55 עם הכלב שלו",
+   "type": "mivzakim",
+   "updated_ms": 1792568421000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23b6b3a6f5d51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17815_21102026073839/M_Celebs_17815_21102026073839_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23d7021c73e41a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -13571,6 +13589,24 @@
    "updated_ms": 1792339990000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-81853c75fbf41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17626_18102026041140/M_Tarbut_17626_18102026041140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8455b3a6f5d51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי השמועות על התרחקות, הסטייליסטית דני לוי משתפת מחגיגות יום ההולדת של קים קרדשיאן",
+   "duration_s": 10,
+   "first_seen_ms": 1792568846155,
+   "image": "https://img.mako.co.il/2026/10/21/M_Celebs_17814_21102026073824_1400_1792568365071_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792568371000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי השמועות על התרחקות, הסטייליסטית דני לוי משתפת מחגיגות יום ההולדת של קים קרדשיאן",
+   "type": "mivzakim",
+   "updated_ms": 1792568371000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8455b3a6f5d51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17814_21102026073824/M_Celebs_17814_21102026073824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm": {
    "author": "עדכוני בידור",
@@ -73069,6 +73105,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-46751877c9751a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17729_20102026051826/M_NEWS_17729_20102026051826_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-481bd77b76d51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ברחובות פריז ממשיכים לשקם את ההריסות",
+   "duration_s": 58,
+   "first_seen_ms": 1792568846155,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17816_21102026074052_1400_1792568544198_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792568550000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ברחובות פריז ממשיכים לשקם את ההריסות",
+   "type": "mivzakim",
+   "updated_ms": 1792568550000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-481bd77b76d51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17816_21102026074052/M_NEWS_17816_21102026074052_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-488e291575a51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -73651,16 +73705,16 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7d33b3a6f5d51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "בשל אילוצי אבטחה: כל הטיסות של חברות התעופה הישראליות למרוקו יוקפאו מנובמבר ועד להודעה חדשה",
+   "description": "ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה",
    "duration_s": 9,
    "first_seen_ms": 1792568546237,
    "image": "https://img.mako.co.il/2026/10/21/V1_MAROCO_7592_21102026073649_1400_1792568282594_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792568289000,
    "sections": [
     "מבזקים"
    ],
-   "title": "בשל אילוצי אבטחה: כל הטיסות של חברות התעופה הישראליות למרוקו יוקפאו מנובמבר ועד להודעה חדשה",
+   "title": "ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה",
    "type": "mivzakim",
    "updated_ms": 1792568289000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7d33b3a6f5d51a1026.htm",

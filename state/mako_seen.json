@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792568549316,
+ "last_run_ms": 1792568849130,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23765,6 +23765,18 @@
    "section": "HIX",
    "title": "28 ילדים נהרגו באסון הקטלני, ועשרות נפצעו"
   },
+  "https://www.mako.co.il/hix-special/Article-571ad77b76d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792568849130,
+   "content_type": "article",
+   "first_seen_ms": 1792568849130,
+   "indexable": true,
+   "indexnow_ms": 1792568849130,
+   "published_ms": 1792568580000,
+   "section": "HIX",
+   "title": "מכחישה הכל: הצוערת מואשמת בעבירות מין בנער"
+  },
   "https://www.mako.co.il/hix-special/Article-598da78416ec0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -41966,6 +41978,18 @@
    "published_ms": 1790069520000,
    "section": "חופש",
    "title": "אחרי שקיבלה איומים מארדואן: הבשורה המשמחת לתומכת ישראל"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-1433b3a6f5d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792568666959,
+   "content_type": "article",
+   "first_seen_ms": 1792568666959,
+   "indexable": true,
+   "indexnow_ms": 1792568666959,
+   "published_ms": 1792567800000,
+   "section": "",
+   "title": "מסתמן: הטיסות למדינה הערבית יבוטלו לחלוטין"
   },
   "https://www.mako.co.il/travel-news/israel/Article-1607b7c240b01a1027.htm": {
    "check_attempts": 1,
