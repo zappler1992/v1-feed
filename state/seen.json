@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-085b087e0df51a1026.htm"
+  "https://www.v-1.co.il/sport-magazine/2026-m10_w04/shorts-d4ef2fd52ef51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3812fd52ef51a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c902fd52ef51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5459,7 +5461,8 @@
    "published_ms": 1792595564000,
    "sections": [
     "חדשות",
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "תביעת הענק נגד מרגול: \"השפלות ואלימות\"",
    "type": "general",
@@ -13396,6 +13399,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c38d98685251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17647_19102026040740/M_Tarbut_17647_19102026040740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c902fd52ef51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה כנראה מה שנזכור ממערכת הבחירות הזאת",
+   "duration_s": 7,
+   "first_seen_ms": 1792611145880,
+   "image": "https://img.mako.co.il/2026/10/21/M_Celebs_17858_21102026072038_1400_1792610536941_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792610543000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה כנראה מה שנזכור ממערכת הבחירות הזאת",
+   "type": "mivzakim",
+   "updated_ms": 1792610543000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c902fd52ef51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17858_21102026072038/M_Celebs_17858_21102026072038_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-558ead057c551a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -14853,6 +14874,24 @@
    "updated_ms": 1792585452000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f1cbcdd856e51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17836_21102026122136/M_Tarbut_17836_21102026122136_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3812fd52ef51a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הכי קרוב לכוכבה: הבן של יובל שרף רואה קופה ראשית עם קרן מור",
+   "duration_s": 26,
+   "first_seen_ms": 1792611145880,
+   "image": "https://img.mako.co.il/2026/10/21/M_Celebs_17859_21102026072402_1400_1792610717614_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792610724000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הכי קרוב לכוכבה: הבן של יובל שרף רואה קופה ראשית עם קרן מור",
+   "type": "mivzakim",
+   "updated_ms": 1792610724000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3812fd52ef51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17859_21102026072402/M_Celebs_17859_21102026072402_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f62580688a951a1026.htm": {
    "author": "עדכוני בידור",
@@ -21074,7 +21113,8 @@
    "importance": 2,
    "published_ms": 1792594700000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"היטלר צדק\": מפגין אנטישמי נעמד ליד בית ספר יהודי ומצדיע במועל יד",
    "type": "general",
@@ -37818,7 +37858,9 @@
    "image": "https://img.mako.co.il/2026/10/21/NOAY_FOURTEEN_21026_1400_1792600732650_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792600739000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "טעות מביכה: הפרומו למדגם של ערוץ 14 הציג 129 מנדטים - במקום 120",
    "type": "news",
    "updated_ms": 1792600739000,
@@ -37966,7 +38008,8 @@
    "importance": 2,
    "published_ms": 1792598081000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "חשש לסלמונלה בטחינה",
    "type": "news",
@@ -90270,6 +90313,22 @@
    "updated_ms": 1791974562000,
    "url": "https://www.v-1.co.il/sport-magazine/2026-m10_w03/shorts-92dcbee19f931a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Kim_Yaakov_14102026/MASTER/Kim_Yaakov_14102026/Kim_Yaakov_14102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/sport-magazine/2026-m10_w04/shorts-d4ef2fd52ef51a1026.htm": {
+   "author": "ספורט",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 19,
+   "first_seen_ms": 1792611145880,
+   "image": "https://img.mako.co.il/2026/10/21/TALI_FOOTBALL_211026_1400_1792610481147_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792610487000,
+   "sections": [],
+   "title": "תעלומה בארה\"ב: ספורטאי העל נמצא מת בביתו בגיל 37",
+   "type": "general",
+   "updated_ms": 1792610487000,
+   "url": "https://www.v-1.co.il/sport-magazine/2026-m10_w04/shorts-d4ef2fd52ef51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/TALI_FOOTBALL_211026/MASTER/TALI_FOOTBALL_211026/TALI_FOOTBALL_211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/tech-magazine/2026-m04_w01/shorts-27d8d7a024e4d91026.htm": {
    "author": "טכנולוגיה",
