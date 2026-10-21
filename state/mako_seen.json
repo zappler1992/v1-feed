@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792577848966,
+ "last_run_ms": 1792578148963,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32009,6 +32009,18 @@
    "section": "מוזיקה",
    "title": "מתמודד \"אמריקן איידול\" הורשע ברצח אשתו"
   },
+  "https://www.mako.co.il/music-news/Article-560291a2ded51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792578027191,
+   "content_type": "article",
+   "first_seen_ms": 1792578027191,
+   "indexable": true,
+   "indexnow_ms": 1792578027191,
+   "published_ms": 1792577700000,
+   "section": "מוזיקה",
+   "title": "העסקה שתכניס לנס וסטילה כחצי מיליון שקל"
+  },
   "https://www.mako.co.il/music-news/Article-56aceb7f62f21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39338,6 +39350,18 @@
    "published_ms": 1792215480000,
    "section": "",
    "title": "הלם בארה\"ב: המורה נאבקה, אביה של תלמידה נטרל את היורה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bdcfdbdc38d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-bdcfdbdc38d51a1026.htm",
+   "checked_ms": 1792578148963,
+   "content_type": "article",
+   "first_seen_ms": 1792578148963,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792573920000,
+   "section": "",
+   "title": "תמך באיראן: נאסרה כניסה לישראל של טייס בחברת ענק"
   },
   "https://www.mako.co.il/special-mako-news/Article-bf2378e5bd621a1026.htm": {
    "check_attempts": 1,

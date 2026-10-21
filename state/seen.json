@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1b940d7fd51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37188,7 +37188,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-70f7c0dc9ca51a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "קמפיין סודי שנועד להאדיר את קטאר ולנגח את מצרים, הצית משבר מול אחת השכנות החשובות של ישראל. כך נחשף המהלך שכמעט החריב את היחסים עם קהיר",
+   "description": "קמפיין סודי שנועד להאדיר את קטאר ולנגח את מצרים, הצית משבר מול אחת השכנות החשובות של ישראל. כך נחשף המהלך שכמעט החריב את היחסים עם קהיר.",
    "duration_s": 64,
    "first_seen_ms": 1792550547356,
    "image": "https://img.mako.co.il/2026/10/21/FIX_AMITS_1400_1792565770652_FirstFrame.jpg",
@@ -73935,6 +73935,24 @@
    "updated_ms": 1792577502000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17829_21102026101010/M_NEWS_17829_21102026101010_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1b940d7fd51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"שכחתי את הילד שלי ברכב\": השיחה הדרמטית למשטרה שהסתיימה בחילוץ",
+   "duration_s": 32,
+   "first_seen_ms": 1792578146196,
+   "image": "https://img.mako.co.il/2026/10/21/V1_CAR_7594_21102026101702_1400_1792577923889_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792577930000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"שכחתי את הילד שלי ברכב\": השיחה הדרמטית למשטרה שהסתיימה בחילוץ",
+   "type": "mivzakim",
+   "updated_ms": 1792577930000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1b940d7fd51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_CAR_7594_21102026101702/V1_CAR_7594_21102026101702_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1f09c632851a1027.htm": {
    "author": "מבזקים",

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1b940d7fd51a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T10:18:50+00:00</news:publication_date>
+<news:title>&quot;שכחתי את הילד שלי ברכב&quot;: השיחה הדרמטית למשטרה שהסתיימה בחילוץ</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_CAR_7594_21102026101702_1400_1792577923889_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2419,14 +2428,5 @@
 <news:title>אחרי הפרסום על כפילה בצילומי &quot;הדרך של נועה&quot;: קירל מגיבה בדרכה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/M_Tarbut_17674_19102026103331_1400_1792406073576_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dcc309b32a351a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T10:22:15+00:00</news:publication_date>
-<news:title>&quot;תורידו את הראש&quot;: אבנים הושלכו על רכבה של פלר חסן-נחום, מספר 5 במפלגת &quot;עמך ישראל&quot; בסיור בבנימין.</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_5_7517_19102026102043_1400_1792405327410_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
