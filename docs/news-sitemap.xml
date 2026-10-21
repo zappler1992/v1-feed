@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3dff5b7d8ae51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T13:40:05+00:00</news:publication_date>
+<news:title>תיעוד אלים מהפגנת הפתע של החרדים בכביש 4 סמוך לכפר סבא</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_NOAY_HAREDIM_211026_7597_21102026013822_1400_1792589998717_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a073f0e869e51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2440,23 +2449,5 @@
 <news:title>אצבעות חסרות ומיליוני צפיות: הפייק מצרפת שהפיל את כולם ברשת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/inbie_AI_191026_1400_1792418259096_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0a3dfe8116451a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T13:41:22+00:00</news:publication_date>
-<news:title>לפיד מברך את גנץ לאחר פרישתו: &quot;המעשה האחראי והנכון&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_KARIND_LAPID_7525_19102026013942_1400_1792417276361_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-21aafe8116451a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T13:39:58+00:00</news:publication_date>
-<news:title>מרוצי מכוניות בלתי חוקיים בחניון סמוך לפתח תקווה: תושב כפר כנא נעצר בחשד למעורבות באירוע</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_karind_police_7524_19102026013834_1400_1792417191863_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
