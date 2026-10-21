@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792591349772,
+ "last_run_ms": 1792591650005,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2204,6 +2204,18 @@
    "published_ms": 1791223320000,
    "section": "ספורט",
    "title": "מבט פנימה: כך אבדיה יהפוך ל\"טוב בעולם\"?"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-49e31d2dcbe51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792591586950,
+   "content_type": "article",
+   "first_seen_ms": 1792591586950,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792591440000,
+   "section": "ספורט",
+   "title": "פורטלנד תזהר? השיקולים בנוגע לאבדיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-4ad457b211151a1026.htm": {
    "check_attempts": 1,
@@ -33125,6 +33137,18 @@
    "section": "",
    "title": "המוזיקאי ארז הלוי הלך לעולמו בגיל 71"
   },
+  "https://www.mako.co.il/music-news/radio_airplay_chart/Article-310111eb45e51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792591650005,
+   "content_type": "article",
+   "first_seen_ms": 1792591650005,
+   "indexable": true,
+   "indexnow_ms": 1792591650005,
+   "published_ms": 1792591320000,
+   "section": "מוזיקה",
+   "title": "עומרי 69 היה על גג העולם ואז נכנס לתרדמת של 41 יום"
+  },
   "https://www.mako.co.il/music-news/world/Article-1c85871e84ed0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35632,6 +35656,18 @@
    "published_ms": 1791191100000,
    "section": "דיגיטל",
    "title": "סם אלטמן: \"העולם צריך לקבל שיקרו דברים רעים בגלל AI\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-b97c6dac20e51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792591586950,
+   "content_type": "article",
+   "first_seen_ms": 1792591586950,
+   "indexable": true,
+   "indexnow_ms": 1792591586950,
+   "published_ms": 1792591200000,
+   "section": "דיגיטל",
+   "title": "המפלצת שעולה יותר מאייפון ומצלמת טוב ממנו"
   },
   "https://www.mako.co.il/nexter-news/Article-bc23a55d9ce21a1027.htm": {
    "check_attempts": 1,
