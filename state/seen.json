@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6b6111a377c51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b37a075e4bc51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -36847,7 +36847,8 @@
    "importance": 1,
    "published_ms": 1792523904000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "חשד: חברת הקונגרס התחתנה עם אחיה כדי שיקבל אזרחות",
    "type": "news",
@@ -74089,6 +74090,24 @@
    "updated_ms": 1792473758000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2661877c9751a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17730_20102026052119/M_NEWS_17730_20102026052119_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b37a075e4bc51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלה הן 5 הכותרות החשובות של הבוקר",
+   "duration_s": 51,
+   "first_seen_ms": 1792557445748,
+   "image": "https://img.mako.co.il/2026/10/21/V1_KOTAROT_7588_21102026043304_1400_1792557275937_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792557282000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלה הן 5 הכותרות החשובות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1792557282000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b37a075e4bc51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_KOTAROT_7588_21102026043304/V1_KOTAROT_7588_21102026043304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b38087ff5be41a1027.htm": {
    "author": "מבזקים",
