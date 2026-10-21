@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792606651638,
+ "last_run_ms": 1792606949806,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -40094,6 +40094,18 @@
    "published_ms": 1792573920000,
    "section": "",
    "title": "תמך באיראן: נאסרה כניסה לישראל של טייס בחברת ענק"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bf175ad340f51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-bf175ad340f51a1027.htm",
+   "checked_ms": 1792606827076,
+   "content_type": "article",
+   "first_seen_ms": 1792606827076,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792606020000,
+   "section": "",
+   "title": "נתניהו נחלש, בנט מתחזק - ומה עם וינטר? זו מפת הגושים"
   },
   "https://www.mako.co.il/special-mako-news/Article-bf2378e5bd621a1026.htm": {
    "check_attempts": 1,
