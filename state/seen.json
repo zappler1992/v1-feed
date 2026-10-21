@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6574c19068e51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-5688c19068e51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20938,6 +20939,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3070efddef851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIRA_OPERA_201026/MASTER/SHIRA_OPERA_201026_M/SHIRA_OPERA_201026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-5688c19068e51a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "ממשלת מלזיה הוציאה הנחיה מיידית האוסרת על עובדי המדינה להשתמש באפליקציית הניווט Waze. הסיבה? חששות ביטחוניים ואבטחת מידע - אך ורק בשל מקורה הישראלי של האפליקציה. ראש הממשלה המלזי אף קרא לכלל הציבור לעבור לאפליקציית ניווט מקומית, בצעד שמצטרף למהלך דומה שמתכננת גם עיראק.",
+   "duration_s": 41,
+   "first_seen_ms": 1792588946538,
+   "image": "https://img.mako.co.il/2026/10/21/rinat_waze_211026_1400_1792587270250_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792587276000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "בגלל ישראל: מדינה נוספת אוסרת את השימוש בוויז",
+   "type": "general",
+   "updated_ms": 1792587276000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-5688c19068e51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/rinat_waze_211026/MASTER/rinat_waze_211026/rinat_waze_211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-61c0bd3881551a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -37360,7 +37379,10 @@
    "image": "https://img.mako.co.il/2026/10/21/Kim_MayGolan_21102026_1400_1792588113821_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792588120000,
-   "sections": [],
+   "sections": [
+    "חדשות",
+    "סלבס"
+   ],
    "title": "שרה בחקירה: פרטים חדשים על הבוקר של מאי גולן בלהב 433",
    "type": "news",
    "updated_ms": 1792588120000,
@@ -75745,6 +75767,24 @@
    "updated_ms": 1792576933000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_PILOT_211026_MIV/yoav_PILOT_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איום ישיר - בעברית: הבכיר האיראני אברהים עזיזי מבטיח הסלמה אחרי הבחירות",
+   "duration_s": 9,
+   "first_seen_ms": 1792588946538,
+   "image": "https://img.mako.co.il/2026/10/21/V1_threat_7595_21102026011849_1400_1792588812778_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792588819000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איום ישיר - בעברית: הבכיר האיראני אברהים עזיזי מבטיח הסלמה אחרי הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792588819000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_threat_7595_21102026011849/V1_threat_7595_21102026011849_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-da92940d7fd51a1026.htm": {
    "author": "מבזקים",

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T13:20:19+00:00</news:publication_date>
+<news:title>איום ישיר - בעברית: הבכיר האיראני אברהים עזיזי מבטיח הסלמה אחרי הבחירות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_threat_7595_21102026011849_1400_1792588812778_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6574c19068e51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -17,6 +26,15 @@
 <news:title>גבר בן 36 נפצע בינוני בתאונת דרכים בין אוטובוס לרכב פרטי בדרך נמיר בתל אביב</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/21/M_NEWS_17841_21102026125454_1400_1792587410702_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-5688c19068e51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T12:54:36+00:00</news:publication_date>
+<news:title>בגלל ישראל: מדינה נוספת אוסרת את השימוש בוויז</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/rinat_waze_211026_1400_1792587270250_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8d68c19068e51a1027.htm</loc>
@@ -2451,14 +2469,5 @@
 <news:title>ההתלבטות של גנץ וההחלטה: דפנה ליאל עם מאחורי הקלעים של הפרישה ברגע האחרון</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/Fix_dafna_1400_1792417479303_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ca427b2994451a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T13:19:55+00:00</news:publication_date>
-<news:title>טראמפ התערב בבחירות ברחבי העולם - ולא תמיד הצליח</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/Kim_Trump_19102026_fix_yoav_2_1400_1792430246501_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
