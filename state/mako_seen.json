@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792589267018,
+ "last_run_ms": 1792589549512,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2756,6 +2756,18 @@
    "published_ms": 1792405560000,
    "section": "ספורט",
    "title": "בקרוב בנבחרת ישראל? היהודי שמככב באיטליה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/eurocup-q4_2026/Article-f8f8ac617ae51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792589549512,
+   "content_type": "article",
+   "first_seen_ms": 1792589549512,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792589100000,
+   "section": "ספורט",
+   "title": "סערה חסרת תקדים: פרשת מכירת משחקים ביוון"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q3_2026/Article-0046690eff8e0a1027.htm": {
    "check_attempts": 1,
