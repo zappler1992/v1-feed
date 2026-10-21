@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e2cca883e51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b93796e4e51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -74051,12 +74051,12 @@
    "duration_s": 9,
    "first_seen_ms": 1792579646196,
    "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17832_21102026104306_1400_1792579468450_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792579475000,
    "sections": [
     "מבזקים"
    ],
-   "title": "13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים ולוחמי מג״ב ירושלים במזרח העיר",
+   "title": "13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים במזרח העיר",
    "type": "mivzakim",
    "updated_ms": 1792579475000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm",
@@ -75181,6 +75181,24 @@
    "updated_ms": 1792332679000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ba62a01ce4f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/M_NEWS_17615_18102026020957/M_NEWS_17615_18102026020957_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b93796e4e51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בזמן הקפצה: לוחמי האש של תחנת אשכול סייעו בפעולות החייאה באדם שהתמוטט בפתח התחנה",
+   "duration_s": 9,
+   "first_seen_ms": 1792583846369,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17835_21102026115330_1400_1792583705640_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792583712000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בזמן הקפצה: לוחמי האש של תחנת אשכול סייעו בפעולות החייאה באדם שהתמוטט בפתח התחנה",
+   "type": "mivzakim",
+   "updated_ms": 1792583712000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b93796e4e51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17835_21102026115330/M_NEWS_17835_21102026115330_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c1fad53cea951a1027.htm": {
    "author": "מבזקים",
