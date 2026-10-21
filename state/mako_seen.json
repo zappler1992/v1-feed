@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792580549078,
+ "last_run_ms": 1792580849040,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30197,6 +30197,18 @@
    "section": "",
    "title": "נאניה מלדה נדקרה למוות על ידי בעלה בבאר שבע"
   },
+  "https://www.mako.co.il/men-men_news/Article-a72087ae41e51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792580667292,
+   "content_type": "article",
+   "first_seen_ms": 1792580667292,
+   "indexable": true,
+   "indexnow_ms": 1792580667292,
+   "published_ms": 1792580400000,
+   "section": "פלילים",
+   "title": "אחיו של קוטייר עודה זוכה מעבירת איומים"
+  },
   "https://www.mako.co.il/men-men_news/Article-a960724cda851a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42986,6 +42998,18 @@
    "published_ms": 1792037760000,
    "section": "חופש",
    "title": "לא הרבה מכירים: זה המקום הכי שווה לנחות בו בכריסמס"
+  },
+  "https://www.mako.co.il/travel-world/Article-3be1940d7fd51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792580849040,
+   "content_type": "article",
+   "first_seen_ms": 1792580849040,
+   "indexable": true,
+   "indexnow_ms": 1792580849040,
+   "published_ms": 1792575960000,
+   "section": "חופש",
+   "title": "תפסיקו עם זה: הכפתור במטוס שמוציא את הדיילים מהכלים"
   },
   "https://www.mako.co.il/travel-world/Article-462bf277c0ec0a1027.htm": {
    "check_attempts": 1,
