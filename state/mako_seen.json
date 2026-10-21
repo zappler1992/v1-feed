@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792579649991,
+ "last_run_ms": 1792579948952,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1160,6 +1160,18 @@
    "published_ms": 1792491841000,
    "section": "Fashion Forward",
    "title": "סוד כמוס: טיילור מלכוב ולירז צ'רכי לבשו לנז'רי לאירוע, וזה היה הכי הולם"
+  },
+  "https://fashionforward.mako.co.il/news/322117/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792579948952,
+   "content_type": "post",
+   "first_seen_ms": 1792579948952,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "אור לוזון עם שרשרת יהלומים מ-ש-ו-ג-ע-ת ונעלי שאנל"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -42878,6 +42890,18 @@
    "published_ms": 1790568960000,
    "section": "חופש",
    "title": "המלון המוכר באילת הופך להיות \"הכל כלול אקסטרה\""
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-fca7940d7fd51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792579827244,
+   "content_type": "article",
+   "first_seen_ms": 1792579827244,
+   "indexable": true,
+   "indexnow_ms": 1792579827244,
+   "published_ms": 1792578480000,
+   "section": "",
+   "title": "צריכים לחדש דרכון בקרוב? יש לנו חדשות רעות"
   },
   "https://www.mako.co.il/travel-world/Article-01cceca640b21a1026.htm": {
    "check_attempts": 1,
