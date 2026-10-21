@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0b9ec926ade51a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-1a75e7b5bce51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cfea2b964ee51a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-0c93c926ade51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -75750,6 +75750,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cf3cffd624951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_isenkot_7562_20102026122527/V1_isenkot_7562_20102026122527_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cfea2b964ee51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מטורף מירושלים: רוכב אופנוע התנגש בעוצמה אדירה ברכב, עף באוויר - אבל יצא ללא פגע",
+   "duration_s": 55,
+   "first_seen_ms": 1792593747126,
+   "image": "https://img.mako.co.il/2026/10/21/V1_Telegram_7599_21102026023413_1400_1792593415560_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792593422000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מטורף מירושלים: רוכב אופנוע התנגש בעוצמה אדירה ברכב, עף באוויר - אבל יצא ללא פגע",
+   "type": "mivzakim",
+   "updated_ms": 1792593422000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cfea2b964ee51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_Telegram_7599_21102026023413/V1_Telegram_7599_21102026023413_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d0ce852b1dd51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -77795,6 +77813,24 @@
    "updated_ms": 1791789698000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w03/shorts-eec4e2be4fe21a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17156_12102026071936/M_Food_17156_12102026071936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-0c93c926ade51a1026.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "היא לא גבוהה ולא מתוחכמת, אבל אווירירית ורכה, עסיסית ורטובה, שוקולדית עם רמיזה של קפה, וכשהיא חמימה, עם תלולית של קצפת וכדור גלידה - אין משמחת לבבות יותר מהעוגה הזאת",
+   "duration_s": 59,
+   "first_seen_ms": 1792593747126,
+   "image": "https://img.mako.co.il/2026/10/21/M_Food_17848_21102026023106_1400_1792593278873_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792593285000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "איזו קלאסיקה! קרין גורן הכינה לנו עוגת שוקולד חמה",
+   "type": "mivzakim",
+   "updated_ms": 1792593285000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-0c93c926ade51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17848_21102026023106/M_Food_17848_21102026023106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-6ea8279390851a1027.htm": {
    "author": "לין לוי",
