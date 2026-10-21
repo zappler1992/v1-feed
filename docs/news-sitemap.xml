@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-46de1ac447e51a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T12:43:16+00:00</news:publication_date>
+<news:title>הפגנת חרדים מול תחנת המשטרה בצומת רעננה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_NEWS_17837_21102026124143_1400_1792586589652_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f1cbcdd856e51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2424,14 +2433,5 @@
 <news:title>גם יאיר גולן מתייחס לפרישתו של גנץ: &quot;קיבל החלטה אחראית ונכונה בשעה גורלית למדינה&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/M_NEWS_17687_19102026010328_1400_1792415100223_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d3a70f1362451a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T12:46:32+00:00</news:publication_date>
-<news:title>אחרי שהתחייב לרוץ עד הסוף - גנץ מודיע על פרישה: &quot;לא אתמודד בבחירות הקרובות&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/V1_G_7521_19102026124429_1400_1792413985900_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
