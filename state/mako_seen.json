@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792585649469,
+ "last_run_ms": 1792585949610,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1183,7 +1183,7 @@
    "indexnow_ms": null,
    "published_ms": 1792581379000,
    "section": "אופנה",
-   "title": "בלוק הכי צנוע שלבשה אי-פעם: דנית גרינברג בחצאית הורסת"
+   "title": "בלוק הכי צנוע שלבשה אי פעם: דנית גרינברג בחצאית הורסת"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -16756,6 +16756,18 @@
    "published_ms": 1790666460000,
    "section": "סלבס",
    "title": "עם כוס על הראש: כך תועדה הכוכבת"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-8148b68c1dd51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792585827629,
+   "content_type": "article",
+   "first_seen_ms": 1792585827629,
+   "indexable": true,
+   "indexnow_ms": 1792585827629,
+   "published_ms": 1792585560000,
+   "section": "סלבס",
+   "title": "הקשר החדש של הכוכבת והשחקן היהודי מעורר סערה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-81fe124aa13d0a1027.htm": {
    "check_attempts": 1,
@@ -40154,6 +40166,18 @@
    "published_ms": 1791457200000,
    "section": "SENSES",
    "title": "בלב המדבר: המחווה המרגשת לשורדי הנובה"
+  },
+  "https://www.mako.co.il/special-senses/future/Article-286778cee2e51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792585827629,
+   "content_type": "article",
+   "first_seen_ms": 1792585827629,
+   "indexable": true,
+   "indexnow_ms": 1792585827629,
+   "published_ms": 1792585620000,
+   "section": "SENSES",
+   "title": "מלחיץ: הרובוט קיבל פקודה פשוטה - ושלף סכין"
   },
   "https://www.mako.co.il/special-senses/future/Article-3362a34477e31a1026.htm": {
    "check_attempts": 1,
