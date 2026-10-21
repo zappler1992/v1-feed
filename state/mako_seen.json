@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792592249799,
+ "last_run_ms": 1792592549897,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24051,7 +24051,7 @@
    "indexnow_ms": 1792575987122,
    "published_ms": 1792575360000,
    "section": "HIX",
-   "title": "המשפיענית העלתה \"תוכן מטריד\" במצרים – והסתבכה"
+   "title": "מי עושה דבר כזה במצרים? הטעות הגדולה של המשפיענית"
   },
   "https://www.mako.co.il/hix-special/Article-415716d1fe9c0a1027.htm": {
    "check_attempts": 1,
@@ -40226,6 +40226,18 @@
    "published_ms": 1791803040000,
    "section": "חדשות",
    "title": "היועמ\"ש לשעבר מנדלבליט שב לדוכן העדים בתיק"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-e3b02bf251d51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/liveblog-e3b02bf251d51a1027.htm",
+   "checked_ms": 1792592549897,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792592549897,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792590720000,
+   "section": "חדשות",
+   "title": "ההצעה של סמוטריץ' לוינטר, בתמורה לפרישה"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-edcbca53f8921a1026.htm": {
    "check_attempts": 1,
