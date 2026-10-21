@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-645c2a1067f51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a3d52a1067f51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37570,16 +37570,16 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-645c2a1067f51a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "מקורות אמריקאיים עשרות מטוסים של חיל האוויר הישראלי ביצעו גיחה שהגיעה עד לגבול איראן בתחילת השבוע. המקורות טענו כי בישראל קיוו שהאיראנים יירו לעבר המטוסים - במהלך שיצית את העימות מחדש, וייתן הצדקה לתקיפה באיראן.",
    "duration_s": 68,
    "first_seen_ms": 1792603946649,
    "image": "https://img.mako.co.il/2026/10/21/TALI_BARAK_211026_1400_1792603266170_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792603272000,
    "sections": [
     "חדשות"
    ],
-   "title": "",
+   "title": "הגיחה הישראלית לאיראן - והחשדות החריגים של האמריקאים",
    "type": "news",
    "updated_ms": 1792603272000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-645c2a1067f51a1027.htm",
@@ -75351,6 +75351,24 @@
    "updated_ms": 1792590517000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a225ac617ae51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17842_21102026014655/M_NEWS_17842_21102026014655_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a3d52a1067f51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יו\"ר מפגת \"עמך ישראל\" עופר וינטר מודיע שלא יפרוש - ותוקף את ההצעה לדיל מסמוטריץ'",
+   "duration_s": 13,
+   "first_seen_ms": 1792604245874,
+   "image": "https://img.mako.co.il/2026/10/21/V1_winter_7600_21102026053118_1400_1792604018517_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792604025000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יו\"ר מפגת \"עמך ישראל\" עופר וינטר מודיע שלא יפרוש - ותוקף את ההצעה לדיל מסמוטריץ'",
+   "type": "mivzakim",
+   "updated_ms": 1792604025000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a3d52a1067f51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_winter_7600_21102026053118/V1_winter_7600_21102026053118_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a490e861e0751a1026.htm": {
    "author": "מבזקים",
