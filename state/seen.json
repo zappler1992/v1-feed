@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8d68c19068e51a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-16d509cb67e51a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c4f409cb67e51a1027.htm",
-  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-af5b78cee2e51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-375ae07478e51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20863,7 +20860,7 @@
    ],
    "title": "הסרט המדובר של השנה מגיע לארץ: זה התאריך",
    "type": "general",
-   "updated_ms": 1792577933000,
+   "updated_ms": 1792587300000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-013b940d7fd51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/rinat_movie_211026/MASTER/rinat_movie_211026_m/rinat_movie_211026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -73438,6 +73435,24 @@
    "updated_ms": 1792298577000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-370f51a993d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_ligatal_7453_18102026044132/V1_ligatal_7453_18102026044132_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-375ae07478e51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גבר בן 36 נפצע בינוני בתאונת דרכים בין אוטובוס לרכב פרטי בדרך נמיר בתל אביב",
+   "duration_s": 9,
+   "first_seen_ms": 1792587746475,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17841_21102026125454_1400_1792587410702_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792587417000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גבר בן 36 נפצע בינוני בתאונת דרכים בין אוטובוס לרכב פרטי בדרך נמיר בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1792587417000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-375ae07478e51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17841_21102026125454/M_NEWS_17841_21102026125454_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-395fadef1c051a1026.htm": {
    "author": "מבזקים",
