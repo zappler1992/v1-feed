@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a073f0e869e51a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-21T13:25:50+00:00</news:publication_date>
+<news:title>איום ישיר - בעברית: הבכיר האיראני אברהים עזיזי מבטיח הסלמה אחרי הבחירות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/V1_azizizi_7596_21102026012418_1400_1792589143808_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d8aef0e869e51a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2460,14 +2469,5 @@
 <news:title>פולישוק פרק 16: עכשיו השר על הכוונת</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/19/POLISHUK_EP16_1400_1792416733978_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-83383b2f65451a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-19T13:26:54+00:00</news:publication_date>
-<news:title>ההתלבטות של גנץ וההחלטה: דפנה ליאל עם מאחורי הקלעים של הפרישה ברגע האחרון</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/19/Fix_dafna_1400_1792417479303_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
