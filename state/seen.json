@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-22a2fccb96d51a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-65f7427db5d51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f1a5a523c8d51a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ef71f52819d51a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37458,7 +37458,7 @@
    ],
    "title": "כל העולם התלהב מהפנתר הוורוד במחאות בפריז - ואז התבררה האמת",
    "type": "news",
-   "updated_ms": 1792561800000,
+   "updated_ms": 1792571160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ed79084af8951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIR_PANTER_201026/MASTER/SHIR_PANTER_201026/SHIR_PANTER_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -75399,6 +75399,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ec0feaa8e7851a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17747_20102026084914/M_NEWS_17747_20102026084914_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ef71f52819d51a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רעידת אדמה בעוצמה 3.4 התרחשה באזור הערבה והורגשה באזורים שונים ברחבי הארץ",
+   "duration_s": 9,
+   "first_seen_ms": 1792571846130,
+   "image": "https://img.mako.co.il/2026/10/21/yoav_ARAVA_211026_MIV_1400_1792571607990_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792571614000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רעידת אדמה בעוצמה 3.4 התרחשה באזור הערבה והורגשה באזורים שונים ברחבי הארץ",
+   "type": "mivzakim",
+   "updated_ms": 1792571614000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ef71f52819d51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_ARAVA_211026_MIV/yoav_ARAVA_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f188a33b87351a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -75416,6 +75434,24 @@
    "updated_ms": 1792401807000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f188a33b87351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_INTEL_7514_19102026092204/V1_INTEL_7514_19102026092204_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f1a5a523c8d51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רעידת אדמה הורגשה בערבה",
+   "duration_s": 9,
+   "first_seen_ms": 1792571846130,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17817_21102026083229_1400_1792571638235_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792571645000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רעידת אדמה הורגשה בערבה",
+   "type": "mivzakim",
+   "updated_ms": 1792571645000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f1a5a523c8d51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17817_21102026083229/M_NEWS_17817_21102026083229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f3113f3a5b251a1026.htm": {
    "author": "מבזקים",
