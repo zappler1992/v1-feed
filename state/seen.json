@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84a6c70efdd51a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4d4c70efdd51a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37439,7 +37438,9 @@
    "image": "https://img.mako.co.il/2026/10/21/rinat_fight_211026_m_1400_1792576486178_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792576492000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "כוכב ריאליטי חשוד שתקף את בת זוגו, גם היא נעצרה",
    "type": "news",
    "updated_ms": 1792576492000,
@@ -73916,6 +73917,24 @@
    "updated_ms": 1792384977000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/FIX_Kim_TURKIY_19102026/FIX_Kim_TURKIY_19102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: ילד נשכח ברכב, שוטרי מחוז מרכז חילצו אותו בשלום",
+   "duration_s": 48,
+   "first_seen_ms": 1792577846192,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17829_21102026101010_1400_1792577495778_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792577502000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: ילד נשכח ברכב, שוטרי מחוז מרכז חילצו אותו בשלום",
+   "type": "mivzakim",
+   "updated_ms": 1792577502000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17829_21102026101010/M_NEWS_17829_21102026101010_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7c1f09c632851a1027.htm": {
    "author": "מבזקים",
