@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792567949075,
+ "last_run_ms": 1792568248865,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10734,6 +10734,18 @@
    "published_ms": 1792011420000,
    "section": "ספורט",
    "title": "\"סופר רמונטדה\". שיא האלופות שריאל שברה"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-dfed427db5d51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792568186792,
+   "content_type": "article",
+   "first_seen_ms": 1792568186792,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792567860000,
+   "section": "ספורט",
+   "title": "צפו. \"משחק היסטורי. כל מה שטוב בכדורגל\""
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-e4042bf251d51a1027.htm": {
    "check_attempts": 1,
@@ -26859,7 +26871,7 @@
    "indexnow_ms": 1792567226718,
    "published_ms": 1792566840000,
    "section": "",
-   "title": "\"אנחנו ילדים של גילוי עריות\""
+   "title": "\"היה גילוי עריות\": החשיפה המטלטלת של הכוכב"
   },
   "https://www.mako.co.il/makoz-news/Article-7bfdebe619601a1027.htm": {
    "check_attempts": 1,
@@ -33711,7 +33723,7 @@
    "indexnow_ms": null,
    "published_ms": 1792526760000,
    "section": "ספורט",
-   "title": "\"קשה לצפייה\": צפו בהחמצות הענק של CR7"
+   "title": "\"מול שער ריק, איך לעזאזל רונאלדו החטיא?\""
   },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
@@ -44618,6 +44630,18 @@
    "published_ms": 1791372600000,
    "section": "תרבות tvbee",
    "title": "מ\"הכוכב הבא\" לנטפליקס: ליהוק הענק של הכוכבת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-aa85d43425d51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792568066759,
+   "content_type": "article",
+   "first_seen_ms": 1792568066759,
+   "indexable": true,
+   "indexnow_ms": 1792568066759,
+   "published_ms": 1792567500000,
+   "section": "הכי חם",
+   "title": "\"קשה לי לראות אנשים שאומרים כאלו מילים\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-aea36a247a831a1027.htm": {
    "check_attempts": 1,
