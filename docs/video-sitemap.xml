@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/21/M_NEWS_17832_21102026104306_1400_1792579468450_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים ולוחמי מג״ב ירושלים במזרח העיר</video:title>
+<video:description>13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים ולוחמי מג״ב ירושלים במזרח העיר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17832_21102026104306/M_NEWS_17832_21102026104306_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-21T10:44:35+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-aa4266d09fd51a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/21/M_Music_17831_21102026102639_1400_1792578481539_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>נס וסטילה מוכרים את &quot;רשימת קניות&quot; לפרסומת של Yellow בעסקה בשווי חצי מיליון שקל</video:title>
+<video:description>נס וסטילה מוכרים את &quot;רשימת קניות&quot; לפרסומת של Yellow בעסקה בשווי חצי מיליון שקל</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17831_21102026102639/M_Music_17831_21102026102639_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>32</video:duration>
+<video:publication_date>2026-10-21T10:28:08+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-da92940d7fd51a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/21/M_NEWS_17830_21102026102434_1400_1792578380111_FirstFrame.jpg</video:thumbnail_loc>
@@ -521,6 +553,7 @@
 <video:uploader>מיוחד</video:uploader>
 <video:tag>דברים שלא ידעתם</video:tag>
 <video:tag>המיוחדים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מיוחד</video:tag>
 </video:video>
 </url>

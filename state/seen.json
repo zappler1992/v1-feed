@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-da92940d7fd51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-aa4266d09fd51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14074,6 +14075,24 @@
    "updated_ms": 1792568120000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a9ceb3a6f5d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17811_21102026073348/M_Celebs_17811_21102026073348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-aa4266d09fd51a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "נס וסטילה מוכרים את \"רשימת קניות\" לפרסומת של Yellow בעסקה בשווי חצי מיליון שקל",
+   "duration_s": 32,
+   "first_seen_ms": 1792579646196,
+   "image": "https://img.mako.co.il/2026/10/21/M_Music_17831_21102026102639_1400_1792578481539_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792578488000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "נס וסטילה מוכרים את \"רשימת קניות\" לפרסומת של Yellow בעסקה בשווי חצי מיליון שקל",
+   "type": "mivzakim",
+   "updated_ms": 1792578488000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-aa4266d09fd51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17831_21102026102639/M_Music_17831_21102026102639_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-b4090c776a051a1027.htm": {
    "author": "עדכוני בידור",
@@ -73918,6 +73937,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/FIX_Kim_TURKIY_19102026/FIX_Kim_TURKIY_19102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים ולוחמי מג״ב ירושלים במזרח העיר",
+   "duration_s": 9,
+   "first_seen_ms": 1792579646196,
+   "image": "https://img.mako.co.il/2026/10/21/M_NEWS_17832_21102026104306_1400_1792579468450_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792579475000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "13 בקבוקי תבערה מוכנים לשימוש נתפסו בפעילות שוטרי מחוז ירושלים ולוחמי מג״ב ירושלים במזרח העיר",
+   "type": "mivzakim",
+   "updated_ms": 1792579475000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17832_21102026104306/M_NEWS_17832_21102026104306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87751,7 +87788,8 @@
    "published_ms": 1792565617000,
    "sections": [
     "דברים שלא ידעתם",
-    "המיוחדים"
+    "המיוחדים",
+    "הכי נצפים עכשיו"
    ],
    "title": "מה הקשר בין רפי גינת, חמין ו-עצלנים??",
    "type": "general",
