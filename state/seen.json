@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-4ac73409aea51a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-70f7c0dc9ca51a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -36799,6 +36799,24 @@
    "updated_ms": 1792403013000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6e9e29f348351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/inbie_fake_191026/MASTER/inbie_fake_191026/inbie_fake_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-70f7c0dc9ca51a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "קמפיין סודי שנועד להאדיר את קטאר ולנגח את מצרים, הצית משבר מול אחת השכנות החשובות של ישראל. כך נחשף המהלך שכמעט החריב את היחסים עם קהיר.",
+   "duration_s": 64,
+   "first_seen_ms": 1792550547356,
+   "image": "https://img.mako.co.il/2026/10/20/SHIR_AMIT_201026_FIX_1400_1792525991147_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792525857000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "הקמפיין הסודי שמכעט הרס את היחסים עם השכנה",
+   "type": "news",
+   "updated_ms": 1792525920000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-70f7c0dc9ca51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIR_AMIT_201026_FIX/SHIR_AMIT_201026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-77f581550bd41a1026.htm": {
    "author": "חדשות",
@@ -98645,7 +98663,8 @@
    "importance": 0,
    "published_ms": 1792528933000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מסוכן: ילדה בת 3 נותרה תלויה מחוץ לחלון בניין גבוה - והשכנים אילתרו פתרון שהציל אותה | צפו",
    "type": "mivzakim",
