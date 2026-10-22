@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792668448734,
+ "last_run_ms": 1792668748725,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30496,6 +30496,18 @@
    "published_ms": 1790507340000,
    "section": "פלילים",
    "title": "המלונית שבה נאנסה תיירת נפתחה בניגוד לצו"
+  },
+  "https://www.mako.co.il/men-men_news/Article-5d781a9cb5361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792668626887,
+   "content_type": "article",
+   "first_seen_ms": 1792668626887,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792668300000,
+   "section": "פלילים",
+   "title": "זה האיש שהכה את חברתו והרג את כלבתו עם חרב סמוראים"
   },
   "https://www.mako.co.il/men-men_news/Article-5f9e7e1731cf0a1026.htm": {
    "check_attempts": 1,
