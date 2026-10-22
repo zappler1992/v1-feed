@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9397047e15361a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f11066c7d4361a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39168,6 +39169,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efc6201dbcf41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_segal_181026/MASTER/inbie_segal_181026/inbie_segal_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f11066c7d4361a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792668445976,
+   "image": "https://img.mako.co.il/2026/10/22/SHIR_VOTE_221026_1400_1792667563515_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792667570000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "67 אלף ישראלים יעשו את הדרך מחו\"ל כדי להצביע בבחירות",
+   "type": "news",
+   "updated_ms": 1792667640000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f11066c7d4361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/SHIR_VOTE_221026/MASTER/SHIR_VOTE_221026/SHIR_VOTE_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f3f73d0c5f161a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -76420,6 +76439,24 @@
    "updated_ms": 1792309680000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-938c5fc50dd41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/fix_hashmal/fix_hashmal_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9397047e15361a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ברשות שדות התעופה מתזכרים את הטסים לקראת שעון החורף",
+   "duration_s": 9,
+   "first_seen_ms": 1792668445976,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17901_22102026112306_1400_1792668262125_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792668268000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ברשות שדות התעופה מתזכרים את הטסים לקראת שעון החורף",
+   "type": "mivzakim",
+   "updated_ms": 1792668268000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9397047e15361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17901_22102026112306/M_NEWS_17901_22102026112306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9425759eb0361a1026.htm": {
    "author": "מבזקים",
