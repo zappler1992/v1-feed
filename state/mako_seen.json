@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792676249875,
+ "last_run_ms": 1792676548953,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3752,6 +3752,18 @@
    "published_ms": 1790851560000,
    "section": "ספורט",
    "title": "יעבור בדיקה: שחקן מכבי ת\"א בספק לפאו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-120907b93c361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792676548953,
+   "content_type": "article",
+   "first_seen_ms": 1792676548953,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792676100000,
+   "section": "ספורט",
+   "title": "כך שמו של השופט ממונאקו נקשר לפרשה ביוון"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-16ae647148361a1026.htm": {
    "check_attempts": 1,
@@ -33701,6 +33713,18 @@
    "section": "מוזיקה",
    "title": "אחרי תקופה קשה: סיבה חדשה לצאת בתל אביב"
   },
+  "https://www.mako.co.il/music-news/Article-2e60d2321d361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792676548953,
+   "content_type": "article",
+   "first_seen_ms": 1792676548953,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792676280000,
+   "section": "מוזיקה",
+   "title": "תיעוד חדש ומטריד מהתקיפה האלימה בנמל יפו"
+  },
   "https://www.mako.co.il/music-news/Article-306fe778a8e31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39652,6 +39676,18 @@
    "published_ms": 1791483000000,
    "section": "",
    "title": "האמר צבאי התהפך: סרן אליאב חיים צפלמוס נפל בדרום לבנון"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-c4e2e87b7a361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792676307792,
+   "content_type": "article",
+   "first_seen_ms": 1792676307792,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792673640000,
+   "section": "צבא וביטחון",
+   "title": "גורם צבאי בכיר: אין מידע שמחייב תקיפה קרובה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c5ae8ea57ccc0a1027.htm": {
    "check_attempts": 1,
