@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792701749485,
+ "last_run_ms": 1792702049416,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15315,7 +15315,7 @@
    "indexnow_ms": 1792652786872,
    "published_ms": 1792652460000,
    "section": "תרבות tvbee",
-   "title": "הכוכב היהודי: \"סיכנתי את חיי בעשיית הסרט\""
+   "title": "\"סיכנתי את חיי בעשיית הסרט החדש\""
   },
   "https://www.mako.co.il/culture-movies/Article-bab3fb0f5dce0a1026.htm": {
    "check_attempts": 1,
@@ -42314,6 +42314,18 @@
    "published_ms": 1792528740000,
    "section": "",
    "title": "טנקים בפריז ורומא? התוכנית לבלימת הכאוס באירופה"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-40a48b9854561a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792701986738,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792701986738,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792701480000,
+   "section": "חדשות",
+   "title": "טראמפ על איראן: \"הכינו בהם חזק, ואולי נמשיך בזה עוד\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
