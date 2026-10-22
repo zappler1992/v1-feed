@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792678049777,
+ "last_run_ms": 1792678649676,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2300,6 +2300,18 @@
    "published_ms": 1792548060000,
    "section": "ספורט",
    "title": "מזרח חדש: פילי גברה על הניקס בליל הפתיחה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-2ca84f333f361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792678649676,
+   "content_type": "article",
+   "first_seen_ms": 1792678649676,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792678440000,
+   "section": "ספורט",
+   "title": "סימן לבאות: חלוקת הדקות של דני ופורטלנד"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-34699ac853d01a1027.htm": {
    "check_attempts": 1,
@@ -30675,7 +30687,7 @@
    "indexnow_ms": null,
    "published_ms": 1792668300000,
    "section": "פלילים",
-   "title": "זה האיש שהכה את חברתו והרג את כלבתו עם חרב סמוראים"
+   "title": "הכה את ידידתו באכזריות - והרג את כלבה עם חרב סמוראים"
   },
   "https://www.mako.co.il/men-men_news/Article-5f9e7e1731cf0a1026.htm": {
    "check_attempts": 1,
