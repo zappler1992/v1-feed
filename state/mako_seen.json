@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792661848606,
+ "last_run_ms": 1792662148587,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16839,7 +16839,7 @@
    "indexnow_ms": 1792655187038,
    "published_ms": 1792654740000,
    "section": "סלבס",
-   "title": "השחקנית מגיבה לשמועות על רומן עם השחקן שמככב לצדה"
+   "title": "שמועה על רומן? השחקנית מגיבה: \"מעניינת וטובה לנו\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-edde0b849d8c0a1026.htm": {
    "check_attempts": 1,
@@ -18340,6 +18340,18 @@
    "published_ms": 1792594800000,
    "section": "כסף",
    "title": "בשורה משמחת: שיין וטמו בדרך להיות זולות יותר"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-ad11134cde261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792662148587,
+   "content_type": "article",
+   "first_seen_ms": 1792662148587,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792661700000,
+   "section": "כסף",
+   "title": "שני דגמים מבוקשים שיעלו לכם ביוקר במוסך"
   },
   "https://www.mako.co.il/finances-consumer/Article-b0b3e61e813e0a1027.htm": {
    "check_attempts": 1,
