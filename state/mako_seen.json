@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792701149629,
+ "last_run_ms": 1792701449586,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34660,6 +34660,18 @@
    "published_ms": 1792526400000,
    "section": "",
    "title": "גאווה ישראלית: אלו האומנים שנכנסו לרשימה היוקרתית"
+  },
+  "https://www.mako.co.il/music-news/Article-c57ad29c10561a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792701266764,
+   "content_type": "article",
+   "first_seen_ms": 1792701266764,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792700880000,
+   "section": "מוזיקה",
+   "title": "חי בלה לה לנד: האיחוד של הכוכבים על הבמה"
   },
   "https://www.mako.co.il/music-news/Article-c646dc47441f0a1027.htm": {
    "check_attempts": 1,
