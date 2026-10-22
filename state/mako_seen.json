@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792685849500,
+ "last_run_ms": 1792686150263,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5168,6 +5168,18 @@
    "published_ms": 1790833560000,
    "section": "ספורט",
    "title": "משבר זהות: הבעיה הגדולה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-d197f1aee4461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792686150263,
+   "content_type": "article",
+   "first_seen_ms": 1792686150263,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792686000000,
+   "section": "ספורט",
+   "title": "לאחר הסערה: העונש של אולימפיאקוס לדורסי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-d203c497b5841a1027.htm": {
    "check_attempts": 1,
@@ -47569,7 +47581,7 @@
    "indexnow_ms": 1792685549931,
    "published_ms": 1792684680000,
    "section": "",
-   "title": "שרון גל התפטר מ-i24, זה הערוץ שבו הוא ישדר"
+   "title": "שרון גל התפטר מתפקידו בערוץ i24"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8c89fffe5fce0a1026.htm": {
    "check_attempts": 1,
