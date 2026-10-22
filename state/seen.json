@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-66a3193be0261a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f3f73d0c5f161a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e63a5ce0261a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7625,7 +7626,8 @@
    "published_ms": 1792175836000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "אחרי שיצאה עם נשים: השחקנית נועם לוגסי התארסה לבן זוגה בר ינקוביץ'",
    "type": "mivzakim",
@@ -13632,6 +13634,24 @@
    "updated_ms": 1792582394000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e2cca883e51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17834_21102026112749/M_Celebs_17834_21102026112749_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e63a5ce0261a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כוכבי ״10 דברים שאני הכי שונאת אצלך״ - אז והיום",
+   "duration_s": 10,
+   "first_seen_ms": 1792648046493,
+   "image": "https://img.mako.co.il/2026/10/22/M_Tarbut_17881_22102026053521_1400_1792647392640_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792647399000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כוכבי ״10 דברים שאני הכי שונאת אצלך״ - אז והיום",
+   "type": "mivzakim",
+   "updated_ms": 1792647399000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e63a5ce0261a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17881_22102026053521/M_Tarbut_17881_22102026053521_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-632855ef7da51a1026.htm": {
    "author": "עדכוני בידור",
@@ -38283,7 +38303,8 @@
    "published_ms": 1792485285000,
    "sections": [
     "הכי נצפים עכשיו",
-    "חדשות"
+    "חדשות",
+    "הכי נצפים השבוע"
    ],
    "title": "תיעוד קשה לצפייה | הרצח בנתניה: מתנקש רעול פנים ירה באלכסנדר מטווח אפס",
    "type": "news",
@@ -38598,6 +38619,24 @@
    "updated_ms": 1792341674000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efc6201dbcf41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_segal_181026/MASTER/inbie_segal_181026/inbie_segal_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f3f73d0c5f161a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792648046493,
+   "image": "https://img.mako.co.il/2026/10/22/SHIR_FLIGHTS_221026_1400_1792646477879_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792646484000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מתכננים חופשה ב-2027? תתכוננו לשלם יותר על הטיסות",
+   "type": "news",
+   "updated_ms": 1792646460000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f3f73d0c5f161a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/SHIR_FLIGHTS_221026/MASTER/SHIR_FLIGHTS_221026/SHIR_FLIGHTS_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f9aff48c64d51a1027.htm": {
    "author": "חדשות",
@@ -101253,7 +101292,8 @@
    "published_ms": 1792506677000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הלכה ברחוב - וחטפה זרנוק מים לפנים: רגע חריג במחאה האלימה בבולוניה שבאיטליה",
    "type": "mivzakim",
@@ -101368,7 +101408,8 @@
    "published_ms": 1792528933000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מסוכן: ילדה בת 3 נותרה תלויה מחוץ לחלון בניין גבוה - והשכנים אילתרו פתרון שהציל אותה | צפו",
    "type": "mivzakim",
