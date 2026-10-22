@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2517f5accc161a1027.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-ff54c42144851a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16931,7 +16931,8 @@
    "importance": 1,
    "published_ms": 1792613465000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "אוכל"
    ],
    "title": "אלו הפירות שמושכים הכי הרבה זבובים",
    "type": "general",
@@ -38099,7 +38100,7 @@
    "type": "news",
    "updated_ms": 1792643508000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/fix_rinat_usa_221026/fix_rinat_usa_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/fix_m_rinat_usa221026/fix_m_rinat_usa221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8626061a14f51a1027.htm": {
    "author": "חדשות",
@@ -38411,7 +38412,7 @@
    ],
    "title": "האירוע המזעזע בבסיס הטירונים: חייל העיף חתול מעל לגדר - וכולם דרשו להדיח אותו",
    "type": "news",
-   "updated_ms": 1792596660000,
+   "updated_ms": 1792645320000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cf69bafcfbe51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/rinat_cat_211026/MASTER/rinat_cat_211026_m/rinat_cat_211026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -78051,6 +78052,23 @@
    "updated_ms": 1792572120000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-d39b3b2f65451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/POLISHUK_EP16/MASTER/POLISHUK_EP16/POLISHUK_EP16_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-ff54c42144851a1027.htm": {
+   "author": "פולישוק",
+   "date_source": "page-jsonld",
+   "description": "פולישוק פרק 17: אחרי ההסתבכות בריאיון, קוזו דורש מתקומה לשמור על פולישוק - ולדווח לו על כל צעד שלו. כשהיא מסרבת להיות המלשינה שלו, הוא שולף פרטים מעברה ומבהיר ששיתוף הפעולה הזה לא ממש נתון לבחירתה. תקומה נשארת עם הזעם, ואת נאום ההתפטרות היא בינתיים משמיעה רק למראה.",
+   "duration_s": 124,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1792645946468,
+   "image": "https://img.mako.co.il/2026/10/20/POLISHUK_EP17_1400_1792482468355_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792482475000,
+   "sections": [],
+   "title": "פולישוק פרק 17: דוברת או שטינקרית?",
+   "type": "series",
+   "updated_ms": 1792482475000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-ff54c42144851a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/POLISHUK_EP17/MASTER/POLISHUK_EP17/POLISHUK_EP17_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m09_w03/shorts-84f82fb2553b0a1027.htm": {
    "author": "מתכונים",
