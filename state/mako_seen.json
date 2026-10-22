@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792665448738,
+ "last_run_ms": 1792665748657,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9906,6 +9906,18 @@
    "published_ms": 1792652280000,
    "section": "ספורט",
    "title": "ראשי טבריה שוחררו למעצר בית. אלו התנאים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b1805c5292361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792665748657,
+   "content_type": "article",
+   "first_seen_ms": 1792665748657,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792665300000,
+   "section": "ספורט",
+   "title": "עמדת אסף רפפורט בנוגע לרכישת קבוצת ספורט"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b235ab3b05131a1026.htm": {
    "check_attempts": 1,
@@ -23549,6 +23561,18 @@
    "section": "בריאות",
    "title": "ההורים חשבו שזה שיניים - התינוק היה בסכנה"
   },
+  "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792665626728,
+   "content_type": "article",
+   "first_seen_ms": 1792665626728,
+   "indexable": true,
+   "indexnow_ms": 1792665626728,
+   "published_ms": 1792664880000,
+   "section": "",
+   "title": "בזמן שקטף לימונים: נער בן 16 הוכש בידי נחש צפע בגולן"
+  },
   "https://www.mako.co.il/health-news/Article-f29fe92ba8931a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -32571,7 +32595,7 @@
    "indexnow_ms": 1792651106729,
    "published_ms": 1792650660000,
    "section": "פלילים",
-   "title": "הבקשה החריגה של ניבי זגורי בכלא - והתשובה שקיבל"
+   "title": "\"נדבך מרכזי ביכולתו להתמודד עם מצבו\""
   },
   "https://www.mako.co.il/men-men_news/Article-dcfab1dedd1e0a1026.htm": {
    "check_attempts": 1,
