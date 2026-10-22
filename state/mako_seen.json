@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792666348616,
+ "last_run_ms": 1792666648599,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23571,7 +23571,7 @@
    "indexnow_ms": 1792665626728,
    "published_ms": 1792664880000,
    "section": "",
-   "title": "בזמן שקטף לימונים: נער בן 16 הוכש בידי נחש צפע בגולן"
+   "title": "נחש הכיש את הנער בגולן - וההחלטה שקיבל הצילה את חייו"
   },
   "https://www.mako.co.il/health-news/Article-f29fe92ba8931a1026.htm": {
    "check_attempts": 1,
@@ -25204,6 +25204,18 @@
    "published_ms": 1792056900000,
    "section": "HIX",
    "title": "28 ילדים נהרגו באסון הקטלני, ועשרות נפצעו"
+  },
+  "https://www.mako.co.il/hix-special/Article-5570adeb83361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792666648599,
+   "content_type": "article",
+   "first_seen_ms": 1792666648599,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792666500000,
+   "section": "HIX",
+   "title": "הגיע להתפייס עם האקסית שלו – ונרצח בדירתה"
   },
   "https://www.mako.co.il/hix-special/Article-571ad77b76d51a1026.htm": {
    "check_attempts": 1,
@@ -38740,6 +38752,18 @@
    "published_ms": 1791185220000,
    "section": "צבא וביטחון",
    "title": "בלב מוסקבה: לוויין חשף מה רוסיה ניסתה להסתיר"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-49355c5292361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792666648599,
+   "content_type": "article",
+   "first_seen_ms": 1792666648599,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792665900000,
+   "section": "צבא וביטחון",
+   "title": "מכה לאיראן: צינור החמצן שסגרו מדינות באירופה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-49e85fc50dd41a1027.htm": {
    "check_attempts": 1,
