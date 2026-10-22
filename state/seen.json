@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5968835630361a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f60efbadcf261a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7e0567757f261a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8f96e921ed261a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-afa4514efc261a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21726,6 +21725,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-acb5fac1c7261a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_trump_221026_m/MASTER/rinat_trump_221026_m/rinat_trump_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-afa4514efc261a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "\"טן מום\" בסרטון חדש שבו היא חושפת שבזמן שיצאה מארוחה עם חברים, סוכני משטרת ההגירה עצרו אותה ותחקרו אותה אם היא אזרחית ארה\"ב. והסיבה? לדבריה, השיזוף הקיצוני שלה גרם להם לחשוב שהיא מהגרת בלתי חוקית, והם כמעט שלפו אזיקים לפני שהבינו את הטעות.",
+   "duration_s": 34,
+   "first_seen_ms": 1792663045830,
+   "image": "https://img.mako.co.il/2026/10/22/rinat_tan_221026_m_1400_1792659570231_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792659577000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "בגלל השיזוף הקיצוני: חושפת שסוכני ההגירה כמעט עצרו אותה באזיקים",
+   "type": "general",
+   "updated_ms": 1792659577000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-afa4514efc261a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_tan_221026/MASTER/rinat_tan_221026_m/rinat_tan_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-b8b7b325e6451a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -38567,6 +38584,25 @@
    "updated_ms": 1792581060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8f270907cdd51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/alice_211026_saar/MASTER/alice_211026_saar/alice_211026_saar_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8f96e921ed261a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "בצפת החליפו את פחי האשפה, והחולדות שמנסות להגיע לשאריות נתקלות באתגר חדש: קפיצות אל הפח שלא ממש מצליחות.",
+   "duration_s": 13,
+   "first_seen_ms": 1792663045830,
+   "image": "https://img.mako.co.il/2026/10/22/SHIR_MOUSE_221026_FIX_1400_1792661723194_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792661080000,
+   "sections": [
+    "הכי Vיראלים",
+    "רק בישראל"
+   ],
+   "title": "החולדה מזנקת אל הפח - ומחמיצה בענק: התושבים בצפת מתעדים",
+   "type": "news",
+   "updated_ms": 1792661640000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8f96e921ed261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/SHIR_MOUSE_221026_FIX/SHIR_MOUSE_221026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm": {
    "author": "חדשות",
