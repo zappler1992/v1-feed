@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d02b989dfd161a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14621,6 +14621,24 @@
    "updated_ms": 1792524280000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cbb64f192ba51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17784_20102026072249/M_Celebs_17784_20102026072249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d02b989dfd161a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "גם אתם מסתכלים על הבחירות ולא ממש מבינים מה קורה פה? גייסנו את יעל ענבר לעשות לכם סדר",
+   "duration_s": 146,
+   "first_seen_ms": 1792644146448,
+   "image": "https://img.mako.co.il/2026/10/22/M_Tarbut_17877_22102026043424_1400_1792643803737_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792643810000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "גם אתם מסתכלים על הבחירות ולא ממש מבינים מה קורה פה? גייסנו את יעל ענבר לעשות לכם סדר",
+   "type": "mivzakim",
+   "updated_ms": 1792643810000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d02b989dfd161a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17877_22102026043424/M_Tarbut_17877_22102026043424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d1ac061a14f51a1027.htm": {
    "author": "עדכוני בידור",
@@ -38070,18 +38088,18 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "דיווח דרמטי בניו יורק טיימס: ישראל וארה\"ב השלימו תוכניות לתקיפה באיראן אחרי בחירות האמצע באמריקה",
    "duration_s": 51,
    "first_seen_ms": 1792643846442,
    "image": "https://img.mako.co.il/2026/10/22/m_rinat_usaisrael_221026_1400_1792643502013_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792643508000,
    "sections": [],
-   "title": "",
+   "title": "ישראל וארה\"ב השלימו תוכניות לתקיפה באיראן אחרי בחירות האמצע באמריקה",
    "type": "news",
    "updated_ms": 1792643508000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_usaisrael_221026/MASTER/m_rinat_usaisrael_221026/m_rinat_usaisrael_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/fix_rinat_usa_221026/fix_rinat_usa_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8626061a14f51a1027.htm": {
    "author": "חדשות",
