@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792642349208,
+ "last_run_ms": 1792642650145,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37145,6 +37145,18 @@
    "section": "גאווה",
    "title": "התפתחות משמעותית בפרשת המשפיען שנרצח"
   },
+  "https://www.mako.co.il/pride-news/Article-27bace7734f51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/culture-articles/Article-27bace7734f51a1026.htm",
+   "checked_ms": 1792642587229,
+   "content_type": "article",
+   "first_seen_ms": 1792642587229,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792599960000,
+   "section": "גאווה",
+   "title": "הבשורה המרגשת של ראש ממשלת הולנד ובן זוגו"
+  },
   "https://www.mako.co.il/pride-news/Article-29ddc85033201a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45338,6 +45350,18 @@
    "published_ms": 1791465000000,
    "section": "קשת 12",
    "title": "אחרי הפרידה: \"לא יודעת אם מוכנה לדייטים\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-ede0619b33e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792642587229,
+   "content_type": "article",
+   "first_seen_ms": 1792642587229,
+   "indexable": true,
+   "indexnow_ms": 1792642587229,
+   "published_ms": 1792642320000,
+   "section": "קשת 12",
+   "title": "\"זה מאוד עצוב, היא חיכתה שזה יעלה לשידור\""
   },
   "https://www.mako.co.il/tv-the_masked_singer": {
    "check_attempts": 1,
