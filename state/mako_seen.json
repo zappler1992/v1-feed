@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792653749426,
+ "last_run_ms": 1792654049395,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14895,7 +14895,7 @@
    "indexnow_ms": 1792652786872,
    "published_ms": 1792652460000,
    "section": "תרבות tvbee",
-   "title": "הכוכב היהודי: \"סיכנתי את חיי בעשיית הסרט\""
+   "title": "\"סיכנתי את חיי בעשיית הסרט החדש\""
   },
   "https://www.mako.co.il/culture-movies/Article-bab3fb0f5dce0a1026.htm": {
    "check_attempts": 1,
@@ -16168,6 +16168,18 @@
    "published_ms": 1792490880000,
    "section": "",
    "title": "סולחה? פחות: גל רובין לא צחקה מהמהלך של רפאלה טווינה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-99c1269a94261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792653866929,
+   "content_type": "article",
+   "first_seen_ms": 1792653866929,
+   "indexable": true,
+   "indexnow_ms": 1792653866929,
+   "published_ms": 1792653480000,
+   "section": "סלבס",
+   "title": "\"אני לא אפגע באף חיה. זה לא מזיק ולא רעיל\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-9d5c5ffddef01a1027.htm": {
    "check_attempts": 1,
@@ -28312,6 +28324,18 @@
    "published_ms": 1791288060000,
    "section": "",
    "title": "השחקן חושף: \"חתכו והוציאו לי את כל החלק הקרוע\""
+  },
+  "https://www.mako.co.il/makoz-news/Article-aa2a6da1e6261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792653866929,
+   "content_type": "article",
+   "first_seen_ms": 1792653866929,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792653480000,
+   "section": "",
+   "title": "כוכבת הטיקטוק מגיבה לשמועות"
   },
   "https://www.mako.co.il/makoz-news/Article-ac45c2e3604b0a1027.htm": {
    "check_attempts": 1,
