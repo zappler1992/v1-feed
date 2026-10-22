@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6693af3df8261a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-22T07:51:49+00:00</news:publication_date>
+<news:title>חיילי מחזור מרץ 26 של הגדוד החרדי נצח יהודה סיימו את ההכשרה - ויצטרפו ללחימה בלבנון</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_SHIR_YEHUDA_7620_22102026075011_1400_1792655502561_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-053be92e48261a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2411,14 +2420,5 @@
 <news:title>&quot;נראית כמו שלד&quot;: המראה של דמי מור מעורר סערה בקרב המעריצים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/20/rinat_demimoore_201026_m_1400_1792483153452_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fc1c04cac4851a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-20T07:56:24+00:00</news:publication_date>
-<news:title>קטן ואמיץ: הכלב בני הצליח לגרש דוב מחצר הבית של משפחתו בצפון קרוליינה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/20/V1_DOG_7557_20102026075509_1400_1792482976969_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
