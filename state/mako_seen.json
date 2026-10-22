@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792652249529,
+ "last_run_ms": 1792652549492,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9822,6 +9822,18 @@
    "published_ms": 1792438140000,
    "section": "ספורט",
    "title": "\"כאילו כבש שלושער\". המופע של קראבלי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b0feefa446261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792652549492,
+   "content_type": "article",
+   "first_seen_ms": 1792652549492,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792652280000,
+   "section": "ספורט",
+   "title": "ביתן שוחרר למעצר בית: עדכונים מהדיון"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b235ab3b05131a1026.htm": {
    "check_attempts": 1,
@@ -29943,7 +29955,7 @@
    "indexnow_ms": 1792647867484,
    "published_ms": 1792647000000,
    "section": "",
-   "title": "בן 17 נעצר: \"הרוויח מאות אלפים מסחר בתמונות אינטימיות\""
+   "title": "סחר בתמונות אינטימיות של קטינות והרוויח מאות אלפים"
   },
   "https://www.mako.co.il/men-men_news/Article-5724c5ba9cce0a1026.htm": {
    "check_attempts": 1,
@@ -31708,6 +31720,18 @@
    "published_ms": 1790676840000,
    "section": "פלילים",
    "title": "\"הלקוחות זיהו אותו\": בנה של הזמרת המוכרת ממשיך להסתבך"
+  },
+  "https://www.mako.co.il/men-men_news/Article-c048efa446261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792652549492,
+   "content_type": "article",
+   "first_seen_ms": 1792652549492,
+   "indexable": true,
+   "indexnow_ms": 1792652549492,
+   "published_ms": 1792652100000,
+   "section": "פלילים",
+   "title": "\"פרץ למחשבי המרצים ושינה את ציוניו ל-100\""
   },
   "https://www.mako.co.il/men-men_news/Article-c04b2dae162e0a1026.htm": {
    "check_attempts": 1,
@@ -43370,6 +43394,18 @@
    "published_ms": 1792400040000,
    "section": "חופש",
    "title": "שיטפונות קשים באירופה: טיסות בוטלו ורמת הכוננות עלתה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-ba2fa20a95261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792652549492,
+   "content_type": "article",
+   "first_seen_ms": 1792652549492,
+   "indexable": true,
+   "indexnow_ms": 1792652549492,
+   "published_ms": 1792651440000,
+   "section": "",
+   "title": "באמצע הרחוב בניו יורק: דקרה יהודי - וברחה"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
