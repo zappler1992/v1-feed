@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cbdb38b0a9361a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/22/M_NEWS_17908_22102026123512_1400_1792672591203_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>12 גניבות כלי רכב סוכלו בגזרת מרחב שומרון של מחוז ש״י בשבוע החולף על ידי השוטרים, בהם גם ניסיונות גנ</video:title>
+<video:description>12 גניבות כלי רכב סוכלו בגזרת מרחב שומרון של מחוז ש״י בשבוע החולף על ידי השוטרים, בהם גם ניסיונות גנ</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17908_22102026123512/M_NEWS_17908_22102026123512_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>36</video:duration>
+<video:publication_date>2026-10-22T12:36:37+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f67daaa739361a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/22/V1_SHIR_RABIN_7633_22102026122956_1400_1792672268200_FirstFrame.jpg</video:thumbnail_loc>
@@ -36,8 +52,11 @@
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-fe8baaa739361a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/22/Kim_Zelensky_22102026_1400_1792672209851_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-fe8baaa739361a1027.htm</video:title>
-<video:description></video:description>
+<video:title>הסרטון שמצית סערה: האם זלנסקי ירק לרגלי מלך שוודיה?</video:title>
+<video:description>סרטון מאפריל חוזר להתפשט ברשתות ומעורר סערה: 
+בתיעוד נראה נשיא אוקראינה וולודימיר זלנסקי לצד מלך שוודיה קרל ה־16 גוסטב, כשגולשים טוענים 
+כי המלך סירב ללחוץ את ידו של הנשיא וכי זלנסקי ירק לרגליו בתגובה. 
+אלא שהטענות הללו לא אומתו, והסרטון לבדו אינו מוכיח שהאירוע התרחש כפי שמתואר ברשת.</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/Kim_Zelensky_22102026/MASTER/Kim_Zelensky_22102026/Kim_Zelensky_22102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>22</video:duration>
 <video:publication_date>2026-10-22T12:30:16+00:00</video:publication_date>
@@ -45,6 +64,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>מהעולם</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
