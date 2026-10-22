@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-820d480a61461a1027.htm"
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-03aff396c0361a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7132134cde261a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c661ddf4a1461a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -790,6 +792,24 @@
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w03/shorts-40f8211e0e931a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/14/Amit_SHERKI_60/MASTER/Amit_SHERKI_60_M/Amit_SHERKI_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-03aff396c0361a1027.htm": {
+   "author": "60 שניות",
+   "date_source": "json-publishDate",
+   "description": "גדי איזנקוט ראש מפלגת ישר! הגיע לראיון ב-60 שניות עם ליאל אלי: האם הוא כבר מדמיין את עצמו ראש הממשלה, מה הוא חושב על האמירה של ינון מגל עליו ומה קשה יותר - לנהל קמפיין בחירות או להיות רמטכ\"ל?",
+   "duration_s": 81,
+   "first_seen_ms": 1792681648148,
+   "image": "https://img.mako.co.il/2026/10/22/Amit_GADI2_60_M_1400_1792663569761_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792681200000,
+   "sections": [
+    "60 שניות"
+   ],
+   "title": "60 שניות עם גדי איזנקוט: מהדורת בחירות",
+   "type": "general",
+   "updated_ms": 1792681200000,
+   "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-03aff396c0361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/GADI_60_FIX/GADI_60_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-af5b78cee2e51a1026.htm": {
    "author": "60 שניות",
    "date_source": "json-publishDate",
@@ -1094,6 +1114,22 @@
    "updated_ms": 1792399980000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-5bb1ef4273351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/ACADEMY_OF_LIES_EP14/MASTER/ACADEMY_OF_LIES_EP14/ACADEMY_OF_LIES_EP14_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7132134cde261a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 18: ג׳אד מפתיע את מיה בשיר שכתב עליה, והיא מתקשה להסתיר כמה הוא נוגע בה. בזמן שאשלי מציצה מהדלת, מיה מבינה שהיא כבר ממש בקטע שלו. אבל דווקא כשהוא מתקרב אליה, הסוד מכביד עליה יותר מתמיד - איך תספר לו מי היא באמת?",
+   "duration_s": 155,
+   "first_seen_ms": 1792681648148,
+   "image": "https://img.mako.co.il/2026/10/22/ACADEMY_OF_LIES_EP18_1400_1792661771879_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792681200000,
+   "sections": [],
+   "title": "בקצב השקר פרק 18: שר מהלב בלי לדעת הכל",
+   "type": "series",
+   "updated_ms": 1792681200000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7132134cde261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/ACADEMY_OF_LIES_EP18/MASTER/ACADEMY_OF_LIES_EP18/ACADEMY_OF_LIES_EP18_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7db93f4bf6351a1026.htm": {
    "author": "בקצב השקר",
@@ -77773,6 +77809,24 @@
    "updated_ms": 1792670522000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c6485335d7361a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17904_22102026120048/M_NEWS_17904_22102026120048_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c661ddf4a1461a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נערה בת 12 במצב אנוש לאחר שנפצעה בתאונת דרכים ביצהר",
+   "duration_s": 9,
+   "first_seen_ms": 1792681648148,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17915_22102026030348_1400_1792681491355_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792681498000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נערה בת 12 במצב אנוש לאחר שנפצעה בתאונת דרכים ביצהר",
+   "type": "mivzakim",
+   "updated_ms": 1792681498000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c661ddf4a1461a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17915_22102026030348/M_NEWS_17915_22102026030348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm": {
    "author": "מבזקים",
