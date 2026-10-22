@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792666049576,
+ "last_run_ms": 1792666348616,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27664,6 +27664,18 @@
    "published_ms": 1791352260000,
    "section": "עיצוב הבית",
    "title": "הטריק של המעצבת להוציא את הילדים מהמסך"
+  },
+  "https://www.mako.co.il/living-rooms/kids/Article-9183f96974e41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792666348616,
+   "content_type": "article",
+   "first_seen_ms": 1792666348616,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792665960000,
+   "section": "עיצוב הבית",
+   "title": "יש לכם משטח פעילות כזה בבית? כדאי לדעת את זה"
   },
   "https://www.mako.co.il/living-rooms/kitchen/Article-31ce7a1e297d0a1027.htm": {
    "check_attempts": 1,

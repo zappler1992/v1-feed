@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37c9d9dce1361a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-dfc53f1be1361a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7ddbadeb83361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38968,6 +38969,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-d774273991051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/AVISHAI_HROG_1810/MASTER/AVISHAI_HROG_1810_M/AVISHAI_HROG_1810_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-dfc53f1be1361a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נפתלי בנט הצליח לספק רגע מביך במיוחד אחרי שזרק בטבעיות פליטת פה והצהיר \"כשהייתי רמטכ\"ל\".",
+   "duration_s": 10,
+   "first_seen_ms": 1792666345885,
+   "image": "https://img.mako.co.il/2026/10/22/rinat_benet_221026_m_1400_1792664856847_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792664863000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "הפדיחה של בנט בשידור חי: \"הייתי רמטכ\"ל\"",
+   "type": "news",
+   "updated_ms": 1792664863000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-dfc53f1be1361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_benet_221026/MASTER/rinat_benet_221026_m/rinat_benet_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-e1e3053e56451a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -75895,6 +75914,24 @@
    "updated_ms": 1792574760000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7d33b3a6f5d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_DEAN_211026_MIV/yoav_DEAN_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7ddbadeb83361a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שרפת קוצים פרצה בחורשת עצי אקליפטוס סמוך לצומת חדרה. כוחות הכיבוי פועלים לבלימת התפשטות האש",
+   "duration_s": 9,
+   "first_seen_ms": 1792666345885,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17900_22102026104800_1400_1792666159661_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792666166000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שרפת קוצים פרצה בחורשת עצי אקליפטוס סמוך לצומת חדרה. כוחות הכיבוי פועלים לבלימת התפשטות האש",
+   "type": "mivzakim",
+   "updated_ms": 1792666166000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7ddbadeb83361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17900_22102026104800/M_NEWS_17900_22102026104800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm": {
    "author": "מבזקים",
