@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792700249432,
+ "last_run_ms": 1792700549390,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5408,6 +5408,18 @@
    "published_ms": 1791809640000,
    "section": "ספורט",
    "title": "מרקוס הווארד בדרך החוצה מבאסקוניה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ed77923843561a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792700549390,
+   "content_type": "article",
+   "first_seen_ms": 1792700549390,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792700340000,
+   "section": "ספורט",
+   "title": "הגארד שיגיע? נדוביץ` מועמד למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ef59a3ca4cf31a1027.htm": {
    "check_attempts": 1,
