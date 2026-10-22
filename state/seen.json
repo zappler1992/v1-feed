@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c6485335d7361a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-62ac948aa7361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13369,16 +13369,16 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37c9d9dce1361a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "כבר לא מסתירים: ענבל אדלן ואביתר עוזרי בסרטון ראשון יחד",
+   "description": "כבר לא מסתירים: ענבל אלדן ואביתר עוזרי בסרטון ראשון יחד",
    "duration_s": 10,
    "first_seen_ms": 1792665745865,
    "image": "https://img.mako.co.il/2026/10/22/M_Celebs_17898_22102026102003_1400_1792664479959_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792664486000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "כבר לא מסתירים: ענבל אדלן ואביתר עוזרי בסרטון ראשון יחד",
+   "title": "כבר לא מסתירים: ענבל אלדן ואביתר עוזרי בסרטון ראשון יחד",
    "type": "mivzakim",
    "updated_ms": 1792664486000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-37c9d9dce1361a1027.htm",
@@ -21687,6 +21687,24 @@
    "updated_ms": 1792430102000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-61c0bd3881551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/SHIRA_TISA_191026/MASTER/SHIRA_TISA_191026_M/SHIRA_TISA_191026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-62ac948aa7361a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 24,
+   "first_seen_ms": 1792671146087,
+   "image": "https://img.mako.co.il/2026/10/22/rinat_netflix_221026_m_1400_1792670536846_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792670543000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "נטפליקס מתרסקת",
+   "type": "general",
+   "updated_ms": 1792670543000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-62ac948aa7361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_netflix_221026/MASTER/rinat_netflix_221026_m/rinat_netflix_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-66d9e412ac751a1027.htm": {
    "author": "מהעולם",
