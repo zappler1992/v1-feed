@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792669648753,
+ "last_run_ms": 1792669948814,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1196,6 +1196,18 @@
    "published_ms": 1792624674000,
    "section": "Fashion Forward",
    "title": "מחודדת: את השמלה המעולה של קייט מידלטון גם אתן יכולות לקנות (את הטיארה… פחות)"
+  },
+  "https://fashionforward.mako.co.il/news/322201/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792669948814,
+   "content_type": "post",
+   "first_seen_ms": 1792669948814,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "עדן פינס כבר יודעת מה כולנו נלבש בחורף"
   },
   "https://fashionforward.mako.co.il/news/322206/": {
    "check_attempts": 1,
@@ -19035,7 +19047,7 @@
    "indexnow_ms": null,
    "published_ms": 1792667700000,
    "section": "כסף",
-   "title": "האמת מאחורי ההודעה על המעטפות בקלפיות"
+   "title": "\"המעטפה תיפסל\": האמת על ההודעה שהלחיצה את המצביעים"
   },
   "https://www.mako.co.il/finances-news/Article-0aed7a4c03e51a1027.htm": {
    "check_attempts": 1,
@@ -20415,7 +20427,7 @@
    "indexnow_ms": null,
    "published_ms": 1792662480000,
    "section": "כסף",
-   "title": "אחרי שנים: הבית הכי אגדי בתל אביב נהרס"
+   "title": "זה נגמר: הבית הכי שווה בתל אביב נהרס"
   },
   "https://www.mako.co.il/finances-real-estate/Article-bed01f21cc431a1026.htm": {
    "check_attempts": 1,
@@ -46286,6 +46298,18 @@
    "published_ms": 1791465000000,
    "section": "קשת 12",
    "title": "אחרי הפרידה: \"לא יודעת אם מוכנה לדייטים\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-b30d97c446361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792669948814,
+   "content_type": "article",
+   "first_seen_ms": 1792669948814,
+   "indexable": true,
+   "indexnow_ms": 1792669948814,
+   "published_ms": 1792669260000,
+   "section": "קשת 12",
+   "title": "\"מה נראה לך שאתה עושה? ראיתי שהסתכלת עליה\""
   },
   "https://www.mako.co.il/tv-the_escape/season1-articles/Article-ede0619b33e41a1027.htm": {
    "check_attempts": 1,
