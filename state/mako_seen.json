@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792670548740,
+ "last_run_ms": 1792670848815,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10446,6 +10446,18 @@
    "published_ms": 1792317840000,
    "section": "ספורט",
    "title": "\"יש חקירות סמויות נוספות שמתנהלות כרגע\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-de845335d7361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792670787039,
+   "content_type": "article",
+   "first_seen_ms": 1792670787039,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792670460000,
+   "section": "ספורט",
+   "title": "צפו בשידור: ברדה מדבר לקראת הפועל י-ם"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-df5fde3fb3331a1026.htm": {
    "check_attempts": 1,
@@ -44089,7 +44101,7 @@
    "indexnow_ms": 1792667548845,
    "published_ms": 1792666800000,
    "section": "חופש",
-   "title": "\"לתחקר חיילים ישראלים שבאים לכאן - כבר ברגע הנחיתה\""
+   "title": "\"לחקור ישראלים בחופשה כדי לוודא מעורבות בפשעי מלחמה\""
   },
   "https://www.mako.co.il/travel-news/international/Article-c0e278cee2e51a1026.htm": {
    "check_attempts": 1,
