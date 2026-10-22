@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-c7d6a0dcc1951a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-f863e92e48261a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-dddba20a95261a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a8320fc95d261a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1145,7 +1143,8 @@
    "importance": 1,
    "published_ms": 1792659420000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 17: אימא אוסרת להתאהב",
    "type": "series",
@@ -27244,7 +27243,8 @@
    "importance": 1,
    "published_ms": 1792659480000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "מסודרים"
    ],
    "title": "מסודרים פרק 67: באו למייפל, נשארו לפוקר",
    "type": "series",
@@ -27878,7 +27878,8 @@
    "importance": 1,
    "published_ms": 1792659360000,
    "sections": [
-    "מיקרו סדרות"
+    "מיקרו סדרות",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 36: מתחילה להתאהב",
    "type": "series",
@@ -102247,6 +102248,24 @@
    "updated_ms": 1792475280000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a1031877c9751a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_antisemite_201026_7553_20102026051530/V1_antisemite_201026_7553_20102026051530_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a8320fc95d261a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעודים מצ'ילה: ענן משפך נצפה במאולה, נזק ועצים שקרסו – נבדק חשד לטורנדו",
+   "duration_s": 42,
+   "first_seen_ms": 1792660045762,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_TORNADO_7623_22102026090315_1400_1792659880174_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792659887000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעודים מצ'ילה: ענן משפך נצפה במאולה, נזק ועצים שקרסו – נבדק חשד לטורנדו",
+   "type": "mivzakim",
+   "updated_ms": 1792659887000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a8320fc95d261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_TORNADO_7623_22102026090315/V1_SHIR_TORNADO_7623_22102026090315_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-b1efe0663ed41a1026.htm": {
    "author": "מבזקים מהעולם",
