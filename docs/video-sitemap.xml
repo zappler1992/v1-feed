@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b25fd048ad361a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/22/M_NEWS_17912_22102026014628_1400_1792676865146_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>שריפת יער במספר מוקדים באזור עין אבראהים באום אל פחם ארבעה מטוסי כיבוי הוזנקו למקום</video:title>
+<video:description>שריפת יער במספר מוקדים באזור עין אבראהים באום אל פחם ארבעה מטוסי כיבוי הוזנקו למקום</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17912_22102026014628/M_NEWS_17912_22102026014628_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>14</video:duration>
+<video:publication_date>2026-10-22T13:47:51+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-32cc5b357d361a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/22/M_Tarbut_17911_22102026014438_1400_1792676786590_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בנהר וצמודים במיוחד: ליה אללוף ובן סולטן בסצנת נשיקה לוהטת ב&quot;הבריחה&quot;</video:title>
+<video:description>בנהר וצמודים במיוחד: ליה אללוף ובן סולטן בסצנת נשיקה לוהטת ב&quot;הבריחה&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17911_22102026014438/M_Tarbut_17911_22102026014438_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>59</video:duration>
+<video:publication_date>2026-10-22T13:46:33+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-bd4b5b357d361a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/22/V1_karind_fire_221026_7638_22102026014225_1400_1792676699450_FirstFrame.jpg</video:thumbnail_loc>
@@ -453,6 +485,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -600,6 +633,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -666,6 +700,7 @@
 <video:uploader>חדשות</video:uploader>
 <video:tag>הכי Vיראלים</video:tag>
 <video:tag>רק בישראל</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -683,6 +718,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

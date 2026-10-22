@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-bd4b5b357d361a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b25fd048ad361a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-32cc5b357d361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13329,6 +13330,24 @@
    "updated_ms": 1792321301000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-2ec8120eaae41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17601_18102026110016/M_Celebs_17601_18102026110016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-32cc5b357d361a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בנהר וצמודים במיוחד: ליה אללוף ובן סולטן בסצנת נשיקה לוהטת ב\"הבריחה\"",
+   "duration_s": 59,
+   "first_seen_ms": 1792677146217,
+   "image": "https://img.mako.co.il/2026/10/22/M_Tarbut_17911_22102026014438_1400_1792676786590_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792676793000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בנהר וצמודים במיוחד: ליה אללוף ובן סולטן בסצנת נשיקה לוהטת ב\"הבריחה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792676793000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-32cc5b357d361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17911_22102026014438/M_Tarbut_17911_22102026014438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3549742b1ed51a1026.htm": {
    "author": "עדכוני בידור",
@@ -38422,7 +38441,9 @@
    "image": "https://img.mako.co.il/2026/10/22/Kim_Virus_22102026_1400_1792662466176_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792662474000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "\"מכת תל אביב\": גל הקאות ושלשולים בקרב ילדים",
    "type": "news",
    "updated_ms": 1792662474000,
@@ -38812,7 +38833,8 @@
    "published_ms": 1792661080000,
    "sections": [
     "הכי Vיראלים",
-    "רק בישראל"
+    "רק בישראל",
+    "הכי נצפים עכשיו"
    ],
    "title": "החולדה מזנקת אל הפח - ומחמיצה בענק: התושבים בצפת מתעדים",
    "type": "news",
@@ -39036,7 +39058,8 @@
    "importance": 2,
    "published_ms": 1792667340000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עם תמונה מ-7 באוקטובר: הסטורי החריג והנוקב של רותם סלע נגד הממשלה",
    "type": "news",
@@ -77160,6 +77183,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2388ea3b6e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_MABUL_7473_18102026094916/V1_KARIND_MABUL_7473_18102026094916_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b25fd048ad361a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שריפת יער במספר מוקדים באזור עין אבראהים באום אל פחם ארבעה מטוסי כיבוי הוזנקו למקום",
+   "duration_s": 14,
+   "first_seen_ms": 1792677146217,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17912_22102026014628_1400_1792676865146_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792676871000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שריפת יער במספר מוקדים באזור עין אבראהים באום אל פחם ארבעה מטוסי כיבוי הוזנקו למקום",
+   "type": "mivzakim",
+   "updated_ms": 1792676871000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b25fd048ad361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17912_22102026014628/M_NEWS_17912_22102026014628_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b2661877c9751a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103001,7 +103042,8 @@
    "importance": 0,
    "published_ms": 1792659887000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעודים מצ'ילה: ענן משפך נצפה במאולה, נזק ועצים שקרסו – נבדק חשד לטורנדו",
    "type": "mivzakim",
