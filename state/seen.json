@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8a0100c9ce261a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5968835630361a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f60efbadcf261a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7e0567757f261a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38443,7 +38445,8 @@
    "importance": 2,
    "published_ms": 1792648482000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "האיום בערוץ 14: \"אם נפסיד ויחוקק חוק הנאשם - צריך לשרוף את המדינה\"",
    "type": "news",
@@ -38996,7 +38999,8 @@
    "importance": 2,
    "published_ms": 1792646484000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "מתכננים חופשה ב-2027? תתכוננו לשלם יותר על הטיסות",
    "type": "news",
@@ -75294,6 +75298,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-58fcafa9f3951a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17759_20102026122201/M_NEWS_17759_20102026122201_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5968835630361a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לקראת הבחירות: הרכבת בחינם מיום שני ב-20:00 ועד סוף יום הבחירות, באמצעות כרטיס נייר בלבד",
+   "duration_s": 9,
+   "first_seen_ms": 1792662745836,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_RAKEVET_7625_22102026094823_1400_1792662561700_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792662568000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לקראת הבחירות: הרכבת בחינם מיום שני ב-20:00 ועד סוף יום הבחירות, באמצעות כרטיס נייר בלבד",
+   "type": "mivzakim",
+   "updated_ms": 1792662568000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5968835630361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_RAKEVET_7625_22102026094823/V1_SHIR_RAKEVET_7625_22102026094823_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-5db1f70b40d51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -75784,6 +75806,24 @@
    "updated_ms": 1792385152000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7df9256f27251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_alimot_7498_19102026044444/V1_alimot_7498_19102026044444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7e0567757f261a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חמישה ימים לבחירות: גדי איזנקוט הגיע לכותל המערבי",
+   "duration_s": 17,
+   "first_seen_ms": 1792662745836,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_MIVZAK_7624_22102026094436_1400_1792662354254_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792662361000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חמישה ימים לבחירות: גדי איזנקוט הגיע לכותל המערבי",
+   "type": "mivzakim",
+   "updated_ms": 1792662361000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7e0567757f261a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_MIVZAK_7624_22102026094436/V1_SHIR_MIVZAK_7624_22102026094436_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7f1fca4472551a1027.htm": {
    "author": "מבזקים",
@@ -77989,6 +78029,24 @@
    "updated_ms": 1792389453000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f3113f3a5b251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_Americans_7501_19102026055604/V1_Americans_7501_19102026055604_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f60efbadcf261a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רמת השרון: רוכב קורקינט חשמלי פונה במצב בינוני לאחר תאונת דרכים",
+   "duration_s": 9,
+   "first_seen_ms": 1792662745836,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17896_22102026094533_1400_1792662414233_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792662421000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רמת השרון: רוכב קורקינט חשמלי פונה במצב בינוני לאחר תאונת דרכים",
+   "type": "mivzakim",
+   "updated_ms": 1792662421000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f60efbadcf261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17896_22102026094533/M_NEWS_17896_22102026094533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f72972feca261a1026.htm": {
    "author": "מבזקים",
