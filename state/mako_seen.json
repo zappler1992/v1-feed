@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792663048611,
+ "last_run_ms": 1792663348631,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20309,6 +20309,18 @@
    "section": "נדל\"ן",
    "title": "ב-400 מיליון שקל: כללית תקים מרלו\"ג בבאר שבע"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-bd6efbadcf261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792663348631,
+   "content_type": "article",
+   "first_seen_ms": 1792663348631,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792662480000,
+   "section": "כסף",
+   "title": "זה נגמר: הבית הכי שווה בתל אביב נהרס"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-bed01f21cc431a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23847,7 +23859,7 @@
    "indexnow_ms": 1792658187206,
    "published_ms": 1792657980000,
    "section": "HIX",
-   "title": "\"דג יום הדין\" נפלט לחוף – והבהלה מאסון החלה"
+   "title": "\"דג יום הדין\" נפלט לחוף - וכולם מבוהלים מתרחיש האימים"
   },
   "https://www.mako.co.il/hix-bizarre/Article-577f2c9137111a1026.htm": {
    "check_attempts": 1,
@@ -42890,6 +42902,18 @@
    "published_ms": 1790848020000,
    "section": "",
    "title": "\"שמענו יריות וראינו את נהג המונית מת\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-2f09fbadcf261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792663348631,
+   "content_type": "article",
+   "first_seen_ms": 1792663348631,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792662180000,
+   "section": "חופש",
+   "title": "הגיע הזמן: הסוף לדרישות המעצבנות ב-Airbnb"
   },
   "https://www.mako.co.il/travel-news/international/Article-2fbba14f84c21a1027.htm": {
    "check_attempts": 1,
