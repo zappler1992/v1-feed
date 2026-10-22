@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-7a7cda65d2461a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d6dd9b58c3461a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a0b19b58c3461a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -78258,6 +78259,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4db80b371f51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17849_21102026033634/M_NEWS_17849_21102026033634_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d6dd9b58c3461a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מכים אותו עם אקדח וגונבים שעון בשווי 50 אלף דולר: איש העסקים הישראלי רונן ורד הותקף בלוס אנג'לס",
+   "duration_s": 33,
+   "first_seen_ms": 1792684047138,
+   "image": "https://img.mako.co.il/2026/10/22/V1_karind_LA_7644_22102026033608_1400_1792683460869_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792683467000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מכים אותו עם אקדח וגונבים שעון בשווי 50 אלף דולר: איש העסקים הישראלי רונן ורד הותקף בלוס אנג'לס",
+   "type": "mivzakim",
+   "updated_ms": 1792683467000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d6dd9b58c3461a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_karind_LA_7644_22102026033608/V1_karind_LA_7644_22102026033608_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d797e1422af51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103243,6 +103262,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-9a55a0d175e41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_KARIND_PARIS_7472_18102026094655/V1_KARIND_PARIS_7472_18102026094655_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a0b19b58c3461a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בשידור חי: העיתונאי הציל גבר שטבע עם המכונית בשטפון ענק | הדרמה באוסטרליה",
+   "duration_s": 119,
+   "first_seen_ms": 1792684047138,
+   "image": "https://img.mako.co.il/2026/10/22/V1_karind_australia_7645_22102026034042_1400_1792683757993_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792683764000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בשידור חי: העיתונאי הציל גבר שטבע עם המכונית בשטפון ענק | הדרמה באוסטרליה",
+   "type": "mivzakim",
+   "updated_ms": 1792683764000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a0b19b58c3461a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_karind_australia_7645_22102026034042/V1_karind_australia_7645_22102026034042_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-a1031877c9751a1027.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -103373,7 +103410,7 @@
    ],
    "title": "סופת ברד חריגה בפיניקס, אריזונה: אבני ברד בגודל כדורי גולף ניפצו שמשות וגרמו לנזק כבד",
    "type": "mivzakim",
-   "updated_ms": 1792670022000,
+   "updated_ms": 1792683420000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-cfa2f6d9f6361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_ARIZONA_7631_22102026115158/V1_SHIR_ARIZONA_7631_22102026115158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
