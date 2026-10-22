@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-22T04:31:48+00:00</news:publication_date>
+<news:title>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-8421f5accc161a1027.htm</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/22/m_rinat_usaisrael_221026_1400_1792643502013_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-0522e7f9eb161a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2368,14 +2377,5 @@
 <news:title>אישה בת 60 נפצעה קשה וצעיר בן 21 בינוני בתאונת דרכים בין משאית ושני כלי רכב בכביש 35</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/20/M_NEWS_17728_20102026045426_1400_1792472158547_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-b4c2176c78751a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-20T04:33:36+00:00</news:publication_date>
-<news:title>חריג בגודלו: המשטרה חשפה מצבור אמל&quot;ח ששייך לארגון הפשע אבו לטיף בשטח פתוח מעל הכפר ראמה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/20/M_NEWS_17727_20102026043046_1400_1792470804611_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
