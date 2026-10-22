@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792656148572,
+ "last_run_ms": 1792656448459,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16179,7 +16179,7 @@
    "indexnow_ms": 1792653866929,
    "published_ms": 1792653480000,
    "section": "סלבס",
-   "title": "אירית רחמים: \"לא אפגע באף חיה. זה לא מזיק ולא רעיל\""
+   "title": "אחרי שהצטלמה עם כלב צבוע - אירית רחמים מסבירה את המצב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-9d5c5ffddef01a1027.htm": {
    "check_attempts": 1,
@@ -43033,7 +43033,7 @@
    "indexnow_ms": 1792573349126,
    "published_ms": 1792567140000,
    "section": "חופש",
-   "title": "\"אנחנו או המאפיה\": עוד מדינה באירופה בדרך למתיחות"
+   "title": "המדינה שחוששת ממהומות, ומה צפויה ההשפעה על ישראל"
   },
   "https://www.mako.co.il/travel-news/international/Article-693b2c9137111a1026.htm": {
    "check_attempts": 1,
@@ -43274,6 +43274,18 @@
    "published_ms": 1792469340000,
    "section": "חופש",
    "title": "הבעיה החדשה שמתמודדים איתה בטיסות בארץ"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-925e43b8e5261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792656267094,
+   "content_type": "article",
+   "first_seen_ms": 1792656267094,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792651800000,
+   "section": "חופש",
+   "title": "מדינת הענק בדרך לבחירות: היחס לישראל ישתנה?"
   },
   "https://www.mako.co.il/travel-news/international/Article-9868b24557431a1026.htm": {
    "check_attempts": 1,
