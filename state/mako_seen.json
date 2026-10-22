@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792659164537,
+ "last_run_ms": 1792659448526,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21232,6 +21232,18 @@
    "published_ms": 1792574100000,
    "section": "",
    "title": "שעה ומוכן: תבשיל פרגיות עם קינואה ואטריות"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-cocktails/Recipe-d54bfa525f851a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792659387278,
+   "content_type": "recipe",
+   "first_seen_ms": 1792659387278,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792658880000,
+   "section": "",
+   "title": "גם אתם יכולים להיות מאלה שמכינים מוחיטו בבית"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-dairy_recipes/Recipe-854c85a702531a1026.htm": {
    "check_attempts": 1,
