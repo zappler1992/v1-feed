@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-cee70ac8d6161a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-42dce7f9eb161a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-bc3ae7f9eb161a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14495,6 +14496,24 @@
    "updated_ms": 1792299703000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ba127e2915d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17567_18102026050030/M_Tarbut_17567_18102026050030_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-bc3ae7f9eb161a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עדי אשכנזי זיהתה את דורון מזר בקהל - והזמינה אותו לבמה לשיר \"בללייקה\"",
+   "duration_s": 176,
+   "first_seen_ms": 1792642346461,
+   "image": "https://img.mako.co.il/2026/10/22/M_Tarbut_17874_22102026035855_1400_1792641700145_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792641706000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עדי אשכנזי זיהתה את דורון מזר בקהל - והזמינה אותו לבמה לשיר \"בללייקה\"",
+   "type": "mivzakim",
+   "updated_ms": 1792641706000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-bc3ae7f9eb161a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17874_22102026035855/M_Tarbut_17874_22102026035855_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c0422fc822f41a1027.htm": {
    "author": "עדכוני בידור",
@@ -74347,6 +74366,24 @@
    "updated_ms": 1792395246000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17663_19102026073212/M_NEWS_17663_19102026073212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-42dce7f9eb161a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מתחמם - וזו רק ההתחלה: התחזית המלאה",
+   "duration_s": 52,
+   "first_seen_ms": 1792642346461,
+   "image": "https://img.mako.co.il/2026/10/22/V1_forecast_7609_22102026040500_1400_1792642051738_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792642058000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מתחמם - וזו רק ההתחלה: התחזית המלאה",
+   "type": "mivzakim",
+   "updated_ms": 1792642058000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-42dce7f9eb161a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_forecast_7609_22102026040500/V1_forecast_7609_22102026040500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-432b9718a2d51a1026.htm": {
    "author": "מבזקים",
