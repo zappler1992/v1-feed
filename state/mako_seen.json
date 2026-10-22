@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792657048513,
+ "last_run_ms": 1792657348567,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8010,6 +8010,18 @@
    "published_ms": 1791892020000,
    "section": "ספורט",
    "title": "עשרות אלפי מושבים: חידוש איצטדיוני ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-04e750b8a7261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792657348567,
+   "content_type": "article",
+   "first_seen_ms": 1792657348567,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792654200000,
+   "section": "ספורט",
+   "title": "בלם מכבי חיפה לשעבר: \"אפרוש בסיום העונה\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-05450ce45a621a1026.htm": {
    "check_attempts": 1,
@@ -22229,6 +22241,18 @@
    "section": "",
    "title": "טרגדיה: בן 5 שרכב על קורקינט נדרס למוות"
   },
+  "https://www.mako.co.il/health-news/Article-110bd36df8261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792657227142,
+   "content_type": "article",
+   "first_seen_ms": 1792657227142,
+   "indexable": true,
+   "indexnow_ms": 1792657227142,
+   "published_ms": 1792655100000,
+   "section": "בריאות",
+   "title": "גל שלשולים והקאות: עשרות ילדים סובלים מהתופעה הזאת"
+  },
   "https://www.mako.co.il/health-news/Article-1159a8aaeaf11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -32151,7 +32175,7 @@
    "indexnow_ms": 1792651706751,
    "published_ms": 1792651140000,
    "section": "פלילים",
-   "title": "חשוד בגניבת מיליונים: איש העסקים הוסגר לארץ"
+   "title": "הוסגר מהמדינה האירופית: איש העסקים הישראלי מסתבך"
   },
   "https://www.mako.co.il/men-men_news/Article-ce2e05ab7a4d0a1026.htm": {
    "check_attempts": 1,
@@ -43573,7 +43597,7 @@
    "indexnow_ms": 1792652549492,
    "published_ms": 1792651440000,
    "section": "",
-   "title": "באמצע הרחוב בניו יורק: דקרה יהודי - וברחה"
+   "title": "באמצע הרחוב: דקרה אדם יהודי בחו\"ל - וברחה"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
@@ -47150,6 +47174,18 @@
    "published_ms": 1792311720000,
    "section": "",
    "title": "נתניהו מגנה את דבריו של ינון מגל: \"לא ראוי\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-f34ea1492a261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792657227142,
+   "content_type": "article",
+   "first_seen_ms": 1792657227142,
+   "indexable": true,
+   "indexnow_ms": 1792657227142,
+   "published_ms": 1792656840000,
+   "section": "תרבות tvbee",
+   "title": "\"החרא הזה\": העימות בין השחקן לכתבת בפרמיירה"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-f7618822d7931a1026.htm": {
    "check_attempts": 1,
