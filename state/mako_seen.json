@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792666948830,
+ "last_run_ms": 1792667248597,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1207,7 +1207,7 @@
    "indexnow_ms": null,
    "published_ms": null,
    "section": "אופנה",
-   "title": "קים חגגה יום הולדת, והשמלה שלה הצליחה לבלבל אותנו"
+   "title": "קים קרדשיאן חגגה יום הולדת, והשמלה שלה שיגעה אותנו"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -1916,6 +1916,18 @@
    "published_ms": 1792252140000,
    "section": "ספורט",
    "title": "שרון אברהמי פוטר במפתיע מהפועל העמק"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-b302a1fa14361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792667248597,
+   "content_type": "article",
+   "first_seen_ms": 1792667248597,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792667040000,
+   "section": "ספורט",
+   "title": "מועד הבכורה המחודשת של בלאט בהפועל ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-b368354d19451a1027.htm": {
    "check_attempts": 1,
@@ -20367,7 +20379,7 @@
    "indexnow_ms": null,
    "published_ms": 1792662480000,
    "section": "כסף",
-   "title": "סופה של אגדה: הבית הכי נוסטלגי בתל אביב נהרס"
+   "title": "אחרי שנים: הבית הכי אגדי בתל אביב נהרס"
   },
   "https://www.mako.co.il/finances-real-estate/Article-bed01f21cc431a1026.htm": {
    "check_attempts": 1,
@@ -23823,7 +23835,7 @@
    "indexnow_ms": 1792650449236,
    "published_ms": 1792650300000,
    "section": "HIX",
-   "title": "בן 24 מת בגלל צ'ורוס. עכשיו התברר מה שמו במנה"
+   "title": "בן 24 מת בגלל צ'ורוס. כעת התברר מה שמו במנה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-3849c55e26351a1026.htm": {
    "check_attempts": 1,
@@ -40777,7 +40789,7 @@
    "indexnow_ms": null,
    "published_ms": 1792661640000,
    "section": "",
-   "title": "בנט מתחזק, הליכוד נחלש: תמונת המצב חמישה ימים לבחירות"
+   "title": "בנט עולה, הליכוד בקידומת 1: תמונת המצב לקראת הבחירות"
   },
   "https://www.mako.co.il/special-mako-news/Article-5e3716e440141a1027.htm": {
    "check_attempts": 1,
