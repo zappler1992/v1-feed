@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792669048706,
+ "last_run_ms": 1792669348738,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42038,6 +42038,18 @@
    "published_ms": 1790233920000,
    "section": "SENSES",
    "title": "גייסו 400 מיליון ושווים כבר 6.4 מיליארד דולר"
+  },
+  "https://www.mako.co.il/special-senses/living/Article-bd6efbadcf261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/finances-real-estate/Article-bd6efbadcf261a1026.htm",
+   "checked_ms": 1792669226903,
+   "content_type": "article",
+   "first_seen_ms": 1792669226903,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792662480000,
+   "section": "SENSES",
+   "title": "זה נגמר: הבית הכי שווה בתל אביב נהרס"
   },
   "https://www.mako.co.il/special-senses/living/Article-eb80054f79b01a1026.htm": {
    "check_attempts": 1,
