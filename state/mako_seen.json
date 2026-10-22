@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792673248772,
+ "last_run_ms": 1792673548823,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2036,6 +2036,18 @@
    "published_ms": 1792658100000,
    "section": "ספורט",
    "title": "ננו גינזבורג במו\"מ לתפקיד מאמן הנבחרת"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/israel-national-q4_2026/Article-8fcde87b7a361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792673548823,
+   "content_type": "article",
+   "first_seen_ms": 1792673548823,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792673340000,
+   "section": "ספורט",
+   "title": "\"קטש רוצה נבחרת\". זו הסיבה שזה לא אפשרי"
   },
   "https://www.mako.co.il/Sports-basketball-il/israel-national-q4_2026/Article-f71cca8f5b261a1026.htm": {
    "check_attempts": 1,
@@ -14355,7 +14367,7 @@
    "indexnow_ms": 1792663587587,
    "published_ms": 1792663380000,
    "section": "תרבות tvbee",
-   "title": "תמורת מאות אלפי שקלים: הג'וב החדש של יובל רפאל"
+   "title": "תמורת סכום ענק: הג'וב החלומי של הנציגה לאירוויזיון"
   },
   "https://www.mako.co.il/culture-articles/Article-60640897e83f0a1026.htm": {
    "check_attempts": 1,
