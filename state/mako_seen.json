@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792699650536,
+ "last_run_ms": 1792699950796,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5336,6 +5336,18 @@
    "published_ms": 1791984840000,
    "section": "ספורט",
    "title": "ים מדר בספק לוולנסיה. זו הפציעה שספג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-dfc60b4d02561a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792699950796,
+   "content_type": "article",
+   "first_seen_ms": 1792699950796,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792699560000,
+   "section": "ספורט",
+   "title": "הכי גרועה ביורוליג: הנתון שהפיל את מכבי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-e107158ed9f51a1027.htm": {
    "check_attempts": 1,
