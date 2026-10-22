@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c9e06da1e6261a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9e63d62ca6261a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-ceaaa20a95261a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ec36da1e6261a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21666,7 +21664,8 @@
    "importance": 1,
    "published_ms": 1792651492000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "חדשות"
    ],
    "title": "אגדת הקאנטרי ג'ון אנדרסון הלך לעולמו בגיל 71",
    "type": "general",
@@ -74821,6 +74820,24 @@
    "updated_ms": 1792296093000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ea3127280d41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/V1_WEATHER_7450_18102026035955/V1_WEATHER_7450_18102026035955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ec36da1e6261a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תושב הגליל בן 44 נעצר בחשד להחזקת יותר מ-100 שקיות סמים להפצה | צילום: דוברות המשטרה",
+   "duration_s": 9,
+   "first_seen_ms": 1792653746647,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_HASHAD_7618_22102026071506_1400_1792653380886_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792653387000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תושב הגליל בן 44 נעצר בחשד להחזקת יותר מ-100 שקיות סמים להפצה | צילום: דוברות המשטרה",
+   "type": "mivzakim",
+   "updated_ms": 1792653387000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ec36da1e6261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_HASHAD_7618_22102026071506/V1_SHIR_HASHAD_7618_22102026071506_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ecda60531e41a1027.htm": {
    "author": "מבזקים",
