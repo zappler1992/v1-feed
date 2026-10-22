@@ -13,6 +13,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>סלבס</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -48,6 +49,22 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/22/LIRON_NOAMLAPP_22102026_1400_1792665440475_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>השחקנית נועם לוגסי משתפת: &quot;הכרנו באפליקציה, לא לאבד אמונה! אין ייאוש בעולם כלל!&quot;</video:title>
+<video:description>אחרי שיצאה בעבר עם נשים והתארסה, השחקנית נועם לוגסי חושפת בקבוצת הפייסבוק סש״א: ״הכרנו באפליקציה, לא לאבד אמונה! אין ייאוש בעולם כלל!!״.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LIRON_NOAMLAPP_22102026/MASTER/LIRON_NOAMLAPP_22102026/LIRON_NOAMLAPP_22102026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>32</video:duration>
+<video:publication_date>2026-10-22T10:38:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
+<video:tag>סלבס</video:tag>
 </video:video>
 </url>
 <url>

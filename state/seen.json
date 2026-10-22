@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c867a1fa14361a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-3046adeb83361a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5559,6 +5558,24 @@
    "updated_ms": 1792603024000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-585af88d27f51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/inbalomri211026/MASTER/inbalomri211026m/inbalomri211026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "אחרי שיצאה בעבר עם נשים והתארסה, השחקנית נועם לוגסי חושפת בקבוצת הפייסבוק סש״א: ״הכרנו באפליקציה, לא לאבד אמונה! אין ייאוש בעולם כלל!!״.",
+   "duration_s": 32,
+   "first_seen_ms": 1792667845983,
+   "image": "https://img.mako.co.il/2026/10/22/LIRON_NOAMLAPP_22102026_1400_1792665440475_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792665480000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "השחקנית נועם לוגסי משתפת: \"הכרנו באפליקציה, לא לאבד אמונה! אין ייאוש בעולם כלל!\"",
+   "type": "general",
+   "updated_ms": 1792665480000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LIRON_NOAMLAPP_22102026/MASTER/LIRON_NOAMLAPP_22102026/LIRON_NOAMLAPP_22102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-6549263330f41a1026.htm": {
    "author": "סלבס",
@@ -38909,7 +38926,9 @@
    "image": "https://img.mako.co.il/2026/10/22/LIRON_ROTS_22102026_1400_1792667233154_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792667340000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "עם תמונה מ-7 באוקטובר: הסטורי החריג והנוקב של רותם סלע נגד הממשלה",
    "type": "news",
    "updated_ms": 1792667340000,
