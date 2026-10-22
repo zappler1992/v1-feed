@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792681952047,
+ "last_run_ms": 1792682249966,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11178,6 +11178,18 @@
    "published_ms": 1792611240000,
    "section": "ספורט",
    "title": "\"בית ספר לכדורגל\". צפו בבישול של אודגור"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-32296b19b2461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792682187254,
+   "content_type": "article",
+   "first_seen_ms": 1792682187254,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792682040000,
+   "section": "ספורט",
+   "title": "מאמין בעצמו: צעדי לאמין לטקס כדור הזהב"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-3967c0dc9ca51a1027.htm": {
    "check_attempts": 1,
@@ -32151,7 +32163,7 @@
    "indexnow_ms": 1792650149379,
    "published_ms": 1792649640000,
    "section": "פלילים",
-   "title": "ניסיון חיסול בראשל\"צ: מטען חבלה אותר באופנוע"
+   "title": "רגע מפיצוץ: מטען החבלה שהתגלה באופנוע במרכז הארץ"
   },
   "https://www.mako.co.il/men-men_news/Article-b02e9f6168ac0a1027.htm": {
    "check_attempts": 1,
@@ -43825,7 +43837,7 @@
    "indexnow_ms": 1792677627582,
    "published_ms": 1792672260000,
    "section": "חופש",
-   "title": "עוקץ ונוכלות: כך הפך יעד מהיפים בעולם למלכודת תיירים"
+   "title": "עוקצים ונוכלים: היעד הלוהט בעולם מסתבך"
   },
   "https://www.mako.co.il/travel-news/international/Article-70a6415c8bd31a1027.htm": {
    "check_attempts": 1,
