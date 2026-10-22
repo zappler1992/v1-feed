@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792664548682,
+ "last_run_ms": 1792664848791,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36101,6 +36101,18 @@
    "section": "דיגיטל",
    "title": "\"אנחנו רוצים להיות הישראלים הראשונים שעושים את זה\""
   },
+  "https://www.mako.co.il/nexter-news/Article-1e9efbadcf261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792664666687,
+   "content_type": "article",
+   "first_seen_ms": 1792664666687,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792664220000,
+   "section": "דיגיטל",
+   "title": "הסטארטאפ שמזהה את המחלה ש-10% סובלים ממנה"
+  },
   "https://www.mako.co.il/nexter-news/Article-207e65fb703d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37071,7 +37083,7 @@
    "indexnow_ms": 1792651349343,
    "published_ms": 1792650300000,
    "section": "דיגיטל",
-   "title": "70% מהאינטרנט בסכנה: מערך הסייבר קורא לבצע עדכון קריטי"
+   "title": "חולשות חמורות התגלו - ו-70% מהאינטרנט בסכנה"
   },
   "https://www.mako.co.il/nexter-news/Article-c20d96dd63621a1027.htm": {
    "check_attempts": 1,
@@ -40670,6 +40682,18 @@
    "published_ms": 1791997080000,
    "section": "",
    "title": "הודה בחקירה: הפגישה של אוריך עם הבכיר הקטארי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5d19a1492a261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792664786650,
+   "content_type": "article",
+   "first_seen_ms": 1792664786650,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792661640000,
+   "section": "",
+   "title": "בנט מתחזק, הליכוד נחלש: תמונת המצב חמישה ימים לבחירות"
   },
   "https://www.mako.co.il/special-mako-news/Article-5e3716e440141a1027.htm": {
    "check_attempts": 1,
