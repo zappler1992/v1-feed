@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-3e495b357d361a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-00284f333f361a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-c37932761f361a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68d04f333f361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38407,7 +38405,7 @@
    "sections": [],
    "title": "פרשת ראש העיר כפר סבא ורעייתו: פרטים חדשים",
    "type": "news",
-   "updated_ms": 1792677960000,
+   "updated_ms": 1792679040000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-3e495b357d361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/MAYA_KFARSABA_221026/MASTER/MAYA_KFARSABA_221026/MAYA_KFARSABA_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -76022,6 +76020,24 @@
    "updated_ms": 1792502638000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-67bea38357951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_mada_7564_20102026012223/V1_karind_mada_7564_20102026012223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68d04f333f361a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראשוני: התקבל דיווח על ירי במרחב חומש שבחטיבת שומרון. כוחות צה\"ל קפצו לנקודה",
+   "duration_s": 9,
+   "first_seen_ms": 1792679246320,
+   "image": "https://img.mako.co.il/2026/10/22/V1_KARIND_HOMASH_7640_22102026021711_1400_1792678710626_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792678717000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראשוני: התקבל דיווח על ירי במרחב חומש שבחטיבת שומרון. כוחות צה\"ל קפצו לנקודה",
+   "type": "mivzakim",
+   "updated_ms": 1792678717000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68d04f333f361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_KARIND_HOMASH_7640_22102026021711/V1_KARIND_HOMASH_7640_22102026021711_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68f86da1e6261a1026.htm": {
    "author": "מבזקים",

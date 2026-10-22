@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792678649676,
+ "last_run_ms": 1792679249204,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27089,6 +27089,18 @@
    "section": "עיצוב הבית",
    "title": "נס ציונה: זו אחת הכניסות הכי יפות לבית שראינו"
   },
+  "https://www.mako.co.il/living-architecture/local-renovation/Article-8e59f4d557a51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792679067666,
+   "content_type": "article",
+   "first_seen_ms": 1792679067666,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792659360000,
+   "section": "עיצוב הבית",
+   "title": "הדופלקס שבו כולם נשארים לישון בו ובצדק"
+  },
   "https://www.mako.co.il/living-architecture/local-renovation/Article-995c2b82c21f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27256,6 +27268,18 @@
    "published_ms": 1791187560000,
    "section": "עיצוב הבית",
    "title": "תציצו: הלול ההיסטורי שהפך לבית היסטרי בירושלים"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-e7839ae81c851a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792679067666,
+   "content_type": "article",
+   "first_seen_ms": 1792679067666,
+   "indexable": true,
+   "indexnow_ms": 1792679067666,
+   "published_ms": 1792659060000,
+   "section": "עיצוב הבית",
+   "title": "המעצבת מכפר קאסם בונה את הבתים הכי יפים במגזר"
   },
   "https://www.mako.co.il/living-architecture/local/Article-fa2f960ba5e31a1026.htm": {
    "check_attempts": 1,
@@ -33783,7 +33807,7 @@
    "indexnow_ms": null,
    "published_ms": 1792676280000,
    "section": "מוזיקה",
-   "title": "תיעוד מטריד: התקיפה האלימה מחוץ להופעה של ליהי טולדנו"
+   "title": "תיעוד חדש ומטריד מהתקיפה האלימה בנמל יפו"
   },
   "https://www.mako.co.il/music-news/Article-306fe778a8e31a1027.htm": {
    "check_attempts": 1,
@@ -37132,6 +37156,18 @@
    "published_ms": 1791804240000,
    "section": "דיגיטל",
    "title": "\"גוגל הרוסית\" הותקפה ופתאום האינטרנט התנקה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-8ffb5b357d361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792679067666,
+   "content_type": "article",
+   "first_seen_ms": 1792679067666,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792678440000,
+   "section": "דיגיטל",
+   "title": "מיליונים נחשפו לתכנים שלה - ואז התגלתה האמת"
   },
   "https://www.mako.co.il/nexter-news/Article-94c799094df31a1026.htm": {
    "check_attempts": 1,
@@ -43789,7 +43825,7 @@
    "indexnow_ms": 1792677627582,
    "published_ms": 1792672260000,
    "section": "חופש",
-   "title": "עוקצים ונוכלים: היעד הלוהט בעולם מסתבך"
+   "title": "עוקץ ונוכלות: כך הפך יעד מהיפים בעולם למלכודת תיירים"
   },
   "https://www.mako.co.il/travel-news/international/Article-70a6415c8bd31a1027.htm": {
    "check_attempts": 1,
