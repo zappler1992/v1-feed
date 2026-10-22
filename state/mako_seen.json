@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792668748725,
+ "last_run_ms": 1792669048706,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4436,6 +4436,18 @@
    "published_ms": 1791923640000,
    "section": "ספורט",
    "title": "צפו: שחקן ברצלונה בעט במדר ולא נענש"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-7a0afc3e36361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792668986975,
+   "content_type": "article",
+   "first_seen_ms": 1792668986975,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792668780000,
+   "section": "ספורט",
+   "title": "הפועל מועמדת לזכיה: עדכון היחסים ביורליג"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-7c34c6c415af0a1026.htm": {
    "check_attempts": 1,
@@ -19013,6 +19025,18 @@
    "section": "כסף",
    "title": "משפחות רבות בישראל עלולות להפסיד לא מעט כסף"
   },
+  "https://www.mako.co.il/finances-news/Article-07b21a9cb5361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792668986975,
+   "content_type": "article",
+   "first_seen_ms": 1792668986975,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792667700000,
+   "section": "כסף",
+   "title": "האמת מאחורי ההודעה על המעטפות בקלפיות"
+  },
   "https://www.mako.co.il/finances-news/Article-0aed7a4c03e51a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23751,7 +23775,7 @@
    "indexnow_ms": null,
    "published_ms": 1792654860000,
    "section": "HIX",
-   "title": "\"הגיע מממד אחר\": יצור מסתורי צולם במקסיקו ועורר בהלה"
+   "title": "\"הגיע מממד אחר\": הסיוט החדש של תושבי מקסיקו"
   },
   "https://www.mako.co.il/hix-bizarre/Article-2020772b357f0a1027.htm": {
    "check_attempts": 1,
@@ -43717,7 +43741,7 @@
    "indexnow_ms": null,
    "published_ms": 1792651800000,
    "section": "חופש",
-   "title": "ביום ראשון נדע: היחס לישראל במדינת הענק הולך להשתנות?"
+   "title": "מדינת הענק בדרך לבחירות: היחס לישראל ישתנה?"
   },
   "https://www.mako.co.il/travel-news/international/Article-9868b24557431a1026.htm": {
    "check_attempts": 1,
