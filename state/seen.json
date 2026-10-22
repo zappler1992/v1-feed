@@ -1,9 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-73e3205be0561a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-cdb0205be0561a1027.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-b455205be0561a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3b4a3ede1561a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d853a3ede1561a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-db000b4d02561a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15289,6 +15289,42 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d814258cf5051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17634_18102026072007/M_Tarbut_17634_18102026072007_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d853a3ede1561a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "דודו אהרון מארח את עדן מאירי בהיכל מנורה וביחד מבצעים את הלהיט שלהם - \"בחלומות שלנו\"",
+   "duration_s": 40,
+   "first_seen_ms": 1792699346612,
+   "image": "https://img.mako.co.il/2026/10/22/M_Music_17926_22102026075324_1400_1792698925655_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792698931000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "דודו אהרון מארח את עדן מאירי בהיכל מנורה וביחד מבצעים את הלהיט שלהם - \"בחלומות שלנו\"",
+   "type": "mivzakim",
+   "updated_ms": 1792698931000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d853a3ede1561a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17926_22102026075324/M_Music_17926_22102026075324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-db000b4d02561a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שלמה ארצי הופיע בעוטף עזה ושיתף את הקהל שברגעים אלה עומדת להיוולד לו נכדה נוספת",
+   "duration_s": 65,
+   "first_seen_ms": 1792699346612,
+   "image": "https://img.mako.co.il/2026/10/22/M_Music_17925_22102026075306_1400_1792698924951_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792695600000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שלמה ארצי הופיע בעוטף עזה ושיתף את הקהל שברגעים אלה עומדת להיוולד לו נכדה נוספת",
+   "type": "mivzakim",
+   "updated_ms": 1792695600000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-db000b4d02561a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17925_22102026075306/M_Music_17925_22102026075306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-dbde3f2c13351a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -15630,6 +15666,24 @@
    "updated_ms": 1792610724000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3812fd52ef51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17859_21102026072402/M_Celebs_17859_21102026072402_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3b4a3ede1561a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "איתי שכטר במופע של דודו אהרון",
+   "duration_s": 15,
+   "first_seen_ms": 1792699346612,
+   "image": "https://img.mako.co.il/2026/10/22/M_Music_17927_22102026075540_1400_1792699025406_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792699031000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "איתי שכטר במופע של דודו אהרון",
+   "type": "mivzakim",
+   "updated_ms": 1792699031000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f3b4a3ede1561a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17927_22102026075540/M_Music_17927_22102026075540_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f62580688a951a1026.htm": {
    "author": "עדכוני בידור",
@@ -38416,7 +38470,8 @@
    "published_ms": 1792689660000,
    "sections": [
     "חדשות",
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי החניה: המכה הבאה לנהגים בתל אביב",
    "type": "news",
@@ -91486,7 +91541,8 @@
    "published_ms": 1792682640000,
    "sections": [
     "המיוחדים",
-    "בחירות 2026"
+    "בחירות 2026",
+    "הכי נצפים עכשיו"
    ],
    "title": "אמת או חובה: נעמה לזימי",
    "type": "general",
@@ -103406,7 +103462,8 @@
    "importance": 1,
    "published_ms": 1792677447000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "צריך להיזהר מצלבים ענקיים: כומר בקולומביה כמעט נמחץ, אחרי מקרה קטלני דומה באקוודור",
    "type": "mivzakim",
@@ -103731,9 +103788,9 @@
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "באמצע סופת רעמים: ברק פגע במטוס נוסעים בדרכו לבירת צ'ילה - והאיר את תא הנוסעים | צפו ברגע המבהיל",
+   "title": "באמצע סופת רעמים: ברק פגע במטוס נוסעים בדרכו לבירת צ'ילה - והאיר את תא הנוסעים | צפו",
    "type": "mivzakim",
-   "updated_ms": 1792675061000,
+   "updated_ms": 1792699020000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-90203046bb361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_KARIND_BARAK_7635_22102026011615/V1_KARIND_BARAK_7635_22102026011615_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -103785,7 +103842,8 @@
    "importance": 0,
    "published_ms": 1792683764000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשידור חי: העיתונאי הציל גבר שטבע עם המכונית בשטפון ענק | הדרמה באוסטרליה",
    "type": "mivzakim",

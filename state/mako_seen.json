@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792699049544,
+ "last_run_ms": 1792699349385,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30435,7 +30435,7 @@
    "indexnow_ms": null,
    "published_ms": 1792658700000,
    "section": "פלילים",
-   "title": "התחזה לעובדת בבנק: הנוכל הסדרתי שחזר לעקוץ בגדול"
+   "title": "הנוכל הסדרתי שחזר לעקוץ בגדול"
   },
   "https://www.mako.co.il/men-men_news/Article-462d0aa87c8d0a1026.htm": {
    "check_attempts": 1,
@@ -38476,6 +38476,18 @@
    "published_ms": null,
    "section": "גאווה",
    "title": "\"נאצית שמממנת רצח עם\"; \"טענות מזעזעות\""
+  },
+  "https://www.mako.co.il/pride-news/Article-7d79acf698461a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792699349385,
+   "content_type": "article",
+   "first_seen_ms": 1792699349385,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792699200000,
+   "section": "",
+   "title": "השינוי שמתוכנן אחרי הבחירות, אך לא בטוח שיקרה"
   },
   "https://www.mako.co.il/pride-news/Article-835b5ba3f2fc0a1026.htm": {
    "check_attempts": 1,
