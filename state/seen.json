@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fd53fe15c6461a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-77d3acf698461a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1a82acf698461a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -74669,6 +74670,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1a2ff7d2b6251a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_JAFFA_7496_19102026043607/V1_JAFFA_7496_19102026043607_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1a82acf698461a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לוחמי ימ\"מ חילצו אישה שהתבצרה בביתה איימה לקפוץ מחלון בקומה ה-11",
+   "duration_s": 9,
+   "first_seen_ms": 1792689446427,
+   "image": "https://img.mako.co.il/2026/10/22/M_NEWS_17916_22102026051006_1400_1792689088629_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792689095000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לוחמי ימ\"מ חילצו אישה שהתבצרה בביתה איימה לקפוץ מחלון בקומה ה-11",
+   "type": "mivzakim",
+   "updated_ms": 1792689095000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1a82acf698461a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/M_NEWS_17916_22102026051006/M_NEWS_17916_22102026051006_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-1d47fa91b5f41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76275,6 +76294,24 @@
    "updated_ms": 1792579475000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17832_21102026104306/M_NEWS_17832_21102026104306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-77d3acf698461a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מה עומד מאחורי הקמפיין של נתניהו נגד עופר וינטר? החשיפה של ירון אברהם בחדשות 12",
+   "duration_s": 68,
+   "first_seen_ms": 1792689446427,
+   "image": "https://img.mako.co.il/2026/10/22/V1_YARON_7649_22102026051229_1400_1792689230300_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792689236000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מה עומד מאחורי הקמפיין של נתניהו נגד עופר וינטר? החשיפה של ירון אברהם בחדשות 12",
+   "type": "mivzakim",
+   "updated_ms": 1792689236000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-77d3acf698461a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_YARON_7649_22102026051229/V1_YARON_7649_22102026051229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm": {
    "author": "מבזקים",
