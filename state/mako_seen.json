@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792675649217,
+ "last_run_ms": 1792675950662,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1207,7 +1207,7 @@
    "indexnow_ms": null,
    "published_ms": null,
    "section": "אופנה",
-   "title": "עדן פינס כבר יודעת מה כולנו נלבש בחורף"
+   "title": "בצבע החם של העונה: עדן פינס כבר יודעת מה נלבש החורף"
   },
   "https://fashionforward.mako.co.il/news/322206/": {
    "check_attempts": 1,
@@ -19107,7 +19107,7 @@
    "indexnow_ms": null,
    "published_ms": 1792667700000,
    "section": "כסף",
-   "title": "האמת מאחורי ההודעה המלחיצה שההורים שלכם קיבלו בוואטסאפ"
+   "title": "האמת מאחורי ההודעה על המעטפות בקלפיות"
   },
   "https://www.mako.co.il/finances-news/Article-0aed7a4c03e51a1027.htm": {
    "check_attempts": 1,
@@ -27075,7 +27075,7 @@
    "indexnow_ms": 1792659627292,
    "published_ms": 1792658700000,
    "section": "עיצוב הבית",
-   "title": "הצצה: המהפך המטורף שתעבור התחנה הנטושה בחיפה"
+   "title": "חיפאים, שימו לב: המקום המוזנח שהולך להפוך לפנינה בקרוב"
   },
   "https://www.mako.co.il/living-architecture/local/Article-50c761645cf01a1026.htm": {
    "check_attempts": 1,
@@ -44185,7 +44185,7 @@
    "indexnow_ms": 1792667548845,
    "published_ms": 1792666800000,
    "section": "חופש",
-   "title": "\"לתחקר חיילים ישראלים שבאים לכאן - כבר ברגע הנחיתה\""
+   "title": "\"לחקור ישראלים בחופשה כדי לוודא מעורבות בפשעי מלחמה\""
   },
   "https://www.mako.co.il/travel-news/international/Article-c0e278cee2e51a1026.htm": {
    "check_attempts": 1,
@@ -46417,7 +46417,7 @@
    "indexnow_ms": 1792642587229,
    "published_ms": 1792642320000,
    "section": "קשת 12",
-   "title": "הפרק שטל ברקוביץ' לא הספיקה לראות: \"היא חיכתה לשידור\""
+   "title": "\"זה מאוד עצוב, היא חיכתה שזה יעלה לשידור\""
   },
   "https://www.mako.co.il/tv-the_masked_singer": {
    "check_attempts": 1,
@@ -46538,6 +46538,18 @@
    "published_ms": 1792440180000,
    "section": "",
    "title": "צרחות: זו הכוכבת שנחשפה ב\"הזמר במסכה\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-f7c958e64b361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792675950662,
+   "content_type": "article",
+   "first_seen_ms": 1792675950662,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792673880000,
+   "section": "קשת 12",
+   "title": "עינב בובליל מכחישה: \"זאת לא אני\""
   },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-1f25fcb266111a1027.htm": {
    "check_attempts": 1,
