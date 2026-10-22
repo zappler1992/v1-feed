@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792660948610,
+ "last_run_ms": 1792661248566,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20501,6 +20501,18 @@
    "section": "נדל\"ן",
    "title": "הפתעה: באיזו עיר שוק היד השנייה בשיא?"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-f4b5e921ed261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792661248566,
+   "content_type": "article",
+   "first_seen_ms": 1792661248566,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792660980000,
+   "section": "נדל\"ן",
+   "title": "ב-75 מיליון שקל: כך צים מחזיר אליו את השליטה"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-f4d2f8178b111a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29092,6 +29104,18 @@
    "published_ms": 1791101880000,
    "section": "פלילים",
    "title": "\"התכשיטן נתלה על רכב השודדים ונדרס\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-1b61e921ed261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792661187423,
+   "content_type": "article",
+   "first_seen_ms": 1792661187423,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792660800000,
+   "section": "פלילים",
+   "title": "נעצר עם פתקי \"זה שוד תביאו את הכסף\""
   },
   "https://www.mako.co.il/men-men_news/Article-1c00a668702e0a1026.htm": {
    "check_attempts": 1,
