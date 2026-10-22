@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792700549390,
+ "last_run_ms": 1792700849397,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5144,6 +5144,18 @@
    "published_ms": 1792090440000,
    "section": "ספורט",
    "title": "\"סוף סוף קלארק נראה כמו קלארק\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c73cc6abe3561a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792700786700,
+   "content_type": "article",
+   "first_seen_ms": 1792700786700,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792700520000,
+   "section": "ספורט",
+   "title": "\"נדוביץ`? הוא ברשימות, נקבל החלטות\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c809f88d27f51a1026.htm": {
    "check_attempts": 1,
