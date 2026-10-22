@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792658248465,
+ "last_run_ms": 1792658548577,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26357,6 +26357,18 @@
    "section": "הורים",
    "title": "רוב הפותרים של החידה מתייאשים אחרי חמש דקות"
   },
+  "https://www.mako.co.il/home-family-kids/Article-d610835e89261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792658548577,
+   "content_type": "article",
+   "first_seen_ms": 1792658548577,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792655580000,
+   "section": "הורים",
+   "title": "המורים מתקשים ללמד בגלל הפערים ברמה בכיתה"
+  },
   "https://www.mako.co.il/home-family-kids/Article-d68938c0e5f21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37216,6 +37228,18 @@
    "published_ms": 1791111420000,
    "section": "דיגיטל",
    "title": "\"העלות הייתה קופצת מ-1 ל-5,000 דולר בחודש\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-f6fbca8f5b261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792658427219,
+   "content_type": "article",
+   "first_seen_ms": 1792658427219,
+   "indexable": true,
+   "indexnow_ms": 1792658427219,
+   "published_ms": 1792657560000,
+   "section": "דיגיטל",
+   "title": "\"נוספו לי אלפי עוקבים, אבל גם ירדו לא מעט\""
   },
   "https://www.mako.co.il/nexter-news/Article-f7d81f5ec3a31a1026.htm": {
    "check_attempts": 1,
