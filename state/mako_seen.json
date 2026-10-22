@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792712248596,
+ "last_run_ms": 1792712548573,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -84,6 +84,18 @@
    "published_ms": 1792094107000,
    "section": "Fashion Forward",
    "title": "מתנה בשישי: משקפי שמש של Calvin Klein בשווי 700 שקלים"
+  },
+  "https://fashionforward.mako.co.il/gift/322071/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792712307124,
+   "content_type": "article",
+   "first_seen_ms": 1792712307124,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792711775000,
+   "section": "Fashion Forward",
+   "title": "מתנה בשישי: מארז מוצרי טיפוח של promise בשווי 823 שקלים"
   },
   "https://fashionforward.mako.co.il/industry/collections/321666/": {
    "check_attempts": 1,
@@ -311,6 +323,18 @@
    "section": "Fashion Forward",
    "title": "עם מחוך וכיסוי ראש: שני גולדשטיין התחתנה והופתענו מהשמלה השלישית"
   },
+  "https://fashionforward.mako.co.il/more/weddings/322030/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792712307124,
+   "content_type": "article",
+   "first_seen_ms": 1792712307124,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1792688834000,
+   "section": "Fashion Forward",
+   "title": "נפלה מגן עדן: המעצבת הישראלית יצרה לעצמה את שמלת הכלה המושלמת"
+  },
   "https://fashionforward.mako.co.il/more/weddings/322099/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -355,9 +379,9 @@
    "first_seen_ms": 1792678049777,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1792675082000,
    "section": "",
-   "title": "\"זה הכניס למצב לא נעים\": הסרטון של אבא שסיבך את הבת"
+   "title": "כשראיתי את עצמי על שלט חוצות באיילון, החלטתי שזה המקצוע שאני רוצה"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -1232,6 +1256,18 @@
    "published_ms": 1792666504000,
    "section": "אופנה",
    "title": "קים קרדשיאן חגגה יום הולדת, והשמלה שלה הצליחה לבלבל אותנו"
+  },
+  "https://fashionforward.mako.co.il/news/322227/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792712307124,
+   "content_type": "article",
+   "first_seen_ms": 1792712307124,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792711827000,
+   "section": "Fashion Forward",
+   "title": "הלוק הכי פרובוקטיבי בתצוגה של ויקטוריה'ס סיקרט בכלל לא עלה על המסלול"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
