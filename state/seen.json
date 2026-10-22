@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-e18b444566261a1027.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-1ca5a20a95261a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68f86da1e6261a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -75146,6 +75145,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-67bea38357951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_karind_mada_7564_20102026012223/V1_karind_mada_7564_20102026012223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68f86da1e6261a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מחיפה: עשן כבד מבניין ברחוב המגינים 86, כוחות הכיבוי במקום",
+   "duration_s": 11,
+   "first_seen_ms": 1792653146631,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_FIRE_7617_22102026070458_1400_1792652770044_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792652777000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מחיפה: עשן כבד מבניין ברחוב המגינים 86, כוחות הכיבוי במקום",
+   "type": "mivzakim",
+   "updated_ms": 1792652777000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-68f86da1e6261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_FIRE_7617_22102026070458/V1_SHIR_FIRE_7617_22102026070458_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6b6111a377c51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -79110,11 +79127,11 @@
   "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-1ca5a20a95261a1026.htm": {
    "author": "מתכונים",
    "date_source": "json-publishDate",
-   "description": "מחיר של פעם: מצאנו ארוחה של המבורגר, צ'יפס ושתייה ב-49 שקלים",
+   "description": "גם אנחנו לא האמנו כשראינו את הפרסומים על הדיל הזה, אז נסענו עד צומת שילת לבדוק מה מסתתר באותיות הקטנות של המבצע והאם זה בכלל טעים",
    "duration_s": 25,
    "first_seen_ms": 1792652546647,
    "image": "https://img.mako.co.il/2026/10/22/M_Food_17887_22102026065048_1400_1792651948768_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792651955000,
    "sections": [
     "אוכל ומתכונים"
