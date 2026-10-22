@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792671148905,
+ "last_run_ms": 1792671448731,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3740,6 +3740,18 @@
    "published_ms": 1790851560000,
    "section": "ספורט",
    "title": "יעבור בדיקה: שחקן מכבי ת\"א בספק לפאו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-16ae647148361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792671387082,
+   "content_type": "article",
+   "first_seen_ms": 1792671387082,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792671120000,
+   "section": "ספורט",
+   "title": "אתה המכבי: הדרישה הפרועה מים מדר"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-17c2dde40cd51a1026.htm": {
    "check_attempts": 1,
@@ -14343,7 +14355,7 @@
    "indexnow_ms": 1792663587587,
    "published_ms": 1792663380000,
    "section": "תרבות tvbee",
-   "title": "בעבור מאות אלפי שקלים: הג'וב של יובל רפאל"
+   "title": "תמורת מאות אלפי שקלים: הג'וב החדש של יובל רפאל"
   },
   "https://www.mako.co.il/culture-articles/Article-60640897e83f0a1026.htm": {
    "check_attempts": 1,
@@ -15772,6 +15784,18 @@
    "published_ms": 1791276900000,
    "section": "סלבס",
    "title": "\"איזה דאונים? הייתי בדיכאון. היה לי קשה גם בזוגיות\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-41585be35db11a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792671387082,
+   "content_type": "article",
+   "first_seen_ms": 1792671387082,
+   "indexable": true,
+   "indexnow_ms": 1792671387082,
+   "published_ms": 1792671180000,
+   "section": "הכי חם",
+   "title": "\"אשתי הייתה לבד ורציתי להיות שם, זה היה קשה\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-445d0e1178f31a1027.htm": {
    "check_attempts": 1,
@@ -23799,7 +23823,7 @@
    "indexnow_ms": null,
    "published_ms": 1792654860000,
    "section": "HIX",
-   "title": "\"הגיע מממד אחר\": הסיוט החדש של תושבי מקסיקו"
+   "title": "\"הגיע מממד אחר\": יצור מסתורי צולם במקסיקו"
   },
   "https://www.mako.co.il/hix-bizarre/Article-2020772b357f0a1027.htm": {
    "check_attempts": 1,
@@ -23991,7 +24015,7 @@
    "indexnow_ms": 1792658187206,
    "published_ms": 1792657980000,
    "section": "HIX",
-   "title": "\"דג יום הדין\" נפלט לחוף - וכולם מבוהלים מתרחיש האימים"
+   "title": "\"דג יום הדין\" נפלט לחוף – והבהלה מאסון החלה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-577f2c9137111a1026.htm": {
    "check_attempts": 1,
