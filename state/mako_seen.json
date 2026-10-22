@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792677749120,
+ "last_run_ms": 1792678049777,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -346,6 +346,18 @@
    "published_ms": 1791461963000,
    "section": "",
    "title": "הדוגמנית על האמא המפורסמת: \"קשה לראות אותה ככה\""
+  },
+  "https://fashionforward.mako.co.il/more/weekend/322148/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792678049777,
+   "content_type": "post",
+   "first_seen_ms": 1792678049777,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "",
+   "title": "\"זה הכניס למצב לא נעים\": הסרטון של אבא שסיבך את הבת"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -1219,7 +1231,7 @@
    "indexnow_ms": null,
    "published_ms": null,
    "section": "אופנה",
-   "title": "קים קרדשיאן חגגה יום הולדת, והשמלה שלה שיגעה אותנו"
+   "title": "קים חגגה יום הולדת, והשמלה שלה הצליחה לבלבל אותנו"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -16673,6 +16685,18 @@
    "section": "",
    "title": "הולך טוב: יוצאת הריאליטי ובן הזוג החדש מבלים"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-c1c6d41b8c361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792678049777,
+   "content_type": "article",
+   "first_seen_ms": 1792678049777,
+   "indexable": true,
+   "indexnow_ms": 1792678049777,
+   "published_ms": 1792676340000,
+   "section": "",
+   "title": "אוהד זה נושא רגיש. מי אתם שניתן לכם דין וחשבון?"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-c4f38bfa2bf31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26789,6 +26813,18 @@
    "section": "הורים",
    "title": "\"קנה אותי\": פוסט חיפוש העבודה שיסתיים בחתונה"
   },
+  "https://www.mako.co.il/home-family-relationship/Article-59125c5292361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792678049777,
+   "content_type": "article",
+   "first_seen_ms": 1792678049777,
+   "indexable": true,
+   "indexnow_ms": 1792678049777,
+   "published_ms": 1792665660000,
+   "section": "",
+   "title": "מפקד ב-669, אב ל-3. מי חשב שכך יסתיימו חייו של איתי"
+  },
   "https://www.mako.co.il/home-family-relationship/Article-5f910bfd7e7c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29596,6 +29632,18 @@
    "published_ms": 1790757000000,
    "section": "פלילים",
    "title": "אם אתם גרים פה יש סיכוי גבוה בהרבה שיגנבו לכם את הרכב"
+  },
+  "https://www.mako.co.il/men-men_news/Article-28d8aaa739361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792678049777,
+   "content_type": "article",
+   "first_seen_ms": 1792678049777,
+   "indexable": true,
+   "indexnow_ms": 1792678049777,
+   "published_ms": 1792672020000,
+   "section": "",
+   "title": "שמעתם עליהם כשנעצרו כסוכנים של איראן. מה קרה להם מאז"
   },
   "https://www.mako.co.il/men-men_news/Article-291a5a09b2cf0a1026.htm": {
    "check_attempts": 1,
@@ -42291,6 +42339,18 @@
    "section": "",
    "title": "שני הטייסים נפצעו - אז איך המטוס נחת בשלום?"
   },
+  "https://www.mako.co.il/travel-israel/Article-9ba516584b261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792678049777,
+   "content_type": "article",
+   "first_seen_ms": 1792678049777,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792657740000,
+   "section": "",
+   "title": "זו הייתה האטרקציה האהובה על ילדים בארץ. מה נשאר ממנה"
+  },
   "https://www.mako.co.il/travel-israel/Article-9ff3a3dbfb9e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -46597,7 +46657,7 @@
    "indexnow_ms": null,
    "published_ms": 1792673880000,
    "section": "קשת 12",
-   "title": "עינב בובליל מכחישה: \"זאת לא אני\""
+   "title": "עובדים עלינו? המפורסמים שחשודים בהשתתפות ב\"הזמר במסכה\""
   },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-1f25fcb266111a1027.htm": {
    "check_attempts": 1,

@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-192962316e361a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-99b858e64b361a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-57ba58e64b361a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5540,6 +5541,24 @@
    "updated_ms": 1792318262000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-54060a9ea6e41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/biata_turgi_181026/MASTER/biata_turgi_181026/biata_turgi_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-57ba58e64b361a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "כפי שפורסם לראשונה ב-mako, יובל רפאל, נציגת ישראל באירוויזיון 2025, נבחרה לפרזנטורית החדשה של ענקית המזון קארפור בישראל. הקמפיין צפוי לעלות בקרוב בטלוויזיה ובדיגיטל, ולפי גורמים המעורים בפרטים, הזמרת צפויה לקבל תמורתו מאות אלפי שקלים.מטעמה של הזמרת אישרו את הפרטים.",
+   "duration_s": 27,
+   "first_seen_ms": 1792678046974,
+   "image": "https://img.mako.co.il/2026/10/22/Kim_Yuval_22102026_1400_1792674304798_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792674311000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הג'וב החדש של יובל רפאל נחשף",
+   "type": "general",
+   "updated_ms": 1792674311000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-57ba58e64b361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/Kim_Yuval_22102026/MASTER/Kim_Yuval_22102026/Kim_Yuval_22102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-585af88d27f51a1026.htm": {
    "author": "סלבס",
@@ -38859,6 +38878,24 @@
    "updated_ms": 1792497120000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/FIX_rinat_hirshgoldberg_201026/FIX_rinat_hirshgoldberg_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-99b858e64b361a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "זה המספר שיכול להכריע את הבחירות השנה",
+   "duration_s": 38,
+   "first_seen_ms": 1792678046974,
+   "image": "https://img.mako.co.il/2026/10/22/rinat_dafna_221026_m_1400_1792674130760_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792674138000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "המספר שיכול להכריע את הבחירות",
+   "type": "news",
+   "updated_ms": 1792674138000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-99b858e64b361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_dafna_221026/MASTER/rinat_dafna_221026_m/rinat_dafna_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-a3a6a37da7451a1026.htm": {
    "author": "חדשות",
