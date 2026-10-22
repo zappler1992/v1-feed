@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f3f73d0c5f161a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-62e63a5ce0261a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f0e1ebfd43261a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -37809,7 +37808,7 @@
    ],
    "title": "הנסיך הארי חושף: אני רוצה לסיים את הסכסוך המשפחתי",
    "type": "news",
-   "updated_ms": 1792601624000,
+   "updated_ms": 1792649400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-4d50751855f51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/TALI_HARRY_211026/MASTER/TALI_HARRY_211026/TALI_HARRY_211026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -77352,6 +77351,24 @@
    "updated_ms": 1792571614000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ef71f52819d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_ARAVA_211026_MIV/yoav_ARAVA_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f0e1ebfd43261a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לפיד נגד כ\"ץ: \"הודעה מופקרת והיסטרית, מתנה לאויבי ישראל\" - \"הופכים את הביטחון לקרקס\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792649846530,
+   "image": "https://img.mako.co.il/2026/10/22/V1_SHIR_YAIR_7612_22102026061109_1400_1792649594112_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792649600000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לפיד נגד כ\"ץ: \"הודעה מופקרת והיסטרית, מתנה לאויבי ישראל\" - \"הופכים את הביטחון לקרקס\"",
+   "type": "mivzakim",
+   "updated_ms": 1792649600000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f0e1ebfd43261a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_YAIR_7612_22102026061109/V1_SHIR_YAIR_7612_22102026061109_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f188a33b87351a1026.htm": {
    "author": "מבזקים",
