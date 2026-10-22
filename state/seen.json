@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f5f6f0d337261a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-acb5fac1c7261a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21597,6 +21597,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-ab9c370c24351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Kim_Shark_19102026/MASTER/Kim_Shark_19102026/Kim_Shark_19102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-acb5fac1c7261a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "דונלד טראמפ שוב עושה שרירים מול המצלמות - והפעם העיתונאית על הכוונת. טראמפ לא הסתיר את העצבים, קרא לה \"טיפשה\" וחתם בקביעה שאין לה יותר מדי איי-קיו.",
+   "duration_s": 19,
+   "first_seen_ms": 1792655246683,
+   "image": "https://img.mako.co.il/2026/10/22/rinat_trump_221026_m_1400_1792654060160_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792654066000,
+   "sections": [
+    "חדשות אמריקה"
+   ],
+   "title": "טראמפ משתולל על הכתבות: \"את טיפשה, לך יש אייקיו נמוך\"",
+   "type": "general",
+   "updated_ms": 1792654066000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-acb5fac1c7261a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/rinat_trump_221026_m/MASTER/rinat_trump_221026_m/rinat_trump_221026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-b8b7b325e6451a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -21734,7 +21752,9 @@
    "image": "https://img.mako.co.il/2026/10/22/LIRON_ABC_22102026_1400_1792653618655_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792653900000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "תיעוד מדהים: כתב אוסטרלי שדיווח על שיטפון ראה אדם טובע - והציל אותו",
    "type": "general",
    "updated_ms": 1792653900000,
@@ -38278,7 +38298,8 @@
    "published_ms": 1792643508000,
    "sections": [
     "חדשות",
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "ישראל וארה\"ב השלימו תוכניות לתקיפה באיראן אחרי בחירות האמצע באמריקה",
    "type": "news",

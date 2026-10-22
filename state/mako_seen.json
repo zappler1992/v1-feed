@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792654949553,
+ "last_run_ms": 1792655187038,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16769,6 +16769,18 @@
    "section": "",
    "title": "\"בעלי ואני עשינו הסכם ממון. בחיים לא אבקש ממנו כסף\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-ea2befa446261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792655187038,
+   "content_type": "article",
+   "first_seen_ms": 1792655187038,
+   "indexable": true,
+   "indexnow_ms": 1792655187038,
+   "published_ms": 1792654740000,
+   "section": "סלבס",
+   "title": "\"שמועה שטובה לנו\": השחקנית על השמועות לזוגיות"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-edde0b849d8c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23476,6 +23488,18 @@
    "published_ms": 1791358500000,
    "section": "HIX",
    "title": "העובד שמע רעש חשוד מהתקרה – וזה מה שמצאו שם"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-1745e92e48261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792655067003,
+   "content_type": "article",
+   "first_seen_ms": 1792655067003,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792654860000,
+   "section": "HIX",
+   "title": "\"הגיע מממד אחר\": יצור מסתורי צולם במקסיקו"
   },
   "https://www.mako.co.il/hix-bizarre/Article-2020772b357f0a1027.htm": {
    "check_attempts": 1,
