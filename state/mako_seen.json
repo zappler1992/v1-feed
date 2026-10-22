@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792691549397,
+ "last_run_ms": 1792691849361,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11802,6 +11802,18 @@
    "published_ms": 1792496760000,
    "section": "ספורט",
    "title": "\"המגוחך אי פעם\": מה קרה לזיו בתקרית הנעל"
+  },
+  "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-bc109e750b461a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792691787415,
+   "content_type": "article",
+   "first_seen_ms": 1792691787415,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792691460000,
+   "section": "ספורט",
+   "title": "\"מרפק לפנים. איך ב\"ש לא קיבלה אדום?!\""
   },
   "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-cc0f8222ee041a1027.htm": {
    "check_attempts": 1,

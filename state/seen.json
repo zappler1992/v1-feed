@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/food-magazine/2026-m10_w04/shorts-a92dda65d2461a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1b92da65d2461a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efba647148361a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -38249,7 +38250,10 @@
    "image": "https://img.mako.co.il/2026/10/22/yoav_Parking_221026_1400_1792686584329_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792689660000,
-   "sections": [],
+   "sections": [
+    "חדשות",
+    "סלבס"
+   ],
    "title": "אחרי החניה: המכה הבאה לנהגים בתל אביב",
    "type": "news",
    "updated_ms": 1792689660000,
@@ -38311,6 +38315,24 @@
    "updated_ms": 1792563015000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1b5aa0ea31d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/NOAB_IRAN_STORY_211026_M/MASTER/NOAB_IRAN_STORY_211026_M/NOAB_IRAN_STORY_211026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1b92da65d2461a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נוהגים בגוש דן בסוף השבוע? כדי שתיערכו מראש: סגירת כבישים ורחובות במרכז תל אביב והסביבה הולכת ליצור עומסים חריגים.",
+   "duration_s": 42,
+   "first_seen_ms": 1792691846418,
+   "image": "https://img.mako.co.il/2026/10/22/biata_traffic_221026_1400_1792683059117_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792683065000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "נהגים שימו לב: צפי לפקקים חריגים בסופ\"ש",
+   "type": "news",
+   "updated_ms": 1792683065000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1b92da65d2461a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/biata_traffic_221026/MASTER/biata_traffic_221026/biata_traffic_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1deb087e0df51a1026.htm": {
    "author": "חדשות",
@@ -38505,7 +38527,9 @@
    "image": "https://img.mako.co.il/2026/10/22/MAYA_KFARSABA_221026_1400_1792676596202_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792677960000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "פרשת ראש העיר כפר סבא ורעייתו: פרטים חדשים",
    "type": "news",
    "updated_ms": 1792679040000,
@@ -39472,6 +39496,24 @@
    "updated_ms": 1792514880000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ef35e729cc951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIR_USA_201026_FIX/SHIR_USA_201026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efba647148361a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "קמילה קביו שפכה על עצמה מים במהלך ההופעה, אבל בזריקת הבקבוק - הרקדנית שלצדה חטפה בטעות.",
+   "duration_s": 30,
+   "first_seen_ms": 1792691846418,
+   "image": "https://img.mako.co.il/2026/10/22/SHIR_CAMILA_221026_FIX_1400_1792671506504_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792671135000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "קמילה קביו קצת נסחפה עם הבקבוק - והרקדנית שילמה את המחיר",
+   "type": "news",
+   "updated_ms": 1792671420000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efba647148361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/SHIR_CAMILA_221026_FIX/SHIR_CAMILA_221026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efc6201dbcf41a1027.htm": {
    "author": "חדשות",
@@ -79245,7 +79287,8 @@
    "importance": 0,
    "published_ms": 1792687544000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "הטעות המביכה של נתניהו בערוץ 14: מנה את \"אסד\" כחלק מרשימת המחוסלים של ישראל",
    "type": "mivzakim",
@@ -103183,7 +103226,8 @@
    "importance": 0,
    "published_ms": 1792671895000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "על רקע מחאות אלימות נגד הממשלה: עימותים פיזיים בפרלמנט באלבניה בין חברי אופוזיציה לקואליציה",
    "type": "mivzakim",
@@ -103621,7 +103665,8 @@
    "importance": 0,
    "published_ms": 1792670022000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "סופת ברד חריגה בפיניקס, אריזונה: אבני ברד בגודל כדורי גולף ניפצו שמשות וגרמו לנזק כבד",
    "type": "mivzakim",
