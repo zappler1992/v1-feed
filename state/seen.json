@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-4ba3d11931961a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3b2f2e5502961a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8fde2e5502961a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -76458,6 +76459,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3a90075e4bc51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_BIET_KVAROT_7589_21102026045527/V1_BIET_KVAROT_7589_21102026045527_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3b2f2e5502961a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרמטכ\"ל בזירת הפיגוע: \"נמנע פיגוע חמור נגד אזרחי ישראל\"",
+   "duration_s": 26,
+   "first_seen_ms": 1792766547564,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17973_23102026023636_1400_1792766279669_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792766286000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרמטכ\"ל בזירת הפיגוע: \"נמנע פיגוע חמור נגד אזרחי ישראל\"",
+   "type": "mivzakim",
+   "updated_ms": 1792766286000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3b2f2e5502961a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17973_23102026023636/M_NEWS_17973_23102026023636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3c04fd3f6a261a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -78228,6 +78247,24 @@
    "updated_ms": 1792464904000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8d72bb4e7e651a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17720_20102026025344/M_NEWS_17720_20102026025344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8fde2e5502961a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרמטכ\"ל בזירת פיגוע: ״כתוצאה מפעילות הכוח נמנע פיגוע חמור נגד אזרחי ישראל\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792766547564,
+   "image": "https://img.mako.co.il/2026/10/23/V1_PIGOA_7686_23102026023456_1400_1792766179780_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792766187000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרמטכ\"ל בזירת פיגוע: ״כתוצאה מפעילות הכוח נמנע פיגוע חמור נגד אזרחי ישראל\"",
+   "type": "mivzakim",
+   "updated_ms": 1792766187000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8fde2e5502961a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_PIGOA_7686_23102026023456/V1_PIGOA_7686_23102026023456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm": {
    "author": "מבזקים",
