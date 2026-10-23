@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792735649905,
+ "last_run_ms": 1792735948945,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9126,6 +9126,18 @@
    "published_ms": 1791014040000,
    "section": "ספורט",
    "title": "עומד למבחן: שאלת עתידו של מלמד בחיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-46e7bcc3b4761a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792735948945,
+   "content_type": "article",
+   "first_seen_ms": 1792735948945,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792735740000,
+   "section": "ספורט",
+   "title": "מועד הקאמבק הצפוי של בליץ` למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-48a0f43275b41a1027.htm": {
    "check_attempts": 1,
