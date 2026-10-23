@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/culture-magazine/2026-m10_w04/shorts-ed1a573090961a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6c19d11931961a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9423,16 +9423,16 @@
   "https://www.v-1.co.il/culture-magazine/2026-m10_w04/shorts-ed1a573090961a1026.htm": {
    "author": "תרבות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "מלך הקסטות מפתיע את מרגול בהופעה בבארבי!\nמלך הקסטות מהזמר במסכה הפתיע היום את מלכת הזמר הים תיכוני, מרגול, בהופעתה בבארבי. מלך הקסטות הצטרף למרגול על הבמה וביצע את השיר ״הפרח בגני״, בגרסה המתורגמת המיוחדת מתוך התוכנית.\nהזמר במסכה מוצ״ש בקשת 12",
    "duration_s": 19,
    "first_seen_ms": 1792764145986,
    "image": "https://img.mako.co.il/2026/10/23/MIZEM_1400_1792763667347_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792763674000,
    "sections": [],
-   "title": "",
+   "title": "מלך הקסטות מפתיע את מרגול בהופעה בבארבי!",
    "type": "general",
-   "updated_ms": 1792763674000,
+   "updated_ms": 1792764300000,
    "url": "https://www.v-1.co.il/culture-magazine/2026-m10_w04/shorts-ed1a573090961a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/MIZEP/MASTER/MIZEM/MIZEM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -77394,6 +77394,24 @@
    "updated_ms": 1792555281000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6b6111a377c51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/V1_STIV_TAHAZIT_7587_21102026035918/V1_STIV_TAHAZIT_7587_21102026035918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6c19d11931961a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מפקד פיקוד המרכז, אלוף אבי בלוט, בזירת הפיגוע: \"בזכות גבורת לוחמי צה\"ל, נמנע פיגוע קשה נגד אזרחי מדי",
+   "duration_s": 33,
+   "first_seen_ms": 1792764445986,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17968_23102026020348_1400_1792764312047_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792764318000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מפקד פיקוד המרכז, אלוף אבי בלוט, בזירת הפיגוע: \"בזכות גבורת לוחמי צה\"ל, נמנע פיגוע קשה נגד אזרחי מדי",
+   "type": "mivzakim",
+   "updated_ms": 1792764318000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6c19d11931961a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17968_23102026020348/M_NEWS_17968_23102026020348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6c233333d4a51a1027.htm": {
    "author": "מבזקים",
