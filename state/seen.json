@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7b6e9de013761a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-62569de013761a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f059b3c584761a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -76552,6 +76553,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-61ac2c6773d41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/kotarotfix/kotarotfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-62569de013761a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"מחסניות מרוקנות על הכביש\": תיעוד חדש מזירת הפיגוע",
+   "duration_s": 18,
+   "first_seen_ms": 1792734446219,
+   "image": "https://img.mako.co.il/2026/10/23/V1_piguamehabel_7670_23102026054025_1400_1792734105092_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792734111000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"מחסניות מרוקנות על הכביש\": תיעוד חדש מזירת הפיגוע",
+   "type": "mivzakim",
+   "updated_ms": 1792734111000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-62569de013761a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_piguamehabel_7670_23102026054025/V1_piguamehabel_7670_23102026054025_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-665568d9de661a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -104555,6 +104574,24 @@
    "updated_ms": 1792402178000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-eec6f1ed27351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_Louvre_7515_19102026092752/V1_Louvre_7515_19102026092752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f059b3c584761a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אימה באוויר: ברק פגע במטוס במהלך טיסה בצ'ילה - הנוסעים תיעדו את הרגע",
+   "duration_s": 23,
+   "first_seen_ms": 1792734446219,
+   "image": "https://img.mako.co.il/2026/10/23/V1_matos_7671_23102026054354_1400_1792734315697_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792734322000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "אימה באוויר: ברק פגע במטוס במהלך טיסה בצ'ילה - הנוסעים תיעדו את הרגע",
+   "type": "mivzakim",
+   "updated_ms": 1792734322000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f059b3c584761a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_matos_7671_23102026054354/V1_matos_7671_23102026054354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-facbed6e82f41a1026.htm": {
    "author": "מבזקים מהעולם",
