@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792747350246,
+ "last_run_ms": 1792747651356,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39989,6 +39989,18 @@
    "section": "",
    "title": "הדיווח הלילי: התקיפה העתידית שסומנה באיראן"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-51b6bcc3b4761a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-51b6bcc3b4761a1027.htm",
+   "checked_ms": 1792747586937,
+   "content_type": "article",
+   "first_seen_ms": 1792747586937,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792735500000,
+   "section": "",
+   "title": "המחבלים שחוסלו ומזוהים עם חמאס - ומה שהם תכננו"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-565b5b1bc43d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42949,7 +42961,7 @@
    "indexnow_ms": null,
    "published_ms": 1792701480000,
    "section": "חדשות",
-   "title": "\"היו בדרך לפיגוע חמור יותר, אחד המחבלים - פעיל חמאס\""
+   "title": "טראמפ על איראן: \"הכינו בהם חזק, ואולי נמשיך בזה עוד\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
