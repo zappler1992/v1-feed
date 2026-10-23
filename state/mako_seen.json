@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792738349150,
+ "last_run_ms": 1792738649782,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36232,6 +36232,18 @@
    "published_ms": 1791211380000,
    "section": "ספורט",
    "title": "מאות מיליונים על הפרק: הדרמה ביורוליג"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-19359de013761a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792738589087,
+   "content_type": "article",
+   "first_seen_ms": 1792738589087,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792738380000,
+   "section": "ספורט",
+   "title": "בסכום שיא: כך בן מנספורד כמעט חתם בנתניה"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-22380bbca2621a1026.htm": {
    "check_attempts": 1,
