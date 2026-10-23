@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-665568d9de661a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/23/V1_yehuda_7663_23102026042928_1400_1792729852074_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>דיווח על פיגוע ירי סמוך לצומת יהודה שבמרחב חטיבת יהודה, הפרטים בבדיקה</video:title>
+<video:description>דיווח על פיגוע ירי סמוך לצומת יהודה שבמרחב חטיבת יהודה, הפרטים בבדיקה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_yehuda_7663_23102026042928/V1_yehuda_7663_23102026042928_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-23T04:30:58+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-723cbf0f4d661a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/23/M_Celebs_17932_23102026033735_1400_1792727121869_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>תומאס מרקל, אביה המנוכר של מייגן מרקל, נחקר בחשד להחזקת אלפי תמונות וסרטונים של התעללות מינית בילדים</video:title>
+<video:description>תומאס מרקל, אביה המנוכר של מייגן מרקל, נחקר בחשד להחזקת אלפי תמונות וסרטונים של התעללות מינית בילדים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17932_23102026033735/M_Celebs_17932_23102026033735_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-23T03:45:28+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a299bf0f4d661a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/23/M_Celebs_17931_23102026033708_1400_1792726777563_FirstFrame.jpg</video:thumbnail_loc>
@@ -4078,6 +4110,7 @@
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
@@ -9895,6 +9928,7 @@ Powered by Spikes</video:description>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>הכי נצפים השבוע</video:tag>
 </video:video>
 </url>
 <url>
