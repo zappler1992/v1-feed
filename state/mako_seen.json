@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792727550000,
+ "last_run_ms": 1792727848924,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41869,7 +41869,7 @@
    "indexnow_ms": null,
    "published_ms": 1792697280000,
    "section": "חדשות",
-   "title": "נתניהו האשים, רוסיה תקפה בחזרה: \"אנחנו המומים\""
+   "title": "נתניהו האשים, רוסיה תקפה: \"אנחנו המומים\""
   },
   "https://www.mako.co.il/special-mako-news/Article-adf589d3d89d0a1027.htm": {
    "check_attempts": 1,
@@ -42182,6 +42182,18 @@
    "published_ms": 1792172280000,
    "section": "",
    "title": "אחרי תדרוך אחד: הדוברת שקראה לטראמפ \"בעלי\" בדרך החוצה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d5bd7c89f9461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-d5bd7c89f9461a1026.htm",
+   "checked_ms": 1792727667068,
+   "content_type": "article",
+   "first_seen_ms": 1792727667068,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792712400000,
+   "section": "חדשות",
+   "title": "בכירים באיראן טוענים: \"תהיה מערכה עוד לפני הבחירות\""
   },
   "https://www.mako.co.il/special-mako-news/Article-d7459e0cc7c01a1026.htm": {
    "check_attempts": 1,
