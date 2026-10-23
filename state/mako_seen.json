@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792727848924,
+ "last_run_ms": 1792728151392,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15569,6 +15569,18 @@
    "section": "תרבות tvbee",
    "title": "גם אתם לא תוכלו להפסיק בלי לדעת איך זה נגמר"
   },
+  "https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-af4591a2ded51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "תרבות tvbee",
+   "title": "שובר הקופות חוזר - לא בטוח שיש סיבה לצפות"
+  },
   "https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-b51868756e921a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19313,6 +19325,18 @@
    "section": "משפט",
    "title": "עבד כחודשיים – ויפוצה ב-889 אלף שקל"
   },
+  "https://www.mako.co.il/finances-magazine/Article-12fb0f1362451a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792674060000,
+   "section": "כסף",
+   "title": "מה המפלגות מבטיחות לעשות עם הכסף שלכם?"
+  },
   "https://www.mako.co.il/finances-magazine/Article-20ece1590fd51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19384,6 +19408,18 @@
    "published_ms": 1792144500000,
    "section": "כסף",
    "title": "באיזה עשירון אתם באמת, ומה זה אומר על המינוס"
+  },
+  "https://www.mako.co.il/finances-magazine/money_week/Article-6f059b58c3461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": null,
+   "section": "כסף",
+   "title": "מצאנו פתרון לבעיה הכלכלית הכי גדולה של השבוע"
   },
   "https://www.mako.co.il/finances-magazine/money_week/Article-b408008a40021a1026.htm": {
    "check_attempts": 1,
@@ -19708,6 +19744,18 @@
    "published_ms": 1791366240000,
    "section": "",
    "title": "בקרוב בישראל? החנות שמוכנה לשלם כסף על הפריטים הישנים"
+  },
+  "https://www.mako.co.il/finances-news/Article-60e89b58c3461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792726320000,
+   "section": "כסף",
+   "title": "מחכים לאור: למה ישראל לא מבטלת את שעון החורף"
   },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
@@ -21221,6 +21269,18 @@
    "section": "",
    "title": "\"כשהגעתי ל'מאסטר שף' לא ידעתי לבשל\""
   },
+  "https://www.mako.co.il/food-chefs/mako_eats_videocast/Article-c9ace1590fd51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792674960000,
+   "section": "",
+   "title": "\"אני לא רוצה לחזור למסעדנות רק בגלל העובד הישראלי\""
+  },
   "https://www.mako.co.il/food-cooking-with-keshet/Article-16c0648760061a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22205,6 +22265,18 @@
    "section": "",
    "title": "גן עדן של בצק: ביקור במאפייה הסודית שפתוחה רק בלילה"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-5a849387d4261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792673700000,
+   "section": "",
+   "title": "מה עושה הקובה של רובי מיכאל בתוך פיתה?"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-5ca9d52cc4031a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22505,6 +22577,18 @@
    "section": "",
    "title": "יותר יקרות, פחות טעימות: מה קרה לעגבניות שלנו?"
   },
+  "https://www.mako.co.il/food-weekend/keren_baking_for_sabbath/Recipe-80e06dac20e51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792728027218,
+   "content_type": "recipe",
+   "first_seen_ms": 1792728027218,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792677540000,
+   "section": "",
+   "title": "הציפוי המבריק של קרן אגם לעוגה הקבועה שלנו"
+  },
   "https://www.mako.co.il/food-weekend/keren_baking_for_sabbath/Recipe-acd29ab2dd2d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22757,6 +22841,18 @@
    "section": "בריאות",
    "title": "איך הפך ריר חלזונות לשכיח על מדף הקוסמטיקה?"
   },
+  "https://www.mako.co.il/health-magazine/Article-c4d2899558d41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792728720000,
+   "section": "בריאות",
+   "title": "האם נוכל בקרוב למדוד את קצב ההזדקנות שלנו?"
+  },
   "https://www.mako.co.il/health-magazine/Article-c50f59d1693b0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22816,6 +22912,18 @@
    "published_ms": 1791519120000,
    "section": "בריאות",
    "title": "האם כולנו נסבול מחרדת טיסה?"
+  },
+  "https://www.mako.co.il/health-magazine/articles/Article-0df6e40da040781026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792728720000,
+   "section": "בריאות",
+   "title": "המעבר לשעון קיץ: האם זה בריא לנו?"
   },
   "https://www.mako.co.il/health-news/Article-01600af98df01a1027.htm": {
    "check_attempts": 1,
@@ -22912,6 +23020,18 @@
    "published_ms": 1791532980000,
    "section": "",
    "title": "הערים בארץ שבהן אותרו היתושות הנגועות בנגיף המסוכן"
+  },
+  "https://www.mako.co.il/health-news/Article-11739eba1ad41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792728720000,
+   "section": "בריאות",
+   "title": "הטעות של ההורים שמובילה ילדים ישירות למיון"
   },
   "https://www.mako.co.il/health-news/Article-15c0a60531e41a1027.htm": {
    "check_attempts": 1,
@@ -25505,6 +25625,18 @@
    "section": "HIX",
    "title": "גלש בחבל מקורות הגג של האצטדיון – ונפל למגרש"
   },
+  "https://www.mako.co.il/hix-special/Article-33190907cdd51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "HIX",
+   "title": "צילמה את משפחתה באגם, ונבהלה ממה שהופיע ברקע"
+  },
   "https://www.mako.co.il/hix-special/Article-37f7cb1bcb621a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25624,6 +25756,18 @@
    "published_ms": 1790586840000,
    "section": "HIX",
    "title": "ישן על הספסל ברחוב, וקיבל הפתעה לא נעימה"
+  },
+  "https://www.mako.co.il/hix-special/Article-48ddf1392bd51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "HIX",
+   "title": "התאומים הסיאמיים שהיו כוכבי רשת – ומתו ביחד"
   },
   "https://www.mako.co.il/hix-special/Article-4a0c3f6a9aa21a1027.htm": {
    "check_attempts": 1,
@@ -26044,6 +26188,18 @@
    "published_ms": 1791741840000,
    "section": "",
    "title": "מטייל סימס שהוא יורד מפסגת הר - ונפל אל מותו"
+  },
+  "https://www.mako.co.il/hix-special/Article-a5d7ae07a9d51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "HIX",
+   "title": "\"אולי אני לא אלוהים, אבל אני הכי קרובה אליו\""
   },
   "https://www.mako.co.il/hix-special/Article-a748f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
@@ -26849,6 +27005,18 @@
    "section": "הורים",
    "title": "\"רוצים לשמוע רק מה שמחזק את הדעות שלהם\""
   },
+  "https://www.mako.co.il/home-family-kids/Article-939087d49f351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792726740000,
+   "section": "הורים",
+   "title": "זה יתחיל טוב, ואז תבינו שטעיתם בפתרון החידה"
+  },
   "https://www.mako.co.il/home-family-kids/Article-96c7ba57eb251a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27220,6 +27388,18 @@
    "published_ms": 1792126800000,
    "section": "הורים",
    "title": "\"שמונה חודשים היא סירבה שאגע בה\""
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-91235ef628951a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792726920000,
+   "section": "הורים",
+   "title": "נשארים בצבא כי שם ברור מה עושים מחר בבוקר"
   },
   "https://www.mako.co.il/home-family-relationship/Article-a3a2b7b194341a1026.htm": {
    "check_attempts": 1,
@@ -29477,6 +29657,18 @@
    "section": "",
    "title": "\"פתאום גיליתי שמשכו לי כסף מהחשבון\""
   },
+  "https://www.mako.co.il/men-men_news/Article-078a34ae4e361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792677360000,
+   "section": "פלילים",
+   "title": "הכלבה שהפכה לאימת ארגוני הפשע"
+  },
   "https://www.mako.co.il/men-men_news/Article-07ee69afcdf01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29932,6 +30124,18 @@
    "published_ms": 1792575960000,
    "section": "פלילים",
    "title": "\"אשלח אליכם חיילים\": ראש ארגון הפשע מסתבך"
+  },
+  "https://www.mako.co.il/men-men_news/Article-256b00c9ce261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792727906697,
+   "content_type": "article",
+   "first_seen_ms": 1792727906697,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792725900000,
+   "section": "פלילים",
+   "title": "המדינה שסוגרת שערים בפני עבריינים מישראל"
   },
   "https://www.mako.co.il/men-men_news/Article-25dece7a25a31a1027.htm": {
    "check_attempts": 1,
@@ -31577,6 +31781,18 @@
    "section": "פלילים",
    "title": "רעולי פנים ירו לעבר ביתו ומכוניתו של איש עסקים מוכר"
   },
+  "https://www.mako.co.il/men-men_news/Article-7c0b3046bb361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792725120000,
+   "section": "פלילים",
+   "title": "המייל האנונימי שחשף את הסוד המטלטל במשרד"
+  },
   "https://www.mako.co.il/men-men_news/Article-7c0effc1ae931a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31660,6 +31876,18 @@
    "published_ms": 1790150760000,
    "section": "",
    "title": "הראיות שהפלילו את החשוד ברצח ראש המאפיה הקווקזית"
+  },
+  "https://www.mako.co.il/men-men_news/Article-80f58787a8361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792727906697,
+   "content_type": "article",
+   "first_seen_ms": 1792727906697,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792725840000,
+   "section": "פלילים",
+   "title": "\"ב-99 אחוז מהמקרים אין סיכוי למצוא אותם\""
   },
   "https://www.mako.co.il/men-men_news/Article-80f6a69293d51a1026.htm": {
    "check_attempts": 1,
@@ -36677,6 +36905,18 @@
    "section": "דיגיטל",
    "title": "תתקדמו: זה מה שאתם חייבים לבקש היום מהצ'אט"
   },
+  "https://www.mako.co.il/nexter-news/Article-00c3354d19451a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "דיגיטל",
+   "title": "למוטי נמאס לאבד כסף - אז הוא מצא פתרון גאוני"
+  },
   "https://www.mako.co.il/nexter-news/Article-0409ef5e8e501a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37024,6 +37264,30 @@
    "published_ms": 1792049760000,
    "section": "דיגיטל",
    "title": "רוצים לקנות את האייפון המתקפל? יהיה לכם קשה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-3390a1fa14361a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792669800000,
+   "section": "דיגיטל",
+   "title": "\"מגייסות מקבלות היום 300–400 קו\"ח שה-AI כתב\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-3aacf18d90461a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "דיגיטל",
+   "title": "\"פיטרתי עורכי דין, עורכי וידאו גם פוטרו\""
   },
   "https://www.mako.co.il/nexter-news/Article-3b1bd8ac4b8c0a1026.htm": {
    "check_attempts": 1,
@@ -38248,6 +38512,18 @@
    "published_ms": 1790305200000,
    "section": "דיגיטל",
    "title": "הסוד של בית הקפה המצליח בעולם"
+  },
+  "https://www.mako.co.il/nexter-while_you_were_working/Article-d242fc3e36361a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "דיגיטל",
+   "title": "למפתח נמאס לשלם לפוטושופ וזה מה שהוא עשה"
   },
   "https://www.mako.co.il/ninemonth-baby_names/articles/Article-55288de8892d0a1026.htm": {
    "check_attempts": 1,
@@ -42771,6 +43047,18 @@
    "section": "",
    "title": "קירות מתקלפים וזבל: מה קרה לבית המלון המפואר שננטש"
   },
+  "https://www.mako.co.il/travel-israel/Article-3ba2e901b9c51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792729140000,
+   "section": "חופש",
+   "title": "המושב הקטן הזה בצפון הפך לאימפריה של אירוח"
+  },
   "https://www.mako.co.il/travel-israel/Article-441d3a835bf21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42890,6 +43178,18 @@
    "published_ms": 1791465600000,
    "section": "",
    "title": "אחרי אירוע פליי-דובאי: זאת חברת התעופה שאתם הכי אוהבים"
+  },
+  "https://www.mako.co.il/travel-israel/family_trip/Article-588311eb45e51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792730160000,
+   "section": "חופש",
+   "title": "אחרי שנים שהיה סגור: המסלול המושלם לשבת נפתח"
   },
   "https://www.mako.co.il/travel-israel/family_trip/Article-6e2ad1db7dec0a1027.htm": {
    "check_attempts": 1,
@@ -43898,6 +44198,18 @@
    "published_ms": 1792559700000,
    "section": "חופש",
    "title": "לא לוקחים סיכון: בעולם מזהירים - אל תגיעו לכאן בסופ\"ש"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-35db120eaae41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792728360000,
+   "section": "חופש",
+   "title": "הצד הפחות מוכר ביעד שהישראלים התאהבו בו"
   },
   "https://www.mako.co.il/travel-news/international/Article-390330b6fc611a1026.htm": {
    "check_attempts": 1,
@@ -45927,6 +46239,18 @@
    "section": "חופש",
    "title": "הסוד של המדינה היפה: העיר הזו היא קסם האמיתי"
   },
+  "https://www.mako.co.il/travel-world/Article-8265912c4a351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792728900000,
+   "section": "חופש",
+   "title": "זו אחת המדינות היפות - אבל אל תגיעו אליה לבד"
+  },
   "https://www.mako.co.il/travel-world/Article-84c8302033f21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47307,6 +47631,18 @@
    "section": "תרבות tvbee",
    "title": "אז מה אמיתי ומה לא בסדרת הפשע של נטפליקס?"
   },
+  "https://www.mako.co.il/tvbee-articles/see_it_all/Article-3b04fd3f6a261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "תרבות tvbee",
+   "title": "סולימאן מסוודה התרסק ברגע. אבל זה לא הסיפור"
+  },
   "https://www.mako.co.il/tvbee-articles/see_it_all/Article-b82128adc37f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48446,6 +48782,18 @@
    "published_ms": 1790305200000,
    "section": "תרבות tvbee",
    "title": "\"נגה\" נופל לקלישאות שנגה ארז התחמקה מהן"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-33ed120eaae41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792728027218,
+   "content_type": "article",
+   "first_seen_ms": 1792728027218,
+   "indexable": true,
+   "indexnow_ms": 1792728027218,
+   "published_ms": 1792724400000,
+   "section": "תרבות tvbee",
+   "title": "הסדרה היהודית של נטפליקס כבר קצת פחות יהודית"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-3cf7ba83ea2e0a1026.htm": {
    "check_attempts": 1,
