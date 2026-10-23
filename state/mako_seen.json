@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792729649063,
+ "last_run_ms": 1792729949340,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42746,6 +42746,18 @@
    "published_ms": 1791536880000,
    "section": "",
    "title": "קבעה שישראל מבצעת רצח עם בעזה - וזכתה בפרס נובל לשלום"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-fc8e4bc109561a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792729949340,
+   "content_type": "article",
+   "first_seen_ms": 1792729949340,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792727400000,
+   "section": "",
+   "title": "הפריצה לטלפון של קושנר שחשפה העברות מיליארדים מהמפרץ"
   },
   "https://www.mako.co.il/special-mako-news/Article-ffd355ef7da51a1026.htm": {
    "check_attempts": 1,
