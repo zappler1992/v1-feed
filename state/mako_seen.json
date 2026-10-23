@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792770149035,
+ "last_run_ms": 1792770449002,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11563,6 +11563,18 @@
    "section": "ספורט",
    "title": "\"בית ספר לכדורגל\". צפו בבישול של אודגור"
   },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-322498fb34961a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792770387601,
+   "content_type": "article",
+   "first_seen_ms": 1792770387601,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792770120000,
+   "section": "ספורט",
+   "title": "מסוק נחת במתחם: קומפאני התמוטט באימון"
+  },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-32296b19b2461a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -20007,7 +20019,7 @@
    "indexnow_ms": 1792728027218,
    "published_ms": 1792726320000,
    "section": "כסף",
-   "title": "ישראל לא מבטלת את שעון החורף. והסיבה לכך מפתיעה"
+   "title": "מחכים לאור: למה ישראל לא מבטלת את שעון החורף"
   },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
@@ -45782,6 +45794,18 @@
    "published_ms": 1791280860000,
    "section": "חופש",
    "title": "ישר לאחר הנחיתה: ישראלי נעצר בנמל התעופה בחו\"ל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-f3f52e5502961a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792770267536,
+   "content_type": "article",
+   "first_seen_ms": 1792770267536,
+   "indexable": true,
+   "indexnow_ms": 1792770267536,
+   "published_ms": 1792770180000,
+   "section": "",
+   "title": "אחרי המהומות: האזהרה החריגה לישראלים בצרפת"
   },
   "https://www.mako.co.il/travel-news/international/Article-f4cc19de91351a1026.htm": {
    "check_attempts": 1,
