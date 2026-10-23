@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-47bb70a710861a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b962cd81861a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a63f70a710861a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5739,6 +5740,24 @@
    "updated_ms": 1792604157000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a3f62a1067f51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/SHIRA_MICHAL_211026/MASTER/SHIRA_MICHAL_211026_M/SHIRA_MICHAL_211026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a63f70a710861a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "חמש שנים אחרי שדניאל קרייג נפרד מתפקיד ג'יימס בונד, החיפוש אחר מחליפו מגיע לשלבים האחרונים. לפי דיווחים בהוליווד, ג'ק לואדן, קאלום טרנר וג'וש אוקונור הם המועמדים המובילים וצפויים לעבור מבחני מסךבקרוב. לצד השלושה עשויים להתמודד שחקנים נוספים, אך באולפני אמזון טרם אישרו את הרשימה הרשמית.",
+   "duration_s": 25,
+   "first_seen_ms": 1792747946562,
+   "image": "https://img.mako.co.il/2026/10/23/inbalbond231026m_1400_1792747018645_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792747025000,
+   "sections": [
+    "חדשות מהמסך"
+   ],
+   "title": "מי יהיה ג'יימס בונד הבא? המרוץ לתפקיד מגיע לרגע ההכרעה",
+   "type": "general",
+   "updated_ms": 1792747025000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-a63f70a710861a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/inbalbond31026/MASTER/inbalbond231026m/inbalbond231026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-c183122306951a1027.htm": {
    "author": "סלבס",
@@ -78768,6 +78787,24 @@
    "updated_ms": 1792583712000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b93796e4e51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17835_21102026115330/M_NEWS_17835_21102026115330_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b962cd81861a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כוחות צה\"ל בבתי המחבלים בחברון",
+   "duration_s": 11,
+   "first_seen_ms": 1792747946562,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17950_23102026092911_1400_1792747828923_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792747835000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כוחות צה\"ל בבתי המחבלים בחברון",
+   "type": "mivzakim",
+   "updated_ms": 1792747835000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c0b962cd81861a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17950_23102026092911/M_NEWS_17950_23102026092911_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c1fad53cea951a1027.htm": {
    "author": "מבזקים",
