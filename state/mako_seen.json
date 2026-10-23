@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792767450956,
+ "last_run_ms": 1792767749454,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47834,6 +47834,18 @@
    "published_ms": 1792268100000,
    "section": "",
    "title": "בפרק הבכורה: זו הזמרת המפורסמת מתחת למסכה"
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-b22abec92d861a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792767628025,
+   "content_type": "article",
+   "first_seen_ms": 1792767628025,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792767540000,
+   "section": "הכי חם",
+   "title": "נתפסה על חם? ״היא לא תצא מפה עד שהיא תודה״"
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-de1fc5c4d1c11a1027.htm": {
    "check_attempts": 1,

@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8d94e45ec2961a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-da15e45ec2961a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8065,7 +8065,9 @@
    "image": "https://img.mako.co.il/2026/10/23/V1_karind_buzaglo_7680_23102026100445_1400_1792749961948_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1792749968000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "אוהד בוזגלו הוא הכדורגלן לשעבר שנחקר בחשד לתקיפת בת זוגו. בחקירה טען: \"היא תקפה אותי\"",
    "type": "mivzakim",
    "updated_ms": 1792749968000,
@@ -15682,6 +15684,24 @@
    "updated_ms": 1792698931000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d853a3ede1561a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17926_22102026075324/M_Music_17926_22102026075324_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-da15e45ec2961a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי הולדת בנה: גדי איזנקוט מברך את מעיין אדם בשידור חי - והיא לא מצליחה להסתיר את ההתרגשות",
+   "duration_s": 71,
+   "first_seen_ms": 1792767746228,
+   "image": "https://img.mako.co.il/2026/10/23/M_Celebs_17974_23102026024620_1400_1792766873174_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792766880000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי הולדת בנה: גדי איזנקוט מברך את מעיין אדם בשידור חי - והיא לא מצליחה להסתיר את ההתרגשות",
+   "type": "mivzakim",
+   "updated_ms": 1792766880000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-da15e45ec2961a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17974_23102026024620/M_Celebs_17974_23102026024620_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-db000b4d02561a1027.htm": {
    "author": "עדכוני בידור",
@@ -80802,7 +80822,8 @@
    "importance": 0,
    "published_ms": 1792758392000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "הותר לפרסום: סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל נפלו בפיגוע הירי בצומת יהודה",
    "type": "mivzakim",

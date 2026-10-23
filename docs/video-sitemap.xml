@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-da15e45ec2961a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/23/M_Celebs_17974_23102026024620_1400_1792766873174_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אחרי הולדת בנה: גדי איזנקוט מברך את מעיין אדם בשידור חי - והיא לא מצליחה להסתיר את ההתרגשות</video:title>
+<video:description>אחרי הולדת בנה: גדי איזנקוט מברך את מעיין אדם בשידור חי - והיא לא מצליחה להסתיר את ההתרגשות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17974_23102026024620/M_Celebs_17974_23102026024620_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>71</video:duration>
+<video:publication_date>2026-10-23T14:48:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8d94e45ec2961a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/23/V1_PARIS_7687_23102026024452_1400_1792766778068_FirstFrame.jpg</video:thumbnail_loc>
@@ -225,6 +241,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -469,6 +486,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
