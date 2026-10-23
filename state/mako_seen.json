@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792747949715,
+ "last_run_ms": 1792748249890,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2492,6 +2492,18 @@
    "published_ms": 1792241640000,
    "section": "ספורט",
    "title": "סימן לבאות? מה שלמדנו מקדם העונה ב-NBA"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-6d8d62cd81861a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792748249890,
+   "content_type": "article",
+   "first_seen_ms": 1792748249890,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792747980000,
+   "section": "ספורט",
+   "title": "חטיף אנרגיה: השינוי הראשוני אצל אבדיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-6fc9075e4bc51a1027.htm": {
    "check_attempts": 1,
