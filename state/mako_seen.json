@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792744049695,
+ "last_run_ms": 1792744350102,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12895,6 +12895,18 @@
    "section": "ספורט",
    "title": "לוהט. צפו: שער ובישול לעידן טוקלומטי"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-db24637a7a761a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792744350102,
+   "content_type": "article",
+   "first_seen_ms": 1792744350102,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792742340000,
+   "section": "ספורט",
+   "title": "מול הביקורות: מאמן אייאקס יצא להגנת גלוך"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e0301de8e7911a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16311,7 +16323,7 @@
    "indexnow_ms": 1792742787701,
    "published_ms": 1792742520000,
    "section": "",
-   "title": "בלי בת הזוג? אבנר נתניהו נחתבישראל לקראת הבחירות"
+   "title": "בלי בת הזוג? אבנר נתניהו נחת בישראל לקראת הבחירות"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-4c1c63e115931a1026.htm": {
    "check_attempts": 1,
