@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792750348499,
+ "last_run_ms": 1792750648521,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16371,7 +16371,7 @@
    "indexnow_ms": 1792742787701,
    "published_ms": 1792742520000,
    "section": "",
-   "title": "בלי בת הזוג? אבנר נתניהו נחת בישראל לקראת הבחירות"
+   "title": "טס להצביע לאבא: אבנר נתניהו נחת הלילה בישראל"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-4c1c63e115931a1026.htm": {
    "check_attempts": 1,
@@ -30544,6 +30544,18 @@
    "published_ms": 1790711880000,
    "section": "",
    "title": "אלפי נשים אובחנו בשנה: המחלה הממאירה השכיחה בישראל"
+  },
+  "https://www.mako.co.il/men-men_news/Article-2eac9296d2861a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792750586690,
+   "content_type": "article",
+   "first_seen_ms": 1792750586690,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792750500000,
+   "section": "",
+   "title": "אחרי שחשף את מלי וליאל: המעצר הדרמטי שביצע וולטר"
   },
   "https://www.mako.co.il/men-men_news/Article-2f231f5a992f0a1026.htm": {
    "check_attempts": 1,
