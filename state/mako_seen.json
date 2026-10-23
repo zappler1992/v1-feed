@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792770449002,
+ "last_run_ms": 1792770749106,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4952,6 +4952,18 @@
    "published_ms": 1792128120000,
    "section": "ספורט",
    "title": "התפוצצות התקפית: היפוך המגמה של מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-985598fb34961a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792770749106,
+   "content_type": "article",
+   "first_seen_ms": 1792770749106,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792770420000,
+   "section": "ספורט",
+   "title": "החתיכה החסרה? ההתאמה של נדוביץ` למכבי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-9860c5c4d1c11a1027.htm": {
    "check_attempts": 1,
@@ -20019,7 +20031,7 @@
    "indexnow_ms": 1792728027218,
    "published_ms": 1792726320000,
    "section": "כסף",
-   "title": "מחכים לאור: למה ישראל לא מבטלת את שעון החורף"
+   "title": "ישראל לא מבטלת את שעון החורף, והסיבה לכך מפתיעה"
   },
   "https://www.mako.co.il/finances-news/Article-65f0f5d6ed1f0a1027.htm": {
    "check_attempts": 1,
