@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87fdaa1287a61a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cec0e4d9ce961a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39486,7 +39486,9 @@
    "image": "https://img.mako.co.il/2026/10/21/alice_211026_iran_1400_1792572610540_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792774080000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "לא רק איראן: מדינת האויב שהעלתה כוננות",
    "type": "news",
    "updated_ms": 1792776300000,
@@ -40419,6 +40421,24 @@
    "updated_ms": 1792430220000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ca427b2994451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Kim_Trump_19102026_fix_yoav_2/Kim_Trump_19102026_fix_yoav_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cec0e4d9ce961a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "דפנה ליאל חושפת: במפלגת השלטון מכינים מראש שורת טענות ועתירות בנוגע לטוהר הבחירות בקלפיות בחברה הערבית, שיועלו הן לקראת יום ההצבעה והן לאחריו. בין הסוגיות שנבחנות: קשיים נטענים בזיהוי נשים עוטות רעלה, דיווחים על שעות הצבעה נפרדות לנשים ולגברים במגזר הבדואי וטענות לגבי גילם של המפקחים בקלפיות. מתוך אולפן שישי חדשות 12.",
+   "duration_s": 89,
+   "first_seen_ms": 1792790246427,
+   "image": "https://img.mako.co.il/2026/10/23/MAYA_DAFNA_231026_1400_1792779218963_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792779225000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "לקראת הבחירות: בליכוד אוספים טענות לזיופים במגזר הערבי",
+   "type": "news",
+   "updated_ms": 1792779225000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cec0e4d9ce961a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/MAYA_DAFNA_231026/MASTER/MAYA_DAFNA_231026/MAYA_DAFNA_231026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-cf69bafcfbe51a1027.htm": {
    "author": "חדשות",
@@ -78607,7 +78627,7 @@
    ],
    "title": "גוש השינוי מתחזק, וינטר והנדל-זליכה מתחת לאחוז החסימה: הסקר האחרון לפני הבחירות",
    "type": "mivzakim",
-   "updated_ms": 1792780680000,
+   "updated_ms": 1792789920000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8e4bed5520a61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/FIXSEKER/FIXSEKER_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
