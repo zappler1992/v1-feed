@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d031c6abe3561a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-16a90b4d02561a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7993,7 +7993,9 @@
    "image": "https://img.mako.co.il/2026/10/22/V1_ARTZI_7656_22102026071748_1400_1792696767597_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792696774000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "התרגשות על הבמה: שלמה ארצי שיתף מול 5,000 תושבי העוטף - \"הבן שלי כרגע בחדר לידה\"",
    "type": "mivzakim",
    "updated_ms": 1792696774000,
@@ -21934,6 +21936,24 @@
    "updated_ms": 1792349040000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-073e4e9406f41a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/SHIRA_PARIS_181026/MASTER/SHIRA_PARIS_181026_M/SHIRA_PARIS_181026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-16a90b4d02561a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "\"מזלזל במדינה שלנו\": לברון ג'יימס תועד מתרגל תנועות גולף וזריקה בזמן ההמנון האמריקאי לפני משחק NBA. הסרטון עורר סערה ברשת והגיע גם לנשיא טראמפ, שתקף את הכוכב בסגנונו המוכר",
+   "duration_s": 21,
+   "first_seen_ms": 1792723346041,
+   "image": "https://img.mako.co.il/2026/10/22/yoav_lebron_221026_1400_1792698254720_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792698660000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "טראמפ במתקפה חריפה על לברון ג'יימס",
+   "type": "general",
+   "updated_ms": 1792698660000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-16a90b4d02561a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/yoav_lebron_221026/MASTER/yoav_lebron_221026/yoav_lebron_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-1a75e7b5bce51a1026.htm": {
    "author": "מהעולם",
@@ -103861,7 +103881,8 @@
    "importance": 0,
    "published_ms": 1792695665000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "התמלאו בנסורת: משאית התהפכה על כלי רכב חונים בברזיל ושלושה בני אדם נפצעו",
    "type": "mivzakim",
@@ -104034,7 +104055,8 @@
    "importance": 0,
    "published_ms": 1792697462000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מאות אלפים הציפו את רחובות בלגרד: עצרת הענק של האופוזיציה לקראת הבחירות בסרביה | צפו",
    "type": "mivzakim",
