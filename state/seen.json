@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-236582392a861a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a952e93288861a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ac8d9bd16b861a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-337582392a861a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13599,6 +13598,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-32cc5b357d361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17911_22102026014438/M_Tarbut_17911_22102026014438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-337582392a861a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"היה לי מאוד קשה מול אמא שלי\": אילנית לוי משתפת על הגירושים שלה מהזמר איל גולן",
+   "duration_s": 33,
+   "first_seen_ms": 1792759045909,
+   "image": "https://img.mako.co.il/2026/10/23/M_Celebs_17962_23102026122625_1400_1792758480358_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792758487000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"היה לי מאוד קשה מול אמא שלי\": אילנית לוי משתפת על הגירושים שלה מהזמר איל גולן",
+   "type": "mivzakim",
+   "updated_ms": 1792758487000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-337582392a861a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17962_23102026122625/M_Celebs_17962_23102026122625_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-34b0e83d90561a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -15164,6 +15181,24 @@
    "updated_ms": 1792578488000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-aa4266d09fd51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17831_21102026102639/M_Music_17831_21102026102639_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ac8d9bd16b861a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי שהוגשה נגדה תביעה נגד מנהלה לשעבר, שנחשף ב-mako, מרגול עושה קבלת שבת בבארבי",
+   "duration_s": 25,
+   "first_seen_ms": 1792759045909,
+   "image": "https://img.mako.co.il/2026/10/23/M_Music_17963_23102026122658_1400_1792758490547_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792758497000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי שהוגשה נגדה תביעה נגד מנהלה לשעבר, שנחשף ב-mako, מרגול עושה קבלת שבת בבארבי",
+   "type": "mivzakim",
+   "updated_ms": 1792758497000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ac8d9bd16b861a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17963_23102026122658/M_Music_17963_23102026122658_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ae54d23250061a1027.htm": {
    "author": "עדכוני בידור",
@@ -80583,9 +80618,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הותר לפרסום: סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל נפלו בפיגוע הירי בצומת יהודה",
-   "duration_s": 5,
+   "duration_s": 36,
    "first_seen_ms": 1792758745990,
-   "image": "https://img.mako.co.il/2026/10/23/V1_HOTAR_7684_23102026122503_1400_1792758385389_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/23/HOTAR_FIX_1400_1792758746306_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1792758392000,
    "sections": [
@@ -80595,7 +80630,7 @@
    "type": "mivzakim",
    "updated_ms": 1792758392000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_HOTAR_7684_23102026122503/V1_HOTAR_7684_23102026122503_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/HOTAR_FIX/HOTAR_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fc60b01dbe251a1027.htm": {
    "author": "מבזקים",
