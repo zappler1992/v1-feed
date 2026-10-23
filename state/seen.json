@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-f2a0a4f0bc761a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d636a4f0bc761a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6d475129fd761a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39193,6 +39194,24 @@
    "updated_ms": 1792574100000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-69cdae07a9d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/Kim_Chat_21102026/MASTER/Kim_Chat_21102026/Kim_Chat_21102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6d475129fd761a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נתניהו, בנט או איזנקוט? המתקשרת ריקי קיטרו מגלה מי יבחר לראשות הממשלה בבחירות לכנסת ה-26",
+   "duration_s": 66,
+   "first_seen_ms": 1792745546472,
+   "image": "https://img.mako.co.il/2026/10/23/NOAY_RIKI_231026_1400_1792744853414_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792744860000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "המתקשרת שחושפת: אלה יהיו תוצאות הבחירות",
+   "type": "news",
+   "updated_ms": 1792744860000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6d475129fd761a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/NOAY_RIKI_231026/MASTER/NOAY_RIKI_231026/NOAY_RIKI_231026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-6e9e29f348351a1026.htm": {
    "author": "חדשות",
@@ -79326,6 +79345,24 @@
    "updated_ms": 1792597084000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d4db80b371f51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17849_21102026033634/M_NEWS_17849_21102026033634_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d636a4f0bc761a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מחבלים עוצרים ליד תחנת הדלק, שולפים נשקים - ומטפסים על השער | צפו בתיעוד הדרמטי מהפיגוע הבוקר",
+   "duration_s": 46,
+   "first_seen_ms": 1792745546472,
+   "image": "https://img.mako.co.il/2026/10/23/V1_karind_pigua_7679_23102026084556_1400_1792745247261_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792745253000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מחבלים עוצרים ליד תחנת הדלק, שולפים נשקים - ומטפסים על השער | צפו בתיעוד הדרמטי מהפיגוע הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1792745253000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d636a4f0bc761a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_karind_pigua_7679_23102026084556/V1_karind_pigua_7679_23102026084556_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d66e7663a0761a1027.htm": {
    "author": "מבזקים",
