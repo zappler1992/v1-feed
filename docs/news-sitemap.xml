@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-7abdcd69b9761a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-23T07:28:00+00:00</news:publication_date>
+<news:title>החשד הדרמטי: המשפיען בן ה-30 הצית את עצמו למוות בלייב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/23/Inbalwhat231026m_1400_1792740473693_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-efa3ab8877761a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2528,23 +2537,5 @@
 <news:title>ארקיע מצטרפת לשאר החברות ומודיעה: הטיסות למרוקו מוקפאות בשל אילוצי אבטחה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/21/yoav_DEAN_211026_MIV_1400_1792570051563_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-ee8f427db5d51a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-21T07:36:11+00:00</news:publication_date>
-<news:title>שתי טיפות מים: קים קרדשיאן התחפשה לביתה נורת׳ ווסט לכבוד האלווין</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_Celebs_17813_21102026073423_1400_1792568164576_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a9ceb3a6f5d51a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-21T07:35:20+00:00</news:publication_date>
-<news:title>הארפר סבן חוגגת האלווין כמו אמא קים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_Celebs_17811_21102026073348_1400_1792568114304_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
