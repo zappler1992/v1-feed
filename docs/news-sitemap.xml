@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-31a9098e5ad51a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-23T16:48:00+00:00</news:publication_date>
+<news:title>לא רק איראן: מדינת האויב שהעלתה כוננות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/21/alice_211026_iran_1400_1792572610540_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-d1c2b88a49961a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2375,23 +2384,5 @@
 <news:title>זוהר לא הספקתי, כוכבת המחזמר &quot;בת הים הקטנה&quot;, מנסה להוכיח שהראל מויאל הוא העוף המוזר מהזמר במסכה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/21/M_Tarbut_17855_21102026044758_1400_1792601562733_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3dcf6cd265f51a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-21T16:50:27+00:00</news:publication_date>
-<news:title>זאת גם דרך לשתות תה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_Celebs_17856_21102026044828_1400_1792601419156_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-942c6cd265f51a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-21T16:47:39+00:00</news:publication_date>
-<news:title>מחבל במערך הרקטי של הגא&quot;פ ופעיל צליפה בחמאס: צה&quot;ל חיסל שני מחבלים בצפון רצועת עזה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/21/M_NEWS_17854_21102026044458_1400_1792601253548_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
