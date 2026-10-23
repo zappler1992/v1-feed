@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-31a9098e5ad51a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1e88e66ab961a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9431,7 +9431,9 @@
    "image": "https://img.mako.co.il/2026/10/23/MIZEM_1400_1792763667347_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792763674000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מלך הקסטות מפתיע את מרגול בהופעה בבארבי!",
    "type": "general",
    "updated_ms": 1792769700000,
@@ -22506,7 +22508,8 @@
    "importance": 1,
    "published_ms": 1792755245000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "גל ענק שטף כתב וצלמת בשידור חי בספרד",
    "type": "general",
@@ -78860,6 +78863,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a14a7663a0761a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_mirdaf_7665_23102026043751/V1_mirdaf_7665_23102026043751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1e88e66ab961a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מלך ירדן הגיע לבקר את פצועי פיגוע הכנסייה בבית החולים",
+   "duration_s": 35,
+   "first_seen_ms": 1792775546135,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17978_23102026050713_1400_1792775315753_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792775323000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מלך ירדן הגיע לבקר את פצועי פיגוע הכנסייה בבית החולים",
+   "type": "mivzakim",
+   "updated_ms": 1792775323000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1e88e66ab961a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17978_23102026050713/M_NEWS_17978_23102026050713_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a225ac617ae51a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -80951,7 +80972,7 @@
    ],
    "title": "הותר לפרסום: סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל נפלו בפיגוע הירי בצומת יהודה",
    "type": "mivzakim",
-   "updated_ms": 1792765860000,
+   "updated_ms": 1792775340000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/HOTAR_FIX/HOTAR_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },

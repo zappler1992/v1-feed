@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1e88e66ab961a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/23/M_NEWS_17978_23102026050713_1400_1792775315753_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מלך ירדן הגיע לבקר את פצועי פיגוע הכנסייה בבית החולים</video:title>
+<video:description>מלך ירדן הגיע לבקר את פצועי פיגוע הכנסייה בבית החולים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17978_23102026050713/M_NEWS_17978_23102026050713_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>35</video:duration>
+<video:publication_date>2026-10-23T17:08:43+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-31a9098e5ad51a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/21/alice_211026_iran_1400_1792572610540_FirstFrame.jpg</video:thumbnail_loc>
@@ -225,6 +241,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>תרבות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>תרבות</video:tag>
 </video:video>
 </url>
@@ -405,6 +422,7 @@
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
 <video:tag>מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
