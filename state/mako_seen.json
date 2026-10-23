@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792772849024,
+ "last_run_ms": 1792773149645,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12378,6 +12378,18 @@
    "published_ms": 1790162880000,
    "section": "ספורט",
    "title": "\"סגרתי את הדלת\": הקאמבק לו שרי סירב"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-0133678b87961a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792773149645,
+   "content_type": "article",
+   "first_seen_ms": 1792773149645,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792772880000,
+   "section": "ספורט",
+   "title": "הקלאסיקר ישודר עם שחקנים כדמות פליימוביל"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-07806af890a51a1027.htm": {
    "check_attempts": 1,
