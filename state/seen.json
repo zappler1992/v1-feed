@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-665568d9de661a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-723cbf0f4d661a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a14a7663a0761a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6f9820f8d0761a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -76698,6 +76698,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6e4ffe8814261a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_GADI_7614_22102026061809/V1_SHIR_GADI_7614_22102026061809_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6f9820f8d0761a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלה הן 5 הכותרות החשובות של הבוקר",
+   "duration_s": 56,
+   "first_seen_ms": 1792730546139,
+   "image": "https://img.mako.co.il/2026/10/23/V1_KOTAROT_7664_23102026043732_1400_1792730350479_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792730356000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלה הן 5 הכותרות החשובות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1792730356000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6f9820f8d0761a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_KOTAROT_7664_23102026043732/V1_KOTAROT_7664_23102026043732_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-6fc4c3cbf9f41a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -77783,6 +77801,24 @@
    "updated_ms": 1792690498000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1353f882a461a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_karind_idf_7651_22102026053341/V1_karind_idf_7651_22102026053341_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a14a7663a0761a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל מעדכן: כוחות הצבא פתחו במרדף אחרי המחבל שירה בפיגוע בצומת יהודה, ליד חברון",
+   "duration_s": 9,
+   "first_seen_ms": 1792730546139,
+   "image": "https://img.mako.co.il/2026/10/23/V1_mirdaf_7665_23102026043751_1400_1792730399872_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792730406000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל מעדכן: כוחות הצבא פתחו במרדף אחרי המחבל שירה בפיגוע בצומת יהודה, ליד חברון",
+   "type": "mivzakim",
+   "updated_ms": 1792730406000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a14a7663a0761a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_mirdaf_7665_23102026043751/V1_mirdaf_7665_23102026043751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a225ac617ae51a1026.htm": {
    "author": "מבזקים",
