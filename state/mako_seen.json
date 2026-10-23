@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792788749352,
+ "last_run_ms": 1792789049176,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43321,7 +43321,7 @@
    "indexnow_ms": null,
    "published_ms": 1792701480000,
    "section": "חדשות",
-   "title": "הרמטכ\"ל: \"נמנע פיגוע חמור עוד יותר נגד אזרחי ישראל\""
+   "title": "הרמטכ\"ל על הפיגוע: \"נמנע פיגוע חמור עוד יותר\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
@@ -43358,6 +43358,18 @@
    "published_ms": 1790148480000,
    "section": "חדשות",
    "title": "הרשימה המשותפת ורע\"ם נפסלו בוועדת הבחירות המרכזית"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-c8bf5ed4a7a61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792788987416,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792788987416,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792788840000,
+   "section": "חדשות",
+   "title": "הרמטכ\"ל על הפיגוע: \"נמנע פיגוע חמור עוד יותר\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
    "check_attempts": 1,
