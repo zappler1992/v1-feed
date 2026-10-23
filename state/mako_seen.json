@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792723949255,
+ "last_run_ms": 1792724248821,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11886,6 +11886,18 @@
    "published_ms": 1790768700000,
    "section": "ספורט",
    "title": "אלקמאר הודיעה: לא תתאפשר כניסה לקהל ב\"ש"
+  },
+  "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-50c3512b07661a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792724187615,
+   "content_type": "article",
+   "first_seen_ms": 1792724187615,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792723920000,
+   "section": "ספורט",
+   "title": "אכזבה בב\"ש: \"זה לא יכול לחזור על עצמו\""
   },
   "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-558f9df3ee461a1026.htm": {
    "check_attempts": 1,
