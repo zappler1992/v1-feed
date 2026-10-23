@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-1268d11931961a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-901b129785a61a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1aa58de1e1a61a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9f59e7a653a61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13347,6 +13349,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-19fafc0d29851a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17749_20102026090929/M_Celebs_17749_20102026090929_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1aa58de1e1a61a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״הייתי חסר אחריות״: אסי עזר מתנצל על הסערה עם יעל פוליאקוב",
+   "duration_s": 79,
+   "first_seen_ms": 1792786046640,
+   "image": "https://img.mako.co.il/2026/10/23/M_Celebs_17981_23102026073157_1400_1792784040736_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792784047000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״הייתי חסר אחריות״: אסי עזר מתנצל על הסערה עם יעל פוליאקוב",
+   "type": "mivzakim",
+   "updated_ms": 1792784047000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1aa58de1e1a61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17981_23102026073157/M_Celebs_17981_23102026073157_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1bf7f67b91851a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -15074,6 +15094,24 @@
    "updated_ms": 1792652874000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9e63d62ca6261a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17888_22102026070545/M_Tarbut_17888_22102026070545_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9f59e7a653a61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מסי קיבל את פרס נסיכת אסטוריאס לספורט לשנת 2026, מידי הנסיכה לאונור ובנוכחות משפחת המלוכה הספרדית",
+   "duration_s": 14,
+   "first_seen_ms": 1792786046640,
+   "image": "https://img.mako.co.il/2026/10/23/M_Celebs_17980_23102026072013_1400_1792783289842_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792783296000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מסי קיבל את פרס נסיכת אסטוריאס לספורט לשנת 2026, מידי הנסיכה לאונור ובנוכחות משפחת המלוכה הספרדית",
+   "type": "mivzakim",
+   "updated_ms": 1792783296000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-9f59e7a653a61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17980_23102026072013/M_Celebs_17980_23102026072013_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a0ff2c6773d41a1026.htm": {
    "author": "עדכוני בידור",
@@ -78429,6 +78467,24 @@
    "updated_ms": 1792766187000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8fde2e5502961a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_PIGOA_7686_23102026023456/V1_PIGOA_7686_23102026023456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-901b129785a61a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: ״יתכן שנבצע עוד מבצע באיראן, או שהם יסכימו לתנאים שלנו״",
+   "duration_s": 19,
+   "first_seen_ms": 1792786046640,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17982_23102026080358_1400_1792785926929_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792785937000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: ״יתכן שנבצע עוד מבצע באיראן, או שהם יסכימו לתנאים שלנו״",
+   "type": "mivzakim",
+   "updated_ms": 1792785937000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-901b129785a61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17982_23102026080358/M_NEWS_17982_23102026080358_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9094bb4e7e651a1027.htm": {
    "author": "מבזקים",
