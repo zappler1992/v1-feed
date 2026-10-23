@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792781850114,
+ "last_run_ms": 1792782149897,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39100,6 +39100,18 @@
    "published_ms": 1790712480000,
    "section": "",
    "title": "\"תמיד רציתי בן הומו, אבל הוא יצא סטרייט\""
+  },
+  "https://www.mako.co.il/pride-culture/Article-22dfe5e2e9511a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792781907084,
+   "content_type": "article",
+   "first_seen_ms": 1792781907084,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792724400000,
+   "section": "גאווה",
+   "title": "הסרט הלסבי הנועז שכמעט והוקרן למבוגרים בלבד"
   },
   "https://www.mako.co.il/pride-culture/Article-5ba6c68f023d0a1026.htm": {
    "check_attempts": 1,
