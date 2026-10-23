@@ -1,11 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-3d45129785a61a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-f2078e44d4a61a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-e2648e44d4a61a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4b8b129785a61a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-7eb098fb34961a1026.htm"
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-da33d96414961a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-60be8e44d4a61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -5651,6 +5648,24 @@
    "updated_ms": 1792665480000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-5c4f5c5292361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LIRON_NOAMLAPP_22102026/MASTER/LIRON_NOAMLAPP_22102026/LIRON_NOAMLAPP_22102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-60be8e44d4a61a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"אני חושב שאני צריך להתנצל יותר ממנה\": אסי עזר מודה שהיה מעורב בעריכה ואישר את הקטע משיקולי טראפיק, תוך השמטת חלקי הוויכוח ביניהם. הוא משתף כיצד תגובות מהשטח, ובמיוחד סיפורים ממורים על הפגיעה בילדים, ניערו אותו להבין את חוסר האחריות שבהחלטתו\n\nמתוך \"מי רוצה להתחיל\", קשת 12",
+   "duration_s": 82,
+   "first_seen_ms": 1792788146378,
+   "image": "https://img.mako.co.il/2026/10/23/ASSIM_1400_1792785571424_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792785660000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"הבנתי שהייתי חסר אחריות\": אסי עזר מתנצל על 'סערת הפרות' עם יעל פוליאקוב",
+   "type": "general",
+   "updated_ms": 1792785660000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-60be8e44d4a61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/ASSIM/MASTER/ASSIM/ASSIM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w04/shorts-6549263330f41a1026.htm": {
    "author": "סלבס",
@@ -26615,6 +26630,24 @@
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-c4e0ab480c451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/MAYA_ELAL_191026/MASTER/MAYA_ELAL_191026/MAYA_ELAL_191026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-da33d96414961a1027.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1792788146378,
+   "image": "https://img.mako.co.il/2026/10/23/MAYA_WINTER_231026_1400_1792768835200_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792768842000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "למה ישראל לא מבטלת את שעון החורף?",
+   "type": "general",
+   "updated_ms": 1792768842000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-da33d96414961a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/MAYA_WINTER_231026/MASTER/MAYA_WINTER_231026/MAYA_WINTER_231026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/living_healthy-magazine/2025-m07_w03/shorts-5251f6336830891026.htm": {
    "author": "חיים בריא",
    "date_source": null,
@@ -39234,7 +39267,8 @@
    "importance": 2,
    "published_ms": 1792764360000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "תושב אשקלון גנב מוצרים מרשתות המזון - ונידון ל-17 חודשי מאסר",
    "type": "news",
