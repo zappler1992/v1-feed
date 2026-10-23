@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792771648868,
+ "last_run_ms": 1792771949033,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31997,6 +31997,18 @@
    "section": "",
    "title": "גנב רכב, דרס למוות רוכב אופניים וניסה להימלט"
   },
+  "https://www.mako.co.il/men-men_news/Article-76bab748d7961a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792771827611,
+   "content_type": "article",
+   "first_seen_ms": 1792771827611,
+   "indexable": true,
+   "indexnow_ms": 1792771827611,
+   "published_ms": 1792771440000,
+   "section": "",
+   "title": "דאג לעובדו שביקש לצאת מוקדם, ואז איתר אותו מת בביתו"
+  },
   "https://www.mako.co.il/men-men_news/Article-76e44427ecf21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43022,6 +43034,18 @@
    "published_ms": 1790529600000,
    "section": "",
    "title": "השפלה בהונגריה: אירלנד הביסה את ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f273f6f3fb861a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-f273f6f3fb861a1027.htm",
+   "checked_ms": 1792771827611,
+   "content_type": "article",
+   "first_seen_ms": 1792771827611,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792771680000,
+   "section": "חדשות",
+   "title": "ירדן: לפחות 7 הרוגים באירוע ירי בכנסייה"
   },
   "https://www.mako.co.il/special-mako-news/Article-f4111b40338e0a1026.htm": {
    "check_attempts": 1,
