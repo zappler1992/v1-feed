@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792786950473,
+ "last_run_ms": 1792787187419,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32657,6 +32657,18 @@
    "section": "",
    "title": "ההסתבכות של נכה צה\"ל עם נחיתתו בנתב\"ג"
   },
+  "https://www.mako.co.il/men-men_news/Article-96398e44d4a61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792787187419,
+   "content_type": "article",
+   "first_seen_ms": 1792787187419,
+   "indexable": true,
+   "indexnow_ms": 1792787187419,
+   "published_ms": 1792786440000,
+   "section": "",
+   "title": "ניסה לגנוב כמות עצומה של אבוקדו. כך הוא נתפס"
+  },
   "https://www.mako.co.il/men-men_news/Article-978404700a751a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -40143,7 +40155,7 @@
    "indexnow_ms": null,
    "published_ms": 1792727820000,
    "section": "צבא וביטחון",
-   "title": "אם תהיה תקיפה או לא: הנזק שכבר נעשה - לכולנו"
+   "title": "נזק לא אגבי: מחיר \"אסטרטגיית הרעש\" מול איראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-3b9a6d8f74931a1026.htm": {
    "check_attempts": 1,
@@ -42518,6 +42530,18 @@
    "published_ms": 1792210620000,
    "section": "",
    "title": "שבת של סתיו: הגשם חוזר, אבל ההתחממות כבר מעבר לפינה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8ea5e45ec2961a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-8ea5e45ec2961a1027.htm",
+   "checked_ms": 1792787187419,
+   "content_type": "article",
+   "first_seen_ms": 1792787187419,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792786980000,
+   "section": "",
+   "title": "גוש השינוי מתחזק - והמפלגות שנותרות מתחת לאחוז החסימה"
   },
   "https://www.mako.co.il/special-mako-news/Article-903fe681dda41a1026.htm": {
    "check_attempts": 1,
