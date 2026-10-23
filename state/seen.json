@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3b59e93288861a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3009e93288861a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-236582392a861a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a952e93288861a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13346,6 +13347,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-22cb441c0c551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17707_19102026080106/M_Tarbut_17707_19102026080106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-236582392a861a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מי זה??? מלך הקאסטות מ״הזמר במסכה״ מפתיע את הקהל בהופעת צהריים של מרגול עם הביצוע המיוחד שלו ללהיט -",
+   "duration_s": 24,
+   "first_seen_ms": 1792758745990,
+   "image": "https://img.mako.co.il/2026/10/23/M_Music_17961_23102026122609_1400_1792758440100_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792758446000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מי זה??? מלך הקאסטות מ״הזמר במסכה״ מפתיע את הקהל בהופעת צהריים של מרגול עם הביצוע המיוחד שלו ללהיט -",
+   "type": "mivzakim",
+   "updated_ms": 1792758446000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-236582392a861a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17961_23102026122609/M_Music_17961_23102026122609_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-23b6b3a6f5d51a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -15091,6 +15110,24 @@
    "updated_ms": 1792442650000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a90c6eaa1e551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17716_19102026084234/M_Music_17716_19102026084234_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a952e93288861a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה איתי לוי? לא, זה ששון שאולוב",
+   "duration_s": 27,
+   "first_seen_ms": 1792758745990,
+   "image": "https://img.mako.co.il/2026/10/23/M_Music_17960_23102026120046_1400_1792756921278_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792756927000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה איתי לוי? לא, זה ששון שאולוב",
+   "type": "mivzakim",
+   "updated_ms": 1792756927000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a952e93288861a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17960_23102026120046/M_Music_17960_23102026120046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-a9ceb3a6f5d51a1026.htm": {
    "author": "עדכוני בידור",
@@ -80541,6 +80578,24 @@
    "updated_ms": 1792407029000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb18f5778c351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_EVEN_7518_19102026104819/V1_EVEN_7518_19102026104819_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הותר לפרסום: סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל נפלו בפיגוע הירי בצומת יהודה",
+   "duration_s": 5,
+   "first_seen_ms": 1792758745990,
+   "image": "https://img.mako.co.il/2026/10/23/V1_HOTAR_7684_23102026122503_1400_1792758385389_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792758392000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הותר לפרסום: סמ\"ר רון יונתן רויטמן ז\"ל וסמל יובל שי סוילם ז\"ל נפלו בפיגוע הירי בצומת יהודה",
+   "type": "mivzakim",
+   "updated_ms": 1792758392000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fb6c9bd16b861a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_HOTAR_7684_23102026122503/V1_HOTAR_7684_23102026122503_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fc60b01dbe251a1027.htm": {
    "author": "מבזקים",
