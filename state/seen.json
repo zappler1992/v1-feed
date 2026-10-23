@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-32c37663a0761a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-422a05f262761a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-06b805f262761a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -12986,6 +12987,24 @@
    "updated_ms": 1792520363000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-05cd5d0568a51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17782_20102026061751/M_Celebs_17782_20102026061751_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-06b805f262761a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בחנות אפל בשדרה החמישית בניו יורק נערכים לקבלת האייפון המתקפל הראשון",
+   "duration_s": 18,
+   "first_seen_ms": 1792732346160,
+   "image": "https://img.mako.co.il/2026/10/23/M_Tarbut_17938_23102026050515_1400_1792731975679_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792731982000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בחנות אפל בשדרה החמישית בניו יורק נערכים לקבלת האייפון המתקפל הראשון",
+   "type": "mivzakim",
+   "updated_ms": 1792731982000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-06b805f262761a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17938_23102026050515/M_Tarbut_17938_23102026050515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-073c80b371f51a1026.htm": {
    "author": "עדכוני בידור",
@@ -75902,6 +75921,24 @@
    "updated_ms": 1792395246000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17663_19102026073212/M_NEWS_17663_19102026073212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-422a05f262761a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פיגוע הירי באזור הר חברון: שני המחבלים חוסלו וחמישה פצועים פונו לבית החולים - 2 במצב אנוש",
+   "duration_s": 48,
+   "first_seen_ms": 1792732346160,
+   "image": "https://img.mako.co.il/2026/10/23/V1_dvorimivzak_7668_23102026050639_1400_1792732091428_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792732097000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פיגוע הירי באזור הר חברון: שני המחבלים חוסלו וחמישה פצועים פונו לבית החולים - 2 במצב אנוש",
+   "type": "mivzakim",
+   "updated_ms": 1792732097000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-422a05f262761a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_dvorimivzak_7668_23102026050639/V1_dvorimivzak_7668_23102026050639_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-429d0069b6361a1026.htm": {
    "author": "מבזקים",
