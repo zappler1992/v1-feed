@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792760848897,
+ "last_run_ms": 1792761148819,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47714,6 +47714,18 @@
    "published_ms": 1792665060000,
    "section": "קשת 12",
    "title": "שחר חסון: \"בעיקר ניסיתי להכשיל אותם\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-555abec92d861a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792761148819,
+   "content_type": "article",
+   "first_seen_ms": 1792761148819,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792760280000,
+   "section": "",
+   "title": "מרגול בהלם: זה מה שקרה בהופעה של הזמרת"
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-5c4c83c375061a1027.htm": {
    "check_attempts": 1,
