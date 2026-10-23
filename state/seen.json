@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-7f981da907861a1027.htm",
-  "https://www.v-1.co.il/sport-magazine/2026-m10_w04/shorts-c1c7ed2b16861a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34390ecc88861a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -76010,6 +76009,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-33e0e861e0751a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/M_NEWS_17719_20102026025141/M_NEWS_17719_20102026025141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34390ecc88861a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראש הממשלה נתניהו בחברון: ״צה״ל ייכנס לשכונות שמהן יצאו המחבלים, יפנה את התושבים, יעבור בית בית ויהר",
+   "duration_s": 113,
+   "first_seen_ms": 1792755445816,
+   "image": "https://img.mako.co.il/2026/10/23/M_NEWS_17959_23102026113103_1400_1792755184629_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792755191000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראש הממשלה נתניהו בחברון: ״צה״ל ייכנס לשכונות שמהן יצאו המחבלים, יפנה את התושבים, יעבור בית בית ויהר",
+   "type": "mivzakim",
+   "updated_ms": 1792755191000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34390ecc88861a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/M_NEWS_17959_23102026113103/M_NEWS_17959_23102026113103_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34993333d4a51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -76643,11 +76660,11 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-50035731b6861a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "תיעוד חריג: חילופי האש בפיגוע בהר חברון - כפי שצולמו במצלמת הקסדה של קב\"ט קריית ארבע",
+   "description": "תיעוד חריג: חילופי האש בפיגוע בהר חברון - כפי שצולמו במצלמת הקסדה של קב\"ט קריית ארבע.",
    "duration_s": 180,
    "first_seen_ms": 1792754845910,
    "image": "https://img.mako.co.il/2026/10/23/V1_karind_kasda_7682_23102026111908_1400_1792754517313_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792754523000,
    "sections": [
     "מבזקים"
