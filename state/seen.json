@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-34390ecc88861a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3b59e93288861a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3009e93288861a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22280,6 +22281,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-2e1e9a012f951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/biata_alligator_201026_fix/biata_alligator_201026_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3009e93288861a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המגיש הותר המום: כתב ערוץ ETB הספרדי דיווח בשידור חי על הסערה והגלים המסוכנים בחופי צפון ספרד, כשלפתע גל ענק עבר את חומת ההגנה ושטף אותו ואת הצלמת שלצידו והשידור נקטע.",
+   "duration_s": 20,
+   "first_seen_ms": 1792756945847,
+   "image": "https://img.mako.co.il/2026/10/23/gal231026m_1400_1792755238796_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792755245000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "גל ענק שטף כתב וצלמת בשידור חי בספרד",
+   "type": "general",
+   "updated_ms": 1792755245000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3009e93288861a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/gal231026/MASTER/gal231026m/gal231026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3070efddef851a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -22297,6 +22316,24 @@
    "updated_ms": 1792495226000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3070efddef851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/SHIRA_OPERA_201026/MASTER/SHIRA_OPERA_201026_M/SHIRA_OPERA_201026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3b59e93288861a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תקרית חריגה בטיסה מנמל התעופה JFK בניו יורק לאטלנטה: נוסע התפרע, צרח \"מוות לאמריקה\" ואף העמיד פנים שהוא יורה לעבר נוסעים אחרים במטוס. \nהתיעוד מהאירוע פורסם באופן בלעדי, אך בשלב זה לא נמסרו פרטים נוספים על נסיבות התקרית או על מעצר אפשרי.",
+   "duration_s": 30,
+   "first_seen_ms": 1792756945847,
+   "image": "https://img.mako.co.il/2026/10/23/Kim_CrazyFlight_23102026_1400_1792755365580_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792755372000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "טרלול בטיסה: נוסע צרח \"מוות לאמריקה\" ודימה ירי לעבר נוסעים",
+   "type": "general",
+   "updated_ms": 1792755372000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-3b59e93288861a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/Kim_CrazyFlight_23102026/MASTER/Kim_CrazyFlight_23102026/Kim_CrazyFlight_23102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-4004cdd856e51a1027.htm": {
    "author": "מהעולם",
