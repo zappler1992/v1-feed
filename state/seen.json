@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-519d620fade61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c740620fade61a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0a60620fade61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13260,6 +13261,24 @@
    "updated_ms": 1792356278000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-09b60c776a051a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17641_18102026084312/M_Music_17641_18102026084312_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0a60620fade61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״החתונה שלה כאילו לא קרתה אם זה לא ברילס״: מרגי עוקץ את נועה קירל בשיר חדש?",
+   "duration_s": 28,
+   "first_seen_ms": 1792862545749,
+   "image": "https://img.mako.co.il/2026/10/24/M_Music_18025_24102026051837_1400_1792862391691_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792862398000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״החתונה שלה כאילו לא קרתה אם זה לא ברילס״: מרגי עוקץ את נועה קירל בשיר חדש?",
+   "type": "mivzakim",
+   "updated_ms": 1792862398000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0a60620fade61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18025_24102026051837/M_Music_18025_24102026051837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0c610c75d3251a1027.htm": {
    "author": "עדכוני בידור",
@@ -80893,6 +80912,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c68058cb32451a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17684_19102026123440/M_NEWS_17684_19102026123440_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c740620fade61a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתין זר בשנות ה-40 לחייו נעצר בחשד לניפוץ שמשות של ניידות משטרה ואמבולנסים בדרום ת\"א",
+   "duration_s": 9,
+   "first_seen_ms": 1792862545749,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_18024_24102026051810_1400_1792862375373_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792862381000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתין זר בשנות ה-40 לחייו נעצר בחשד לניפוץ שמשות של ניידות משטרה ואמבולנסים בדרום ת\"א",
+   "type": "mivzakim",
+   "updated_ms": 1792862381000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c740620fade61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_18024_24102026051810/M_NEWS_18024_24102026051810_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-c7fcf5accc161a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -94467,7 +94504,7 @@
    ],
    "title": "אמת או חובה: דפנה ליאל",
    "type": "general",
-   "updated_ms": 1792831800000,
+   "updated_ms": 1792862340000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-49359296d2861a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/DANIEL_DAFNA_231026/MASTER/DANIEL_DAFNA_231026/DANIEL_DAFNA_231026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
