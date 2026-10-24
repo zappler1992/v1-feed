@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e5a973e08fe61a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-24T17:37:47+00:00</news:publication_date>
+<news:title>המפגינים בפריז מתנפלים על סוכנות הרכבים ״אאודי״: הכאוס ברחובות צרפת</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/24/V1_SHIR_FRANCE3_7718_24102026053530_1400_1792863460446_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-be89a4bc6fe61a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1781,14 +1790,5 @@
 <news:title>סגן נשיא ארה&quot;ב ואנס עצר את נאומו לאחר שאישה בקהל חשה ברע: &quot;הצטרפו אליי לתפילה לשלומה&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_VANCE_7653_22102026060430_1400_1792692360167_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2cacee1efa461a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T17:41:33+00:00</news:publication_date>
-<news:title>באיראן משוכנעים: &quot;ישראל הולכת לתקוף ראשונה&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_iran_7652_22102026053939_1400_1792690886328_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

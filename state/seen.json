@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-be89a4bc6fe61a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e5a973e08fe61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41254,7 +41254,8 @@
    "importance": 1,
    "published_ms": 1792853820000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "בעקבות העצרת: אלה הרחובות שייחסמו הערב",
    "type": "news",
@@ -106817,7 +106818,8 @@
    "importance": 0,
    "published_ms": 1792848744000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "סופת הטייפון מכה: גלי ענק פוגעים בחופי טאיוואן, הרוג אחד ואלפים פונו מבתיהם",
    "type": "mivzakim",
@@ -106932,7 +106934,8 @@
    "importance": 0,
    "published_ms": 1792847687000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "דרמה בחגיגות: זיקוקים עפו לעבר הקהל במהלך שריפת בובה בהודו",
    "type": "mivzakim",
@@ -107218,7 +107221,8 @@
    "importance": 0,
    "published_ms": 1792849874000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כוננות שיא בצרפת מחשש למהומות: מוזיאון הלובר נסגר ו-70 אלף שוטרים נפרסו ברחובות",
    "type": "mivzakim",
@@ -107393,6 +107397,24 @@
    "updated_ms": 1792692367000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e4eb45592c461a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_VANCE_7653_22102026060430/V1_VANCE_7653_22102026060430_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e5a973e08fe61a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "המפגינים בפריז מתנפלים על סוכנות הרכבים ״אאודי״: הכאוס ברחובות צרפת",
+   "duration_s": 70,
+   "first_seen_ms": 1792863745738,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_FRANCE3_7718_24102026053530_1400_1792863460446_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792863467000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "המפגינים בפריז מתנפלים על סוכנות הרכבים ״אאודי״: הכאוס ברחובות צרפת",
+   "type": "mivzakim",
+   "updated_ms": 1792863467000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e5a973e08fe61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_FRANCE3_7718_24102026053530/V1_SHIR_FRANCE3_7718_24102026053530_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-ec09e1c3e9c61a1026.htm": {
    "author": "מבזקים מהעולם",
