@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76aa15f8e9a61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7950624a1fb61a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7630624a1fb61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -78036,6 +78037,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7519256f27251a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/FIX_Kim_TURKIY_19102026/FIX_Kim_TURKIY_19102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7630624a1fb61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היום יהיה חם - אבל הגשם ממש מעבר לפינה: התחזית המלאה לשבוע הבחירות",
+   "duration_s": 51,
+   "first_seen_ms": 1792814246092,
+   "image": "https://img.mako.co.il/2026/10/24/V1_TCHZT_7692_24102026035311_1400_1792814121886_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792814128000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היום יהיה חם - אבל הגשם ממש מעבר לפינה: התחזית המלאה לשבוע הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792814128000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7630624a1fb61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_TCHZT_7692_24102026035311/V1_TCHZT_7692_24102026035311_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-76546dac20e51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -78107,6 +78126,24 @@
    "updated_ms": 1792577502000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-78cc91a2ded51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17829_21102026101010/M_NEWS_17829_21102026101010_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7950624a1fb61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשש להתפרצות אבולה באפריקה: באוגנדה החמירו את אמצעי הזהירות מול המחלה ומונעים כניסה של מטיילים ממדינ",
+   "duration_s": 9,
+   "first_seen_ms": 1792814246092,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_17989_24102026035407_1400_1792814147098_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792814154000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשש להתפרצות אבולה באפריקה: באוגנדה החמירו את אמצעי הזהירות מול המחלה ומונעים כניסה של מטיילים ממדינ",
+   "type": "mivzakim",
+   "updated_ms": 1792814154000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-7950624a1fb61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_17989_24102026035407/M_NEWS_17989_24102026035407_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-79bd7663a0761a1027.htm": {
    "author": "מבזקים",
