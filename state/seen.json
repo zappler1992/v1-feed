@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c6c5190430c61a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cc9ea33b32c61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -15725,6 +15725,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cbb64f192ba51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17784_20102026072249/M_Celebs_17784_20102026072249_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cc9ea33b32c61a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "“WTF”: אווי גופין, הסולנית הראשונה של לאסגו, הופיעה הלילה בת״א ולא האמינה שהקהל מכיר את כל המילים",
+   "duration_s": 90,
+   "first_seen_ms": 1792818446137,
+   "image": "https://img.mako.co.il/2026/10/24/M_Music_17994_24102026044150_1400_1792817043172_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792817049000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "“WTF”: אווי גופין, הסולנית הראשונה של לאסגו, הופיעה הלילה בת״א ולא האמינה שהקהל מכיר את כל המילים",
+   "type": "mivzakim",
+   "updated_ms": 1792817049000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-cc9ea33b32c61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_17994_24102026044150/M_Music_17994_24102026044150_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-d02b989dfd161a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -17013,7 +17031,8 @@
    "published_ms": 1792157984000,
    "sections": [
     "חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בהלה בנבטים: מצנח רחיפה נחת סמוך ליישוב ולבסיס. המשטרה לתושבים המודאגים: \"לא מוכר איר",
    "type": "mivzakim",
@@ -39857,7 +39876,8 @@
    "published_ms": 1792338480000,
    "sections": [
     "חדשות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "דרמה בשמיים: טיסת אל על לניו יורק כמעט התנגשה במטוס אחר באוויר",
    "type": "news",
@@ -40375,9 +40395,9 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "המודיעין האמריקני מתריע כי איראן \"הגבירה באופן משמעותי\" את מאמציה לפגוע בדיפלומטים ובבכירים אמריקנים במזרח התיכון ובאזורים אחרים בעולם, וכי תוכניות להתנקש בחייהם הגיעו ל\"שלבים מתקדמים\", כך נחשף בחדשות 12.",
-   "duration_s": 57,
+   "duration_s": 39,
    "first_seen_ms": 1792816046732,
-   "image": "https://img.mako.co.il/2026/10/24/alice_241026_iran_1400_1792815287715_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/24/alice_241026_iran_fix_1400_1792816590310_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792815294000,
    "sections": [],
@@ -40385,7 +40405,7 @@
    "type": "news",
    "updated_ms": 1792815294000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c6c5190430c61a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/alice_241026_iran/MASTER/alice_241026_iran/alice_241026_iran_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/alice_241026_iran_fix/alice_241026_iran_fix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-c829742b1ed51a1026.htm": {
    "author": "חדשות",
@@ -78743,7 +78763,7 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8e4bed5520a61a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "גוש השינוי מתחזק, וינטר והנדל-זליכה מתחת לאחוז החסימה: הסקר האחרון לפני הבחירות",
+   "description": "גוש השינוי מתחזק, וינטר והנדל-זליכה מתחת לאחוז החסימה: הסקר האחרון לפני הבחירות .",
    "duration_s": 86,
    "first_seen_ms": 1792780646404,
    "image": "https://img.mako.co.il/2026/10/23/V1_SEKER_7691_23102026062901_1400_1792780268951_FirstFrame.jpg",
@@ -105724,7 +105744,8 @@
    "published_ms": 1792695224000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "החגורה נפתחה בשיא המהירות - ונערה צנחה אל מותה ממתקן בלונה פארק במקסיקו | תיעוד קשה",
    "type": "mivzakim",
@@ -105743,7 +105764,8 @@
    "published_ms": 1792505484000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הפתעה באמצע הטיסה: מנהל תא הנוסעים של וירג'ין אוסטרליה פצח בשירה מול הנוסעים בדרך למלבורן",
    "type": "mivzakim",
