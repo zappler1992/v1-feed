@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792873349119,
+ "last_run_ms": 1792873648936,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1508,6 +1508,18 @@
    "published_ms": 1792536259000,
    "section": "Fashion Forward",
    "title": "יישור קו: שמתם לב שכולן – אבל כולן – לובשות את המכנסיים האלה עכשיו?"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/322236/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792873467110,
+   "content_type": "post",
+   "first_seen_ms": 1792873467110,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "תוספת אחת קטנה יכולה להקפיץ את הג'ינס שלכם בחורף הזה"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
