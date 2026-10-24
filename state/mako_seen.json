@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792841249126,
+ "last_run_ms": 1792841549221,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13398,6 +13398,18 @@
    "published_ms": 1792011120000,
    "section": "ספורט",
    "title": "מהמצטיינים: הציון שקיבל פרץ בניצחון"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-14b0c00b98d61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792841549221,
+   "content_type": "article",
+   "first_seen_ms": 1792841549221,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792841160000,
+   "section": "ספורט",
+   "title": "לחצו למעקב: אסטון וילה - מנצ`סטר סיטי"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-26b6220f5ab01a1026.htm": {
    "check_attempts": 1,
