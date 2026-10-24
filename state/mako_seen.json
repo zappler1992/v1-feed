@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792816949406,
+ "last_run_ms": 1792817249056,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2371,7 +2371,7 @@
    "indexnow_ms": null,
    "published_ms": 1792807500000,
    "section": "ספורט",
-   "title": "26 נק' לאבדיה ב-120:128 על הקינגס ושארפ"
+   "title": "26 נק` לאבדיה ב-120:128 על הקינגס ושארפ"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-49e31d2dcbe51a1026.htm": {
    "check_attempts": 1,
@@ -2408,6 +2408,18 @@
    "published_ms": 1792639920000,
    "section": "ספורט",
    "title": "הטוב בתולדותיה: הרבע המשוגע של פורטלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-4d1fa33b32c61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792817249056,
+   "content_type": "article",
+   "first_seen_ms": 1792817249056,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792817040000,
+   "section": "ספורט",
+   "title": "צפו: תומפסון חסם סל דרמטי של וובניאמה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-4e5ed71bf2f21a1027.htm": {
    "check_attempts": 1,
@@ -2947,7 +2959,7 @@
    "indexnow_ms": null,
    "published_ms": 1792814880000,
    "section": "ספורט",
-   "title": "איך זה נכנס?! צפו בסל המשוגע של אבדיה"
+   "title": "איך זה נכנס?! צפו בסל הקשה של דני אבדיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e08e908fece41a1027.htm": {
    "check_attempts": 1,
@@ -46909,7 +46921,7 @@
    "indexnow_ms": 1792728027218,
    "published_ms": 1792728900000,
    "section": "חופש",
-   "title": "זו אחת המדינות היפות בעולם, אבל אל תגיעו אליה לבד"
+   "title": "רוצים לטייל בקוריאה הצפונית? אתם חייבים לדעת את זה"
   },
   "https://www.mako.co.il/travel-world/Article-84c8302033f21a1026.htm": {
    "check_attempts": 1,
