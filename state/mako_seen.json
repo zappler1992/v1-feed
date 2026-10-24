@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792871248872,
+ "last_run_ms": 1792871548882,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22719,7 +22719,7 @@
    "indexnow_ms": null,
    "published_ms": 1792658880000,
    "section": "",
-   "title": "גם אתם יכולים להיות מאלה שמכינים מוחיטו בבית"
+   "title": "גם אתם יכולים להיות מאלו שמכינים מוחיטו בבית"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-dairy_recipes/Recipe-854c85a702531a1026.htm": {
    "check_attempts": 1,
@@ -42185,6 +42185,18 @@
    "section": "",
    "title": "החקירה חשפה: המחבל העומאני תכנן לרסק את המטוס בנתב\"ג"
   },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-6ce52415d6f61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792871548882,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792871548882,
+   "indexable": true,
+   "indexnow_ms": 1792871548882,
+   "published_ms": 1792871100000,
+   "section": "חדשות",
+   "title": "נשיא איראן: \"האמריקאים הרסו הכל\""
+  },
   "https://www.mako.co.il/pzm-soldiers/liveblog-72f3ac587bac0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48722,6 +48734,18 @@
    "published_ms": 1792724400000,
    "section": "קשת 12",
    "title": "\"עשיתי, אבל לא מבינה בזה\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-6b31155ac5f61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792871426994,
+   "content_type": "article",
+   "first_seen_ms": 1792871426994,
+   "indexable": true,
+   "indexnow_ms": 1792871426994,
+   "published_ms": 1792870920000,
+   "section": "הכי חם",
+   "title": "זו הכוכבת שנחשפה ב\"הזמר במסכה\""
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-769971c014e31a1026.htm": {
    "check_attempts": 1,
