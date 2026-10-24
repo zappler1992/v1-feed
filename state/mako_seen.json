@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792863148668,
+ "last_run_ms": 1792863448817,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20824,6 +20824,18 @@
    "published_ms": 1790588040000,
    "section": "כסף",
    "title": "נועה ארגמני: \"לא אתן לאבל להפוך לזהות שלי\""
+  },
+  "https://www.mako.co.il/finances-news/Article-bb22620fade61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792863448817,
+   "content_type": "article",
+   "first_seen_ms": 1792863448817,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792862700000,
+   "section": "",
+   "title": "\"מודה לבנק ישראל על העצות. עושה מה שאני חושב\""
   },
   "https://www.mako.co.il/finances-news/Article-d0dc7b2a96931a1026.htm": {
    "check_attempts": 1,

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-be89a4bc6fe61a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-24T17:32:00+00:00</news:publication_date>
+<news:title>לא תאמינו שזו פריז: רעולי פנים זורקים אבנים על שוטרים והרחוב נראה כמו אזור מלחמה | צפו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/24/V1_SHIR_FRANCE2_7717_24102026053019_1400_1792863113620_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-0a60620fade61a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1781,23 +1790,5 @@
 <news:title>באיראן משוכנעים: &quot;ישראל הולכת לתקוף ראשונה&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_iran_7652_22102026053939_1400_1792690886328_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/food-magazine/2026-m10_w04/shorts-26e47c89f9461a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T17:35:18+00:00</news:publication_date>
-<news:title>ככה תמצאו את הקפה הכי זול לידכם בקלות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/MAYA_CAFE_221026_FIX_1400_1792693129682_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-a1353f882a461a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T17:34:58+00:00</news:publication_date>
-<news:title>צה&quot;ל: חיסלנו את רמדאן מחמד אשחאדה דיאב ששימש כראש ועדת ההתנגדות העממית בח&#x27;אן יונס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_karind_idf_7651_22102026053341_1400_1792690492609_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
