@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-7e428ff386f61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-28818856f7f61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18695,7 +18695,7 @@
    ],
    "title": "מה באמת מסתתר באצבעות קינדר?",
    "type": "general",
-   "updated_ms": 1792818720000,
+   "updated_ms": 1792872540000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m10_w04/shorts-a92dda65d2461a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/yoav_kinder_221026/MASTER/yoav_kinder_221026/yoav_kinder_221026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -77132,6 +77132,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-2862ffada7551a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17700_19102026070428/M_NEWS_17700_19102026070428_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-28818856f7f61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשש מביזה בברצלונה: דלתות הכלבו המפורסם ננעלו והמונים נותרו לכודים בפנים",
+   "duration_s": 11,
+   "first_seen_ms": 1792873045852,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_BARCELONA_7726_24102026081241_1400_1792872830758_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792872837000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשש מביזה בברצלונה: דלתות הכלבו המפורסם ננעלו והמונים נותרו לכודים בפנים",
+   "type": "mivzakim",
+   "updated_ms": 1792872837000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-28818856f7f61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_BARCELONA_7726_24102026081241/V1_SHIR_BARCELONA_7726_24102026081241_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-29289de013761a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -107759,7 +107777,8 @@
    "importance": 2,
    "published_ms": 1792863467000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "מהעולם"
    ],
    "title": "המפגינים בפריז מתנפלים על סוכנות הרכבים ״אאודי״: הכאוס ברחובות צרפת",
    "type": "mivzakim",
