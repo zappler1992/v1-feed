@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f6f6e1c3e9c61a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8dd6e1c3e9c61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85a8235dfdc61a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-86ebb0233dc61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14878,6 +14878,24 @@
    "updated_ms": 1792568371000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-8455b3a6f5d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17814_21102026073824/M_Celebs_17814_21102026073824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-86ebb0233dc61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״איש בשנות ה-50 שמנסה לעשות קאמבק זה כזה עצוב״: סשה ברון כהן הפתיע את נואל גלאגר בפרמיירה של עלי ג׳י",
+   "duration_s": 56,
+   "first_seen_ms": 1792828346251,
+   "image": "https://img.mako.co.il/2026/10/24/M_Tarbut_18000_24102026073908_1400_1792827639370_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792827649000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״איש בשנות ה-50 שמנסה לעשות קאמבק זה כזה עצוב״: סשה ברון כהן הפתיע את נואל גלאגר בפרמיירה של עלי ג׳י",
+   "type": "mivzakim",
+   "updated_ms": 1792827649000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-86ebb0233dc61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18000_24102026073908/M_Tarbut_18000_24102026073908_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-87d7ad057c551a1026.htm": {
    "author": "עדכוני בידור",
@@ -39619,7 +39637,9 @@
    "image": "https://img.mako.co.il/2026/10/24/biata_lindsey_241026_1400_1792826221921_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792826228000,
-   "sections": [],
+   "sections": [
+    "חדשות אמריקה"
+   ],
    "title": "הלם בארה\"ב: עדויות על סנטור לינדזי גרהאם",
    "type": "news",
    "updated_ms": 1792826228000,
@@ -78689,6 +78709,24 @@
    "updated_ms": 1792577095000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-84a6c70efdd51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/M_NEWS_17827_21102026100301/M_NEWS_17827_21102026100301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85a8235dfdc61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מספר ההרוגים בפיגוע שאירע אתמול בכנסייה בירדן עלה ל-8",
+   "duration_s": 9,
+   "first_seen_ms": 1792828346251,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_18001_24102026074613_1400_1792828054406_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792828061000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מספר ההרוגים בפיגוע שאירע אתמול בכנסייה בירדן עלה ל-8",
+   "type": "mivzakim",
+   "updated_ms": 1792828061000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85a8235dfdc61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_18001_24102026074613/M_NEWS_18001_24102026074613_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85cc8ebc24351a1026.htm": {
    "author": "מבזקים",

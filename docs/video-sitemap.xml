@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-85a8235dfdc61a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/24/M_NEWS_18001_24102026074613_1400_1792828054406_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מספר ההרוגים בפיגוע שאירע אתמול בכנסייה בירדן עלה ל-8</video:title>
+<video:description>מספר ההרוגים בפיגוע שאירע אתמול בכנסייה בירדן עלה ל-8</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_18001_24102026074613/M_NEWS_18001_24102026074613_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-24T07:47:41+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-86ebb0233dc61a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/24/M_Tarbut_18000_24102026073908_1400_1792827639370_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>״איש בשנות ה-50 שמנסה לעשות קאמבק זה כזה עצוב״: סשה ברון כהן הפתיע את נואל גלאגר בפרמיירה של עלי ג׳י</video:title>
+<video:description>״איש בשנות ה-50 שמנסה לעשות קאמבק זה כזה עצוב״: סשה ברון כהן הפתיע את נואל גלאגר בפרמיירה של עלי ג׳י</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18000_24102026073908/M_Tarbut_18000_24102026073908_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>56</video:duration>
+<video:publication_date>2026-10-24T07:40:49+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f6f6e1c3e9c61a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/24/M_NEWS_17999_24102026073642_1400_1792827490063_FirstFrame.jpg</video:thumbnail_loc>
@@ -45,6 +77,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>חדשות אמריקה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
