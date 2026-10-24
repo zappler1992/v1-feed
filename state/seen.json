@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3fec8ff386f61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de3884d7d7f61a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4cf0da8767f61a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7b768ff386f61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -14272,6 +14274,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4c902fd52ef51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17858_21102026072038/M_Celebs_17858_21102026072038_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4cf0da8767f61a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הארנב משנה את חוקי המשחק",
+   "duration_s": 90,
+   "first_seen_ms": 1792872145867,
+   "image": "https://img.mako.co.il/2026/10/24/M_Tarbut_18039_24102026075353_1400_1792871811734_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792871822000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הארנב משנה את חוקי המשחק",
+   "type": "mivzakim",
+   "updated_ms": 1792871822000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-4cf0da8767f61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18039_24102026075353/M_Tarbut_18039_24102026075353_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-550173e08fe61a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -15009,6 +15029,24 @@
    "updated_ms": 1792658303000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7b51abb9cb261a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_17893_22102026083635/M_Celebs_17893_22102026083635_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7b768ff386f61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "המודחת הערב ב\"הזמר במסכה\": העגורה",
+   "duration_s": 69,
+   "first_seen_ms": 1792872145867,
+   "image": "https://img.mako.co.il/2026/10/24/M_Tarbut_18040_24102026075411_1400_1792871778732_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792871786000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "המודחת הערב ב\"הזמר במסכה\": העגורה",
+   "type": "mivzakim",
+   "updated_ms": 1792871786000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7b768ff386f61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18040_24102026075411/M_Tarbut_18040_24102026075411_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7ce0c4fef3f61a1026.htm": {
    "author": "עדכוני בידור",
@@ -81881,6 +81919,24 @@
    "updated_ms": 1792407428000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17675_19102026105543/M_NEWS_17675_19102026105543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de3884d7d7f61a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תקרית בסיור הבחירות של בנט בת״א: מאבטחו הותקף, חשוד נעצר",
+   "duration_s": 23,
+   "first_seen_ms": 1792872145867,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_BENET_7725_24102026075601_1400_1792871851612_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792871862000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תקרית בסיור הבחירות של בנט בת״א: מאבטחו הותקף, חשוד נעצר",
+   "type": "mivzakim",
+   "updated_ms": 1792871862000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de3884d7d7f61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_BENET_7725_24102026075601/V1_SHIR_BENET_7725_24102026075601_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de451256a2f61a1026.htm": {
    "author": "מבזקים",
