@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792857449559,
+ "last_run_ms": 1792857749657,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12955,6 +12955,18 @@
    "section": "ספורט",
    "title": "\"סבע שולף שפן מהכובע כל פעם. גאון אמיתי\""
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-88c9e6f61ae61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792857749657,
+   "content_type": "article",
+   "first_seen_ms": 1792857749657,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792857600000,
+   "section": "ספורט",
+   "title": "כולל הצלה הירואית: השיא העונתי של פרץ"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8c915b898c351a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -13674,6 +13686,18 @@
    "published_ms": 1792245960000,
    "section": "ספורט",
    "title": "בעידוד סיטי: הצעד הבא ב\"מחאת הבננות\""
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-f51811844ae61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792857749657,
+   "content_type": "article",
+   "first_seen_ms": 1792857749657,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792857480000,
+   "section": "ספורט",
+   "title": "משחק ענק לפרץ ב-2:3 על ווסטהאם וסולמון"
   },
   "https://www.mako.co.il/Sports-football-world/q3_2026/Article-014bd5b45f0e0a1027.htm": {
    "check_attempts": 1,
