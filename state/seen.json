@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-36f17b6cd9f61a1026.htm"
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-bf1484d7d7f61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -94914,7 +94914,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-4a0134ae4e361a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "אושר יודע? הכשרון הסודי של עדן פינס - תודו שלא ידעתם שדוגמנית הענק שהסתתרה מתחת למסכת נמלת האש, יודעת גם לשיר יפה, ממש כמו בן זוגה - הזמר אושר כהן \n\n\"הזמר במסכה\", מוצ\"ש אחרי החדשות, קשת 12",
+   "description": "אושר יודע? הכשרון הסודי של עדן פינס - תודו שלא ידעתם שדוגמנית הענק שהסתתרה מתחת למסכת נמלת האש, יודעת גם לשיר יפה, ממש כמו בן זוגה - הזמר אושר כהן",
    "duration_s": 41,
    "first_seen_ms": 1792773446122,
    "image": "https://img.mako.co.il/2026/10/22/lilastav_tamar_2210_m_1400_1792677786687_FirstFrame.jpg",
@@ -94932,7 +94932,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-7074d048ad361a1027.htm": {
    "author": "מיוחד",
    "date_source": "page-jsonld",
-   "description": "עדן פינס משתפת: ככה זה מרגיש להיות מתחת למסכת נמלת האש \n\n\"הזמר במסכה\", חשיפה שלישית, מוצ\"ש בקשת 12",
+   "description": "עדן פינס משתפת: ככה זה מרגיש להיות מתחת למסכת נמלת האש",
    "duration_s": 55,
    "enrich_attempts": 1,
    "first_seen_ms": 1792860445723,
@@ -100900,6 +100900,24 @@
    "updated_ms": 1792423740000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-7fce7b2994451a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/Inbalfinesfix/Inbalfinesfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-bf1484d7d7f61a1027.htm": {
+   "author": "TV1",
+   "date_source": "json-publishDate",
+   "description": "העגור הצבעוני ״בזמר במסכה״ נחשף וזו לא אחרת מאשר מגישת החדשות המיתולוגית - דליה מזור.",
+   "duration_s": 69,
+   "first_seen_ms": 1792875745901,
+   "image": "https://img.mako.co.il/2026/10/24/inbie_mask_241026_1400_1792872641286_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792872647000,
+   "sections": [
+    "הזמר במסכה"
+   ],
+   "title": "מי זאת מי זאת? העגור הצבעוני ״בזמר במסכה״ היא מגישת החדשות המיתולוגית",
+   "type": "general",
+   "updated_ms": 1792872647000,
+   "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w04/shorts-bf1484d7d7f61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/inbie_mask_241026/MASTER/inbie_mask_241026/inbie_mask_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m07_w05/shorts-39b7f929289af91026.htm": {
    "author": "מבזקים מהעולם",
