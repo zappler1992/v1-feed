@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-49359296d2861a1026.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-50c3a68763951a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-041d0b7ea6461a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1122,10 +1123,12 @@
    "image": "https://img.mako.co.il/2026/10/22/ACADEMY_OF_LIES_EP18_1400_1792661771879_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792681200000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות"
+   ],
    "title": "בקצב השקר פרק 18: שר מהלב בלי לדעת הכל",
    "type": "series",
-   "updated_ms": 1792681200000,
+   "updated_ms": 1792832520000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7132134cde261a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/ACADEMY_OF_LIES_EP18/MASTER/ACADEMY_OF_LIES_EP18/ACADEMY_OF_LIES_EP18_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -28735,6 +28738,25 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-0406d77b76d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/LOADED_EP66/MASTER/LOADED_EP66/LOADED_EP66_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-041d0b7ea6461a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 68: אביגיל מגלה שלגיא יש 40 מיליון דולר, אבל כשהיא שואלת איך התפנק, הוא בקושי מצליח להגיע לאייפוד ואוזניות. בינתיים, אצל השכנים, תומר מעלה את ההימור עם הרבה יותר ביטחון מקלפים טובים - וארז בוחר בדיוק את הרגע הכי גרוע להגיד בקול: \"אין לך כלום\".",
+   "duration_s": 163,
+   "first_seen_ms": 1792832846296,
+   "image": "https://img.mako.co.il/2026/10/22/LOADED_EP68_1400_1792686405294_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792832520000,
+   "sections": [
+    "מיקרו סדרות",
+    "מסודרים"
+   ],
+   "title": "מסודרים פרק 68: חוזרים לפלרטט ולעקוץ",
+   "type": "series",
+   "updated_ms": 1792832520000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-041d0b7ea6461a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LOADED_EP68/MASTER/LOADED_EP68/LOADED_EP68_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-635ac832aa451a1026.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -29388,6 +29410,24 @@
    "updated_ms": 1792399920000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w03/shorts-f68cab8417f31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/LOVE_CORNER_EP33/MASTER/LOVE_CORNER_EP33_M/LOVE_CORNER_EP33_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-50c3a68763951a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 37: אלונה מנסה להוציא את ליאור מחייה, אבל כשהוא מבקש ממנה לומר שהיא אדישה אליו, המילים לא יוצאות. במקום להיפרד הם שוב מתנשקים, בדיוק כששירלי חוזרת הביתה ותופסת אותם יחד.",
+   "duration_s": 82,
+   "first_seen_ms": 1792832846296,
+   "image": "https://img.mako.co.il/2026/10/20/LOVE_CORNER_EP37_M_1400_1792498524124_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792832400000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 37: נתפסים בנשיקה",
+   "type": "series",
+   "updated_ms": 1792832400000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-50c3a68763951a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/LOVE_CORNER_EP37/MASTER/LOVE_CORNER_EP37_M/LOVE_CORNER_EP37_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-c7d6a0dcc1951a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -82314,10 +82354,12 @@
    "image": "https://img.mako.co.il/2026/10/20/POLISHUK_EP18_1400_1792491340175_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792491351000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות"
+   ],
    "title": "פולישוק פרק 18: השר מפטר את הבלתי מפוטר",
    "type": "series",
-   "updated_ms": 1792491351000,
+   "updated_ms": 1792832460000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-b9c8f4bbec851a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/POLISHUK_EP18/MASTER/POLISHUK_EP18/POLISHUK_EP18_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -93744,7 +93786,7 @@
   "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-49359296d2861a1026.htm": {
    "author": "מיוחד",
    "date_source": "json-publishDate",
-   "description": "מי יצליח להרכיב קולאיציה, האם בנט מסוגל לשבת עם נתניהו והאם אנחנו בדרך לבחירות נוספות? דפנה ליאל מגיעה לתחזית בחירות באמת או חובה",
+   "description": "מי יצליח להרכיב קואליציה, האם בנט מסוגל לשבת עם נתניהו והאם אנחנו בדרך לבחירות נוספות? דפנה ליאל מגיעה לתחזית בחירות באמת או חובה",
    "duration_s": 57,
    "first_seen_ms": 1792832546277,
    "image": "https://img.mako.co.il/2026/10/23/DANIEL_DAFNA_231026_1400_1792752756697_FirstFrame.jpg",
