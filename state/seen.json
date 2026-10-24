@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w04/shorts-75a9e7d883f61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3fec8ff386f61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8197,7 +8197,8 @@
    "importance": 2,
    "published_ms": 1792855853000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "ויקרא שמו בישראל: \"עיתו\" - שמו של הבן של מעיין אדם",
    "type": "mivzakim",
@@ -23221,7 +23222,8 @@
    "importance": 1,
    "published_ms": 1792847766000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "תינוק שנולד עם שפם? הסרטון שמשגע את הרשת",
    "type": "general",
@@ -39873,7 +39875,8 @@
    "importance": 2,
    "published_ms": 1792856880000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "רגע לפני הבחירות: הסקר האחרון מכל הערוצים",
    "type": "news",
@@ -77760,6 +77763,24 @@
    "updated_ms": 1792395246000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3e7fdc27f0351a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17663_19102026073212/M_NEWS_17663_19102026073212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3fec8ff386f61a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה עצרה שני חשודים באירוע דקירה ברמלה",
+   "duration_s": 9,
+   "first_seen_ms": 1792871245875,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_18038_24102026074335_1400_1792871119139_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792871125000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה עצרה שני חשודים באירוע דקירה ברמלה",
+   "type": "mivzakim",
+   "updated_ms": 1792871125000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-3fec8ff386f61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_18038_24102026074335/M_NEWS_18038_24102026074335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-422a05f262761a1026.htm": {
    "author": "מבזקים",
