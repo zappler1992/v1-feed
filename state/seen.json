@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-aa301256a2f61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de451256a2f61a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e78de7d883f61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -39741,9 +39742,9 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "כל סקרי המנדטים במקום אחד: השוואת הסקרים האחרונים של שלושת הערוצים, חלוקת המנדטים בין המפלגות ומאזן הגושים לקראת בחירות 2026",
-   "duration_s": 34,
+   "duration_s": 116,
    "first_seen_ms": 1792857146725,
-   "image": "https://img.mako.co.il/2026/10/24/FIX2_yoav_SEKER_241026_1400_1792858219137_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/24/FIX3_yoav_SEKER_241026_1400_1792867779610_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792856880000,
    "sections": [],
@@ -39751,7 +39752,7 @@
    "type": "news",
    "updated_ms": 1792858260000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-094cb90a98e61a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/FIX2_yoav_SEKER_241026/FIX2_yoav_SEKER_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/FIX3_yoav_SEKER_241026/FIX3_yoav_SEKER_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-0a7c96b841f41a1026.htm": {
    "author": "חדשות",
@@ -81697,6 +81698,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-dd5ef5778c351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/M_NEWS_17675_19102026105543/M_NEWS_17675_19102026105543_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de451256a2f61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלימות מזעזעת: צעירים רעולי פנים תקפו נער בן 13, תיעדו והעלו לרשת בשביל הצחוקים",
+   "duration_s": 23,
+   "first_seen_ms": 1792867946975,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_ALIMUT_7721_24102026064622_1400_1792867659857_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792867666000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלימות מזעזעת: צעירים רעולי פנים תקפו נער בן 13, תיעדו והעלו לרשת בשביל הצחוקים",
+   "type": "mivzakim",
+   "updated_ms": 1792867666000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-de451256a2f61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_ALIMUT_7721_24102026064622/V1_SHIR_ALIMUT_7721_24102026064622_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-debbd23250061a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -107475,6 +107494,24 @@
    "updated_ms": 1792864740000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e5a973e08fe61a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/SHIR_MIVZAKIM_241026_4/SHIR_MIVZAKIM_241026_4_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e78de7d883f61a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "בוזזים עגבניות ופטל בסופרמקט בפריז: צפו בתיעוד החדש מהכאוס ברחובות",
+   "duration_s": 33,
+   "first_seen_ms": 1792867946975,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_TOMATO_7722_24102026064844_1400_1792867817585_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792867825000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "בוזזים עגבניות ופטל בסופרמקט בפריז: צפו בתיעוד החדש מהכאוס ברחובות",
+   "type": "mivzakim",
+   "updated_ms": 1792867825000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-e78de7d883f61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_TOMATO_7722_24102026064844/V1_SHIR_TOMATO_7722_24102026064844_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-ec09e1c3e9c61a1026.htm": {
    "author": "מבזקים מהעולם",
