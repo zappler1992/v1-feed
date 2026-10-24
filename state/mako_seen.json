@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792873049132,
+ "last_run_ms": 1792873349119,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -40408,6 +40408,18 @@
    "published_ms": 1790491020000,
    "section": "",
    "title": "טנקים ואלף חיילים אמריקאים בדרך לגבול המתוח"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-0d5f7e962ee61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-0d5f7e962ee61a1026.htm",
+   "checked_ms": 1792873349119,
+   "content_type": "article",
+   "first_seen_ms": 1792873349119,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792863000000,
+   "section": "חדשות",
+   "title": "אחרי חודשים של סירוב: איזנקוט יאובטח בידי השב\"כ"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1092e65b3adc0a1027.htm": {
    "check_attempts": 1,
