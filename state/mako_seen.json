@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792882949496,
+ "last_run_ms": 1792883248933,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22432,6 +22432,18 @@
    "published_ms": 1791100140000,
    "section": "",
    "title": "3 ארוחות צהריים משפחתיות שיסגרו לכם את הפינה"
+  },
+  "https://www.mako.co.il/food-meals/lunch_recipes/Article-44a8c50252f61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792883187115,
+   "content_type": "article",
+   "first_seen_ms": 1792883187115,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792904400000,
+   "section": "",
+   "title": "הסתדרנו עם צהריים: 3 מתכוני פסטה בסיר אחד"
   },
   "https://www.mako.co.il/food-meals/lunch_recipes/Article-5c450c7dac921a1026.htm": {
    "check_attempts": 1,
