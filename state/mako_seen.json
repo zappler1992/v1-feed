@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792862548947,
+ "last_run_ms": 1792862849684,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9379,6 +9379,18 @@
    "section": "ספורט",
    "title": "\"הגודל של המועדון קובע את התוצאה?!\""
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4bf47e962ee61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792862849684,
+   "content_type": "article",
+   "first_seen_ms": 1792862849684,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792862580000,
+   "section": "ספורט",
+   "title": "\"שערורייה\": ברשת קוטלים את הגנת מכבי ת\"א"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4ffd53b9cbe21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -10338,6 +10350,18 @@
    "published_ms": 1792256040000,
    "section": "ספורט",
    "title": "מאיפה הוא הגיע? הקשר שכבש מול מכבי חיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a132620fade61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792862786648,
+   "content_type": "article",
+   "first_seen_ms": 1792862786648,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792862580000,
+   "section": "ספורט",
+   "title": "5 ימים לדרבי: הסיבה לחילוף של טוריאל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a279cf7aa0721a1027.htm": {
    "check_attempts": 1,
@@ -28323,7 +28347,7 @@
    "indexnow_ms": null,
    "published_ms": 1792659360000,
    "section": "עיצוב הבית",
-   "title": "הדופלקס שבו כולם נשארים לישון בו ובצדק"
+   "title": "הדופלקס שבו כולם נשארים לישון בו - ובצדק"
   },
   "https://www.mako.co.il/living-architecture/local-renovation/Article-995c2b82c21f0a1027.htm": {
    "check_attempts": 1,
