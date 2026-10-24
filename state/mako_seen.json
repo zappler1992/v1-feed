@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792870348881,
+ "last_run_ms": 1792870648879,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36509,6 +36509,18 @@
    "section": "חדשות",
    "title": "חשד לאירוע פליטת כדור ביבנה: בן 28 פצוע קשה"
   },
+  "https://www.mako.co.il/news-israel/2026_q4/Article-b23a155ac5f61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792870466979,
+   "content_type": "article",
+   "first_seen_ms": 1792870466979,
+   "indexable": true,
+   "indexnow_ms": 1792870466979,
+   "published_ms": 1792870200000,
+   "section": "חדשות",
+   "title": "שני הרוגים בתאונה סמוך לבית שאן, 3 נפצעו"
+  },
   "https://www.mako.co.il/news-law/2026_q4/Article-2adaf62bfaf01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -41343,7 +41355,7 @@
    "indexnow_ms": null,
    "published_ms": 1792728000000,
    "section": "צבא וביטחון",
-   "title": "\"כבר נפרדתי\": הטיל ששלח לוחם ל-19 ניתוחים"
+   "title": "\"שמעתי שריקה והרגשתי כמו פיצוץ בלון גז ברגל\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-a154d8f00ca11a1027.htm": {
    "check_attempts": 1,
