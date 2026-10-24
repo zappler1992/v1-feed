@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-5c41acb856d61a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-24T10:24:13+00:00</news:publication_date>
+<news:title>העולם נושא עיניים אל ישראל: מהדורות החדשות מסקרות את הבחירות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/24/alona_world_news_241026_1400_1792837447365_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-144dacb856d61a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1961,14 +1970,5 @@
 <news:title>השחקנית נועם לוגסי משתפת: &quot;הכרנו באפליקציה, לא לאבד אמונה! אין ייאוש בעולם כלל!&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/22/LIRON_NOAMLAPP_22102026_1400_1792665440475_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-dfc53f1be1361a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T10:27:43+00:00</news:publication_date>
-<news:title>הפדיחה של בנט בשידור חי: &quot;הייתי רמטכ&quot;ל&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/rinat_benet_221026_m_1400_1792664856847_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
