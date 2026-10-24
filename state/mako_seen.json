@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792840049094,
+ "last_run_ms": 1792840349119,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14368,6 +14368,18 @@
    "published_ms": 1790142240000,
    "section": "ספורט",
    "title": "חיים רביבו חשף: זו הסיבה שרוי הפך למגן"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-048bc00b98d61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792840349119,
+   "content_type": "article",
+   "first_seen_ms": 1792840349119,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792840020000,
+   "section": "ספורט",
+   "title": "המיוחד החדש: הדרך של ז`וזה מוריניו"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-0cfee1c3e9c61a1026.htm": {
    "check_attempts": 1,
@@ -40899,7 +40911,7 @@
    "indexnow_ms": null,
    "published_ms": 1792727940000,
    "section": "צבא וביטחון",
-   "title": "האמת על \"הסיוע\" למדינה שהזרוע האיראנית סימנה"
+   "title": "המעצמות שהחליטו לעזור לסעודיה - והחשש מהחות'ים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-9e90d52cc4031a1027.htm": {
    "check_attempts": 1,
