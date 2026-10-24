@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792853849472,
+ "last_run_ms": 1792854149692,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13230,6 +13230,18 @@
    "published_ms": 1792421340000,
    "section": "ספורט",
    "title": "ברק יצחקי על סף סגירה באנורתוזיס"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e6c69a2e75e61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792854149692,
+   "content_type": "article",
+   "first_seen_ms": 1792854149692,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792853880000,
+   "section": "ספורט",
+   "title": "\"החלטה לא פופולרית\": ביקורת על סולומון"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e7b2341dff8f0a1026.htm": {
    "check_attempts": 1,

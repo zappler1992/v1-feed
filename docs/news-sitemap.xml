@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-f00c30b36bd61a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-24T14:57:00+00:00</news:publication_date>
+<news:title>בעקבות העצרת: אלה הרחובות שייחסמו הערב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/24/biata_roads_241026_1400_1792842262177_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ee5fb13754e61a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1781,23 +1790,5 @@
 <news:title>נערה בת 12 במצב אנוש לאחר שנפצעה בתאונת דרכים ביצהר</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/22/M_NEWS_17915_22102026030348_1400_1792681491355_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/60_seconds-magazine/2026-m10_w04/shorts-03aff396c0361a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T15:00:00+00:00</news:publication_date>
-<news:title>60 שניות עם גדי איזנקוט: מהדורת בחירות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/Amit_GADI2_60_M_1400_1792663569761_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-7132134cde261a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T15:00:00+00:00</news:publication_date>
-<news:title>בקצב השקר פרק 18: שר מהלב בלי לדעת הכל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/ACADEMY_OF_LIES_EP18_1400_1792661771879_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
