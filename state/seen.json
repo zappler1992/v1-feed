@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-061cc00b98d61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8af3f60378d61a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f022f60378d61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8213,7 +8214,8 @@
    "importance": 0,
    "published_ms": 1792822301000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הדרמה הלילית של מיכל הקטנה בבית החולים: בתה יולי אושפזה בגלל \"חום גבוה שלא יורד\"",
    "type": "mivzakim",
@@ -79074,6 +79076,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8ab55470c6551a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_karind_alert_7541_19102026063712/V1_karind_alert_7541_19102026063712_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8af3f60378d61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח: סעודיה תוקפת מטרות של החות'ים בתימן",
+   "duration_s": 9,
+   "first_seen_ms": 1792841246332,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_18010_24102026112344_1400_1792841100741_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792841107000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח: סעודיה תוקפת מטרות של החות'ים בתימן",
+   "type": "mivzakim",
+   "updated_ms": 1792841107000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8af3f60378d61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_18010_24102026112344/M_NEWS_18010_24102026112344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8c9451a793c51a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -93958,7 +93978,8 @@
    "published_ms": 1792831800000,
    "sections": [
     "המיוחדים",
-    "בחירות 2026"
+    "בחירות 2026",
+    "הכי נצפים עכשיו"
    ],
    "title": "אמת או חובה: דפנה ליאל",
    "type": "general",
@@ -106530,7 +106551,8 @@
    "importance": 0,
    "published_ms": 1792831786000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הכומר ממילאנו שהפתיע את כל העולם: העז להראות אצבע משולשת למפגינים",
    "type": "mivzakim",
@@ -106761,6 +106783,24 @@
    "updated_ms": 1792402178000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-eec6f1ed27351a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/19/V1_Louvre_7515_19102026092752/V1_Louvre_7515_19102026092752_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f022f60378d61a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "4 טייסים בחיל האוויר של הפיליפינים נהרגו בהתנגשות שני מטוסים במהלך אימון צבאי",
+   "duration_s": 9,
+   "first_seen_ms": 1792841246332,
+   "image": "https://img.mako.co.il/2026/10/24/V1_manila_7698_24102026112022_1400_1792840900290_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792840906000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "4 טייסים בחיל האוויר של הפיליפינים נהרגו בהתנגשות שני מטוסים במהלך אימון צבאי",
+   "type": "mivzakim",
+   "updated_ms": 1792840906000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f022f60378d61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_manila_7698_24102026112022/V1_manila_7698_24102026112022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f059b3c584761a1026.htm": {
    "author": "מבזקים מהעולם",
