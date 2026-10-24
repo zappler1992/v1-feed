@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-094cb90a98e61a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-213ee6f61ae61a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-595ce6f61ae61a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -13513,6 +13514,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-1dfe2a4c4e751a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17735_20102026060542/M_Tarbut_17735_20102026060542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-213ee6f61ae61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "דניאלה גלבוע מככבת על שער עיתון השבת האוסטרלי המרכזי The Saturday Telegraph, במסגרת סיבוב הופעות בא",
+   "duration_s": 9,
+   "first_seen_ms": 1792859246735,
+   "image": "https://img.mako.co.il/2026/10/24/M_Tarbut_18019_24102026040713_1400_1792858466838_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792858473000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "דניאלה גלבוע מככבת על שער עיתון השבת האוסטרלי המרכזי The Saturday Telegraph, במסגרת סיבוב הופעות בא",
+   "type": "mivzakim",
+   "updated_ms": 1792858473000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-213ee6f61ae61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18019_24102026040713/M_Tarbut_18019_24102026040713_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-215d55ef7da51a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -14286,6 +14305,24 @@
    "updated_ms": 1792573550000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-58dd3a560bd51a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_17822_21102026090119/M_Tarbut_17822_21102026090119_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-595ce6f61ae61a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "השיר הבא להחלטתכם: נסרין משחררת טעימה משני שירים ונותנת לעוקבים להחליט איזה מהם ייצא",
+   "duration_s": 49,
+   "first_seen_ms": 1792859246735,
+   "image": "https://img.mako.co.il/2026/10/24/M_Music_18018_24102026040647_1400_1792858092928_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792858110000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "השיר הבא להחלטתכם: נסרין משחררת טעימה משני שירים ונותנת לעוקבים להחליט איזה מהם ייצא",
+   "type": "mivzakim",
+   "updated_ms": 1792858110000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-595ce6f61ae61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18018_24102026040647/M_Music_18018_24102026040647_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-59d72fd52ef51a1026.htm": {
    "author": "עדכוני בידור",
@@ -23055,7 +23092,8 @@
    "importance": 1,
    "published_ms": 1792837453000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "חדשות"
    ],
    "title": "העולם נושא עיניים אל ישראל: מהדורות החדשות מסקרות את הבחירות",
    "type": "general",
@@ -39609,15 +39647,15 @@
    "description": "כל סקרי המנדטים במקום אחד: השוואת הסקרים האחרונים של שלושת הערוצים, חלוקת המנדטים בין המפלגות ומאזן הגושים לקראת בחירות 2026",
    "duration_s": 34,
    "first_seen_ms": 1792857146725,
-   "image": "https://img.mako.co.il/2026/10/24/FIX_yoav_SEKER_241026_1400_1792856834648_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/24/FIX2_yoav_SEKER_241026_1400_1792858219137_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792856880000,
    "sections": [],
    "title": "רגע לפני הבחירות: הסקר האחרון מכל הערוצים",
    "type": "news",
-   "updated_ms": 1792856880000,
+   "updated_ms": 1792858260000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-094cb90a98e61a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/FIX_yoav_SEKER_241026/FIX_yoav_SEKER_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/FIX2_yoav_SEKER_241026/FIX2_yoav_SEKER_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-0a7c96b841f41a1026.htm": {
    "author": "חדשות",
@@ -41125,7 +41163,9 @@
    "image": "https://img.mako.co.il/2026/10/24/biata_roads_241026_1400_1792842262177_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792853820000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "בעקבות העצרת: אלה הרחובות שייחסמו הערב",
    "type": "news",
    "updated_ms": 1792855440000,
