@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792860149703,
+ "last_run_ms": 1792860451446,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14704,6 +14704,18 @@
    "published_ms": 1791999360000,
    "section": "ספורט",
    "title": "בשל משיכת השיער: ויני הורחק מהקלאסיקו"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d11c833cace61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792860387544,
+   "content_type": "article",
+   "first_seen_ms": 1792860387544,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792860060000,
+   "section": "ספורט",
+   "title": "בספרד חלוקים: האם היה פנדל על רוי רביבו?"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d33b0ce45a621a1026.htm": {
    "check_attempts": 1,
