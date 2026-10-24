@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792834649315,
+ "last_run_ms": 1792834949276,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10182,6 +10182,18 @@
    "published_ms": 1791968580000,
    "section": "ספורט",
    "title": "תובע ההתאחדות לא ביקש טכני להפועל פ\"ת"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-97dc764553d61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792834949276,
+   "content_type": "article",
+   "first_seen_ms": 1792834949276,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792834620000,
+   "section": "ספורט",
+   "title": "לא מה שחשבתם: הדריבליסט הטוב בליגה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9be6063792051a1027.htm": {
    "check_attempts": 1,
@@ -32415,7 +32427,7 @@
    "indexnow_ms": null,
    "published_ms": 1792725840000,
    "section": "פלילים",
-   "title": "\"ב-99 אחוז מהמקרים אין סיכוי למצוא אותם\""
+   "title": "דודי היה עד לרצח ביום העצמאות ונעלם: \"היה צעיר ותמים\""
   },
   "https://www.mako.co.il/men-men_news/Article-80f6a69293d51a1026.htm": {
    "check_attempts": 1,
