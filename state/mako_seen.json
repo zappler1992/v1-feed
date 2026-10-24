@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792855349564,
+ "last_run_ms": 1792855649627,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14777,6 +14777,18 @@
    "section": "ספורט",
    "title": "\"ארטיום הוכיח שהוא חזק, אסור למחוק אותו\""
   },
+  "https://www.mako.co.il/Sports-others/q4_2026/Article-444369ebe6e61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792855587313,
+   "content_type": "article",
+   "first_seen_ms": 1792855587313,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792855380000,
+   "section": "ספורט",
+   "title": "\"מרגש לייצג את המדינה, רוצה להישאר בטופ\""
+  },
   "https://www.mako.co.il/Sports-others/q4_2026/Article-5de22fc822f41a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -27053,6 +27065,18 @@
    "section": "HIX",
    "title": "כתב \"פוטין שמוק\" על פתק בחירות, ונענש בחומרה"
   },
+  "https://www.mako.co.il/hix-special/Article-d6a99a2e75e61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792855649627,
+   "content_type": "article",
+   "first_seen_ms": 1792855649627,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792852740000,
+   "section": "",
+   "title": "רציתם לטייל ביום הבחירות? אולי כדאי שתכינו מטריה"
+  },
   "https://www.mako.co.il/hix-special/Article-d8f8fa525f851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30783,7 +30807,7 @@
    "indexnow_ms": null,
    "published_ms": 1792725900000,
    "section": "פלילים",
-   "title": "המדינה שסוגרת את השערים בפני עבריינים מישראל"
+   "title": "המדינה שסוגרת שערים בפני עבריינים מישראל"
   },
   "https://www.mako.co.il/men-men_news/Article-25dece7a25a31a1027.htm": {
    "check_attempts": 1,
@@ -41440,6 +41464,18 @@
    "published_ms": 1791199260000,
    "section": "",
    "title": "בשיא המתיחות באירופה: הרוגים בפיצוץ בלב ים"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-d89430b36bd61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792855649627,
+   "content_type": "article",
+   "first_seen_ms": 1792855649627,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792848600000,
+   "section": "",
+   "title": "המהלך הנוסף שנועד לחנוק כלכלית את איראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d98b9b007b2d0a1027.htm": {
    "check_attempts": 1,
