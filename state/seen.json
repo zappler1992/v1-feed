@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-327021e57bc61a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f6f6e1c3e9c61a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8dd6e1c3e9c61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -78870,6 +78871,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8d94e45ec2961a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/V1_PARIS_7687_23102026024452/V1_PARIS_7687_23102026024452_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8dd6e1c3e9c61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זלנסקי: \"מוכנים לעצור את המלחמה בהקדם על בסיס קווי הלחיצה הנוכחיים\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792827746225,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_17998_24102026073602_1400_1792827440738_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792827447000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זלנסקי: \"מוכנים לעצור את המלחמה בהקדם על בסיס קווי הלחיצה הנוכחיים\"",
+   "type": "mivzakim",
+   "updated_ms": 1792827447000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8dd6e1c3e9c61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_17998_24102026073602/M_NEWS_17998_24102026073602_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-8e4bed5520a61a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -81417,6 +81436,24 @@
    "updated_ms": 1792672274000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f67daaa739361a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/V1_SHIR_RABIN_7633_22102026122956/V1_SHIR_RABIN_7633_22102026122956_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f6f6e1c3e9c61a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בכיר איראני: \"לא נאפשר לכלי שיט צבאיים אמריקאיים להיכנס למפרץ הפרסי\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792827746225,
+   "image": "https://img.mako.co.il/2026/10/24/M_NEWS_17999_24102026073642_1400_1792827490063_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792827496000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בכיר איראני: \"לא נאפשר לכלי שיט צבאיים אמריקאיים להיכנס למפרץ הפרסי\"",
+   "type": "mivzakim",
+   "updated_ms": 1792827496000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f6f6e1c3e9c61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/M_NEWS_17999_24102026073642/M_NEWS_17999_24102026073642_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f72972feca261a1026.htm": {
    "author": "מבזקים",
