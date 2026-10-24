@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792864048719,
+ "last_run_ms": 1792864348743,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1976,6 +1976,18 @@
    "published_ms": 1792252140000,
    "section": "ספורט",
    "title": "שרון אברהמי פוטר במפתיע מהפועל העמק"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-b09f73e08fe61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792864348743,
+   "content_type": "article",
+   "first_seen_ms": 1792864348743,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792864200000,
+   "section": "ספורט",
+   "title": "8 איבודים ב-10 דקות: הקריסה של מכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-b302a1fa14361a1026.htm": {
    "check_attempts": 1,
@@ -39748,6 +39760,18 @@
    "published_ms": 1791274860000,
    "section": "גאווה",
    "title": "\"עקבו אחריו לפני שירו בו\": כוכב הרשת נרצח"
+  },
+  "https://www.mako.co.il/pride-news/Article-0436065cbe761a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792864348743,
+   "content_type": "article",
+   "first_seen_ms": 1792864348743,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792746060000,
+   "section": "גאווה",
+   "title": "שאלנו את המפלגות מה הן מבטיחות לקהילה הגאה"
   },
   "https://www.mako.co.il/pride-news/Article-05ff3dea75611a1026.htm": {
    "check_attempts": 1,
