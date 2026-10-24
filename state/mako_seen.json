@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792857149805,
+ "last_run_ms": 1792857449559,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4292,6 +4292,18 @@
    "published_ms": 1791912600000,
    "section": "ספורט",
    "title": "צפו באולפן Hackett לקראת ברצלונה - מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-411969ebe6e61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792857387417,
+   "content_type": "article",
+   "first_seen_ms": 1792857387417,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792854240000,
+   "section": "ספורט",
+   "title": "שחקן חופשי: ג`בארי פארקר שוחרר מפרטיזן"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-4136132e95641a1027.htm": {
    "check_attempts": 1,
