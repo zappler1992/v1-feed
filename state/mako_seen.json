@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792847249461,
+ "last_run_ms": 1792847549566,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14669,6 +14669,18 @@
    "section": "ספורט",
    "title": "היהלום של ברצלונה האריך חוזה עד 2030"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-f546117f3ed61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792847549566,
+   "content_type": "article",
+   "first_seen_ms": 1792847549566,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792847160000,
+   "section": "ספורט",
+   "title": "\"רביבו שינה את פניה של אלצ`ה, שווה זהב\""
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-fa18e70552541a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -14895,7 +14907,7 @@
    "indexnow_ms": 1792825826984,
    "published_ms": 1792825140000,
    "section": "",
-   "title": "התגובות הקשות נגד ליהוק הישראלים במארוול"
+   "title": "\"תעמולה ציונית\": התגובות נגד ליהוק הישראלים במארוול"
   },
   "https://www.mako.co.il/culture-articles/Article-24f1892fd61f0a1027.htm": {
    "check_attempts": 1,
@@ -16300,6 +16312,18 @@
    "published_ms": 1790499000000,
    "section": "סלבס",
    "title": "רגע אחרי הפרידה: עדי הימלבלוי נופשת - והיא לא לבד"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-12e2117f3ed61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792847426742,
+   "content_type": "article",
+   "first_seen_ms": 1792847426742,
+   "indexable": true,
+   "indexnow_ms": 1792847426742,
+   "published_ms": 1792847040000,
+   "section": "",
+   "title": "אחרי 4 שנים וילד משותף: יוצא הריאליטי ובת הזוג נפרדו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-134185498b7e0a1027.htm": {
    "check_attempts": 1,
