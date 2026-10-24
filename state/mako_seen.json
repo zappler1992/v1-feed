@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792822349216,
+ "last_run_ms": 1792822649155,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9342,6 +9342,18 @@
    "published_ms": 1792518780000,
    "section": "ספורט",
    "title": "שחקן עבר מוכר בישראל נעצר בחשד לאיומים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5390a39217c61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792822586874,
+   "content_type": "article",
+   "first_seen_ms": 1792822586874,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792822320000,
+   "section": "ספורט",
+   "title": "צונאמי בתמונת ההרכב, בטאי יועדף על דסה?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-542c17340a931a1026.htm": {
    "check_attempts": 1,
@@ -31372,6 +31384,18 @@
    "published_ms": 1792477140000,
    "section": "פלילים",
    "title": "בעלי החנויות סבלו מהריח הרע - עד שגילו את מקורו המצמרר"
+  },
+  "https://www.mako.co.il/men-men_news/Article-4c2584b122c61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792822466885,
+   "content_type": "article",
+   "first_seen_ms": 1792822466885,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792818120000,
+   "section": "",
+   "title": "המשטרה הזהירה, עבריינים נמלטו: \"ארזו מזוודה בבהילות\""
   },
   "https://www.mako.co.il/men-men_news/Article-4c8b2653dfdc0a1026.htm": {
    "check_attempts": 1,
