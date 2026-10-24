@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792814552413,
+ "last_run_ms": 1792814850208,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43167,6 +43167,18 @@
    "section": "חדשות",
    "title": "תיעוד חדש: \"תצלמו! יעצרו אותנו ראשונים, אנחנו עם דם\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-e8c7d9d9ba961a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-law/2026_q4/Article-e8c7d9d9ba961a1027.htm",
+   "checked_ms": 1792814787493,
+   "content_type": "article",
+   "first_seen_ms": 1792814787493,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792814700000,
+   "section": "חדשות",
+   "title": "קטארגייט: נסללה הדרך לכתבי אישום ביטחוניים"
+  },
   "https://www.mako.co.il/special-mako-news/Article-e8daa19f4bcf0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q4/Article-e8daa19f4bcf0a1027.htm",
@@ -43393,7 +43405,7 @@
    "indexnow_ms": null,
    "published_ms": 1792788840000,
    "section": "חדשות",
-   "title": "\"בשלב מתקדם\": היעד האמריקאי שאיראן תנסה לפגוע בו"
+   "title": "\"בשלב מתקדם\": התוכנית האיראנית שנחשפה בארה\"ב"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
    "check_attempts": 1,
