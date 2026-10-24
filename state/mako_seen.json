@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792852649537,
+ "last_run_ms": 1792852949497,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5948,6 +5948,18 @@
    "published_ms": 1791267120000,
    "section": "ספורט",
    "title": "\"צריך להתרגל למהירות, הזריקות ייכנסו\""
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-ac2d488055e61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792852949497,
+   "content_type": "article",
+   "first_seen_ms": 1792852949497,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792852620000,
+   "section": "ספורט",
+   "title": "\"זה הכוח שלו\": בפורטלנד לא נרגעים מאבדיה"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-b83bed8a13b01a1026.htm": {
    "check_attempts": 1,
@@ -14787,7 +14799,7 @@
    "indexnow_ms": null,
    "published_ms": 1792845840000,
    "section": "ספורט",
-   "title": "ענק: דולגופיאט זכה בארד באליפות העולם"
+   "title": "הישג ענק: ארטיום דולגופיאט זכה בארד באליפות העולם"
   },
   "https://www.mako.co.il/Sports-others/q4_2026/Article-7bce73267b511a1027.htm": {
    "check_attempts": 1,
@@ -37625,6 +37637,18 @@
    "section": "",
    "title": "שעון חורף 2026: מתי מזיזים את השעון?"
   },
+  "https://www.mako.co.il/nexter-guide/Article-97681da907861a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792852707063,
+   "content_type": "article",
+   "first_seen_ms": 1792852707063,
+   "indexable": true,
+   "indexnow_ms": 1792852707063,
+   "published_ms": 1792852620000,
+   "section": "",
+   "title": "הלילה עוברים לשעון חורף. כל מה שצריך לדעת"
+  },
   "https://www.mako.co.il/nexter-guide/Article-caec01378a650a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43681,7 +43705,7 @@
    "indexnow_ms": null,
    "published_ms": 1792788840000,
    "section": "חדשות",
-   "title": "ההודעה של וושינגטון לאזרחים האמריקאים בישראל"
+   "title": "האזהרה של ארה\"ב לאזרחים האמריקאים בישראל"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
    "check_attempts": 1,
