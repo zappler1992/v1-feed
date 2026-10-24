@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-291630b36bd61a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-24T12:21:15+00:00</news:publication_date>
+<news:title>בשידור חי: כתב חדשות בקולומביה חווה שני ניסיונות לגניבת הטלפון שלו תוך שניות ספורות</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/24/V1_shod_7699_24102026121942_1400_1792844464309_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9744f60378d61a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1853,23 +1862,5 @@
 <news:title>הסרטון שמצית סערה: האם זלנסקי ירק לרגלי מלך שוודיה?</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/22/Kim_Zelensky_22102026_1400_1792672209851_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-9ba8aaa739361a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T12:26:34+00:00</news:publication_date>
-<news:title>3 מבוקשים החשודים בסחר באמצעי לחימה ובפעילות טרור נעצרו בהכוונת שב״כ</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/M_NEWS_17906_22102026122505_1400_1792671987343_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-38d58787a8361a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-22T12:24:55+00:00</news:publication_date>
-<news:title>על רקע מחאות אלימות נגד הממשלה: עימותים פיזיים בפרלמנט באלבניה בין חברי אופוזיציה לקואליציה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/V1_SHIR_ALBANIA_7632_22102026122308_1400_1792671888759_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
