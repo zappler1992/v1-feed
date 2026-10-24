@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-efa69449eed61a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/24/V1_SHIR_MAAYAN_7705_24102026012210_1400_1792848204629_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מעיין אדם סוף סוף חושפת: וייקרא שמו בישראל - ...!</video:title>
+<video:description>מעיין אדם סוף סוף חושפת: וייקרא שמו בישראל - ...!</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_MAAYAN_7705_24102026012210/V1_SHIR_MAAYAN_7705_24102026012210_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-24T13:23:31+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/24/V1_SHIR_LUVER_7704_24102026012112_1400_1792848155241_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>חשש מהסלמה בפריז: מוזיאון הלובר נסגר היום למבקרים מחשש לחידוש המהומות בעיר</video:title>
+<video:description>חשש מהסלמה בפריז: מוזיאון הלובר נסגר היום למבקרים מחשש לחידוש המהומות בעיר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_LUVER_7704_24102026012112/V1_SHIR_LUVER_7704_24102026012112_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-24T13:22:41+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים מהעולם</video:uploader>
+<video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-88f7117f3ed61a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/24/V1_SHIR_FIRE_7703_24102026011327_1400_1792847681365_FirstFrame.jpg</video:thumbnail_loc>
@@ -7993,6 +8025,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מיוחד</video:uploader>
+<video:tag>המיוחדים</video:tag>
 <video:tag>מיוחד</video:tag>
 </video:video>
 </url>

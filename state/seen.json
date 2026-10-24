@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-88f7117f3ed61a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-38e6117f3ed61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-efa69449eed61a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -81606,6 +81606,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-ef71f52819d51a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/yoav_ARAVA_211026_MIV/yoav_ARAVA_211026_MIV_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-efa69449eed61a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מעיין אדם סוף סוף חושפת: וייקרא שמו בישראל - ...!",
+   "duration_s": 9,
+   "first_seen_ms": 1792848446383,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_MAAYAN_7705_24102026012210_1400_1792848204629_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792848211000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מעיין אדם סוף סוף חושפת: וייקרא שמו בישראל - ...!",
+   "type": "mivzakim",
+   "updated_ms": 1792848211000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-efa69449eed61a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_MAAYAN_7705_24102026012210/V1_SHIR_MAAYAN_7705_24102026012210_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-f00550a348661a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -93978,7 +93996,9 @@
    "image": "https://img.mako.co.il/2026/10/20/inbie_gta6_201026_1400_1792502945780_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792502952000,
-   "sections": [],
+   "sections": [
+    "המיוחדים"
+   ],
    "title": "אזהרת תוכן: הפרטים האפלים והמציצנים שנחשפו בדירוג של GTA 6",
    "type": "general",
    "updated_ms": 1792502952000,
@@ -106983,6 +107003,24 @@
    "updated_ms": 1792482984000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fc1c04cac4851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_DOG_7557_20102026075509/V1_DOG_7557_20102026075509_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חשש מהסלמה בפריז: מוזיאון הלובר נסגר היום למבקרים מחשש לחידוש המהומות בעיר",
+   "duration_s": 9,
+   "first_seen_ms": 1792848446383,
+   "image": "https://img.mako.co.il/2026/10/24/V1_SHIR_LUVER_7704_24102026012112_1400_1792848155241_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792848161000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "חשש מהסלמה בפריז: מוזיאון הלובר נסגר היום למבקרים מחשש לחידוש המהומות בעיר",
+   "type": "mivzakim",
+   "updated_ms": 1792848161000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_LUVER_7704_24102026012112/V1_SHIR_LUVER_7704_24102026012112_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",

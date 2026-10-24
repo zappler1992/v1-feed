@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792848149315,
+ "last_run_ms": 1792848449343,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33352,6 +33352,18 @@
    "published_ms": 1792255800000,
    "section": "",
    "title": "4 דרכונים נמצאו אצל הישראלי שנעצר בקולומביה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-ae68c00b98d61a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792848386769,
+   "content_type": "article",
+   "first_seen_ms": 1792848386769,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792838700000,
+   "section": "",
+   "title": "בגלל שנסעו בשבת: נערים רעולי פנים יידו אבנים על נהגים"
   },
   "https://www.mako.co.il/men-men_news/Article-b023ebfd43261a1026.htm": {
    "check_attempts": 1,
