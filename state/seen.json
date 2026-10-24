@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-20e9573d4bf61a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-94abc333f0f61a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -40919,6 +40919,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-93f5a05c4b851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/FIX_rinat_hirshgoldberg_201026/FIX_rinat_hirshgoldberg_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-94abc333f0f61a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אחרי סוף שבוע חם, ביום הבחירות הקרוב מזג האוויר מתהפך: שילוב של גשמים וסופות רעמים יכה מהבוקר בדרום ובמזרח עם חשש לשיטפונות, ומשעות הצהריים המערכת תתפשט גם למרכז ולצפון - אז תכינו את המטריות לקלפי!",
+   "duration_s": 45,
+   "first_seen_ms": 1792883846176,
+   "image": "https://img.mako.co.il/2026/10/24/rinat_rain_241026_m_1400_1792864873652_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792864883000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "גשם ביום הבחירות? התחזית המעודכנת",
+   "type": "news",
+   "updated_ms": 1792864883000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-94abc333f0f61a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/rinat_rain_241026/MASTER/rinat_rain_241026_m/rinat_rain_241026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-99b858e64b361a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -41223,7 +41241,8 @@
    "importance": 2,
    "published_ms": 1792860840000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הזיגזג של וינטר: יישב תחת איזנקוט? תלוי מתי שואלים",
    "type": "news",
@@ -107393,7 +107412,8 @@
    "published_ms": 1792860161000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מחזה חריג בשמי סין: נוסעים תיעדו שיגור לילי של לוויין עם שובל אש מרהיב",
    "type": "mivzakim",
@@ -107867,7 +107887,8 @@
    "published_ms": 1792863467000,
    "sections": [
     "מבזקים מהעולם",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "המפגינים בפריז מתנפלים על סוכנות הרכבים ״אאודי״: הכאוס ברחובות צרפת",
    "type": "mivzakim",
