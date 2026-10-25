@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d67cd47a2c371a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e93d47a2c371a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a263d47a2c371a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -84144,6 +84145,42 @@
    "updated_ms": 1792911677000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9de1556c4d171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18052_25102026065947/M_NEWS_18052_25102026065947_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e93d47a2c371a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"לא תהיה תקיפה באיראן היום\"",
+   "duration_s": 9,
+   "first_seen_ms": 1792944746361,
+   "image": "https://img.mako.co.il/2026/10/25/fix_trump_1400_1792944601703_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792944548000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"לא תהיה תקיפה באיראן היום\"",
+   "type": "mivzakim",
+   "updated_ms": 1792944548000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e93d47a2c371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/fix_trump/fix_trump_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a263d47a2c371a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני ברק: פעוטה נפלה ממיטה - מצבה בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1792944746361,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18090_25102026040717_1400_1792944524007_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792944530000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני ברק: פעוטה נפלה ממיטה - מצבה בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1792944530000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a263d47a2c371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18090_25102026040717/M_NEWS_18090_25102026040717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm": {
    "author": "מבזקים",
