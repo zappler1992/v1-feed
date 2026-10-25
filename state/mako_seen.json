@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792961849529,
+ "last_run_ms": 1792962152146,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15353,6 +15353,18 @@
    "section": "ספורט",
    "title": "מכה לריאל מדריד: קורטואה ייעדר מהקלאסיקו"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-df0b06bf8d471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792962152146,
+   "content_type": "article",
+   "first_seen_ms": 1792962152146,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792961880000,
+   "section": "ספורט",
+   "title": "\"הוא לא האמין\": החמצת הענק של לאמין ימאל"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-e76a5a79a7271a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -15400,6 +15412,18 @@
    "published_ms": 1792161420000,
    "section": "ספורט",
    "title": "נשיא לה ליגה: \"ריאל פועלת כמו גבלס\""
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-fa8b06bf8d471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792962152146,
+   "content_type": "article",
+   "first_seen_ms": 1792962152146,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792961820000,
+   "section": "ספורט",
+   "title": "\"טעות איומה\": מרטין \"בישל\" לאמבפה שער"
   },
   "https://www.mako.co.il/Sports-football-world/worldcup-2026/q4_2026/Article-321dffe02a111a1026.htm": {
    "check_attempts": 1,
