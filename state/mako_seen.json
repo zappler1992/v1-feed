@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792955849468,
+ "last_run_ms": 1792956149483,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41549,6 +41549,18 @@
    "section": "גאווה",
    "title": "\"עושים קטעים סוטים עם הרגליים המעוותות האלה\""
   },
+  "https://www.mako.co.il/pride-news/Article-daade2e507471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792956149483,
+   "content_type": "article",
+   "first_seen_ms": 1792956149483,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792955760000,
+   "section": "גאווה",
+   "title": "הכוכבת מפתיעה: \"הייתי במסיבת סקס לסבית, זה היה רע\""
+  },
   "https://www.mako.co.il/pride-news/Article-dab9dc56a5511a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43587,7 +43599,7 @@
    "indexnow_ms": 1792871548882,
    "published_ms": 1792871100000,
    "section": "חדשות",
-   "title": "\"יש סימנים מודיעיניים\": אזהרת נתניהו לפני הבחירות"
+   "title": "האזהרה של נתניהו - והמסר של טראמפ לאיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-72f3ac587bac0a1026.htm": {
    "check_attempts": 1,
@@ -44510,6 +44522,18 @@
    "published_ms": 1790599440000,
    "section": "חדשות",
    "title": "מועמד הליכוד נגד שורדת שבי: \"להחזיר אותך לחמאס\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8658411fb3471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792955907248,
+   "content_type": "article",
+   "first_seen_ms": 1792955907248,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792953900000,
+   "section": "חדשות",
+   "title": "הפגישה של רה\"מ עם הבכיר בפרויקט הקטארי"
   },
   "https://www.mako.co.il/special-mako-news/Article-89d0bce65ef01a1027.htm": {
    "check_attempts": 1,
