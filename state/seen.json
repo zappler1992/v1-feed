@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9b2415d6f61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42090,7 +42090,7 @@
    "sections": [],
    "title": "ישראל בדרך לשיא הצבעה היסטורי בבחירות",
    "type": "news",
-   "updated_ms": 1792870980000,
+   "updated_ms": 1792947780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9b2415d6f61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/yoav_amit_241026/MASTER/yoav_amit_241026/yoav_amit_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -84142,6 +84142,24 @@
    "updated_ms": 1792941866000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8800dd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_DRUZIM_7752_25102026032256/V1_KARIND_DRUZIM_7752_25102026032256_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד חיסול המחבלים שביצעו את הפיגוע בחברון ביום שישי",
+   "duration_s": 10,
+   "first_seen_ms": 1792948046077,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18092_25102026050325_1400_1792947877787_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792947884000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד חיסול המחבלים שביצעו את הפיגוע בחברון ביום שישי",
+   "type": "mivzakim",
+   "updated_ms": 1792947884000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18092_25102026050325/M_NEWS_18092_25102026050325_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9c2bf055a3271a1026.htm": {
    "author": "מבזקים",
