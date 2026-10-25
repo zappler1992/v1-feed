@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-9d1561c6dc471a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f6761c6dc471a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-01a525137f471a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6104,7 +6103,8 @@
    "importance": 1,
    "published_ms": 1792946524000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "התמונות החדשות של יעל שלביה שמעוררות סערה ברשת",
    "type": "general",
@@ -42322,7 +42322,8 @@
    "importance": 2,
    "published_ms": 1792955275000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "נתניהו פירסם תמונה של פצצת אטום על ישראל - ובבית הלבן נדהמו",
    "type": "news",
@@ -83929,6 +83930,24 @@
    "updated_ms": 1792486527000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fd643745d7851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_ARIKIM_7559_20102026085414/V1_ARIKIM_7559_20102026085414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-01a525137f471a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זיקוקים וזעקות שמחה: חגיגות בבלגרד הערב לאחר ניצחון רשימת הסטודנטים בבחירות",
+   "duration_s": 12,
+   "first_seen_ms": 1792965146532,
+   "image": "https://img.mako.co.il/2026/10/25/V1_KARIND_BHIROT_7762_25102026094526_1400_1792964811934_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792964818000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זיקוקים וזעקות שמחה: חגיגות בבלגרד הערב לאחר ניצחון רשימת הסטודנטים בבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792964818000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-01a525137f471a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_BHIROT_7762_25102026094526/V1_KARIND_BHIROT_7762_25102026094526_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-08b8d74eb0371a1027.htm": {
    "author": "מבזקים",
