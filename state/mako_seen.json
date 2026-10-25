@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792930949465,
+ "last_run_ms": 1792931249766,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14993,6 +14993,18 @@
    "section": "ספורט",
    "title": "\"ברצלונה חוששת שהיא תורחק מליגת האלופות\""
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-a856249bbf271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792931249766,
+   "content_type": "article",
+   "first_seen_ms": 1792931249766,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792930980000,
+   "section": "ספורט",
+   "title": "זה קורה: גורן בסגל של ברצלונה לקלאסיקו"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-b3b4b8b9fd7f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -29535,7 +29547,7 @@
    "indexnow_ms": 1792927649357,
    "published_ms": 1792927440000,
    "section": "עיצוב הבית",
-   "title": "הטריק הקטן והמעולה שחייבים לנסות עם המטאטא"
+   "title": "הטריק הקטן והמעולה שאתם חייבים לנסות עם המטאטא"
   },
   "https://www.mako.co.il/living-diy/maintenance/Article-8015709823e41a1026.htm": {
    "check_attempts": 1,
@@ -36437,6 +36449,18 @@
    "section": "מוזיקה",
    "title": "הכוכבת הבריטית מאשימה: \"ישראל גנבה את הזהות שלי\""
   },
+  "https://www.mako.co.il/music-news/Article-60fb249bbf271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792931066889,
+   "content_type": "article",
+   "first_seen_ms": 1792931066889,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792930800000,
+   "section": "מוזיקה",
+   "title": "הנהג חטף התקף לב בנהיגה - האוטובוס התהפך"
+  },
   "https://www.mako.co.il/music-news/Article-62d5643c04601a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37288,6 +37312,18 @@
    "published_ms": 1791431100000,
    "section": "חדשות",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-3ea0036fef461a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792931066889,
+   "content_type": "article",
+   "first_seen_ms": 1792931066889,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792695780000,
+   "section": "מוזיקה",
+   "title": "הארי סטיילס התפוצץ על מעריץ ברחוב. זו הסיבה"
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
    "check_attempts": 1,
@@ -47521,7 +47557,7 @@
    "indexnow_ms": 1792919787374,
    "published_ms": 1792918380000,
    "section": "חופש",
-   "title": "\"זה הגיע משום מקום\": שיטפונות ענק ביעד האהוב"
+   "title": "המבקרים נתקעו: שיטפונות ענק בפארק המפורסם"
   },
   "https://www.mako.co.il/travel-news/international/Article-d0c70dbd96b11a1026.htm": {
    "check_attempts": 1,
