@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792957049422,
+ "last_run_ms": 1792957352497,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44318,6 +44318,18 @@
    "published_ms": 1790967600000,
    "section": "",
    "title": "מה גרם לטייס משנה להפוך למחבל שמנסה לרסק 174 נוסעים?"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5790e669a7471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-5790e669a7471a1027.htm",
+   "checked_ms": 1792957227252,
+   "content_type": "article",
+   "first_seen_ms": 1792957227252,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792956180000,
+   "section": "",
+   "title": "העימות בין נתניהו לרמטכ\"ל סביב איראן - והחשש בצה\"ל"
   },
   "https://www.mako.co.il/special-mako-news/Article-581f8bc3b6651a1026.htm": {
    "check_attempts": 1,
