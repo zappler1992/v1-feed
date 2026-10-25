@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792931249766,
+ "last_run_ms": 1792931549443,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14884,6 +14884,18 @@
    "published_ms": 1792356120000,
    "section": "ספורט",
    "title": "השני בהיסטוריה: ההישג המרשים של אמבפה"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-2d70ac9e60371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792931549443,
+   "content_type": "article",
+   "first_seen_ms": 1792931549443,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792931100000,
+   "section": "ספורט",
+   "title": "צ`אנס אמיתי? הסיטואציה של גורן בברצלונה"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-34efc92118a41a1027.htm": {
    "check_attempts": 1,
@@ -32933,6 +32945,18 @@
    "section": "",
    "title": "הקטטה ביישוב היוקרתי: \"אנשים פחדו לצאת מהבתים\""
   },
+  "https://www.mako.co.il/men-men_news/Article-61645ec7df271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792931549443,
+   "content_type": "article",
+   "first_seen_ms": 1792931549443,
+   "indexable": true,
+   "indexnow_ms": 1792931549443,
+   "published_ms": 1792930980000,
+   "section": "פלילים",
+   "title": "בדירה בראשל\"צ: מעבדה לייצור סם \"דוקטור\""
+  },
   "https://www.mako.co.il/men-men_news/Article-62a211a377c51a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42448,6 +42472,18 @@
    "published_ms": 1791460800000,
    "section": "חדשות",
    "title": "צה\"ל הודיע: נבחן הענקת צל\"שים על 7 באוקטובר"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-ab925ec7df271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792931549443,
+   "content_type": "article",
+   "first_seen_ms": 1792931549443,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792931040000,
+   "section": "צבא וביטחון",
+   "title": "אחרי עשור: הצי ש\"נעלם\" לראשונה מהים התיכון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ad85470a19f21a1027.htm": {
    "check_attempts": 1,
