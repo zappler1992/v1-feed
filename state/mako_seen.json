@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792927049595,
+ "last_run_ms": 1792927349372,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44246,6 +44246,18 @@
    "published_ms": 1791177780000,
    "section": "",
    "title": "המפקח על חברות התעופה הזרות קיבל כסף מפליי-דובאי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b67bf45cb6271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-b67bf45cb6271a1027.htm",
+   "checked_ms": 1792927349372,
+   "content_type": "article",
+   "first_seen_ms": 1792927349372,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792923780000,
+   "section": "",
+   "title": "ההנחיה החריגה של טראמפ - כדי למנוע הפסד בבחירות"
   },
   "https://www.mako.co.il/special-mako-news/Article-b88b13fb667d0a1027.htm": {
    "check_attempts": 1,
