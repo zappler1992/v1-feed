@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1bff1801d4371a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-66a24f9f45371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17173,6 +17174,24 @@
    "updated_ms": 1792917450000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a53083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18065_25102026083516/M_Tarbut_18065_25102026083516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-66a24f9f45371a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כפי שנחשף ב-mako: ליאם גולן משיק אלבום חדש עם אלי יצפאן",
+   "duration_s": 178,
+   "first_seen_ms": 1792937245869,
+   "image": "https://img.mako.co.il/2026/10/25/M_Music_18077_25102026015734_1400_1792936996860_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792937003000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כפי שנחשף ב-mako: ליאם גולן משיק אלבום חדש עם אלי יצפאן",
+   "type": "mivzakim",
+   "updated_ms": 1792937003000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-66a24f9f45371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18077_25102026015734/M_Music_18077_25102026015734_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a11da9c1e171a1026.htm": {
    "author": "עדכוני בידור",
@@ -41968,6 +41987,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9ac2a4e7051a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_viena_181026/MASTER/inbie_viena_181026/inbie_viena_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 24,
+   "first_seen_ms": 1792937245869,
+   "image": "https://img.mako.co.il/2026/10/25/rinat_pizza_251026_m_1400_1792936592044_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792936599000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "הלקוח התלונן על הפיצה - ועובד הפיצריה באילת הגיב באלימות",
+   "type": "news",
+   "updated_ms": 1792936599000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_pizza_251026/MASTER/rinat_pizza_251026_m/rinat_pizza_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -42018,6 +42055,24 @@
    "updated_ms": 1792913400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נתניהו פרסם ברשת X תמונה שנוצרה באמצעות בינה מלאכותית, ובה נראית פצצת אטום מעל ישראל, לצד מסר על הסכנה שבגרעין האיראני. הפוסט עורר תגובות, לאחר שהציג את האיום האיראני כסכנה קיומית ואת המאבק בו כמשימה החשובה ביותר של ישראל.",
+   "duration_s": 33,
+   "first_seen_ms": 1792937245869,
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_BOMB_251026_1400_1792936299142_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792936309000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "נתניהו פרסם תמונת AI של פצצת אטום מעל ישראל – וחטף",
+   "type": "news",
+   "updated_ms": 1792936309000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_BOMB_251026/MASTER/SHIR_BOMB_251026/SHIR_BOMB_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm": {
    "author": "חדשות",

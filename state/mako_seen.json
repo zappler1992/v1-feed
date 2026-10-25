@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792936948691,
+ "last_run_ms": 1792937248869,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14981,6 +14981,18 @@
    "section": "ספורט",
    "title": "הסעיף שעשוי להוביל לבכורה של גורן בבארסה"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-75754f9f45371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792937248869,
+   "content_type": "article",
+   "first_seen_ms": 1792937248869,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792937040000,
+   "section": "ספורט",
+   "title": "\"בלה מאסיה כבר קראו תרגילים על שם גורן\""
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-770b38b0a9361a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -18148,6 +18160,18 @@
    "published_ms": 1790322060000,
    "section": "סלבס",
    "title": "נפגשים בחג: הסלבס שאין מצב שידעתם שהם משפחה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bfb6a435e2371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792937067047,
+   "content_type": "article",
+   "first_seen_ms": 1792937067047,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792936860000,
+   "section": "סלבס",
+   "title": "\"נראית מסוממת ורעבה\": יעל שלביה חוטפת"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-c0cf091472221a1026.htm": {
    "check_attempts": 1,
