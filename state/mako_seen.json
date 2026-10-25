@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792929449401,
+ "last_run_ms": 1792929749540,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33989,6 +33989,18 @@
    "section": "חדשות",
    "title": "בגלל שמפו: ההחלטה נגד העבריין אבנר הררי"
   },
+  "https://www.mako.co.il/men-men_news/Article-99ac07163e271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929626836,
+   "content_type": "article",
+   "first_seen_ms": 1792929626836,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792929060000,
+   "section": "פלילים",
+   "title": "לקוח התלונן על הפיצה - והעובד הכה אותו במצקת"
+  },
   "https://www.mako.co.il/men-men_news/Article-9adadef315721a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47473,7 +47485,7 @@
    "indexnow_ms": 1792919787374,
    "published_ms": 1792918380000,
    "section": "חופש",
-   "title": "המבקרים נתקעו: שיטפונות ענק בפארק המפורסם"
+   "title": "\"זה הגיע משום מקום\": שיטפונות ענק ביעד האהוב"
   },
   "https://www.mako.co.il/travel-news/international/Article-d0c70dbd96b11a1026.htm": {
    "check_attempts": 1,
