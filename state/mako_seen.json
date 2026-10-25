@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792951050712,
+ "last_run_ms": 1792951352650,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10830,6 +10830,18 @@
    "published_ms": 1791830640000,
    "section": "ספורט",
    "title": "על רקע המחאה: כמה אוהדים הגיעו לטדי?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b37955dd33471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792951352650,
+   "content_type": "article",
+   "first_seen_ms": 1792951352650,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792951140000,
+   "section": "ספורט",
+   "title": "על הדשא: תגרה בין אוהדי בית\"ר להפועל פ\"ת"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b66e413f62031a1026.htm": {
    "check_attempts": 1,
@@ -49009,7 +49021,7 @@
    "indexnow_ms": null,
    "published_ms": 1792933980000,
    "section": "חופש",
-   "title": "\"אשפה ורחובות צפופים - לא אחזור לעיר הזאת\""
+   "title": "\"אשפה ורחובות צפופים – לא אחזור לעיר הזאת\""
   },
   "https://www.mako.co.il/travel-world/Article-784fcb9ed84e0a1027.htm": {
    "check_attempts": 1,
