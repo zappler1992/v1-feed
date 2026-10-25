@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-94abc333f0f61a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1704493fc0171a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ad3493fc0171a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3ce53c9112171a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -82932,6 +82934,60 @@
    "updated_ms": 1792486527000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fd643745d7851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_ARIKIM_7559_20102026085414/V1_ARIKIM_7559_20102026085414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1704493fc0171a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ישראל עברה הלילה לשעון חורף עד ה-26 במרץ",
+   "duration_s": 6,
+   "first_seen_ms": 1792901846877,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18045_25102026041318_1400_1792901657589_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792901664000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ישראל עברה הלילה לשעון חורף עד ה-26 במרץ",
+   "type": "mivzakim",
+   "updated_ms": 1792901664000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1704493fc0171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18045_25102026041318/M_NEWS_18045_25102026041318_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3ce53c9112171a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לאחר שנחסם בעקבות תאונה בה נהרג אדם אחד: כביש 465 נפתח מחדש לתנועה",
+   "duration_s": 10,
+   "first_seen_ms": 1792901846877,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18043_25102026040816_1400_1792901376163_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792901382000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לאחר שנחסם בעקבות תאונה בה נהרג אדם אחד: כביש 465 נפתח מחדש לתנועה",
+   "type": "mivzakim",
+   "updated_ms": 1792901382000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3ce53c9112171a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18043_25102026040816/M_NEWS_18043_25102026040816_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ad3493fc0171a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אובמה לועג לאולם הנשפים של טראמפ: ״הבית הלבן נראה כאילו סדאם חוסיין פתח סניף של צ׳יז קייק פקטורי״",
+   "duration_s": 41,
+   "first_seen_ms": 1792901846877,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18044_25102026041158_1400_1792901615225_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792901621000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אובמה לועג לאולם הנשפים של טראמפ: ״הבית הלבן נראה כאילו סדאם חוסיין פתח סניף של צ׳יז קייק פקטורי״",
+   "type": "mivzakim",
+   "updated_ms": 1792901621000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ad3493fc0171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18044_25102026041158/M_NEWS_18044_25102026041158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
