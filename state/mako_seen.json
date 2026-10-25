@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792955549489,
+ "last_run_ms": 1792955849468,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15040,6 +15040,18 @@
    "published_ms": 1791283380000,
    "section": "ספורט",
    "title": "מהמבטיחים בעולם: הרשימה בה נכלל גורן"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6cb8e669a7471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792955787183,
+   "content_type": "article",
+   "first_seen_ms": 1792955787183,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792955640000,
+   "section": "ספורט",
+   "title": "עם כל הכוכבים: צפו בגורן נכנס לקאמפ נואו"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6daef1476f451a1027.htm": {
    "check_attempts": 1,
