@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792908449777,
+ "last_run_ms": 1792908749701,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25157,6 +25157,18 @@
    "section": "בריאות",
    "title": "ההורים חשבו שזה שיניים - התינוק היה בסכנה"
   },
+  "https://www.mako.co.il/health-news/Article-ebffa20a95261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792908627326,
+   "content_type": "article",
+   "first_seen_ms": 1792908627326,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792908240000,
+   "section": "בריאות",
+   "title": "יוגורט יווני או קוטג': מה יותר בריא?"
+  },
   "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42423,7 +42435,7 @@
    "indexnow_ms": 1792871548882,
    "published_ms": 1792871100000,
    "section": "חדשות",
-   "title": "\"גם אם נתניהו יובס בבחירות, הוא ייצא למתקפה באיראן\""
+   "title": "במדינה הערבית מעריכים: ישראל תקפה בשטחנו בשבוע שעבר"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-72f3ac587bac0a1026.htm": {
    "check_attempts": 1,
