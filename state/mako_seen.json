@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792929149473,
+ "last_run_ms": 1792929449401,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11094,6 +11094,18 @@
    "published_ms": 1791706440000,
    "section": "ספורט",
    "title": "השחקן ששינה את הפועל ת\"א כמועדון"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d0aff2857a171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929386820,
+   "content_type": "article",
+   "first_seen_ms": 1792929386820,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792929120000,
+   "section": "ספורט",
+   "title": "עם צונאמי ובטאיי: ההרכב שתירגל ברק בכר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d2021e8e1f941a1026.htm": {
    "check_attempts": 1,
@@ -24293,6 +24305,18 @@
    "section": "",
    "title": "ריקול ל\"גלידה הישראלית\" של בן אנד ג'ריס"
   },
+  "https://www.mako.co.il/health-news/Article-0424327d28e31a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929386820,
+   "content_type": "article",
+   "first_seen_ms": 1792929386820,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792929120000,
+   "section": "בריאות",
+   "title": "בת 22 עברה שני ניתוחי חזה ונותרה עם עיוותים"
+  },
   "https://www.mako.co.il/health-news/Article-06c6e1590fd51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37217,6 +37241,30 @@
    "section": "חדשות",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
   },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929266815,
+   "content_type": "article",
+   "first_seen_ms": 1792929266815,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792761900000,
+   "section": "קשת 12",
+   "title": "\"הסלבס מרשים לעצמם להתנהג שם אחרת\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-de1fc5c4d1c11a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929266815,
+   "content_type": "article",
+   "first_seen_ms": 1792929266815,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792776600000,
+   "section": "קשת 12",
+   "title": "\"זה מהלך שצריך להסתיר מהמשפחה והחברים\""
+  },
   "https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47103,6 +47151,18 @@
    "section": "",
    "title": "אלה שני הטייסים שהצילו את הנוסעים בטיסת פליי דובאי"
   },
+  "https://www.mako.co.il/travel-news/international/Article-a30f1970bc271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792929386820,
+   "content_type": "article",
+   "first_seen_ms": 1792929386820,
+   "indexable": true,
+   "indexnow_ms": 1792929386820,
+   "published_ms": 1792924920000,
+   "section": "",
+   "title": "\"זכוכיות מנופצות ושוטרים\": אירופה נערכת לשבועות אלימים"
+  },
   "https://www.mako.co.il/travel-news/international/Article-a32cd44ce48d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -49729,7 +49789,7 @@
    "indexnow_ms": 1792871426994,
    "published_ms": 1792870920000,
    "section": "הכי חם",
-   "title": "זו הכוכבת שנחשפה ב\"הזמר במסכה\""
+   "title": "והרי החדשות: זו הכוכבת שנחשפה ב\"הזמר במסכה\""
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-769971c014e31a1026.htm": {
    "check_attempts": 1,
