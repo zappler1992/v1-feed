@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17244,6 +17244,24 @@
    "updated_ms": 1792904206000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c480cc26f4171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18048_25102026045530/M_Tarbut_18048_25102026045530_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מה דעתכם על הרשימה של מפלגת ביחד? | דונקי בביקורת סרטוני בחירות",
+   "duration_s": 52,
+   "first_seen_ms": 1792934245698,
+   "image": "https://img.mako.co.il/2026/10/25/M_Tarbut_18073_25102026010606_1400_1792933660840_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792933667000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מה דעתכם על הרשימה של מפלגת ביחד? | דונקי בביקורת סרטוני בחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792933667000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18073_25102026010606/M_Tarbut_18073_25102026010606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -83714,18 +83732,18 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
+   "description": "בשל מצבו הרפואי: נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
    "duration_s": 7,
    "first_seen_ms": 1792933645689,
    "image": "https://img.mako.co.il/2026/10/25/V1_grunis_7745_25102026010301_1400_1792933438042_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1792933444000,
    "sections": [
     "מבזקים"
    ],
-   "title": "נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
+   "title": "בשל מצבו הרפואי: נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
    "type": "mivzakim",
-   "updated_ms": 1792933444000,
+   "updated_ms": 1792933980000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_grunis_7745_25102026010301/V1_grunis_7745_25102026010301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
