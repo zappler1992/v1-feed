@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792938148495,
+ "last_run_ms": 1792938465257,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48842,6 +48842,18 @@
    "published_ms": 1792052880000,
    "section": "חופש",
    "title": "האובססיה החדשה: המוצר המוזר שכולם חוזרים איתו מחו\"ל"
+  },
+  "https://www.mako.co.il/travel-world/Article-6f771801d4371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792938387269,
+   "content_type": "article",
+   "first_seen_ms": 1792938387269,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792933980000,
+   "section": "חופש",
+   "title": "\"אשפה ורחובות צפופים – לא אחזור לעיר הזאת\""
   },
   "https://www.mako.co.il/travel-world/Article-784fcb9ed84e0a1027.htm": {
    "check_attempts": 1,

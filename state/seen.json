@@ -1,9 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-66a24f9f45371a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-384dd7aad6371a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bb3ad7aad6371a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-946afbb8f6371a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8067f5aed5371a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17212,6 +17213,24 @@
    "updated_ms": 1792912294000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a11da9c1e171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18053_25102026070946/M_Music_18053_25102026070946_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8067f5aed5371a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "היפיפייה הנרדמת: בר רפאלי בתיעוד ישנוני במיוחד מארה״ב - ״ג׳ט לג הוא כ*ב״",
+   "duration_s": 10,
+   "first_seen_ms": 1792938445836,
+   "image": "https://img.mako.co.il/2026/10/25/M_Tarbut_18082_25102026021654_1400_1792937881545_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792937888000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "היפיפייה הנרדמת: בר רפאלי בתיעוד ישנוני במיוחד מארה״ב - ״ג׳ט לג הוא כ*ב״",
+   "type": "mivzakim",
+   "updated_ms": 1792937888000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8067f5aed5371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18082_25102026021654/M_Tarbut_18082_25102026021654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm": {
    "author": "עדכוני בידור",
@@ -83677,6 +83696,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_AMSTERDAM_7741_25102026105742/V1_AMSTERDAM_7741_25102026105742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-384dd7aad6371a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל: בתי שני המחבלים מההיתקלות בחברון שבה נפלו שני לוחמים נאטמו הלילה",
+   "duration_s": 27,
+   "first_seen_ms": 1792938445836,
+   "image": "https://img.mako.co.il/2026/10/25/V1_karind_idf_7748_25102026022354_1400_1792938313240_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792938319000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל: בתי שני המחבלים מההיתקלות בחברון שבה נפלו שני לוחמים נאטמו הלילה",
+   "type": "mivzakim",
+   "updated_ms": 1792938319000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-384dd7aad6371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_karind_idf_7748_25102026022354/V1_karind_idf_7748_25102026022354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-39de8aa4e5271a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -83874,6 +83911,24 @@
    "updated_ms": 1792924839000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18070_25102026103903/M_NEWS_18070_25102026103903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bb3ad7aad6371a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פעילות צה\"ל לסיכול טרור ברחבי העיר חברון נמשכת: נאטמו בתיהם של שני מחבלים",
+   "duration_s": 27,
+   "first_seen_ms": 1792938445836,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18083_25102026022055_1400_1792938146658_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792938157000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פעילות צה\"ל לסיכול טרור ברחבי העיר חברון נמשכת: נאטמו בתיהם של שני מחבלים",
+   "type": "mivzakim",
+   "updated_ms": 1792938157000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bb3ad7aad6371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18083_25102026022055/M_NEWS_18083_25102026022055_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm": {
    "author": "מבזקים",
@@ -109540,6 +109595,24 @@
    "updated_ms": 1792927803000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7598c2aa2d271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_TRAIN_7743_25102026112823/V1_TRAIN_7743_25102026112823_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-946afbb8f6371a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הולכת וטובעת: אסדת קידוח טבעה מול חופי גבון באוקיינוס האטלנטי, אדם אחד נהרג ו-4 נעדרים",
+   "duration_s": 60,
+   "first_seen_ms": 1792938445836,
+   "image": "https://img.mako.co.il/2026/10/25/V1_KARIND_ASDA_7747_25102026022111_1400_1792938162469_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792938169000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הולכת וטובעת: אסדת קידוח טבעה מול חופי גבון באוקיינוס האטלנטי, אדם אחד נהרג ו-4 נעדרים",
+   "type": "mivzakim",
+   "updated_ms": 1792938169000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-946afbb8f6371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_ASDA_7747_25102026022111/V1_KARIND_ASDA_7747_25102026022111_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-abef9432ca171a1026.htm": {
    "author": "מבזקים מהעולם",
