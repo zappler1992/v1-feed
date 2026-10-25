@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f485a6fc83371a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1bff1801d4371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41968,6 +41968,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9ac2a4e7051a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_viena_181026/MASTER/inbie_viena_181026/inbie_viena_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מחיר הדלק בדרך לזנק, והפעם זה עלול לכאוב במיוחד: עכשיו בשיא עונת הבחירות- ללא חתימה של סמוטריץ' בימים הקרובים, המחיר לליטר יגיע לכמעט 9 שקלים.",
+   "duration_s": 37,
+   "first_seen_ms": 1792936345765,
+   "image": "https://img.mako.co.il/2026/10/25/rinat_delek_251026_m_1400_1792920246246_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792935960000,
+   "sections": [],
+   "title": "מכה לנהגים: מחיר הדלק עשוי לזנק ל-9 שקלים לליטר מיד אחרי הבחירות",
+   "type": "news",
+   "updated_ms": 1792935960000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_delek_251026/MASTER/rinat_delek_251026_m/rinat_delek_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-44cd249bbf271a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -83550,6 +83566,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17d27c8895171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_TAHA_7728_25102026050123/V1_TAHA_7728_25102026050123_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1bff1801d4371a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בכיכר פלסטין שבאיראן הוצבה מחדש כרזה הקוראת להשמדת ישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1792936345765,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18075_25102026014624_1400_1792936088631_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792936099000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בכיכר פלסטין שבאיראן הוצבה מחדש כרזה הקוראת להשמדת ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1792936099000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1bff1801d4371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18075_25102026014624/M_NEWS_18075_25102026014624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-29a70f0587171a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -83582,7 +83616,7 @@
    ],
    "title": "חוזרים לארץ כדי להצביע: התור הענק של הישראלים בנמל התעופה באמסטרדם",
    "type": "mivzakim",
-   "updated_ms": 1792927740000,
+   "updated_ms": 1792935960000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_AMSTERDAM_7741_25102026105742/V1_AMSTERDAM_7741_25102026105742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
