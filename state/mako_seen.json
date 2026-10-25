@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792937864425,
+ "last_run_ms": 1792938148495,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1279,7 +1279,7 @@
    "indexnow_ms": null,
    "published_ms": null,
    "section": "אופנה",
-   "title": "\"תוודאו שהשמלה לא קצרה מדי\": בר רפאלי מסתבכת עם הלוק"
+   "title": "בר רפאלי מסתבכת עם הלוק בפריים טיים"
   },
   "https://fashionforward.mako.co.il/news/322284/": {
    "check_attempts": 1,
@@ -35380,6 +35380,18 @@
    "published_ms": 1791715020000,
    "section": "פלילים",
    "title": "\"הרגו אותו סתם, הוא לא סיכן אף אחד. למה לא קראו לנו?\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-da041a9246371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792938148495,
+   "content_type": "article",
+   "first_seen_ms": 1792938148495,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792937880000,
+   "section": "פלילים",
+   "title": "אישום: אנס באכזריות עובדת בזנות במלונית בבת ים"
   },
   "https://www.mako.co.il/men-men_news/Article-daae74f607f41a1027.htm": {
    "check_attempts": 1,
