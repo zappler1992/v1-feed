@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ccfccab39371a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6047,7 +6047,8 @@
    "importance": 2,
    "published_ms": 1792926290000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עידן עמדי חושף למי יצביע בבחירות: \"מי שרוצה לקלל אותי - זה בסדר\"",
    "type": "general",
@@ -42064,12 +42065,30 @@
    "image": "https://img.mako.co.il/2026/10/25/SHIR_LAUNDRY_251026_1400_1792930750900_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792934400000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "כוכבת הרשת סגרה את הילד בתוך סל כביסה - וחטפה בתגובות",
    "type": "news",
    "updated_ms": 1792934400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-44cd249bbf271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_LAUNDRY_251026/MASTER/SHIR_LAUNDRY_251026/SHIR_LAUNDRY_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ראש הממשלה בנימין נתניהו פנה לנשיא ארה\"ב דונלד טראמפ וביקש ממנו להביע תמיכה פומבית נוספת בקמפיין הבחירות שלו. על פי מקור אמריקני, השניים שוחחו פעמיים בשלושת הימים האחרונים, ונתניהו אף הציע נוסחים להצהרות תמיכה. המקור טען כי בבית הלבן רואים במאמציו \"סימן לייאוש\". בליכוד מכחישים את הדיווח.\n\nמתוך חדשות 12, קשת 12",
+   "duration_s": 48,
+   "first_seen_ms": 1792941445851,
+   "image": "https://img.mako.co.il/2026/10/25/inbaltrump251002fidx_1400_1792939556136_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792939440000,
+   "sections": [],
+   "title": "הבקשה הבהולה של נתניהו מטראמפ - רגע לפני הבחירות",
+   "type": "news",
+   "updated_ms": 1792939440000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/inbaltrump251002fidx/inbaltrump251002fidx_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm": {
    "author": "חדשות",
@@ -42136,7 +42155,8 @@
    "importance": 2,
    "published_ms": 1792924860000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "פרשת השחיתות בכפר סבא: ראש העיר ואשתו - הגרסאות נחשפות",
    "type": "news",
@@ -109709,7 +109729,8 @@
    "importance": 0,
    "published_ms": 1792927803000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תאונת רכבת חריגה: מנוף קרס על המסילה וגרם להתנגשות בסאו פאולו שבברזיל",
    "type": "mivzakim",
