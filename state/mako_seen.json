@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792940848631,
+ "last_run_ms": 1792941148542,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21580,6 +21580,18 @@
    "published_ms": 1791709800000,
    "section": "כסף",
    "title": "הזוכה ב-64 מיליון שקל לא סיפר לאשתו על הפרס"
+  },
+  "https://www.mako.co.il/finances-news/Article-ed06d339a8371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792941027324,
+   "content_type": "article",
+   "first_seen_ms": 1792941027324,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792940520000,
+   "section": "כסף",
+   "title": "מאגר גז חדש במצרים: כמה תשובה צריך לדאוג?"
   },
   "https://www.mako.co.il/finances-news/Article-ed88e66981101a1027.htm": {
    "check_attempts": 1,
