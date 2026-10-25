@@ -1,13 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/25/V1_AMSTERDAM_7741_25102026105742_1400_1792925962372_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>חוזרים לארץ כדי להצביע: התור הענק של הישראלים בנמל התעופה באמסטרדם</video:title>
+<video:description>חוזרים לארץ כדי להצביע: התור הענק של הישראלים בנמל התעופה באמסטרדם</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_AMSTERDAM_7741_25102026105742/V1_AMSTERDAM_7741_25102026105742_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>26</video:duration>
+<video:publication_date>2026-10-25T10:59:28+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-124abea36b271a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/25/V1_RINA_7742_25102026105806_1400_1792925955271_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>עיתונאית חדשות 12 לשעבר, רינה מצליח, הודיעה כי חשבון הטלגרם שלה נפרץ בידי איראנים</video:title>
+<video:description>עיתונאית חדשות 12 לשעבר, רינה מצליח, הודיעה כי חשבון הטלגרם שלה נפרץ בידי איראנים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_RINA_7742_25102026105806/V1_RINA_7742_25102026105806_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>10</video:duration>
+<video:publication_date>2026-10-25T10:59:22+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/10/25/SHIR_KASABA_251026_1400_1792924010925_FirstFrame.jpg</video:thumbnail_loc>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/25/SHIR_KASABA_251026_FIX_1400_1792925406732_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>פרשת השחיתות בכפר סבא: ראש העיר ואשתו - הגרסאות נחשפות</video:title>
 <video:description>מיטל סער שומרת על זכות השתיקה בחקירת פרשת השחיתות, ורק על דבר אחד מתעקשת: ״רפי לא קשור, הוא לא ידע״. בעלה, ראש עיריית כפר סבא, מכחיש קשר לכספים - והחקירה נמשכת.</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_KASABA_251026/MASTER/SHIR_KASABA_251026/SHIR_KASABA_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>60</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_KASABA_251026_FIX/SHIR_KASABA_251026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>82</video:duration>
 <video:publication_date>2026-10-25T10:41:00+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -257,6 +289,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -354,6 +387,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -450,6 +484,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ce303d3a9271a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-124abea36b271a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41870,7 +41869,8 @@
    "importance": 2,
    "published_ms": 1792912320000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "מחסני נשק איראניים הותקפו בעיראק - בבגדאד חושדים: ישראל אחראית",
    "type": "news",
@@ -41882,17 +41882,17 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "מיטל סער שומרת על זכות השתיקה בחקירת פרשת השחיתות, ורק על דבר אחד מתעקשת: ״רפי לא קשור, הוא לא ידע״. בעלה, ראש עיריית כפר סבא, מכחיש קשר לכספים - והחקירה נמשכת.",
-   "duration_s": 60,
+   "duration_s": 82,
    "first_seen_ms": 1792925246490,
-   "image": "https://img.mako.co.il/2026/10/25/SHIR_KASABA_251026_1400_1792924010925_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_KASABA_251026_FIX_1400_1792925406732_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792924860000,
    "sections": [],
    "title": "פרשת השחיתות בכפר סבא: ראש העיר ואשתו - הגרסאות נחשפות",
    "type": "news",
-   "updated_ms": 1792924860000,
+   "updated_ms": 1792925340000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_KASABA_251026/MASTER/SHIR_KASABA_251026/SHIR_KASABA_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_KASABA_251026_FIX/SHIR_KASABA_251026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm": {
    "author": "חדשות",
@@ -41904,7 +41904,8 @@
    "importance": 2,
    "published_ms": 1792917387000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "בת זוגו של כוכב \"האח הגדול\" מעלה תמונה עם יד שבורה: \"הייתי עיוורת\"",
    "type": "news",
@@ -83311,6 +83312,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0d22771864271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_IRAN_7736_25102026090008/V1_IRAN_7736_25102026090008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-124abea36b271a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עיתונאית חדשות 12 לשעבר, רינה מצליח, הודיעה כי חשבון הטלגרם שלה נפרץ בידי איראנים",
+   "duration_s": 10,
+   "first_seen_ms": 1792926147090,
+   "image": "https://img.mako.co.il/2026/10/25/V1_RINA_7742_25102026105806_1400_1792925955271_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792925962000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עיתונאית חדשות 12 לשעבר, רינה מצליח, הודיעה כי חשבון הטלגרם שלה נפרץ בידי איראנים",
+   "type": "mivzakim",
+   "updated_ms": 1792925962000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-124abea36b271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_RINA_7742_25102026105806/V1_RINA_7742_25102026105806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-15658aa4e5271a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -83382,6 +83401,24 @@
    "updated_ms": 1792907154000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-29a70f0587171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KOTAROT_7729_25102026054416/V1_KOTAROT_7729_25102026054416_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חוזרים לארץ כדי להצביע: התור הענק של הישראלים בנמל התעופה באמסטרדם",
+   "duration_s": 26,
+   "first_seen_ms": 1792926147090,
+   "image": "https://img.mako.co.il/2026/10/25/V1_AMSTERDAM_7741_25102026105742_1400_1792925962372_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792925968000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חוזרים לארץ כדי להצביע: התור הענק של הישראלים בנמל התעופה באמסטרדם",
+   "type": "mivzakim",
+   "updated_ms": 1792925968000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_AMSTERDAM_7741_25102026105742/V1_AMSTERDAM_7741_25102026105742_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-39de8aa4e5271a1027.htm": {
    "author": "מבזקים",
@@ -109166,7 +109203,8 @@
    "importance": 0,
    "published_ms": 1792909655000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מה שנותר מאתר הנופש של היטלר: המראות מהאוויר אחרי השריפה",
    "type": "mivzakim",

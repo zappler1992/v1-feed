@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792925849409,
+ "last_run_ms": 1792926150993,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22012,6 +22012,18 @@
    "published_ms": null,
    "section": "נדל\"ן",
    "title": "במקום 42 דירות: פרויקט ענק בנווה שאנן חיפה"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-a1d2c472f9271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792926026881,
+   "content_type": "article",
+   "first_seen_ms": 1792926026881,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792925760000,
+   "section": "נדל\"ן",
+   "title": "אין פועלים? הרובוטים שנכנסים לאתרי השיפוצים"
   },
   "https://www.mako.co.il/finances-real-estate/Article-a24fbefae2351a1026.htm": {
    "check_attempts": 1,
