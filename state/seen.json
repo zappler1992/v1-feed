@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17d27c8895171a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c480cc26f4171a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-275ecc26f4171a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2024-m10_w04/shorts-04fb8a56b5ac291027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30019,6 +30017,22 @@
    "updated_ms": null,
    "url": "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/09/27/NASRALLA_MFIX/NASRALLA_MFIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2024-m10_w04/shorts-04fb8a56b5ac291027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "זכרתם להזיז את השעון? הלילה הזזנו את מחוגי השעון שעה אחת אחורה והרווחנו עוד שעה של שינה",
+   "duration_s": 32,
+   "first_seen_ms": 1792905147397,
+   "image": "https://img.mako.co.il/2024/10/26/TAMIR_CLOCK2_261024_1400_1729972108762_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792904820000,
+   "sections": [],
+   "title": "החורף הגיע: זכרתם להזיז את השעון?",
+   "type": "news",
+   "updated_ms": 1792904820000,
+   "url": "https://www.v-1.co.il/news-magazine/2024-m10_w04/shorts-04fb8a56b5ac291027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2024/10/26/TAMIR_CLOCK2_261024/MASTER/TAMIR_CLOCK2_261024/TAMIR_CLOCK2_261024_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2024-m10_w04/shorts-eb970b0b289c291026.htm": {
    "author": "חדשות",

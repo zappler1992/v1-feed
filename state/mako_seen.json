@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792904851704,
+ "last_run_ms": 1792905151589,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16300,6 +16300,18 @@
    "published_ms": 1790578680000,
    "section": "תרבות tvbee",
    "title": "בראד פיט והכלב בזוגיות מרגשת, שאר הסרט פחות"
+  },
+  "https://www.mako.co.il/culture-movies/reviews/Article-ced2df5f4c261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792905151589,
+   "content_type": "article",
+   "first_seen_ms": 1792905151589,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792905000000,
+   "section": "תרבות tvbee",
+   "title": "יש כאן סצנות קשות לצפייה - וזה דוחה בקטע טוב"
   },
   "https://www.mako.co.il/culture-movies/reviews/Article-d763e1b6b6a21a1026.htm": {
    "check_attempts": 1,
