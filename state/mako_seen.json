@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792971148989,
+ "last_run_ms": 1792971449259,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1280,6 +1280,18 @@
    "published_ms": 1792922436000,
    "section": "אופנה",
    "title": "\"תוודאו שהשמלה לא קצרה מדי\": בר רפאלי מסתבכת עם הלוק בפריים טיים"
+  },
+  "https://fashionforward.mako.co.il/news/322252/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792971267669,
+   "content_type": "article",
+   "first_seen_ms": 1792971267669,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792968781000,
+   "section": "Fashion Forward",
+   "title": "למה לא אמרת? שיר אלמליח מציגה ג'ינס מעולה ואחות יפהפייה"
   },
   "https://fashionforward.mako.co.il/news/322284/": {
    "check_attempts": 1,
