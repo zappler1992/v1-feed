@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-25T06:31:55+00:00</news:publication_date>
+<news:title>דיווח במשטרה על אירוע חטיפת נשק ממאבטח בית ספר בגבעת שמואל. מתקיימות סריקות נרחבות אחר החשוד</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/25/V1_GUN_SCHOOL_7733_25102026063039_1400_1792909908989_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-53b8d2f0cb171a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -17,6 +26,15 @@
 <news:title>אירוע ירי קשה בפלורידה: לפחות 12 נפצעו בעיר טלהאסי, בהם שישה קטינים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/25/V1_FLORIDA_7731_25102026061618_1400_1792909085988_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-cc52f1aee4461a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-25T06:00:00+00:00</news:publication_date>
+<news:title>פולישוק פרק 19: פיטר ונכנס לפאניקה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/22/POLISHUK_EP19_1400_1792685371910_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ef7150e9f8171a1027.htm</loc>
@@ -1745,14 +1763,5 @@
 <news:title>פיצוץ סמוך לבתי מגורים באלבמה: המפעל לסלילת כבישים עלה באש - ותושבים פונו מהאזור | צפו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/23/V1_KARIND_ALABAMA_7674_23102026065316_1400_1792738482989_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-3ed16b4526761a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-23T06:34:08+00:00</news:publication_date>
-<news:title>המבנים מתנדנדים והמוצרים נופלים מהמדפים: 16 הרוגים ברעידת אדמה חזקה בעוצמה 7 בטיבט</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/23/V1_karind_tibet_7673_23102026063225_1400_1792737241153_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
