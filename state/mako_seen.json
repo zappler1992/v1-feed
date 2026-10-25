@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792957352497,
+ "last_run_ms": 1792957649818,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9893,7 +9893,7 @@
    "indexnow_ms": null,
    "published_ms": 1792956840000,
    "section": "ספורט",
-   "title": "לא נראה טוב: הסימון של שועה לשחקן פ\"ת"
+   "title": "הוביל לצהוב: העימות של שועה עם שחקני פ\"ת"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-665a724176051a1026.htm": {
    "check_attempts": 1,
@@ -10086,6 +10086,18 @@
    "published_ms": 1791104520000,
    "section": "ספורט",
    "title": "מכבי חיפה לא תמשוך כרטיסים למשחקים בטדי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-750c73f509471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792957467328,
+   "content_type": "article",
+   "first_seen_ms": 1792957467328,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792957080000,
+   "section": "ספורט",
+   "title": "לפי שופט AI: קרבאלי היה צריך לקבל אדום?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-750eb9df7b6f0a1027.htm": {
    "check_attempts": 1,
@@ -15063,7 +15075,7 @@
    "indexnow_ms": null,
    "published_ms": 1792955640000,
    "section": "ספורט",
-   "title": "עם כל הכוכבים: צפו בגורן נכנס לקאמפ נואו"
+   "title": "עם כל הכוכבים: גורן נכנס לקאמפ נואו"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6daef1476f451a1027.htm": {
    "check_attempts": 1,
@@ -27627,7 +27639,7 @@
    "indexnow_ms": null,
    "published_ms": 1792935240000,
    "section": "HIX",
-   "title": "בבית הספר הופתעו: כך הסתיימה החופשה של המורה הצעירה"
+   "title": "המורה הגיעה לבלות בקזינו - ונעצרה בחשד לשוד"
   },
   "https://www.mako.co.il/hix-special/Article-626af122f51f0a1026.htm": {
    "check_attempts": 1,
@@ -35500,6 +35512,18 @@
    "published_ms": 1790248680000,
    "section": "פלילים",
    "title": "אם יורשע: ערן חייא יבקש לרצות מאסר בארה\"ב"
+  },
+  "https://www.mako.co.il/men-men_news/Article-d215e669a7471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792957587402,
+   "content_type": "article",
+   "first_seen_ms": 1792957587402,
+   "indexable": true,
+   "indexnow_ms": 1792957587402,
+   "published_ms": 1792956660000,
+   "section": "",
+   "title": "גבר בן 67 נכנס לדירה - ונשכב במיטה לצד שתי ילדות"
   },
   "https://www.mako.co.il/men-men_news/Article-d390a80154ec0a1026.htm": {
    "check_attempts": 1,
