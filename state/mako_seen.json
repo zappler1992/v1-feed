@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792966349772,
+ "last_run_ms": 1792966652141,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15053,6 +15053,18 @@
    "section": "ספורט",
    "title": "לאחר סערת הפנדל: מחוות אלצ`ה לרביבו"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-40680dd902571a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792966652141,
+   "content_type": "article",
+   "first_seen_ms": 1792966652141,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792966380000,
+   "section": "ספורט",
+   "title": "פתר את הפאזל? המפתח של מוריניו לניצחון"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-534d722894421a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -15399,7 +15411,7 @@
    "indexnow_ms": null,
    "published_ms": 1792961880000,
    "section": "ספורט",
-   "title": "\"הוא לא האמין\": החמצת הענק של לאמין ימאל"
+   "title": "\"כדור זהב? ימאל לא מופיע למשחקים חשובים\""
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-e76a5a79a7271a1027.htm": {
    "check_attempts": 1,
@@ -15592,6 +15604,18 @@
    "published_ms": 1791210180000,
    "section": "ספורט",
    "title": "צפו: מדבדב פגע באוהד, ג`וקוביץ` עלה לגמר"
+  },
+  "https://www.mako.co.il/Sports-q2_2026/Article-d20a1ea745471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792966652141,
+   "content_type": "article",
+   "first_seen_ms": 1792966652141,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792953900000,
+   "section": "חדשות",
+   "title": "אלימות קשה בין אוהדים: עשרות התפרצו לכר הדשא"
   },
   "https://www.mako.co.il/culture-articles/Article-0021c220e2f31a1027.htm": {
    "check_attempts": 1,
@@ -45279,6 +45303,18 @@
    "section": "",
    "title": "תושבת פריז הציגה בדמעות: השיטה החדשה של המפגינים בצרפת"
   },
+  "https://www.mako.co.il/special-mako-news/Article-d52ad3b509471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792966652141,
+   "content_type": "article",
+   "first_seen_ms": 1792966652141,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792965840000,
+   "section": "חדשות",
+   "title": "סערה במערכת הפוליטית: \"נתניהו, העיניים שלי עליך\""
+  },
   "https://www.mako.co.il/special-mako-news/Article-d572f47b3c541a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-d572f47b3c541a1027.htm",
@@ -46561,7 +46597,7 @@
    "indexnow_ms": 1792963649698,
    "published_ms": 1792960680000,
    "section": "",
-   "title": "אישה נעצרה בחשד שיצאה למסע דקירות של יהודים בחו\"ל"
+   "title": "אחרי מרדף: האישה שיצאה למסע דקירות יהודים נעצרה"
   },
   "https://www.mako.co.il/travel-news/Article-9bb08b62579e0a1026.htm": {
    "check_attempts": 1,
