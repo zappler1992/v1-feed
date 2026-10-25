@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792945050305,
+ "last_run_ms": 1792945349840,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30269,6 +30269,18 @@
    "section": "",
    "title": "לא סביון וקיסריה: אלה המקומות שהעשירים עוברים לגור בהם"
   },
+  "https://www.mako.co.il/living/Article-998ecd919c371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792945227623,
+   "content_type": "article",
+   "first_seen_ms": 1792945227623,
+   "indexable": true,
+   "indexnow_ms": 1792945227623,
+   "published_ms": 1792944420000,
+   "section": "",
+   "title": "קנה בית - וגילה תא נסתר בארונות המטבח"
+  },
   "https://www.mako.co.il/mako-vod-keshet/dancing_with_stars-s5": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/mako-vod-keshet/dancing_with_stars",
@@ -44474,6 +44486,18 @@
    "published_ms": 1792257840000,
    "section": "",
    "title": "החשש בישראל: \"אנחנו עלולים לאבד שליטה בקרוב\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-91bf19e58b371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-91bf19e58b371a1027.htm",
+   "checked_ms": 1792945227623,
+   "content_type": "article",
+   "first_seen_ms": 1792945227623,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792943160000,
+   "section": "",
+   "title": "אש בכביש 6: הפגנת הפתע - והעומסים הכבדים"
   },
   "https://www.mako.co.il/special-mako-news/Article-96d3a94bd3211a1026.htm": {
    "check_attempts": 1,
