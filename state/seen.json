@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-15658aa4e5271a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d991ffd624951a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-49428a9c18361a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1093,6 +1095,24 @@
    "updated_ms": 1792313160000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w03/shorts-a9ef55ef02041a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/ACADEMY_OF_LIES_EP13/MASTER/ACADEMY_OF_LIES_EP13/ACADEMY_OF_LIES_EP13_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-49428a9c18361a1027.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 19: אשלי מנסה לגנוב את הרגע של מיה וג׳אד, אבל ג׳אד מעמיד אותה במקום ומבהיר בדיוק במי הוא מעוניין. כשהם שוב לבד, מיה וג׳אד סוף סוף מתנשקים - עד שחברי הלהקה נכנסים וקוטעים את הרגע. מיה יוצאת בעננים, אבל ההכנות למופע הגאלה מחזירות אותה לקרקע כשאשלי ממהרת לבחור בג׳אד כשותף שלה.",
+   "duration_s": 139,
+   "first_seen_ms": 1792921646391,
+   "image": "https://img.mako.co.il/2026/10/22/ACADEMY_OF_LIES_EP19_1400_1792671211738_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792921200000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "בקצב השקר פרק 19: מתנשקים ונתפסים",
+   "type": "series",
+   "updated_ms": 1792921200000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-49428a9c18361a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/ACADEMY_OF_LIES_EP19/MASTER/ACADEMY_OF_LIES_EP19/ACADEMY_OF_LIES_EP19_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-5bb1ef4273351a1026.htm": {
    "author": "בקצב השקר",
@@ -29379,6 +29399,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w04/shorts-dddba20a95261a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LOADED_EP67/MASTER/LOADED_EP67/LOADED_EP67_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 69: תומר חוגג ניצחון בפוקר אצל השכנים האוליגרכים, אבל כששחקן אחר מבקש לפרוש עם הכסף, מתברר שהמארחים פחות זורמים עם פרידות - וארז מוותר מהר על הרעיון ללכת הביתה. בינתיים אביגיל מנסה לשכנע את גיא שמותר לו ליהנות מהמיליונים, אבל הוא מתעקש שהוא נהנה גם מדברים קטנים. לה כבר יש רעיון להמשך הבילוי, ובשבילו גיא מוכן לדחות אפילו את משרד הפנים.",
+   "duration_s": 164,
+   "first_seen_ms": 1792921646391,
+   "image": "https://img.mako.co.il/2026/10/25/LOADED_EP69_1400_1792920386859_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792921320000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "מסודרים פרק 69: לנצח ולברוח? לא כאן",
+   "type": "series",
+   "updated_ms": 1792921320000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP69/MASTER/LOADED_EP69/LOADED_EP69_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -30051,6 +30089,24 @@
    "updated_ms": 1792486020000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d0cc0e1890f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/LOVE_CORNER_EP34_2/MASTER/LOVE_CORNER_EP34_M_2/LOVE_CORNER_EP34_M_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d991ffd624951a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 38: אחרי ששירלי תופסת את אלונה וליאור מתנשקים, אלונה ממהרת להיפרד ממנו ולהכחיש שיש ביניהם משהו. בעבודה, ההיעדרות של ליאור מעוררת שאלות וחשד שיש בחייו מישהי אחרת. שירלי מבטיחה לשמור את הנשיקה בסוד גם מגולן, אבל לאלונה יש לדבריה מה להסתיר - ושירלי רוצה לדעת אם היא מתכוונת לספר לו.",
+   "duration_s": 145,
+   "first_seen_ms": 1792921646391,
+   "image": "https://img.mako.co.il/2026/10/20/LOVE_CORNER_EP38_M_1400_1792499527955_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792921260000,
+   "sections": [
+    "מיקרו סדרות"
+   ],
+   "title": "אהבה מעבר לפינה פרק 38: סוד בין אחיות",
+   "type": "series",
+   "updated_ms": 1792921260000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d991ffd624951a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/LOVE_CORNER_EP38/MASTER/LOVE_CORNER_EP38_M/LOVE_CORNER_EP38_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-dd57a0dcc1951a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -84038,10 +84094,13 @@
    "image": "https://img.mako.co.il/2026/10/22/POLISHUK_EP19_1400_1792685371910_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792908000000,
-   "sections": [],
+   "sections": [
+    "מיקרו סדרות",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 19: פיטר ונכנס לפאניקה",
    "type": "series",
-   "updated_ms": 1792908000000,
+   "updated_ms": 1792921140000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-cc52f1aee4461a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/POLISHUK_EP19/MASTER/POLISHUK_EP19/POLISHUK_EP19_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
