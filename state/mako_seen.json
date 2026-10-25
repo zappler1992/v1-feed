@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792957649818,
+ "last_run_ms": 1792957949624,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1748,6 +1748,18 @@
    "published_ms": 1792514580000,
    "section": "ספורט",
    "title": "הקבוצה שבדקה בנוגע לצירופו של יפתח זיו"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-0d9dd3b509471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792957827232,
+   "content_type": "article",
+   "first_seen_ms": 1792957827232,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792957380000,
+   "section": "ספורט",
+   "title": "איטודיס ניגש: אוהד שפך מים על אוברדוביץ`"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-0e439ddc0f271a1026.htm": {
    "check_attempts": 1,
