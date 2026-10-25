@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792963349888,
+ "last_run_ms": 1792963649698,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2144,6 +2144,18 @@
    "published_ms": 1792419960000,
    "section": "ספורט",
    "title": "נדחתה בקשת הפועל לדחיית הדרבי התל אביבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-be053a145e471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792963649698,
+   "content_type": "article",
+   "first_seen_ms": 1792963649698,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792963440000,
+   "section": "ספורט",
+   "title": "\"ציפיתי שבלאט יהיה ברוטציה במשחק הזה\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-bea52f54fe621a1027.htm": {
    "check_attempts": 1,
@@ -46490,6 +46502,18 @@
    "published_ms": 1790935740000,
    "section": "",
    "title": "הגיבורים שהצילו את הטיסה - ומנעו מלחמה"
+  },
+  "https://www.mako.co.il/travel-news/Article-9abf959f2c471a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792963649698,
+   "content_type": "article",
+   "first_seen_ms": 1792963649698,
+   "indexable": true,
+   "indexnow_ms": 1792963649698,
+   "published_ms": 1792960680000,
+   "section": "",
+   "title": "אישה נעצרה בחשד שיצאה למסע דקירות של יהודים בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/Article-9bb08b62579e0a1026.htm": {
    "check_attempts": 1,
