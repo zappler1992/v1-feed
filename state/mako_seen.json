@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792964249577,
+ "last_run_ms": 1792964549638,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37768,6 +37768,18 @@
    "published_ms": 1792695780000,
    "section": "מוזיקה",
    "title": "הארי סטיילס התפוצץ על מעריץ ברחוב. זו הסיבה"
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-6b31155ac5f61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792964427429,
+   "content_type": "article",
+   "first_seen_ms": 1792964427429,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792870920000,
+   "section": "קשת 12",
+   "title": "והרי החדשות: זו הכוכבת שנחשפה ב\"הזמר במסכה\""
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
    "check_attempts": 1,
