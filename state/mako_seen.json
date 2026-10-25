@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792949549450,
+ "last_run_ms": 1792949850523,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17813,6 +17813,18 @@
    "section": "סלבס",
    "title": "ארבעה במקום אחת: אלה המחליפים של רותם סלע"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-83da5ec7df271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792949787146,
+   "content_type": "article",
+   "first_seen_ms": 1792949787146,
+   "indexable": true,
+   "indexnow_ms": 1792949787146,
+   "published_ms": 1792946880000,
+   "section": "סלבס",
+   "title": "הפעם זה סופי: הפרידה הנוספת של שלומית מלכה והאקס"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-844d58dd70f31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18879,7 +18891,7 @@
    "indexnow_ms": 1792921949131,
    "published_ms": 1792921560000,
    "section": "סלבס",
-   "title": "תמונות חדשות של הכוכבת הצליחו להדליק מעריצים"
+   "title": "תמונות של הכוכבת הצליחו להדליק את כולם"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-1565fd985e0f0a1026.htm": {
    "check_attempts": 1,
@@ -26979,7 +26991,7 @@
    "indexnow_ms": 1792933648578,
    "published_ms": 1792932600000,
    "section": "HIX",
-   "title": "הגיעו לגבות כסף מהמשפיענית, וגילו ממצא מטריד"
+   "title": "הגיעו לגבות שכירות מהמשפיענית, וגילו דבר מטריד"
   },
   "https://www.mako.co.il/hix-special/Article-0647273d19431a1027.htm": {
    "check_attempts": 1,
@@ -30303,7 +30315,7 @@
    "indexnow_ms": 1792945227623,
    "published_ms": 1792944420000,
    "section": "",
-   "title": "קנה בית - וגילה משהו מוזר מסתתר מאחורי הארון"
+   "title": "קנה בית - וגילה תא נסתר בארונות המטבח עם מטרה מפתיעה"
   },
   "https://www.mako.co.il/mako-vod-keshet/dancing_with_stars-s5": {
    "check_attempts": 1,
@@ -38897,6 +38909,18 @@
    "section": "",
    "title": "4 מתכונים של עינב בובליל לארוחת צהריים"
   },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-7f1d1070c3d51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/living-diy/maintenance/Article-7f1d1070c3d51a1027.htm",
+   "checked_ms": 1792949666774,
+   "content_type": "article",
+   "first_seen_ms": 1792949666774,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792927440000,
+   "section": "עיצוב הבית",
+   "title": "הטריק הקטן והמעולה שחייבים לנסות עם המטאטא"
+  },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39459,7 +39483,7 @@
    "indexnow_ms": 1792923027536,
    "published_ms": 1792921740000,
    "section": "דיגיטל",
-   "title": "מבלי שתדעו: השינוי הגדול בג'ימייל שישפיע עליכם"
+   "title": "מבלי שתדעו: גוגל יכולה להשתמש במיילים שלכם"
   },
   "https://www.mako.co.il/nexter-news/Article-2b6c99dd0f931a1026.htm": {
    "check_attempts": 1,
