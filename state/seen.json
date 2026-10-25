@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-0cc8067878271a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f485a6fc83371a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42002,6 +42003,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ראש המוסד לשעבר, דדי ברנע, חושף את המהלך המתוחכם שהרעיד את טהרן במבצע \"עם כלביא\": הפרסום הרשמי של סרטון הסוכנים מלב איראן לא היה שגיאה – אלא מלכודת מחושבת. הסרטון, שתיעד שיגור רחפני נפץ מתוך השטח האיראני לניטרול מערכות ההגנה, הכניס את המשטר לפאניקה מוחלטת. ההיסטריה הובילה למעצר שווא של 21 אלף אזרחים – עומס ששיתק את מערכות החקירה והכריח את האיראנים לשחרר את כולם, כולל את סוכני המוסד שעדיין פועלים שם מתחת לרדאר.",
+   "duration_s": 61,
+   "first_seen_ms": 1792935745814,
+   "image": "https://img.mako.co.il/2026/10/25/rinat_iran_251026_m_1400_1792933829679_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792933836000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "כמו בסרט אקשן: התרגיל שהפיל את האיראנים",
+   "type": "news",
+   "updated_ms": 1792933836000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_iran_251026/MASTER/rinat_iran_251026_m/rinat_iran_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -83818,6 +83837,24 @@
    "updated_ms": 1792907737000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ef7150e9f8171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18050_25102026055408/M_NEWS_18050_25102026055408_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f485a6fc83371a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נהג משאית בן 35 נפצע באורח קל עד בינוני בתאונת דרכים עצמאית בצומת גבעת כ\"ח",
+   "duration_s": 9,
+   "first_seen_ms": 1792935745814,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18074_25102026013650_1400_1792935507777_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792935514000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נהג משאית בן 35 נפצע באורח קל עד בינוני בתאונת דרכים עצמאית בצומת גבעת כ\"ח",
+   "type": "mivzakim",
+   "updated_ms": 1792935514000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f485a6fc83371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18074_25102026013650/M_NEWS_18074_25102026013650_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
