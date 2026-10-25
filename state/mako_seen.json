@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792912049531,
+ "last_run_ms": 1792912349445,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22408,6 +22408,18 @@
    "published_ms": 1792035600000,
    "section": "הכי חם",
    "title": "\"אמיצה ויפהפייה\": המנה המקורית של אברי גלעד"
+  },
+  "https://www.mako.co.il/food-cooking_magazine/10_minute_recipes/Recipe-3b2afac1c7261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-recipes/recipes_column-pasta/Recipe-3b2afac1c7261a1027.htm",
+   "checked_ms": 1792912349445,
+   "content_type": "recipe",
+   "first_seen_ms": 1792912349445,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792912080000,
+   "section": "",
+   "title": "כשבא לנו להכין משהו זריז רק לעצמנו, זה המתכון המושלם"
   },
   "https://www.mako.co.il/food-cooking_magazine/Article-69db08f6a8da751006.htm": {
    "check_attempts": 1,
