@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-18a5bace48371a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-dfffd339a8371a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7ce9fbb8f6371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24197,6 +24199,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-ff24a2aa46851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/FIX_SHIRA_BAGS_201026/FIX_SHIRA_BAGS_201026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-dfffd339a8371a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אוטובוס שהוביל את קבוצת הפוטבול של תיכון \"סיילם\" בג'ורג'יה היה מעורב בתאונה קשה והתהפך בשעות הלילה המאוחרות. האוטובוס נסע בחזרה ממשחק כאשר נהג הרכב איבד שליטה בעת פנייה, חצה נתיבים, פגע ברכב פרטי וסטה לשוליים.",
+   "duration_s": 35,
+   "first_seen_ms": 1792941745896,
+   "image": "https://img.mako.co.il/2026/10/25/rinat_bus_251026_m_1400_1792940359568_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792940366000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "האוטובוס התהפך - עם כל נבחרת הפוטבול של בית הספר",
+   "type": "general",
+   "updated_ms": 1792940366000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-dfffd339a8371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_bus_251026/MASTER/rinat_bus_251026_m/rinat_bus_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/growing_waves-magazine/2026-m02_w04/shorts-27d6391f5059c91027.htm": {
    "author": "כשהגלים מתחזקים",
    "date_source": null,
@@ -42022,6 +42042,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a8d011d02371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_kvish_251026/MASTER/yoav_kvish_251026/yoav_kvish_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-18a5bace48371a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792941745896,
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_MASSAGE_251026_1400_1792940375770_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792940382000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "ה\"הודעה לבוחר\" - שאסור לכם ללחוץ עליה",
+   "type": "news",
+   "updated_ms": 1792940382000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-18a5bace48371a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_MASSAGE_251026/MASTER/SHIR_MASSAGE_251026/SHIR_MASSAGE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -42083,12 +42121,32 @@
    "image": "https://img.mako.co.il/2026/10/25/inbaltrump251002fidx_1400_1792939556136_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1792939440000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "הבקשה הבהולה של נתניהו מטראמפ - רגע לפני הבחירות",
    "type": "news",
    "updated_ms": 1792939440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/inbaltrump251002fidx/inbaltrump251002fidx_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7ce9fbb8f6371a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "פיצוץ שהוביל לשריפה פרץ במפעל קוואקר באיווה שבארה״ב, המוגדר על ידי החברה כמתקן הטחינה הגדול בעולם. לפי גורמי הכיבוי, לא היו נפגעים באירוע.",
+   "duration_s": 28,
+   "first_seen_ms": 1792941745896,
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_QUAKER_251026_1400_1792938132814_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792938140000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "פיצוץ במפעל קוואקר הענק בארה״ב - שריפה פרצה במקום",
+   "type": "news",
+   "updated_ms": 1792938140000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7ce9fbb8f6371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_QUAKER_251026/MASTER/SHIR_QUAKER_251026/SHIR_QUAKER_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm": {
    "author": "חדשות",
