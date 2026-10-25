@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792906349911,
+ "last_run_ms": 1792906649411,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13134,6 +13134,18 @@
    "published_ms": 1792358100000,
    "section": "ספורט",
    "title": "\"ישראל רצחה, מעריץ את העם הפלסטיני\""
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-84b1493fc0171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792906587192,
+   "content_type": "article",
+   "first_seen_ms": 1792906587192,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792906200000,
+   "section": "ספורט",
+   "title": "\"הופעה אדירה\": הציון הגבוה שקיבל פרץ"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8538140fc5a41a1027.htm": {
    "check_attempts": 1,
@@ -47282,6 +47294,18 @@
    "published_ms": 1791696780000,
    "section": "",
    "title": "המלון הישראלי שנבחר לאחד הטובים במזרח התיכון"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-92f08765a7171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792906649411,
+   "content_type": "article",
+   "first_seen_ms": 1792906649411,
+   "indexable": true,
+   "indexnow_ms": 1792906649411,
+   "published_ms": 1792905480000,
+   "section": "חופש",
+   "title": "אל על חוזרת להפעיל היום את הקו לעיר האהובה על הישראלים"
   },
   "https://www.mako.co.il/travel-news/israel/Article-94541392ff631a1027.htm": {
    "check_attempts": 1,
