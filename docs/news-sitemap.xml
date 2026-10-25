@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-29a70f0587171a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-25T05:45:54+00:00</news:publication_date>
+<news:title>מההיערכות האמריקאית לתקיפה באיראן ועד סערת הקריפטו בישראל: אלו הן כותרות הבוקר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/25/V1_KOTAROT_7729_25102026054416_1400_1792907148127_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1736,14 +1745,5 @@
 <news:title>ריי ניקולסון, הבן של ג&#x27;ק, מספר מה הסרט הכי אהוב עליו של אבא</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/23/M_Tarbut_17940_23102026055024_1400_1792734709820_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-f059b3c584761a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-23T05:45:22+00:00</news:publication_date>
-<news:title>אימה באוויר: ברק פגע במטוס במהלך טיסה בצ&#x27;ילה - הנוסעים תיעדו את הרגע</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/23/V1_matos_7671_23102026054354_1400_1792734315697_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
