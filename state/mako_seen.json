@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792928549350,
+ "last_run_ms": 1792928849538,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8766,6 +8766,18 @@
    "published_ms": 1791208200000,
    "section": "ספורט",
    "title": "\"הסטורי בעד יואב זיו? תמיכה, לא מרד\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0916c2aa2d271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792928849538,
+   "content_type": "article",
+   "first_seen_ms": 1792928849538,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792928460000,
+   "section": "ספורט",
+   "title": "ההסבר: מה הבקבוקון המסתורי ששתה דור פרץ?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-09409c115ef41a1027.htm": {
    "check_attempts": 1,
@@ -18711,7 +18723,7 @@
    "indexnow_ms": 1792921949131,
    "published_ms": 1792921560000,
    "section": "סלבס",
-   "title": "\"איפה הציצים?\": תמונות של הכוכבת הצליחו להדליק מעריצים"
+   "title": "\"איפה הציצים?\": תמונות של הכוכבת הצליחו להדליק את כולם"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-1565fd985e0f0a1026.htm": {
    "check_attempts": 1,
@@ -27436,6 +27448,18 @@
    "published_ms": 1791116520000,
    "section": "HIX",
    "title": "40% מגופה נשרף בפיצוץ – וכך היא נראית היום"
+  },
+  "https://www.mako.co.il/hix-special/Article-888ed8344d271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792928666792,
+   "content_type": "article",
+   "first_seen_ms": 1792928666792,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792928340000,
+   "section": "HIX",
+   "title": "המנוף קרס על מסילת הרכבת, ונפגע על ידי הקרון"
   },
   "https://www.mako.co.il/hix-special/Article-88eaa42929a41a1027.htm": {
    "check_attempts": 1,
