@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ff91ea745471a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-279ae2e507471a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42184,6 +42185,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_pizza_251026/MASTER/rinat_pizza_251026_m/rinat_pizza_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-279ae2e507471a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "גורמים בבית הלבן הביעו דאגה בעקבות פוסט שפרסם נתניהו על פצצת אטום על גוש דן , מחשש שהדברים יובילו לחישוב מוטעה מצד איראן ולמהלך שיסלים את המצב. הצהרת טראמפ כי לא תתבצע תקיפה היום נועדה בין היתר להבהיר שארה\"ב אינה מתכוונת לתקוף בשלב זה.",
+   "duration_s": 45,
+   "first_seen_ms": 1792955546335,
+   "image": "https://img.mako.co.il/2026/10/25/inbalbibi251026m_1400_1792955269134_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792955275000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "נתניהו פירסם תמונה של פצצת אטום על ישראל - ובבית הלבן נדהמו",
+   "type": "news",
+   "updated_ms": 1792955275000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-279ae2e507471a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/inbalbibi251026/MASTER/inbalbibi251026m/inbalbibi251026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-306b8aa4e5271a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -42418,6 +42437,24 @@
    "updated_ms": 1792914540000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_bigbrother_251026/MASTER/rinat_bigbrother_251026_m/rinat_bigbrother_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 33,
+   "first_seen_ms": 1792955546335,
+   "image": "https://img.mako.co.il/2026/10/25/MAYA_RAPE_251026_1400_1792950815530_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792950823000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "כתב אישום חמור: אנס באכזריות עובדת בזנות ושדד אותה",
+   "type": "news",
+   "updated_ms": 1792950823000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_RAPE_251026/MASTER/MAYA_RAPE_251026/MAYA_RAPE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
