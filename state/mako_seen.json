@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792927949503,
+ "last_run_ms": 1792928249523,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23776,6 +23776,18 @@
    "published_ms": 1792583640000,
    "section": "",
    "title": "הלוקיישן המפתיע למסעדה הבאה של קפה גן סיפור"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-cd3e63afa7271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792928249523,
+   "content_type": "article",
+   "first_seen_ms": 1792928249523,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792926300000,
+   "section": "",
+   "title": "מאיר אדוני חוזר עם מסעדה חדשה: הפעם בפראג"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-d31e9083a1931a1026.htm": {
    "check_attempts": 1,
