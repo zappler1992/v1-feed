@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792937548442,
+ "last_run_ms": 1792937864425,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44066,6 +44066,18 @@
    "published_ms": 1790703120000,
    "section": "חדשות",
    "title": "\"אלימות קשה כמו שהייתה לא זכורה לנו בחיים\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-5671c7c015371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-diplomatic/2026_q4/Article-5671c7c015371a1026.htm",
+   "checked_ms": 1792937787052,
+   "content_type": "article",
+   "first_seen_ms": 1792937787052,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792936620000,
+   "section": "",
+   "title": "בקשת נתניהו מטראמפ שרואים בארה\"ב כ\"סימן לייאוש\""
   },
   "https://www.mako.co.il/special-mako-news/Article-568bf0438ebf0a1027.htm": {
    "check_attempts": 1,
