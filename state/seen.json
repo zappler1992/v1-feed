@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-08b8d74eb0371a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ac16249bbf271a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6065,7 +6063,8 @@
    "importance": 2,
    "published_ms": 1792915755000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "מעיין אדם חושפת את הסיפור מאחורי השם של בנה",
    "type": "general",
@@ -42014,7 +42013,8 @@
    "importance": 2,
    "published_ms": 1792914540000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "כוכב הריאליטי נעצר בחשד שתקף את בת זוגו",
    "type": "news",
@@ -83710,6 +83710,24 @@
    "updated_ms": 1792924839000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18070_25102026103903/M_NEWS_18070_25102026103903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
+   "duration_s": 7,
+   "first_seen_ms": 1792933645689,
+   "image": "https://img.mako.co.il/2026/10/25/V1_grunis_7745_25102026010301_1400_1792933438042_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792933444000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נשיא העליון בדימוס גרוניס פורש מוועדת החקירה הממלכתית לצוללות",
+   "type": "mivzakim",
+   "updated_ms": 1792933444000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_grunis_7745_25102026010301/V1_grunis_7745_25102026010301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm": {
    "author": "מבזקים",
