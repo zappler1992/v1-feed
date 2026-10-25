@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-279ae2e507471a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f618e669a7471a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c79794e046471a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17395,6 +17396,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c480cc26f4171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18048_25102026045530/M_Tarbut_18048_25102026045530_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c79794e046471a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שירי מימון מסכמת מוצ\"ש בקיסריה",
+   "duration_s": 25,
+   "first_seen_ms": 1792956446316,
+   "image": "https://img.mako.co.il/2026/10/25/M_Music_18096_25102026071051_1400_1792955537671_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792955547000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שירי מימון מסכמת מוצ\"ש בקיסריה",
+   "type": "mivzakim",
+   "updated_ms": 1792955547000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c79794e046471a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18096_25102026071051/M_Music_18096_25102026071051_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -17412,6 +17431,24 @@
    "updated_ms": 1792933667000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18073_25102026010606/M_Tarbut_18073_25102026010606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f618e669a7471a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "תפסיקו להגיד לנסרין לא לאכול. תודה",
+   "duration_s": 8,
+   "first_seen_ms": 1792956446316,
+   "image": "https://img.mako.co.il/2026/10/25/M_Celebs_18097_25102026071143_1400_1792955575457_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792955581000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "תפסיקו להגיד לנסרין לא לאכול. תודה",
+   "type": "mivzakim",
+   "updated_ms": 1792955581000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f618e669a7471a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18097_25102026071143/M_Celebs_18097_25102026071143_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -42159,7 +42196,8 @@
    "importance": 2,
    "published_ms": 1792940382000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ה\"הודעה לבוחר\" - שאסור לכם ללחוץ עליה",
    "type": "news",
@@ -42300,7 +42338,8 @@
    "importance": 2,
    "published_ms": 1792938140000,
    "sections": [
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "פיצוץ במפעל קוואקר הענק בארה״ב - שריפה פרצה במקום",
    "type": "news",
@@ -42337,13 +42376,32 @@
    "importance": 2,
    "published_ms": 1792936309000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "נתניהו פרסם תמונת AI של פצצת אטום מעל ישראל – וחטף",
    "type": "news",
    "updated_ms": 1792936309000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_BOMB_251026/MASTER/SHIR_BOMB_251026/SHIR_BOMB_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מרתיח: במהלך פסטיבל - הראפרית הקולומביאנית צ'לו הופ עוררה סערה כשדרכה על דגל ישראל על הבמה",
+   "duration_s": 31,
+   "first_seen_ms": 1792956446316,
+   "image": "https://img.mako.co.il/2026/10/25/NOAB_COLOMBIA_251026_M_1400_1792950435167_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792950441000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "מרתיח: הראפרית דורכת על דגל ישראל",
+   "type": "news",
+   "updated_ms": 1792950441000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/NOAB_COLOMBIA_251026_M/MASTER/NOAB_COLOMBIA_251026_M/NOAB_COLOMBIA_251026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bc3b2a80b2371a1027.htm": {
    "author": "חדשות",
@@ -110236,7 +110294,8 @@
    "importance": 0,
    "published_ms": 1792938169000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הולכת וטובעת: אסדת קידוח טבעה מול חופי גבון באוקיינוס האטלנטי, אדם אחד נהרג ו-4 נעדרים",
    "type": "mivzakim",
