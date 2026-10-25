@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792900049483,
+ "last_run_ms": 1792900349281,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1517,7 +1517,7 @@
    "first_seen_ms": 1792873467110,
    "indexable": false,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1792871733000,
    "section": "אופנה",
    "title": "תוספת אחת קטנה יכולה להקפיץ את הג'ינס שלכם בחורף הזה"
   },
@@ -11646,6 +11646,18 @@
    "published_ms": 1792396740000,
    "section": "ספורט",
    "title": "חניה בתשלום: החידוש הנוסף באצטדיון טדי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fe9c3c9112171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792900349281,
+   "content_type": "article",
+   "first_seen_ms": 1792900349281,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792900140000,
+   "section": "ספורט",
+   "title": "צפו בתקציר. הבוקר שאחרי ה-2:6 במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/q3_2026/Article-0b6c1b40338e0a1026.htm": {
    "check_attempts": 1,
