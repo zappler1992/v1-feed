@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792904250106,
+ "last_run_ms": 1792904551204,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12847,6 +12847,18 @@
    "section": "ספורט",
    "title": "\"שחיתות\": למה בנין במשחק הפרישה של מסי?"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-25f0493fc0171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792904551204,
+   "content_type": "article",
+   "first_seen_ms": 1792904551204,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792900980000,
+   "section": "ספורט",
+   "title": "\"יצחקי? שחמט. היה אפשר רק לחלום על זה\""
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-2e60632f4f311a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -18351,7 +18363,7 @@
    "indexnow_ms": 1792856067336,
    "published_ms": 1792853340000,
    "section": "",
-   "title": "מעיין אדם חושפת את השם שנבחר לבנה"
+   "title": "מעיין אדם חושפת את השם הנבחר לבנה"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-c09add170d461a1027.htm": {
    "check_attempts": 1,
@@ -26739,7 +26751,7 @@
    "indexnow_ms": 1792728027218,
    "published_ms": 1792724400000,
    "section": "HIX",
-   "title": "בהפרש של דקות: הסוף הקשה של התאומים כוכבי הרשת"
+   "title": "התאומים הסיאמיים שהיו כוכבי רשת – ומתו ביחד"
   },
   "https://www.mako.co.il/hix-special/Article-4a0c3f6a9aa21a1027.htm": {
    "check_attempts": 1,
@@ -50402,6 +50414,18 @@
    "published_ms": 1792044300000,
    "section": "תרבות tvbee",
    "title": "בנה של הכוכבת המנוחה חושף: ספגתי אלימות מאבא"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-fc5e573d4bf61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792904307126,
+   "content_type": "article",
+   "first_seen_ms": 1792904307126,
+   "indexable": true,
+   "indexnow_ms": 1792904307126,
+   "published_ms": 1792904160000,
+   "section": "",
+   "title": "\"לא הבנתי מה עשיתי שם, זה לא לגיל שלי\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-fd8b0a254db21a1027.htm": {
    "check_attempts": 1,
