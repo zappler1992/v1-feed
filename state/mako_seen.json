@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792944150381,
+ "last_run_ms": 1792944450354,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22180,6 +22180,18 @@
    "published_ms": 1790687880000,
    "section": "נדל\"ן",
    "title": "אפריקה ישראל מגורים מפצלת פעילות לחברה חדשה"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-90cfd47a2c371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792944267891,
+   "content_type": "article",
+   "first_seen_ms": 1792944267891,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792944000000,
+   "section": "נדל\"ן",
+   "title": "מ-12 ל-40 מ\"ר: בעלי הדירות שניצחו את העירייה"
   },
   "https://www.mako.co.il/finances-real-estate/Article-990ff451bffa0a1027.htm": {
    "check_attempts": 1,
