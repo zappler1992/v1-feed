@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792927649357,
+ "last_run_ms": 1792927949503,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31228,6 +31228,18 @@
    "published_ms": 1790253540000,
    "section": "פלילים",
    "title": "הסולחה המפתיעה של ראשי ארגוני הפשע בצפון"
+  },
+  "https://www.mako.co.il/men-men_news/Article-0bb231f91c271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792927826791,
+   "content_type": "article",
+   "first_seen_ms": 1792927826791,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792927380000,
+   "section": "פלילים",
+   "title": "הפגישה העסקית הסתיימה בשוד: \"ריססו גז פלפל\""
   },
   "https://www.mako.co.il/men-men_news/Article-0c0a5793a71f0a1026.htm": {
    "check_attempts": 1,
