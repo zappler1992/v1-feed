@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792926751590,
+ "last_run_ms": 1792927049595,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9377,7 +9377,7 @@
    "indexnow_ms": null,
    "published_ms": 1792916640000,
    "section": "ספורט",
-   "title": "מכה לב\"ש: שני שחקני הרכב בספק למכבי חיפה"
+   "title": "\"קיבלנו סטירה מצלצלת\": ב\"ש מתכוננת לחיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3777a5edcdf11a1027.htm": {
    "check_attempts": 1,
@@ -11574,6 +11574,18 @@
    "published_ms": 1791200340000,
    "section": "ספורט",
    "title": "המהלך של הפועל ירושלים נגד מכבי חיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ef54bea36b271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792927049595,
+   "content_type": "article",
+   "first_seen_ms": 1792927049595,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792926900000,
+   "section": "ספורט",
+   "title": "קוז`וך: \"ונטורה ופרץ מחוץ לסגל ב\"ש\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-efc0a60531e41a1027.htm": {
    "check_attempts": 1,
@@ -24843,7 +24855,7 @@
    "indexnow_ms": 1792922427515,
    "published_ms": 1792913880000,
    "section": "בריאות",
-   "title": "האירוע המלחיץ של בת ה-17: \"הלולאה התהדקה\""
+   "title": "טלי הגיעה לאימון שגרתי - ונקלעה לסכנת חיים"
   },
   "https://www.mako.co.il/health-news/Article-79425506dfc01a1027.htm": {
    "check_attempts": 1,
@@ -31191,7 +31203,7 @@
    "indexnow_ms": 1792923267568,
    "published_ms": 1792922940000,
    "section": "פלילים",
-   "title": "בשניות בודדות: חטף נשק ממאבטח בבית הספר ונמלט"
+   "title": "בשניות בודדות: חטף נשק ממאבטח בבית הספר"
   },
   "https://www.mako.co.il/men-men_news/Article-0b56e288263d0a1027.htm": {
    "check_attempts": 1,
@@ -33711,7 +33723,7 @@
    "indexnow_ms": 1792922427515,
    "published_ms": 1792921980000,
    "section": "פלילים",
-   "title": "\"שיירקב בכלא\": פרץ למסעדה - וכך אביו הגיב"
+   "title": "פרץ למסעדה - ואביו לא ריחם: \"שיירקב בכלא\""
   },
   "https://www.mako.co.il/men-men_news/Article-93439581af2e0a1026.htm": {
    "check_attempts": 1,
@@ -46729,7 +46741,7 @@
    "indexnow_ms": 1792908387327,
    "published_ms": 1792906920000,
    "section": "חופש",
-   "title": "כולנו חשבנו לעשות את זה בטיסה. הוא עשה - ושילם ביוקר"
+   "title": "עשה משהו שכולנו חשבנו עליו - ונזרק מטיסות של החברה"
   },
   "https://www.mako.co.il/travel-news/international/Article-7a262dc3e3de0a1026.htm": {
    "check_attempts": 1,
@@ -49286,6 +49298,18 @@
    "published_ms": 1790142840000,
    "section": "קשת 12",
    "title": "\"חוויה מטלטלת. לא הצלחתי לא להתרגש ולבכות\""
+  },
+  "https://www.mako.co.il/tv-morning-news/articles/Article-f7ebf45cb6271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792926986873,
+   "content_type": "article",
+   "first_seen_ms": 1792926986873,
+   "indexable": true,
+   "indexnow_ms": 1792926986873,
+   "published_ms": 1792921200000,
+   "section": "",
+   "title": "מעיין אדם חושפת: מה שעומד מאחורי השם המיוחד שבחרה"
   },
   "https://www.mako.co.il/tv-ofira_ohana_seri/articles/Article-1537a8011d961a1027.htm": {
    "check_attempts": 1,
