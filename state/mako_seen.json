@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792911449415,
+ "last_run_ms": 1792911749532,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10074,6 +10074,18 @@
    "published_ms": 1792380120000,
    "section": "ספורט",
    "title": "בהפועל ב\"ש חוששים מפציעה חמורה של ונטורה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7ba1556c4d171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792911749532,
+   "content_type": "article",
+   "first_seen_ms": 1792911749532,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792911480000,
+   "section": "ספורט",
+   "title": "הפועל ת\"א מתכננת לממש את האופציה על צור"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7bb92e4509351a1026.htm": {
    "check_attempts": 1,
@@ -30747,7 +30759,7 @@
    "indexnow_ms": 1792911387368,
    "published_ms": 1792911120000,
    "section": "פלילים",
-   "title": "חשבו שקיבלו החזרי מס - ואז גילו מאיפה הגיע הכסף"
+   "title": "חשבו שקיבלו החזרי מס - ואז גילו מאיפה באמת נלקח הכסף"
   },
   "https://www.mako.co.il/men-men_news/Article-07ee69afcdf01a1026.htm": {
    "check_attempts": 1,
