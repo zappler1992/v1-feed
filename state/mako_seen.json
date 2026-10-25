@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792920149325,
+ "last_run_ms": 1792920449033,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25757,6 +25757,18 @@
    "section": "HIX",
    "title": "עורכת הדין הגיעה לדיון בשמלה – וחטפה נזיפה"
   },
+  "https://www.mako.co.il/hix-bizarre/Article-6c939a3535271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792920267410,
+   "content_type": "article",
+   "first_seen_ms": 1792920267410,
+   "indexable": true,
+   "indexnow_ms": 1792920267410,
+   "published_ms": 1792920060000,
+   "section": "HIX",
+   "title": "תינוק נולד עם שפם וזקן – והריל מטריף את כולם"
+  },
   "https://www.mako.co.il/hix-bizarre/Article-701828850d251a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45842,6 +45854,18 @@
    "published_ms": 1790852580000,
    "section": "חופש",
    "title": "הודו וישראל מצדיעות: כך מתכננים להודות לטייס שנפגע"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-1b73417982271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792920267410,
+   "content_type": "article",
+   "first_seen_ms": 1792920267410,
+   "indexable": true,
+   "indexnow_ms": 1792920267410,
+   "published_ms": 1792915920000,
+   "section": "חופש",
+   "title": "הונאות ומחירים גבוהים: גן העדן נמצא על סף קריסה"
   },
   "https://www.mako.co.il/travel-news/international/Article-1ba8fe8116451a1027.htm": {
    "check_attempts": 1,
