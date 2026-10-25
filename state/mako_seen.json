@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792912994033,
+ "last_run_ms": 1792913249714,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30807,7 +30807,7 @@
    "indexnow_ms": 1792911387368,
    "published_ms": 1792911120000,
    "section": "פלילים",
-   "title": "חשבו שקיבלו החזרי מס - ואז גילו מאיפה באמת נלקח הכסף"
+   "title": "חשבו שקיבלו החזרי מס - ואז גילו מאיפה הגיע הכסף"
   },
   "https://www.mako.co.il/men-men_news/Article-07ee69afcdf01a1026.htm": {
    "check_attempts": 1,
@@ -46261,7 +46261,7 @@
    "indexnow_ms": 1792908387327,
    "published_ms": 1792906920000,
    "section": "חופש",
-   "title": "עשה משהו שכולנו חשבנו עליו - ונזרק מטיסות של החברה"
+   "title": "כולנו חשבנו לעשות את זה בטיסה. הוא עשה - ושילם ביוקר"
   },
   "https://www.mako.co.il/travel-news/international/Article-7a262dc3e3de0a1026.htm": {
    "check_attempts": 1,
@@ -46382,6 +46382,18 @@
    "published_ms": 1791349980000,
    "section": "חופש",
    "title": "אחרי חודשים: החברה הענקית שחוזרת בקרוב לארץ"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-8a21da9c1e171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792913187431,
+   "content_type": "article",
+   "first_seen_ms": 1792913187431,
+   "indexable": true,
+   "indexnow_ms": 1792913187431,
+   "published_ms": 1792912260000,
+   "section": "חופש",
+   "title": "מספר הישראלים שנחתו במדינה הזו הכפיל את עצמו"
   },
   "https://www.mako.co.il/travel-news/international/Article-8f47cda1143d0a1026.htm": {
    "check_attempts": 1,
@@ -50642,6 +50654,18 @@
    "published_ms": 1791964260000,
    "section": "תרבות tvbee",
    "title": "לפני שהיה ריאליטי, הוא כבר היה כוכב ריאליטי"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-1d157b6cd9f61a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792913187431,
+   "content_type": "article",
+   "first_seen_ms": 1792913187431,
+   "indexable": true,
+   "indexnow_ms": 1792913187431,
+   "published_ms": 1792905060000,
+   "section": "תרבות tvbee",
+   "title": "\"הישרדות\" צריכה להישלח להאג על הפשע הזה"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-2094abfe434d0a1026.htm": {
    "check_attempts": 1,
