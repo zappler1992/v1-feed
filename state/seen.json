@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-343ed7aad6371a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a8d011d02371a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-10f64c9ba7371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42005,6 +42006,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9ac2a4e7051a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/inbie_viena_181026/MASTER/inbie_viena_181026/inbie_viena_181026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a8d011d02371a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 28,
+   "first_seen_ms": 1792939945863,
+   "image": "https://img.mako.co.il/2026/10/25/yoav_kvish_251026_1400_1792933035291_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792933440000,
+   "sections": [],
+   "title": "אלפים בדרך לבני ברק: אלו הרחובות שייחסמו",
+   "type": "news",
+   "updated_ms": 1792933440000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a8d011d02371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_kvish_251026/MASTER/yoav_kvish_251026/yoav_kvish_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1e23c7c015371a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -83566,6 +83583,24 @@
    "updated_ms": 1792918899000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0d22771864271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_IRAN_7736_25102026090008/V1_IRAN_7736_25102026090008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-10f64c9ba7371a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פועל כבן 50 נפצע בינוני לאחר שנפל מגובה במהלך עבודה בצפת, פועל נוסף נפצע קל",
+   "duration_s": 9,
+   "first_seen_ms": 1792939945863,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18084_25102026024706_1400_1792939723785_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792939730000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פועל כבן 50 נפצע בינוני לאחר שנפל מגובה במהלך עבודה בצפת, פועל נוסף נפצע קל",
+   "type": "mivzakim",
+   "updated_ms": 1792939730000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-10f64c9ba7371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18084_25102026024706/M_NEWS_18084_25102026024706_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-124abea36b271a1026.htm": {
    "author": "מבזקים",
