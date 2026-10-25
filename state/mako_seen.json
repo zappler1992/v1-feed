@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792910849456,
+ "last_run_ms": 1792911150147,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47702,6 +47702,18 @@
    "published_ms": 1792556280000,
    "section": "חופש",
    "title": "לטוס לפני כולם: זה המקום שכולם ידברו עליו ב-2027"
+  },
+  "https://www.mako.co.il/travel-world/Article-1b6ad2f0cb171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792911027379,
+   "content_type": "article",
+   "first_seen_ms": 1792911027379,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792909320000,
+   "section": "חופש",
+   "title": "זה היעד הכי טוב לטוס אליו כשכאן יש שעון חורף"
   },
   "https://www.mako.co.il/travel-world/Article-283c43f3529c0a1027.htm": {
    "check_attempts": 1,
