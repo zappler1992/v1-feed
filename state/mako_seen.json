@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792929749540,
+ "last_run_ms": 1792930049353,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20775,7 +20775,7 @@
    "indexnow_ms": 1792926387227,
    "published_ms": 1792924380000,
    "section": "כסף",
-   "title": "יש לכם רעיון? בכירי ההייטק מוכנים להציע לכם הרבה כסף"
+   "title": "יש לכם רעיון לעסק? בכירי הייטק רוצים להשקיע"
   },
   "https://www.mako.co.il/finances-news/Article-1bdc6a85297f0a1027.htm": {
    "check_attempts": 1,
@@ -24315,7 +24315,7 @@
    "indexnow_ms": null,
    "published_ms": 1792929120000,
    "section": "בריאות",
-   "title": "בת 22 עברה שני ניתוחי חזה ונותרה עם עיוותים"
+   "title": "עברה שני ניתוחי חזה - ונותרה עם נזק בלתי הפיך"
   },
   "https://www.mako.co.il/health-news/Article-06c6e1590fd51a1026.htm": {
    "check_attempts": 1,
@@ -26512,6 +26512,18 @@
    "published_ms": 1790651940000,
    "section": "",
    "title": "התרגשתם מהגשם? זו רק ההתחלה"
+  },
+  "https://www.mako.co.il/hix-nature/Article-716607163e271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792929866840,
+   "content_type": "article",
+   "first_seen_ms": 1792929866840,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792929720000,
+   "section": "HIX",
+   "title": "חיפשה צבים בחופי פלורידה – ומצאה \"זהב צף\""
   },
   "https://www.mako.co.il/hix-nature/Article-74e7fb0f5dce0a1026.htm": {
    "check_attempts": 1,
