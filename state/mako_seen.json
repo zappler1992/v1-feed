@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792910549385,
+ "last_run_ms": 1792910849456,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13063,6 +13063,18 @@
    "section": "ספורט",
    "title": "בנגיעה ברגל שמאל: מוחמד אבו פאני כבש"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-533d50e9f8171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792910787364,
+   "content_type": "article",
+   "first_seen_ms": 1792910787364,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792906860000,
+   "section": "ספורט",
+   "title": "\"מראדונה של אמדספור\": סבע משגע את טורקיה"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6455b6c9c1e21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -25179,7 +25191,7 @@
    "indexnow_ms": null,
    "published_ms": 1792908240000,
    "section": "בריאות",
-   "title": "יוגורט יווני או קוטג': מה יותר בריא?"
+   "title": "יוגורט יווני או קוטג': מה יותר בריא? יש לנו תשובה"
   },
   "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
    "check_attempts": 1,

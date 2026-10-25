@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-cc52f1aee4461a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6e7de2c2ac171a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0b5ce2c2ac171a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8235,7 +8235,8 @@
    "published_ms": 1792829863000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "המתאבק האמריקאי המפורסם ריק פלייר התמוטט במסעדה בפלורידה - והובהל לבית החולים",
    "type": "mivzakim",
@@ -40685,7 +40686,8 @@
    "published_ms": 1792744860000,
    "sections": [
     "רק בישראל",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "המתקשרת שחושפת: אלה יהיו תוצאות הבחירות",
    "type": "news",
@@ -83004,6 +83006,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0aebcc26f4171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18046_25102026044236/M_NEWS_18046_25102026044236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0b5ce2c2ac171a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ניר דבורי בהערכה דרמטית: טראמפ מתקרב להכרעה מול איראן - והכול בידיים שלו",
+   "duration_s": 66,
+   "first_seen_ms": 1792910846631,
+   "image": "https://img.mako.co.il/2026/10/25/V1_SHIR_DVORI_7734_25102026064228_1400_1792910670843_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792910677000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ניר דבורי בהערכה דרמטית: טראמפ מתקרב להכרעה מול איראן - והכול בידיים שלו",
+   "type": "mivzakim",
+   "updated_ms": 1792910677000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0b5ce2c2ac171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_SHIR_DVORI_7734_25102026064228/V1_SHIR_DVORI_7734_25102026064228_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1704493fc0171a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -83129,6 +83149,24 @@
    "updated_ms": 1792901621000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ad3493fc0171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18044_25102026041158/M_NEWS_18044_25102026041158_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6e7de2c2ac171a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שלוש נשים וגבר נעצרו בחשד לעוקץ של מאות אלפי שקלים ממאות אנשים במסווה של החזרי מס",
+   "duration_s": 29,
+   "first_seen_ms": 1792910846631,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18051_25102026064348_1400_1792910709293_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792910720000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שלוש נשים וגבר נעצרו בחשד לעוקץ של מאות אלפי שקלים ממאות אנשים במסווה של החזרי מס",
+   "type": "mivzakim",
+   "updated_ms": 1792910720000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6e7de2c2ac171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18051_25102026064348/M_NEWS_18051_25102026064348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm": {
    "author": "מבזקים",
@@ -107357,7 +107395,8 @@
    "published_ms": 1792737248000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "המבנים מתנדנדים והמוצרים נופלים מהמדפים: 16 הרוגים ברעידת אדמה חזקה בעוצמה 7 בטיבט",
    "type": "mivzakim",
@@ -107569,7 +107608,8 @@
    "published_ms": 1792742468000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "גלים בגובה רב ורוחות עזות: טייוואן נערכת להגעת הטייפון צ'אמפי, טיסות ומעבורות בוטלו",
    "type": "mivzakim",
@@ -108048,7 +108088,8 @@
    "published_ms": 1792738489000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "פיצוץ סמוך לבתי מגורים באלבמה: המפעל לסלילת כבישים עלה באש - ותושבים פונו מהאזור | צפו",
    "type": "mivzakim",
