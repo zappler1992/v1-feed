@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a11da9c1e171a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-11e65cce2f171a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -16993,6 +16994,24 @@
    "updated_ms": 1792851458000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-feced8f1b3e61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18017_24102026021558/M_Tarbut_18017_24102026021558_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-11e65cce2f171a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אורטל עמר: \"אני לא יודעת אם תהיה חתונה, אני פשוט רוצה ילדים\"",
+   "duration_s": 75,
+   "first_seen_ms": 1792914746760,
+   "image": "https://img.mako.co.il/2026/10/25/M_Celebs_18063_25102026073431_1400_1792913771761_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792913778000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אורטל עמר: \"אני לא יודעת אם תהיה חתונה, אני פשוט רוצה ילדים\"",
+   "type": "mivzakim",
+   "updated_ms": 1792913778000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-11e65cce2f171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18063_25102026073431/M_Celebs_18063_25102026073431_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-20e9573d4bf61a1026.htm": {
    "author": "עדכוני בידור",
@@ -41729,6 +41748,22 @@
    "updated_ms": 1792913400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 26,
+   "first_seen_ms": 1792914746760,
+   "image": "https://img.mako.co.il/2026/10/25/rinat_bigbrother_251026_m_1400_1792914295699_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792914540000,
+   "sections": [],
+   "title": "כוכב הריאליטי נעצר בחשד שתקף את בת זוגו",
+   "type": "news",
+   "updated_ms": 1792914540000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_bigbrother_251026/MASTER/rinat_bigbrother_251026_m/rinat_bigbrother_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
@@ -84795,6 +84830,24 @@
    "updated_ms": 1792480156000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-f8889a6142851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17741_20102026070804/M_Food_17741_20102026070804_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "לפעמים בא לנו להכין לעצמנו אוכל בלי להתחשב בכל בני הבית, טעמם ומאוויהם. כשזה קורה אנחנו מתקתקים את הנודלס האלה - עם רוטב שדורש רק ערבוב, אבל מרגיש כאילו איזה שף אסייתי קפץ אלינו למטבח",
+   "duration_s": 12,
+   "first_seen_ms": 1792914746760,
+   "image": "https://img.mako.co.il/2026/10/25/M_Food_18062_25102026073352_1400_1792913798531_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792913804000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "כאילו שף אסייתי קפץ אלינו למטבח: נודלס מהירים מושלמים",
+   "type": "mivzakim",
+   "updated_ms": 1792913804000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18062_25102026073352/M_Food_18062_25102026073352_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/she_has_it-magazine/2026-m04_w02/shorts-6a837bb15ad5d91027.htm": {
    "author": "יש לה את זה",
