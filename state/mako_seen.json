@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792964549638,
+ "last_run_ms": 1792964849715,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15088,6 +15088,18 @@
    "published_ms": 1792261140000,
    "section": "ספורט",
    "title": "\"איך לא הורחק בעצמו?\": הנגיחה שחטף ימאל"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-602425137f471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792964787469,
+   "content_type": "article",
+   "first_seen_ms": 1792964787469,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792964460000,
+   "section": "ספורט",
+   "title": "\"פשוט בושה\": זעם בריאל על קנסלו והשופט"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-65a1c2db8c011a1027.htm": {
    "check_attempts": 1,
