@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792912349445,
+ "last_run_ms": 1792912467403,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24257,6 +24257,18 @@
    "section": "",
    "title": "חה\"כ לשעבר אמילי מואטי חשפה שחלתה בסרטן"
   },
+  "https://www.mako.co.il/health-news/Article-3c3aebfd43261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792912467403,
+   "content_type": "article",
+   "first_seen_ms": 1792912467403,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792912020000,
+   "section": "בריאות",
+   "title": "רופא מזהיר: ילד חולה ואז כל הבית נדבק בנגיף"
+  },
   "https://www.mako.co.il/health-news/Article-3e00531197ea0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28851,7 +28863,7 @@
    "indexnow_ms": 1792679067666,
    "published_ms": 1792659060000,
    "section": "עיצוב הבית",
-   "title": "המעצבת מכפר קאסם בונה את הבתים הכי יפים במגזר"
+   "title": "המעצבת מכפר קאסם בונה את הבתים הכי יפים במגזר הערבי"
   },
   "https://www.mako.co.il/living-architecture/local/Article-fa2f960ba5e31a1026.htm": {
    "check_attempts": 1,
@@ -41536,6 +41548,18 @@
    "published_ms": 1791289740000,
    "section": "צבא וביטחון",
    "title": "הזירה שבה זוהו \"יועצים\" ביטחוניים איראניים"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-8d9bda9c1e171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792912467403,
+   "content_type": "article",
+   "first_seen_ms": 1792912467403,
+   "indexable": true,
+   "indexnow_ms": 1792912467403,
+   "published_ms": 1792912140000,
+   "section": "",
+   "title": "במדינה הערבית מעריכים: ישראל תקפה בשטחנו בשבוע שעבר"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-8eabd71bf2f21a1027.htm": {
    "check_attempts": 1,
