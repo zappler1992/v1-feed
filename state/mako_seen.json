@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792953449530,
+ "last_run_ms": 1792953749481,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13266,6 +13266,18 @@
    "published_ms": 1792906860000,
    "section": "ספורט",
    "title": "\"מראדונה של אמדספור\": סבע משגע את טורקיה"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-60ff70ba9e371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792953749481,
+   "content_type": "article",
+   "first_seen_ms": 1792953749481,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792946640000,
+   "section": "ספורט",
+   "title": "\"עוצר נשימה\": הנתון שבו פרץ ראשון בליגה"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6455b6c9c1e21a1026.htm": {
    "check_attempts": 1,
@@ -35535,7 +35547,7 @@
    "indexnow_ms": null,
    "published_ms": 1792937880000,
    "section": "פלילים",
-   "title": "ניסתה להתגונן ונשכה את איבר מינו: האונס המזעזע במלונית"
+   "title": "אישום: אנס באכזריות עובדת בזנות במלונית בבת ים"
   },
   "https://www.mako.co.il/men-men_news/Article-daae74f607f41a1027.htm": {
    "check_attempts": 1,
