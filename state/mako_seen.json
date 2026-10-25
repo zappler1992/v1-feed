@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792922249229,
+ "last_run_ms": 1792922549116,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24749,6 +24749,18 @@
    "section": "",
    "title": "מטריד: \"האצבע הייתה שחורה, כאילו נשרפה\""
   },
+  "https://www.mako.co.il/health-news/Article-7355a4b27f171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792922427515,
+   "content_type": "article",
+   "first_seen_ms": 1792922427515,
+   "indexable": true,
+   "indexnow_ms": 1792922427515,
+   "published_ms": 1792913880000,
+   "section": "בריאות",
+   "title": "האירוע המלחיץ של בת ה-17: \"הלולאה התהדקה\""
+  },
   "https://www.mako.co.il/health-news/Article-79425506dfc01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30795,7 +30807,7 @@
    "indexnow_ms": 1792586187630,
    "published_ms": 1792585560000,
    "section": "הכי חם",
-   "title": "הווידוי הכואב של הזמרת"
+   "title": "\"אמרו שאני נראית בהיריון\": הווידוי הכואב של מיקה משה"
   },
   "https://www.mako.co.il/makoz-news/Article-e3ea5261416f0a1026.htm": {
    "check_attempts": 1,
@@ -31011,7 +31023,7 @@
    "indexnow_ms": 1792911387368,
    "published_ms": 1792911120000,
    "section": "פלילים",
-   "title": "חשבו שקיבלו החזרי מס - ואז גילו מאיפה הגיע הכסף"
+   "title": "חשבו שקיבלו החזרי מס - ואז גילו מהיכן הגיע הכסף"
   },
   "https://www.mako.co.il/men-men_news/Article-07ee69afcdf01a1026.htm": {
    "check_attempts": 1,
@@ -33592,6 +33604,18 @@
    "published_ms": 1790740380000,
    "section": "",
    "title": "הכלה הייתה בהלם: החתונה בוטלה בגלל טעות אחת של החתן"
+  },
+  "https://www.mako.co.il/men-men_news/Article-9087537e27271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792922427515,
+   "content_type": "article",
+   "first_seen_ms": 1792922427515,
+   "indexable": true,
+   "indexnow_ms": 1792922427515,
+   "published_ms": 1792921980000,
+   "section": "פלילים",
+   "title": "\"שיירקב בכלא\": פרץ למסעדה - וכך אביו הגיב"
   },
   "https://www.mako.co.il/men-men_news/Article-93439581af2e0a1026.htm": {
    "check_attempts": 1,
@@ -38284,6 +38308,18 @@
    "published_ms": 1792526760000,
    "section": "ספורט",
    "title": "\"מול שער ריק, איך לעזאזל רונאלדו החטיא?\""
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-73f357ee62951a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-cooking-with-keshet/einav_bublil/Article-73f357ee62951a1026.htm",
+   "checked_ms": 1792922427515,
+   "content_type": "article",
+   "first_seen_ms": 1792922427515,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792753200000,
+   "section": "",
+   "title": "4 מתכונים של עינב בובליל לארוחת צהריים"
   },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
