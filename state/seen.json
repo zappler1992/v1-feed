@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e7ec87f991271a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a53083cf2271a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17062,6 +17064,24 @@
    "updated_ms": 1792903901000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-275ecc26f4171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18047_25102026045028/M_Celebs_18047_25102026045028_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a53083cf2271a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "צעיר בן 23 נעצר על סט הסרט \"מיאמי מחלק מוסר 85'\" בברוקלין, כשהוא חמוש בסכין קצבים",
+   "duration_s": 117,
+   "first_seen_ms": 1792917746388,
+   "image": "https://img.mako.co.il/2026/10/25/M_Tarbut_18065_25102026083516_1400_1792917444384_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792917450000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "צעיר בן 23 נעצר על סט הסרט \"מיאמי מחלק מוסר 85'\" בברוקלין, כשהוא חמוש בסכין קצבים",
+   "type": "mivzakim",
+   "updated_ms": 1792917450000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a53083cf2271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18065_25102026083516/M_Tarbut_18065_25102026083516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a11da9c1e171a1026.htm": {
    "author": "עדכוני בידור",
@@ -41762,6 +41782,22 @@
    "updated_ms": 1792913400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1792917746388,
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_YANA_251026_1400_1792917381380_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792917387000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1792917387000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_YANA_251026/MASTER/SHIR_YANA_251026/SHIR_YANA_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm": {
    "author": "חדשות",
@@ -83271,6 +83307,24 @@
    "updated_ms": 1792911677000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9de1556c4d171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18052_25102026065947/M_NEWS_18052_25102026065947_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בתקיפה בעזה: צה\"ל חיסל שני מחבלים שהעבירו מאיראן ומטורקיה מיליוני שקלים לארגון הטרור חמאס",
+   "duration_s": 9,
+   "first_seen_ms": 1792917746388,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18064_25102026083501_1400_1792917380941_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792917391000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בתקיפה בעזה: צה\"ל חיסל שני מחבלים שהעבירו מאיראן ומטורקיה מיליוני שקלים לארגון הטרור חמאס",
+   "type": "mivzakim",
+   "updated_ms": 1792917391000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18064_25102026083501/M_NEWS_18064_25102026083501_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm": {
    "author": "מבזקים",
