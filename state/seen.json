@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-49de452209271a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ce303d3a9271a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -41876,6 +41878,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מיטל סער שומרת על זכות השתיקה בחקירת פרשת השחיתות, ורק על דבר אחד מתעקשת: ״רפי לא קשור, הוא לא ידע״. בעלה, ראש עיריית כפר סבא, מכחיש קשר לכספים - והחקירה נמשכת.",
+   "duration_s": 60,
+   "first_seen_ms": 1792925246490,
+   "image": "https://img.mako.co.il/2026/10/25/SHIR_KASABA_251026_1400_1792924010925_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792924860000,
+   "sections": [],
+   "title": "פרשת השחיתות בכפר סבא: ראש העיר ואשתו - הגרסאות נחשפות",
+   "type": "news",
+   "updated_ms": 1792924860000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bd46452209271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_KASABA_251026/MASTER/SHIR_KASABA_251026/SHIR_KASABA_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -83257,6 +83275,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0b5ce2c2ac171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_SHIR_DVORI_7734_25102026064228/V1_SHIR_DVORI_7734_25102026064228_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ce303d3a9271a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד לרצח בצפון: בן 25 נורה למוות ביפיע",
+   "duration_s": 9,
+   "first_seen_ms": 1792925246490,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18069_25102026103852_1400_1792924825637_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792924832000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד לרצח בצפון: בן 25 נורה למוות ביפיע",
+   "type": "mivzakim",
+   "updated_ms": 1792924832000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ce303d3a9271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18069_25102026103852/M_NEWS_18069_25102026103852_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0d22771864271a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -83526,6 +83562,24 @@
    "updated_ms": 1792917391000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18064_25102026083501/M_NEWS_18064_25102026083501_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שדמות דבורה: רוכב אופנוע פונה במצב בינוני לאחר תאונת דרכים",
+   "duration_s": 9,
+   "first_seen_ms": 1792925246490,
+   "image": "https://img.mako.co.il/2026/10/25/M_NEWS_18070_25102026103903_1400_1792924832734_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792924839000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שדמות דבורה: רוכב אופנוע פונה במצב בינוני לאחר תאונת דרכים",
+   "type": "mivzakim",
+   "updated_ms": 1792924839000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18070_25102026103903/M_NEWS_18070_25102026103903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm": {
    "author": "מבזקים",
