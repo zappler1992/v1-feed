@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-ade869a58b271a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-08b8d74eb0371a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ac16249bbf271a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17171,6 +17173,42 @@
    "updated_ms": 1792912294000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a11da9c1e171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18053_25102026070946/M_Music_18053_25102026070946_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי ששמו עלה בתור אחד החשודים תחת תחפושת הארנב ב\"הזמר במסכה - דניאל גד משיב",
+   "duration_s": 18,
+   "first_seen_ms": 1792931846741,
+   "image": "https://img.mako.co.il/2026/10/25/M_Celebs_18071_25102026121924_1400_1792930888960_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792930895000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי ששמו עלה בתור אחד החשודים תחת תחפושת הארנב ב\"הזמר במסכה - דניאל גד משיב",
+   "type": "mivzakim",
+   "updated_ms": 1792930895000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18071_25102026121924/M_Celebs_18071_25102026121924_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ac16249bbf271a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עומרי 69 סגל: \"כשיצאתי הביתה מבית החולים התחיל הסבל האמיתי. כעסתי שחזרתי\" | מתוך היטליסט",
+   "duration_s": 82,
+   "first_seen_ms": 1792931846741,
+   "image": "https://img.mako.co.il/2026/10/25/M_Music_18072_25102026122242_1400_1792931076468_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792931082000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עומרי 69 סגל: \"כשיצאתי הביתה מבית החולים התחיל הסבל האמיתי. כעסתי שחזרתי\" | מתוך היטליסט",
+   "type": "mivzakim",
+   "updated_ms": 1792931082000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ac16249bbf271a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18072_25102026122242/M_Music_18072_25102026122242_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b1c9537e27271a1026.htm": {
    "author": "עדכוני בידור",
@@ -83276,6 +83314,24 @@
    "updated_ms": 1792486527000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-fd643745d7851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/V1_ARIKIM_7559_20102026085414/V1_ARIKIM_7559_20102026085414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-08b8d74eb0371a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גאווה ישראלית: אוריין גורן בן ה-17 בדרך לסגל ברצלונה למשחק הענק מול ריאל מדריד",
+   "duration_s": 9,
+   "first_seen_ms": 1792931846741,
+   "image": "https://img.mako.co.il/2026/10/25/V1_SOCCER_7744_25102026123139_1400_1792931571967_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792931700000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גאווה ישראלית: אוריין גורן בן ה-17 בסגל ברצלונה למשחק הענק מול ריאל מדריד",
+   "type": "mivzakim",
+   "updated_ms": 1792931700000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-08b8d74eb0371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_SOCCER_7744_25102026123139/V1_SOCCER_7744_25102026123139_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0aebcc26f4171a1027.htm": {
    "author": "מבזקים",

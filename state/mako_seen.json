@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792931549443,
+ "last_run_ms": 1792931849716,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39233,6 +39233,18 @@
    "section": "דיגיטל",
    "title": "רק בגלל פוסט: הצעירה האיראנית שתוצא להורג"
   },
+  "https://www.mako.co.il/nexter-news/Article-2bee9ddc0f271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792931666924,
+   "content_type": "article",
+   "first_seen_ms": 1792931666924,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792930320000,
+   "section": "דיגיטל",
+   "title": "גם ההאקרים נערכו לבחירות: ההודעה הזדונית שנשלחה לרבים"
+  },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47281,7 +47293,7 @@
    "indexnow_ms": 1792929386820,
    "published_ms": 1792924920000,
    "section": "",
-   "title": "\"זכוכיות מנופצות ושוטרים\": אירופה נערכת לשבועות אלימים"
+   "title": "עדויות הישראלים שנקלעו לכאוס באירופה - והצפי להמשך"
   },
   "https://www.mako.co.il/travel-news/international/Article-a32cd44ce48d0a1026.htm": {
    "check_attempts": 1,
