@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792965749899,
+ "last_run_ms": 1792966049578,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15112,6 +15112,18 @@
    "published_ms": 1791283380000,
    "section": "ספורט",
    "title": "מהמבטיחים בעולם: הרשימה בה נכלל גורן"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6cb1c3ef30571a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1792966049578,
+   "content_type": "article",
+   "first_seen_ms": 1792966049578,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792965660000,
+   "section": "ספורט",
+   "title": "\"עוד לא ראינו את ברצלונה מפחדת כך העונה\""
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6cb8e669a7471a1027.htm": {
    "check_attempts": 1,
@@ -40371,7 +40383,7 @@
    "indexnow_ms": 1792916995351,
    "published_ms": 1792914360000,
    "section": "דיגיטל",
-   "title": "מ-1,500 שקל: אומני AI ישראלים ייצרו לקיר שלכם"
+   "title": "מ-1,500 שקלים: אומני ה-AI שיצרו משהו שמתאים לכם בול"
   },
   "https://www.mako.co.il/nexter-news/Article-a1ffa263976f0a1027.htm": {
    "check_attempts": 1,
@@ -43888,6 +43900,18 @@
    "published_ms": 1790393400000,
    "section": "",
    "title": "לקראת חידוש המלחמה עם איראן: ההכרזה הדרמטית של טראמפ"
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-e1cd1636c0571a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792966049578,
+   "content_type": "liveblog",
+   "first_seen_ms": 1792966049578,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792953000000,
+   "section": "חדשות",
+   "title": "האזהרה של נתניהו - והמסר של טראמפ לאיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-e2daadfe83b51a1026.htm": {
    "check_attempts": 3,
