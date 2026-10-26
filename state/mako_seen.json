@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793021849034,
+ "last_run_ms": 1793022149063,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15593,6 +15593,18 @@
    "section": "ספורט",
    "title": "בשל משיכת השיער: ויני הורחק מהקלאסיקו"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-ccd3ba3685871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793022149063,
+   "content_type": "article",
+   "first_seen_ms": 1793022149063,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793020620000,
+   "section": "ספורט",
+   "title": "לאחר שתוקל בחריפות: הפציעה של אספרט"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d11c833cace61a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -29165,6 +29177,18 @@
    "section": "HIX",
    "title": "כדורגלן העבר תועד מתעלל בכלבו – ונעצר"
   },
+  "https://www.mako.co.il/hix-special/Article-f5039dddd5871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793022149063,
+   "content_type": "article",
+   "first_seen_ms": 1793022149063,
+   "indexable": true,
+   "indexnow_ms": 1793022149063,
+   "published_ms": 1793021880000,
+   "section": "HIX",
+   "title": "בת 10 סבלה מכאבים – ובביה\"ח התגלה הנורא מכל"
+  },
   "https://www.mako.co.il/hix-special/Article-f54ac3b8c2851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -36016,6 +36040,18 @@
    "published_ms": 1791810420000,
    "section": "פלילים",
    "title": "\"עבריינים פה מפוצצים בניינים בעיר. אנחנו בני ערובה\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-b9239dddd5871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793022027107,
+   "content_type": "article",
+   "first_seen_ms": 1793022027107,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793021700000,
+   "section": "פלילים",
+   "title": "100 ק\"ג קריסטל מת' נתפסו במעבדה שהוקמה במשק"
   },
   "https://www.mako.co.il/men-men_news/Article-ba16a03e1a031a1026.htm": {
    "check_attempts": 1,
