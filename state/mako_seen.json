@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792997249385,
+ "last_run_ms": 1792997549367,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21520,6 +21520,18 @@
    "published_ms": 1792488840000,
    "section": "כסף",
    "title": "סטודנטים? המלגות שיכולות לסדר לכם את השנה"
+  },
+  "https://www.mako.co.il/finances-news/Article-5b36249bbf271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792997426921,
+   "content_type": "article",
+   "first_seen_ms": 1792997426921,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792987200000,
+   "section": "כסף",
+   "title": "אילו מניות יעשו הכי הרבה כסף השבוע?"
   },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
