@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793050949528,
+ "last_run_ms": 1793051249564,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28793,6 +28793,18 @@
    "section": "HIX",
    "title": "הפעילה הפרו-פלסטינית שיקרה לכולם, והכל נחשף"
   },
+  "https://www.mako.co.il/hix-special/Article-5a8423b98f971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793051187416,
+   "content_type": "article",
+   "first_seen_ms": 1793051187416,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793051040000,
+   "section": "",
+   "title": "דרס והרג - בתחנת הדלק: האישום החמור נגד הרב"
+  },
   "https://www.mako.co.il/hix-special/Article-5dccf62cda411a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45818,6 +45830,18 @@
    "published_ms": 1792782480000,
    "section": "",
    "title": "\"אמרתי להם 'קחו, קחו את זה'\": ישראלי הותקף בלוס אנג'לס"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-26a9dd7643971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-26a9dd7643971a1027.htm",
+   "checked_ms": 1793051067421,
+   "content_type": "article",
+   "first_seen_ms": 1793051067421,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793050860000,
+   "section": "",
+   "title": "זה מה שיעלה בגורלו של זמיר - אם נתניהו ינצח"
   },
   "https://www.mako.co.il/special-mako-news/Article-26dd69d27d8e0a1027.htm": {
    "check_attempts": 1,
