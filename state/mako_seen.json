@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793056949556,
+ "last_run_ms": 1793057249629,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13818,6 +13818,18 @@
    "published_ms": 1792946640000,
    "section": "ספורט",
    "title": "\"עוצר נשימה\": הנתון שבו פרץ ראשון בליגה"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-630d9d73a6a71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793057186679,
+   "content_type": "article",
+   "first_seen_ms": 1793057186679,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793056800000,
+   "section": "ספורט",
+   "title": "\"הלוזר הפך לווינר\": באנגליה חגגו עם קיין"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6455b6c9c1e21a1026.htm": {
    "check_attempts": 1,
