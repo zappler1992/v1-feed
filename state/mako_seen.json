@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793007149582,
+ "last_run_ms": 1793007449637,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20955,7 +20955,7 @@
    "indexnow_ms": null,
    "published_ms": 1792999440000,
    "section": "משפט",
-   "title": "ירשו מניות מאביהם – הדודים השתלטו על החברות"
+   "title": "אחרי שהאבא מת: המהלך של האחים נגד הילדים - והתגובה"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-2922dae57ae41a1027.htm": {
    "check_attempts": 1,
@@ -24580,6 +24580,18 @@
    "published_ms": 1792926300000,
    "section": "",
    "title": "מאיר אדוני חוזר עם מסעדה חדשה: הפעם בפראג"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-cd70c5dee5271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793007387451,
+   "content_type": "article",
+   "first_seen_ms": 1793007387451,
+   "indexable": true,
+   "indexnow_ms": 1793007387451,
+   "published_ms": 1793007000000,
+   "section": "",
+   "title": "יום הבחירות: איפה אוכלים בזול ושותים בחינם?"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-d31e9083a1931a1026.htm": {
    "check_attempts": 1,
@@ -28408,6 +28420,18 @@
    "published_ms": 1792069080000,
    "section": "HIX",
    "title": "רוקנה את הפנסיה של בעלה, ורצחה אותו באכזריות"
+  },
+  "https://www.mako.co.il/hix-special/Article-986883a578771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793007387451,
+   "content_type": "article",
+   "first_seen_ms": 1793007387451,
+   "indexable": true,
+   "indexnow_ms": 1793007387451,
+   "published_ms": 1793006700000,
+   "section": "HIX",
+   "title": "הדליף לזוגתו מידע על ישראל – והיא פרסמה אותו"
   },
   "https://www.mako.co.il/hix-special/Article-a10d3745d7851a1026.htm": {
    "check_attempts": 1,
@@ -34563,7 +34587,7 @@
    "indexnow_ms": null,
    "published_ms": 1793003460000,
    "section": "פלילים",
-   "title": "ישראלי נעצר בתאילנד - ואיים על השוטרים: \"אתם תפוטרו\""
+   "title": "ישראלי נעצר בתאילנד: \"סימם נשים שהכיר באפליקציה\""
   },
   "https://www.mako.co.il/men-men_news/Article-7d7bece255b11a1026.htm": {
    "check_attempts": 1,
@@ -37781,6 +37805,18 @@
    "section": "",
    "title": "מעריץ הותקף באלימות אחרי הופעה של הזמרת"
   },
+  "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793007387451,
+   "content_type": "article",
+   "first_seen_ms": 1793007387451,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793007120000,
+   "section": "מוזיקה",
+   "title": "אחרי שגייס כספים לפלסטין: הכוכב האנטישמי משלם מחיר"
+  },
   "https://www.mako.co.il/music-news/Article-aa290095ab631a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39833,6 +39869,18 @@
    "section": "עיצוב הבית",
    "title": "הטריק הקטן והמעולה שחייבים לנסות עם המטאטא"
   },
+  "https://www.mako.co.il/news-tip12/2026_q4/Recipe-a33cd7aad6371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-cooking_magazine/rice_paper_recipes/Recipe-a33cd7aad6371a1026.htm",
+   "checked_ms": 1793007387451,
+   "content_type": "recipe",
+   "first_seen_ms": 1793007387451,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792988640000,
+   "section": "",
+   "title": "את זה עדיין לא הכנו מדפי אורז, וחבל מאוד!"
+  },
   "https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -40480,6 +40528,18 @@
    "published_ms": 1792669800000,
    "section": "דיגיטל",
    "title": "\"מגייסות מקבלות היום 300–400 קו\"ח שה-AI כתב\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-3683a54806771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793007387451,
+   "content_type": "article",
+   "first_seen_ms": 1793007387451,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793007000000,
+   "section": "דיגיטל",
+   "title": "הישראלית שהקימה מותג שמגלגל עשרות מיליוני דולרים בשנה"
   },
   "https://www.mako.co.il/nexter-news/Article-3aacf18d90461a1026.htm": {
    "check_attempts": 1,
@@ -42604,6 +42664,18 @@
    "published_ms": 1790498220000,
    "section": "צבא וביטחון",
    "title": "בלי לירות כדור: המבצע האזורי נגד איראן נחשף"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-091aa35477771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793007387451,
+   "content_type": "article",
+   "first_seen_ms": 1793007387451,
+   "indexable": true,
+   "indexnow_ms": 1793007387451,
+   "published_ms": 1793006220000,
+   "section": "צבא וביטחון",
+   "title": "צה\"ל רצה שימוש יעיל יותר בכוחות, כך הגיבו בממשלה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-0d34adf9881e0a1026.htm": {
    "check_attempts": 1,
