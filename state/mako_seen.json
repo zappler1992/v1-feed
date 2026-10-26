@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793001749583,
+ "last_run_ms": 1793002049793,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25047,7 +25047,7 @@
    "indexnow_ms": null,
    "published_ms": 1792996140000,
    "section": "בריאות",
-   "title": "נדב התמוטט באימון - וגילה שהוא בסכנת חיים"
+   "title": "נדב התמוטט באימון - והרופאים גילו משהו מטלטל"
   },
   "https://www.mako.co.il/health-news/Article-110bd36df8261a1027.htm": {
    "check_attempts": 1,
@@ -45422,6 +45422,18 @@
    "published_ms": 1792432800000,
    "section": "",
    "title": "המפלגות הגדולות מתחזקות, הנדל וזליכה מחוץ לכנסת"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-a74aa93142771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-a74aa93142771a1026.htm",
+   "checked_ms": 1793002049793,
+   "content_type": "article",
+   "first_seen_ms": 1793002049793,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793000220000,
+   "section": "",
+   "title": "ניהלה מאבקים בולטים: פעילת הימין שפי פז הלכה לעולמה"
   },
   "https://www.mako.co.il/special-mako-news/Article-a92bbc9cf4f41a1027.htm": {
    "check_attempts": 1,

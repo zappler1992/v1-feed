@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-fd56241de2771a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e9fd95af41771a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-213b16ca53771a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8511,7 +8513,9 @@
    "image": "https://img.mako.co.il/2026/10/26/SHIR_BANNY_261026_1400_1792994445214_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792994071000,
-   "sections": [],
+   "sections": [
+    "חדשות מהמסך"
+   ],
    "title": "אריק באוזה, המדבב זוכה האמי שהיה קולם של באגס באני ודאפי דאק ב\"לוני טונס\", הלך לעולמו בגיל 46",
    "type": "mivzakim",
    "updated_ms": 1792994520000,
@@ -42639,6 +42643,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מי אמר שאי אפשר לקנות ספינת תענוגות שלמה? הספינה Majesty of the Seas, ששימשה בעבר את חברת רויאל קריביאן, מוצעת למכירה ב-40 מיליון דולר. היא נבנתה ב-1992 ויכולה להכיל יותר מ-2,700 נוסעים. כן, ספינה שלמה במחיר של כמה אחוזות יוקרה. מי קונה?",
+   "duration_s": 24,
+   "first_seen_ms": 1793002046548,
+   "image": "https://img.mako.co.il/2026/10/26/SHIR_40MILLION_261026_1400_1792999203210_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792999210000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "רוצים אוניית קרוז משלכם? יש אחת למכירה - בשווי 40 מיליון דולר!",
+   "type": "news",
+   "updated_ms": 1792999210000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_40MILLION_261026/MASTER/SHIR_40MILLION_261026/SHIR_40MILLION_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aea71801d4371a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -42672,7 +42694,7 @@
    ],
    "title": "מרתיח: הראפרית דורכת על דגל ישראל",
    "type": "news",
-   "updated_ms": 1792950441000,
+   "updated_ms": 1793000940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/NOAB_COLOMBIA_251026_M/MASTER/NOAB_COLOMBIA_251026_M/NOAB_COLOMBIA_251026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -42768,6 +42790,24 @@
    "updated_ms": 1792914540000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_bigbrother_251026/MASTER/rinat_bigbrother_251026_m/rinat_bigbrother_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e9fd95af41771a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "כפי שפורסם במאקו, תופעה חמורה ומסוכנת בחברה הבדואית, שבה משפחות כולאות מכורים לסמים וכובלות אותם בשרשראות ברזל בניסיון לגמול אותם מההתמכרות. במהלך פעילות משטרתית ברהט חולץ צעיר שרגלו הייתה כבולה בשרשראות לרצפת הבית. אחיו נעצר בחשד למעורבות באירוע. לפי גורם בכיר במשטרה, במקרים נוספים מכורים מוחזקים בחדרים ובמחסנים מבודדים, לעיתים ללא מזון ומים במשך ימים.",
+   "duration_s": 25,
+   "first_seen_ms": 1793002046548,
+   "image": "https://img.mako.co.il/2026/10/26/Kim_Tipul_26102026_1400_1792999533703_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1792999540000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "כובלים אותם לשרשראות ברזל כדי לגמול אותם מסמים",
+   "type": "news",
+   "updated_ms": 1792999540000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e9fd95af41771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Kim_Tipul_26102026/MASTER/Kim_Tipul_26102026/Kim_Tipul_26102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm": {
    "author": "חדשות",
@@ -84209,7 +84249,7 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0f749b8692771a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "דיווח ב-CNN: ישראל רצתה לתקוף באיראן בסוף השבוע, ארה״ב התנגדה והציעה מבצע משותף בהמשך",
+   "description": "דיווח ב-CNN: ישראל רצתה לתקוף באיראן, ארה״ב התנגדה והציעה מבצע משותף בהמשך",
    "duration_s": 19,
    "first_seen_ms": 1793001446477,
    "image": "https://img.mako.co.il/2026/10/26/V1_karind_iran_7775_26102026075250_1400_1793001251608_FirstFrame.jpg",
@@ -84218,7 +84258,7 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "דיווח ב-CNN: ישראל רצתה לתקוף באיראן בסוף השבוע, ארה״ב התנגדה והציעה מבצע משותף בהמשך",
+   "title": "דיווח ב-CNN: ישראל רצתה לתקוף באיראן, ארה״ב התנגדה והציעה מבצע משותף בהמשך",
    "type": "mivzakim",
    "updated_ms": 1793001258000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0f749b8692771a1027.htm",
@@ -111007,6 +111047,24 @@
    "updated_ms": 1792848161000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_LUVER_7704_24102026012112/V1_SHIR_LUVER_7704_24102026012112_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-213b16ca53771a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "קפצו מהחלונות ונמלטו: אוטובוס בהודו איבד שליטה ונתלה על מצוק - 30 נוסעים הצליחו להיחלץ | צפו",
+   "duration_s": 17,
+   "first_seen_ms": 1793002046548,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_india_7776_26102026080003_1400_1793001686726_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793001694000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "קפצו מהחלונות ונמלטו: אוטובוס בהודו איבד שליטה ונתלה על מצוק - 30 נוסעים הצליחו להיחלץ | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793001694000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-213b16ca53771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_india_7776_26102026080003/V1_karind_india_7776_26102026080003_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-53b8d2f0cb171a1027.htm": {
    "author": "מבזקים מהעולם",
