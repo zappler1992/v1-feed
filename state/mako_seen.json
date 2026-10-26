@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793023664838,
+ "last_run_ms": 1793023949096,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29847,7 +29847,7 @@
    "indexnow_ms": null,
    "published_ms": 1793000220000,
    "section": "הורים",
-   "title": "\"המדינה חייבת להנגיש קלפיות לבעלי מוגבליות\""
+   "title": "\"חייבים להנגיש קלפיות לצעירים עם מוגבליות\""
   },
   "https://www.mako.co.il/home-family-kids/Article-f90023bfed701a1026.htm": {
    "check_attempts": 1,
@@ -40228,6 +40228,18 @@
    "published_ms": 1792927440000,
    "section": "עיצוב הבית",
    "title": "הטריק הקטן והמעולה שחייבים לנסות עם המטאטא"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-cd70c5dee5271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-restaurants/restaurant-news/Article-cd70c5dee5271a1026.htm",
+   "checked_ms": 1793023827189,
+   "content_type": "article",
+   "first_seen_ms": 1793023827189,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793012580000,
+   "section": "",
+   "title": "יום הבחירות: איפה אוכלים בזול ושותים בחינם?"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Recipe-a33cd7aad6371a1026.htm": {
    "check_attempts": 1,
