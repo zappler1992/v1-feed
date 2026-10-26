@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792994865267,
+ "last_run_ms": 1792995150015,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21975,7 +21975,7 @@
    "indexnow_ms": null,
    "published_ms": 1792940520000,
    "section": "כסף",
-   "title": "מאגר גז חדש במצרים: כמה תשובה צריך לדאוג?"
+   "title": "בתחום מפתיע: האיום של המדינה השכנה על ישראל"
   },
   "https://www.mako.co.il/finances-news/Article-ed88e66981101a1027.htm": {
    "check_attempts": 1,
@@ -45434,6 +45434,18 @@
    "published_ms": 1790737200000,
    "section": "חדשות",
    "title": "המגעים תקועים והחשש מחידוש הלחימה גובר"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-c5d5d2f0cb171a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792995026842,
+   "content_type": "article",
+   "first_seen_ms": 1792995026842,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792994400000,
+   "section": "",
+   "title": "אוגרים מזון, נמנעים מנסיעות: הבהלה מפני מלחמה באיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-c8fbcf7bb5bf0a1027.htm": {
    "check_attempts": 1,
