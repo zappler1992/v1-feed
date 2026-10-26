@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793003249467,
+ "last_run_ms": 1793003549400,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27808,6 +27808,18 @@
    "published_ms": 1792407480000,
    "section": "HIX",
    "title": "חיפשו שבע נעדרות – ומצאו כספת נסתרת ועצמות"
+  },
+  "https://www.mako.co.il/hix-special/Article-2f49c5c0f4771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793003427288,
+   "content_type": "article",
+   "first_seen_ms": 1793003427288,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793003160000,
+   "section": "HIX",
+   "title": "השוטרת טוענת: המפקד הטריד אותי – ודרש שאשתוק"
   },
   "https://www.mako.co.il/hix-special/Article-2f9bcf6fb9e41a1027.htm": {
    "check_attempts": 1,
