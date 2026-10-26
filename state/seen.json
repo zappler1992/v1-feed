@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b4ad0e0370971a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-fcd020c2be871a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-86f9da3ca1971a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8033da3ca1971a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17728,6 +17728,24 @@
    "updated_ms": 1792942172000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a22dd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18087_25102026032824/M_Celebs_18087_25102026032824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8033da3ca1971a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי שפורסם ב-mako שהיא תהיה בארה\"ב ביום הבחירות - אודיה אזולאי משתפת תמונה מהמטוס: \"היה לי משהו חזק",
+   "duration_s": 9,
+   "first_seen_ms": 1793034446239,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18167_26102026045601_1400_1793034169918_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793034176000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי שפורסם ב-mako שהיא תהיה בארה\"ב ביום הבחירות - אודיה אזולאי משתפת תמונה מהמטוס: \"היה לי משהו חזק",
+   "type": "mivzakim",
+   "updated_ms": 1793034176000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8033da3ca1971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18167_26102026045601/M_Tarbut_18167_26102026045601_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8067f5aed5371a1026.htm": {
    "author": "עדכוני בידור",
@@ -43450,6 +43468,22 @@
    "updated_ms": 1792913400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-86f9da3ca1971a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "\"את זבל שלא ברא השטן\": אחרי שנעצר בחשד לתקיפת זוגתו לשעבר, נחשפות ב-mako ההתכתבויות הקשות בין כוכב \"האח הגדול\" לבת זוגו לשעבר. מעצרו הוארך ב-3 ימים, לאחר שטענה שהפיל אותה וגרם לשבר בידה. הוא מכחיש את החשדות.",
+   "duration_s": 22,
+   "first_seen_ms": 1793034446239,
+   "image": "https://img.mako.co.il/2026/10/26/yoav_big_brother_261026_1400_1793033336981_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793033460000,
+   "sections": [],
+   "title": "ההתכתבויות המטלטלות של כוכב \"האח הגדול\" שחשוד בתקיפה",
+   "type": "news",
+   "updated_ms": 1793033460000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-86f9da3ca1971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/yoav_big_brother_261026/MASTER/yoav_big_brother_261026/yoav_big_brother_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm": {
    "author": "חדשות",
