@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793051849545,
+ "last_run_ms": 1793052149709,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12,6 +12,18 @@
    "published_ms": 1790894962000,
    "section": "Fashion Forward",
    "title": "מה שטוב לקים קרדשיאן: ניסינו את הטיפול הכי מדובר לפנים ולצוואר"
+  },
+  "https://fashionforward.mako.co.il/beauty-2/322417/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793052149709,
+   "content_type": "article",
+   "first_seen_ms": 1793052149709,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793050809000,
+   "section": "Fashion Forward",
+   "title": "האיטגירל הכי חמה מציגה טוויסט חדש על מניקור הפרנץ' הקלאסי"
   },
   "https://fashionforward.mako.co.il/celebs/shopping/321958/": {
    "check_attempts": 1,
@@ -217,6 +229,18 @@
    "section": "Fashion Forward",
    "title": "נטע גרטי הביאה את בתה להשקה – והלסת שלנו עדיין על הרצפה"
   },
+  "https://fashionforward.mako.co.il/industry/itgirls/322357/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793052149709,
+   "content_type": "article",
+   "first_seen_ms": 1793052149709,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1793050821000,
+   "section": "Fashion Forward",
+   "title": "אחרי בדיקה מעמיקה: מצאנו את האישה עם הכי הרבה סטייל בישראל"
+  },
   "https://fashionforward.mako.co.il/industry/productions/320117/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -381,7 +405,7 @@
    "indexnow_ms": null,
    "published_ms": 1792675082000,
    "section": "",
-   "title": "כשראיתי את עצמי על שלט חוצות באיילון, החלטתי שזה המקצוע שאני רוצה"
+   "title": "\"זה הכניס למצב לא נעים\": הסרטון של אבא שסיבך את הבת"
   },
   "https://fashionforward.mako.co.il/news/320471/": {
    "check_attempts": 1,
@@ -1341,6 +1365,18 @@
    "section": "Fashion Forward",
    "title": "בשמלת מיני חושפת גב: טל טיטו יודעת בדיוק מה עובד עליה"
   },
+  "https://fashionforward.mako.co.il/news/322378/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793052149709,
+   "content_type": "article",
+   "first_seen_ms": 1793052149709,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793050798000,
+   "section": "Fashion Forward",
+   "title": "זו אינה חתונה: סינדי צ'אדי חגגה יום הולדת בלוק של כלה"
+  },
   "https://fashionforward.mako.co.il/news/322382/": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -1604,6 +1640,18 @@
    "published_ms": 1792871733000,
    "section": "אופנה",
    "title": "תוספת אחת קטנה יכולה להקפיץ את הג'ינס שלכם בחורף הזה"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/322282/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793052149709,
+   "content_type": "article",
+   "first_seen_ms": 1793052149709,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793050837000,
+   "section": "Fashion Forward",
+   "title": "איפה קונים את הז'קט שהפך לפריט הכי נכון בארון?"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
@@ -28803,7 +28851,7 @@
    "indexnow_ms": null,
    "published_ms": 1793051040000,
    "section": "",
-   "title": "דרס והרג - בתחנת הדלק: האישום החמור נגד הרב"
+   "title": "רב מקליפורניה נאשם כי דרס למוות צעיר בן 28"
   },
   "https://www.mako.co.il/hix-special/Article-5dccf62cda411a1027.htm": {
    "check_attempts": 1,
