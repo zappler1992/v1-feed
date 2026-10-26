@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793040449364,
+ "last_run_ms": 1793040749280,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52082,6 +52082,18 @@
    "published_ms": 1792669260000,
    "section": "קשת 12",
    "title": "\"מה נראה לך שאתה עושה? ראיתי שהסתכלת עליה\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-bdb4df361b871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793040626979,
+   "content_type": "article",
+   "first_seen_ms": 1793040626979,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793039700000,
+   "section": "הכי חם",
+   "title": "הכוכב הפתיע מעריצות: \"סוגד ומעריץ אתכן\""
   },
   "https://www.mako.co.il/tv-the_escape/season1-articles/Article-ede0619b33e41a1027.htm": {
    "check_attempts": 1,
