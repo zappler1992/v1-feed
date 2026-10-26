@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793004749653,
+ "last_run_ms": 1793005049544,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26321,6 +26321,18 @@
    "section": "בריאות",
    "title": "יוגורט יווני או קוטג': מה יותר בריא?"
   },
+  "https://www.mako.co.il/health-news/Article-efb2c5c0f4771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793004867384,
+   "content_type": "article",
+   "first_seen_ms": 1793004867384,
+   "indexable": true,
+   "indexnow_ms": 1793004867384,
+   "published_ms": 1793003460000,
+   "section": "בריאות",
+   "title": "\"אמא מתגרדת מכף רגל ועד ראש\""
+  },
   "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31745,6 +31757,18 @@
    "section": "",
    "title": "כוכבת הטיקטוק קים צ'ורילוב לוהקה לסרט קולנוע"
   },
+  "https://www.mako.co.il/makoz-news/Article-7da6488605771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793004867384,
+   "content_type": "article",
+   "first_seen_ms": 1793004867384,
+   "indexable": true,
+   "indexnow_ms": 1793004867384,
+   "published_ms": 1793004540000,
+   "section": "",
+   "title": "\"יש כמה טראומות ילדות שאפשר לנצל\""
+  },
   "https://www.mako.co.il/makoz-news/Article-7dfce65b3adc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34515,7 +34539,7 @@
    "indexnow_ms": null,
    "published_ms": 1793003460000,
    "section": "פלילים",
-   "title": "ישראלי הסתבך בתאילנד: \"סימם נשים, קיים יחסי מין ותיעד\""
+   "title": "ישראלי נעצר בתאילנד, אבל מה שאמר לשוטרים הדהים את כולם"
   },
   "https://www.mako.co.il/men-men_news/Article-7d7bece255b11a1026.htm": {
    "check_attempts": 1,
@@ -43983,7 +44007,7 @@
    "indexnow_ms": null,
    "published_ms": 1792996320000,
    "section": "צבא וביטחון",
-   "title": "המועד שבו יוכרע עתיד זירה מהמשפיעות בעולם"
+   "title": "טראמפ כבר יודע: עתידה של אירופה תלוי במועד אחד"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-e79fe92ba8931a1026.htm": {
    "check_attempts": 1,
