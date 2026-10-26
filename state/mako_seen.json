@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793055149494,
+ "last_run_ms": 1793055449625,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13879,6 +13879,18 @@
    "section": "ספורט",
    "title": "דיווח: ליאל עבדה מועמד ללאציו"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-813c5fa7a5a71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793055387610,
+   "content_type": "article",
+   "first_seen_ms": 1793055387610,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793055120000,
+   "section": "ספורט",
+   "title": "אחרי 25 שנה: המספרים של זכיית קיין"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-8285adef1c051a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -14238,6 +14250,18 @@
    "published_ms": 1792421340000,
    "section": "ספורט",
    "title": "ברק יצחקי על סף סגירה באנורתוזיס"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e41c5fa7a5a71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793055387610,
+   "content_type": "article",
+   "first_seen_ms": 1793055387610,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793055240000,
+   "section": "ספורט",
+   "title": "לראשונה בקריירה: קיין זכה בכדור הזהב"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-e6c69a2e75e61a1027.htm": {
    "check_attempts": 1,
