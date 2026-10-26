@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793049749626,
+ "last_run_ms": 1793050049481,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15246,6 +15246,18 @@
    "published_ms": 1790831580000,
    "section": "ספורט",
    "title": "\"זו בגידה\": מה שהוביל לפיצוץ של רונאלדו"
+  },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-a09ef381f0a71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793049867351,
+   "content_type": "article",
+   "first_seen_ms": 1793049867351,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793049540000,
+   "section": "ספורט",
+   "title": "שוטרים התערבו: קטטת ענק בליגה הטורקית"
   },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-a2b2d98cef701a1026.htm": {
    "check_attempts": 1,
