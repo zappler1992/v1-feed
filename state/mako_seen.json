@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793043749429,
+ "last_run_ms": 1793044049448,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9702,6 +9702,18 @@
    "published_ms": 1792651860000,
    "section": "ספורט",
    "title": "זוארץ שלח התראה לפני תביעה לפריג`"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-40b0c9b5aa971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793043987101,
+   "content_type": "article",
+   "first_seen_ms": 1793043987101,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793043840000,
+   "section": "ספורט",
+   "title": "\"סטירה. זה היה מבחן, אבל אנחנו לא שם\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-40d46cc371721a1026.htm": {
    "check_attempts": 1,
@@ -42015,7 +42027,7 @@
    "indexnow_ms": null,
    "published_ms": 1793026200000,
    "section": "דיגיטל",
-   "title": "עד 2 טריליון דולר: מפתחת קלוד בדרך להנפקה הגדולה בעולם"
+   "title": "2,000,000,000,000 דולר: מפתחת קלוד בדרך להנפקת ענק"
   },
   "https://www.mako.co.il/nexter-news/Article-b26560a4c09c0a1026.htm": {
    "check_attempts": 1,
