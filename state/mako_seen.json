@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793037149417,
+ "last_run_ms": 1793037450512,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1772,6 +1772,18 @@
    "published_ms": 1792345080000,
    "section": "ספורט",
    "title": "\"לא מקובל\": צפו בנאום הזעם של איטודיס"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-053dd77114971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793037386891,
+   "content_type": "article",
+   "first_seen_ms": 1793037386891,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793035920000,
+   "section": "ספורט",
+   "title": "צפו בשידור החי: מכבי אשדוד - גליל עליון"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-071c8be212a21a1027.htm": {
    "check_attempts": 1,
@@ -46970,6 +46982,18 @@
    "published_ms": 1792771680000,
    "section": "חדשות",
    "title": "ירדן: לפחות 7 הרוגים באירוע ירי בכנסייה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f3644a927fd41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-f3644a927fd41a1027.htm",
+   "checked_ms": 1793037266904,
+   "content_type": "article",
+   "first_seen_ms": 1793037266904,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793003040000,
+   "section": "",
+   "title": "11 שעות לקלפיות: אלו המקרים שבהם תיפסל ההצבעה שלכם"
   },
   "https://www.mako.co.il/special-mako-news/Article-f4111b40338e0a1026.htm": {
    "check_attempts": 1,
