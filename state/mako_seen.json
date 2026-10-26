@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793018848910,
+ "last_run_ms": 1793019148925,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27185,6 +27185,18 @@
    "section": "HIX",
    "title": "\"לא חשבתי שהמחלה הזאת יכולה לקחת להרוג אותה\""
   },
+  "https://www.mako.co.il/hix-bizarre/Article-d3dfc8d063871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793019026972,
+   "content_type": "article",
+   "first_seen_ms": 1793019026972,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793018820000,
+   "section": "HIX",
+   "title": "בלע עגילים בכ-770 אלף דולר – והורשע בשוד"
+  },
   "https://www.mako.co.il/hix-bizarre/Article-d3e252bddfa11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48050,6 +48062,18 @@
    "published_ms": 1791695220000,
    "section": "חופש",
    "title": "טרנד מסוכן: אנשים עפים ללא שליטה לים - חלקם שברו ידיים"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-159fc8d063871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793019026972,
+   "content_type": "article",
+   "first_seen_ms": 1793019026972,
+   "indexable": true,
+   "indexnow_ms": 1793019026972,
+   "published_ms": 1793018160000,
+   "section": "",
+   "title": "הפשיטה על המלון ביוון - והמעצר של הצעירים הישראלים"
   },
   "https://www.mako.co.il/travel-news/international/Article-174df0e2e17f0a1026.htm": {
    "check_attempts": 1,
