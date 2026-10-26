@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793007749715,
+ "last_run_ms": 1793008049628,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49094,6 +49094,18 @@
    "published_ms": 1791703860000,
    "section": "חופש",
    "title": "ישראלים ארגנו מסיבה במקום שמור - ועוררו סערה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-d746c2e395771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793007987498,
+   "content_type": "article",
+   "first_seen_ms": 1793007987498,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793002560000,
+   "section": "חופש",
+   "title": "טלטלה בחו\"ל: היחסים עם ישראל בדרך למשבר"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
