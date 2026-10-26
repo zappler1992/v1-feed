@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-d911604007871a1027.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-ba26e1c444871a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c03089fa4a871a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86336,6 +86335,24 @@
    "updated_ms": 1792998153000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bf58122940771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Stiv_tlvhanaya_7770_26102026070106/V1_Stiv_tlvhanaya_7770_26102026070106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c03089fa4a871a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היסטוריה בלונדון: היום הראשון ברחוב אוקספורד בלי אוטבוסים",
+   "duration_s": 7,
+   "first_seen_ms": 1793026345990,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18154_26102026024744_1400_1793026139076_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793026146000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היסטוריה בלונדון: היום הראשון ברחוב אוקספורד בלי אוטבוסים",
+   "type": "mivzakim",
+   "updated_ms": 1793026146000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c03089fa4a871a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18154_26102026024744/M_NEWS_18154_26102026024744_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c6b138efd8771a1026.htm": {
    "author": "מבזקים",
