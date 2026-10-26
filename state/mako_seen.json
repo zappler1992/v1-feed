@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793015548813,
+ "last_run_ms": 1793015848692,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11982,6 +11982,18 @@
    "published_ms": 1791828600000,
    "section": "ספורט",
    "title": "גולר אדום: פתיחת העונה האדירה של אידוקו"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f652882f60871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793015848692,
+   "content_type": "article",
+   "first_seen_ms": 1793015848692,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793015460000,
+   "section": "ספורט",
+   "title": "הדבר הגדול הבא: חיפה מצאה את בלם העתיד"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f6d574be20921a1027.htm": {
    "check_attempts": 1,
@@ -32284,6 +32296,18 @@
    "published_ms": 1791518940000,
    "section": "",
    "title": "\"הוא החזיק בכוח את איבר המין שלי, צעקתי\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-033f882f60871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793015666716,
+   "content_type": "article",
+   "first_seen_ms": 1793015666716,
+   "indexable": true,
+   "indexnow_ms": 1793015666716,
+   "published_ms": 1793015460000,
+   "section": "",
+   "title": "פרשה חמורה: החשדות הכבדים נגד עורכת הדין הישראלית"
   },
   "https://www.mako.co.il/men-men_news/Article-03a106663e011a1026.htm": {
    "check_attempts": 1,
