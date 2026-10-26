@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793039849376,
+ "last_run_ms": 1793040149316,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15412,6 +15412,18 @@
    "published_ms": 1792251720000,
    "section": "ספורט",
    "title": "לאחר סערת הפנדל: מחוות אלצ`ה לרביבו"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-3bbbda3ca1971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793040149316,
+   "content_type": "article",
+   "first_seen_ms": 1793040149316,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793033400000,
+   "section": "ספורט",
+   "title": "\"רגע משנה עונה\": בספרד התלהבו מקשר ריאל"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-40680dd902571a1027.htm": {
    "check_attempts": 1,
