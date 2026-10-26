@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3e2f84b2a6771a1027.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ae03a54806771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8533,7 +8533,8 @@
    "importance": 2,
    "published_ms": 1792996506000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "סלבס"
    ],
    "title": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
    "type": "mivzakim",
@@ -8559,6 +8560,24 @@
    "updated_ms": 1792994520000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_BANNY_261026/SHIR_BANNY_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ae03a54806771a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "מגיש הטלוויזיה ליאון רוזנברג הגיע לארץ לקראת הבחירות",
+   "duration_s": 9,
+   "first_seen_ms": 1793005946586,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_rosemberg_7782_26102026084747_1400_1793004557037_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793004564000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "מגיש הטלוויזיה ליאון רוזנברג הגיע לארץ לקראת הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793004564000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ae03a54806771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_rosemberg_7782_26102026084747/V1_karind_rosemberg_7782_26102026084747_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -42807,7 +42826,7 @@
    ],
    "title": "מרתיח: הראפרית דורכת על דגל ישראל",
    "type": "news",
-   "updated_ms": 1793000940000,
+   "updated_ms": 1793005620000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/NOAB_COLOMBIA_251026_M/MASTER/NOAB_COLOMBIA_251026_M/NOAB_COLOMBIA_251026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
