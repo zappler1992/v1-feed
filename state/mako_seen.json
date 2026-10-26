@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792975048919,
+ "last_run_ms": 1792975348923,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3188,6 +3188,18 @@
    "published_ms": 1792327920000,
    "section": "ספורט",
    "title": "\"נושא באחריות היסטורית\": וומבי תחת מתקפה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e28c063029571a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792975348923,
+   "content_type": "article",
+   "first_seen_ms": 1792975348923,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792975140000,
+   "section": "ספורט",
+   "title": "דקות בכורה העונה לשרף ו-וולף, הנטס הובסו"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e5f4e97e0c111a1027.htm": {
    "check_attempts": 1,
