@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793002049793,
+ "last_run_ms": 1793002349534,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12150,6 +12150,18 @@
    "published_ms": 1792686840000,
    "section": "ספורט",
    "title": "\"בעיטה קסומה, קנגווה מצייר על המגרש\""
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-ab6ec295e3771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793002349534,
+   "content_type": "article",
+   "first_seen_ms": 1793002349534,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793002200000,
+   "section": "ספורט",
+   "title": "נועם בן הרוש בספק גדול לגמר גביע הטוטו"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-010aa68c03041a1027.htm": {
    "check_attempts": 1,
@@ -33665,6 +33677,18 @@
    "section": "פלילים",
    "title": "\"עזבו את ג'פניקה, עכשיו הולכים על הראשים\""
   },
+  "https://www.mako.co.il/men-men_news/Article-58c1b09f53771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793002349534,
+   "content_type": "article",
+   "first_seen_ms": 1793002349534,
+   "indexable": true,
+   "indexnow_ms": 1793002349534,
+   "published_ms": 1793001720000,
+   "section": "פלילים",
+   "title": "\"הכה את שותפו למוות בגלל שהשאיר את הדלת פתוחה\""
+  },
   "https://www.mako.co.il/men-men_news/Article-58f03e40bb4d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34095,7 +34119,7 @@
    "indexnow_ms": 1793001267198,
    "published_ms": 1793000760000,
    "section": "",
-   "title": "חשד לרצח והתאבדות בת\"א: ירה בגבר כבן 60 - ושם קץ לחייו"
+   "title": "חשד לרצח והתאבדות בתל אביב: ירה באחיו - ושם קץ לחייו"
   },
   "https://www.mako.co.il/men-men_news/Article-7250bdf8669e0a1027.htm": {
    "check_attempts": 1,
@@ -37024,6 +37048,18 @@
    "published_ms": 1791451680000,
    "section": "מוזיקה",
    "title": "בגלל מופע הענק הערב: אלה הפקקים הצפויים במרכז"
+  },
+  "https://www.mako.co.il/music-news/Article-20fcb09f53771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793002227176,
+   "content_type": "article",
+   "first_seen_ms": 1793002227176,
+   "indexable": true,
+   "indexnow_ms": 1793002227176,
+   "published_ms": 1793001960000,
+   "section": "מוזיקה",
+   "title": "על הבמה: הכוכבת הלטינית דרכה על דגל ישראל"
   },
   "https://www.mako.co.il/music-news/Article-238c5020638c0a1027.htm": {
    "check_attempts": 1,

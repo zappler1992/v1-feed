@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e9fd95af41771a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-213b16ca53771a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm"
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-f4ad29035c671a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -865,6 +863,24 @@
    "updated_ms": 1792929600000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-ade869a58b271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/AMIT_benet2_60/MASTER/Amit_BENET2_60_M/Amit_BENET2_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-f4ad29035c671a1027.htm": {
+   "author": "60 שניות",
+   "date_source": "json-publishDate",
+   "description": "הפרשנית הפוליטית של חדשות 12, דפנה ליאל, הגיעה לראיון עם ליאל אלי: האם נתניהו בלחץ? יש מפלגה שעוד יכולה לפרוש? ומה היא תעשה בבוקר אחרי שנדע מי יהיה ראש הממשלה הבא. 60 שניות - ספיישל בחירות",
+   "duration_s": 66,
+   "first_seen_ms": 1793002346523,
+   "image": "https://img.mako.co.il/2026/10/26/Amit_DAFNA_60_M_1400_1792994937659_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793001900000,
+   "sections": [
+    "60 שניות"
+   ],
+   "title": "60 שניות עם דפנה ליאל ספיישל בחירות",
+   "type": "general",
+   "updated_ms": 1793001900000,
+   "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-f4ad29035c671a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Amit_DAFNA2_60/MASTER/Amit_DAFNA_60_M/Amit_DAFNA_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm": {
    "author": "בקצב השקר",
@@ -85026,19 +85042,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "חשד לרצח והתאבדות: שני גברים נמצאו ללא רוח חיים בדרך משה דיין בתל אביב",
-   "duration_s": 11,
+   "duration_s": 70,
    "first_seen_ms": 1793001146495,
-   "image": "https://img.mako.co.il/2026/10/26/V1_karind_mada_7774_26102026074851_1400_1793001005938_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/26/FIX_MADA_1400_1793001998461_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1793001013000,
    "sections": [
     "מבזקים"
    ],
    "title": "חשד לרצח והתאבדות: שני גברים נמצאו ללא רוח חיים בדרך משה דיין בתל אביב",
    "type": "mivzakim",
-   "updated_ms": 1793001013000,
+   "updated_ms": 1793002020000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_mada_7774_26102026074851/V1_karind_mada_7774_26102026074851_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/FIX_MADA/FIX_MADA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f6761c6dc471a1026.htm": {
    "author": "מבזקים",
@@ -87031,13 +87047,13 @@
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18062_25102026073352/M_Food_18062_25102026073352_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-fd56241de2771a1026.htm": {
-   "author": "מתכונים",
+   "author": "יעל קצב",
    "date_source": "json-publishDate",
-   "description": "יש כוכב חדש עם דפי אורז במטבח שלנו",
+   "description": "מכירים את הבורקס היווניים הנהדרים שמכינים מדפי פילו מקומטים ותערובת גבינות, ואחר כך מתמוגגים על הקצוות הפריכים-פריכים שלהם? אז אותו הדבר - אבל עם דפי אורז. איזו תגלית טעימה ומשמחת!",
    "duration_s": 29,
    "first_seen_ms": 1793001746513,
    "image": "https://img.mako.co.il/2026/10/26/M_Food_18123_26102026075356_1400_1793001322343_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793001330000,
    "sections": [
     "אוכל ומתכונים"
