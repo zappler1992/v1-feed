@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793012248716,
+ "last_run_ms": 1793012548766,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49442,6 +49442,18 @@
    "published_ms": 1792393980000,
    "section": "",
    "title": "הגל שמאיים על כל אירופה - וההמלצה לישראלים"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-f571d4e0fa771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793012427582,
+   "content_type": "article",
+   "first_seen_ms": 1793012427582,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793010060000,
+   "section": "חופש",
+   "title": "סכנה ממשית לנוסעים: ליקוי הבטיחות שהתגלה בתא הטייס"
   },
   "https://www.mako.co.il/travel-news/international/Article-f867dae57ae41a1027.htm": {
    "check_attempts": 1,
