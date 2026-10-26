@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-448616ca53771a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-554e241de2771a1026.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-586395af41771a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8504,6 +8506,24 @@
    "updated_ms": 1792936920000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-0cc8067878271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_MIAMI_VICE_7740_25102026095956/V1_MIAMI_VICE_7740_25102026095956_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-586395af41771a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"מפלגה שמביאה מנהיגות חדשה\": רותם סלע חושפת כי תצביע בבחירות לאיזנקוט",
+   "duration_s": 103,
+   "first_seen_ms": 1793003246498,
+   "image": "https://img.mako.co.il/2026/10/26/V1_KARIND_ROTEMSELA_7771_26102026072616_1400_1792999735246_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792999741000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"מפלגה שמביאה מנהיגות חדשה\": רותם סלע חושפת כי תצביע בבחירות לאיזנקוט",
+   "type": "mivzakim",
+   "updated_ms": 1792999741000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-586395af41771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_KARIND_ROTEMSELA_7771_26102026072616/V1_KARIND_ROTEMSELA_7771_26102026072616_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm": {
    "author": "מבזקי סלבס",
@@ -42469,7 +42489,8 @@
    "importance": 1,
    "published_ms": 1792954571000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "לקראת פתיחת הקלפיות: המספרים החשובים של יום הבחירות",
    "type": "news",
@@ -42586,6 +42607,24 @@
    "updated_ms": 1792934400000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-44cd249bbf271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_LAUNDRY_251026/MASTER/SHIR_LAUNDRY_251026/SHIR_LAUNDRY_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-554e241de2771a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לקראת מערכת מזג האוויר הצפויה, המשטרה נערכת לחסימות כבישים מחשש לשיטפונות ולהצפות.\nהחסימות צפויות בין היתר בדרכים המובילות לאילת וממנה, וכלל אתרי הטיולים מבאר שבע ועד אילת ייסגרו. \nבמשטרה קוראים לציבור להימנע מנסיעות שאינן חיוניות בנגב ובערבה, לא להגיע לנחלים ולא לחצות כבישים מוצפים או ערוצי מים זורמים, גם ברכבי שטח. הציבור מתבקש להתעדכן במצב הכבישים ולהישמע להנחיות כוחות הביטחון וההצלה.",
+   "duration_s": 29,
+   "first_seen_ms": 1793003246498,
+   "image": "https://img.mako.co.il/2026/10/26/Kim_South_26102026_1400_1793001087236_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793001093000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "חשש לשיטפונות בדרום: חסימות כבישים בדרך לאילת",
+   "type": "news",
+   "updated_ms": 1793001093000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-554e241de2771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Kim_South_26102026/MASTER/Kim_South_26102026/Kim_South_26102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-55dbdd24e9371a1026.htm": {
    "author": "חדשות",
@@ -85400,6 +85439,24 @@
    "updated_ms": 1792943818000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d67cd47a2c371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_PKAK_7753_25102026035526/V1_KARIND_PKAK_7753_25102026035526_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צפו: כטב\"ם מתפוצץ בעיר וורונז' ברוסיה - והנהגים ממשיכים לנסוע",
+   "duration_s": 22,
+   "first_seen_ms": 1793003246498,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_russia_7777_26102026081955_1400_1793002872438_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793002883000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צפו: כטב\"ם מתפוצץ בעיר וורונז' ברוסיה - והנהגים ממשיכים לנסוע",
+   "type": "mivzakim",
+   "updated_ms": 1793002883000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_russia_7777_26102026081955/V1_karind_russia_7777_26102026081955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-dbe9411fb3471a1026.htm": {
    "author": "מבזקים",
