@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792996949392,
+ "last_run_ms": 1792997249385,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21688,6 +21688,18 @@
    "published_ms": 1789876080000,
    "section": "כסף",
    "title": "הוא מנכ\"ל ביום וכוכב טיקטוק בלילה ומסרב לכסף"
+  },
+  "https://www.mako.co.il/finances-news/Article-843572c274371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792997249385,
+   "content_type": "article",
+   "first_seen_ms": 1792997249385,
+   "indexable": true,
+   "indexnow_ms": 1792997249385,
+   "published_ms": 1792997100000,
+   "section": "",
+   "title": "לא שמעתם על זה אף פעם: המוצר המוזר שרותם סלע מוכרת"
   },
   "https://www.mako.co.il/finances-news/Article-84f35bb3d9a21a1027.htm": {
    "check_attempts": 1,
@@ -48950,6 +48962,18 @@
    "published_ms": 1791864720000,
    "section": "חופש",
    "title": "אווירה קסומה: זה היעד הכי זול לטוס אליו לכריסמס"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-3eec69a58b271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792997186928,
+   "content_type": "article",
+   "first_seen_ms": 1792997186928,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792991040000,
+   "section": "חופש",
+   "title": "ישיר מנתב\"ג: קו טיסות חדש לאחת הבירות הגדולות באירופה"
   },
   "https://www.mako.co.il/travel-news/israel/Article-4693f069184e0a1026.htm": {
    "check_attempts": 1,
