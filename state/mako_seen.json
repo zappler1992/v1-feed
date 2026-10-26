@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793016148831,
+ "last_run_ms": 1793016448677,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39460,6 +39460,18 @@
    "published_ms": 1792738380000,
    "section": "ספורט",
    "title": "בסכום שיא: כך בן מנספורד כמעט חתם בנתניה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-216d882f60871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793016386782,
+   "content_type": "article",
+   "first_seen_ms": 1793016386782,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793015580000,
+   "section": "ספורט",
+   "title": "נמחק מהרוטציה? המצב של אנדרדה בברזיל"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-22380bbca2621a1026.htm": {
    "check_attempts": 1,
