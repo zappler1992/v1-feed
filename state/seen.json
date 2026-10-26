@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-716534c1f1771a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3fdba93142771a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3be4a93142771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6086,7 +6086,8 @@
    "importance": 2,
    "published_ms": 1792962103000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "סלבס"
    ],
    "title": "המחליפה של ג'יזל: זאת דוגמנית העל החדשה של טום בריידי",
    "type": "general",
@@ -42519,7 +42520,8 @@
    "published_ms": 1792958331000,
    "sections": [
     "רק בישראל",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "השתוללו מול הניידות ותיעדו לרשת: מרדף אחרי נערים על אופניים בחולון",
    "type": "news",
@@ -84530,6 +84532,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-39de8aa4e5271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_FIRE_7738_25102026092438/V1_FIRE_7738_25102026092438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3be4a93142771a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אירוע ירי בדרך משה דיין בתל אביב: שני גברים כבני 60 מחוסרי הכרה",
+   "duration_s": 9,
+   "first_seen_ms": 1793001146495,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18117_26102026074444_1400_1793000767155_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793000774000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אירוע ירי בדרך משה דיין בתל אביב: שני גברים כבני 60 מחוסרי הכרה",
+   "type": "mivzakim",
+   "updated_ms": 1793000774000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3be4a93142771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18117_26102026074444/M_NEWS_18117_26102026074444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3ce53c9112171a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -84944,6 +84964,24 @@
    "updated_ms": 1792944548000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e93d47a2c371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/fix_trump/fix_trump_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד לרצח והתאבדות: שני גברים נמצאו ללא רוח חיים בדרך משה דיין בתל אביב",
+   "duration_s": 11,
+   "first_seen_ms": 1793001146495,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_mada_7774_26102026074851_1400_1793001005938_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793001013000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד לרצח והתאבדות: שני גברים נמצאו ללא רוח חיים בדרך משה דיין בתל אביב",
+   "type": "mivzakim",
+   "updated_ms": 1793001013000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_mada_7774_26102026074851/V1_karind_mada_7774_26102026074851_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f6761c6dc471a1026.htm": {
    "author": "מבזקים",
