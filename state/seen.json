@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa838b393a771a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42939,6 +42938,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-865f61e65d171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/yoav_iraq_251026/MASTER/yoav_iraq_251026/yoav_iraq_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1793010146666,
+   "image": "https://img.mako.co.il/2026/10/26/SHIR_MOON_261026_1400_1793005693934_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793005700000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "סופר מון ושבתאי בשמיים: מתי זה קורה",
+   "type": "news",
+   "updated_ms": 1793005680000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MOON_261026/MASTER/SHIR_MOON_261026/SHIR_MOON_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -84552,7 +84569,8 @@
    "importance": 0,
    "published_ms": 1793001258000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "דיווח ב-CNN: ישראל רצתה לתקוף באיראן, ארה״ב התנגדה והציעה מבצע משותף בהמשך",
    "type": "mivzakim",
