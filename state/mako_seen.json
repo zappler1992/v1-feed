@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793009249734,
+ "last_run_ms": 1793009549687,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1316,6 +1316,18 @@
    "published_ms": 1792930373000,
    "section": "אופנה",
    "title": "בול לשעון חורף: עדי הימלבלוי נפרדת מהעונה החמה בביקיני חם מאוד"
+  },
+  "https://fashionforward.mako.co.il/news/322347/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793009427513,
+   "content_type": "post",
+   "first_seen_ms": 1793009427513,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1793008415000,
+   "section": "אופנה",
+   "title": "לא חייבים שמלה: עינב בובליל הגיעה לאירוע בלוק מפתיע וסופר מחמיא"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -26415,7 +26427,7 @@
    "indexnow_ms": 1793004867384,
    "published_ms": 1793003460000,
    "section": "בריאות",
-   "title": "\"אמא מתגרדת מכף רגל ועד ראש\""
+   "title": "התחננה לעזרה: \"אמא מתגרדת מכף רגל ועד ראש\""
   },
   "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
    "check_attempts": 1,
@@ -44235,7 +44247,7 @@
    "indexnow_ms": null,
    "published_ms": 1792996320000,
    "section": "צבא וביטחון",
-   "title": "המועד שבו יוכרע עתיד הזירה מהמשפיעות בעולם"
+   "title": "המהלך שיסיים את המלחמה הארוכה מעבר לים?"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-e79fe92ba8931a1026.htm": {
    "check_attempts": 1,

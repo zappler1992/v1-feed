@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa808b393a771a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa838b393a771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17633,6 +17634,24 @@
    "updated_ms": 1793008856000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa808b393a771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18132_26102026095905/M_Celebs_18132_26102026095905_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa838b393a771a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בדרך לסולחה? אופירה אסייג נעזרת בצ׳אט ג׳יפיטי לניחושי ״הזמר במסכה״ - ולא תאמינו במי הוא חושד",
+   "duration_s": 15,
+   "first_seen_ms": 1793009546661,
+   "image": "https://img.mako.co.il/2026/10/26/M_Celebs_18133_26102026100208_1400_1793009006078_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793009013000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בדרך לסולחה? אופירה אסייג נעזרת בצ׳אט ג׳יפיטי לניחושי ״הזמר במסכה״ - ולא תאמינו במי הוא חושד",
+   "type": "mivzakim",
+   "updated_ms": 1793009013000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa838b393a771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18133_26102026100208/M_Celebs_18133_26102026100208_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ac16249bbf271a1027.htm": {
    "author": "עדכוני בידור",
@@ -42842,7 +42861,7 @@
    "sections": [],
    "title": "ישראלי נעצר בתאילנד: חשד שסימם נשים שהכיר ברשת",
    "type": "news",
-   "updated_ms": 1793008500000,
+   "updated_ms": 1793009340000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-67b1ad3759771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_THAILAND_261026/MASTER/SHIR_THAILAND_261026/SHIR_THAILAND_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -85101,6 +85120,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5f4050e9f8171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_POLICE_7730_25102026055203/V1_POLICE_7730_25102026055203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל ושב\"כ חיסלו מחבל ממערך המודיעין הצבאי ומפקד הנדסה בזרוע הצבאית של חמאס",
+   "duration_s": 9,
+   "first_seen_ms": 1793009546661,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18134_26102026100635_1400_1793009280603_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793009287000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל ושב\"כ חיסלו מחבל ממערך המודיעין הצבאי ומפקד הנדסה בזרוע הצבאית של חמאס",
+   "type": "mivzakim",
+   "updated_ms": 1793009287000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18134_26102026100635/M_NEWS_18134_26102026100635_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-692b55dd33471a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85439,7 +85476,7 @@
    ],
    "title": "חשד לרצח והתאבדות: שני גברים נמצאו ללא רוח חיים בדרך משה דיין בתל אביב",
    "type": "mivzakim",
-   "updated_ms": 1793002020000,
+   "updated_ms": 1793009280000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/FIX_MADA/FIX_MADA_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
