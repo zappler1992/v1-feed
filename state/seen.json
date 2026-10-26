@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-86f9da3ca1971a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8033da3ca1971a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86803,6 +86802,24 @@
    "updated_ms": 1792991974000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e8cd53110a671a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Stiv_rahfan_7765_26102026051802/V1_Stiv_rahfan_7765_26102026051802_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: פיצוץ אדיר במחסן אמל\"ח בצפון סוריה",
+   "duration_s": 20,
+   "first_seen_ms": 1793035346275,
+   "image": "https://img.mako.co.il/2026/10/26/V1_SYRIA_7792_26102026051756_1400_1793035148968_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793035156000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: פיצוץ אדיר במחסן אמל\"ח בצפון סוריה",
+   "type": "mivzakim",
+   "updated_ms": 1793035156000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_SYRIA_7792_26102026051756/V1_SYRIA_7792_26102026051756_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ef7150e9f8171a1027.htm": {
    "author": "מבזקים",
