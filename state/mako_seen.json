@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793026648998,
+ "last_run_ms": 1793026948955,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41704,6 +41704,18 @@
    "published_ms": 1790226780000,
    "section": "דיגיטל",
    "title": "כוכבי הרשת שמרוויחים מיליונים מהטרנד החם"
+  },
+  "https://www.mako.co.il/nexter-news/Article-b257a5d56a871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793026948955,
+   "content_type": "article",
+   "first_seen_ms": 1793026948955,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793026200000,
+   "section": "דיגיטל",
+   "title": "שווי עצום: אנת'רופיק בדרך להנפקה הגדולה בעולם"
   },
   "https://www.mako.co.il/nexter-news/Article-b26560a4c09c0a1026.htm": {
    "check_attempts": 1,
