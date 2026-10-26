@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793029349109,
+ "last_run_ms": 1793029649421,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3212,6 +3212,18 @@
    "published_ms": 1791082680000,
    "section": "ספורט",
    "title": "9 נק` ו-7 אס` ליאניס, 105:129 למיאמי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-cd7106ff5d871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793029649421,
+   "content_type": "article",
+   "first_seen_ms": 1793029649421,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793029320000,
+   "section": "ספורט",
+   "title": "לראשונה העונה: בן שרף ישחק בג`י ליג"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-d41de7f9eb161a1026.htm": {
    "check_attempts": 1,
@@ -36580,6 +36592,18 @@
    "published_ms": 1790303460000,
    "section": "פלילים",
    "title": "כך הסתבך המאפיונר הישראלי בפרשת ההימורים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-ce9006ff5d871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793029649421,
+   "content_type": "article",
+   "first_seen_ms": 1793029649421,
+   "indexable": true,
+   "indexnow_ms": 1793029649421,
+   "published_ms": 1793029440000,
+   "section": "פלילים",
+   "title": "הדקירה בחתונה בשרון: \"היו שם גם עבריינים\""
   },
   "https://www.mako.co.il/men-men_news/Article-ceeafa00aa511a1027.htm": {
    "check_attempts": 1,
