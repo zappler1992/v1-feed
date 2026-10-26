@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792996349727,
+ "last_run_ms": 1792996649399,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16480,6 +16480,18 @@
    "published_ms": 1790269200000,
    "section": "",
    "title": "הסופר והמשורר יהודה אטלס הלך לעולמו בגיל 89"
+  },
+  "https://www.mako.co.il/culture-articles/Article-c62d87739b671a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792996466962,
+   "content_type": "article",
+   "first_seen_ms": 1792996466962,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792995480000,
+   "section": "תרבות tvbee",
+   "title": "זוכת האוסקר טענה לאנטישמיות ב-BBC - ותפוצה בענק"
   },
   "https://www.mako.co.il/culture-articles/Article-c777a2fa1d3d0a1026.htm": {
    "check_attempts": 1,
