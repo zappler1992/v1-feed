@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c03089fa4a871a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3a3389fa4a871a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d578df361b871a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18032,6 +18033,24 @@
    "updated_ms": 1792933667000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18073_25102026010606/M_Tarbut_18073_25102026010606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d578df361b871a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אתם בעד חנינה לרה\"מ ללא פרישה מהפוליטיקה? באנו עם לידור אדמוני לפרלמנט בראשל\"צ ולענות על מצפן הבחירו",
+   "duration_s": 100,
+   "first_seen_ms": 1793026645989,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18155_26102026024936_1400_1793026296583_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793026303000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אתם בעד חנינה לרה\"מ ללא פרישה מהפוליטיקה? באנו עם לידור אדמוני לפרלמנט בראשל\"צ ולענות על מצפן הבחירו",
+   "type": "mivzakim",
+   "updated_ms": 1793026303000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d578df361b871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18155_26102026024936/M_Tarbut_18155_26102026024936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e564fb0d05871a1026.htm": {
    "author": "עדכוני בידור",
@@ -85415,6 +85434,24 @@
    "updated_ms": 1792920390000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-39de8aa4e5271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_FIRE_7738_25102026092438/V1_FIRE_7738_25102026092438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3a3389fa4a871a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ירושלים: כ-100 אלף ביצים מזויפות שמקורן ברשות הפלסטינית נתפסו במשאית ובבית עסק",
+   "duration_s": 9,
+   "first_seen_ms": 1793026645989,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18157_26102026025242_1400_1793026435679_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793026443000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ירושלים: כ-100 אלף ביצים מזויפות שמקורן ברשות הפלסטינית נתפסו במשאית ובבית עסק",
+   "type": "mivzakim",
+   "updated_ms": 1793026443000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3a3389fa4a871a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18157_26102026025242/M_NEWS_18157_26102026025242_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3a7055f6ee771a1027.htm": {
    "author": "מבזקים",
