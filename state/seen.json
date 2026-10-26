@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7028ba000a971a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d3ccb0a5dc971a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4f73d6a3bb971a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17655,6 +17656,24 @@
    "updated_ms": 1792917450000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a53083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18065_25102026083516/M_Tarbut_18065_25102026083516_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4f73d6a3bb971a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בר צברי במופע השני שלו בקיסריה עם \"צעקתי בלילה\"",
+   "duration_s": 24,
+   "first_seen_ms": 1793045546391,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18173_26102026074939_1400_1793044263113_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793044270000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בר צברי במופע השני שלו בקיסריה עם \"צעקתי בלילה\"",
+   "type": "mivzakim",
+   "updated_ms": 1793044270000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4f73d6a3bb971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18173_26102026074939/M_Tarbut_18173_26102026074939_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-60cd2c668a471a1027.htm": {
    "author": "עדכוני בידור",
@@ -86914,6 +86933,24 @@
    "updated_ms": 1792988707000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cf61644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18107_26102026042332/M_NEWS_18107_26102026042332_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d3ccb0a5dc971a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בניגוד לפרסומים, טראמפ מכחיש שפרסם את הודעת התמיכה הלילה בגלל פניות מנתניהו: ״לא שוחחנו על זה״",
+   "duration_s": 21,
+   "first_seen_ms": 1793045546391,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18176_26102026080608_1400_1793045248205_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793045255000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בניגוד לפרסומים, טראמפ מכחיש שפרסם את הודעת התמיכה הלילה בגלל פניות מנתניהו: ״לא שוחחנו על זה״",
+   "type": "mivzakim",
+   "updated_ms": 1793045255000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d3ccb0a5dc971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18176_26102026080608/M_NEWS_18176_26102026080608_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d487cc26f4171a1027.htm": {
    "author": "מבזקים",
