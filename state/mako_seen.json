@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792987049563,
+ "last_run_ms": 1792987349158,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44234,6 +44234,18 @@
    "published_ms": 1790698920000,
    "section": "",
    "title": "ארגוני הטרור מקימים קואליציה לא צפויה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-33f3da3b52571a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792987349158,
+   "content_type": "article",
+   "first_seen_ms": 1792987349158,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792987200000,
+   "section": "",
+   "title": "בתום קרב צמוד: הנשיא האנטי-ישראלי ניצח בבחירות בברזיל"
   },
   "https://www.mako.co.il/special-mako-news/Article-34c4117686611a1026.htm": {
    "check_attempts": 1,
