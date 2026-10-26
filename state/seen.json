@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ae82f93a6771a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4ad1dd0246771a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-bd0a2f93a6771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8513,7 +8512,7 @@
    "duration_s": 103,
    "first_seen_ms": 1793003246498,
    "image": "https://img.mako.co.il/2026/10/26/V1_KARIND_ROTEMSELA_7771_26102026072616_1400_1792999735246_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1792999741000,
    "sections": [
     "סלבס"
@@ -17596,6 +17595,24 @@
    "updated_ms": 1792942242000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b3905cac6a371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18088_25102026032858/M_Tarbut_18088_25102026032858_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-bd0a2f93a6771a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "חני נחמיאס ומיכל ינאי סוגרות מעגל עם השיר מפסטיגל 1993, בחזרות למופע מותק FOREVER",
+   "duration_s": 21,
+   "first_seen_ms": 1793005346586,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18127_26102026085323_1400_1793004890853_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793004899000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "חני נחמיאס ומיכל ינאי סוגרות מעגל עם השיר מפסטיגל 1993, בחזרות למופע מותק FOREVER",
+   "type": "mivzakim",
+   "updated_ms": 1793004899000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-bd0a2f93a6771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18127_26102026085323/M_Tarbut_18127_26102026085323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c480cc26f4171a1027.htm": {
    "author": "עדכוני בידור",

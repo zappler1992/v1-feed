@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793005049544,
+ "last_run_ms": 1793005349633,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11418,6 +11418,18 @@
    "published_ms": 1792428540000,
    "section": "ספורט",
    "title": "קטטה המונית בין אוהדי בית\"ר למכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d6dddd0246771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793005349633,
+   "content_type": "article",
+   "first_seen_ms": 1793005349633,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793004300000,
+   "section": "ספורט",
+   "title": "הסיבה שבגללה פרץ ייעדר מול מכבי חיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d7c3c6db56e31a1026.htm": {
    "check_attempts": 1,
@@ -30039,7 +30051,7 @@
    "indexnow_ms": null,
    "published_ms": 1793001540000,
    "section": "עיצוב הבית",
-   "title": "למה הישראלים האלו תולים 350 קילו פירות בתקרה"
+   "title": "הסיבה שהישראלים האלו תולים השבוע 350 קילו פירות בתקרה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-6d378d6ffabe0a1027.htm": {
    "check_attempts": 1,
@@ -37191,7 +37203,7 @@
    "indexnow_ms": 1793002227176,
    "published_ms": 1793001960000,
    "section": "מוזיקה",
-   "title": "על הבמה מול אלפי אנשים: הכוכבת דרכה על דגל ישראל"
+   "title": "על הבמה: הכוכבת הלטינית דרכה על דגל ישראל"
   },
   "https://www.mako.co.il/music-news/Article-238c5020638c0a1027.htm": {
    "check_attempts": 1,
