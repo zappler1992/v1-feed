@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c78b29035c671a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8489,17 +8489,17 @@
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
    "description": "אריק באוזה, המדבב זוכה האמי שהיה קולם של באגס באני ודאפי דאק ב\"לוני טונס\", הלך לעולמו בגיל 46",
-   "duration_s": 9,
+   "duration_s": 22,
    "first_seen_ms": 1792994546363,
-   "image": "https://img.mako.co.il/2026/10/26/V1_STIV_MET_7768_26102026055305_1400_1792994065067_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/26/SHIR_BANNY_261026_1400_1792994445214_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1792994071000,
    "sections": [],
    "title": "אריק באוזה, המדבב זוכה האמי שהיה קולם של באגס באני ודאפי דאק ב\"לוני טונס\", הלך לעולמו בגיל 46",
    "type": "mivzakim",
-   "updated_ms": 1792994071000,
+   "updated_ms": 1792994520000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_STIV_MET_7768_26102026055305/V1_STIV_MET_7768_26102026055305_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_BANNY_261026/SHIR_BANNY_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -85015,6 +85015,24 @@
    "updated_ms": 1792952648000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be6655dd33471a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18095_25102026062227/M_NEWS_18095_25102026062227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c78b29035c671a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היסטוריה בלונדון: קטע מרכזי של כמעט קילומטר ברחוב אוקספורד יהפוך היום למדרחוב ללא תנועת האוטובוסים ה",
+   "duration_s": 18,
+   "first_seen_ms": 1792994846381,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18111_26102026060408_1400_1792994731718_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792994741000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היסטוריה בלונדון: קטע מרכזי של כמעט קילומטר ברחוב אוקספורד יהפוך היום למדרחוב ללא תנועת האוטובוסים ה",
+   "type": "mivzakim",
+   "updated_ms": 1792994741000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c78b29035c671a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18111_26102026060408/M_NEWS_18111_26102026060408_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cd51644794671a1027.htm": {
    "author": "מבזקים",
