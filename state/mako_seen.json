@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793017048964,
+ "last_run_ms": 1793017349713,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21605,6 +21605,18 @@
    "section": "כסף",
    "title": "שיא בת״א: 16,657 סטודנטים לתואר ראשון"
   },
+  "https://www.mako.co.il/finances-news/Article-2721254f02871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793017349713,
+   "content_type": "article",
+   "first_seen_ms": 1793017349713,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793016900000,
+   "section": "כסף",
+   "title": "1.7 מיליארד שקל: אאורה רוכשת את בית בכפר"
+  },
   "https://www.mako.co.il/finances-news/Article-27999f44c4c01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37600,6 +37612,18 @@
    "published_ms": 1790598420000,
    "section": "מוזיקה",
    "title": "אחרי הנפילה הכואבת: עדכון במצבה של ירדנה ארזי"
+  },
+  "https://www.mako.co.il/music-news/Article-44e3254f02871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793017349713,
+   "content_type": "article",
+   "first_seen_ms": 1793017349713,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793017080000,
+   "section": "מוזיקה",
+   "title": "הדי-ג'יי שהישראלים אוהבים מודיע על פרישה"
   },
   "https://www.mako.co.il/music-news/Article-45d7c926ade51a1026.htm": {
    "check_attempts": 1,

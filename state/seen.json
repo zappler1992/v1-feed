@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8d056e19c0871a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-271e254f02871a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42107,7 +42107,7 @@
    ],
    "title": "גשם ביום הבחירות? התחזית המעודכנת",
    "type": "news",
-   "updated_ms": 1793016120000,
+   "updated_ms": 1793016900000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-94abc333f0f61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/rinat_rain_241026/MASTER/rinat_rain_241026_m/rinat_rain_241026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -84975,6 +84975,24 @@
    "updated_ms": 1793004057000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-225c20cad5771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_STIV_ISHAY_7780_26102026083936/V1_STIV_ISHAY_7780_26102026083936_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-271e254f02871a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות נעצרו: נחשפה מנהרת ביוב באזור ירושלים ששימשה להברחת שב\"חים מיהודה ושומרון",
+   "duration_s": 27,
+   "first_seen_ms": 1793017346121,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18142_26102026121435_1400_1793016970995_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793016978000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות נעצרו: נחשפה מנהרת ביוב באזור ירושלים ששימשה להברחת שב\"חים מיהודה ושומרון",
+   "type": "mivzakim",
+   "updated_ms": 1793016978000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-271e254f02871a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18142_26102026121435/M_NEWS_18142_26102026121435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-29a70f0587171a1026.htm": {
    "author": "מבזקים",
