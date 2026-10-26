@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793006549569,
+ "last_run_ms": 1793006850567,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17993,6 +17993,18 @@
    "section": "",
    "title": "אחרי הסערה: מלי לוי שוב בהלבשה תחתונה"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-67f1488605771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793006787433,
+   "content_type": "article",
+   "first_seen_ms": 1793006787433,
+   "indexable": true,
+   "indexnow_ms": 1793006787433,
+   "published_ms": 1793006520000,
+   "section": "סלבס",
+   "title": "\"זה שבר אותי. קיבלתי תמונה של איבר מין גברי\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-6835346ee0ab0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18471,7 +18483,7 @@
    "indexnow_ms": 1793003187251,
    "published_ms": 1793002920000,
    "section": "סלבס",
-   "title": "\"מסר ברור\": רותם סלע חושפת למי תצביע בבחירות"
+   "title": "רותם סלע לא משאירה מקום לספק: זה ראש הממשלה שלה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-aa03728ffded0a1027.htm": {
    "check_attempts": 1,
@@ -26343,7 +26355,7 @@
    "indexnow_ms": 1793004867384,
    "published_ms": 1793003460000,
    "section": "בריאות",
-   "title": "רחל התחננה לעזרה: \"אמא מתגרדת מכף רגל ועד ראש\""
+   "title": "התחננה לעזרה: \"אמא מתגרדת מכף רגל ועד ראש\""
   },
   "https://www.mako.co.il/health-news/Article-efd53f1be1361a1026.htm": {
    "check_attempts": 1,
@@ -38428,6 +38440,18 @@
    "published_ms": 1792870920000,
    "section": "קשת 12",
    "title": "והרי החדשות: זו הכוכבת שנחשפה ב\"הזמר במסכה\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-7f89c53e6e3d0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-7f89c53e6e3d0a1026.htm",
+   "checked_ms": 1793006787433,
+   "content_type": "article",
+   "first_seen_ms": 1793006787433,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792991400000,
+   "section": "הכי חם",
+   "title": "\"היא רגישה בטירוף, יש הרבה דמעות\""
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
    "check_attempts": 1,
