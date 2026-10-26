@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793004450061,
+ "last_run_ms": 1793004749653,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10639,6 +10639,18 @@
    "section": "ספורט",
    "title": "שש דקות לאחר שעלה: ונטורה נפצע והוחלף"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9c3ca54806771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793004749653,
+   "content_type": "article",
+   "first_seen_ms": 1793004749653,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793004300000,
+   "section": "ספורט",
+   "title": "\"מבחן גדול\". דריכות גדולה במכבי חיפה"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9d0c482082c01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -17008,6 +17020,18 @@
    "published_ms": 1791779460000,
    "section": "תרבות tvbee",
    "title": "בן אפלק חוזר לנטפליקס. חבל שהתוצאה משמימה"
+  },
+  "https://www.mako.co.il/culture-movies/reviews/Article-e5db75dd81771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793004627405,
+   "content_type": "article",
+   "first_seen_ms": 1793004627405,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793004240000,
+   "section": "תרבות tvbee",
+   "title": "הסאטירה של סשה ברון כהן כבר לא מתאימה ל-2026"
   },
   "https://www.mako.co.il/culture-tv/articles/Article-c75a4149b6ef091027.htm": {
    "check_attempts": 1,
