@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793005949570,
+ "last_run_ms": 1793006249603,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30051,7 +30051,7 @@
    "indexnow_ms": null,
    "published_ms": 1793001540000,
    "section": "עיצוב הבית",
-   "title": "הסיבה שהישראלים האלו תולים השבוע 350 קילו פירות בתקרה"
+   "title": "למה הישראלים האלו תולים 350 קילו פירות בתקרה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-6d378d6ffabe0a1027.htm": {
    "check_attempts": 1,
@@ -39772,6 +39772,18 @@
    "published_ms": 1792904400000,
    "section": "",
    "title": "הסתדרנו עם צהריים: 3 מתכוני פסטה בסיר אחד"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-6bbbb09f53771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793006187424,
+   "content_type": "article",
+   "first_seen_ms": 1793006187424,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793001540000,
+   "section": "",
+   "title": "הסיבה שהישראלים האלו תולים השבוע 350 קילו פירות בתקרה"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-73f357ee62951a1026.htm": {
    "check_attempts": 1,
