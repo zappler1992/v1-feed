@@ -553,8 +553,8 @@
   "https://www.v-1.co.il/60_seconds-magazine/2026-m08_w03/shorts-052746b5a16ff91026.htm": {
    "author": "60 שניות",
    "date_source": null,
-   "description": "עמית סגל הגיע לראיון מיוחד לקראת בחירות 2026 ב-60 שניות עם ליאל אלי: האם נתניהו ייבחר? גנץ יפרוש מהמירוץ? ומה יקרה כשהבן שלו יגיע לרגע בו הוא מצביע בקלפי",
-   "duration_s": 85,
+   "description": "עמית סגל הגיע לראיון מיוחד לקראת בחירות 2026 ב-60 שניות עם ליאל אלי: האם נתניהו ייבחר? גנץ יפרוש מהמירוץ? ומה יקרה כשהבן שלו יגיע לרגע בו הוא מצביע בקלפי /",
+   "duration_s": 81,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/08/12/Amit_AMIT2_60_M_1400_1786540768248_FirstFrame.jpg",
    "importance": 2,
@@ -567,7 +567,7 @@
    "type": "general",
    "updated_ms": null,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m08_w03/shorts-052746b5a16ff91026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/08/17/Amit_AMIT2_60_FIX/Amit_AMIT2_60_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Amit_AMITS_FIX/Amit_AMITS_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/60_seconds-magazine/2026-m08_w04/shorts-41b35f8878810a1026.htm": {
    "author": "60 שניות",
@@ -8492,15 +8492,15 @@
    "description": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
    "duration_s": 35,
    "first_seen_ms": 1792996946394,
-   "image": "https://img.mako.co.il/2026/10/26/SHIR_MAAYAN_261026_FIX_1400_1792996607192_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/26/SHIR_MAAYAN_261026_FIX1_1400_1792997070990_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792996506000,
    "sections": [],
    "title": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
    "type": "mivzakim",
-   "updated_ms": 1792996506000,
+   "updated_ms": 1792997100000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MAAYAN_261026_FIX/SHIR_MAAYAN_261026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MAAYAN_261026_FIX1/SHIR_MAAYAN_261026_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm": {
    "author": "מבזקי סלבס",
@@ -42414,7 +42414,7 @@
    ],
    "title": "לקראת פתיחת הקלפיות: המספרים החשובים של יום הבחירות",
    "type": "news",
-   "updated_ms": 1792995300000,
+   "updated_ms": 1792997160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-195e94e046471a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_NEWULPAN_251026/MASTER/MAYA_NEWULPAN_251026/MAYA_NEWULPAN_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -84576,7 +84576,8 @@
    "importance": 0,
    "published_ms": 1792988928000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "מהעולם"
    ],
    "title": "מיליונים חוגגים אחרי הבחירות בברזיל: מועמד הימין בולסונרו שטראמפ תמך בו הובס, הנשיא לולה ניצח",
    "type": "mivzakim",
