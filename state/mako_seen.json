@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793018249041,
+ "last_run_ms": 1793018548991,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32861,6 +32861,18 @@
    "section": "",
    "title": "לצמיתות: העונש למורה מהדרום שתקף באלימות את ילדיו"
   },
+  "https://www.mako.co.il/men-men_news/Article-1f839e4c23871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793018548991,
+   "content_type": "article",
+   "first_seen_ms": 1793018548991,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793018340000,
+   "section": "פלילים",
+   "title": "אחרי סגירת המסעדה ביפו: הבקשה של בעלי הזקן והים"
+  },
   "https://www.mako.co.il/men-men_news/Article-200738efdade0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37960,6 +37972,18 @@
    "published_ms": 1790506200000,
    "section": "מוזיקה",
    "title": "זה העונש שתקבל האיראנית שהופיעה ללא חיג'אב"
+  },
+  "https://www.mako.co.il/music-news/Article-8d1a9e4c23871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793018426959,
+   "content_type": "article",
+   "first_seen_ms": 1793018426959,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793018100000,
+   "section": "מוזיקה",
+   "title": "אחרי התקיפה האכזרית: זה העונש של כריס בראון"
   },
   "https://www.mako.co.il/music-news/Article-8e8e7ad674e31a1026.htm": {
    "check_attempts": 1,
