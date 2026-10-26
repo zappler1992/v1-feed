@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793022149063,
+ "last_run_ms": 1793022449006,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43624,6 +43624,18 @@
    "published_ms": 1792735500000,
    "section": "",
    "title": "התיעוד המקצועי - והחשד: נבדק אם צלם זר עודכן מראש"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-51ebfa4c4d771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793022387107,
+   "content_type": "article",
+   "first_seen_ms": 1793022387107,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793022060000,
+   "section": "צבא וביטחון",
+   "title": "המציאות משתנה? ההתנגדות שמרימה ראש בסוריה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-565b5b1bc43d0a1027.htm": {
    "check_attempts": 1,
