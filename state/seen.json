@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-e8b870ba9e371a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b44f08e37d671a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5920e2576e671a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8485,6 +8485,22 @@
    "updated_ms": 1792936920000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-0cc8067878271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_MIAMI_VICE_7740_25102026095956/V1_MIAMI_VICE_7740_25102026095956_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
+   "duration_s": 35,
+   "first_seen_ms": 1792996946394,
+   "image": "https://img.mako.co.il/2026/10/26/SHIR_MAAYAN_261026_FIX_1400_1792996607192_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792996506000,
+   "sections": [],
+   "title": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792996506000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MAAYAN_261026_FIX/SHIR_MAAYAN_261026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm": {
    "author": "מבזקי סלבס",
@@ -84567,6 +84583,24 @@
    "updated_ms": 1792988928000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5732644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_brasil1_7763_26102026042707/V1_brasil1_7763_26102026042707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5920e2576e671a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בית שמש: ילד בן 10 פונה במצב בינוני לאחר שנפגע בתאונת דרכים",
+   "duration_s": 9,
+   "first_seen_ms": 1792996946394,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18113_26102026063720_1400_1792996724862_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792996731000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בית שמש: ילד בן 10 פונה במצב בינוני לאחר שנפגע בתאונת דרכים",
+   "type": "mivzakim",
+   "updated_ms": 1792996731000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5920e2576e671a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18113_26102026063720/M_NEWS_18113_26102026063720_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5f4050e9f8171a1027.htm": {
    "author": "מבזקים",

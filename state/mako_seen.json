@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792996649399,
+ "last_run_ms": 1792996949392,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43612,6 +43612,18 @@
    "published_ms": 1791178680000,
    "section": "צבא וביטחון",
    "title": "בלי ירי טיל אחד: הסימנים שאיראן קרובה לשיא המשבר"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-e68a8ea25e671a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792996949392,
+   "content_type": "article",
+   "first_seen_ms": 1792996949392,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792996320000,
+   "section": "צבא וביטחון",
+   "title": "המהלך שיסיים את המלחמה הארוכה מעבר לים?"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-e79fe92ba8931a1026.htm": {
    "check_attempts": 1,
