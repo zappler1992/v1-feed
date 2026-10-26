@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-8f030269ad871a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b4ad0e0370971a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-fcd020c2be871a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6262,6 +6263,24 @@
    "updated_ms": 1793013840000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-efddab1bcb771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Kim_Reality_26102026/MASTER/Kim_Reality_26102026/Kim_Reality_26102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-fcd020c2be871a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "דניאל עמית חושפת בדמעות על התחושות לקראת הבחירות \"בנט התקשר אלי, מחר אני בוחרת בשינוי, בעתיד טוב יותר\".",
+   "duration_s": 62,
+   "first_seen_ms": 1793032346230,
+   "image": "https://img.mako.co.il/2026/10/26/MAYA_DANIELAMIT_261026_1400_1793031204263_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793031211000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "דניאל עמית רומזת למי היא הולכת להצביע",
+   "type": "general",
+   "updated_ms": 1793031211000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-fcd020c2be871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/MAYA_DANIELAMIT_261026/MASTER/MAYA_DANIELAMIT_261026/MAYA_DANIELAMIT_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -86441,6 +86460,24 @@
    "updated_ms": 1792995580000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b44f08e37d671a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18112_26102026061759/M_NEWS_18112_26102026061759_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b4ad0e0370971a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "כדי לאפשר ללוחמים לממש זכות הצבעה: קלפיות נפרסו בגזרות - כולל מעבר לגבול",
+   "duration_s": 9,
+   "first_seen_ms": 1793032346230,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18162_26102026042818_1400_1793032187267_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793032194000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "כדי לאפשר ללוחמים לממש זכות הצבעה: קלפיות נפרסו בגזרות - כולל מעבר לגבול",
+   "type": "mivzakim",
+   "updated_ms": 1793032194000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b4ad0e0370971a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18162_26102026042818/M_NEWS_18162_26102026042818_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85dd339a8371a1027.htm": {
    "author": "מבזקים",
