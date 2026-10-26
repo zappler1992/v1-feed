@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5920e2576e671a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bf58122940771a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e7e2010b5f671a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -553,7 +553,7 @@
   "https://www.v-1.co.il/60_seconds-magazine/2026-m08_w03/shorts-052746b5a16ff91026.htm": {
    "author": "60 שניות",
    "date_source": null,
-   "description": "עמית סגל הגיע לראיון מיוחד לקראת בחירות 2026 ב-60 שניות עם ליאל אלי: האם נתניהו ייבחר? גנץ יפרוש מהמירוץ? ומה יקרה כשהבן שלו יגיע לרגע בו הוא מצביע בקלפי /",
+   "description": "עמית סגל הגיע לראיון מיוחד לקראת בחירות 2026 ב-60 שניות עם ליאל אלי: האם נתניהו ייבחר? גנץ יפרוש מהמירוץ? ומה יקרה כשהבן שלו יגיע לרגע בו הוא מצביע בקלפי",
    "duration_s": 81,
    "first_seen_ms": 1789283085729,
    "image": "https://img.mako.co.il/2026/08/12/Amit_AMIT2_60_M_1400_1786540768248_FirstFrame.jpg",
@@ -17589,6 +17589,24 @@
    "updated_ms": 1792963020000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e59f1636c0571a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18104_25102026100334/M_Celebs_18104_25102026100334_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e7e2010b5f671a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בלוס אנג'לס התקיימה הלילה פרמיירת הסרט \"חתול תעלול\". ביל היידר והחתול שהוא מדבב לא פספסו",
+   "duration_s": 27,
+   "first_seen_ms": 1792998446425,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18114_26102026065624_1400_1792997879492_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792997886000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בלוס אנג'לס התקיימה הלילה פרמיירת הסרט \"חתול תעלול\". ביל היידר והחתול שהוא מדבב לא פספסו",
+   "type": "mivzakim",
+   "updated_ms": 1792997886000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e7e2010b5f671a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18114_26102026065624/M_Tarbut_18114_26102026065624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f618e669a7471a1027.htm": {
    "author": "עדכוני בידור",
@@ -85070,6 +85088,24 @@
    "updated_ms": 1792952648000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be6655dd33471a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18095_25102026062227/M_NEWS_18095_25102026062227_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bf58122940771a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עיריית תל אביב: חניה בכחול לבן בחינם ביום הבחירות, בנוסף שעה בחינם בחניוני \"אחוזות החוף\" בעיר.",
+   "duration_s": 9,
+   "first_seen_ms": 1792998446425,
+   "image": "https://img.mako.co.il/2026/10/26/V1_Stiv_tlvhanaya_7770_26102026070106_1400_1792998141927_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792998153000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עיריית תל אביב: חניה בכחול לבן בחינם ביום הבחירות, בנוסף שעה בחינם בחניוני \"אחוזות החוף\" בעיר.",
+   "type": "mivzakim",
+   "updated_ms": 1792998153000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bf58122940771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Stiv_tlvhanaya_7770_26102026070106/V1_Stiv_tlvhanaya_7770_26102026070106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c78b29035c671a1027.htm": {
    "author": "מבזקים",
