@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793001149751,
+ "last_run_ms": 1793001449545,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21603,7 +21603,7 @@
    "indexnow_ms": null,
    "published_ms": 1792987200000,
    "section": "כסף",
-   "title": "מה שאתם צריכים לעשות כדי להרוויח השבוע הרבה כסף"
+   "title": "אילו מניות יעשו הכי הרבה כסף השבוע?"
   },
   "https://www.mako.co.il/finances-news/Article-5b9373267b511a1027.htm": {
    "check_attempts": 1,
@@ -29477,6 +29477,18 @@
    "section": "הורים",
    "title": "שלוש שנים, חצי ק\"מ מעזה: \"כלום לא השתנה כאן\""
   },
+  "https://www.mako.co.il/home-family-relationship/Article-2092a90900771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793001387197,
+   "content_type": "article",
+   "first_seen_ms": 1793001387197,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792998900000,
+   "section": "הורים",
+   "title": "\"אל תוותרי גם אם אומרים לך שאת צעירה מדי\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-2c1a37abab931a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34060,6 +34072,18 @@
    "published_ms": 1792181820000,
    "section": "",
    "title": "המעצר הדרמטי בקולומביה - והונאת הענק של הישראלי בדובאי"
+  },
+  "https://www.mako.co.il/men-men_news/Article-7215a93142771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793001267198,
+   "content_type": "article",
+   "first_seen_ms": 1793001267198,
+   "indexable": true,
+   "indexnow_ms": 1793001267198,
+   "published_ms": 1793000760000,
+   "section": "",
+   "title": "חשד לרצח והתאבדות: שני גברים נורו למוות בתל אביב"
   },
   "https://www.mako.co.il/men-men_news/Article-7250bdf8669e0a1027.htm": {
    "check_attempts": 1,

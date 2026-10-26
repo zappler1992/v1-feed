@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0f749b8692771a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-26T07:54:18+00:00</news:publication_date>
+<news:title>דיווח ב-CNN: ישראל רצתה לתקוף באיראן בסוף השבוע, ארה״ב התנגדה והציעה מבצע משותף בהמשך</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/26/V1_karind_iran_7775_26102026075250_1400_1793001251608_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2042,14 +2051,5 @@
 <news:title>המתאבק האמריקאי המפורסם ריק פלייר התמוטט במסעדה בפלורידה - והובהל לבית החולים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/24/ric_fix_241026_1400_1792830614108_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/global-magazine/2026-m10_w04/shorts-b782b0233dc61a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-24T07:57:07+00:00</news:publication_date>
-<news:title>משוריינים ומסוקים: צרפת מתכוננת ליום נוסף של מהומות</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/24/alona_paris_m_2410206_1400_1792828620201_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
