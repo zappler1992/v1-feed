@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793006249603,
+ "last_run_ms": 1793006549569,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -40708,6 +40708,18 @@
    "published_ms": 1790669040000,
    "section": "דיגיטל",
    "title": "החברה שהפסידה 42 מיליארד ועדיין שווה 2 טריליון דולר"
+  },
+  "https://www.mako.co.il/nexter-news/Article-690da35477771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793006549569,
+   "content_type": "article",
+   "first_seen_ms": 1793006549569,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793005800000,
+   "section": "דיגיטל",
+   "title": "תקדים מסוכן: מטעם אלביס תובעים את חברת ה-AI"
   },
   "https://www.mako.co.il/nexter-news/Article-6b9fb9b55ab11a1026.htm": {
    "check_attempts": 1,
