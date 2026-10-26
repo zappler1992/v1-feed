@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793042849392,
+ "last_run_ms": 1793043149346,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10927,6 +10927,18 @@
    "section": "ספורט",
    "title": "אוהדי מכבי חיפה לא ממהרים להגיע לטדי"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a48bc9b5aa971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793043149346,
+   "content_type": "article",
+   "first_seen_ms": 1793043149346,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793042880000,
+   "section": "ספורט",
+   "title": "בלתי נתפס: המאזן של ברק בכר מול הגדולות"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a54a4913b9f01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -11586,6 +11598,18 @@
    "published_ms": 1792293900000,
    "section": "ספורט",
    "title": "הסיבה שסתיו טוריאל לא פתח מול טבריה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d49bc9b5aa971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793043149346,
+   "content_type": "article",
+   "first_seen_ms": 1793043149346,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793042820000,
+   "section": "ספורט",
+   "title": "לפני הסיום: אוהדי חיפה נטשו את סמי עופר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d54a81288a541a1026.htm": {
    "check_attempts": 1,
@@ -17836,6 +17860,18 @@
    "published_ms": 1790347080000,
    "section": "סלבס",
    "title": "\"עשיתי התרת קללות ונדרים, התפללתי\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-288f15b558971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793043149346,
+   "content_type": "article",
+   "first_seen_ms": 1793043149346,
+   "indexable": true,
+   "indexnow_ms": 1793043149346,
+   "published_ms": 1793040300000,
+   "section": "",
+   "title": "דניאל עמית חושפת: \"בנט התקשר, ואמר שלא קל לו\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-29394cb5e38f0a1027.htm": {
    "check_attempts": 1,
