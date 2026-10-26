@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793001449545,
+ "last_run_ms": 1793001749583,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29453,6 +29453,18 @@
    "section": "",
    "title": "אלעזר יאיר וילנסקי הוא ההרוג באסון הנפל"
   },
+  "https://www.mako.co.il/home-family-kids/Article-f36534c1f1771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793001627184,
+   "content_type": "article",
+   "first_seen_ms": 1793001627184,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793000220000,
+   "section": "הורים",
+   "title": "\"המדינה חייבת להנגיש קלפיות לבעלי מוגבליות\""
+  },
   "https://www.mako.co.il/home-family-kids/Article-f90023bfed701a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -29967,7 +29979,7 @@
    "indexnow_ms": 1792990049652,
    "published_ms": 1792989900000,
    "section": "",
-   "title": "עלו לארץ בגיל מפתיע - והפכו דירה ישנה למשהו מטורף"
+   "title": "מואר ואלגנטי: הבית של הרב והרבנית בירושלים"
   },
   "https://www.mako.co.il/living-architecture/local/Article-7b74a01a43851a1026.htm": {
    "check_attempts": 1,
@@ -34083,7 +34095,7 @@
    "indexnow_ms": 1793001267198,
    "published_ms": 1793000760000,
    "section": "",
-   "title": "חשד לרצח והתאבדות: שני גברים נורו למוות בתל אביב"
+   "title": "חשד לרצח והתאבדות בת\"א: ירה בגבר כבן 60 - ושם קץ לחייו"
   },
   "https://www.mako.co.il/men-men_news/Article-7250bdf8669e0a1027.htm": {
    "check_attempts": 1,
@@ -44379,7 +44391,7 @@
    "indexnow_ms": null,
    "published_ms": 1792953000000,
    "section": "חדשות",
-   "title": "תקיפה באיראן תוכננה לפני הבחירות? ההצהרה של שר הביטחון"
+   "title": "יממה לפתיחת הקלפיות: טראמפ במהלך נוסף למען נתניהו"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-e2daadfe83b51a1026.htm": {
    "check_attempts": 3,
