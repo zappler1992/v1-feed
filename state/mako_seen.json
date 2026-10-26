@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793039249300,
+ "last_run_ms": 1793039549247,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9774,6 +9774,18 @@
    "published_ms": 1792265880000,
    "section": "ספורט",
    "title": "\"הגודל של המועדון קובע את התוצאה?!\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-48cca1a707971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793039549247,
+   "content_type": "article",
+   "first_seen_ms": 1793039549247,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793039220000,
+   "section": "ספורט",
+   "title": "לפי שופט AI: אזולאי היה צריך לקבל אדום?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4bf47e962ee61a1026.htm": {
    "check_attempts": 1,
@@ -41993,6 +42005,18 @@
    "section": "",
    "title": "ההודעה המלחיצה שקיבלו משתמשי אסוס"
   },
+  "https://www.mako.co.il/nexter-news/Article-c0cba1a707971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793039549247,
+   "content_type": "article",
+   "first_seen_ms": 1793039549247,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793039220000,
+   "section": "",
+   "title": "ההצעה של מיקרוסופט לעובדיה הפתיעה גם אותנו"
+  },
   "https://www.mako.co.il/nexter-news/Article-c163261724261a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -52129,7 +52153,7 @@
    "indexnow_ms": null,
    "published_ms": 1793029200000,
    "section": "קשת 12",
-   "title": "רשימת האקסים של בר מפוארת, אך וידוי אחד הסביר הכל"
+   "title": "בר רפאלי מודה: \"יש לי חולשה לקרחים\""
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-555abec92d861a1026.htm": {
    "check_attempts": 1,
