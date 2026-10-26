@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793003549400,
+ "last_run_ms": 1793003849410,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29980,6 +29980,18 @@
    "published_ms": 1791444120000,
    "section": "עיצוב הבית",
    "title": "\"יותר ירושלמית מירושלמית\": מזהים מי בתמונה?"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-6bbbb09f53771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793003787286,
+   "content_type": "article",
+   "first_seen_ms": 1793003787286,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793001540000,
+   "section": "עיצוב הבית",
+   "title": "למה הישראלים האלו תולים 350 קילו פירות בתקרה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-6d378d6ffabe0a1027.htm": {
    "check_attempts": 1,

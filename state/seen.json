@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-554e241de2771a1026.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-586395af41771a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-99e6c5c0f4771a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9189b04965771a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8534,7 +8533,9 @@
    "image": "https://img.mako.co.il/2026/10/26/SHIR_MAAYAN_261026_FIX1_1400_1792997070990_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1792996506000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מעיין אדם חושפת: זאת המפלגה שאצביע לה בבחירות",
    "type": "mivzakim",
    "updated_ms": 1792997100000,
@@ -8551,7 +8552,8 @@
    "importance": 2,
    "published_ms": 1792994071000,
    "sections": [
-    "חדשות מהמסך"
+    "חדשות מהמסך",
+    "הכי נצפים עכשיו"
    ],
    "title": "אריק באוזה, המדבב זוכה האמי שהיה קולם של באגס באני ודאפי דאק ב\"לוני טונס\", הלך לעולמו בגיל 46",
    "type": "mivzakim",
@@ -85025,6 +85027,42 @@
    "updated_ms": 1792941866000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8800dd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_DRUZIM_7752_25102026032256/V1_KARIND_DRUZIM_7752_25102026032256_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9189b04965771a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד קשה לצפיה: זירת המוות הכפול בתל אביב, המשטרה חושדת - בן 60 ירה באחיו והתאבד",
+   "duration_s": 7,
+   "first_seen_ms": 1793003846519,
+   "image": "https://img.mako.co.il/2026/10/26/V1_Gufa_7778_26102026083205_1400_1793003595036_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793003602000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד קשה לצפיה: זירת המוות הכפול בתל אביב, המשטרה חושדת - בן 60 ירה באחיו והתאבד",
+   "type": "mivzakim",
+   "updated_ms": 1793003602000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9189b04965771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Gufa_7778_26102026083205/V1_Gufa_7778_26102026083205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-99e6c5c0f4771a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סיבובים מסוכנים באמצע הכביש: המשטרה עצרה חשודים משיירת חתונה בפוריידיס שסיכנו עוברי אורח",
+   "duration_s": 55,
+   "first_seen_ms": 1793003846519,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_purdis_7779_26102026083206_1400_1793003623291_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793003630000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סיבובים מסוכנים באמצע הכביש: המשטרה עצרה חשודים משיירת חתונה בפוריידיס שסיכנו עוברי אורח",
+   "type": "mivzakim",
+   "updated_ms": 1793003630000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-99e6c5c0f4771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_purdis_7779_26102026083206/V1_karind_purdis_7779_26102026083206_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm": {
    "author": "מבזקים",
