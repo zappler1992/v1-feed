@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793033849181,
+ "last_run_ms": 1793034149438,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11046,6 +11046,18 @@
    "published_ms": 1792438140000,
    "section": "ספורט",
    "title": "\"כאילו כבש שלושער\". המופע של קראבלי"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ae9fa77391971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793034149438,
+   "content_type": "article",
+   "first_seen_ms": 1793034149438,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793033880000,
+   "section": "ספורט",
+   "title": "בהפועל פ\"ת תקפו: \"זה לא מתקבל על הדעת\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b0feefa446261a1026.htm": {
    "check_attempts": 1,
@@ -52058,6 +52070,18 @@
    "published_ms": 1792665060000,
    "section": "קשת 12",
    "title": "שחר חסון: \"בעיקר ניסיתי להכשיל אותם\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-4c6c0269ad871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793034026777,
+   "content_type": "article",
+   "first_seen_ms": 1793034026777,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793029200000,
+   "section": "קשת 12",
+   "title": "בר רפאלי מודה: \"יש לי חולשה לקרחים\""
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-555abec92d861a1026.htm": {
    "check_attempts": 1,
