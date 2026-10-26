@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1792998449363,
+ "last_run_ms": 1792998749338,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10686,6 +10686,18 @@
    "published_ms": 1791658920000,
    "section": "ספורט",
    "title": "מה אומר התקנון בנוגע ל-12 שחקנים?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9f9ca90900771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792998749338,
+   "content_type": "article",
+   "first_seen_ms": 1792998749338,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792998540000,
+   "section": "ספורט",
+   "title": "העונשים האפשריים לבית\"ר על פריצת האוהדים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a0ce4216fba41a1026.htm": {
    "check_attempts": 1,
@@ -22023,7 +22035,7 @@
    "indexnow_ms": null,
    "published_ms": 1792940520000,
    "section": "כסף",
-   "title": "בתחום מפתיע: האיום של המדינה השכנה על ישראל"
+   "title": "מאגר גז חדש במצרים: כמה תשובה צריך לדאוג?"
   },
   "https://www.mako.co.il/finances-news/Article-ed88e66981101a1027.htm": {
    "check_attempts": 1,
@@ -24940,6 +24952,18 @@
    "published_ms": 1792338060000,
    "section": "",
    "title": "טרגדיה: בן 5 שרכב על קורקינט נדרס למוות"
+  },
+  "https://www.mako.co.il/health-news/Article-0d18e2576e671a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1792998627027,
+   "content_type": "article",
+   "first_seen_ms": 1792998627027,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792996140000,
+   "section": "בריאות",
+   "title": "נדב התמוטט באימון - וגילה שהוא בסכנת חיים"
   },
   "https://www.mako.co.il/health-news/Article-110bd36df8261a1027.htm": {
    "check_attempts": 1,
@@ -48134,6 +48158,18 @@
    "published_ms": 1792052820000,
    "section": "חופש",
    "title": "\"תעזרו לי להציל את העסק\": תמך בצה\"ל - וחטף"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-98b1010b5f671a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1792998627027,
+   "content_type": "article",
+   "first_seen_ms": 1792998627027,
+   "indexable": true,
+   "indexnow_ms": 1792998627027,
+   "published_ms": 1792997640000,
+   "section": "חופש",
+   "title": "סימס לחבר שלו: \"אני הולך לחטוף את המטוס\""
   },
   "https://www.mako.co.il/travel-news/international/Article-98d977a23c831a1027.htm": {
    "check_attempts": 1,
