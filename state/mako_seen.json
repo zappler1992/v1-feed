@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793044649484,
+ "last_run_ms": 1793044949514,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12114,6 +12114,18 @@
    "published_ms": 1792926900000,
    "section": "ספורט",
    "title": "קוז`וך: ונטורה ופרץ מחוץ לסגל ב\"ש לחיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-efab6a965c971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793044949514,
+   "content_type": "article",
+   "first_seen_ms": 1793044949514,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793044560000,
+   "section": "ספורט",
+   "title": "\"היה פה שחמט של רן קוז`וך לברק בכר\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-efc0a60531e41a1027.htm": {
    "check_attempts": 1,
@@ -46670,6 +46682,18 @@
    "published_ms": 1792006860000,
    "section": "",
    "title": "ראשי מערכת הביטחון לפני 7.10 סתרו את נתניהו"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b0bb15b558971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-b0bb15b558971a1027.htm",
+   "checked_ms": 1793044827129,
+   "content_type": "article",
+   "first_seen_ms": 1793044827129,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793042100000,
+   "section": "",
+   "title": "כך נכשל הניסיון של נתניהו לגרום לווינטר לפרוש"
   },
   "https://www.mako.co.il/special-mako-news/Article-b1e2c489b3b01a1027.htm": {
    "check_attempts": 1,
