@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793000549492,
+ "last_run_ms": 1793000849369,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1796,6 +1796,18 @@
    "published_ms": 1792172520000,
    "section": "ספורט",
    "title": "כך מכבי עזרה לבראון להתאקלם בהפועל י-ם"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-11bc9b8692771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793000787149,
+   "content_type": "article",
+   "first_seen_ms": 1793000787149,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793000460000,
+   "section": "ספורט",
+   "title": "לצד נדוביץ`: קיליאן הייז מועמד למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-16ef50aaa8051a1027.htm": {
    "check_attempts": 1,
@@ -20765,6 +20777,18 @@
    "section": "משפט",
    "title": "ויתר על כל הרכוש כדי להציל את הנישואים"
   },
+  "https://www.mako.co.il/finances-law/family-law/Article-d389a93142771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793000667132,
+   "content_type": "article",
+   "first_seen_ms": 1793000667132,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793000340000,
+   "section": "משפט",
+   "title": "התגרשה מבעל אלים – ותפוצה במאות אלפי שקלים"
+  },
   "https://www.mako.co.il/finances-law/family-law/Article-fb90eba9d4dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20836,6 +20860,18 @@
    "published_ms": 1792404360000,
    "section": "משפט",
    "title": "נפגע במשחק תופסת בבית הספר ויפוצה ב-400 אלף"
+  },
+  "https://www.mako.co.il/finances-law/law-general/Article-1b07200cd0771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793000667132,
+   "content_type": "article",
+   "first_seen_ms": 1793000667132,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1792999440000,
+   "section": "משפט",
+   "title": "ירשו מניות מאביהם – הדודים השתלטו על החברות"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-2922dae57ae41a1027.htm": {
    "check_attempts": 1,
