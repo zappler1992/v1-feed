@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-74f6cea538771a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d846b68c1dd51a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-ce93d74eb0371a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-12f2a067a8771a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1245,6 +1248,24 @@
    "updated_ms": 1792681200000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-f863e92e48261a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/ACADEMY_OF_LIES_EP17/MASTER/ACADEMY_OF_LIES_EP17/ACADEMY_OF_LIES_EP17_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 20: אשלי בטוחה שהשם של אוליביה יסדר לה גם את הסולו וגם את ג׳אד, אבל הוא מבהיר מול כולם שהוא רוצה להופיע עם מיה. גם כשהמורה מתעקשת, ג׳אד לא מתקפל: בלי מיה, הוא לא עולה לבמה. המורה נכנעת, ואשלי הזועמת מאיימת על מיה שתחשוף בפני כל הכיתה מי היא באמת.\nPowered by Spikes",
+   "duration_s": 101,
+   "first_seen_ms": 1793007746648,
+   "image": "https://img.mako.co.il/2026/10/26/ACADEMY_OF_LIES_EP20_1400_1793002158724_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793007420000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "בקצב השקר פרק 20: מאיימת לחשוף את הסוד",
+   "type": "series",
+   "updated_ms": 1793007420000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP20/MASTER/ACADEMY_OF_LIES_EP20/ACADEMY_OF_LIES_EP20_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -30132,6 +30153,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP69/MASTER/LOADED_EP69/LOADED_EP69_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-ce93d74eb0371a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 70: אביגיל מגשימה לגיא את חלום השיער עם פאה, והבילוי שלהם הופך להצגה קטנה על חשבון העוברים והשבים. בינתיים מיכאל יוצא ממשחק הפוקר עם מזמרה, וארז בטוח שהמנצחים עומדים לשלם באצבעות ומנסה לשכנע את תומר וברלד לברוח. תומר חושב שהוא חי בסרט, וברלד מצליח לצאת מכל סיפורי הזוועה האלה בעיקר עם חשק לכבש ולאבנה.\nPowered by Spikes",
+   "duration_s": 148,
+   "first_seen_ms": 1793007746648,
+   "image": "https://img.mako.co.il/2026/10/25/LOADED_EP70_1400_1792932192720_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793007480000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "מסודרים פרק 70: מחליף את הקרחת בשיער",
+   "type": "series",
+   "updated_ms": 1793007480000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-ce93d74eb0371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP70/MASTER/LOADED_EP70/LOADED_EP70_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m08_w02/shorts-19df8d839c2cf91026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -30804,6 +30843,24 @@
    "updated_ms": 1792486020000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d0cc0e1890f41a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/18/LOVE_CORNER_EP34_2/MASTER/LOVE_CORNER_EP34_M_2/LOVE_CORNER_EP34_M_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d846b68c1dd51a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 39: אלונה מתעקשת שהנשיקה עם ליאור הייתה חד-פעמית וחסרת משמעות, אבל שירלי לא קונה את ההסברים. במקביל, עודד מספר לאמנון שליאור מאוהב באחרת, ואמנון ממהר להתערב בניסיון להציל את הקשר עם עדן. דניאלה מנסה לעודד את אלונה אחרי הביקור בפיצרייה, אבל החשש מהחובות לא נותן לה להאמין שיהיה בסדר.",
+   "duration_s": 141,
+   "first_seen_ms": 1793007746648,
+   "image": "https://img.mako.co.il/2026/10/21/LOVE_CORNER_EP39_M_1400_1792576155638_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793007360000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "אהבה מעבר לפינה פרק 39: אבא מתערב באהבה",
+   "type": "series",
+   "updated_ms": 1793007360000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d846b68c1dd51a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/LOVE_CORNER_EP39/MASTER/LOVE_CORNER_EP39_M/LOVE_CORNER_EP39_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-d991ffd624951a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -86396,10 +86453,12 @@
    "image": "https://img.mako.co.il/2026/10/25/POLISHUK_EP20_1400_1792946125797_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1792946135000,
-   "sections": [],
+   "sections": [
+    "הפרק היומי"
+   ],
    "title": "פולישוק פרק 20: השר מוצא מנכ\"ל חדש",
    "type": "series",
-   "updated_ms": 1792946135000,
+   "updated_ms": 1793007420000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-e8b870ba9e371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/POLISHUK_EP20/MASTER/POLISHUK_EP20/POLISHUK_EP20_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -87324,6 +87383,24 @@
    "updated_ms": 1792480156000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w04/shorts-f8889a6142851a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_17741_20102026070804/M_Food_17741_20102026070804_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-12f2a067a8771a1027.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "\"סילקו אותי ממעל ל-5 מפעלים, אמרו שאני לא נורמלי\"",
+   "duration_s": 64,
+   "first_seen_ms": 1793007746648,
+   "image": "https://img.mako.co.il/2026/10/26/M_Food_18131_26102026093427_1400_1793007376311_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793007388000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "\"סילקו אותי ממעל ל-5 מפעלים, אמרו שאני לא נורמלי\"",
+   "type": "mivzakim",
+   "updated_ms": 1793007388000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-12f2a067a8771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18131_26102026093427/M_Food_18131_26102026093427_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm": {
    "author": "מתכונים",
