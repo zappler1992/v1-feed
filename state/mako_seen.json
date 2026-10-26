@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793014048638,
+ "last_run_ms": 1793014348689,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3044,6 +3044,18 @@
    "published_ms": 1792724700000,
    "section": "ספורט",
    "title": "פילדלפיה מחקה 29 הפרש וניצחה את קליבלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-b2b2e8f01c771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793014348689,
+   "content_type": "article",
+   "first_seen_ms": 1793014348689,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793011320000,
+   "section": "ספורט",
+   "title": "כוכב טורונטו מציג: המשחק הגרוע בהיסטוריה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-b2c3ccfc55b21a1027.htm": {
    "check_attempts": 1,
