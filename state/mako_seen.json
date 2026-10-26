@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793003849410,
+ "last_run_ms": 1793004149617,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24353,6 +24353,18 @@
    "section": "",
    "title": "כמה חיכינו: סלסילת הלחם החינמית חוזרת לבנדיקט"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-7558a4b27f171a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793004027306,
+   "content_type": "article",
+   "first_seen_ms": 1793004027306,
+   "indexable": true,
+   "indexnow_ms": 1793004027306,
+   "published_ms": 1793003400000,
+   "section": "",
+   "title": "הקונדיטוריה שהסתתרה בחצר ביקנעם מגיעה לחדרה"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-7621b23025fa0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34469,6 +34481,18 @@
    "section": "פלילים",
    "title": "\"אני מכירה את המשפחה שלך, יודעת איפה את גרה\""
   },
+  "https://www.mako.co.il/men-men_news/Article-7cb2c5c0f4771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793004149617,
+   "content_type": "article",
+   "first_seen_ms": 1793004149617,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793003460000,
+   "section": "פלילים",
+   "title": "ישראלי נעצר בתאילנד: \"סימם נשים שהכיר באפליקציה\""
+  },
   "https://www.mako.co.il/men-men_news/Article-7d7bece255b11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43625,6 +43649,18 @@
    "section": "צבא וביטחון",
    "title": "גל נוסף? האזהרה לאיראן - וההיערכות החריגה"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-b3b8c295e3771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793004027306,
+   "content_type": "article",
+   "first_seen_ms": 1793004027306,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793003160000,
+   "section": "צבא וביטחון",
+   "title": "הפער בין התמונה שמציג נתניהו למערכת הביטחון"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-b415e7ac45041a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43923,7 +43959,7 @@
    "indexnow_ms": null,
    "published_ms": 1792996320000,
    "section": "צבא וביטחון",
-   "title": "המהלך שיסיים את המלחמה הארוכה מעבר לים?"
+   "title": "המועד שבו יוכרע עתיד זירה מהמשפיעות בעולם"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-e79fe92ba8931a1026.htm": {
    "check_attempts": 1,
@@ -44487,7 +44523,7 @@
    "indexnow_ms": null,
    "published_ms": 1792953000000,
    "section": "חדשות",
-   "title": "ישראל רצתה לתקוף, בארה\"ב עצרו וכבר תכננו משהו גדול"
+   "title": "יממה לפתיחת הקלפיות: טראמפ במהלך נוסף למען נתניהו"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-e2daadfe83b51a1026.htm": {
    "check_attempts": 3,
