@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-9072a1a707971a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be4b750109971a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43771,7 +43771,8 @@
    "importance": 2,
    "published_ms": 1793022477000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "הנוסע התמוטט בטיסה: והישראלים שנרתמו לעזרה",
    "type": "news",
@@ -85661,7 +85662,8 @@
    "importance": 0,
    "published_ms": 1793038736000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "מה הפעולה באיראן שהרמטכ\"ל התנגד אליה - ומה יקרה לו אם נתניהו ייבחר",
    "type": "mivzakim",
@@ -86732,6 +86734,24 @@
    "updated_ms": 1792933980000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bd95011d02371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_grunis_7745_25102026010301/V1_grunis_7745_25102026010301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be4b750109971a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אש מתפשטת באזור: שריפה פרצה במרכז הקניות ביג גלילות ברמת השרון",
+   "duration_s": 9,
+   "first_seen_ms": 1793041346388,
+   "image": "https://img.mako.co.il/2026/10/26/V1_FIRE_7795_26102026065523_1400_1793041013847_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793041020000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אש מתפשטת באזור: שריפה פרצה במרכז הקניות ביג גלילות ברמת השרון",
+   "type": "mivzakim",
+   "updated_ms": 1793041020000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be4b750109971a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_FIRE_7795_26102026065523/V1_FIRE_7795_26102026065523_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be6655dd33471a1027.htm": {
    "author": "מבזקים",
@@ -88586,11 +88606,11 @@
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-12f2a067a8771a1027.htm": {
    "author": "מתכונים",
    "date_source": "json-publishDate",
-   "description": "\"סילקו אותי ממעל ל-5 מפעלים, אמרו שאני לא נורמלי\"",
+   "description": "רגע לפני הקורונה היו לרובי מיכאל 4 עסקים ויותר מ-100 עובדים. סרטון שהעלה לטיקטוק הגיע למיליון צפיות ושינה לו את הקריירה. בפודקאסט mako Eats הוא מספר על הכסף שאבד, הפרידה מבת הזוג והחזרה אליה, הסיבה שהוא לא מתכוון לחזור למסעדנות וכמובן על קובה",
    "duration_s": 64,
    "first_seen_ms": 1793007746648,
    "image": "https://img.mako.co.il/2026/10/26/M_Food_18131_26102026093427_1400_1793007376311_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793007388000,
    "sections": [
     "אוכל ומתכונים"
@@ -99319,7 +99339,8 @@
    "importance": 2,
    "published_ms": 1793020440000,
    "sections": [
-    "מVינים חדשות"
+    "מVינים חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "כמה מנדטים שווה סטורי: הסלבס בוחרים",
    "type": "general",

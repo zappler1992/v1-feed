@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be4b750109971a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-26T18:57:00+00:00</news:publication_date>
+<news:title>אש מתפשטת באזור: שריפה פרצה במרכז הקניות ביג גלילות ברמת השרון</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/26/V1_FIRE_7795_26102026065523_1400_1793041013847_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-9072a1a707971a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2357,14 +2366,5 @@
 <news:title>&quot;מאחורי כל הקליפות מסתתר חיוך ענק&quot;: הכירו את הבצל</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/24/M_Tarbut_18029_24102026071334_1400_1792869348762_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w04/shorts-7ce0c4fef3f61a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-24T19:01:08+00:00</news:publication_date>
-<news:title>השקיעה: סרטון החתונה של ישי סוויסה ושיר הדס מאיר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/24/M_Celebs_18028_24102026065711_1400_1792868462193_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
