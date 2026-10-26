@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e91c3ef30571a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e59f1636c0571a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-195e94e046471a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-bd9d06bf8d471a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6076,6 +6074,24 @@
    "updated_ms": 1792945364000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4f81dff07d371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_CELEBS_251026_FIX/MAYA_CELEBS_251026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-bd9d06bf8d471a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "טום בריידי יוצא עם דוגמנית העל קנדיס סוונפול. מאז גירושיו מדוגמנית העל ג'יזל בונדשן ב-2022, בריידי שמר על חייו האישיים בפרטיות, אך עכשיו מדווחים על זוגיות שהתחילה בין השניים.",
+   "duration_s": 23,
+   "first_seen_ms": 1792985846319,
+   "image": "https://img.mako.co.il/2026/10/25/MAYA_TOM_251026_1400_1792962097254_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1792962103000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "המחליפה של ג'יזל: זאת דוגמנית העל החדשה של טום בריידי",
+   "type": "general",
+   "updated_ms": 1792962103000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-bd9d06bf8d471a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_TOM_251026/MASTER/MAYA_TOM_251026/MAYA_TOM_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-ca3cd7aad6371a1026.htm": {
    "author": "סלבס",
@@ -24446,7 +24462,8 @@
    "importance": 1,
    "published_ms": 1792961356000,
    "sections": [
-    "חדשות אמריקה"
+    "חדשות אמריקה",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"חתיכת ת*ת שווה\": ההערה הגסה של טראמפ לניקי מינאז'",
    "type": "general",
@@ -42431,7 +42448,8 @@
    "importance": 0,
    "published_ms": 1792958331000,
    "sections": [
-    "רק בישראל"
+    "רק בישראל",
+    "הכי נצפים עכשיו"
    ],
    "title": "השתוללו מול הניידות ותיעדו לרשת: מרדף אחרי נערים על אופניים בחולון",
    "type": "news",
