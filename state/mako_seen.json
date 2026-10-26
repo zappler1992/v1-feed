@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793023048944,
+ "last_run_ms": 1793023348984,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11167,6 +11167,18 @@
    "section": "ספורט",
    "title": "\"הם פנו\": תשובת עידן עופר על רכישת חיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-be682e9c08871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793023348984,
+   "content_type": "article",
+   "first_seen_ms": 1793023348984,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793023020000,
+   "section": "ספורט",
+   "title": "יצא 10: ההשפעה של ברוניניו על מכבי חיפה"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-bee48b393a771a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -21627,7 +21639,7 @@
    "indexnow_ms": 1793012667572,
    "published_ms": 1793010600000,
    "section": "",
-   "title": "56% לאיזנקוט: שוק ההימורים חוזה החלפת שלטון"
+   "title": "54 מיליון דולר על הכף: בעולם בטוחים מי יהיה ראש הממשלה"
   },
   "https://www.mako.co.il/finances-news/Article-23da95475ea11a1026.htm": {
    "check_attempts": 1,
@@ -24603,7 +24615,7 @@
    "indexnow_ms": 1793004027306,
    "published_ms": 1793003400000,
    "section": "",
-   "title": "הקרואסונים ששיגעו את הצפון מגיעים קצת יותר קרוב למרכז"
+   "title": "הקונדיטוריה שהסתתרה בחצר ביקנעם מגיעה לחדרה"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-7621b23025fa0a1027.htm": {
    "check_attempts": 1,
@@ -30363,7 +30375,7 @@
    "indexnow_ms": 1792990049652,
    "published_ms": 1792989900000,
    "section": "",
-   "title": "עלו לארץ בגיל מפתיע והפכו דירה מוזנחת לפנינה"
+   "title": "מואר ואלגנטי: הבית של הרב והרבנית בירושלים"
   },
   "https://www.mako.co.il/living-architecture/local/Article-7b74a01a43851a1026.htm": {
    "check_attempts": 1,
@@ -36051,7 +36063,7 @@
    "indexnow_ms": null,
    "published_ms": 1793021700000,
    "section": "פלילים",
-   "title": "100 ק\"ג קריסטל מת' נתפסו במעבדה שהוקמה במשק"
+   "title": "\"אחת הגדולות אי-פעם\": גם השוטרים נדהמו ממה שתפסו"
   },
   "https://www.mako.co.il/men-men_news/Article-ba16a03e1a031a1026.htm": {
    "check_attempts": 1,
@@ -47078,6 +47090,18 @@
    "published_ms": 1791457200000,
    "section": "SENSES",
    "title": "בלב המדבר: המחווה המרגשת לשורדי הנובה"
+  },
+  "https://www.mako.co.il/special-senses/coltura/Article-ec249e4c23871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793023227160,
+   "content_type": "article",
+   "first_seen_ms": 1793023227160,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793022900000,
+   "section": "SENSES",
+   "title": "האלווין בתל אביב עם הסרט ששיגע את העולם"
   },
   "https://www.mako.co.il/special-senses/future/Article-286778cee2e51a1026.htm": {
    "check_attempts": 1,
