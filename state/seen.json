@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-be4b750109971a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2acfd30219971a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -85598,6 +85598,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2a25644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18109_26102026044648/M_NEWS_18109_26102026044648_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2acfd30219971a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ברק פגע בעץ בצומת צמח - שריפה מטורפת משתוללת באזור",
+   "duration_s": 8,
+   "first_seen_ms": 1793041646312,
+   "image": "https://img.mako.co.il/2026/10/26/V1_BARAK_7796_26102026065850_1400_1793041204571_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793041213000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ברק פגע בעץ בצומת צמח - שריפה מטורפת משתוללת באזור",
+   "type": "mivzakim",
+   "updated_ms": 1793041213000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2acfd30219971a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_BARAK_7796_26102026065850/V1_BARAK_7796_26102026065850_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2f65bace48371a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85659,7 +85677,7 @@
    "duration_s": 107,
    "first_seen_ms": 1793038946323,
    "image": "https://img.mako.co.il/2026/10/26/V1_ZAMIR_7793_26102026061614_1400_1793038730085_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793038736000,
    "sections": [
     "מבזקים",

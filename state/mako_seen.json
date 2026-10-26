@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793041227030,
+ "last_run_ms": 1793041649299,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9751,6 +9751,18 @@
    "section": "ספורט",
    "title": "עומד למבחן: שאלת עתידו של מלמד בחיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-437cd30219971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793041587044,
+   "content_type": "article",
+   "first_seen_ms": 1793041587044,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793041140000,
+   "section": "ספורט",
+   "title": "\"צניחה חופשית\": מכבי חיפה נקטלת ברשתות"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-46e7bcc3b4761a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -11334,6 +11346,18 @@
    "published_ms": 1792252620000,
    "section": "ספורט",
    "title": "\"צריך לקבל 3 אדומים\": קרייב במוקד ברשת"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c713d30219971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793041587044,
+   "content_type": "article",
+   "first_seen_ms": 1793041587044,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793041500000,
+   "section": "ספורט",
+   "title": "מחזה נדיר: נתוני הפנדלים של מרציאנו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c773035f8ea41a1026.htm": {
    "check_attempts": 1,
@@ -24977,6 +25001,18 @@
    "section": "",
    "title": "הקינוח שכל פריז עומדת בשבילו בתור נחת בראשון לציון"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-d689750109971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793041587044,
+   "content_type": "article",
+   "first_seen_ms": 1793041587044,
+   "indexable": true,
+   "indexnow_ms": 1793041587044,
+   "published_ms": 1793040900000,
+   "section": "",
+   "title": "מסעדה נוספת לרשת המצליחה - על שטח עצום"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-f35db9a5ea2f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33940,6 +33976,18 @@
    "published_ms": 1791362280000,
    "section": "פלילים",
    "title": "בשל סכסוך עם אישה: העבריין נעצר בחשד להצתה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-4588c8d063871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793041587044,
+   "content_type": "article",
+   "first_seen_ms": 1793041587044,
+   "indexable": true,
+   "indexnow_ms": 1793041587044,
+   "published_ms": 1793072160000,
+   "section": "פלילים",
+   "title": "ראש ארגון הפשע ישוחרר אחרי 17 שנה בכלא"
   },
   "https://www.mako.co.il/men-men_news/Article-45eedf5f4c261a1026.htm": {
    "check_attempts": 1,
