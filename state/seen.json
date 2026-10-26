@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ad81642ae6871a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ef13f0df69871a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a821f0df69871a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -800,7 +801,8 @@
    "importance": 1,
    "published_ms": 1792681200000,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם גדי איזנקוט: מהדורת בחירות",
    "type": "general",
@@ -819,7 +821,8 @@
    "published_ms": 1792587180000,
    "sections": [
     "60 שניות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "בחירות 2026"
    ],
    "title": "60 שניות עם עופר וינטר",
    "type": "general",
@@ -17779,6 +17782,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a323d3b509471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18099_25102026074939/M_Tarbut_18099_25102026074939_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a821f0df69871a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אבי נוסבאום מגיע ל\"הזמר במסכה\" ובר רפאלי מודה: \"יש לי חולשה לקירחים\"",
+   "duration_s": 68,
+   "first_seen_ms": 1793025446033,
+   "image": "https://img.mako.co.il/2026/10/26/M_Tarbut_18151_26102026022927_1400_1793025074154_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793025081000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אבי נוסבאום מגיע ל\"הזמר במסכה\" ובר רפאלי מודה: \"יש לי חולשה לקירחים\"",
+   "type": "mivzakim",
+   "updated_ms": 1793025081000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a821f0df69871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18151_26102026022927/M_Tarbut_18151_26102026022927_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aa0745d408771a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -18048,6 +18069,24 @@
    "updated_ms": 1792997886000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e7e2010b5f671a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18114_26102026065624/M_Tarbut_18114_26102026065624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ef13f0df69871a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כשעדן ואנה מנסות לשיר ביחד ולא ממש מצליחות",
+   "duration_s": 22,
+   "first_seen_ms": 1793025446033,
+   "image": "https://img.mako.co.il/2026/10/26/M_Music_18152_26102026023135_1400_1793025164430_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793025172000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כשעדן ואנה מנסות לשיר ביחד ולא ממש מצליחות",
+   "type": "mivzakim",
+   "updated_ms": 1793025172000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ef13f0df69871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18152_26102026023135/M_Music_18152_26102026023135_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f618e669a7471a1027.htm": {
    "author": "עדכוני בידור",
@@ -43277,7 +43316,9 @@
    "image": "https://img.mako.co.il/2026/10/26/Kim_Bibi_26102026_1400_1793022168752_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793022176000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "11 שנה אחרי \"הערבים נעים בכמויות\": נתניהו שוב מזהיר מפני השמאל",
    "type": "news",
    "updated_ms": 1793022176000,
