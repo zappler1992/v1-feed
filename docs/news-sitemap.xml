@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5ef823b98f971a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-26T20:49:45+00:00</news:publication_date>
+<news:title>ד&quot;ר גל גדות: הכוכבת הישראלית הבינלאומית קיבלה תואר לשם כבוד מאוניברסיטת בר אילן</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/26/V1_GAL3_7799_26102026084816_1400_1793047778638_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a7fb0a5dc971a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2240,14 +2249,5 @@
 <news:title>כשמישהו בקהל ביקש משירי מימון ואיתי לוי חתימה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/25/M_Tarbut_18042_24102026085857_1400_1792875639220_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w04/shorts-36f17b6cd9f61a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-24T20:50:20+00:00</news:publication_date>
-<news:title>טראמפ נשאל מתי יתקוף באיראן, והנשיא ענה: &quot;שאלה מטומטמת, אולי מחר! אתה חושב שאגלה?&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/24/V1_rinat_trump_241026_7727_24102026084820_1400_1792875013669_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

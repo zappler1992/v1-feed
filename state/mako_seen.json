@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793047649413,
+ "last_run_ms": 1793047827216,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17693,6 +17693,18 @@
    "section": "סלבס",
    "title": "\"כותבים לי 'את מורידה לי את החשק להביא עוד ילד לעולם'\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0e75b0a5dc971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793047827216,
+   "content_type": "article",
+   "first_seen_ms": 1793047827216,
+   "indexable": true,
+   "indexnow_ms": 1793047827216,
+   "published_ms": 1793047620000,
+   "section": "",
+   "title": "אחרי בקשה תמימה לסלפי: התקרית שסיבכה את אחיו של עומר"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-1145664831d11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18448,6 +18460,18 @@
    "published_ms": 1792416840000,
    "section": "סלבס",
    "title": "נעמה קסרי שיתפה סרטון של נתניהו כקוף - וחטפה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-6fb420c2be871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793047707208,
+   "content_type": "article",
+   "first_seen_ms": 1793047707208,
+   "indexable": true,
+   "indexnow_ms": 1793047707208,
+   "published_ms": 1793031480000,
+   "section": "בריאות",
+   "title": "אחרי הקלפי תוכלו לעשות עוד משהו חשוב"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-70ab1a29cddc0a1026.htm": {
    "check_attempts": 1,
@@ -25349,6 +25373,18 @@
    "section": "בריאות",
    "title": "הטיפול הממוקד בסרטן המוח"
   },
+  "https://www.mako.co.il/health-illnesses-and-medicines/Article-4cea38d36d8c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793047707208,
+   "content_type": "article",
+   "first_seen_ms": 1793047707208,
+   "indexable": true,
+   "indexnow_ms": 1793047707208,
+   "published_ms": 1790671260000,
+   "section": "בריאות",
+   "title": "האם תולעים יחליפו בעתיד מזרקים?"
+  },
   "https://www.mako.co.il/health-illnesses-and-medicines/Article-c665a46665dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25697,6 +25733,18 @@
    "section": "חדשות",
    "title": "אחרי הקלפי תוכלו לעשות עוד משהו חשוב"
   },
+  "https://www.mako.co.il/health-news/Article-15352e4509351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793047827216,
+   "content_type": "article",
+   "first_seen_ms": 1793047827216,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793047620000,
+   "section": "בריאות",
+   "title": "רבים בבחירות? פסיכולוגית מסבירה למה זו טעות"
+  },
   "https://www.mako.co.il/health-news/Article-15c0a60531e41a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25887,7 +25935,7 @@
    "indexnow_ms": 1793035949356,
    "published_ms": 1793035680000,
    "section": "",
-   "title": "לאחר שאישה אושפזה: משרד הבריאות באזהרה חריגה"
+   "title": "בגלל החלקה: אישה אושפזה לאחר שימוש במוצר הזה"
   },
   "https://www.mako.co.il/health-news/Article-3c3aebfd43261a1026.htm": {
    "check_attempts": 1,
