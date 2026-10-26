@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793019148925,
+ "last_run_ms": 1793019448975,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9078,6 +9078,18 @@
    "published_ms": 1792309200000,
    "section": "ספורט",
    "title": "3 דק` יותר מדי: ההחלטה שצריכה הפועל לקבל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0ebce1c444871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793019448975,
+   "content_type": "article",
+   "first_seen_ms": 1793019448975,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793019180000,
+   "section": "ספורט",
+   "title": "על כל הקשת: למי יצביעו שחקני בני סכנין?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0f2cb68c1dd51a1027.htm": {
    "check_attempts": 1,
@@ -30315,7 +30327,7 @@
    "indexnow_ms": 1792990049652,
    "published_ms": 1792989900000,
    "section": "",
-   "title": "מואר ואלגנטי: הבית של הרב והרבנית בירושלים"
+   "title": "עלו לארץ בגיל מפתיע והפכו דירה מוזנחת לפנינה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-7b74a01a43851a1026.htm": {
    "check_attempts": 1,
@@ -34059,7 +34071,7 @@
    "indexnow_ms": 1793002349534,
    "published_ms": 1793001720000,
    "section": "פלילים",
-   "title": "הרביץ לשותף בדירה בגלל סיבה הזויה: \"הכה אותו למוות\""
+   "title": "\"הכה את שותפו למוות בגלל שהשאיר את הדלת פתוחה\""
   },
   "https://www.mako.co.il/men-men_news/Article-58f03e40bb4d0a1026.htm": {
    "check_attempts": 1,
@@ -43361,6 +43373,18 @@
    "section": "צבא וביטחון",
    "title": "נזק לא אגבי: מחיר \"אסטרטגיית הרעש\" מול איראן"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-3b8c655b82871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793019386987,
+   "content_type": "article",
+   "first_seen_ms": 1793019386987,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793017560000,
+   "section": "צבא וביטחון",
+   "title": "הפתעה למסתערבים: כך חדרו עשרות שב\"חים"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-3b9a6d8f74931a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48073,7 +48097,7 @@
    "indexnow_ms": 1793019026972,
    "published_ms": 1793018160000,
    "section": "",
-   "title": "הפשיטה על המלון ביוון - והמעצר של הצעירים הישראלים"
+   "title": "הפשיטה על המלון ביוון - והמעצר של הישראלים"
   },
   "https://www.mako.co.il/travel-news/international/Article-174df0e2e17f0a1026.htm": {
    "check_attempts": 1,
@@ -52861,7 +52885,7 @@
    "indexnow_ms": 1793017948881,
    "published_ms": 1793017620000,
    "section": "תרבות tvbee",
-   "title": "\"מה, אנחנו בשידור?\": האמירה של חלי גולדנברג - וההפתעה"
+   "title": "\"היינו בשידור?\": האמירה של חלי גולדנברג - וההפתעה"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-a55e032425431a1026.htm": {
    "check_attempts": 1,
