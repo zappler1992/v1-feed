@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793020949085,
+ "last_run_ms": 1793021249178,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12281,7 +12281,7 @@
    "indexnow_ms": null,
    "published_ms": 1793002200000,
    "section": "ספורט",
-   "title": "נועם בן הרוש בספק גדול לגמר גביע הטוטו"
+   "title": "קרע במיניסקוס: זמן ההעדרות של בן הרוש"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-010aa68c03041a1027.htm": {
    "check_attempts": 1,
@@ -20452,6 +20452,18 @@
    "published_ms": 1791801240000,
    "section": "סלבס",
    "title": "אחרי הסערה: הכוכבת חושפת את השינוי שעשתה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-df59ba3685871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793021187120,
+   "content_type": "article",
+   "first_seen_ms": 1793021187120,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793020920000,
+   "section": "סלבס",
+   "title": "גורם רשמי על אביה של מייגן: \"עבריין מין מהסוג הנתעב\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-e17a1d1697ee0a1027.htm": {
    "check_attempts": 1,
@@ -50510,6 +50522,18 @@
    "published_ms": 1790483640000,
    "section": "חופש",
    "title": "למה המדינה הזו כל כך שונאת אותנו כבר המון שנים?"
+  },
+  "https://www.mako.co.il/travel-world/Article-4f4376eab3871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793021187120,
+   "content_type": "article",
+   "first_seen_ms": 1793021187120,
+   "indexable": true,
+   "indexnow_ms": 1793021187120,
+   "published_ms": 1793016420000,
+   "section": "חופש",
+   "title": "לאמיצים בלבד: זה הקפה הגרוע בעולם - שחייבים לנסות"
   },
   "https://www.mako.co.il/travel-world/Article-510570c6dab01a1027.htm": {
    "check_attempts": 1,
