@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/food-magazine/2026-m10_w05/shorts-2d3d1a5d24971a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a3b9e4dfa5971a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3129e4dfa5971a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -85541,6 +85542,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2f65bace48371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18086_25102026025744/M_NEWS_18086_25102026025744_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3129e4dfa5971a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בצפון, במרכז ובדרום רצועת עזה: צה\"ל חיסל ארבעה מחבלים מארגוני הטרור חמאס וגא\"פ",
+   "duration_s": 17,
+   "first_seen_ms": 1793037746284,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18168_26102026055809_1400_1793037564505_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793037571000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בצפון, במרכז ובדרום רצועת עזה: צה\"ל חיסל ארבעה מחבלים מארגוני הטרור חמאס וגא\"פ",
+   "type": "mivzakim",
+   "updated_ms": 1793037571000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3129e4dfa5971a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18168_26102026055809/M_NEWS_18168_26102026055809_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-326abea36b271a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -86442,6 +86461,24 @@
    "updated_ms": 1792917391000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18064_25102026083501/M_NEWS_18064_25102026083501_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a3b9e4dfa5971a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 60 נפצע בינוני בתאונת דרכים ליד פצאל",
+   "duration_s": 9,
+   "first_seen_ms": 1793037746284,
+   "image": "https://img.mako.co.il/2026/10/26/M_NEWS_18169_26102026055858_1400_1793037627129_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793037634000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 60 נפצע בינוני בתאונת דרכים ליד פצאל",
+   "type": "mivzakim",
+   "updated_ms": 1793037634000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a3b9e4dfa5971a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18169_26102026055858/M_NEWS_18169_26102026055858_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a85ef45d97671a1026.htm": {
    "author": "מבזקים",
