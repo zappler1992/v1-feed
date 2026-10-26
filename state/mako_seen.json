@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793027848962,
+ "last_run_ms": 1793028148908,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19168,6 +19168,18 @@
    "published_ms": 1790955120000,
    "section": "",
    "title": "הווידוי המפתיע: \"רוצה למצוא את האחד ולהקים בית\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e22ae82b8c871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793028148908,
+   "content_type": "article",
+   "first_seen_ms": 1793028148908,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793027520000,
+   "section": "סלבס",
+   "title": "שנה אחרי החתונה: הקומיקאי וכוכב הרשת הפך לאבא"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e26efd5b53601a1027.htm": {
    "check_attempts": 1,
@@ -43731,7 +43743,7 @@
    "indexnow_ms": null,
    "published_ms": 1793022060000,
    "section": "צבא וביטחון",
-   "title": "החזית שבה גוברת התנגדות התושבים לפעילות צה\"ל"
+   "title": "המציאות משתנה? ההתנגדות שמרימה ראש בסוריה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-565b5b1bc43d0a1027.htm": {
    "check_attempts": 1,
