@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793031749153,
+ "last_run_ms": 1793032049096,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11382,6 +11382,18 @@
    "published_ms": 1791282900000,
    "section": "ספורט",
    "title": "\"מאות מיליונים\". הקריירה החדשה של הרוש"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ce290e0370971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793031986685,
+   "content_type": "article",
+   "first_seen_ms": 1793031986685,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793031780000,
+   "section": "ספורט",
+   "title": "המנהלת ביקשה לדחות, המשטרה עדיין מסרבת"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ce3a396aed551a1026.htm": {
    "check_attempts": 1,
@@ -26283,7 +26295,7 @@
    "indexnow_ms": 1793024907209,
    "published_ms": 1793024340000,
    "section": "",
-   "title": "בת 17 מורדמת ומונשמת: חשש בעולם ממוטציה חדשה"
+   "title": "בעולם חוששים ממוטציה חדשה"
   },
   "https://www.mako.co.il/health-news/Article-aac76fa3c46f0a1027.htm": {
    "check_attempts": 1,
@@ -46598,6 +46610,18 @@
    "published_ms": 1790923980000,
    "section": "",
    "title": "\"הרגשתי שהמטוס צולל, ידעתי שאסור לתת להם למות\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-cac4f22c5b871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-cac4f22c5b871a1026.htm",
+   "checked_ms": 1793031986685,
+   "content_type": "article",
+   "first_seen_ms": 1793031986685,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793031900000,
+   "section": "",
+   "title": "נערך לחידוש המלחמה: הסכום שקיבל חיזבאללה מאיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-cbb72e13a1a31a1026.htm": {
    "check_attempts": 1,
