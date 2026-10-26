@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793002649602,
+ "last_run_ms": 1793002950279,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23981,6 +23981,18 @@
    "section": "",
    "title": "סלמון כבוש ביתי - אבל בגרסה הכי טרנדית"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-gluten-free/Recipe-455903d3a9271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793002950279,
+   "content_type": "recipe",
+   "first_seen_ms": 1793002950279,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793001360000,
+   "section": "",
+   "title": "קופסה כזו במקפיא והסתדרתם: כדורי בצק עוגיות"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-meat/Recipe-2207819d01951a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37071,7 +37083,7 @@
    "indexnow_ms": 1793002227176,
    "published_ms": 1793001960000,
    "section": "מוזיקה",
-   "title": "על הבמה: הכוכבת הלטינית דרכה על דגל ישראל"
+   "title": "על הבמה מול אלפי אנשים: הכוכבת דרכה על דגל ישראל"
   },
   "https://www.mako.co.il/music-news/Article-238c5020638c0a1027.htm": {
    "check_attempts": 1,
@@ -44439,7 +44451,7 @@
    "indexnow_ms": null,
    "published_ms": 1792953000000,
    "section": "חדשות",
-   "title": "יממה לפתיחת הקלפיות: טראמפ במהלך נוסף למען נתניהו"
+   "title": "ישראל רצתה לתקוף, בארה\"ב עצרו וכבר תכננו משהו גדול"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-e2daadfe83b51a1026.htm": {
    "check_attempts": 3,
