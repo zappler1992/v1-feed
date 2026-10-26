@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e8cd53110a671a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-4a296bac79671a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e09453110a671a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-56616bac79671a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42472,7 +42472,7 @@
    ],
    "title": "השתוללו מול הניידות ותיעדו לרשת: מרדף אחרי נערים על אופניים בחולון",
    "type": "news",
-   "updated_ms": 1792958331000,
+   "updated_ms": 1792992780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-41a6d3b509471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_HOLON_251026/MASTER/MAYA_HOLON_251026/MAYA_HOLON_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -84515,6 +84515,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/FIX_yoav_POLICE_251026/FIX_yoav_POLICE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-56616bac79671a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ הלילה בציוץ תמיכה נוסף בנתניהו, יממה לפני הבחירות",
+   "duration_s": 9,
+   "first_seen_ms": 1792993046386,
+   "image": "https://img.mako.co.il/2026/10/26/V1_TRUMP_7767_26102026053327_1400_1792992886040_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792992892000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ הלילה בציוץ תמיכה נוסף בנתניהו, יממה לפני הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1792992892000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-56616bac79671a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_TRUMP_7767_26102026053327/V1_TRUMP_7767_26102026053327_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5732644794671a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -85072,6 +85090,24 @@
    "updated_ms": 1792951684000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-dbe9411fb3471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18094_25102026060651/M_NEWS_18094_25102026060651_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e09453110a671a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לולה דה סילבה ניצח בברזיל: הנשיא שהשווה את ממשלת ישראל להיטלר נבחר לכהונה נוספת",
+   "duration_s": 76,
+   "first_seen_ms": 1792993046386,
+   "image": "https://img.mako.co.il/2026/10/26/V1_SHIR_BRAZIL_7766_26102026053301_1400_1792992914280_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1792992922000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לולה דה סילבה ניצח בברזיל: הנשיא שהשווה את ממשלת ישראל להיטלר נבחר לכהונה נוספת",
+   "type": "mivzakim",
+   "updated_ms": 1792992922000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e09453110a671a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_SHIR_BRAZIL_7766_26102026053301/V1_SHIR_BRAZIL_7766_26102026053301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e8cd53110a671a1026.htm": {
    "author": "מבזקים",
