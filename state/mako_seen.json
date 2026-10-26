@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793008049628,
+ "last_run_ms": 1793008349808,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10889,7 +10889,7 @@
    "indexnow_ms": null,
    "published_ms": 1792960680000,
    "section": "ספורט",
-   "title": "\"היה לו ריח\": הסבר שועה לתנועת הסערה"
+   "title": "\"היה לו ריח\": ההסתבכות של ירדן שועה - והגרסה שלו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ac952c6773d41a1026.htm": {
    "check_attempts": 1,
@@ -15508,6 +15508,18 @@
    "published_ms": 1791649860000,
    "section": "ספורט",
    "title": "תשע, באבוהה: 0:3 לבארסה מול חטאפה"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d35aa067a8771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793008349808,
+   "content_type": "article",
+   "first_seen_ms": 1793008349808,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793006940000,
+   "section": "ספורט",
+   "title": "כמו פויול ופרמין: מספר החולצה של גורן"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-d487d57ffc6f0a1026.htm": {
    "check_attempts": 1,
@@ -20955,7 +20967,7 @@
    "indexnow_ms": null,
    "published_ms": 1792999440000,
    "section": "משפט",
-   "title": "אחרי שהאבא מת: המהלך של האחים נגד הילדים - והתגובה"
+   "title": "ירשו מניות מאביהם – הדודים השתלטו על החברות"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-2922dae57ae41a1027.htm": {
    "check_attempts": 1,
@@ -22167,7 +22179,7 @@
    "indexnow_ms": null,
    "published_ms": 1792940520000,
    "section": "כסף",
-   "title": "בתחום מפתיע: האיום של המדינה השכנה על ישראל"
+   "title": "מאגר גז חדש במצרים: כמה תשובה צריך לדאוג?"
   },
   "https://www.mako.co.il/finances-news/Article-ed88e66981101a1027.htm": {
    "check_attempts": 1,
@@ -27580,6 +27592,18 @@
    "published_ms": 1791774000000,
    "section": "",
    "title": "התחזית: התקררות וחשש לשיטפונות - מתי הגשם יחזור למרכז?"
+  },
+  "https://www.mako.co.il/hix-nature/Article-ff3b9c1999771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793008349808,
+   "content_type": "article",
+   "first_seen_ms": 1793008349808,
+   "indexable": true,
+   "indexnow_ms": 1793008349808,
+   "published_ms": 1793007960000,
+   "section": "HIX",
+   "title": "הסלע שנותר תלוי במשך אלפי שנים קרס בפארק"
   },
   "https://www.mako.co.il/hix-special/Article-01cad0fb23de0a1026.htm": {
    "check_attempts": 1,
@@ -43863,7 +43887,7 @@
    "indexnow_ms": null,
    "published_ms": 1793003160000,
    "section": "צבא וביטחון",
-   "title": "\"הצהרות חריפות מדי עלולות להוביל להסלמה לא רצויה\""
+   "title": "הפער בין התמונה שמציג נתניהו לזו של מערכת הביטחון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-b415e7ac45041a1026.htm": {
    "check_attempts": 1,
@@ -49105,7 +49129,7 @@
    "indexnow_ms": null,
    "published_ms": 1793002560000,
    "section": "חופש",
-   "title": "טלטלה בחו\"ל: היחסים עם ישראל בדרך למשבר"
+   "title": "באירופה ודרום אמריקה: היחסים עם ישראל בדרך למשבר"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
@@ -52142,6 +52166,18 @@
    "published_ms": 1790230440000,
    "section": "תרבות tvbee",
    "title": "כוכב הסדרה האהובה נעצר: \"נראה שיכור, לא שיתף פעולה\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-44ffec4b30471a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793008349808,
+   "content_type": "article",
+   "first_seen_ms": 1793008349808,
+   "indexable": true,
+   "indexnow_ms": 1793008349808,
+   "published_ms": 1793003460000,
+   "section": "תרבות tvbee",
+   "title": "\"הם כמו משפחה, אני האח האובד שהם לא רצו\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-4e22256f27251a1026.htm": {
    "check_attempts": 1,
