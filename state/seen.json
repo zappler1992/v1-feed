@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e564fb0d05871a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2aa2e1c444871a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-86ffe1c444871a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-96646c6184871a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-529f6c6184871a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -42159,7 +42158,8 @@
    "importance": 2,
    "published_ms": 1792864883000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "גשם ביום הבחירות? התחזית המעודכנת",
    "type": "news",
@@ -43130,7 +43130,9 @@
    "image": "https://img.mako.co.il/2026/10/26/Kim_GoVote_26102026_1400_1793002749095_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793002756000,
-   "sections": [],
+   "sections": [
+    "טכנולוגיה"
+   ],
    "title": "תזכורת לבחירות – ישר למסך של כולנו",
    "type": "news",
    "updated_ms": 1793012880000,
@@ -85790,6 +85792,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9189b04965771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Gufa_7778_26102026083205/V1_Gufa_7778_26102026083205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-96646c6184871a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה מבקשת את עזרת הציבור באיתור אברהם וגנב בן 13 מבאר שבע שנראה לאחרונה מאתמול בעיר",
+   "duration_s": 9,
+   "first_seen_ms": 1793020945921,
+   "image": "https://img.mako.co.il/2026/10/26/V1_karind_missing_7791_26102026011444_1400_1793020568309_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793020575000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה מבקשת את עזרת הציבור באיתור אברהם וגנב בן 13 מבאר שבע שנראה לאחרונה מאתמול בעיר",
+   "type": "mivzakim",
+   "updated_ms": 1793020575000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-96646c6184871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_missing_7791_26102026011444/V1_karind_missing_7791_26102026011444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-99e6c5c0f4771a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -98615,6 +98635,24 @@
    "updated_ms": 1793012940000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-47bc4a90bd771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/DANIEL_HILI_261026/MASTER/DANIEL_HILI_261026/DANIEL_HILI_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-529f6c6184871a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "מVינים בחירות: רגע לפני הבחירות, המאבק על הקולות מגיע גם לאינסטגרם: רותם סלע ומעיין אדם בוחרות צד בקרב הפנימי בין המפלגות, אבל האם התמיכה של המפורסמים באמת יכולה להזיז מנדטים? ומה אפשר ללמוד מההפסד של קמלה האריס למרות תמיכת כוכבי הענק?",
+   "duration_s": 81,
+   "first_seen_ms": 1793020945921,
+   "image": "https://img.mako.co.il/2026/10/26/dor_cel_261026_1400_1793020167793_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793020440000,
+   "sections": [
+    "מVינים חדשות"
+   ],
+   "title": "כמה מנדטים שווה סטורי: הסלבס בוחרים",
+   "type": "general",
+   "updated_ms": 1793020440000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-529f6c6184871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/dor_cel_261026/MASTER/dor_cel_261026/dor_cel_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-suggested/2026-m03_w03/shorts-0cbc8de8892d0a1026.htm": {
    "author": "אהבה מעבר לפינה",

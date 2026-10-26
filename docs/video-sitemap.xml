@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-96646c6184871a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/26/V1_karind_missing_7791_26102026011444_1400_1793020568309_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>המשטרה מבקשת את עזרת הציבור באיתור אברהם וגנב בן 13 מבאר שבע שנראה לאחרונה מאתמול בעיר</video:title>
+<video:description>המשטרה מבקשת את עזרת הציבור באיתור אברהם וגנב בן 13 מבאר שבע שנראה לאחרונה מאתמול בעיר</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_missing_7791_26102026011444/V1_karind_missing_7791_26102026011444_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-26T13:16:15+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-529f6c6184871a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/26/dor_cel_261026_1400_1793020167793_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כמה מנדטים שווה סטורי: הסלבס בוחרים</video:title>
+<video:description>מVינים בחירות: רגע לפני הבחירות, המאבק על הקולות מגיע גם לאינסטגרם: רותם סלע ומעיין אדם בוחרות צד בקרב הפנימי בין המפלגות, אבל האם התמיכה של המפורסמים באמת יכולה להזיז מנדטים? ומה אפשר ללמוד מההפסד של קמלה האריס למרות תמיכת כוכבי הענק?</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/dor_cel_261026/MASTER/dor_cel_261026/dor_cel_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>81</video:duration>
+<video:publication_date>2026-10-26T13:14:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מיוחד</video:uploader>
+<video:tag>מVינים חדשות</video:tag>
+<video:tag>מיוחד</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e564fb0d05871a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/26/M_Tarbut_18148_26102026010944_1400_1793020305846_FirstFrame.jpg</video:thumbnail_loc>
@@ -819,6 +852,7 @@ Powered by Spikes</video:description>
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>טכנולוגיה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
