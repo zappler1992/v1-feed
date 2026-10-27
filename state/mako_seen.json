@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793117249707,
+ "last_run_ms": 1793117549914,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41008,6 +41008,18 @@
    "published_ms": 1791615060000,
    "section": "ספורט",
    "title": "המספרים נחשפים: תקציבי קבוצות ליגת העל"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-8b0078de91e71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793117549914,
+   "content_type": "article",
+   "first_seen_ms": 1793117549914,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793117280000,
+   "section": "ספורט",
+   "title": "זה הכל? הקנס שקיבלה בארסה על פרשת אלברס"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-913621107cf11a1027.htm": {
    "check_attempts": 1,
