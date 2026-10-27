@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-597836f190f71a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bfe67f039fe71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1ef936f190f71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4fe936f190f71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86857,6 +86857,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1e471c4d60c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_KARIND_HERZOG_7812_27102026063843/V1_KARIND_HERZOG_7812_27102026063843_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1ef936f190f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צעיר בן 22 נפצע בינוני כשרכבו התהפך בבאר שבע",
+   "duration_s": 9,
+   "first_seen_ms": 1793133145808,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18274_27102026082710_1400_1793132946045_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793132953000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צעיר בן 22 נפצע בינוני כשרכבו התהפך בבאר שבע",
+   "type": "mivzakim",
+   "updated_ms": 1793132953000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1ef936f190f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18274_27102026082710/M_NEWS_18274_27102026082710_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-20d9fe5f82871a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87740,6 +87758,24 @@
    "updated_ms": 1793116228000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4ef92ccba0e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_BEERSHEVA_7852_27102026034837/V1_BEERSHEVA_7852_27102026034837_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4fe936f190f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יוסף ג'בארין יו\"ר הרשימה המשותפת: \"בכל התרחישים הפוליטיים לא יכולים להתעלם מאיתנו\"",
+   "duration_s": 9,
+   "first_seen_ms": 1793133145808,
+   "image": "https://img.mako.co.il/2026/10/27/V1_YOSEF_7871_27102026082706_1400_1793132943099_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793132950000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יוסף ג'בארין יו\"ר הרשימה המשותפת: \"בכל התרחישים הפוליטיים לא יכולים להתעלם מאיתנו\"",
+   "type": "mivzakim",
+   "updated_ms": 1793132950000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4fe936f190f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_YOSEF_7871_27102026082706/V1_YOSEF_7871_27102026082706_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-51b76a814ad71a1026.htm": {
    "author": "מבזקים",
