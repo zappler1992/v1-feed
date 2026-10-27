@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793074649794,
+ "last_run_ms": 1793074949256,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47642,6 +47642,18 @@
    "published_ms": 1790889900000,
    "section": "חדשות",
    "title": "בבל\"ד הכריעו: אבו שחאדה יפרוש מהתמודדות לכנסת"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-788cb43830871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/liveblog-788cb43830871a1026.htm",
+   "checked_ms": 1793074828017,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793074828017,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793073600000,
+   "section": "",
+   "title": "הקלפיות ייפתחו ב-7:00: המדריך לכל מה שצריך לדעת"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-9833906a9ecc0a1027.htm": {
    "check_attempts": 1,
