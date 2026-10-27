@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793084248880,
+ "last_run_ms": 1793084548885,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21207,7 +21207,7 @@
    "indexnow_ms": 1793074049314,
    "published_ms": 1793073900000,
    "section": "",
-   "title": "הסוד שהחנויות והרשתות ינסו להסתיר מכם היום"
+   "title": "הסוד שהרשתות ינסו להסתיר מכם היום"
   },
   "https://www.mako.co.il/finances-consumer/Article-277546d825601a1026.htm": {
    "check_attempts": 1,
@@ -40984,6 +40984,18 @@
    "published_ms": 1792526760000,
    "section": "ספורט",
    "title": "\"מול שער ריק, איך לעזאזל רונאלדו החטיא?\""
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-0fa7809145261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/living-diy/renovations/Article-0fa7809145261a1027.htm",
+   "checked_ms": 1793084548885,
+   "content_type": "article",
+   "first_seen_ms": 1793084548885,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793080860000,
+   "section": "עיצוב הבית",
+   "title": "בחירה שלה: מהפך מושלם למטבח שכור ב-5000 שקל"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-1b73417982271a1026.htm": {
    "check_attempts": 1,
