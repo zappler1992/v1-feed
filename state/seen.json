@@ -1,7 +1,12 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-383df55dbec71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-790deaaaffc71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f8baeaaaffc71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ee002c507fc71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-93ff2c507fc71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d8df2c507fc71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8c3f2c507fc71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -87412,6 +87417,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-78e0fa0aef371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_karind_pigua_7755_25102026050951/V1_karind_pigua_7755_25102026050951_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-790deaaaffc71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שיעור ההצבעה נכון לשעה 12:00: 31.5% - הגבוה מאז 1973",
+   "duration_s": 9,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_kalpi2_7834_27102026105728_1400_1793098780955_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793098787000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שיעור ההצבעה נכון לשעה 12:00: 31.5% - הגבוה מאז 1973",
+   "type": "mivzakim",
+   "updated_ms": 1793098787000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-790deaaaffc71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_kalpi2_7834_27102026105728/V1_karind_kalpi2_7834_27102026105728_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7d4b4bf156c71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87592,6 +87615,25 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8b9d8b393a771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_telaviv_7786_26102026095757/V1_karind_telaviv_7786_26102026095757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8c3f2c507fc71a1027.htm": {
+   "author": "",
+   "date_source": "page-jsonld",
+   "description": "",
+   "duration_s": null,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18229_27102026105358_1400_1793098541051_FirstFrame.jpg",
+   "importance": null,
+   "published_ms": 1793098547000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט בחולון: \"אני רואה רוח גבית אדירה לשינוי\"",
+   "type": "",
+   "updated_ms": 1793098547000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8c3f2c507fc71a1027.htm",
+   "video_url": ""
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8d056e19c0871a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87645,6 +87687,24 @@
    "updated_ms": 1793003602000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9189b04965771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_Gufa_7778_26102026083205/V1_Gufa_7778_26102026083205_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-93ff2c507fc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צפו: תורים ארוכים בקלפיות בירושלים",
+   "duration_s": 5,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_jerus_7833_27102026105522_1400_1793098597652_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793098604000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צפו: תורים ארוכים בקלפיות בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793098604000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-93ff2c507fc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_jerus_7833_27102026105522/V1_karind_jerus_7833_27102026105522_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-947a409659c71a1027.htm": {
    "author": "מבזקים",
@@ -88531,6 +88591,25 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_russia_7777_26102026081955/V1_karind_russia_7777_26102026081955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d8df2c507fc71a1027.htm": {
+   "author": "",
+   "date_source": "page-jsonld",
+   "description": "",
+   "duration_s": null,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18232_27102026105507_1400_1793098590512_FirstFrame.jpg",
+   "importance": null,
+   "published_ms": 1793098597000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סמוטריץ׳ מתקבל בשירה בקלפי ברעננה",
+   "type": "",
+   "updated_ms": 1793098597000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d8df2c507fc71a1027.htm",
+   "video_url": ""
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d95ecec333c71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88711,6 +88790,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_SYRIA_7792_26102026051756/V1_SYRIA_7792_26102026051756_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ee002c507fc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בנט בת\"א: \"לדפוק בדלתות ולהוציא את האנשים\"",
+   "duration_s": 23,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18230_27102026105425_1400_1793098604759_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793098613000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בנט בת\"א: \"לדפוק בדלתות ולהוציא את האנשים\"",
+   "type": "mivzakim",
+   "updated_ms": 1793098613000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ee002c507fc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18230_27102026105425/M_NEWS_18230_27102026105425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ef7150e9f8171a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88764,6 +88861,24 @@
    "updated_ms": 1793083124000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f7851c4d60c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_KARIND_VINTER_7811_27102026063705/V1_KARIND_VINTER_7811_27102026063705_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f8baeaaaffc71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתניהו: \"מנסים לגנוב לנו את הבחירות\"",
+   "duration_s": 63,
+   "first_seen_ms": 1793098946219,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18231_27102026105440_1400_1793098633081_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793098639000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתניהו: \"מנסים לגנוב לנו את הבחירות\"",
+   "type": "mivzakim",
+   "updated_ms": 1793098639000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f8baeaaaffc71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18231_27102026105440/M_NEWS_18231_27102026105440_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash_sport-2026/m06_w02/shorts-81f95846e71ce91026.htm": {
    "author": "מבזקי הספורט",
