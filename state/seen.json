@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a72cea141ac71a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cde8ea141ac71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-344fea141ac71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-43fdea141ac71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86377,6 +86378,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-343ed7aad6371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/fix_kvish6/fix_kvish6_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-344fea141ac71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בני גנץ הצביע ביד מרדכי",
+   "duration_s": 9,
+   "first_seen_ms": 1793092946170,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18224_27102026091825_1400_1793092791981_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793092798000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בני גנץ הצביע ביד מרדכי",
+   "type": "mivzakim",
+   "updated_ms": 1793092798000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-344fea141ac71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18224_27102026091825/M_NEWS_18224_27102026091825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-36b581f226871a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -86592,6 +86611,24 @@
    "updated_ms": 1793000471000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3fdba93142771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18115_26102026073945/M_NEWS_18115_26102026073945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-43fdea141ac71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"זה במרחק נגיעה, צריך לתת פוש\": בנט הגיע למצביעים בתל אביב | צפו",
+   "duration_s": 37,
+   "first_seen_ms": 1793092946170,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_bennet_7824_27102026091636_1400_1793092686484_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793092692000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"זה במרחק נגיעה, צריך לתת פוש\": בנט הגיע למצביעים בתל אביב | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793092692000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-43fdea141ac71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_bennet_7824_27102026091636/V1_karind_bennet_7824_27102026091636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4ad1dd0246771a1027.htm": {
    "author": "מבזקים",
@@ -87630,7 +87667,7 @@
    "duration_s": 54,
    "first_seen_ms": 1793092646157,
    "image": "https://img.mako.co.il/2026/10/27/V1_NOAY_VOTE2_271026_7822_27102026091335_1400_1793092503423_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793092509000,
    "sections": [
     "מבזקים"
@@ -87639,7 +87676,7 @@
    "type": "mivzakim",
    "updated_ms": 1793092509000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a72cea141ac71a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_NOAY_VOTE2_271026_7822_27102026091335/V1_NOAY_VOTE2_271026_7822_27102026091335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIXNOAY_VOTE2_271026_1/FIXNOAY_VOTE2_271026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a85ef45d97671a1026.htm": {
    "author": "מבזקים",
@@ -88234,6 +88271,24 @@
    "updated_ms": 1793074662000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0bc91a2d8b71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18185_27102026041633/M_NEWS_18185_27102026041633_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הולנד הודיעה באופן רשמי שלא תשתתף באירוויזיון בגלל ישראל",
+   "duration_s": 9,
+   "first_seen_ms": 1793092946170,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_holand_7823_27102026091456_1400_1793092580921_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793092587000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הולנד הודיעה באופן רשמי שלא תשתתף באירוויזיון בגלל ישראל",
+   "type": "mivzakim",
+   "updated_ms": 1793092587000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_holand_7823_27102026091456/V1_karind_holand_7823_27102026091456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e3fa935b84c71a1027.htm": {
    "author": "מבזקים",
