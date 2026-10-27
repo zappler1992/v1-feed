@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793109149650,
+ "last_run_ms": 1793109750753,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6008,6 +6008,18 @@
    "published_ms": 1790999040000,
    "section": "ספורט",
    "title": "\"כולם מדוכאים\": מכבי ת\"א סופרת עוד תבוסה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-e33a6a814ad71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793109750753,
+   "content_type": "article",
+   "first_seen_ms": 1793109750753,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793109540000,
+   "section": "ספורט",
+   "title": "איפה מכבי והפועל? דירוג העוצמה ביורוליג"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-e7508b9854561a1026.htm": {
    "check_attempts": 1,
@@ -27124,6 +27136,18 @@
    "published_ms": 1792059240000,
    "section": "בריאות",
    "title": "\"10 מקרים בשנה של תינוקות שנזקקו לאשפוז\""
+  },
+  "https://www.mako.co.il/health-news/Article-ad1cbda597d71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793109386940,
+   "content_type": "article",
+   "first_seen_ms": 1793109386940,
+   "indexable": true,
+   "indexnow_ms": 1793109386940,
+   "published_ms": 1793106840000,
+   "section": "",
+   "title": "טרגדיה נוספת ביום הבחירות: בן 66 התמוטט בקלפי ומת"
   },
   "https://www.mako.co.il/health-news/Article-b11333ec627e0a1027.htm": {
    "check_attempts": 1,
