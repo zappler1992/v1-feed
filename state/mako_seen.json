@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793073449006,
+ "last_run_ms": 1793073749754,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27977,6 +27977,18 @@
    "section": "",
    "title": "שובו של החורף? לקראת חזרת הגשם בסוף השבוע"
   },
+  "https://www.mako.co.il/hix-nature/Article-553620c2be871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793073749754,
+   "content_type": "article",
+   "first_seen_ms": 1793073749754,
+   "indexable": true,
+   "indexnow_ms": 1793073749754,
+   "published_ms": 1793073600000,
+   "section": "",
+   "title": "גשם ביום הבחירות: סופות רעמים וחשש לשיטפונות"
+  },
   "https://www.mako.co.il/hix-nature/Article-566dc4de6da11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39784,6 +39796,18 @@
    "published_ms": 1791704880000,
    "section": "",
    "title": "\"החלטה אישית שלי\": ההצהרה של מנדלבליט - כשנתניהו באולם"
+  },
+  "https://www.mako.co.il/news-politics/2026_q4/liveblog-eddc36a2af771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793073627660,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793073627660,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793072700000,
+   "section": "",
+   "title": "הקלפיות ייפתחו ב-7:00: המדריך לכל מה שצריך לדעת"
   },
   "https://www.mako.co.il/news-science/2026_q4/Article-8e35af2b6d641a1026.htm": {
    "check_attempts": 1,
