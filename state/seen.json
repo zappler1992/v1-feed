@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-54aaf45a1eb71a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b3bb590acdb71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-83e5590acdb71a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-5706590acdb71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86673,6 +86673,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8190b43830871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_Attorney_7789_26102026114404/V1_karind_Attorney_7789_26102026114404_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-83e5590acdb71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יו״ר ש״ס, אריה דרעי, הצביע בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1793080645932,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18191_27102026054918_1400_1793080241124_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793080248000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יו״ר ש״ס, אריה דרעי, הצביע בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793080248000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-83e5590acdb71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18191_27102026054918/M_NEWS_18191_27102026054918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8800dd24e9371a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -113326,6 +113344,24 @@
    "updated_ms": 1792909655000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-53b8d2f0cb171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_HITLER_VACATION_7732_25102026062624/V1_HITLER_VACATION_7732_25102026062624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-5706590acdb71a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הכל עף באוויר: טורנדו פגע ברקינואה שבצ'ילה והותיר נזק כבד",
+   "duration_s": 11,
+   "first_seen_ms": 1793080645932,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_chile_7807_27102026054940_1400_1793080249260_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793080256000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הכל עף באוויר: טורנדו פגע ברקינואה שבצ'ילה והותיר נזק כבד",
+   "type": "mivzakim",
+   "updated_ms": 1793080256000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-5706590acdb71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_chile_7807_27102026054940/V1_karind_chile_7807_27102026054940_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7598c2aa2d271a1027.htm": {
    "author": "מבזקים מהעולם",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793080348878,
+ "last_run_ms": 1793080648878,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16635,7 +16635,7 @@
    "indexnow_ms": 1793073987608,
    "published_ms": 1793073840000,
    "section": "הכי חם",
-   "title": "שחרור יגאל עמיר וביטול הקואליציה: המפלגות שלא הכרתם"
+   "title": "לבטל את הקואליציה או לשחרר את יגאל עמיר?"
   },
   "https://www.mako.co.il/culture-articles/Article-59196270638d0a1026.htm": {
    "check_attempts": 1,
@@ -17381,6 +17381,18 @@
    "section": "תרבות tvbee",
    "title": "התאלמנה ב-7 באוקטובר - ויצרה מזה קומדיה"
   },
+  "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-f95584b2a6771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793073600000,
+   "section": "תרבות tvbee",
+   "title": "\"הניצחון על היריב חשוב מהיכולת לחיות איתו\""
+  },
   "https://www.mako.co.il/culture-movies/Article-049c3091bb1f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -17847,7 +17859,7 @@
    "indexnow_ms": 1793047827216,
    "published_ms": 1793047620000,
    "section": "",
-   "title": "חצי מיליון? התקרית שסיבכה את אחיו של גל אדם"
+   "title": "חצי מיליון? התקרית שסיבכה את אחיו של עומר"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-1145664831d11a1027.htm": {
    "check_attempts": 1,
@@ -22348,6 +22360,18 @@
    "published_ms": 1791366240000,
    "section": "",
    "title": "בקרוב בישראל? החנות שמוכנה לשלם כסף על הפריטים הישנים"
+  },
+  "https://www.mako.co.il/finances-news/Article-5ecaa6fc83371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793073600000,
+   "section": "כסף",
+   "title": "בין 0 ל-7: הציונים שהממשלה לא רוצה שתראו"
   },
   "https://www.mako.co.il/finances-news/Article-60e89b58c3461a1026.htm": {
    "check_attempts": 1,
@@ -39497,6 +39521,18 @@
    "section": "חדשות",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
   },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-0e75b0a5dc971a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-0e75b0a5dc971a1027.htm",
+   "checked_ms": 1793080467606,
+   "content_type": "article",
+   "first_seen_ms": 1793080467606,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793046180000,
+   "section": "הכי חם",
+   "title": "חצי מיליון? התקרית שסיבכה את אחיו של גל אדם"
+  },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-3ea0036fef461a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -43049,6 +43085,18 @@
    "section": "הורים",
    "title": "\"בלידה הייתה לי ממש תחושה של פגיעה מינית\""
   },
+  "https://www.mako.co.il/ninemonth-birth/Article-43c05d8944771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793080800000,
+   "section": "הורים",
+   "title": "\"יש משהו בתינוק שמעורר את החוסר בסבתא\""
+  },
   "https://www.mako.co.il/ninemonth-birth/Article-6f8b261845e31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -44501,6 +44549,18 @@
    "section": "צבא וביטחון",
    "title": "שינוי משמעותי: היחידות החדשות שיוקמו בצה\"ל"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-64991428b0271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793073600000,
+   "section": "צבא וביטחון",
+   "title": "זה מה שעשו המתמודדים בבחירות, בשירותם הצבאי"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-64eb1547cc501a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -44536,6 +44596,18 @@
    "published_ms": 1790236740000,
    "section": "",
    "title": "מתקפה מהים התיכון: האזהרה הדרמטית ללב אירופה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-689bfb0d05871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793073600000,
+   "section": "צבא וביטחון",
+   "title": "\"מה שירו במזרח התיכון היה מספיק לנו לשנים\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
@@ -51699,6 +51771,18 @@
    "section": "חופש",
    "title": "גילינו: כמה עולה לטייל כל המשפחה במשך 3 שנים"
   },
+  "https://www.mako.co.il/tv-avri_and_sherki/articles/Article-46d92695e9a71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080467606,
+   "content_type": "article",
+   "first_seen_ms": 1793080467606,
+   "indexable": true,
+   "indexnow_ms": 1793080467606,
+   "published_ms": 1793080380000,
+   "section": "הכי חם",
+   "title": "״נפגשנו והוא אמר 'בגללך אני לא בפוליטיקה'\""
+  },
   "https://www.mako.co.il/tv-avri_and_sherki/articles/Article-c5d5e81629a01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -54578,6 +54662,18 @@
    "published_ms": 1792134000000,
    "section": "תרבות tvbee",
    "title": "הטרילוגיה שלא הייתה צריכה לקרות הגיעה לסיומה"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-f9c9b8e119351a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793080587606,
+   "content_type": "article",
+   "first_seen_ms": 1793080587606,
+   "indexable": true,
+   "indexnow_ms": 1793080587606,
+   "published_ms": 1793073600000,
+   "section": "תרבות tvbee",
+   "title": "הטרגדיה של כוכב \"חברים\" מתדלקת תחושה קשה"
   },
   "https://www.mako.co.il/tvbee-tvbee-highlights/Article-9d93c57c313d961006.htm": {
    "check_attempts": 1,
