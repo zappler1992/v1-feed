@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e44996b15e71a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-91616c0916e71a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13de273436e71a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ea6a59855e71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6108,20 +6109,20 @@
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0114c7f8c0e71a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
-   "description": "הזמר עופר לוי מאיים בתביעות בעקבות סרטון שרץ בימים האחרונים ברשת, בו הוא נשמע לכאורה קורא להוציא אזרחים להורג בגלל הדעות הפוליטיות שלהם. בפוסט הבהרה שפרסם בפייסבוק, לוי וטוען שמדובר בזיוף מוחלט שנוצר על ידי בינה מלאכותית. הוא מזהיר כי כל מי שיפרסם את התיעוד הערוך חשוף לתביעה משפטית, וטוען שאמנם דעותיו הימניות ידועות לכל, אך הוא מעולם לא קרא לפגוע באיש ורק \"רוצה בהצלחת עם ישראל\".",
+   "description": "תפנית דרמטית בפרשת הסרטון של עופר לוי: אחרי שטען בתוקף שמדובר בזיוף שנוצר באמצעות בינה מלאכותית ואף איים בתביעות משפטיות, הזמר נשבר בחקירת משטרה והודה כי התיעוד אותנטי. כזכור, בסרטון נראה לוי כשהוא קורא להוציא אזרחים להורג בשל דעותיהם הפוליטיות.",
    "duration_s": 23,
    "first_seen_ms": 1793118146533,
-   "image": "https://img.mako.co.il/2026/10/27/FIXX_OFER_1400_1793118912054_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/27/FIXON_OFER_1400_1793122289729_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793116811000,
    "sections": [
     "סלבס"
    ],
-   "title": "בעקבות סרטון שרץ ברשת, עופר לוי טוען: \"לא קראתי להוציא להורג שמאלנים, זה AI\"",
+   "title": "הזמר עופר לוי טען ברשת: \"לא קראתי להוציא להורג שמאלנים\" - אך הודה במשטרה",
    "type": "general",
    "updated_ms": 1793119260000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0114c7f8c0e71a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIXX_OFER/FIXX_OFER_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIXON_OFER/FIXON_OFER_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0634bea36b271a1026.htm": {
    "author": "סלבס",
@@ -17741,6 +17742,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13c84bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18212_27102026080555/M_Tarbut_18212_27102026080555_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13de273436e71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בגלל תמונה מהקלפי - התקרית הלא נעימה של מירן בוזגלו עם אחת החברות איתה עובדת",
+   "duration_s": 7,
+   "first_seen_ms": 1793122946651,
+   "image": "https://img.mako.co.il/2026/10/27/M_Celebs_18270_27102026053113_1400_1793122333950_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793122340000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בגלל תמונה מהקלפי - התקרית הלא נעימה של מירן בוזגלו עם אחת החברות איתה עובדת",
+   "type": "mivzakim",
+   "updated_ms": 1793122340000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13de273436e71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18270_27102026053113/M_Celebs_18270_27102026053113_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-20e9573d4bf61a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -18316,6 +18335,24 @@
    "updated_ms": 1792942172000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7a22dd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18087_25102026032824/M_Celebs_18087_25102026032824_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ea6a59855e71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "גם המסכות יצאו להצביע: אופירה אסייג והפה הגדול מ\"הזמר במסכה\" הגיעו להצביע בקלפי שבבית הספר נעמי שמר",
+   "duration_s": 83,
+   "first_seen_ms": 1793122946651,
+   "image": "https://img.mako.co.il/2026/10/27/M_Celebs_18269_27102026051926_1400_1793121713560_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793121720000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "גם המסכות יצאו להצביע: אופירה אסייג והפה הגדול מ\"הזמר במסכה\" הגיעו להצביע בקלפי שבבית הספר נעמי שמר",
+   "type": "mivzakim",
+   "updated_ms": 1793121720000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ea6a59855e71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18269_27102026051926/M_Celebs_18269_27102026051926_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ed8f381f0a71a1026.htm": {
    "author": "עדכוני בידור",
@@ -44118,7 +44155,9 @@
    "image": "https://img.mako.co.il/2026/10/27/SHIR_PRECENT_271026_1400_1793116359211_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793116368000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "שיא מטורף: השוואה של אחוזי ההצבעה לאורך השנים",
    "type": "news",
    "updated_ms": 1793118180000,
@@ -44524,6 +44563,22 @@
    "updated_ms": 1793051860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-8aa167bba2a71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/rinat_5things_261026/MASTER/rinat_5things_261026_m/rinat_5things_261026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-91616c0916e71a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "באמצע שידור בערוץ החדשות i24 אורי גלר קם ועזב את הפאנל.",
+   "duration_s": 42,
+   "first_seen_ms": 1793122946651,
+   "image": "https://img.mako.co.il/2026/10/27/SHIR_URIG_271026_1400_1793122451303_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793122461000,
+   "sections": [],
+   "title": "פיצוץ באמצע השידור: אורי גלר קם ועזב את הפאנל",
+   "type": "news",
+   "updated_ms": 1793122461000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-91616c0916e71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/SHIR_URIG_271026/MASTER/SHIR_URIG_271026/SHIR_URIG_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-943b2c4451871a1026.htm": {
    "author": "חדשות",
