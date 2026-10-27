@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8793f4ecb1d71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ab57f75982d71a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5f7cb474f1d71a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f10f75982d71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18170,6 +18172,24 @@
    "updated_ms": 1793049201000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ed8f381f0a71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18181_26102026091036/M_Tarbut_18181_26102026091036_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f10f75982d71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בדרך לקלפי, גל גדות פוגשת את אשר והמונית במשדר הבחירות של ״ארץ נהדרת״",
+   "duration_s": 39,
+   "first_seen_ms": 1793102246254,
+   "image": "https://img.mako.co.il/2026/10/27/M_Tarbut_18237_27102026114452_1400_1793101588682_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793101595000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בדרך לקלפי, גל גדות פוגשת את אשר והמונית במשדר הבחירות של ״ארץ נהדרת״",
+   "type": "mivzakim",
+   "updated_ms": 1793101595000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f10f75982d71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18237_27102026114452/M_Tarbut_18237_27102026114452_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f476f4d9bb71a1026.htm": {
    "author": "עדכוני בידור",
@@ -44089,6 +44109,24 @@
    "updated_ms": 1793082491000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5a8ef65b10c71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Wedding_27102026/MASTER/Kim_Wedding_27102026/Kim_Wedding_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5f7cb474f1d71a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "כתבת של ערוץ 14, גל טובי, שידרה מקלפי בשכונת דניה בחיפה, כשעובר אורח טען שהיא מצלמת אנשים בניגוד לחוק. בין השניים התפתח עימות, שבמהלכו לטענתה הוא נצמד אליה ונגע בציוד שלה. \"זו בריונות רק כי אני ערוץ 14\", אמרה טובי בדמעות.",
+   "duration_s": 43,
+   "first_seen_ms": 1793102246254,
+   "image": "https://img.mako.co.il/2026/10/27/Kim_C14_27102026_1400_1793100972072_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793100978000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "כתבת ערוץ 14 הוטרדה בשידור: \"זו בריונות, נמאס לי\"",
+   "type": "news",
+   "updated_ms": 1793100978000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5f7cb474f1d71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_C14_27102026/MASTER/Kim_C14_27102026/Kim_C14_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-67b1ad3759771a1027.htm": {
    "author": "חדשות",
@@ -88136,6 +88174,24 @@
    "updated_ms": 1792989377000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a85ef45d97671a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_weather2610_7764_26102026043424/V1_weather2610_7764_26102026043424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ab57f75982d71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "המשטרה: תושב ירושלים בשנות ה-20 לחייו נעצר עם סכין בסמוך ליאיר גולן, לא התרחש ניסיון דקירה",
+   "duration_s": 9,
+   "first_seen_ms": 1793102246254,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18238_27102026115045_1400_1793101932590_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793101939000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "המשטרה: תושב ירושלים בשנות ה-20 לחייו נעצר עם סכין בסמוך ליאיר גולן, לא התרחש ניסיון דקירה",
+   "type": "mivzakim",
+   "updated_ms": 1793101939000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ab57f75982d71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18238_27102026115045/M_NEWS_18238_27102026115045_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-adc5bace48371a1026.htm": {
    "author": "מבזקים",
