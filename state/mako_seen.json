@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793077049019,
+ "last_run_ms": 1793077348953,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24149,6 +24149,18 @@
    "section": "",
    "title": "בדקתם לאחרונה כמה עולה קופסה של גלידוניות?"
   },
+  "https://www.mako.co.il/food-cooking_magazine/new_products/Article-c6d7b43830871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793077348953,
+   "content_type": "article",
+   "first_seen_ms": 1793077348953,
+   "indexable": true,
+   "indexnow_ms": 1793077348953,
+   "published_ms": 1793076000000,
+   "section": "",
+   "title": "מי בכלל ידע ששוקולד ג'מייקה הוא כל כך טעים?"
+  },
   "https://www.mako.co.il/food-cooking_magazine/new_products/Article-f5ad1af011fa0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24412,6 +24424,18 @@
    "published_ms": 1792658880000,
    "section": "",
    "title": "גם אתם יכולים להיות מאלה שמכינים מוחיטו בבית"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-ff3add24e9371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793077348953,
+   "content_type": "recipe",
+   "first_seen_ms": 1793077348953,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793077080000,
+   "section": "",
+   "title": "המתח הורג אתכם? תכינו איזה קוקטייל טוב"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-12f2b5c653011a1026.htm": {
    "check_attempts": 1,
@@ -24700,6 +24724,18 @@
    "published_ms": 1791429120000,
    "section": "",
    "title": "סלמון כבוש ביתי - אבל בגרסה הכי טרנדית"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-gluten-free/Recipe-37577b2994451a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793077348953,
+   "content_type": "recipe",
+   "first_seen_ms": 1793077348953,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793074740000,
+   "section": "",
+   "title": "המתכון לפיצה לל\"ג שיחזיר את ערב הפיצה לתמונה"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-gluten-free/Recipe-455903d3a9271a1026.htm": {
    "check_attempts": 1,
@@ -25228,6 +25264,18 @@
    "published_ms": 1792583640000,
    "section": "",
    "title": "הלוקיישן המפתיע למסעדה הבאה של קפה גן סיפור"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-bfbebd17b7371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793077348953,
+   "content_type": "article",
+   "first_seen_ms": 1793077348953,
+   "indexable": true,
+   "indexnow_ms": 1793077348953,
+   "published_ms": 1793075940000,
+   "section": "",
+   "title": "גן העדן החדש לקרניבורים נמצא דווקא בפרדס חנה"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-cd3e63afa7271a1026.htm": {
    "check_attempts": 1,
@@ -39497,6 +39545,18 @@
    "section": "סלבס",
    "title": "\"נראית מסוממת ורעבה\": יעל שלביה חוטפת"
   },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-c1f3e4744f971a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-c1f3e4744f971a1026.htm",
+   "checked_ms": 1793077348953,
+   "content_type": "article",
+   "first_seen_ms": 1793077348953,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793073960000,
+   "section": "",
+   "title": "סיים בדמעות: זה המפורסם שנחשף ב\"הזמר במסכה\""
+  },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-de1fc5c4d1c11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -47665,7 +47725,7 @@
    "indexnow_ms": null,
    "published_ms": 1793073600000,
    "section": "",
-   "title": "הקלפיות ייפתחו ב-7:00: המדריך לכל מה שצריך לדעת"
+   "title": "הקלפיות נפתחו: כל מה שצריך לדעת"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-9833906a9ecc0a1027.htm": {
    "check_attempts": 1,
