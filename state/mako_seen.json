@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793079148975,
+ "last_run_ms": 1793079448832,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42677,6 +42677,18 @@
    "section": "דיגיטל",
    "title": "\"הטעתה את המשתמשים\": הסיבה שטיקטוק תשלם 100 מיליון"
   },
+  "https://www.mako.co.il/nexter-news/Article-e17bc6be0db71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793079387560,
+   "content_type": "article",
+   "first_seen_ms": 1793079387560,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793078880000,
+   "section": "דיגיטל",
+   "title": "אינטל קונה חברה ישראלית ב-2.3 מיליארד דולר"
+  },
   "https://www.mako.co.il/nexter-news/Article-e3e31e13f2ce0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48051,6 +48063,18 @@
    "section": "",
    "title": "קירות מתקלפים וזבל: מה קרה לבית המלון המפואר שננטש"
   },
+  "https://www.mako.co.il/travel-israel/Article-37b6b30777871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793079267584,
+   "content_type": "article",
+   "first_seen_ms": 1793079267584,
+   "indexable": true,
+   "indexnow_ms": 1793079267584,
+   "published_ms": 1793080140000,
+   "section": "חופש",
+   "title": "אחרי שמצביעים: זה המקום המושלם להירגע בו קצת"
+  },
   "https://www.mako.co.il/travel-israel/Article-3ba2e901b9c51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -48974,6 +48998,18 @@
    "published_ms": 1792575360000,
    "section": "חופש",
    "title": "הצטלם עם דגל ישראל - והסתבך במדינה שלו"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-11e2af3df8261a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793079267584,
+   "content_type": "article",
+   "first_seen_ms": 1793079267584,
+   "indexable": true,
+   "indexnow_ms": 1793079267584,
+   "published_ms": 1793076480000,
+   "section": "חופש",
+   "title": "לפני כולם: זה הזמן הכי שווה לטוס בו לכריסמס השנה"
   },
   "https://www.mako.co.il/travel-news/international/Article-12932e5a603f0a1026.htm": {
    "check_attempts": 1,
@@ -49958,6 +49994,18 @@
    "published_ms": 1791107400000,
    "section": "חופש",
    "title": "ארגון הטרור קורא לפעולות נוספות בטיסות לישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-99f8109c99371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793079267584,
+   "content_type": "article",
+   "first_seen_ms": 1793079267584,
+   "indexable": true,
+   "indexnow_ms": 1793079267584,
+   "published_ms": 1793079420000,
+   "section": "חופש",
+   "title": "ישראל נמצאת במוקד הסערה במדינה השקטה"
   },
   "https://www.mako.co.il/travel-news/international/Article-9a24b01dbe251a1027.htm": {
    "check_attempts": 1,
@@ -51458,6 +51506,18 @@
    "published_ms": 1792052880000,
    "section": "חופש",
    "title": "האובססיה החדשה: המוצר המוזר שכולם חוזרים איתו מחו\"ל"
+  },
+  "https://www.mako.co.il/travel-world/Article-69ad8b393a771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793079267584,
+   "content_type": "article",
+   "first_seen_ms": 1793079267584,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793076900000,
+   "section": "חופש",
+   "title": "רוצים שינוי? המקומות שלא הרבה תיירים מכירים"
   },
   "https://www.mako.co.il/travel-world/Article-6f771801d4371a1027.htm": {
    "check_attempts": 1,

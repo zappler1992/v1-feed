@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a479c6be0db71a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f476f4d9bb71a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-1df76f4d9bb71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-67a6c6be0db71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -562,7 +560,8 @@
    "published_ms": null,
    "sections": [
     "60 שניות",
-    "בחירות 2026"
+    "בחירות 2026",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם עמית סגל: מהדורת בחירות 2026",
    "type": "general",
@@ -784,7 +783,8 @@
    "importance": 1,
    "published_ms": 1791990540000,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם יאיר שרקי",
    "type": "general",
@@ -879,7 +879,8 @@
    "importance": 1,
    "published_ms": 1793001900000,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם דפנה ליאל ספיישל בחירות",
    "type": "general",
@@ -43882,14 +43883,14 @@
    "duration_s": 111,
    "first_seen_ms": 1793072545803,
    "image": "https://img.mako.co.il/2026/10/26/MAYA_BCHIROT_261026_1400_1793050054832_FirstFrame.jpg",
-   "importance": 2,
+   "importance": 1,
    "published_ms": 1793050061000,
    "sections": [
     "הכי נצפים עכשיו"
    ],
    "title": "אלה הם הבוחרים החדשים בבחירות",
    "type": "news",
-   "updated_ms": 1793050061000,
+   "updated_ms": 1793079060000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aace3b6451a71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/MAYA_BCHIROT_261026/MASTER/MAYA_BCHIROT_261026/MAYA_BCHIROT_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -86400,6 +86401,24 @@
    "updated_ms": 1793009287000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18134_26102026100635/M_NEWS_18134_26102026100635_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-67a6c6be0db71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בכל הגזרות: הכוננות הגבוהה במערכת הביטחון ביום הבחירות",
+   "duration_s": 21,
+   "first_seen_ms": 1793079445898,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_lilach_7804_27102026053214_1400_1793079208916_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793079215000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בכל הגזרות: הכוננות הגבוהה במערכת הביטחון ביום הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793079215000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-67a6c6be0db71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_lilach_7804_27102026053214/V1_karind_lilach_7804_27102026053214_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-692b55dd33471a1027.htm": {
    "author": "מבזקים",
