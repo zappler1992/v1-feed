@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793087849072,
+ "last_run_ms": 1793088149179,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12006,6 +12006,18 @@
    "published_ms": 1790844180000,
    "section": "ספורט",
    "title": "כך רטנר עשוי לחזור לרוטציה של מכבי חיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e4c1e06135c71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793088149179,
+   "content_type": "article",
+   "first_seen_ms": 1793088149179,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793087880000,
+   "section": "ספורט",
+   "title": "גוש חוסם: כך ייראה היום שאחרי במכבי חיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e5657aca73a41a1026.htm": {
    "check_attempts": 1,
