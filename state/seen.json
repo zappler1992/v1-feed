@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-49b04752ecb71a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2eff1c4d60c71a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5a8ef65b10c71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17605,6 +17606,24 @@
    "updated_ms": 1793081421000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2ed1daceeeb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18192_27102026060904/M_Music_18192_27102026060904_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2eff1c4d60c71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה ג'ט לג? עומר מילר נחת מתאילנד ולא התעכב בדרך לקלפי",
+   "duration_s": 9,
+   "first_seen_ms": 1793083045956,
+   "image": "https://img.mako.co.il/2026/10/27/M_Celebs_18193_27102026062400_1400_1793082720102_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793082726000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה ג'ט לג? עומר מילר נחת מתאילנד ולא התעכב בדרך לקלפי",
+   "type": "mivzakim",
+   "updated_ms": 1793082726000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2eff1c4d60c71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18193_27102026062400/M_Celebs_18193_27102026062400_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3f54872b9c771a1026.htm": {
    "author": "עדכוני בידור",
@@ -43702,6 +43721,24 @@
    "updated_ms": 1792941464000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-55dbdd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/fixsabb/fixsabb_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5a8ef65b10c71a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ביום שבו רבים מנצלים את השבתון כדי להגיע לקלפי, זוג אחד החליט לחגוג את היום המיוחד שלהם דווקא ביום בחירות.",
+   "duration_s": 58,
+   "first_seen_ms": 1793083045956,
+   "image": "https://img.mako.co.il/2026/10/27/Kim_Wedding_27102026_1400_1793082485129_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793082491000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "בדרך לחתונה עוצרים בקלפי: הזוג שבחר להתחתן דווקא ביום הבחירות",
+   "type": "news",
+   "updated_ms": 1793082491000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5a8ef65b10c71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Wedding_27102026/MASTER/Kim_Wedding_27102026/Kim_Wedding_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-67b1ad3759771a1027.htm": {
    "author": "חדשות",
