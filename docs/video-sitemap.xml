@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ebff0d685f71a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_NEWS_18277_27102026100140_1400_1793138571566_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>חגיגות במטה הדמוקרטים אחרי פרסום תוצאות המדגמים</video:title>
+<video:description>חגיגות במטה הדמוקרטים אחרי פרסום תוצאות המדגמים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18277_27102026100140/M_NEWS_18277_27102026100140_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>15</video:duration>
+<video:publication_date>2026-10-27T22:02:59+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-148c857b45f71a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/27/V1_KVISH4_7883_27102026094954_1400_1793137869366_FirstFrame.jpg</video:thumbnail_loc>
@@ -401,6 +417,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -792,6 +809,23 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-54a98e0602e71a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/27/MAYA_BODY_271026_1400_1793117623652_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אינזקוט נגד נתניהו: מה שפת הגוף שלהם אומרת</video:title>
+<video:description>מה באמת מסתתר מאחורי תנועות הידיים, המבטים ועצימות העיניים של המועמדים? צפו בניתוח שפת הגוף של איזנקוט ונתניהו.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/MAYA_BODY_271026/MASTER/MAYA_BODY_271026/MAYA_BODY_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>88</video:duration>
+<video:publication_date>2026-10-27T16:13:50+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>

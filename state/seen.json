@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-148c857b45f71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ebff0d685f71a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-54a98e0602e71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44211,7 +44212,9 @@
    "image": "https://img.mako.co.il/2026/10/27/SHIR_VICTORY_271026_1400_1793125413803_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793125421000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "רגע לפני סגירת הקלפיות: אלה המפתחות של איזנקוט ונתניהו לניצחון",
    "type": "news",
    "updated_ms": 1793128620000,
@@ -44361,6 +44364,24 @@
    "updated_ms": 1793079265000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-49b04752ecb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Shopping_27102026/MASTER/Kim_Shopping_27102026/Kim_Shopping_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-54a98e0602e71a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מה באמת מסתתר מאחורי תנועות הידיים, המבטים ועצימות העיניים של המועמדים? צפו בניתוח שפת הגוף של איזנקוט ונתניהו.",
+   "duration_s": 88,
+   "first_seen_ms": 1793138845982,
+   "image": "https://img.mako.co.il/2026/10/27/MAYA_BODY_271026_1400_1793117623652_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793117630000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "אינזקוט נגד נתניהו: מה שפת הגוף שלהם אומרת",
+   "type": "news",
+   "updated_ms": 1793117630000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-54a98e0602e71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/MAYA_BODY_271026/MASTER/MAYA_BODY_271026/MAYA_BODY_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-554e241de2771a1026.htm": {
    "author": "חדשות",
@@ -88389,6 +88410,24 @@
    "updated_ms": 1792910720000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6e7de2c2ac171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18051_25102026064348/M_NEWS_18051_25102026064348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ebff0d685f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חגיגות במטה הדמוקרטים אחרי פרסום תוצאות המדגמים",
+   "duration_s": 15,
+   "first_seen_ms": 1793138845982,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18277_27102026100140_1400_1793138571566_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793138579000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חגיגות במטה הדמוקרטים אחרי פרסום תוצאות המדגמים",
+   "type": "mivzakim",
+   "updated_ms": 1793138579000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ebff0d685f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18277_27102026100140/M_NEWS_18277_27102026100140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-6ec306d016671a1026.htm": {
    "author": "מבזקים",
