@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-58567bec19c71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a72cea141ac71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cde8ea141ac71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44219,7 +44220,7 @@
    "description": "עדיין מתלבטים? רגע לפני שהולכים לקלפי, עושים סדר במערכת הבחירות: המפלגות, המועמדים והרגעים המרכזיים שהובילו אותנו עד ליום ההכרעה. \nמתוך חדשות 12",
    "duration_s": 94,
    "first_seen_ms": 1793092046175,
-   "image": "https://img.mako.co.il/2026/10/27/inbalsof271026m_1400_1793091560812_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/27/soffffffffffix_1400_1793092476184_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793091571000,
    "sections": [],
@@ -44227,7 +44228,7 @@
    "type": "news",
    "updated_ms": 1793091571000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9d8409659c71a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/inbalsof271026/MASTER/inbalsof271026m/inbalsof271026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/soffffffffffix/soffffffffffix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-bb161b9021471a1026.htm": {
    "author": "חדשות",
@@ -87622,6 +87623,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a479c6be0db71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18189_27102026052346/M_NEWS_18189_27102026052346_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a72cea141ac71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מבזק הבחירות של V1",
+   "duration_s": 54,
+   "first_seen_ms": 1793092646157,
+   "image": "https://img.mako.co.il/2026/10/27/V1_NOAY_VOTE2_271026_7822_27102026091335_1400_1793092503423_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793092509000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מבזק הבחירות של V1",
+   "type": "mivzakim",
+   "updated_ms": 1793092509000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a72cea141ac71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_NOAY_VOTE2_271026_7822_27102026091335/V1_NOAY_VOTE2_271026_7822_27102026091335_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a85ef45d97671a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87981,6 +88000,24 @@
    "updated_ms": 1792988667000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cd51644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18106_26102026042243/M_NEWS_18106_26102026042243_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cde8ea141ac71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחוז ההצבעה עד לשעה 10:00 - הגבוה ביותר מאז 1981",
+   "duration_s": 7,
+   "first_seen_ms": 1793092646157,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18221_27102026091127_1400_1793092362952_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793092369000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחוז ההצבעה עד לשעה 10:00 - הגבוה ביותר מאז 1981",
+   "type": "mivzakim",
+   "updated_ms": 1793092369000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cde8ea141ac71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18221_27102026091127/M_NEWS_18221_27102026091127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cec4a778f3c71a1026.htm": {
    "author": "מבזקים",
