@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793143649067,
+ "last_run_ms": 1793143949158,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2636,6 +2636,18 @@
    "published_ms": 1791990780000,
    "section": "ספורט",
    "title": "\"אבדיה פתר את הבעיה היחידה שהייתה לו\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-190e39f7caf71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793143949158,
+   "content_type": "article",
+   "first_seen_ms": 1793143949158,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793143500000,
+   "section": "ספורט",
+   "title": "אין סיכוי ל-MVP: אדוורדס בחוץ לזמן ממושך"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-1e91a7ace0c51a1026.htm": {
    "check_attempts": 1,
