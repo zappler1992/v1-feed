@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793100749354,
+ "last_run_ms": 1793101049270,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26620,6 +26620,18 @@
    "published_ms": 1791437520000,
    "section": "בריאות",
    "title": "הילדה הייתה בסכנת חיים - אבל האם סירבה לחסן"
+  },
+  "https://www.mako.co.il/health-news/Article-6fb420c2be871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793100867558,
+   "content_type": "article",
+   "first_seen_ms": 1793100867558,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793031480000,
+   "section": "בריאות",
+   "title": "אחרי הקלפי תוכלו לעשות עוד משהו חשוב"
   },
   "https://www.mako.co.il/health-news/Article-701b0a9ea6e41a1027.htm": {
    "check_attempts": 1,
