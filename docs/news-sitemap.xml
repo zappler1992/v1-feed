@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7837f45a1eb71a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-27T05:56:31+00:00</news:publication_date>
+<news:title>95% מהקלפיות נפתחו, ועדת הבחירות מעדכנת: &quot;ייתכנו עיכובים נקודתיים&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/27/V1_karind_bhirot_7808_27102026055449_1400_1793080585221_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-5706590acdb71a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2348,14 +2357,5 @@
 <news:title>אירוע ירי קשה בפלורידה: לפחות 12 נפצעו בעיר טלהאסי, בהם שישה קטינים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/25/V1_FLORIDA_7731_25102026061618_1400_1792909085988_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-cc52f1aee4461a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-25T06:00:00+00:00</news:publication_date>
-<news:title>פולישוק פרק 19: פיטר ונכנס לפאניקה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/22/POLISHUK_EP19_1400_1792685371910_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
