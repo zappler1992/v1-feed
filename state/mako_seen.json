@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793128949993,
+ "last_run_ms": 1793129249788,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4185,6 +4185,18 @@
    "section": "ספורט",
    "title": "צפו: אולפן היורוליג לקראת הפועל - וירטוס"
   },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-02bae318ece71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793129186819,
+   "content_type": "article",
+   "first_seen_ms": 1793129186819,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793128800000,
+   "section": "ספורט",
+   "title": "הגרוע ביותר העונה: רבע הבלהות של מכבי"
+  },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-03d4597e33d11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -4316,6 +4328,18 @@
    "published_ms": 1792676100000,
    "section": "ספורט",
    "title": "כך שמו של השופט ממונאקו נקשר לפרשה ביוון"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-15cae318ece71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793129249788,
+   "content_type": "article",
+   "first_seen_ms": 1793129249788,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793128980000,
+   "section": "ספורט",
+   "title": "צפו: מופע האלי-הופים של הכוכב האדום"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-16ae647148361a1026.htm": {
    "check_attempts": 1,
