@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-109437a8ced71a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-91f3d5696ad71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-985818507fd71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6250,6 +6251,22 @@
    "updated_ms": 1793085845000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-8036d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_GalAdam_27102026/MASTER/Kim_GalAdam_27102026/Kim_GalAdam_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-91f3d5696ad71a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "כוכב הסדרות \"ER\" ו\"הפיט\", נואה ווייל בן ה-55, נבחר לגבר הסקסי ביותר לשנת 2026 של מגזין PEOPLE. השחקן, שזוכה בתואר לראשונה בקריירה שלו, סיפר כי כשהתבשר על הבחירה התקשה להאמין שהיא אמיתית.",
+   "duration_s": 30,
+   "first_seen_ms": 1793115147440,
+   "image": "https://img.mako.co.il/2026/10/27/inbalno271026m_1400_1793110398171_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793110404000,
+   "sections": [],
+   "title": "המגזין האמריקאי קבע: נואה וויילי הוא הגבר הסקסי בעולם לשנת 2026",
+   "type": "general",
+   "updated_ms": 1793110404000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-91f3d5696ad71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/inbalno271026/MASTER/inbalno271026m/inbalno271026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-9cf24bf156c71a1026.htm": {
    "author": "סלבס",
@@ -88222,6 +88239,24 @@
    "updated_ms": 1793020575000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-96646c6184871a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_missing_7791_26102026011444/V1_karind_missing_7791_26102026011444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-985818507fd71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נתוני שיא: שיעור ההצבעה עומד על כ-55.7%",
+   "duration_s": 21,
+   "first_seen_ms": 1793115147440,
+   "image": "https://img.mako.co.il/2026/10/27/V1_DINLIVNE_7850_27102026032351_1400_1793114712366_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793114723000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נתוני שיא: שיעור ההצבעה עומד על כ-55.7%",
+   "type": "mivzakim",
+   "updated_ms": 1793114723000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-985818507fd71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_DINLIVNE_7850_27102026032351/V1_DINLIVNE_7850_27102026032351_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9899935b84c71a1027.htm": {
    "author": "מבזקים",
