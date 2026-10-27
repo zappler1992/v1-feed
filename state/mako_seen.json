@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793116049772,
+ "last_run_ms": 1793116349763,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33388,6 +33388,18 @@
    "published_ms": 1791800640000,
    "section": "פלילים",
    "title": "רגע לפני הנקמה: עבריין מוכר מאשדוד נעצר"
+  },
+  "https://www.mako.co.il/men-men_news/Article-0144387e8fd71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793116349763,
+   "content_type": "article",
+   "first_seen_ms": 1793116349763,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793115720000,
+   "section": "",
+   "title": "עשרות אלפי ש\"ח במעטפות: פעילי מפלגה נחשדו בשוחד בחירות"
   },
   "https://www.mako.co.il/men-men_news/Article-01ed5b35e67d0a1026.htm": {
    "check_attempts": 1,
