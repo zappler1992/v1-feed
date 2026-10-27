@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793131648732,
+ "last_run_ms": 1793131948761,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41608,6 +41608,18 @@
    "published_ms": 1792753200000,
    "section": "",
    "title": "4 מתכונים של עינב בובליל לארוחת צהריים"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-77a2742b1ed51a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793131948761,
+   "content_type": "article",
+   "first_seen_ms": 1793131948761,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793118960000,
+   "section": "עיצוב הבית",
+   "title": "מואר ואלגנטי: הבית של הרב והרבנית בירושלים"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-7f1d1070c3d51a1027.htm": {
    "check_attempts": 1,

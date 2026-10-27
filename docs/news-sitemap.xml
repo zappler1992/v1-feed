@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7b2d2a1c5fe71a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-27T20:06:31+00:00</news:publication_date>
+<news:title>ישראל הצביעה נגד נתניהו - אבל לא ברור מי יכול להרכיב ממשלה: תוצאות המדגם</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/27/V1_MIDGAM_7866_27102026080440_1400_1793131583930_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-bc15c98a6ce71a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2801,14 +2810,5 @@
 <news:title>ניקי מינאז׳ מעבירה את הזמן באייר פורס 1</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/25/M_Celebs_18102_25102026081658_1400_1792959524972_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-60cd2c668a471a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-25T20:10:00+00:00</news:publication_date>
-<news:title>הגענו יחד עם לידור אדמוני לפגוש את הפרלמנט של ראשון לציון ולענות יחד איתם על מצפן הבחירות של mako</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/25/M_Tarbut_18101_25102026080648_1400_1792958993468_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
