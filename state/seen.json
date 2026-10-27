@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b65b0305d0d71a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d6d90305d0d71a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-78e9f43ed0d71a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d3790305d0d71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8793f4ecb1d71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6245,7 +6242,8 @@
    "importance": 2,
    "published_ms": 1793089521000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הווידוי של בר רפאלי בפנאל השופטים של הזמר במסכה: \"יש לי חולשה לקירחים\"",
    "type": "general",
@@ -87666,6 +87664,24 @@
    "updated_ms": 1793080248000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-83e5590acdb71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18191_27102026054918/M_NEWS_18191_27102026054918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8793f4ecb1d71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מצבה של הנערה בת ה-17 שאושפזה עם סיבוך שפעת באשדוד השתפר מעט, אך מוסיף להיות קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1793101346247,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18236_27102026113348_1400_1793100915001_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793100921000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מצבה של הנערה בת ה-17 שאושפזה עם סיבוך שפעת באשדוד השתפר מעט, אך מוסיף להיות קשה",
+   "type": "mivzakim",
+   "updated_ms": 1793100921000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8793f4ecb1d71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18236_27102026113348/M_NEWS_18236_27102026113348_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8800dd24e9371a1026.htm": {
    "author": "מבזקים",
