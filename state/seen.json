@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b5ff5d4358f71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-24e388e6f9f71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7460a7f7b9f71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e40a7f7b9f71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -87162,6 +87164,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-241dc80044e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18267_27102026045609/M_NEWS_18267_27102026045609_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-24e388e6f9f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בהימורי פולי מרקט המגמה מתחילה להשתנות לטובת נתניהו",
+   "duration_s": 9,
+   "first_seen_ms": 1793143346045,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18283_27102026111810_1400_1793143174743_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793143181000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בהימורי פולי מרקט המגמה מתחילה להשתנות לטובת נתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1793143181000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-24e388e6f9f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18283_27102026111810/M_NEWS_18283_27102026111810_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-250509c8bdd71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88570,6 +88590,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-723a411fb3471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_KARIND_MADA_7757_25102026060801/V1_KARIND_MADA_7757_25102026060801_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7460a7f7b9f71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי פרסום המדגמים: ריקודים וחגיגות במטה \"יהדות התורה\"",
+   "duration_s": 5,
+   "first_seen_ms": 1793143346045,
+   "image": "https://img.mako.co.il/2026/10/28/V1_stiv_haredim_7888_27102026111808_1400_1793143157233_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793143167000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי פרסום המדגמים: ריקודים וחגיגות במטה \"יהדות התורה\"",
+   "type": "mivzakim",
+   "updated_ms": 1793143167000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7460a7f7b9f71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_stiv_haredim_7888_27102026111808/V1_stiv_haredim_7888_27102026111808_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-763b41da88b71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -89219,6 +89257,24 @@
    "updated_ms": 1792911677000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9de1556c4d171a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18052_25102026065947/M_NEWS_18052_25102026065947_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e40a7f7b9f71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הבחירות מאחורינו, אבל בן גביר עדיין שולח סמסים וקורא להצביע לו",
+   "duration_s": 9,
+   "first_seen_ms": 1793143346045,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18282_27102026111729_1400_1793143146502_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793143152000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הבחירות מאחורינו, אבל בן גביר עדיין שולח סמסים וקורא להצביע לו",
+   "type": "mivzakim",
+   "updated_ms": 1793143152000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e40a7f7b9f71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18282_27102026111729/M_NEWS_18282_27102026111729_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e41a778f3c71a1026.htm": {
    "author": "",
