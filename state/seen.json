@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c905adb934d71a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6c20cec333c71a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4757d47885d71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44091,6 +44092,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-44cd249bbf271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_LAUNDRY_251026/MASTER/SHIR_LAUNDRY_251026/SHIR_LAUNDRY_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4757d47885d71a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 25,
+   "first_seen_ms": 1793105846392,
+   "image": "https://img.mako.co.il/2026/10/27/inbalcalpi271026m_1400_1793105351115_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793105357000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "צילמתם בקלפי? אלה ההשלכות האפשריות",
+   "type": "news",
+   "updated_ms": 1793105357000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4757d47885d71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/inbalcalpi271026/MASTER/inbalcalpi271026m/inbalcalpi271026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-49b04752ecb71a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -44216,6 +44235,22 @@
    "updated_ms": 1792939440000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/inbaltrump251002fidx/inbaltrump251002fidx_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6c20cec333c71a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "\"אחת ממערכות הבחירות הגורליות בתולדות ישראל\": כך מסקרים כלי התקשורת בעולם את הבחירות לכנסת ה-26, שנערכות היום. במוקד: הקרב בין בנימין נתניהו לגדי איזנקוט, וההכרעה שעשויה לשנות את המפה הפוליטית בישראל ולהשפיע על המזרח התיכון כולו. \nמתוך חדשות 12",
+   "duration_s": 57,
+   "first_seen_ms": 1793105846392,
+   "image": "https://img.mako.co.il/2026/10/27/inbalolam271026m_1400_1793085774963_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793105580000,
+   "sections": [],
+   "title": "בחירות 2026 בישראל - בראש הכותרות ברחבי העולם",
+   "type": "news",
+   "updated_ms": 1793105580000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6c20cec333c71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/inbalolam271026/MASTER/inbalolam271026m/inbalolam271026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6cae940c64771a1026.htm": {
    "author": "חדשות",
