@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793099849269,
+ "last_run_ms": 1793100149304,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34623,7 +34623,7 @@
    "indexnow_ms": 1793041587044,
    "published_ms": 1793072160000,
    "section": "פלילים",
-   "title": "אחרי 17 שנה בכלא: \"נעקוב אחריו מרגע השחרור\""
+   "title": "ראש ארגון הפשע ישוחרר אחרי 17 שנה בכלא"
   },
   "https://www.mako.co.il/men-men_news/Article-45eedf5f4c261a1026.htm": {
    "check_attempts": 1,
@@ -46382,6 +46382,18 @@
    "published_ms": 1792139820000,
    "section": "",
    "title": "ליברמן תקף בחריפות את איזנקוט. כך הוא השיב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-205b0915edc71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-205b0915edc71a1027.htm",
+   "checked_ms": 1793100027554,
+   "content_type": "article",
+   "first_seen_ms": 1793100027554,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793099520000,
+   "section": "",
+   "title": "אדם חמוש בסכין התקרב ליאיר גולן בתל אביב"
   },
   "https://www.mako.co.il/special-mako-news/Article-216ae20b9b711a1026.htm": {
    "check_attempts": 1,
