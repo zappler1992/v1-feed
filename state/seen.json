@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3afc996b15e71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e44996b15e71a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17901,6 +17902,24 @@
    "updated_ms": 1793082726000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2eff1c4d60c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18193_27102026062400/M_Celebs_18193_27102026062400_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "גם אתם התלבטתם עד הרגע האחרון כמו דנה רון?",
+   "duration_s": 87,
+   "first_seen_ms": 1793121746598,
+   "image": "https://img.mako.co.il/2026/10/27/M_Celebs_18268_27102026051815_1400_1793121605436_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793121612000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "גם אתם התלבטתם עד הרגע האחרון כמו דנה רון?",
+   "type": "mivzakim",
+   "updated_ms": 1793121612000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18268_27102026051815/M_Celebs_18268_27102026051815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-394f718904e71a1027.htm": {
    "author": "עדכוני בידור",
@@ -86342,6 +86361,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e060915edc71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18228_27102026104146/M_NEWS_18228_27102026104146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e44996b15e71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הצפות חריגות בקצרין: דיווחים מהצפון ומהדרום על מצביעים שמתקשים להגיע לקלפי",
+   "duration_s": 42,
+   "first_seen_ms": 1793121746598,
+   "image": "https://img.mako.co.il/2026/10/27/V1_KATZRIN_7859_27102026051652_1400_1793121478882_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793121485000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הצפות חריגות בקצרין: דיווחים מהצפון ומהדרום על מצביעים שמתקשים להגיע לקלפי",
+   "type": "mivzakim",
+   "updated_ms": 1793121485000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e44996b15e71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_KATZRIN_7859_27102026051652/V1_KATZRIN_7859_27102026051652_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0f749b8692771a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87269,19 +87306,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "מבזק הבחירות של V1",
-   "duration_s": 51,
+   "duration_s": 58,
    "first_seen_ms": 1793121146679,
-   "image": "https://img.mako.co.il/2026/10/27/V1_MIVZAK_1900_7858_27102026050653_1400_1793120901814_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/27/FIX_1900_1400_1793121548988_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1793120908000,
    "sections": [
     "מבזקים"
    ],
    "title": "מבזק הבחירות של V1",
    "type": "mivzakim",
-   "updated_ms": 1793120908000,
+   "updated_ms": 1793121600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3afc996b15e71a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_MIVZAK_1900_7858_27102026050653/V1_MIVZAK_1900_7858_27102026050653_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIX_1900/FIX_1900_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3be4a93142771a1026.htm": {
    "author": "מבזקים",
