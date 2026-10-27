@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793129249788,
+ "last_run_ms": 1793129550298,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4339,7 +4339,7 @@
    "indexnow_ms": null,
    "published_ms": 1793128980000,
    "section": "ספורט",
-   "title": "צפו: מופע האלי-הופים של הכוכב האדום"
+   "title": "צפו: מופע האלי-אופים של הכוכב האדום"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-16ae647148361a1026.htm": {
    "check_attempts": 1,
@@ -48326,6 +48326,18 @@
    "published_ms": 1790529600000,
    "section": "",
    "title": "השפלה בהונגריה: אירלנד הביסה את ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ee043fc129e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-ee043fc129e71a1026.htm",
+   "checked_ms": 1793129426856,
+   "content_type": "article",
+   "first_seen_ms": 1793129426856,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793126340000,
+   "section": "",
+   "title": "במקרה של מבוי סתום: התוכנית של הנשיא - כך יוטל המנדט"
   },
   "https://www.mako.co.il/special-mako-news/Article-f273f6f3fb861a1027.htm": {
    "check_attempts": 1,
