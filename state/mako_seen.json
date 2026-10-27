@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793116349763,
+ "last_run_ms": 1793116649774,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10243,6 +10243,18 @@
    "section": "ספורט",
    "title": "\"נתניהו נערך לאפשרות להגיע לבית\"ר-מכבי\""
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-648c2ccba0e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793116649774,
+   "content_type": "article",
+   "first_seen_ms": 1793116649774,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793116320000,
+   "section": "ספורט",
+   "title": "רק 4% לחיפה: הסיכוי של הגדולות לאליפות"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-64ffb18743721a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -12138,6 +12150,18 @@
    "published_ms": 1791714660000,
    "section": "ספורט",
    "title": "\"מאיפה זה בא?!\": אוהדי מכבי חיפה בהלם"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e600c7f8c0e71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793116649774,
+   "content_type": "article",
+   "first_seen_ms": 1793116649774,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793116200000,
+   "section": "ספורט",
+   "title": "אתם נירמלתם את זה: מכבי חיפה שוב קרסה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e84f61d193441a1027.htm": {
    "check_attempts": 1,
@@ -32823,7 +32847,7 @@
    "indexnow_ms": null,
    "published_ms": 1793083320000,
    "section": "",
-   "title": "הייתם בוחרים בהם? ראשי הממשלה בסדרות הנוער"
+   "title": "ראשי הממשלה בסדרות הנוער האהובות"
   },
   "https://www.mako.co.il/makoz-extra/Article-ef4a65352d851a1026.htm": {
    "check_attempts": 1,
