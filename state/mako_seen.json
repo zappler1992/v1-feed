@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793102249306,
+ "last_run_ms": 1793102549379,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10038,6 +10038,18 @@
    "published_ms": 1791008820000,
    "section": "ספורט",
    "title": "ברזיל וחצי גמר גביע ווינר: לוח השידורים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5a60439e43d71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793102549379,
+   "content_type": "article",
+   "first_seen_ms": 1793102549379,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793102400000,
+   "section": "ספורט",
+   "title": "פלקאו: \"אליפות? סיכוי טוב מאוד, אופטימי\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5b39da8bedf51a1026.htm": {
    "check_attempts": 1,
@@ -33664,6 +33676,18 @@
    "published_ms": 1791972600000,
    "section": "פלילים",
    "title": "\"אני האסיר היחידי במדינה שזה קורה לו\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-1251f75982d71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793102549379,
+   "content_type": "article",
+   "first_seen_ms": 1793102549379,
+   "indexable": true,
+   "indexnow_ms": 1793102549379,
+   "published_ms": 1793102040000,
+   "section": "",
+   "title": "צילמתם את עצמכם מצביעים בקלפי? זה העונש שאולי תקבלו"
   },
   "https://www.mako.co.il/men-men_news/Article-136e29bfd5931a1027.htm": {
    "check_attempts": 1,
