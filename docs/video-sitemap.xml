@@ -13,6 +13,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -33,6 +34,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aace3b6451a71a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/26/MAYA_BCHIROT_261026_1400_1793050054832_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אלה הם הבוחרים החדשים בבחירות</video:title>
+<video:description>אלה הבוחרים החדשים בבחירות: החברה הערבית והמגזר החרדי מובילים בשיעורי ההצטרפות, בעוד ירושלים ותל אביב מובילות במספר הבוחרים הטריים. האם הקול הצעיר ישבור שוויון או ישמור על המגמות הקודמות?</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/MAYA_BCHIROT_261026/MASTER/MAYA_BCHIROT_261026/MAYA_BCHIROT_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>111</video:duration>
+<video:publication_date>2026-10-26T21:27:41+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-ff193b6451a71a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/26/MAYA_ZAMAR_261026_1400_1793049628740_FirstFrame.jpg</video:thumbnail_loc>
@@ -46,6 +64,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>הזמר במסכה</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
