@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793133148798,
+ "last_run_ms": 1793133448798,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47486,6 +47486,18 @@
    "published_ms": 1791005160000,
    "section": "",
    "title": "במשך שעות: הדיון החשאי של בכירי ממשל טראמפ"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-717e80d573e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-717e80d573e71a1026.htm",
+   "checked_ms": 1793133387080,
+   "content_type": "article",
+   "first_seen_ms": 1793133387080,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793131800000,
+   "section": "",
+   "title": "התגובה הראשונה של איזנקוט - והמסר לנתניהו"
   },
   "https://www.mako.co.il/special-mako-news/Article-7aad26bb9d3e0a1027.htm": {
    "check_attempts": 1,
