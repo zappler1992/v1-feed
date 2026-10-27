@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f254752ecb71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-54aaf45a1eb71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b3bb590acdb71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -43879,7 +43880,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-aace3b6451a71a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "אלה הבוחרים החדשים בבחירות: החברה הערבית והמגזר החרדי מובילים בשיעורי ההצטרפות, בעוד ירושלים ותל אביב מובילות במספר הבוחרים הטריים. האם הקול הצעיר ישבור שוויון או ישמור על המגמות הקודמות?",
+   "description": "אלה הבוחרים החדשים בבחירות: החברה הערבית והמגזר החרדי מובילים בשיעורי ההצטרפות, \nבעוד ירושלים ותל אביב מובילות במספר הבוחרים הטריים. האם הקול הצעיר ישבור שוויון או ישמור על המגמות הקודמות?",
    "duration_s": 111,
    "first_seen_ms": 1793072545803,
    "image": "https://img.mako.co.il/2026/10/26/MAYA_BCHIROT_261026_1400_1793050054832_FirstFrame.jpg",
@@ -86293,6 +86294,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-545989fa4a871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18153_26102026023842/M_NEWS_18153_26102026023842_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-54aaf45a1eb71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: \"הפסקת האש עם איראן הייתה בזבוז זמן\"",
+   "duration_s": 21,
+   "first_seen_ms": 1793080045926,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_trump_271026_7806_27102026054326_1400_1793079869057_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793079875000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: \"הפסקת האש עם איראן הייתה בזבוז זמן\"",
+   "type": "mivzakim",
+   "updated_ms": 1793079875000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-54aaf45a1eb71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_trump_271026_7806_27102026054326/V1_karind_trump_271026_7806_27102026054326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-56616bac79671a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87050,6 +87069,24 @@
    "updated_ms": 1792989307000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b1e2644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18108_26102026043323/M_NEWS_18108_26102026043323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b3bb590acdb71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"הו הא מי זה בא? ראש הממשלה הבא\": יו\"ר מפלגת ישר! גדי איזנקוט יוצא מביתו להצביע",
+   "duration_s": 20,
+   "first_seen_ms": 1793080045926,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_gadi_7805_27102026053944_1400_1793079658448_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793079667000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"הו הא מי זה בא? ראש הממשלה הבא\": יו\"ר מפלגת ישר! גדי איזנקוט יוצא מביתו להצביע",
+   "type": "mivzakim",
+   "updated_ms": 1793079667000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b3bb590acdb71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_gadi_7805_27102026053944/V1_karind_gadi_7805_27102026053944_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b44f08e37d671a1026.htm": {
    "author": "מבזקים",
