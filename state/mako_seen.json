@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793124750617,
+ "last_run_ms": 1793125050388,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48062,6 +48062,18 @@
    "published_ms": 1792965840000,
    "section": "חדשות",
    "title": "סערה במערכת הפוליטית: \"נתניהו, העיניים שלי עליך\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d5396c0916e71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-d5396c0916e71a1027.htm",
+   "checked_ms": 1793124987643,
+   "content_type": "article",
+   "first_seen_ms": 1793124987643,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793123520000,
+   "section": "",
+   "title": "אחרי ההפסד הצמוד בבחירות: המועמד נמלט לארה\"ב"
   },
   "https://www.mako.co.il/special-mako-news/Article-d572f47b3c541a1027.htm": {
    "check_attempts": 1,
