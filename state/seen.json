@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e5230915edc71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e2f0f55dbec71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e060915edc71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7d850915edc71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86002,6 +86004,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0d22771864271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_IRAN_7736_25102026090008/V1_IRAN_7736_25102026090008_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e060915edc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראש הממשלה נתניהו ורעייתו הצביעו בקלפי בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1793098046197,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18228_27102026104146_1400_1793097796807_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793097804000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראש הממשלה נתניהו ורעייתו הצביעו בקלפי בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793097804000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0e060915edc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18228_27102026104146/M_NEWS_18228_27102026104146_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0f749b8692771a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87394,6 +87414,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7d4b4bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIX_SHOHAD/FIX_SHOHAD_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7d850915edc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפייק שרץ ברשתות: אותה תמונה בדיוק, עם כיתוב שונה",
+   "duration_s": 9,
+   "first_seen_ms": 1793098046197,
+   "image": "https://img.mako.co.il/2026/10/27/V1_KARIND_fAKE_7831_27102026104143_1400_1793097782688_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793097789000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפייק שרץ ברשתות: אותה תמונה בדיוק, עם כיתוב שונה",
+   "type": "mivzakim",
+   "updated_ms": 1793097789000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7d850915edc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_KARIND_fAKE_7831_27102026104143/V1_KARIND_fAKE_7831_27102026104143_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7dc16f4d9bb71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88566,6 +88604,24 @@
    "updated_ms": 1793092587000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_holand_7823_27102026091456/V1_karind_holand_7823_27102026091456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e2f0f55dbec71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראש הממשלה בנימין נתניהו ורעייתו שרה נתניהו הצביעו בקלפי בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1793098046197,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_bibi_7832_27102026104416_1400_1793097937364_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793097944000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראש הממשלה בנימין נתניהו ורעייתו שרה נתניהו הצביעו בקלפי בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793097944000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e2f0f55dbec71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_bibi_7832_27102026104416/V1_karind_bibi_7832_27102026104416_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e3fa935b84c71a1027.htm": {
    "author": "מבזקים",
