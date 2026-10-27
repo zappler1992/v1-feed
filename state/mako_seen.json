@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793135248856,
+ "last_run_ms": 1793135548867,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4892,6 +4892,18 @@
    "published_ms": 1792178280000,
    "section": "ספורט",
    "title": "ותודה לסקוטי: 87:95 לבשיקטאש על באיירן"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-4e88623723f71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793135548867,
+   "content_type": "article",
+   "first_seen_ms": 1793135548867,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793135160000,
+   "section": "ספורט",
+   "title": "\"תצוגה מביכה. הפסדנו כבר במחצית הראשונה\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-4f6feb6f21f11a1026.htm": {
    "check_attempts": 1,
@@ -17212,6 +17224,18 @@
    "published_ms": 1790226420000,
    "section": "",
    "title": "ה\"טיימס\" נתבע: \"אנטישמיות והטיה נגד ישראל\""
+  },
+  "https://www.mako.co.il/culture-articles/Article-9826698902f71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793135427259,
+   "content_type": "article",
+   "first_seen_ms": 1793135427259,
+   "indexable": true,
+   "indexnow_ms": 1793135427259,
+   "published_ms": 1793134560000,
+   "section": "",
+   "title": "כך הגיבו בעולם אחרי פרסום המדגמים בישראל"
   },
   "https://www.mako.co.il/culture-articles/Article-98fe302033f21a1026.htm": {
    "check_attempts": 1,
