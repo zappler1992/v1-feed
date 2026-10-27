@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d4685b4b4bc71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1c29f6fa3cc71a1027.htm",
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-0998ac617ae51a1026.htm",
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-d19bb95041871a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-8b3c19e58b371a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1270,6 +1274,24 @@
    "updated_ms": 1793007420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP20/MASTER/ACADEMY_OF_LIES_EP20/ACADEMY_OF_LIES_EP20_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 21: אשלי ממשיכה להשפיל את מיה ומאשימה אותה בדחיפה שלא הייתה, אבל המריבה עולה לשתיהן בעבודות ניקיון משותפות. מיה מנסה להמשיך בהכנות עם ג׳אד ומגייסת את בן ליצור להם ריקוד. אלא שאשלי דורשת ממנו לעזוב את מיה ולעבוד איתה, ומעמידה אותו מול בחירה: החברה הכי טובה או הקריירה שלו.",
+   "duration_s": 162,
+   "first_seen_ms": 1793095046247,
+   "image": "https://img.mako.co.il/2026/10/26/ACADEMY_OF_LIES_EP21_1400_1793006317169_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793094540000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "בקצב השקר פרק 21: החברה או הקריירה?",
+   "type": "series",
+   "updated_ms": 1793094540000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP21/MASTER/ACADEMY_OF_LIES_EP21/ACADEMY_OF_LIES_EP21_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -31206,6 +31228,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP69/MASTER/LOADED_EP69/LOADED_EP69_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-8b3c19e58b371a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 71: ארז משוכנע שהאוליגרכים עוקבים אחריהם במצלמות נסתרות, ותומר מחליט לעשות מזה צחוק ומזמין את ברלד להופיע מול ה\"מצלמה\" שבשעון. ברלד נסחף למופע חושני עם פסל ושובר אותו בטעות - עכשיו גם תומר מפסיק לצחוק, בזמן שארז כבר בטוח שהם לא ייצאו משם בחיים.",
+   "duration_s": 93,
+   "first_seen_ms": 1793095046247,
+   "image": "https://img.mako.co.il/2026/10/25/LOADED_EP71_1400_1792942960772_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793094600000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "מסודרים פרק 71: נגעת, שברת, הסתבכת",
+   "type": "series",
+   "updated_ms": 1793094600000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-8b3c19e58b371a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP71/MASTER/LOADED_EP71/LOADED_EP71_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-ce93d74eb0371a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -31840,6 +31880,24 @@
    "updated_ms": 1792399920000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w03/shorts-f68cab8417f31a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/15/LOVE_CORNER_EP33/MASTER/LOVE_CORNER_EP33_M/LOVE_CORNER_EP33_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-0998ac617ae51a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 40: ליאור מגיע לעימות עם אמנון ועודד ומבהיר שחיי האהבה שלו אינם עניינם. בבית, אלונה מרגישה שהיא קורסת תחת העבודה בפיצרייה ושוקלת להפסיק ללמוד, אבל דניאלה מסרבת שתוותר על העתיד שלה. כשדניאלה מציעה לבקש מהדוד משה עזרה כספית, אלונה מזהירה שההימורים שלו רק יסבכו אותן בעוד צרות.",
+   "duration_s": 152,
+   "first_seen_ms": 1793095046247,
+   "image": "https://img.mako.co.il/2026/10/21/LOVE_CORNER_EP40_M_1400_1792589375076_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793094300000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "אהבה מעבר לפינה פרק 40: הלוואה מהמהמר?",
+   "type": "series",
+   "updated_ms": 1793094300000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-0998ac617ae51a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/21/LOVE_CORNER_EP40/MASTER/LOVE_CORNER_EP40_M/LOVE_CORNER_EP40_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-50c3a68763951a1026.htm": {
    "author": "אהבה מעבר לפינה",
@@ -86125,6 +86183,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1bff1801d4371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18075_25102026014624/M_NEWS_18075_25102026014624_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1c29f6fa3cc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"זה או ימין או פלסטין\": חברת הכנסת מירי רגב צועקת במגפון אחרי שלדבריה הותקפה בדרך לקלפי",
+   "duration_s": 21,
+   "first_seen_ms": 1793095046247,
+   "image": "https://img.mako.co.il/2026/10/27/V1_karind_miriregev_7827_27102026094952_1400_1793094673174_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793094679000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"זה או ימין או פלסטין\": חברת הכנסת מירי רגב צועקת במגפון אחרי שלדבריה הותקפה בדרך לקלפי",
+   "type": "mivzakim",
+   "updated_ms": 1793094679000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1c29f6fa3cc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_miriregev_7827_27102026094952/V1_karind_miriregev_7827_27102026094952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1e32a778f3c71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -89109,6 +89185,25 @@
    "updated_ms": 1792659420000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w04/shorts-ff54c42144851a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/POLISHUK_EP17/MASTER/POLISHUK_EP17/POLISHUK_EP17_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-d19bb95041871a1027.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 21: סולי ברזל מגיעה לסגור את עניין התאונה ומגלה שפולישוק כבר בונה עליה כמנכ\"לית הבאה. יחד עם תקומה הוא מנסה לשכנע אותה לקבל את התפקיד, אף שהיא בכלל לא באה לחפש עבודה. שמחה ממהרת להזהיר אותה שהמינוי לא יחזיק מעמד, אבל סולי לא נשארת חייבת.",
+   "duration_s": 155,
+   "first_seen_ms": 1793095046247,
+   "image": "https://img.mako.co.il/2026/10/26/POLISHUK_EP21_1400_1793016112042_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793094420000,
+   "sections": [
+    "הפרק היומי",
+    "פולישוק"
+   ],
+   "title": "פולישוק פרק 21: מי מפחד ממנכ\"לית חדשה",
+   "type": "series",
+   "updated_ms": 1793094420000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-d19bb95041871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/POLISHUK_EP21/MASTER/POLISHUK_EP21/POLISHUK_EP21_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-e8b870ba9e371a1026.htm": {
    "author": "פולישוק",
