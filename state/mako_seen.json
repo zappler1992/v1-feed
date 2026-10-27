@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793088449987,
+ "last_run_ms": 1793089049165,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11047,6 +11047,18 @@
    "section": "ספורט",
    "title": "אוהדי מכבי חיפה לא ממהרים להגיע לטדי"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a45e4bf156c71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793088987079,
+   "content_type": "article",
+   "first_seen_ms": 1793088987079,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793088720000,
+   "section": "ספורט",
+   "title": "6 דקות שאף אחד לא ישכח. חיפה יצאה בזול"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a48bc9b5aa971a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -12786,6 +12798,18 @@
    "published_ms": 1792553220000,
    "section": "ספורט",
    "title": "צפו. \"כואב. ברצלונה קיבלה שיעור בצניעות\""
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-6790a778f3c71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793088987079,
+   "content_type": "article",
+   "first_seen_ms": 1793088987079,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793086500000,
+   "section": "ספורט",
+   "title": "\"זה מה שרצית?\". העקיצה של הנרי לימאל"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-69058410d2061a1027.htm": {
    "check_attempts": 1,
@@ -32547,7 +32571,7 @@
    "indexnow_ms": null,
    "published_ms": 1793083320000,
    "section": "",
-   "title": "ראשי הממשלות בסדרות הנוער האהובות"
+   "title": "ראשי הממשלה בסדרות הנוער האהובות"
   },
   "https://www.mako.co.il/makoz-extra/Article-ef4a65352d851a1026.htm": {
    "check_attempts": 1,
@@ -47965,7 +47989,7 @@
    "indexnow_ms": null,
    "published_ms": 1793073600000,
    "section": "",
-   "title": "צאו להצביע! הקלפיות ברחבי הארץ פתוחות"
+   "title": "שלושה חשודים נעצרו בחשד לשוחד בחירות"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-9833906a9ecc0a1027.htm": {
    "check_attempts": 1,
