@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793086048956,
+ "last_run_ms": 1793086348968,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15604,6 +15604,18 @@
    "published_ms": 1792840020000,
    "section": "ספורט",
    "title": "המיוחד החדש: הדרך של ז`וזה מוריניו"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-0bfbd71de2c71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793086348968,
+   "content_type": "article",
+   "first_seen_ms": 1793086348968,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793084880000,
+   "section": "ספורט",
+   "title": "\"עצוב מאוד. לאמין ימאל עוד יזכה 5 פעמים\""
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-0cfee1c3e9c61a1026.htm": {
    "check_attempts": 1,
