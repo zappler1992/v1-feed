@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-479dd5696ad71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-51b76a814ad71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a315d5696ad71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -87194,6 +87195,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4ed7dd24e9371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18089_25102026033759/M_NEWS_18089_25102026033759_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-51b76a814ad71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בזמן שאחוזי ההצבעה בשיא: גשם שוטף הגיע לירושלים",
+   "duration_s": 12,
+   "first_seen_ms": 1793112746510,
+   "image": "https://img.mako.co.il/2026/10/27/V1_GESHEMY_7848_27102026022536_1400_1793111210473_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793111216000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בזמן שאחוזי ההצבעה בשיא: גשם שוטף הגיע לירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793111216000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-51b76a814ad71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_GESHEMY_7848_27102026022536/V1_GESHEMY_7848_27102026022536_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88369,6 +88388,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a292083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18064_25102026083501/M_NEWS_18064_25102026083501_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a315d5696ad71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "לראשונה העונה - שיטפון בנחל צין",
+   "duration_s": 8,
+   "first_seen_ms": 1793112746510,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18251_27102026021650_1400_1793110656095_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793110662000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "לראשונה העונה - שיטפון בנחל צין",
+   "type": "mivzakim",
+   "updated_ms": 1793110662000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a315d5696ad71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18251_27102026021650/M_NEWS_18251_27102026021650_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a3b9e4dfa5971a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -88670,9 +88707,9 @@
    "sections": [
     "מבזקים"
    ],
-   "title": "מכות ואגרופים: קטטה אלימה התפתחה מחוץ לקלפי בחולון",
+   "title": "מכות ואגרופים: קטטה אלימה התפתחה מחוץ לקלפי בחולון | קטין בן 15 נעצר בחשד לתקיפה",
    "type": "mivzakim",
-   "updated_ms": 1793107380000,
+   "updated_ms": 1793112420000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ba79bd1ad6d71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/fix_holon/fix_holon_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
