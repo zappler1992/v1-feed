@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7dc16f4d9bb71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a479c6be0db71a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f476f4d9bb71a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-1df76f4d9bb71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17893,6 +17895,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ed8f381f0a71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18181_26102026091036/M_Tarbut_18181_26102026091036_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f476f4d9bb71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מצביעים בפעם הראשונה? תצטלמו ליד או מחוץ הקלפי, תייגו @makoz.il ונשתף",
+   "duration_s": 9,
+   "first_seen_ms": 1793078845913,
+   "image": "https://img.mako.co.il/2026/10/27/M_MakoZ_18187_27102026051148_1400_1793078342988_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793078349000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מצביעים בפעם הראשונה? תצטלמו ליד או מחוץ הקלפי, תייגו @makoz.il ונשתף",
+   "type": "mivzakim",
+   "updated_ms": 1793078349000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7f476f4d9bb71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_MakoZ_18187_27102026051148/M_MakoZ_18187_27102026051148_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8033da3ca1971a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -20186,7 +20206,8 @@
    "published_ms": 1792485594000,
    "sections": [
     "אוכל",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הטעות שאתם עושים עם נייר אפייה",
    "type": "general",
@@ -86903,6 +86924,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a3b9e4dfa5971a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18169_26102026055858/M_NEWS_18169_26102026055858_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a479c6be0db71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הדיוטי פרי שומם בבוקר יום הבחירות",
+   "duration_s": 9,
+   "first_seen_ms": 1793078845913,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18189_27102026052346_1400_1793078710651_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793078717000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הדיוטי פרי שומם בבוקר יום הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793078717000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a479c6be0db71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18189_27102026052346/M_NEWS_18189_27102026052346_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a85ef45d97671a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -89022,6 +89061,24 @@
    "updated_ms": 1793007388000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-12f2a067a8771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18131_26102026093427/M_Food_18131_26102026093427_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-1df76f4d9bb71a1026.htm": {
+   "author": "יעל קצב",
+   "date_source": "json-publishDate",
+   "description": "שוקולד ג'מייקה, נשיקולדה, ממולדה ואפילו משקה זיפ: עלית מחזירה למדפים 16 מוצרים איקוניים באריזות של פעם, ולנו לא נותר אלא לבדוק איזה כוח יש לנוסטלגיה, והאם מה שהיה טעים לנו כשהיינו צעירים ויפים מצליח לעמוד במבחן הזמן. היה מעניין",
+   "duration_s": 125,
+   "first_seen_ms": 1793078845913,
+   "image": "https://img.mako.co.il/2026/10/27/M_Food_18188_27102026051841_1400_1793078460030_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793078466000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "המהדורה הנוסטלגית של עלית: טעים באמת או שסתם התגעגענו?",
+   "type": "mivzakim",
+   "updated_ms": 1793078466000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-1df76f4d9bb71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18188_27102026051841/M_Food_18188_27102026051841_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm": {
    "author": "מתכונים",
@@ -113187,7 +113244,8 @@
    "published_ms": 1792909655000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "מה שנותר מאתר הנופש של היטלר: המראות מהאוויר אחרי השריפה",
    "type": "mivzakim",
@@ -113206,7 +113264,8 @@
    "published_ms": 1792927803000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תאונת רכבת חריגה: מנוף קרס על המסילה וגרם להתנגשות בסאו פאולו שבברזיל",
    "type": "mivzakim",
@@ -113225,7 +113284,8 @@
    "published_ms": 1792938169000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הולכת וטובעת: אסדת קידוח טבעה מול חופי גבון באוקיינוס האטלנטי, אדם אחד נהרג ו-4 נעדרים",
    "type": "mivzakim",
