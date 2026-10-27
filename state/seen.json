@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-401536f190f71a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d6d436f190f71a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e34beb9041f71a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d06b42d702f71a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0c842d702f71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -89837,6 +89836,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cf61644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18107_26102026042332/M_NEWS_18107_26102026042332_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d06b42d702f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "זה האיש הכי חשוב בפוליטיקה: ההכרעה הגדולה של ליברמן | יאיר שרקי מסביר",
+   "duration_s": 63,
+   "first_seen_ms": 1793134645872,
+   "image": "https://img.mako.co.il/2026/10/27/V1_LIBERMAN_7877_27102026085318_1400_1793134495654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793134502000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "זה האיש הכי חשוב בפוליטיקה: ההכרעה הגדולה של ליברמן | יאיר שרקי מסביר",
+   "type": "mivzakim",
+   "updated_ms": 1793134502000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d06b42d702f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_LIBERMAN_7877_27102026085318/V1_LIBERMAN_7877_27102026085318_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d2fad71de2c71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -90125,6 +90142,24 @@
    "updated_ms": 1793074662000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0bc91a2d8b71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18185_27102026041633/M_NEWS_18185_27102026041633_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0c842d702f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מרכיבים ממשלה: אלה האפשרויות שניצבות בפני איזנקוט ונתניהו",
+   "duration_s": 119,
+   "first_seen_ms": 1793134645872,
+   "image": "https://img.mako.co.il/2026/10/27/V1_MARKIV_7876_27102026084900_1400_1793134271614_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793134278000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מרכיבים ממשלה: אלה האפשרויות שניצבות בפני איזנקוט ונתניהו",
+   "type": "mivzakim",
+   "updated_ms": 1793134278000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0c842d702f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_MARKIV_7876_27102026084900/V1_MARKIV_7876_27102026084900_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm": {
    "author": "מבזקים",
