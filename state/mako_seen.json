@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793084548885,
+ "last_run_ms": 1793084849040,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9318,6 +9318,18 @@
    "published_ms": 1792733820000,
    "section": "ספורט",
    "title": "בסכום שיא: כך בן מנספורד כמעט חתם בנתניה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-197736d371c71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793084786834,
+   "content_type": "article",
+   "first_seen_ms": 1793084786834,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793084580000,
+   "section": "ספורט",
+   "title": "קפטן הנבחרת חשף: המפלגה אליה הצביע"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-1b1d3c9112171a1026.htm": {
    "check_attempts": 1,
@@ -44631,7 +44643,7 @@
    "indexnow_ms": 1793080587606,
    "published_ms": 1793073600000,
    "section": "צבא וביטחון",
-   "title": "זה מה שעשו המתמודדים בבחירות, בשירותם הצבאי"
+   "title": "חיילים שלנו: זה מה שעשו המתמודדים בבחירות בצבא"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-64eb1547cc501a1027.htm": {
    "check_attempts": 1,
