@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-2a6adaceeeb71a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-7a47daceeeb71a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2ed1daceeeb71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -8694,6 +8695,22 @@
    "updated_ms": 1792997100000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-66cbe2576e671a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MAAYAN_261026_FIX1/SHIR_MAAYAN_261026_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-7a47daceeeb71a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "זה רשמי: הראפר ג'יי זי נבחר להוביל את מופע המחצית של הסופרבול 2027",
+   "duration_s": 27,
+   "first_seen_ms": 1793082445930,
+   "image": "https://img.mako.co.il/2026/10/27/V1_NOAY_JZ_271026_7810_27102026062032_1400_1793082114822_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793082121000,
+   "sections": [],
+   "title": "זה רשמי: הראפר ג'יי זי נבחר להוביל את מופע המחצית של הסופרבול 2027",
+   "type": "mivzakim",
+   "updated_ms": 1793082121000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-7a47daceeeb71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_NOAY_JZ_271026_7810_27102026062032/V1_NOAY_JZ_271026_7810_27102026062032_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-81c829035c671a1027.htm": {
    "author": "מבזקי סלבס",
@@ -17571,6 +17588,24 @@
    "updated_ms": 1793019743000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2aa2e1c444871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18146_26102026125918/M_Tarbut_18146_26102026125918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2ed1daceeeb71a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ג'יי-זי יופיע במחצית אירוע הסופרבול שיתקיים בפברואר 2027",
+   "duration_s": 10,
+   "first_seen_ms": 1793082445930,
+   "image": "https://img.mako.co.il/2026/10/27/M_Music_18192_27102026060904_1400_1793081414585_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793081421000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ג'יי-זי יופיע במחצית אירוע הסופרבול שיתקיים בפברואר 2027",
+   "type": "mivzakim",
+   "updated_ms": 1793081421000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2ed1daceeeb71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18192_27102026060904/M_Music_18192_27102026060904_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3f54872b9c771a1026.htm": {
    "author": "עדכוני בידור",
