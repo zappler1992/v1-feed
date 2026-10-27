@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793125050388,
+ "last_run_ms": 1793125350380,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6104,6 +6104,18 @@
    "published_ms": 1792085460000,
    "section": "ספורט",
    "title": "צפו: אולפן היורוליג לקראת ולנסיה - מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-f1ec3fc129e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793125350380,
+   "content_type": "article",
+   "first_seen_ms": 1793125350380,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793125020000,
+   "section": "ספורט",
+   "title": "היפי ורודן בלטו, פריז הפתיעה את דובאי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-f27059c0b3001a1027.htm": {
    "check_attempts": 1,
@@ -19132,6 +19144,18 @@
    "published_ms": 1791111960000,
    "section": "",
    "title": "פער של 14 שנה: הזוגיות החדשה של ליהי טולדנו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-8a33a59855e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793125350380,
+   "content_type": "article",
+   "first_seen_ms": 1793125350380,
+   "indexable": true,
+   "indexnow_ms": 1793125350380,
+   "published_ms": 1793124960000,
+   "section": "סלבס",
+   "title": "\"אפשר לפטר אותה\": ההודעה שהסעירה את מירן בוזגלו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-8f20556c4d171a1026.htm": {
    "check_attempts": 1,
