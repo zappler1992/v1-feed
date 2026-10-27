@@ -1,6 +1,8 @@
 {
  "bootstrapped": true,
- "last_new_urls": [],
+ "last_new_urls": [
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-21e2c09f47e71a1027.htm"
+ ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
    "author": "60 שניות",
@@ -595,7 +597,8 @@
    "sections": [
     "60 שניות",
     "בחירות 2026",
-    "60 שניות לבחירות"
+    "60 שניות לבחירות",
+    "הכי נצפים עכשיו"
    ],
    "title": "60 שניות עם עמית סגל: מהדורת בחירות 2026",
    "type": "general",
@@ -8834,7 +8837,8 @@
    "importance": 0,
    "published_ms": 1793101925000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "יהודה לוי חושף למי הצביע בבחירות: \"זו הבחירה שלי ואני עומד מאחוריה\"",
    "type": "mivzakim",
@@ -44459,7 +44463,9 @@
    "image": "https://img.mako.co.il/2026/10/27/inbalolam271026m_1400_1793085774963_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793105580000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "בחירות 2026 בישראל - בראש הכותרות ברחבי העולם",
    "type": "news",
    "updated_ms": 1793115420000,
@@ -86828,6 +86834,24 @@
    "updated_ms": 1793120019000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-210ac80044e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_PT_7856_27102026045224/V1_PT_7856_27102026045224_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-21e2c09f47e71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סגנית ראש עיריית בת ים מטעם הדמוקרטים, קטי פיאסצקי, הותקפה: רגע לכידת החשוד",
+   "duration_s": 46,
+   "first_seen_ms": 1793123846611,
+   "image": "https://img.mako.co.il/2026/10/27/V1_BATYAM_7860_27102026055125_1400_1793123582857_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793123590000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סגנית ראש עיריית בת ים מטעם הדמוקרטים, קטי פיאסצקי, הותקפה: רגע לכידת החשוד",
+   "type": "mivzakim",
+   "updated_ms": 1793123590000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-21e2c09f47e71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_BATYAM_7860_27102026055125/V1_BATYAM_7860_27102026055125_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-225c20cad5771a1027.htm": {
    "author": "מבזקים",
