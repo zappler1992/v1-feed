@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d17d623723f71a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-999f2e3bd2f71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2874623723f71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44710,6 +44711,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9911200cd0771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_40MILLION_261026/MASTER/SHIR_40MILLION_261026/SHIR_40MILLION_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-999f2e3bd2f71a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "פער דרמטי בין ערוץ 14 לשאר הערוצים: בזמן שהמדגמים מציגים יתרון לגוש איזנקוט, בערוץ 14 התמונה שונה לחלוטין — עם 60 מנדטים לגוש נתניהו.",
+   "duration_s": 45,
+   "first_seen_ms": 1793136445889,
+   "image": "https://img.mako.co.il/2026/10/27/SHIR_GUSHIM_271026_1400_1793135569911_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793135578000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "כל מדגמי הערוצים - מול \"התוצאות\" של ערוץ 14",
+   "type": "news",
+   "updated_ms": 1793135578000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-999f2e3bd2f71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/SHIR_GUSHIM_271026/MASTER/SHIR_GUSHIM_271026/SHIR_GUSHIM_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9ad0e50b03971a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -87073,6 +87092,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-274920c2be871a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18161_26102026035404/M_NEWS_18161_26102026035404_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2874623723f71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עם זיקוקים באוויר: חגיגות של ערביי לוד לאחר תוצאות המדגמים",
+   "duration_s": 8,
+   "first_seen_ms": 1793136445889,
+   "image": "https://img.mako.co.il/2026/10/27/V1_LOD_7880_27102026091656_1400_1793135890709_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793135897000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עם זיקוקים באוויר: חגיגות של ערביי לוד לאחר תוצאות המדגמים",
+   "type": "mivzakim",
+   "updated_ms": 1793135897000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2874623723f71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_LOD_7880_27102026091656/V1_LOD_7880_27102026091656_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-29a70f0587171a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87263,7 +87300,8 @@
    "importance": 0,
    "published_ms": 1793135318000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "\"ממשלת גיוס ציונית\": איזנקוט אומר לא לממשלה עם נתניהו",
    "type": "mivzakim",
@@ -89611,7 +89649,8 @@
    "importance": 0,
    "published_ms": 1793132639000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "אין הכרעה בין הגושים: השוואת תוצאות המדגמים בערוצים 12, 13 ו-11",
    "type": "mivzakim",
@@ -90188,7 +90227,8 @@
    "importance": 0,
    "published_ms": 1793134278000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "מרכיבים ממשלה: אלה האפשרויות שניצבות בפני איזנקוט ונתניהו",
    "type": "mivzakim",

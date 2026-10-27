@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2874623723f71a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/27/V1_LOD_7880_27102026091656_1400_1793135890709_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>עם זיקוקים באוויר: חגיגות של ערביי לוד לאחר תוצאות המדגמים</video:title>
+<video:description>עם זיקוקים באוויר: חגיגות של ערביי לוד לאחר תוצאות המדגמים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_LOD_7880_27102026091656/V1_LOD_7880_27102026091656_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>8</video:duration>
+<video:publication_date>2026-10-27T21:18:17+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d17d623723f71a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/27/V1_77_7879_27102026091203_1400_1793135614164_FirstFrame.jpg</video:thumbnail_loc>
@@ -17,6 +33,22 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-999f2e3bd2f71a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/27/SHIR_GUSHIM_271026_1400_1793135569911_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>כל מדגמי הערוצים - מול &quot;התוצאות&quot; של ערוץ 14</video:title>
+<video:description>פער דרמטי בין ערוץ 14 לשאר הערוצים: בזמן שהמדגמים מציגים יתרון לגוש איזנקוט, בערוץ 14 התמונה שונה לחלוטין — עם 60 מנדטים לגוש נתניהו.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/SHIR_GUSHIM_271026/MASTER/SHIR_GUSHIM_271026/SHIR_GUSHIM_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>45</video:duration>
+<video:publication_date>2026-10-27T21:12:58+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-320742d702f71a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/27/V1_GIYOOS_2710_7878_27102026090641_1400_1793135312118_FirstFrame.jpg</video:thumbnail_loc>
@@ -30,6 +62,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -62,6 +95,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -174,6 +208,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
