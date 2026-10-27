@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793097149309,
+ "last_run_ms": 1793097449298,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11802,6 +11802,18 @@
    "published_ms": 1792293840000,
    "section": "ספורט",
    "title": "לאחר שהוחלפו: מצבם של ברוניניו ומוחמד"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d59af55dbec71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793097387437,
+   "content_type": "article",
+   "first_seen_ms": 1793097387437,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793097000000,
+   "section": "ספורט",
+   "title": "טוריאל ובואטנג יחמיצו את הדרבי התל אביבי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-d6861856ef451a1026.htm": {
    "check_attempts": 1,
