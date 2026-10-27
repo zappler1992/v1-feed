@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-3877f6fa3cc71a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cecaee06dcc71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-812737d0dcc71a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -87416,20 +87415,20 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7f559d75c7c71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "האזרחים ממתינים לממש את זכותם: תורים ארוכים לקלפיות בתל אביב ומודעין",
-   "duration_s": 17,
+   "description": "האזרחים ממתינים לממש את זכותם: תורים ארוכים לקלפיות במרכז הארץ",
+   "duration_s": 35,
    "first_seen_ms": 1793091446284,
-   "image": "https://img.mako.co.il/2026/10/27/FIXNOAY_TOR_271026_1400_1793093254149_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/27/FIX22222222NOAY_TOR_271026_1_1400_1793096333813_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793091238000,
    "sections": [
     "מבזקים"
    ],
-   "title": "האזרחים ממתינים לממש את זכותם: תורים ארוכים לקלפיות בתל אביב ומודעין",
+   "title": "האזרחים ממתינים לממש את זכותם: תורים ארוכים לקלפיות במרכז הארץ",
    "type": "mivzakim",
    "updated_ms": 1793091238000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7f559d75c7c71a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIXNOAY_TOR_271026/FIXNOAY_TOR_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/FIX22222222NOAY_TOR_271026_1/FIX22222222NOAY_TOR_271026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8047cd919c371a1027.htm": {
    "author": "מבזקים",
@@ -87448,6 +87447,24 @@
    "updated_ms": 1792944888000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8047cd919c371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18091_25102026041321/M_NEWS_18091_25102026041321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-812737d0dcc71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 94 התמוטט ברחוב ברמת גן, מותו נקבע לאחר פעולות החייאה",
+   "duration_s": 9,
+   "first_seen_ms": 1793096546218,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18227_27102026101537_1400_1793096245654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793096252000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 94 התמוטט ברחוב ברמת גן, מותו נקבע לאחר פעולות החייאה",
+   "type": "mivzakim",
+   "updated_ms": 1793096252000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-812737d0dcc71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18227_27102026101537/M_NEWS_18227_27102026101537_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8190b43830871a1026.htm": {
    "author": "מבזקים",
