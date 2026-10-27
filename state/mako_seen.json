@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793137648995,
+ "last_run_ms": 1793137949035,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15928,6 +15928,18 @@
    "published_ms": 1792356120000,
    "section": "ספורט",
    "title": "השני בהיסטוריה: ההישג המרשים של אמבפה"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-29b64c22b4f71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793137949035,
+   "content_type": "article",
+   "first_seen_ms": 1793137949035,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793137560000,
+   "section": "ספורט",
+   "title": "דיווח: אביו של לאמין ימאל ירק על מלצרית"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-2d70ac9e60371a1027.htm": {
    "check_attempts": 1,
