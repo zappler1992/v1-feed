@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-f0fad71de2c71a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d95ecec333c71a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5543d71de2c71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -86486,6 +86487,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-54aaf45a1eb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_trump_271026_7806_27102026054326/V1_karind_trump_271026_7806_27102026054326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5543d71de2c71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יוסף חדאד, מספר 2 ברשימת עמך ישראל, יצא להצביע",
+   "duration_s": 9,
+   "first_seen_ms": 1793085746004,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18201_27102026071733_1400_1793085539918_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793085546000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יוסף חדאד, מספר 2 ברשימת עמך ישראל, יצא להצביע",
+   "type": "mivzakim",
+   "updated_ms": 1793085546000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5543d71de2c71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18201_27102026071733/M_NEWS_18201_27102026071733_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-56616bac79671a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -87712,6 +87731,24 @@
    "updated_ms": 1793002883000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d772940c64771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_russia_7777_26102026081955/V1_karind_russia_7777_26102026081955_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d95ecec333c71a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ליברמן ורעייתו הצביעו בקלפי בנוקדים",
+   "duration_s": 9,
+   "first_seen_ms": 1793085746004,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18202_27102026071750_1400_1793085561184_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793085568000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ליברמן ורעייתו הצביעו בקלפי בנוקדים",
+   "type": "mivzakim",
+   "updated_ms": 1793085568000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d95ecec333c71a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18202_27102026071750/M_NEWS_18202_27102026071750_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-dbe9411fb3471a1026.htm": {
    "author": "מבזקים",

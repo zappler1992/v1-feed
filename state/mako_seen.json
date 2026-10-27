@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793085449180,
+ "last_run_ms": 1793085748944,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41068,6 +41068,18 @@
    "published_ms": 1792927440000,
    "section": "עיצוב הבית",
    "title": "הטריק הקטן והמעולה שחייבים לנסות עם המטאטא"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-7fda1205bf751a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/living-diy/maintenance/Article-7fda1205bf751a1026.htm",
+   "checked_ms": 1793085626857,
+   "content_type": "article",
+   "first_seen_ms": 1793085626857,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793084340000,
+   "section": "עיצוב הבית",
+   "title": "במקום לקנות ביוקר: שימוש מושלם לקליפות לימון"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-cd70c5dee5271a1026.htm": {
    "check_attempts": 1,
