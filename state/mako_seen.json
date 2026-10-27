@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793129550298,
+ "last_run_ms": 1793129851604,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4448,6 +4448,18 @@
    "published_ms": 1791885780000,
    "section": "ספורט",
    "title": "\"אבסורד\": הזעם בקפריסין על אירוח מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-1f9fe318ece71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793129787255,
+   "content_type": "article",
+   "first_seen_ms": 1793129787255,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793129460000,
+   "section": "ספורט",
+   "title": "\"הגרועה ביורוליג\": ברשת קוטלים את מכבי"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-21ed484fefa31a1027.htm": {
    "check_attempts": 1,
@@ -48554,6 +48566,18 @@
    "published_ms": 1792854660000,
    "section": "",
    "title": "ראשי המפלגות התייצבו באולפן - וענו על השאלות הקשות"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-c84cc98a6ce71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/liveblog-c84cc98a6ce71a1027.htm",
+   "checked_ms": 1793129787255,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793129787255,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793129400000,
+   "section": "",
+   "title": "שיעור ההצבעה הוא הגבוה ביותר מ-1988"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-c8bf5ed4a7a61a1027.htm": {
    "check_attempts": 1,
