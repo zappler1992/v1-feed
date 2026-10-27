@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793095049413,
+ "last_run_ms": 1793095349329,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14718,6 +14718,18 @@
    "published_ms": 1792948740000,
    "section": "ספורט",
    "title": "אקס לסטר ימכור את חולצת הגמר ויתרום לעזה"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-9595e24aebc71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793095349329,
+   "content_type": "article",
+   "first_seen_ms": 1793095349329,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793094840000,
+   "section": "ספורט",
+   "title": "\"גיבור על, יכול לשחק בארסנל\": טירוף פרץ"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-a868fd5b53601a1027.htm": {
    "check_attempts": 1,

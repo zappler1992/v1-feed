@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1c29f6fa3cc71a1027.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-0998ac617ae51a1026.htm",
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-d19bb95041871a1027.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-8b3c19e58b371a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c56e24aebc71a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -807,7 +803,8 @@
    "published_ms": 1792681200000,
    "sections": [
     "60 שניות",
-    "בחירות 2026"
+    "בחירות 2026",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם גדי איזנקוט: מהדורת בחירות",
    "type": "general",
@@ -827,7 +824,8 @@
    "sections": [
     "60 שניות",
     "הכי נצפים עכשיו",
-    "בחירות 2026"
+    "בחירות 2026",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם עופר וינטר",
    "type": "general",
@@ -865,7 +863,8 @@
    "sections": [
     "60 שניות",
     "הכי נצפים עכשיו",
-    "בחירות 2026"
+    "בחירות 2026",
+    "60 שניות לבחירות"
    ],
    "title": "60 שניות עם נפתלי בנט: מהדורת בחירות",
    "type": "general",
@@ -1285,7 +1284,8 @@
    "importance": 1,
    "published_ms": 1793094540000,
    "sections": [
-    "הפרק היומי"
+    "הפרק היומי",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 21: החברה או הקריירה?",
    "type": "series",
@@ -31891,7 +31891,8 @@
    "importance": 1,
    "published_ms": 1793094300000,
    "sections": [
-    "הפרק היומי"
+    "הפרק היומי",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 40: הלוואה מהמהמר?",
    "type": "series",
@@ -86398,6 +86399,24 @@
    "updated_ms": 1793085855000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b11cec333c71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_KARIND_TRUMP2_7815_27102026072251/V1_KARIND_TRUMP2_7815_27102026072251_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c56e24aebc71a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נכון לשעה 10:00: שיעור המצביעים בצה\"ל עמד על 30% מכלל המשרתים, לעומת 25.7% בבחירות הקודמות",
+   "duration_s": 9,
+   "first_seen_ms": 1793095346229,
+   "image": "https://img.mako.co.il/2026/10/27/M_NEWS_18226_27102026095611_1400_1793095052267_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793095058000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נכון לשעה 10:00: שיעור המצביעים בצה\"ל עמד על 30% מכלל המשרתים, לעומת 25.7% בבחירות הקודמות",
+   "type": "mivzakim",
+   "updated_ms": 1793095058000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c56e24aebc71a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18226_27102026095611/M_NEWS_18226_27102026095611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2f65bace48371a1026.htm": {
    "author": "מבזקים",
