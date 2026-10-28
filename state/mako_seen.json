@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793183549066,
+ "last_run_ms": 1793183848885,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9486,6 +9486,18 @@
    "published_ms": 1792309200000,
    "section": "ספורט",
    "title": "3 דק` יותר מדי: ההחלטה שצריכה הפועל לקבל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0e068a7090281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793183848885,
+   "content_type": "article",
+   "first_seen_ms": 1793183848885,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793183700000,
+   "section": "ספורט",
+   "title": "שכטר סיפר: מה התפקיד החדש של זיו במכבי?"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0ebce1c444871a1026.htm": {
    "check_attempts": 1,
@@ -34456,6 +34468,18 @@
    "published_ms": 1791876780000,
    "section": "פלילים",
    "title": "העונש למנהל בבית מלון שהטריד מינית עובדת"
+  },
+  "https://www.mako.co.il/men-men_news/Article-0f208a7090281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793183787438,
+   "content_type": "article",
+   "first_seen_ms": 1793183787438,
+   "indexable": true,
+   "indexnow_ms": 1793183787438,
+   "published_ms": 1793183400000,
+   "section": "פלילים",
+   "title": "דקרה צעירה ושוחררה הביתה: \"זו הזיה ששחררו אותה\""
   },
   "https://www.mako.co.il/men-men_news/Article-0f3f696cdc1e0a1026.htm": {
    "check_attempts": 1,
