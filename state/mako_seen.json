@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793190450445,
+ "last_run_ms": 1793190749788,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38068,6 +38068,18 @@
    "published_ms": 1790683920000,
    "section": "",
    "title": "אחרי 14 שנה: אחד העבריינים המסוכנים בישראל יוצא מהכלא"
+  },
+  "https://www.mako.co.il/men-men_news/Article-b356012186281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793190626829,
+   "content_type": "article",
+   "first_seen_ms": 1793190626829,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793190060000,
+   "section": "פלילים",
+   "title": "\"הזמינו בוטוקס במאות אלפי שקלים מבלי לשלם\""
   },
   "https://www.mako.co.il/men-men_news/Article-b3651d818d011a1027.htm": {
    "check_attempts": 1,
