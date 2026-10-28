@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793175448893,
+ "last_run_ms": 1793175748981,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23537,6 +23537,18 @@
    "section": "",
    "title": "דוח חדש מזהיר: ישראל בדרך להחשכה ב-2050"
   },
+  "https://www.mako.co.il/finances-news/Article-f8049d65f8181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793175748981,
+   "content_type": "article",
+   "first_seen_ms": 1793175748981,
+   "indexable": true,
+   "indexnow_ms": 1793175748981,
+   "published_ms": 1793175420000,
+   "section": "כסף",
+   "title": "74 מיליון דולר כן טועים: הפספוס של פולימרקט"
+  },
   "https://www.mako.co.il/finances-news/Article-f952b0a974d71a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -25168,6 +25180,18 @@
    "published_ms": 1790757480000,
    "section": "הכי חם",
    "title": "המאפים הגבינתיים האלה ייעלמו מהתבנית עוד לפני שיוגשו"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-558076efd7181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793175627074,
+   "content_type": "recipe",
+   "first_seen_ms": 1793175627074,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793175420000,
+   "section": "",
+   "title": "ככה מכינים את הפריקסה המנצח של חמותה של קרין גורן"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-6760972fb08c0a1026.htm": {
    "check_attempts": 1,
@@ -41992,6 +42016,18 @@
    "published_ms": 1792526760000,
    "section": "ספורט",
    "title": "\"מול שער ריק, איך לעזאזל רונאלדו החטיא?\""
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-08b2d204ea431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/living-rooms/bathroom-and-toilet/Article-08b2d204ea431a1027.htm",
+   "checked_ms": 1793175627074,
+   "content_type": "article",
+   "first_seen_ms": 1793175627074,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793171880000,
+   "section": "הכי חם",
+   "title": "חבל על הכסף שלכם: אסור לעשות את זה בחדר הרחצה"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-0fa7809145261a1027.htm": {
    "check_attempts": 1,
