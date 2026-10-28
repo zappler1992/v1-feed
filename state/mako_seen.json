@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793172748914,
+ "last_run_ms": 1793173048898,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24989,6 +24989,18 @@
    "section": "",
    "title": "מהחלה עד העוגה: 6 מתכונים לארוחת שבת מנצחת"
   },
+  "https://www.mako.co.il/food-meals/recipes_for_shabath/Article-421c911bcf771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793173048898,
+   "content_type": "article",
+   "first_seen_ms": 1793173048898,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793172420000,
+   "section": "",
+   "title": "5 מנות לארוחת שבת, וסיבה טובה לקחת עוד צלחת מלאה"
+  },
   "https://www.mako.co.il/food-meals/recipes_for_shabath/Article-579ad5ccdf011a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31541,6 +31553,18 @@
    "section": "",
    "title": "אחרי הרצח בשבי: אח קטן נולד לאלמוג סרוסי"
   },
+  "https://www.mako.co.il/home-family-relationship/Article-e0452eb485181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793172986917,
+   "content_type": "article",
+   "first_seen_ms": 1793172986917,
+   "indexable": true,
+   "indexnow_ms": 1793172986917,
+   "published_ms": 1793171640000,
+   "section": "הורים",
+   "title": "\"בבית לבנים היה מותר הכל ועל הבנות אסרו הכל\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-e5ab19e58b371a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35344,6 +35368,18 @@
    "published_ms": 1792427760000,
    "section": "",
    "title": "לא טעות בזיהוי? התפתחות בפרשת הרצח בתחנת דלק בנתניה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-4a11fe5536181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793172986917,
+   "content_type": "article",
+   "first_seen_ms": 1793172986917,
+   "indexable": true,
+   "indexnow_ms": 1793172986917,
+   "published_ms": 1793172540000,
+   "section": "פלילים",
+   "title": "העבריין שוב מסתבך: \"סחט אדם שהיה חייב כסף באיומים\""
   },
   "https://www.mako.co.il/men-men_news/Article-4ad3c106c4611a1027.htm": {
    "check_attempts": 1,
