@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793188049414,
+ "last_run_ms": 1793188349446,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18473,6 +18473,18 @@
    "section": "סלבס",
    "title": "\"מישהי נכנסה בי והשפילה אותי מול אנשים\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-07f9af83d4281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793188226666,
+   "content_type": "article",
+   "first_seen_ms": 1793188226666,
+   "indexable": true,
+   "indexnow_ms": 1793188226666,
+   "published_ms": 1793187840000,
+   "section": "",
+   "title": "התפתחות משמעותית בפרשת מעצרו של יוצא \"האח הגדול\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-09a2367428431a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -19697,6 +19709,18 @@
    "section": "",
    "title": "\"אמאל׳ה, איזה בולבול\": דנה זרמון מתעדת את בעלה בעירום"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-a1199c3854281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793188349446,
+   "content_type": "article",
+   "first_seen_ms": 1793188349446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793187120000,
+   "section": "סלבס",
+   "title": "כוכבי הריאליטי הפכו הורים לבן משותף ראשון"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-a39aab135da01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -20308,6 +20332,18 @@
    "published_ms": 1793027520000,
    "section": "סלבס",
    "title": "שנה אחרי החתונה: הקומיקאי וכוכב הרשת הפך לאבא"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e24674ee01281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793188349446,
+   "content_type": "article",
+   "first_seen_ms": 1793188349446,
+   "indexable": true,
+   "indexnow_ms": 1793188349446,
+   "published_ms": 1793187000000,
+   "section": "סלבס",
+   "title": "\"העם אמר את דברו\": הסלבס מגיבים לתוצאות הבחירות"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-e26efd5b53601a1027.htm": {
    "check_attempts": 1,
@@ -23380,6 +23416,18 @@
    "published_ms": 1789876080000,
    "section": "כסף",
    "title": "הוא מנכ\"ל ביום וכוכב טיקטוק בלילה ומסרב לכסף"
+  },
+  "https://www.mako.co.il/finances-news/Article-8246427824281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793188226666,
+   "content_type": "article",
+   "first_seen_ms": 1793188226666,
+   "indexable": true,
+   "indexnow_ms": 1793188226666,
+   "published_ms": 1793187420000,
+   "section": "כסף",
+   "title": "בריטניה נגד רה\"מ לשעבר: \"הדבר הכי מטורף שקראתי\""
   },
   "https://www.mako.co.il/finances-news/Article-843572c274371a1026.htm": {
    "check_attempts": 1,
