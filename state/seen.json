@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f3f533a6fd181a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-06a3af83d4281a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-fc64427824281a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aef1427824281a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19077,6 +19079,24 @@
    "updated_ms": 1793176553000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ad727b85a9181a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18303_28102026083236/M_Tarbut_18303_28102026083236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aef1427824281a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אוליביה קולמן ואלכסנדר סקארסגארד, כוכבי \"בעל בהזמנה\", בריאיון ל-mako: \"לא מסוגלים לקרוא ביקורות\"",
+   "duration_s": 84,
+   "first_seen_ms": 1793188046178,
+   "image": "https://img.mako.co.il/2026/10/28/M_Tarbut_18316_28102026113728_1400_1793187560627_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793187572000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אוליביה קולמן ואלכסנדר סקארסגארד, כוכבי \"בעל בהזמנה\", בריאיון ל-mako: \"לא מסוגלים לקרוא ביקורות\"",
+   "type": "mivzakim",
+   "updated_ms": 1793187572000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aef1427824281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18316_28102026113728/M_Tarbut_18316_28102026113728_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b1c9537e27271a1026.htm": {
    "author": "עדכוני בידור",
@@ -45638,7 +45658,7 @@
    "sections": [],
    "title": "ההימורים של הישראלים בפולימרקט",
    "type": "news",
-   "updated_ms": 1793181052000,
+   "updated_ms": 1793187660000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f3f533a6fd181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/NOAY_POLY_281026/MASTER/NOAY_POLY_281026/NOAY_POLY_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -86989,6 +87009,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-049f80d573e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_IDFCALPI_7853_27102026043916/V1_IDFCALPI_7853_27102026043916_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-06a3af83d4281a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דרמטי | צה״ל פוצץ הבוקר את בתי מחבלי חמאס שתכננו שורת פיגועים וסוכלו במרץ",
+   "duration_s": 16,
+   "first_seen_ms": 1793188046178,
+   "image": "https://img.mako.co.il/2026/10/28/V1_SHIR_PITZUT_7917_28102026114220_1400_1793187812163_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793187823000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דרמטי | צה״ל פוצץ הבוקר את בתי מחבלי חמאס שתכננו שורת פיגועים וסוכלו במרץ",
+   "type": "mivzakim",
+   "updated_ms": 1793187823000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-06a3af83d4281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_SHIR_PITZUT_7917_28102026114220/V1_SHIR_PITZUT_7917_28102026114220_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-06d79c7d50a71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -118055,6 +118093,24 @@
    "updated_ms": 1793013122000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-cd47b164ed771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_germany_7788_26102026111026/V1_karind_germany_7788_26102026111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-fc64427824281a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "ממדי האסון נחשפים: הרכבות בספרד מפורקות על הקרקע | התיעוד הדרמטי מהתאונה הקטלנית",
+   "duration_s": 43,
+   "first_seen_ms": 1793188046178,
+   "image": "https://img.mako.co.il/2026/10/28/V1_SHIR_SPAIN_7916_28102026114043_1400_1793187741759_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793187751000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "ממדי האסון נחשפים: הרכבות בספרד מפורקות על הקרקע | התיעוד הדרמטי מהתאונה הקטלנית",
+   "type": "mivzakim",
+   "updated_ms": 1793187751000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-fc64427824281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_SHIR_SPAIN_7916_28102026114043/V1_SHIR_SPAIN_7916_28102026114043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
