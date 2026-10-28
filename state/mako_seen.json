@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793195849416,
+ "last_run_ms": 1793196149427,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35693,6 +35693,18 @@
    "section": "",
    "title": "תיעוד רצח מיפו: יורה מטווח אפס - ונמלט"
   },
+  "https://www.mako.co.il/men-men_news/Article-3be7f3449b281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793196149427,
+   "content_type": "article",
+   "first_seen_ms": 1793196149427,
+   "indexable": true,
+   "indexnow_ms": 1793196149427,
+   "published_ms": 1793195520000,
+   "section": "פלילים",
+   "title": "חקירת רצח בן ה-17 באשקלון נקלעה למבוי סתום"
+  },
   "https://www.mako.co.il/men-men_news/Article-3ca3b6e546f31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42052,6 +42064,18 @@
    "published_ms": 1791211380000,
    "section": "ספורט",
    "title": "מאות מיליונים על הפרק: הדרמה ביורוליג"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-178d55588c281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793196149427,
+   "content_type": "article",
+   "first_seen_ms": 1793196149427,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793195880000,
+   "section": "ספורט",
+   "title": "היסטורי: נמכר הקלף היקר אי פעם של אבדיה"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-19359de013761a1027.htm": {
    "check_attempts": 1,
