@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793188649408,
+ "last_run_ms": 1793188949277,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24041,6 +24041,18 @@
    "section": "נדל\"ן",
    "title": "פינוי-בינוי בירושלים: המתווה שישאיר אתכם יחד"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-2ed0670d45281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793188826700,
+   "content_type": "article",
+   "first_seen_ms": 1793188826700,
+   "indexable": true,
+   "indexnow_ms": 1793188826700,
+   "published_ms": 1793188380000,
+   "section": "נדל\"ן",
+   "title": "הבדיקה נפתחה: 121 ועדות יחשפו ניגודי עניינים"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-31bc512e9bf21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43480,6 +43492,18 @@
    "published_ms": 1790496900000,
    "section": "דיגיטל",
    "title": "סכנה אמיתית: OpenAI עוצרת את הפיתוח"
+  },
+  "https://www.mako.co.il/nexter-news/Article-5b40b8be6c181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793188826700,
+   "content_type": "article",
+   "first_seen_ms": 1793188826700,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793188800000,
+   "section": "דיגיטל",
+   "title": "ויתרה על האקזיט - ושווה כבר 3.8 מיליארד דולר"
   },
   "https://www.mako.co.il/nexter-news/Article-5c4dcfd1c9b11a1027.htm": {
    "check_attempts": 1,
