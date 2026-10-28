@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793202149569,
+ "last_run_ms": 1793202449543,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14575,6 +14575,18 @@
    "section": "ספורט",
    "title": "המאבק נגד ישראל מגיע לבחירות בפיפ\"א"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-7cacf35bc2381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793202387322,
+   "content_type": "article",
+   "first_seen_ms": 1793202387322,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793202240000,
+   "section": "ספורט",
+   "title": "על העמדה של סולומון: המועמד לווסטהאם"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-7d91407e93b01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -25023,7 +25035,7 @@
    "indexnow_ms": null,
    "published_ms": 1793201220000,
    "section": "נדל\"ן",
-   "title": "הרצף הפתוח לים: כך תיראה התוכנית בכיכר אתרים"
+   "title": "המקום האייקוני בת\"א ייהרס, וכך ייראה מה שייבנה במקום"
   },
   "https://www.mako.co.il/finances-special/Article-00d428eb604d0a1026.htm": {
    "check_attempts": 1,
