@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ed31a64e95081a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f27776e4c4081a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-200bfbae99081a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-62bdfdf5da081a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44312,6 +44312,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-1faa2ccba0e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/SHIR_PRECENT_271026/MASTER/SHIR_PRECENT_271026/SHIR_PRECENT_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-200bfbae99081a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תוצאות הבחירות מתחילות להתבהר, אבל ההכרעה עדיין רחוקה. איזנקוט חגג מוקדם מדי את מה שהציג כניצחון גוש השינוי, בעוד נתניהו מצידו משדר ביטחון בהקמת ממשלת ימין חזקה. אלא שלאף אחד מהשניים אין כרגע את הרוב הדרוש של 61 מנדטים כדי להקים ממשלה ולצאת מהפלונטר הפוליטי. כך נשמעו הלילה שני הצדדים של המפה הפוליטית.",
+   "duration_s": 66,
+   "first_seen_ms": 1793161046596,
+   "image": "https://img.mako.co.il/2026/10/28/yoav_WIN_281026_1400_1793159333754_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793160180000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "ליל הנאומים של איזנקוט ונתניהו",
+   "type": "news",
+   "updated_ms": 1793160180000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-200bfbae99081a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/yoav_WIN_281026/MASTER/yoav_WIN_281026/yoav_WIN_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21ab76e4c4081a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -44322,7 +44340,8 @@
    "importance": 2,
    "published_ms": 1793154480000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "מרוץ הלילה בתל אביב: מפת החסימות המלאה",
    "type": "news",
@@ -45197,7 +45216,8 @@
    "importance": 2,
    "published_ms": 1793149020000,
    "sections": [
-    "הפרשנים"
+    "הפרשנים",
+    "הכי נצפים עכשיו"
    ],
    "title": "התוצאות טרפו את הקלפים: הסיכוי לממשלת אחדות גדל",
    "type": "news",
@@ -88485,6 +88505,24 @@
    "updated_ms": 1792907611000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5f4050e9f8171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_POLICE_7730_25102026055203/V1_POLICE_7730_25102026055203_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-62bdfdf5da081a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "היום שאחרי הבחירות: גשם וירידה בטמפרטורות | צפו בתחזית המלאה",
+   "duration_s": 43,
+   "first_seen_ms": 1793161046596,
+   "image": "https://img.mako.co.il/2026/10/28/V1_WEATHERRERERER_7899_28102026040921_1400_1793160656436_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793160663000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "היום שאחרי הבחירות: גשם וירידה בטמפרטורות | צפו בתחזית המלאה",
+   "type": "mivzakim",
+   "updated_ms": 1793160663000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-62bdfdf5da081a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_WEATHERRERERER_7899_28102026040921/V1_WEATHERRERERER_7899_28102026040921_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-64a2adb934d71a1027.htm": {
    "author": "מבזקים",
