@@ -17785,16 +17785,16 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר כ",
+   "description": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר\"",
    "duration_s": 9,
    "first_seen_ms": 1793185646278,
    "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18315_28102026105104_1400_1793185126632_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793185133000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר כ",
+   "title": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר\"",
    "type": "mivzakim",
    "updated_ms": 1793185133000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm",
@@ -44485,7 +44485,9 @@
    "image": "https://img.mako.co.il/2026/10/28/FIX_MAIN_MAAYAN_PIC_1400_1793180155514_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793178041000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "מעיין אדם מגיבה לתוצאות הבחירות: \"תרימו את הראש\"",
    "type": "news",
    "updated_ms": 1793182800000,
