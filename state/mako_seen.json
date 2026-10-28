@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793194051385,
+ "last_run_ms": 1793194349338,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1397,9 +1397,9 @@
    "first_seen_ms": 1793182048943,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793181635000,
    "section": "אופנה",
-   "title": "השבוע של קים כלל שמלה עם פטמות ועקבים מטורללים"
+   "title": "לא נחה: השבוע של קים קרדשיאן כלל שמלה עם פטמות ועקבים מטורללים"
   },
   "https://fashionforward.mako.co.il/news/322459/": {
    "check_attempts": 1,
@@ -1409,7 +1409,7 @@
    "first_seen_ms": 1793187028232,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793185831000,
    "section": "אופנה",
    "title": "ליה נוגה עשתה את מה שרובנו חולמות אך מפחדות לעשות"
   },
@@ -1421,7 +1421,7 @@
    "first_seen_ms": 1793189186877,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793188692000,
    "section": "אופנה",
    "title": "נחשו מה? סידני סוויני לגמרי עושה את זה שוב"
   },
@@ -18640,6 +18640,18 @@
    "published_ms": 1791294360000,
    "section": "סלבס",
    "title": "\"כותבים לי 'את מורידה לי את החשק להביא עוד ילד לעולם'\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0c44934e66281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793194227034,
+   "content_type": "article",
+   "first_seen_ms": 1793194227034,
+   "indexable": true,
+   "indexnow_ms": 1793194227034,
+   "published_ms": 1793193840000,
+   "section": "סלבס",
+   "title": "בכפכפים, בלי עורך דין: כך תועד יוצא הריאליטי"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0e75b0a5dc971a1027.htm": {
    "check_attempts": 1,
