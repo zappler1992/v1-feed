@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793180249751,
+ "last_run_ms": 1793180549077,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23643,7 +23643,7 @@
    "indexnow_ms": 1793146349224,
    "published_ms": 1793146020000,
    "section": "",
-   "title": "כל ההצבעות לפי ערים: כמה הצביעו בעיר שלכם? בואו לבדוק"
+   "title": "כמה הצביעו בעיר שלכם? בואו לבדוק"
   },
   "https://www.mako.co.il/finances-news/Article-feedddcf99d41a1027.htm": {
    "check_attempts": 1,
@@ -46061,6 +46061,18 @@
    "section": "צבא וביטחון",
    "title": "כל הפרטים: כך יתנהלו הבחירות בצה\"ל"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-85508d853d181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793180549077,
+   "content_type": "article",
+   "first_seen_ms": 1793180549077,
+   "indexable": true,
+   "indexnow_ms": 1793180549077,
+   "published_ms": 1793180100000,
+   "section": "צבא וביטחון",
+   "title": "באירופה סימנו תרחיש קיצון: \"פוטין בוחן אותנו\""
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-85d29a19912e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -52023,6 +52035,18 @@
    "section": "חופש",
    "title": "ישראלים ארגנו מסיבה במקום שמור - ועוררו סערה"
   },
+  "https://www.mako.co.il/travel-news/international/Article-d5849629dc181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793180427196,
+   "content_type": "article",
+   "first_seen_ms": 1793180427196,
+   "indexable": true,
+   "indexnow_ms": 1793180427196,
+   "published_ms": 1793179800000,
+   "section": "",
+   "title": "טרגדיה: עשרות הרוגים ופצועים בהתנגשות רכבות בספרד"
+  },
   "https://www.mako.co.il/travel-news/international/Article-d746c2e395771a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -56269,7 +56293,7 @@
    "indexnow_ms": 1793164587516,
    "published_ms": 1793164380000,
    "section": "תרבות tvbee",
-   "title": "אייל ברקוביץ' הפך למנסור עבאס של האולפן"
+   "title": "הדילמה מהגיהינום של איזנקוט, בנט וליברמן"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-a877e75f8f570a1026.htm": {
    "check_attempts": 1,
