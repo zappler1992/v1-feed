@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-24bb82626b081a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-557f40313c081a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -87304,9 +87304,10 @@
    "importance": 0,
    "published_ms": 1793161774000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
-   "title": "בוקר דרמטי: יותר מ-2 מיליון קולות נספרו ולאף גם אין 61 | תוצאות המדגם העדכניות",
+   "title": "בוקר דרמטי: יותר מ-2 מיליון קולות נספרו ולאף גוש אין 61 | תוצאות המדגם העדכניות",
    "type": "mivzakim",
    "updated_ms": 1793161774000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-24bb82626b081a1027.htm",
@@ -88323,6 +88324,24 @@
    "updated_ms": 1793085546000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5543d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18201_27102026071733/M_NEWS_18201_27102026071733_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-557f40313c081a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ מגיב לראשונה לתוצאות המסתמנות של הבחירות בישראל: \"זה מבוי סתום או ניצחון\"",
+   "duration_s": 9,
+   "first_seen_ms": 1793162846815,
+   "image": "https://img.mako.co.il/2026/10/28/V1_rinat_trump_281026_7901_28102026044029_1400_1793162497405_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793162504000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ מגיב לראשונה לתוצאות המסתמנות של הבחירות בישראל: \"זה מבוי סתום או ניצחון\"",
+   "type": "mivzakim",
+   "updated_ms": 1793162504000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-557f40313c081a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_rinat_trump_281026_7901_28102026044029/V1_rinat_trump_281026_7901_28102026044029_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-561ebd1ad6d71a1027.htm": {
    "author": "מבזקים",
