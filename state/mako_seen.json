@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793199449624,
+ "last_run_ms": 1793199749360,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18461,6 +18461,18 @@
    "section": "",
    "title": "\"הייתי צריכה להביא לו בן בשביל טבעת\""
   },
+  "https://www.mako.co.il/entertainment-celebs/Article-ef03ef4e7d281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793199627214,
+   "content_type": "article",
+   "first_seen_ms": 1793199627214,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793197680000,
+   "section": "הכי חם",
+   "title": "\"לא כל מה שאנחנו עושים חייב להיות בחוץ\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2025/Article-893f08b87945a91026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -18675,7 +18687,7 @@
    "indexnow_ms": 1793194227034,
    "published_ms": 1793193840000,
    "section": "סלבס",
-   "title": "בכפכפים, בלי עורך דין: כך תועד יוצא הריאליטי"
+   "title": "בכפכפים ועם חיוך: כך תועד יוצא הריאליטי בבית המשפט"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0e75b0a5dc971a1027.htm": {
    "check_attempts": 1,
@@ -25695,7 +25707,7 @@
    "indexnow_ms": null,
    "published_ms": 1793177760000,
    "section": "",
-   "title": "אחרי כל המגולגלות שהכנו: זה המילוי המנצח בפער"
+   "title": "אחרי כל המגולגלות שהכנו, זה המילוי המנצח בפער"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-cdc7aa05c77e0a1026.htm": {
    "check_attempts": 1,
