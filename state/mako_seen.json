@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793185649555,
+ "last_run_ms": 1793185949058,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3476,6 +3476,18 @@
    "published_ms": 1792327920000,
    "section": "ספורט",
    "title": "\"נושא באחריות היסטורית\": וומבי תחת מתקפה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e1003caad2281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793185949058,
+   "content_type": "article",
+   "first_seen_ms": 1793185949058,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793185620000,
+   "section": "ספורט",
+   "title": "צפו במעקבדיה: לילה ענק נוסף לדני אבדיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e28c063029571a1026.htm": {
    "check_attempts": 1,
@@ -26835,7 +26847,7 @@
    "indexnow_ms": 1793178267091,
    "published_ms": 1793174760000,
    "section": "בריאות",
-   "title": "\"אין שליטה טובה על התפשטות הנגיף\""
+   "title": "בגלל התפשטות הנגיף המסוכן: אזהרה מפני נסיעה למדינות"
   },
   "https://www.mako.co.il/health-news/Article-1507490c1f871a1026.htm": {
    "check_attempts": 1,
@@ -46407,7 +46419,7 @@
    "indexnow_ms": 1793182949144,
    "published_ms": 1793182500000,
    "section": "צבא וביטחון",
-   "title": "מלחמה של 3 ימים באיראן? האמת מאחורי הדיווחים"
+   "title": "הפרט המשמעותי בפרסומים על תקיפה קרובה באיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-947848ff2f331a1027.htm": {
    "check_attempts": 1,
