@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793184748998,
+ "last_run_ms": 1793185048983,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18040,6 +18040,18 @@
    "published_ms": 1791514800000,
    "section": "תרבות tvbee",
    "title": "\"מפרסמים עליי שקרים כל הזמן, זה לא ישתנה\""
+  },
+  "https://www.mako.co.il/culture-movies/Article-984a9fe3db181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793184987487,
+   "content_type": "article",
+   "first_seen_ms": 1793184987487,
+   "indexable": true,
+   "indexnow_ms": 1793184987487,
+   "published_ms": 1793184720000,
+   "section": "תרבות tvbee",
+   "title": "\"אני לא מסוגל לקרוא ביקורות על הסרטים שלי\""
   },
   "https://www.mako.co.il/culture-movies/Article-a1063c85b0dc0a1027.htm": {
    "check_attempts": 1,
@@ -40649,6 +40661,18 @@
    "section": "מוזיקה",
    "title": "בונו תוקף את בן גביר ומשווה אותו לפושע מלחמה נאצי"
   },
+  "https://www.mako.co.il/music-news/Article-f53193a261281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793184987487,
+   "content_type": "article",
+   "first_seen_ms": 1793184987487,
+   "indexable": true,
+   "indexnow_ms": 1793184987487,
+   "published_ms": 1793184720000,
+   "section": "מוזיקה",
+   "title": "כוכב הרוק האגדי תובע את טראמפ - וזו הסיבה"
+  },
   "https://www.mako.co.il/music-news/Article-f57dc95895a11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -41296,6 +41320,18 @@
    "published_ms": 1791654480000,
    "section": "חדשות",
    "title": "17 ימים לבחירות: הרשימה המשותפת בהכרזה דרמטית"
+  },
+  "https://www.mako.co.il/news-politics/2026_q4/Article-e2608de0bf181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793184867505,
+   "content_type": "article",
+   "first_seen_ms": 1793184867505,
+   "indexable": true,
+   "indexnow_ms": 1793184867505,
+   "published_ms": 1793184300000,
+   "section": "",
+   "title": "למרות האכזבה: המהלך שבגוש השינוי צפויים לעשות"
   },
   "https://www.mako.co.il/news-politics/2026_q4/liveblog-edcbca53f8921a1026.htm": {
    "check_attempts": 1,
@@ -42328,6 +42364,18 @@
    "published_ms": 1793005440000,
    "section": "חופש",
    "title": "הונאות ומחירים גבוהים: גן העדן נמצא על סף קריסה"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-421c911bcf771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-meals/recipes_for_shabath/Article-421c911bcf771a1027.htm",
+   "checked_ms": 1793184867505,
+   "content_type": "article",
+   "first_seen_ms": 1793184867505,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793184660000,
+   "section": "הכי חם",
+   "title": "חמש מנות לשבת, וסיבה טובה לקחת עוד צלחת מלאה"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-44a8c50252f61a1027.htm": {
    "check_attempts": 1,
@@ -56473,7 +56521,7 @@
    "indexnow_ms": 1793164587516,
    "published_ms": 1793164380000,
    "section": "תרבות tvbee",
-   "title": "אייל ברקוביץ' הפך למנסור עבאס של האולפן"
+   "title": "עמית סגל העמיד במקום את השידוך הבא שלו"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-a877e75f8f570a1026.htm": {
    "check_attempts": 1,
