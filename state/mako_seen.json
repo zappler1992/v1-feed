@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793169748816,
+ "last_run_ms": 1793170048779,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6512,6 +6512,18 @@
    "published_ms": 1792689840000,
    "section": "ספורט",
    "title": "\"הכוכב שספליטר רוצה להפוך לאבדיה החדש\""
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-60c99f18d3181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793170048779,
+   "content_type": "article",
+   "first_seen_ms": 1793170048779,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793169720000,
+   "section": "ספורט",
+   "title": "לוקה התעצבן: דני ביצע עבירת גולטנדינג?"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-64f38fa8d9421a1027.htm": {
    "check_attempts": 1,
@@ -51386,6 +51398,18 @@
    "published_ms": 1790932200000,
    "section": "",
    "title": "גל מחאות: התיכוניסטים מבעירים את אירופה - זו הסיבה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-b7d2bdacb2181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793169986694,
+   "content_type": "article",
+   "first_seen_ms": 1793169986694,
+   "indexable": true,
+   "indexnow_ms": 1793169986694,
+   "published_ms": 1793169840000,
+   "section": "",
+   "title": "צעק \"אללה אכבר\" וחוסל: ניסיון פיגוע בשגרירות הישראלית"
   },
   "https://www.mako.co.il/travel-news/international/Article-b84b212e83a21a1026.htm": {
    "check_attempts": 1,
