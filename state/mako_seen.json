@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793221048769,
+ "last_run_ms": 1793221348719,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41656,6 +41656,18 @@
    "published_ms": 1792776600000,
    "section": "קשת 12",
    "title": "\"זה מהלך שצריך להסתיר מהמשפחה והחברים\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-e0345c8352481a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-e0345c8352481a1027.htm",
+   "checked_ms": 1793221227472,
+   "content_type": "article",
+   "first_seen_ms": 1793221227472,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793220180000,
+   "section": "קשת 12",
+   "title": "זמר ענק: זה המפורסם שנחשף ב\"הזמר במסכה\""
   },
   "https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm": {
    "check_attempts": 1,
