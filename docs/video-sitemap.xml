@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-409e9dfe84381a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/V1_karind_hamas_7927_28102026041935_1400_1793204472757_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>צה&quot;ל: חיסלנו 3 מפקדים מחמאס בהם מפקד נוח&#x27;בה שפשט למוצב סופה ומפקד שפשט לשטח ישראל ב7.10</video:title>
+<video:description>צה&quot;ל: חיסלנו 3 מפקדים מחמאס בהם מפקד נוח&#x27;בה שפשט למוצב סופה ומפקד שפשט לשטח ישראל ב7.10</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_karind_hamas_7927_28102026041935/V1_karind_hamas_7927_28102026041935_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-28T16:21:19+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-2ca5db49a3381a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/28/SHIR_RECALL_281026_1400_1793203781741_FirstFrame.jpg</video:thumbnail_loc>
@@ -350,6 +366,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -446,6 +463,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -478,6 +496,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -493,6 +512,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>

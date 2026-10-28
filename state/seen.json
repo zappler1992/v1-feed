@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-2ca5db49a3381a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-409e9dfe84381a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6392,7 +6392,8 @@
    "importance": 2,
    "published_ms": 1793187566000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "דמי לובאטו (שוב) בבית חולים, הפעם הסיבה פחות מדאיגה",
    "type": "general",
@@ -26668,10 +26669,12 @@
    "image": "https://img.mako.co.il/2026/10/28/AVISHAI_ARAB_281026_1400_1793187166054_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793187173000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "העולם הערבי מסקר בהלם את הבחירות בישראל",
    "type": "general",
-   "updated_ms": 1793187173000,
+   "updated_ms": 1793196000000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-609e9c3854281a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/AVISHAI_ARAB_281026/MASTER/AVISHAI_ARAB_281026/AVISHAI_ARAB_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -88836,6 +88839,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-401536f190f71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_Options_271026_7874_27102026084229/V1_Options_271026_7874_27102026084229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-409e9dfe84381a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה\"ל: חיסלנו 3 מפקדים מחמאס בהם מפקד נוח'בה שפשט למוצב סופה ומפקד שפשט לשטח ישראל ב7.10",
+   "duration_s": 9,
+   "first_seen_ms": 1793204846364,
+   "image": "https://img.mako.co.il/2026/10/28/V1_karind_hamas_7927_28102026041935_1400_1793204472757_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793204479000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה\"ל: חיסלנו 3 מפקדים מחמאס בהם מפקד נוח'בה שפשט למוצב סופה ומפקד שפשט לשטח ישראל ב7.10",
+   "type": "mivzakim",
+   "updated_ms": 1793204479000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-409e9dfe84381a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_karind_hamas_7927_28102026041935/V1_karind_hamas_7927_28102026041935_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-42a6bd1ad6d71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -118476,7 +118497,8 @@
    "importance": 0,
    "published_ms": 1793191856000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "השיגור שמלחיץ את המערב: רוסיה ביצעה ניסוי בטיל בין יבשתי עם יכולת גרעינית",
    "type": "mivzakim",
@@ -118628,7 +118650,8 @@
    "importance": 0,
    "published_ms": 1793187751000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ממדי האסון נחשפים: הרכבות בספרד מפורקות על הקרקע | התיעוד הדרמטי מהתאונה הקטלנית",
    "type": "mivzakim",

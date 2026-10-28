@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793204549419,
+ "last_run_ms": 1793204849442,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21003,7 +21003,7 @@
    "indexnow_ms": 1793183067362,
    "published_ms": 1793182500000,
    "section": "סלבס",
-   "title": "\"קצת שובב\": כוכב ה-NBA פתח חשבון אונליפאנס"
+   "title": "\"קצת שובב\": הכוכב פתח חשבון אונליפאנס"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-26ede0e4a4f01a1026.htm": {
    "check_attempts": 1,
@@ -55274,6 +55274,18 @@
    "published_ms": 1792724400000,
    "section": "קשת 12",
    "title": "\"עשיתי, אבל לא מבינה בזה\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-6a626bed11381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793204667388,
+   "content_type": "article",
+   "first_seen_ms": 1793204667388,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793201100000,
+   "section": "קשת 12",
+   "title": "\"מזל ששמת תחתון\": הפדיחה של משה פרץ בגמר"
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-6b31155ac5f61a1026.htm": {
    "check_attempts": 1,
