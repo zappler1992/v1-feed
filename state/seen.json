@@ -1,7 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a289fe3db181a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7e0a8d853d181a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5f698d853d181a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b33b8be6c181a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-46ad8d853d181a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18033,6 +18036,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-394f718904e71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18265_27102026045432/M_Music_18265_27102026045432_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b33b8be6c181a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״לאף אחד אין רוב, כי העם הזה מפולג. תעשו מה שהמנהיגים שלנו שכחו - לקבל אחד את השני״",
+   "duration_s": 9,
+   "first_seen_ms": 1793179945909,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18306_28102026090933_1400_1793179267131_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793179273000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״לאף אחד אין רוב, כי העם הזה מפולג. תעשו מה שהמנהיגים שלנו שכחו - לקבל אחד את השני״",
+   "type": "mivzakim",
+   "updated_ms": 1793179273000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b33b8be6c181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18306_28102026090933/M_Celebs_18306_28102026090933_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3f54872b9c771a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -18230,6 +18251,24 @@
    "updated_ms": 1793174377000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-584ca13018181a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18302_28102026075215/M_Celebs_18302_28102026075215_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5f698d853d181a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "קלואי קרדשיאן יודעת? כוכב ה-NBA לשעבר למאר אודום פתח אונליפנס",
+   "duration_s": 9,
+   "first_seen_ms": 1793179945909,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18307_28102026092104_1400_1793179577789_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793179584000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "קלואי קרדשיאן יודעת? כוכב ה-NBA לשעבר למאר אודום פתח אונליפנס",
+   "type": "mivzakim",
+   "updated_ms": 1793179584000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5f698d853d181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18307_28102026092104/M_Celebs_18307_28102026092104_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-60cd2c668a471a1027.htm": {
    "author": "עדכוני בידור",
@@ -93287,6 +93326,24 @@
    "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-1df76f4d9bb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18188_27102026051841/M_Food_18188_27102026051841_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-46ad8d853d181a1026.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "עוגיות במילוי בצק עוגיות? כן, כן ועוד הפעם כן!",
+   "duration_s": 17,
+   "first_seen_ms": 1793179945909,
+   "image": "https://img.mako.co.il/2026/10/28/M_Food_18308_28102026092740_1400_1793179738147_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793179745000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "עוגיות במילוי בצק עוגיות? כן, כן ועוד הפעם כן!",
+   "type": "mivzakim",
+   "updated_ms": 1793179745000,
+   "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-46ad8d853d181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18308_28102026092740/M_Food_18308_28102026092740_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4c675cce2f171a1027.htm": {
    "author": "מתכונים",
    "date_source": "json-publishDate",
@@ -117572,6 +117629,24 @@
    "updated_ms": 1792927803000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7598c2aa2d271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/V1_TRAIN_7743_25102026112823/V1_TRAIN_7743_25102026112823_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7e0a8d853d181a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "דיווח: לפחות 39 בני אדם נהרגו בהתנגשות רכבות במחוז טולדו בספרד",
+   "duration_s": 25,
+   "first_seen_ms": 1793179945909,
+   "image": "https://img.mako.co.il/2026/10/28/spaintrainfix_1400_1793179761815_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793179617000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "דיווח: לפחות 39 בני אדם נהרגו בהתנגשות רכבות במחוז טולדו בספרד",
+   "type": "mivzakim",
+   "updated_ms": 1793179617000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7e0a8d853d181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/spaintrainfix/spaintrainfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-946afbb8f6371a1027.htm": {
    "author": "מבזקים מהעולם",
