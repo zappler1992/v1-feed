@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793156249617,
+ "last_run_ms": 1793156549417,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2648,6 +2648,18 @@
    "published_ms": 1793143500000,
    "section": "ספורט",
    "title": "אין סיכוי ל-MVP: זמן ההיעדרות של אדוורדס"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-1e75a64e95081a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793156549417,
+   "content_type": "article",
+   "first_seen_ms": 1793156549417,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793156100000,
+   "section": "ספורט",
+   "title": "עם הבאזר: טייטום ניצח 124:125 את ברוקלין"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-1e91a7ace0c51a1026.htm": {
    "check_attempts": 1,
