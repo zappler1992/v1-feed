@@ -1,20 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0c558d853d181a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_Music_18310_28102026093425_1400_1793180128846_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>״הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק״</video:title>
+<video:description>״הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק״</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18310_28102026093425/M_Music_18310_28102026093425_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>15</video:duration>
+<video:publication_date>2026-10-28T09:35:36+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-edde06c89d181a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_NEWS_18309_28102026093357_1400_1793180114663_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>עדכון חסימות ופתיחת כבישים בעקבות השיטפונות בדרום: כביש 90 מצומת הלידו ועד צומת הערבה חסום לתנועה</video:title>
+<video:description>עדכון חסימות ופתיחת כבישים בעקבות השיטפונות בדרום: כביש 90 מצומת הלידו ועד צומת הערבה חסום לתנועה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18309_28102026093357/M_NEWS_18309_28102026093357_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>8</video:duration>
+<video:publication_date>2026-10-28T09:35:22+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/recipes-2026/m10_w05/shorts-46ad8d853d181a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_Food_18308_28102026092740_1400_1793179738147_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>עוגיות במילוי בצק עוגיות? כן, כן ועוד הפעם כן!</video:title>
-<video:description>עוגיות במילוי בצק עוגיות? כן, כן ועוד הפעם כן!</video:description>
+<video:description>כבר הכנו עוגיות מגולגלות עם שוקולד, תמרים וכל סוגי הריבות, אפילו ממרח קינדר כבר דחפנו פנימה - אבל לא היו ולא יהיו כמו המגולגלות האלה, במילוי של עוגיות שוקולד צ&#x27;יפס. תנסו ונדבר</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18308_28102026092740/M_Food_18308_28102026092740_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>17</video:duration>
 <video:publication_date>2026-10-28T09:29:05+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
-<video:uploader>מתכונים</video:uploader>
+<video:uploader>יעל קצב</video:uploader>
 <video:tag>אוכל ומתכונים</video:tag>
-<video:tag>מתכונים</video:tag>
+<video:tag>יעל קצב</video:tag>
 </video:video>
 </url>
 <url>
@@ -482,6 +514,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
