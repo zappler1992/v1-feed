@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793198549385,
+ "last_run_ms": 1793198849513,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12979,6 +12979,18 @@
    "section": "ספורט",
    "title": "ישיר: קני מילר מתכונן להפועל חיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fcb2a666de281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793198787170,
+   "content_type": "article",
+   "first_seen_ms": 1793198787170,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793198640000,
+   "section": "ספורט",
+   "title": "יירכש מיידית? מו\"מ להעברת גמבלה לבית\"ר"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fdaa3fbf11a31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -19275,7 +19287,7 @@
    "indexnow_ms": 1793196627105,
    "published_ms": 1793196360000,
    "section": "",
-   "title": "\"רעה, מה זה?\": הפפראצי של גל גדות יצא משליטה"
+   "title": "\"רעה, מה זה?\": הפפרצי של גל גדות יצא משליטה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5dbbebe619601a1027.htm": {
    "check_attempts": 1,
@@ -21400,6 +21412,18 @@
    "published_ms": 1790251620000,
    "section": "סלבס",
    "title": "\"עדיין יש לי את זה\": הרגע המרגש של הכוכב בגיל 58"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-8aff9629dc181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793198787170,
+   "content_type": "article",
+   "first_seen_ms": 1793198787170,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793198340000,
+   "section": "סלבס",
+   "title": "\"הכל בגלל האבא\": הסטורי שסיבך את האלי ברי - ונמחק מיד"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-8b5a0c00a7501a1026.htm": {
    "check_attempts": 1,

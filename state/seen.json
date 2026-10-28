@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-7ea3ef4e7d281a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-86c1ef4e7d281a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0858914eaa281a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3266ef4e7d281a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18106,6 +18106,24 @@
    "updated_ms": 1793181367000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2f8b82c8ee181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18313_28102026095435/M_Celebs_18313_28102026095435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3266ef4e7d281a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"היא לא מצליחה\": קטורזה מגיע ל\"הזמר במסכה\" ומפקפק ביכולות של אופירה אסייג",
+   "duration_s": 49,
+   "first_seen_ms": 1793198846308,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18328_28102026022619_1400_1793197848952_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793197855000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"היא לא מצליחה\": קטורזה מגיע ל\"הזמר במסכה\" ומפקפק ביכולות של אופירה אסייג",
+   "type": "mivzakim",
+   "updated_ms": 1793197855000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3266ef4e7d281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18328_28102026022619/M_Celebs_18328_28102026022619_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm": {
    "author": "עדכוני בידור",
@@ -44672,6 +44690,24 @@
    "updated_ms": 1792947780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w04/shorts-ff9b2415d6f61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/yoav_amit_241026/MASTER/yoav_amit_241026/yoav_amit_241026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0858914eaa281a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נגיף האבולה ממשיך להתפשט באפריקה ומעורר דאגה, כשמשרד הבריאות הישראלי מרחיב את אזהרות המסע למדינות באזור. פרופ׳ סיריל כהן מזהיר כי ההתפרצות עלולה להימשך חודשים ואף שנים, אך מעריך כי הסבירות שהנגיף יגיע לישראל נמוכה.",
+   "duration_s": 44,
+   "first_seen_ms": 1793198846308,
+   "image": "https://img.mako.co.il/2026/10/28/SHIR_ABULA_281026_1400_1793193599459_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793193606000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "האבולה מתפשטת באפריקה: משרד הבריאות מרחיב את אזהרות המסע",
+   "type": "news",
+   "updated_ms": 1793193606000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0858914eaa281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/SHIR_ABULA_281026/MASTER/SHIR_ABULA_281026/SHIR_ABULA_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a289fe3db181a1026.htm": {
    "author": "חדשות",
