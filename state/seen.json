@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-9184799c48281a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ca6a906839281a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e849906839281a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -91209,6 +91210,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c905adb934d71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18242_27102026122621/M_NEWS_18242_27102026122621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ca6a906839281a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזה גוש מוביל והאם זה הנתון הסופי: צפו בכל מה שצריך לדעת על תוצאות האמת",
+   "duration_s": 120,
+   "first_seen_ms": 1793192546254,
+   "image": "https://img.mako.co.il/2026/10/28/NOAY_ADVA1_281026_1400_1793192233285_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793192240000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזה גוש מוביל והאם זה הנתון הסופי: צפו בכל מה שצריך לדעת על תוצאות האמת",
+   "type": "mivzakim",
+   "updated_ms": 1793192240000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ca6a906839281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/NOAY_ADVA1_281026/NOAY_ADVA1_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cb4481565ac71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -91786,6 +91805,24 @@
    "updated_ms": 1793097417000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e5230915edc71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_sarim_7830_27102026103438/V1_karind_sarim_7830_27102026103438_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e849906839281a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הנשיא הרצוג מגיב לתוצאות: \"צריך לעשות הכול כדי שלא לחזור על בחירות נוספות, לבוא עם ראש פתוח\".",
+   "duration_s": 48,
+   "first_seen_ms": 1793192546254,
+   "image": "https://img.mako.co.il/2026/10/28/V1_herzog_7920_28102026125332_1400_1793192184162_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793192193000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הנשיא הרצוג מגיב לתוצאות: \"צריך לעשות הכול כדי שלא לחזור על בחירות נוספות, לבוא עם ראש פתוח\".",
+   "type": "mivzakim",
+   "updated_ms": 1793192193000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e849906839281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_herzog_7920_28102026125332/V1_herzog_7920_28102026125332_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e8cd53110a671a1026.htm": {
    "author": "מבזקים",
