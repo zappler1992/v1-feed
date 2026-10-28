@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2f8b82c8ee181a1026.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-62203f1be1361a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-36234a90bd771a1027.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-4edea5d56a871a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1292,6 +1294,25 @@
    "updated_ms": 1792681200000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w04/shorts-f863e92e48261a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/ACADEMY_OF_LIES_EP17/MASTER/ACADEMY_OF_LIES_EP17/ACADEMY_OF_LIES_EP17_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-36234a90bd771a1027.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 22: בן בוחר לעבוד עם אשלי ומשאיר את מיה בלי כוריאוגרף, אבל ג׳אד נשאר לצדה ומעודד אותה לא לוותר. אשלי מחליטה לפגוע גם בקשר ביניהם, לוקחת את הטלפון של מיה ושולחת בשמה הודעת דחייה. ג׳אד קורא שהרגשות שלו לא הדדיים, בלי לדעת שמיה לא כתבה מילה.",
+   "duration_s": 160,
+   "first_seen_ms": 1793182645950,
+   "image": "https://img.mako.co.il/2026/10/26/ACADEMY_OF_LIES_EP22_1400_1793013176770_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793182200000,
+   "sections": [
+    "הפרק היומי",
+    "בקצב השקר"
+   ],
+   "title": "בקצב השקר פרק 22: ההודעה ששברה לו את הלב",
+   "type": "series",
+   "updated_ms": 1793182200000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-36234a90bd771a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP22/MASTER/ACADEMY_OF_LIES_EP22/ACADEMY_OF_LIES_EP22_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm": {
    "author": "בקצב השקר",
@@ -17730,16 +17751,16 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0c558d853d181a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "״הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק״",
+   "description": "הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק",
    "duration_s": 15,
    "first_seen_ms": 1793180246156,
    "image": "https://img.mako.co.il/2026/10/28/M_Music_18310_28102026093425_1400_1793180128846_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793180136000,
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "״הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק״",
+   "title": "הזמרת פינק נתפסה מטיילת ברחובות ניו יורק עם הכלבה שלה בתיק",
    "type": "mivzakim",
    "updated_ms": 1793180136000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0c558d853d181a1026.htm",
@@ -31884,6 +31905,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-1bee8aa4e5271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/LOADED_EP69/MASTER/LOADED_EP69/LOADED_EP69_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-4edea5d56a871a1027.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 72: גיא מצטרף לאביגיל לשיעור פיסול ומגלה שהמודל בעירום הוא אבא שלו, שממש לא מתכוון לתת למבוכה של הבן להפריע לו ליהנות. אצל האוליגרכים ארז מצליח להדביק את הפסל, ותומר מחליט שהדרך החוצה עוברת בהפסד של כל הרווחים. כשהמארחים חוזרים, ארז שוב מתקפל ותומר מציע משחק אחרון על כל הקופה - הפעם בתקווה להפסיד.",
+   "duration_s": 184,
+   "first_seen_ms": 1793182645950,
+   "image": "https://img.mako.co.il/2026/10/26/LOADED_EP72_1400_1793025935776_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793182260000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "מסודרים פרק 72: מודל העירום - אבא",
+   "type": "series",
+   "updated_ms": 1793182260000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-4edea5d56a871a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/LOADED_EP72/MASTER/LOADED_EP72/LOADED_EP72_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-8b3c19e58b371a1027.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -32575,6 +32614,24 @@
    "updated_ms": 1792832400000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-50c3a68763951a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/LOVE_CORNER_EP37/MASTER/LOVE_CORNER_EP37_M/LOVE_CORNER_EP37_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-62203f1be1361a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 41: אמנון ועודד לוחצים על ליאור לחשוב על עדן, אבל הוא דורש שיניחו לו להחליט בעצמו ועוזב בכעס. אלונה ושירלי מוצאות נחמה זו בזו מול הגעגוע לאבא שנעלם, עד שהשיחה חוזרת לנשיקה עם ליאור. כשגולן עומד לחזור מאילת, שירלי שואלת את אלונה את השאלה שקשה לה לענות עליה: האם היא עדיין אוהבת אותו?",
+   "duration_s": 147,
+   "first_seen_ms": 1793182645950,
+   "image": "https://img.mako.co.il/2026/10/22/LOVE_CORNER_EP41_M_1400_1792664554307_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793182260000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "אהבה מעבר לפינה פרק 41: השאלה הקשה מגיעה",
+   "type": "series",
+   "updated_ms": 1793182260000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-62203f1be1361a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/LOVE_CORNER_EP41/MASTER/LOVE_CORNER_EP41_M/LOVE_CORNER_EP41_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-c7d6a0dcc1951a1027.htm": {
    "author": "אהבה מעבר לפינה",
@@ -45396,7 +45453,8 @@
    "importance": 1,
    "published_ms": 1793174058000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "מאות אלפי צפיות בכל העולם: הנערה שהצטלמה בקלפי ושיגעה את הרשת",
    "type": "news",
@@ -92411,10 +92469,13 @@
    "image": "https://img.mako.co.il/2026/10/26/POLISHUK_EP22_1400_1793021001413_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793021008000,
-   "sections": [],
+   "sections": [
+    "הפרק היומי",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 22: המועמדת שמבלבלת את היועץ",
    "type": "series",
-   "updated_ms": 1793021008000,
+   "updated_ms": 1793182140000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-1d96ba3685871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/POLISHUK_EP22/MASTER/POLISHUK_EP22/POLISHUK_EP22_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -117746,7 +117807,8 @@
    "importance": 2,
    "published_ms": 1793179617000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "דיווח: לפחות 39 בני אדם נהרגו בהתנגשות רכבות במחוז טולדו בספרד",
    "type": "mivzakim",
@@ -117859,7 +117921,8 @@
    "importance": 0,
    "published_ms": 1793169099000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד מטלטל מברזיל: מטוס ריסוס התרסק לתוך גן ילדים, בנס החדר שנפגע היה ריק ואף אחד לא נפגע",
    "type": "mivzakim",
