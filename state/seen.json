@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c592d5201c181a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f1164545f1281a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17781,6 +17782,24 @@
    "updated_ms": 1793120200000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0cccc80044e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18266_27102026045500/M_Tarbut_18266_27102026045500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר כ",
+   "duration_s": 9,
+   "first_seen_ms": 1793185646278,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18315_28102026105104_1400_1793185126632_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793185133000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ניקול ראידמן מגיבה לתוצאות האמת: ״נתניהו הוא המנהיג הכי גדול בהיסטוריה שלנו. המשפחה שלו משלמת מחיר כ",
+   "type": "mivzakim",
+   "updated_ms": 1793185133000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18315_28102026105104/M_Celebs_18315_28102026105104_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-11e65cce2f171a1027.htm": {
    "author": "עדכוני בידור",
@@ -91727,6 +91746,24 @@
    "updated_ms": 1793140128000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f0d16d35b6f71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18280_27102026102725/M_NEWS_18280_27102026102725_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f1164545f1281a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"שמעתי שלביבי הולך טוב, הוא ניצח או נמצא בתיקו\": צפו בטראמפ מגיב לתוצאות הבחירות",
+   "duration_s": 42,
+   "first_seen_ms": 1793185646278,
+   "image": "https://img.mako.co.il/2026/10/28/V1_NOAY_TRUMP_281026_7915_28102026110253_1400_1793185496841_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793185503000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"שמעתי שלביבי הולך טוב, הוא ניצח או נמצא בתיקו\": צפו בטראמפ מגיב לתוצאות הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793185503000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f1164545f1281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_NOAY_TRUMP_281026_7915_28102026110253/V1_NOAY_TRUMP_281026_7915_28102026110253_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f16dd768a9d71a1026.htm": {
    "author": "מבזקים",

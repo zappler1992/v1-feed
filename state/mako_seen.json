@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793185349170,
+ "last_run_ms": 1793185649555,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49202,6 +49202,18 @@
    "published_ms": 1790840340000,
    "section": "חדשות",
    "title": "אריה עמידרור הוא קמ\"ן אוגדת עזה ב-7 באוקטובר"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-e2608de0bf181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-e2608de0bf181a1026.htm",
+   "checked_ms": 1793185467535,
+   "content_type": "article",
+   "first_seen_ms": 1793185467535,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793184300000,
+   "section": "",
+   "title": "למרות האכזבה: המהלך שבגוש השינוי צפויים לעשות"
   },
   "https://www.mako.co.il/special-mako-news/Article-e27df06014121a1026.htm": {
    "check_attempts": 1,
