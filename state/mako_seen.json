@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793177848875,
+ "last_run_ms": 1793178148986,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21605,6 +21605,18 @@
    "section": "סלבס",
    "title": "מי מנסה להשתלט? הקרב על הירושה של הכוכבת"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-e4a5bf3526181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793178148986,
+   "content_type": "article",
+   "first_seen_ms": 1793178148986,
+   "indexable": true,
+   "indexnow_ms": 1793178148986,
+   "published_ms": 1793177760000,
+   "section": "סלבס",
+   "title": "הכוכבת חושפת מה עשתה לחזה שלה, אבל זה לא הכל"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-e5599ca1baa01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27700,6 +27712,18 @@
    "published_ms": 1791960360000,
    "section": "בריאות",
    "title": "\"כתמי השמש\" התבררו כמחלה נדירה"
+  },
+  "https://www.mako.co.il/health-news/Article-b7b82eb485181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793178148986,
+   "content_type": "article",
+   "first_seen_ms": 1793178148986,
+   "indexable": true,
+   "indexnow_ms": 1793178148986,
+   "published_ms": 1793171460000,
+   "section": "בריאות",
+   "title": "בן 12 רכב על אופניו - וכמעט איבד את הראייה"
   },
   "https://www.mako.co.il/health-news/Article-b7f322435d6f0a1027.htm": {
    "check_attempts": 1,
@@ -40696,6 +40720,18 @@
    "published_ms": 1792991400000,
    "section": "הכי חם",
    "title": "\"היא רגישה בטירוף, יש הרבה דמעות\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-8a33a59855e71a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-8a33a59855e71a1026.htm",
+   "checked_ms": 1793178148986,
+   "content_type": "article",
+   "first_seen_ms": 1793178148986,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793171400000,
+   "section": "סלבס",
+   "title": "\"אפשר לפטר אותה\": ההודעה שהסעירה את מירן בוזגלו"
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
    "check_attempts": 1,

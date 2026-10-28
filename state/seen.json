@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ad727b85a9181a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b7d1b5696b181a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45107,7 +45107,9 @@
    "image": "https://img.mako.co.il/2026/10/28/AVISHAI_WORLDPRESS_2810_M_1400_1793166253532_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793166260000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "בעולם מגיבים למערכת הבחירות הסוערת",
    "type": "news",
    "updated_ms": 1793166260000,
@@ -90405,6 +90407,24 @@
    "updated_ms": 1793084907000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6d9d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18197_27102026070638/M_NEWS_18197_27102026070638_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b7d1b5696b181a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אמירה דרמטית של השופט במשפט נתניהו: \"איך אפשר להתעלם מכך שהיועמ\"ש לשעבר מעיד על פעולות בלתי חוקיות\"",
+   "duration_s": 9,
+   "first_seen_ms": 1793178145907,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18304_28102026085727_1400_1793177995317_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793178002000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אמירה דרמטית של השופט במשפט נתניהו: \"איך אפשר להתעלם מכך שהיועמ\"ש לשעבר מעיד על פעולות בלתי חוקיות\"",
+   "type": "mivzakim",
+   "updated_ms": 1793178002000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b7d1b5696b181a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18304_28102026085727/M_NEWS_18304_28102026085727_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85dd339a8371a1027.htm": {
    "author": "מבזקים",
