@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793186249210,
+ "last_run_ms": 1793186550411,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23393,6 +23393,18 @@
    "section": "כסף",
    "title": "הבורסה כבר יודעת מה יקרה אחרי הבחירות"
   },
+  "https://www.mako.co.il/finances-news/Article-98dd71e6d1281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793186428115,
+   "content_type": "article",
+   "first_seen_ms": 1793186428115,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793183400000,
+   "section": "כסף",
+   "title": "הבוקר שאחרי: למה הבורסה צוללת ומה זה אומר?"
+  },
   "https://www.mako.co.il/finances-news/Article-9903d40a5e601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45339,7 +45351,7 @@
    "indexnow_ms": null,
    "published_ms": 1793172900000,
    "section": "צבא וביטחון",
-   "title": "המהלך אחרי התקיפה החריגה במדינה הערבית השכנה"
+   "title": "אישה וילדים נהרגו בתקיפה: מתח בין שתי השכנות של ישראל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-0254a9dfe41e0a1027.htm": {
    "check_attempts": 1,
