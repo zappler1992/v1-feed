@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793201249389,
+ "last_run_ms": 1793201549482,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25001,6 +25001,18 @@
    "section": "נדל\"ן",
    "title": "עסקת הענק של ערן זהבי והולמס פלייס"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-fef26bed11381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793201549482,
+   "content_type": "article",
+   "first_seen_ms": 1793201549482,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793201220000,
+   "section": "נדל\"ן",
+   "title": "הרצף הפתוח לים: כך תיראה התוכנית בכיכר אתרים"
+  },
   "https://www.mako.co.il/finances-special/Article-00d428eb604d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48133,7 +48145,7 @@
    "indexnow_ms": 1793141666777,
    "published_ms": 1793140860000,
    "section": "",
-   "title": "המבוי הסתום והמפלגות שהתרסקו: התוצאות הכמעט סופיות"
+   "title": "הליכוד: \"המפלגות הערביות גנבו את הבחירות\""
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
