@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d47c0e740c381a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_NEWS_18338_28102026062727_1400_1793212123431_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>גבר בן 42 נפצע קשה לאחר שככל הנראה נפגע מרכב בכפר קרע</video:title>
+<video:description>גבר בן 42 נפצע קשה לאחר שככל הנראה נפגע מרכב בכפר קרע</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18338_28102026062727/M_NEWS_18338_28102026062727_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-28T18:28:53+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-788b0e740c381a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/V1_KARIND_SHARK_7930_28102026062448_1400_1793211975192_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>חשבה שתוכל ללטף אותו: כריש לבן הסתובב בפתאומיות וזינק לעבר אישה מול חופי ג&#x27;ורג&#x27;יה</video:title>
+<video:description>חשבה שתוכל ללטף אותו: כריש לבן הסתובב בפתאומיות וזינק לעבר אישה מול חופי ג&#x27;ורג&#x27;יה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_KARIND_SHARK_7930_28102026062448/V1_KARIND_SHARK_7930_28102026062448_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>15</video:duration>
+<video:publication_date>2026-10-28T18:26:25+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים מהעולם</video:uploader>
+<video:tag>מבזקים מהעולם</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-683a810c9b381a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/M_MakoZ_18337_28102026061749_1400_1793211535443_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>בלעדי ב-mako וב-makoz: ההצבעה לשיר הזוכה בפסטיגל החלה</video:title>
+<video:description>בלעדי ב-mako וב-makoz: ההצבעה לשיר הזוכה בפסטיגל החלה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_MakoZ_18337_28102026061749/M_MakoZ_18337_28102026061749_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>13</video:duration>
+<video:publication_date>2026-10-28T18:19:02+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-05930d42c8381a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/28/inbie_AirBNB_271026_1400_1793209024334_FirstFrame.jpg</video:thumbnail_loc>
@@ -336,6 +384,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -432,6 +481,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
