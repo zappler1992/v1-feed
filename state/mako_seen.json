@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793180549077,
+ "last_run_ms": 1793180849529,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2648,6 +2648,18 @@
    "published_ms": 1793143500000,
    "section": "ספורט",
    "title": "אין סיכוי ל-MVP: זמן ההיעדרות של אדוורדס"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-1bc8c2295e181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793180849529,
+   "content_type": "article",
+   "first_seen_ms": 1793180849529,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793180580000,
+   "section": "ספורט",
+   "title": "\"מעולם לא ראיתי זאת משחקן בגודל של דני\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-1e75a64e95081a1027.htm": {
    "check_attempts": 1,
@@ -26067,7 +26079,7 @@
    "indexnow_ms": 1793167348799,
    "published_ms": 1793163600000,
    "section": "",
-   "title": "קטן, יקר ומסקרן: הבורגר היפני החדש שנפתח במקום לא צפוי"
+   "title": "זה נראה כמו כריך, אבל בפנים מחכה המבורגר מטריף"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-bfbebd17b7371a1026.htm": {
    "check_attempts": 1,
@@ -30400,6 +30412,18 @@
    "published_ms": 1793073600000,
    "section": "HIX",
    "title": "העיתונאי סיקר סדרת רציחות – והסוד האפל נחשף"
+  },
+  "https://www.mako.co.il/hix-special/Article-b9652c63dde71a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793180787475,
+   "content_type": "article",
+   "first_seen_ms": 1793180787475,
+   "indexable": true,
+   "indexnow_ms": 1793180787475,
+   "published_ms": 1793160000000,
+   "section": "HIX",
+   "title": "ירדה מהשביל כדי לצלם את הנוף – ונפלה אל מותה"
   },
   "https://www.mako.co.il/hix-special/Article-ba7110fb2f2d0a1027.htm": {
    "check_attempts": 1,
@@ -40047,7 +40071,7 @@
    "indexnow_ms": null,
    "published_ms": 1793178300000,
    "section": "מוזיקה",
-   "title": "8 שנים אחרי מנת יתר: הכוכבת הגיעה שוב לבית החולים"
+   "title": "8 שנים אחרי מנת היתר: הכוכבת הגיעה שוב לבית החולים"
   },
   "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
    "check_attempts": 1,
