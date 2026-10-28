@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-62203f1be1361a1026.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-36234a90bd771a1027.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-4edea5d56a871a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-810b93a261281a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-633a93a261281a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18341,6 +18340,24 @@
    "updated_ms": 1792959000000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-60cd2c668a471a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18101_25102026080648/M_Tarbut_18101_25102026080648_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-633a93a261281a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "פינק חוטפת בגלל תמונות פפראצי חדשות - ומגיבה: ״על מה כולם מדברים? אני לוהטת״",
+   "duration_s": 9,
+   "first_seen_ms": 1793184146038,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18314_28102026103120_1400_1793183914605_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793183921000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "פינק חוטפת בגלל תמונות פפראצי חדשות - ומגיבה: ״על מה כולם מדברים? אני לוהטת״",
+   "type": "mivzakim",
+   "updated_ms": 1793183921000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-633a93a261281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18314_28102026103120/M_Celebs_18314_28102026103120_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-664c81565ac71a1027.htm": {
    "author": "עדכוני בידור",
@@ -44454,7 +44471,7 @@
    "sections": [],
    "title": "מעיין אדם מגיבה לתוצאות הבחירות: \"תרימו את הראש\"",
    "type": "news",
-   "updated_ms": 1793178041000,
+   "updated_ms": 1793182800000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a289fe3db181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/FIX_MAIN_MAAYAN_PIC/FIX_MAIN_MAAYAN_PIC_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -89577,6 +89594,24 @@
    "updated_ms": 1792944888000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8047cd919c371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18091_25102026041321/M_NEWS_18091_25102026041321_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-810b93a261281a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גוש השינוי בהלם מהתוצאות: אלו הצעדים שנבחנים כעת | דפנה ליאל עם הפרטים",
+   "duration_s": 62,
+   "first_seen_ms": 1793184146038,
+   "image": "https://img.mako.co.il/2026/10/28/V1_NOAY_DAFNA_281026_7914_28102026103722_1400_1793183953403_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793183960000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גוש השינוי בהלם מהתוצאות: אלו הצעדים שנבחנים כעת | דפנה ליאל עם הפרטים",
+   "type": "mivzakim",
+   "updated_ms": 1793183960000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-810b93a261281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_NOAY_DAFNA_281026_7914_28102026103722/V1_NOAY_DAFNA_281026_7914_28102026103722_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-812737d0dcc71a1027.htm": {
    "author": "מבזקים",
