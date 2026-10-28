@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-4c59c2295e181a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-c20e33a6fd181a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3647c2295e181a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -44369,7 +44368,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0a289fe3db181a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "מעיין אדם, שאחותה מפל אדם נרצחה בפסטיבל הנובה ב-7 באוקטובר, והצביעה למפלגת \"ביחד\" בראשות נפתלי בנט, פרסמה פוסט אופטימי לאחר פרסום תוצאות הבחירות: \"תרימו את הראש - הממשלה הקודמת לא תוכל לקום שוב\".",
+   "description": "מעיין אדם, שאחותה מפל אדם נרצחה בפסטיבל הנובה ב-7 באוקטובר, והצביעה למפלגת \"ביחד\" בראשות נפתלי בנט, פרסמה פוסט אופטימי לאחר פרסום תוצאות הבחירות: \"תרימו את הראש - הממשלה הקודמת לא תוכל לקום שוב\"",
    "duration_s": 19,
    "first_seen_ms": 1793179045905,
    "image": "https://img.mako.co.il/2026/10/28/FIX_MAIN_MAAYAN_PIC_1400_1793180155514_FirstFrame.jpg",
@@ -87966,6 +87965,24 @@
    "updated_ms": 1793092798000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-344fea141ac71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18224_27102026091825/M_NEWS_18224_27102026091825_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3647c2295e181a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות הרוגים בתאונת רכבות בספרד במחוז טולדו",
+   "duration_s": 15,
+   "first_seen_ms": 1793181445971,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18311_28102026095134_1400_1793181167655_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793181174000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות הרוגים בתאונת רכבות בספרד במחוז טולדו",
+   "type": "mivzakim",
+   "updated_ms": 1793181174000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3647c2295e181a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18311_28102026095134/M_NEWS_18311_28102026095134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-36b581f226871a1026.htm": {
    "author": "מבזקים",
