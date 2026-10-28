@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793187151670,
+ "last_run_ms": 1793187449314,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13086,6 +13086,18 @@
    "published_ms": 1793184240000,
    "section": "ספורט",
    "title": "צפו בשידור: ברדה מדבר לקראת גמר הטוטו"
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-40739c3854281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793187387730,
+   "content_type": "article",
+   "first_seen_ms": 1793187387730,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793187240000,
+   "section": "ספורט",
+   "title": "\"הדרבי שומר עלינו, רוצים שיחזק אותנו\""
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-ab6ec295e3771a1026.htm": {
    "check_attempts": 1,
@@ -46479,7 +46491,7 @@
    "indexnow_ms": 1793182949144,
    "published_ms": 1793182500000,
    "section": "צבא וביטחון",
-   "title": "הפרט המשמעותי בפרסומים על תקיפה קרובה באיראן"
+   "title": "מלחמה של 3 ימים באיראן? האמת מאחורי הדיווחים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-947848ff2f331a1027.htm": {
    "check_attempts": 1,
