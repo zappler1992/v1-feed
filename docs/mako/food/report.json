@@ -1,26 +1,26 @@
 {
-  "built_at": "2026-10-27T02:57:17Z",
-  "source_urls": 24514,
-  "included": 20896,
+  "built_at": "2026-10-28T02:56:19Z",
+  "source_urls": 24518,
+  "included": 20900,
   "buckets": {
     "hubs": 489,
     "recipes-baking": 2469,
     "recipes-savory": 2229,
-    "recipes-healthy": 482,
+    "recipes-healthy": 483,
     "recipes-holidays": 417,
     "recipes-tv": 1262,
-    "recipes-general": 2316,
-    "articles-restaurants": 3163,
+    "recipes-general": 2317,
+    "articles-restaurants": 3164,
     "articles-holidays": 250,
     "articles-tv": 1814,
-    "articles-magazine": 6005
+    "articles-magazine": 6006
   },
   "excluded": {
     "canonical-elsewhere": 875,
-    "redirect": 2783,
-    "http-404": 1101,
+    "redirect": 2782,
+    "http-404": 1102,
     "unclassified": 2
   },
-  "with_image": 18775,
-  "with_lastmod": 19941
+  "with_image": 18779,
+  "with_lastmod": 19945
 }
