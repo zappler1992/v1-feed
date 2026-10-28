@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793189249476,
+ "last_run_ms": 1793189549765,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13122,6 +13122,18 @@
    "published_ms": 1793187240000,
    "section": "ספורט",
    "title": "\"הדרבי שומר עלינו, רוצים שיחזק אותנו\""
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-4f0a012186281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793189549765,
+   "content_type": "article",
+   "first_seen_ms": 1793189549765,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793189400000,
+   "section": "ספורט",
+   "title": "המשחק הכי יקר שהיה: האבטחה בדרבי של ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-ab6ec295e3771a1026.htm": {
    "check_attempts": 1,
@@ -26559,7 +26571,7 @@
    "indexnow_ms": 1792641749117,
    "published_ms": 1792617960000,
    "section": "גיא פינס",
-   "title": "יונית לוי: \"אני מתרגשת אבל לא רואים עליי\""
+   "title": "יונית לוי - \"אני מתרגשת אבל לא רואים עליי\""
   },
   "https://www.mako.co.il/good-evening-with-guy-pines-articles/Article-4f9b2ce642c31a1027.htm": {
    "check_attempts": 1,
