@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793177548850,
+ "last_run_ms": 1793177848875,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32225,6 +32225,18 @@
    "section": "עיצוב הבית",
    "title": "ממלאים את הסיר במים חמים מהברז? כדאי שתדעו את זה"
   },
+  "https://www.mako.co.il/living-diy/maintenance/Article-4a8f58a11b96a91027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793177667066,
+   "content_type": "article",
+   "first_seen_ms": 1793177667066,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1762759740000,
+   "section": "עיצוב הבית",
+   "title": "אוהבים ללבוש שחור? כדאי שתדעו את זה"
+  },
   "https://www.mako.co.il/living-diy/maintenance/Article-51c14391b6d41a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42075,7 +42087,7 @@
    "indexnow_ms": null,
    "published_ms": 1793171880000,
    "section": "הכי חם",
-   "title": "חבל על הכסף שלכם: אסור לעשות את זה בחדר הרחצה"
+   "title": "חבל על הכסף שלכם: אל תעשו את זה בחדר הרחצה"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-0fa7809145261a1027.htm": {
    "check_attempts": 1,
