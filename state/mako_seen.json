@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793205449458,
+ "last_run_ms": 1793205749600,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42388,6 +42388,18 @@
    "published_ms": 1792045020000,
    "section": "ספורט",
    "title": "פרטים חדשים: הדרמה במו\"מ למכירת חיפה"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-5e29c7adc5381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793205749600,
+   "content_type": "article",
+   "first_seen_ms": 1793205749600,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793205480000,
+   "section": "ספורט",
+   "title": "בונה עליו: פרטי עסקת גמבלה לבית\"ר י-ם"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-615027e0f0941a1027.htm": {
    "check_attempts": 1,
