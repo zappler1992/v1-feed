@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793203049455,
+ "last_run_ms": 1793203349648,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14394,6 +14394,18 @@
    "published_ms": 1792592820000,
    "section": "ספורט",
    "title": "דיווח: זאת הכוורת של ברק יצחקי בקפריסין"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-3c55f35bc2381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793203349648,
+   "content_type": "article",
+   "first_seen_ms": 1793203349648,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793203140000,
+   "section": "ספורט",
+   "title": "עלה בידם: ההתקדמות של דניאל פרץ ויצחקי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-3f67c832aa451a1026.htm": {
    "check_attempts": 1,
