@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793206649574,
+ "last_run_ms": 1793206949545,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30905,6 +30905,18 @@
    "section": "HIX",
    "title": "\"כשאתם מגיעים לאושוויץ, תביאו אוכל ושתייה\""
   },
+  "https://www.mako.co.il/hix-special/Article-b28a6bed11381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793206949545,
+   "content_type": "article",
+   "first_seen_ms": 1793206949545,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793200620000,
+   "section": "",
+   "title": "נפל למכונה לריסוק קרח - וזה נגמר באסון"
+  },
   "https://www.mako.co.il/hix-special/Article-b2addbdc38d51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43887,7 +43899,7 @@
    "indexnow_ms": null,
    "published_ms": 1793188800000,
    "section": "דיגיטל",
-   "title": "הישראלים ויתרו על האקזיט - ושווים עכשיו סכום מטורף"
+   "title": "ויתרו על האקזיט - ושווים כבר 3.8 מיליארד דולר"
   },
   "https://www.mako.co.il/nexter-news/Article-5c4dcfd1c9b11a1027.htm": {
    "check_attempts": 1,
