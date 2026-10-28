@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793225548971,
+ "last_run_ms": 1793226449598,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15498,6 +15498,18 @@
    "published_ms": 1793094840000,
    "section": "ספורט",
    "title": "\"גיבור על, יכול לשחק בארסנל\": טירוף פרץ"
+  },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-a0c96f2559481a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793226386738,
+   "content_type": "article",
+   "first_seen_ms": 1793226386738,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793226240000,
+   "section": "ספורט",
+   "title": "בדו קרב פנדלים: 5:6 לליברפול על צ`לסי"
   },
   "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-a868fd5b53601a1027.htm": {
    "check_attempts": 1,
