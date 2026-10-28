@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793212949593,
+ "last_run_ms": 1793213249595,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15343,6 +15343,18 @@
    "section": "ספורט",
    "title": "68 דקות לסולומון, 1:1 בין ווסטהאם לק.פ.ר"
   },
+  "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-73a30e740c381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793213186876,
+   "content_type": "article",
+   "first_seen_ms": 1793213186876,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793212980000,
+   "section": "ספורט",
+   "title": "רונאלדו זכה בכדור הזהב של כל הזמנים"
+  },
   "https://www.mako.co.il/Sports-football-world/premier-league-q4_2026/Article-7820868a4e611a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -27903,7 +27915,7 @@
    "indexnow_ms": 1793170466823,
    "published_ms": 1793170260000,
    "section": "בריאות",
-   "title": "העבריינים עלו על השוטר הסמוי - והוא לקה בבעיה הקשה"
+   "title": "זהות השוטר נחשפה לעבריינים - והוא לקה בתופעה"
   },
   "https://www.mako.co.il/health-news/Article-83032efeb8701a1026.htm": {
    "check_attempts": 1,
@@ -39195,7 +39207,7 @@
    "indexnow_ms": null,
    "published_ms": 1793114520000,
    "section": "פלילים",
-   "title": "שוטר נכנס לשירותי הנשים וביצע מעשה מגונה בשוטרת"
+   "title": "בחתונה ובדרך הביתה: העדות נגד השוטר שהסתבך"
   },
   "https://www.mako.co.il/men-men_news/Article-da041a9246371a1027.htm": {
    "check_attempts": 1,
