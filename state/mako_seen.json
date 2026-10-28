@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793195249414,
+ "last_run_ms": 1793195549389,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38908,6 +38908,18 @@
    "published_ms": 1792064280000,
    "section": "",
    "title": "נתפס מציץ בשיחים: המעשה המביך של לוחם מג\"ב - והעונש"
+  },
+  "https://www.mako.co.il/men-men_news/Article-d8bfb8acab281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793195427055,
+   "content_type": "article",
+   "first_seen_ms": 1793195427055,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793195040000,
+   "section": "פלילים",
+   "title": "ההחלטה של השופטת לגבי העונש של האחים אלכסנדר"
   },
   "https://www.mako.co.il/men-men_news/Article-d8ec451818a21a1026.htm": {
    "check_attempts": 1,
