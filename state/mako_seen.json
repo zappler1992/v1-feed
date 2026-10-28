@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793186550411,
+ "last_run_ms": 1793186849810,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20104,6 +20104,18 @@
    "published_ms": 1790853780000,
    "section": "סלבס",
    "title": "המשפיענית על ההיריון המתקדם בצל המשבר עם בעלה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d5ac3caad2281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793186667762,
+   "content_type": "article",
+   "first_seen_ms": 1793186667762,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793186220000,
+   "section": "סלבס",
+   "title": "\"תתעללו בילדיי, אני איתנה\": ניקול ראידמן על הביקורות"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d6a71680eee90a1026.htm": {
    "check_attempts": 1,
