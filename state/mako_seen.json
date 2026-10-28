@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793220448757,
+ "last_run_ms": 1793220748823,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31047,7 +31047,7 @@
    "indexnow_ms": null,
    "published_ms": 1793200620000,
    "section": "",
-   "title": "נפל למכונה לריסוק קרח - וזה נגמר באסון"
+   "title": "נפל למכונה לריסוק קרח - ומת בזמן החילוץ"
   },
   "https://www.mako.co.il/hix-special/Article-b2addbdc38d51a1026.htm": {
    "check_attempts": 1,
@@ -45617,6 +45617,18 @@
    "section": "גאווה",
    "title": "התפתחות משמעותית בפרשת המשפיען שנרצח"
   },
+  "https://www.mako.co.il/pride-news/Article-2391ce96e2481a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793220627416,
+   "content_type": "article",
+   "first_seen_ms": 1793220627416,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793220120000,
+   "section": "גאווה",
+   "title": "הותקפה במקלות: טרנסג'נדרית נרצחה בפקיסטן"
+  },
   "https://www.mako.co.il/pride-news/Article-27bace7734f51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/culture-articles/Article-27bace7734f51a1026.htm",
@@ -50414,6 +50426,18 @@
    "published_ms": 1792344360000,
    "section": "SENSES",
    "title": "הכוכבים שיגיעו למופע ההתרמה לפורום מיכל סלה"
+  },
+  "https://www.mako.co.il/special-senses/coltura/Article-3f1487ff5be41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793220748823,
+   "content_type": "article",
+   "first_seen_ms": 1793220748823,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793165640000,
+   "section": "SENSES",
+   "title": "הפך לאטרקציה: זה המוזיאון הכי גרוע בעולם"
   },
   "https://www.mako.co.il/special-senses/coltura/Article-4c15bb7dd3ec0a1027.htm": {
    "check_attempts": 1,
