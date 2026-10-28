@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793186849810,
+ "last_run_ms": 1793187151670,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1400,6 +1400,18 @@
    "published_ms": null,
    "section": "אופנה",
    "title": "השבוע של קים כלל שמלה עם פטמות ועקבים מטורללים"
+  },
+  "https://fashionforward.mako.co.il/news/322459/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793187028232,
+   "content_type": "post",
+   "first_seen_ms": 1793187028232,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "ליה נוגה עשתה את מה שרובנו חולמות אך מפחדות לעשות"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -2972,6 +2984,18 @@
    "published_ms": 1792556700000,
    "section": "ספורט",
    "title": "באו לנקום: 32 לשיי, OKC חגגה בסן אנטוניו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-704ac7b9a3281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793187151670,
+   "content_type": "article",
+   "first_seen_ms": 1793187151670,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793186100000,
+   "section": "ספורט",
+   "title": "לפי החוק החדש: צפו בטכנית שקיבל מוראנט"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-7139900ba0541a1027.htm": {
    "check_attempts": 1,
@@ -35104,6 +35128,18 @@
    "published_ms": 1790844300000,
    "section": "פלילים",
    "title": "המדינה המוסלמית שבה פועלים עבריינים ישראלים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-2b9bc7b9a3281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793187028232,
+   "content_type": "article",
+   "first_seen_ms": 1793187028232,
+   "indexable": true,
+   "indexnow_ms": 1793187028232,
+   "published_ms": 1793186280000,
+   "section": "פלילים",
+   "title": "החריב בית כנסת במושב: \"מראות מזעזעים\""
   },
   "https://www.mako.co.il/men-men_news/Article-2bf691323fb31a1027.htm": {
    "check_attempts": 1,
