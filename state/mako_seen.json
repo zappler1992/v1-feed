@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793199749360,
+ "last_run_ms": 1793200049378,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11454,6 +11454,18 @@
    "published_ms": 1792998540000,
    "section": "ספורט",
    "title": "העונשים הצפויים לבית\"ר על פריצת האוהדים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-9fbfa5a7ef281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793199987226,
+   "content_type": "article",
+   "first_seen_ms": 1793199987226,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793199660000,
+   "section": "ספורט",
+   "title": "מהמהירים בליגה: הקיצוני שבדרך לבית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a0ce4216fba41a1026.htm": {
    "check_attempts": 1,
@@ -48097,7 +48109,7 @@
    "indexnow_ms": 1793141666777,
    "published_ms": 1793140860000,
    "section": "",
-   "title": "85% מהקלפיות נספרו: אלו תוצאות האמת הכמעט סופיות"
+   "title": "המבוי הסתום והמפלגות שהתרסקו: התוצאות הכמעט סופיות"
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
