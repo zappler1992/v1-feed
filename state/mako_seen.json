@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793205749600,
+ "last_run_ms": 1793206049556,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7976,6 +7976,18 @@
    "published_ms": 1790932740000,
    "section": "ספורט",
    "title": "דניאל פרץ סובל מקרע במפשעה. הזמן שיחמיץ"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-10ff5f07d5381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793206049556,
+   "content_type": "article",
+   "first_seen_ms": 1793206049556,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793205720000,
+   "section": "ספורט",
+   "title": "אביו של גורן: \"צ`כיה? האופציות פתוחות\""
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-169f82187d7f0a1027.htm": {
    "check_attempts": 1,
@@ -43875,7 +43887,7 @@
    "indexnow_ms": null,
    "published_ms": 1793188800000,
    "section": "דיגיטל",
-   "title": "ויתרו על האקזיט - ושווים כבר 3.8 מיליארד דולר"
+   "title": "הישראלים ויתרו על האקזיט - ושווים עכשיו סכום מטורף"
   },
   "https://www.mako.co.il/nexter-news/Article-5c4dcfd1c9b11a1027.htm": {
    "check_attempts": 1,
