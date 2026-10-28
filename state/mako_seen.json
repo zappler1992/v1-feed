@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793166149772,
+ "last_run_ms": 1793166449782,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6656,6 +6656,18 @@
    "published_ms": 1792663380000,
    "section": "ספורט",
    "title": "חגיגה במשחק הפתיחה: צפו במעקבדיה"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-e642dc20af081a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793166387575,
+   "content_type": "article",
+   "first_seen_ms": 1793166387575,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793166180000,
+   "section": "ספורט",
+   "title": "\"השתלט על המשחק\": הבעיה ממנה יצא אבדיה"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-e6f88d38b2231a1027.htm": {
    "check_attempts": 1,
