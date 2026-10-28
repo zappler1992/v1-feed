@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793190749788,
+ "last_run_ms": 1793191050236,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11022,6 +11022,18 @@
    "published_ms": 1792349940000,
    "section": "ספורט",
    "title": "בהפועל י-ם טוענים: ״ביזו את זכרו של הרש\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7f136c1667281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793190987102,
+   "content_type": "article",
+   "first_seen_ms": 1793190987102,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793190840000,
+   "section": "ספורט",
+   "title": "בא לאימון - וקיבל שימוע: גרסת קריספיל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-7fec59a13faa0a1027.htm": {
    "check_attempts": 1,
