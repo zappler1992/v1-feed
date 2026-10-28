@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793219548720,
+ "last_run_ms": 1793219848767,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8912,6 +8912,18 @@
    "published_ms": 1790912040000,
    "section": "ספורט",
    "title": "אחרי קוסובו: שחקן הנבחרת שבספק לאירלנד"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-cup-q4_2026/Article-63c65c8352481a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793219787873,
+   "content_type": "article",
+   "first_seen_ms": 1793219787873,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793219400000,
+   "section": "ספורט",
+   "title": "צפו. \"שריקה שערורייתית\". זעם בבני יהודה"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q3_2026/Article-92fee2743c2e0a1027.htm": {
    "check_attempts": 1,
