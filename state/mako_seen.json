@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793178148986,
+ "last_run_ms": 1793178448941,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26717,6 +26717,18 @@
    "section": "בריאות",
    "title": "הטעות של ההורים שמובילה ילדים ישירות למיון"
   },
+  "https://www.mako.co.il/health-news/Article-1319ddf4b8181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793178267091,
+   "content_type": "article",
+   "first_seen_ms": 1793178267091,
+   "indexable": true,
+   "indexnow_ms": 1793178267091,
+   "published_ms": 1793174760000,
+   "section": "בריאות",
+   "title": "\"אין שליטה טובה על התפשטות הנגיף\""
+  },
   "https://www.mako.co.il/health-news/Article-1507490c1f871a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51074,6 +51086,18 @@
    "published_ms": 1790236320000,
    "section": "חופש",
    "title": "נמשכים החיפושים אחר הישראלי שנעלם ביוון"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-5baa7b85a9181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793178267091,
+   "content_type": "article",
+   "first_seen_ms": 1793178267091,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793177280000,
+   "section": "חופש",
+   "title": "ישראלית התפרעה בחו\"ל - ותגורש מיד מהמדינה"
   },
   "https://www.mako.co.il/travel-news/international/Article-5ca156cc4d431a1027.htm": {
    "check_attempts": 1,
