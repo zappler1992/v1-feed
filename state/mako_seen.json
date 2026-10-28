@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793179349257,
+ "last_run_ms": 1793179649927,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25301,6 +25301,18 @@
    "section": "הכי חם",
    "title": "מהיום אין דבר כזה \"לא אוהבים עוגות לימון\""
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-854d9fe3db181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793179587118,
+   "content_type": "recipe",
+   "first_seen_ms": 1793179587118,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793177760000,
+   "section": "",
+   "title": "אחרי כל המגולגלות שהכנו, זה המילוי המנצח בפער"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-cdc7aa05c77e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27735,7 +27747,7 @@
    "indexnow_ms": 1793178148986,
    "published_ms": 1793171460000,
    "section": "בריאות",
-   "title": "בן 12 רכב על אופניו - וכמעט איבד את הראייה"
+   "title": "משקפיו של בן ה-12 נשברו - והוא כמעט איבד את הראייה"
   },
   "https://www.mako.co.il/health-news/Article-b7f322435d6f0a1027.htm": {
    "check_attempts": 1,
@@ -42244,6 +42256,18 @@
    "published_ms": 1793084340000,
    "section": "עיצוב הבית",
    "title": "במקום לקנות ביוקר: שימוש מושלם לקליפות לימון"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-8f7cbf3526181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/travel-news/international/Article-8f7cbf3526181a1026.htm",
+   "checked_ms": 1793179649927,
+   "content_type": "article",
+   "first_seen_ms": 1793179649927,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793171640000,
+   "section": "חופש",
+   "title": "מאות נוסעים קנו לשיט לכל החיים - ואתמול נאמר להם לרדת"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-cd70c5dee5271a1026.htm": {
    "check_attempts": 1,
