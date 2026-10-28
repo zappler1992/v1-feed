@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793190149387,
+ "last_run_ms": 1793190450445,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27003,7 +27003,7 @@
    "indexnow_ms": 1793178267091,
    "published_ms": 1793174760000,
    "section": "בריאות",
-   "title": "בגלל התפשטות הנגיף המסוכן: אזהרה מפני נסיעה למדינות"
+   "title": "\"אין שליטה טובה על התפשטות הנגיף\""
   },
   "https://www.mako.co.il/health-news/Article-1507490c1f871a1026.htm": {
    "check_attempts": 1,
@@ -41081,6 +41081,18 @@
    "section": "מוזיקה",
    "title": "הארי סטיילס התפוצץ על מעריץ ברחוב. זו הסיבה"
   },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-4769f6cd3b181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793190450445,
+   "content_type": "article",
+   "first_seen_ms": 1793190450445,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793190300000,
+   "section": "הכי חם",
+   "title": "צדי צרפתי: \"כל פעם אני שונא את עצמי יותר\""
+  },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-6b31155ac5f61a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -48650,6 +48662,18 @@
    "published_ms": 1792953900000,
    "section": "חדשות",
    "title": "הפגישה של רה\"מ עם הבכיר בפרויקט הקטארי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-886f012186281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793190266843,
+   "content_type": "article",
+   "first_seen_ms": 1793190266843,
+   "indexable": true,
+   "indexnow_ms": 1793190266843,
+   "published_ms": 1793188920000,
+   "section": "",
+   "title": "אם זה אתם, תזדהו: מצביע אחד לבן גביר באום אל-פחם"
   },
   "https://www.mako.co.il/special-mako-news/Article-89d0bce65ef01a1027.htm": {
    "check_attempts": 1,
