@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793213549610,
+ "last_run_ms": 1793213850643,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3500,6 +3500,18 @@
    "published_ms": 1793145300000,
    "section": "ספורט",
    "title": "\"ספר פתוח\": אקס ה-NBA שפתח `אונליפאנס`"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-d9b8a6468d381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793213786950,
+   "content_type": "article",
+   "first_seen_ms": 1793213786950,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793213400000,
+   "section": "ספורט",
+   "title": "\"הכי קשה שהיה, קללה\": מכת הפציעות ב-NBA"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-da82190430c61a1027.htm": {
    "check_attempts": 1,
@@ -48266,6 +48278,18 @@
    "published_ms": 1790658360000,
    "section": "",
    "title": "הפילה עשרות אנשים: זו \"הנוכלת עם פני המלאך\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-0c9ec7adc5381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-0c9ec7adc5381a1027.htm",
+   "checked_ms": 1793213666912,
+   "content_type": "article",
+   "first_seen_ms": 1793213666912,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793211000000,
+   "section": "",
+   "title": "המסר של טראמפ אחרי הבחירות: \"צריכים להשלים את המשימה\""
   },
   "https://www.mako.co.il/special-mako-news/Article-0ea0740aa3101a1027.htm": {
    "check_attempts": 1,
