@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793176049033,
+ "last_run_ms": 1793176349114,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23607,7 +23607,7 @@
    "indexnow_ms": 1793146349224,
    "published_ms": 1793146020000,
    "section": "",
-   "title": "כמה הצביעו בעיר שלכם - ולאיזו מפלגה"
+   "title": "כל ההצבעות לפי ערים: כמה הצביעו בעיר שלכם? בואו לבדוק"
   },
   "https://www.mako.co.il/finances-news/Article-feedddcf99d41a1027.htm": {
    "check_attempts": 1,
@@ -31336,6 +31336,18 @@
    "published_ms": 1791863400000,
    "section": "",
    "title": "אלעזר יאיר וילנסקי הוא ההרוג באסון הנפל"
+  },
+  "https://www.mako.co.il/home-family-kids/Article-f0387b85a9181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793176349114,
+   "content_type": "article",
+   "first_seen_ms": 1793176349114,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793175540000,
+   "section": "הורים",
+   "title": "מחקר: למה עונשים לא יעילים לילדי קשב?"
   },
   "https://www.mako.co.il/home-family-kids/Article-f36534c1f1771a1027.htm": {
    "check_attempts": 1,
@@ -47749,7 +47761,7 @@
    "indexnow_ms": null,
    "published_ms": 1793172300000,
    "section": "",
-   "title": "נתניהו טרם ניצח - אבל גוש השינוי הובס"
+   "title": "הדילמה מהגיהינום של ליברמן, בנט ואיזנקוט"
   },
   "https://www.mako.co.il/special-mako-news/Article-4f43884eeca01a1026.htm": {
    "check_attempts": 1,
@@ -54926,6 +54938,18 @@
    "published_ms": 1791471360000,
    "section": "הכי חם",
    "title": "הבטחות צריך לקיים: סגירת המעגל של אסי עזר"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-2326ddf4b8181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793176227021,
+   "content_type": "article",
+   "first_seen_ms": 1793176227021,
+   "indexable": true,
+   "indexnow_ms": 1793176227021,
+   "published_ms": 1793175780000,
+   "section": "תרבות tvbee",
+   "title": "בשידור חי: המגיש בעט ברחפן - ופגע בדוגמנית"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-23921604f0011a1027.htm": {
    "check_attempts": 1,
