@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793218349827,
+ "last_run_ms": 1793218649789,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1700,6 +1700,18 @@
    "published_ms": 1793137576000,
    "section": "Fashion Forward",
    "title": "ריטה, שומעת? הטרנד הסקסי מהאייטיז חוזר ברמות"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/322488/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793218467220,
+   "content_type": "article",
+   "first_seen_ms": 1793218467220,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793216253000,
+   "section": "Fashion Forward",
+   "title": "רק לזרוק על ג'ינס: הז'קט הוויראלי הזה מטיס כל לוק (והוא עדיין במלאי!)"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
@@ -48638,6 +48650,18 @@
    "published_ms": 1791960900000,
    "section": "",
    "title": "רגע מאסון: התיעודים מהבניין שקרס בתל אביב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-39cb810c9b381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-39cb810c9b381a1027.htm",
+   "checked_ms": 1793218467220,
+   "content_type": "article",
+   "first_seen_ms": 1793218467220,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793215800000,
+   "section": "",
+   "title": "מנתק מגע ולא עונה לטלפונים: התוכניות של ליברמן להמשך"
   },
   "https://www.mako.co.il/special-mako-news/Article-3a4123bfed701a1026.htm": {
    "check_attempts": 1,
