@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ac91bcd671181a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2d46bcd671181a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e35bcd671181a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -598,7 +599,8 @@
     "60 שניות",
     "בחירות 2026",
     "60 שניות לבחירות",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "60 שניות עם עמית סגל: מהדורת בחירות 2026",
    "type": "general",
@@ -8987,7 +8989,8 @@
    "importance": 1,
    "published_ms": 1793084963000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "בדיוק כמו שאמא רצתה: דנה פרידר יצאה להצביע עם בתה נאיה - ותיעדה רגע מתוק במיוחד",
    "type": "mivzakim",
@@ -17941,6 +17944,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2aa2e1c444871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18146_26102026125918/M_Tarbut_18146_26102026125918_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2d46bcd671181a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "לא להיבהל, זו רק קארה דלווין שמשתטחת על הכביש בניו יורק במסגרת צילומים",
+   "duration_s": 21,
+   "first_seen_ms": 1793168245832,
+   "image": "https://img.mako.co.il/2026/10/28/M_Tarbut_18288_28102026061339_1400_1793168095759_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793168105000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "לא להיבהל, זו רק קארה דלווין שמשתטחת על הכביש בניו יורק במסגרת צילומים",
+   "type": "mivzakim",
+   "updated_ms": 1793168105000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2d46bcd671181a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18288_28102026061339/M_Tarbut_18288_28102026061339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2ed1daceeeb71a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -18570,6 +18591,24 @@
    "updated_ms": 1793019673000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-86ffe1c444871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18147_26102026125942/M_Tarbut_18147_26102026125942_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e35bcd671181a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מרגש: אביבה סיגל, שהשתחררה שבי חמאס, חובקת את הנכד שהביאה לה לעולם בתה שיר",
+   "duration_s": 9,
+   "first_seen_ms": 1793168245832,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18287_28102026060831_1400_1793167995342_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793168004000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מרגש: אביבה סיגל, שהשתחררה שבי חמאס, חובקת את הנכד שהביאה לה לעולם בתה שיר",
+   "type": "mivzakim",
+   "updated_ms": 1793168004000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e35bcd671181a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18287_28102026060831/M_Celebs_18287_28102026060831_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e425ec7df271a1026.htm": {
    "author": "עדכוני בידור",
@@ -44321,7 +44360,8 @@
    "importance": 2,
    "published_ms": 1793160180000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ליל הנאומים של איזנקוט ונתניהו",
    "type": "news",
@@ -117294,7 +117334,8 @@
    "published_ms": 1793004096000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "הרכבים שוחים: רחובות שלמים הוצפו בסיודאד חוארס שבמקסיקו",
    "type": "mivzakim",
@@ -117313,7 +117354,8 @@
    "published_ms": 1793013122000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "התנגשות ימית בגרמניה: אוניית מכולות התנגשה באוניית תענוגות יוקרתית | צפו בתיעוד הדרמטי",
    "type": "mivzakim",

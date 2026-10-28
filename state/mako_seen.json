@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793167948747,
+ "last_run_ms": 1793168248911,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47114,6 +47114,18 @@
    "published_ms": 1792139820000,
    "section": "",
    "title": "ליברמן תקף בחריפות את איזנקוט. כך הוא השיב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-203f82626b081a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-203f82626b081a1027.htm",
+   "checked_ms": 1793168248911,
+   "content_type": "article",
+   "first_seen_ms": 1793168248911,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793162160000,
+   "section": "חדשות",
+   "title": "\"התמיכה שלי שינתה את המגמה מתבוסת נתניהו - לתיקו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-205b0915edc71a1027.htm": {
    "check_attempts": 1,
