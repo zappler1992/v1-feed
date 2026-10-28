@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ca6a906839281a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e849906839281a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ca30906839281a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19348,6 +19347,24 @@
    "updated_ms": 1792933667000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18073_25102026010606/M_Tarbut_18073_25102026010606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ca30906839281a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "דנה רון והגרוש יוסי בן זקן חיתנו אמש את בנם טום",
+   "duration_s": 51,
+   "first_seen_ms": 1793192846347,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18321_28102026125903_1400_1793192448922_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793192456000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "דנה רון והגרוש יוסי בן זקן חיתנו אמש את בנם טום",
+   "type": "mivzakim",
+   "updated_ms": 1793192456000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ca30906839281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18321_28102026125903/M_Celebs_18321_28102026125903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d3790305d0d71a1027.htm": {
    "author": "עדכוני בידור",
@@ -45748,7 +45765,8 @@
    "importance": 2,
    "published_ms": 1793181052000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "ההימורים של הישראלים בפולימרקט",
    "type": "news",
