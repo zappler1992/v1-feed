@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793178448941,
+ "last_run_ms": 1793178748960,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39339,7 +39339,7 @@
    "indexnow_ms": 1793119587344,
    "published_ms": 1793118840000,
    "section": "",
-   "title": "\"מי שמצביע שמאל - מצווה להוציא להורג\": עופר לוי מסתבך"
+   "title": "\"מי שמצביע שמאל - מצווה להוציא אותו להורג\""
   },
   "https://www.mako.co.il/music-news/Article-11b5edc76b031a1026.htm": {
    "check_attempts": 1,
@@ -40025,6 +40025,18 @@
    "section": "",
    "title": "מעריץ הותקף באלימות אחרי הופעה של הזמרת"
   },
+  "https://www.mako.co.il/music-news/Article-9d2a9fe3db181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793178627095,
+   "content_type": "article",
+   "first_seen_ms": 1793178627095,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793178300000,
+   "section": "מוזיקה",
+   "title": "8 שנים אחרי מנת יתר: הכוכבת הגיעה שוב לבית החולים"
+  },
   "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -40251,7 +40263,7 @@
    "indexnow_ms": 1793115150657,
    "published_ms": 1793114400000,
    "section": "",
-   "title": "הזמרת הישראלית על הבמה עם הכוכב האנטישמי"
+   "title": "לינה מחול על הבמה עם הכוכב האנטי-ישראלי"
   },
   "https://www.mako.co.il/music-news/Article-d0070e21b68e0a1026.htm": {
    "check_attempts": 1,
@@ -47401,7 +47413,7 @@
    "indexnow_ms": 1793141666777,
    "published_ms": 1793140860000,
    "section": "",
-   "title": "66% מהקולות נספרו: אלו תוצאות האמת עד כה"
+   "title": "70% מהקולות נספרו: אלו תוצאות האמת עד כה"
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
