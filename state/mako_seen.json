@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793171848810,
+ "last_run_ms": 1793172148803,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20919,7 +20919,7 @@
    "indexnow_ms": 1793104826772,
    "published_ms": 1793104440000,
    "section": "סלבס",
-   "title": "הכוכבת חשפה: הייתי לוליטה, רציתי לשדר שאני חסודה\""
+   "title": "\"הציגו אותי כלוליטה, רציתי לשדר 'אני חסודה'\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-732453110a671a1026.htm": {
    "check_attempts": 1,
@@ -32476,6 +32476,18 @@
    "published_ms": 1792489320000,
    "section": "עיצוב הבית",
    "title": "לא מתגעגעת: בדירה של ג'ודי ניר מוזס בניו יורק"
+  },
+  "https://www.mako.co.il/living-rooms/bathroom-and-toilet/Article-08b2d204ea431a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793172148803,
+   "content_type": "article",
+   "first_seen_ms": 1793172148803,
+   "indexable": true,
+   "indexnow_ms": 1793172148803,
+   "published_ms": 1793171880000,
+   "section": "עיצוב הבית",
+   "title": "חבל על הכסף שלכם: אל תעשו את זה בחדר הרחצה"
   },
   "https://www.mako.co.il/living-rooms/bathroom-and-toilet/Article-280dfd3870931a1026.htm": {
    "check_attempts": 1,
@@ -48879,6 +48891,18 @@
    "section": "",
    "title": "הפריצה לטלפון של קושנר שחשפה העברות מיליארדים מהמפרץ"
   },
+  "https://www.mako.co.il/special-mako-news/Article-fd5572f64e081a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-fd5572f64e081a1026.htm",
+   "checked_ms": 1793172026791,
+   "content_type": "article",
+   "first_seen_ms": 1793172026791,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793171880000,
+   "section": "",
+   "title": "\"תפס מאחור ואנס בכוח\": הטענות החדשות נגד טראמפ"
+  },
   "https://www.mako.co.il/special-mako-news/Article-ffd355ef7da51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-ffd355ef7da51a1026.htm",
@@ -52705,7 +52729,7 @@
    "indexnow_ms": 1793167827730,
    "published_ms": 1793165640000,
    "section": "חופש",
-   "title": "הפך לאטרקציה: זה המוזיאון הכי גרוע בעולם"
+   "title": "הפך לאטרקציה: זה המוזיאון הכי גרוע בעולם שמושך מבקרים"
   },
   "https://www.mako.co.il/travel-world/Article-462bf277c0ec0a1027.htm": {
    "check_attempts": 1,
