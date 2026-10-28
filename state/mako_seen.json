@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793173048898,
+ "last_run_ms": 1793173364991,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16901,6 +16901,18 @@
    "section": "",
    "title": "\"תעמולה ציונית\": התגובות נגד ליהוק הישראלים במארוול"
   },
+  "https://www.mako.co.il/culture-articles/Article-21712eb485181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793173364991,
+   "content_type": "article",
+   "first_seen_ms": 1793173364991,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793172960000,
+   "section": "תרבות tvbee",
+   "title": "\"מבוי סתום\": בעולם מבולבלים מתוצאות הבחירות"
+  },
   "https://www.mako.co.il/culture-articles/Article-24f1892fd61f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22995,7 +23007,7 @@
    "indexnow_ms": 1793166149772,
    "published_ms": 1793164800000,
    "section": "",
-   "title": "757 הצביעו ל\"שרשר\", 3 לגנץ: הקולות ההזויים של הבחירות"
+   "title": "952 ל\"שרשר\", 3 לגנץ: הקולות ההזויים של הבחירות"
   },
   "https://www.mako.co.il/finances-news/Article-685ede9d7d601a1026.htm": {
    "check_attempts": 1,
@@ -44861,6 +44873,18 @@
    "section": "",
    "title": "\"לוחם שמתחבא לא שומע או רואה. רק מריח פחד וסירחון\""
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-014fc38e96181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793173364991,
+   "content_type": "article",
+   "first_seen_ms": 1793173364991,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793172900000,
+   "section": "צבא וביטחון",
+   "title": "המהלך אחרי התקיפה החריגה במדינה הערבית השכנה"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-0254a9dfe41e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47606,6 +47630,18 @@
    "published_ms": 1790419620000,
    "section": "",
    "title": "אחרי האיום בחרם על ישראל: ההחלטה של אירלנד"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-4a885d8182181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-columns/2026_q4/Article-4a885d8182181a1027.htm",
+   "checked_ms": 1793173226920,
+   "content_type": "article",
+   "first_seen_ms": 1793173226920,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793172300000,
+   "section": "",
+   "title": "נתניהו טרם ניצח - אבל גוש השינוי הובס"
   },
   "https://www.mako.co.il/special-mako-news/Article-4f43884eeca01a1026.htm": {
    "check_attempts": 1,
@@ -52777,7 +52813,7 @@
    "indexnow_ms": 1793167827730,
    "published_ms": 1793165640000,
    "section": "חופש",
-   "title": "הפך לאטרקציה: זה המוזיאון הכי גרוע בעולם שמושך מבקרים"
+   "title": "הפך לאטרקציה: זה המוזיאון הכי גרוע בעולם"
   },
   "https://www.mako.co.il/travel-world/Article-462bf277c0ec0a1027.htm": {
    "check_attempts": 1,
