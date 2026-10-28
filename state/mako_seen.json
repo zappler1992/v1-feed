@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793217149686,
+ "last_run_ms": 1793217449664,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5324,6 +5324,18 @@
    "published_ms": 1791962820000,
    "section": "ספורט",
    "title": "קופחה? צפו בכל השריקות שהרגיזו את מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-643060bd90481a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793217387180,
+   "content_type": "article",
+   "first_seen_ms": 1793217387180,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793217240000,
+   "section": "ספורט",
+   "title": "איטודיס: \"הראנו מה הפוטנציאל שלנו\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-6845c2bac08f0a1026.htm": {
    "check_attempts": 1,
@@ -18807,7 +18819,7 @@
    "indexnow_ms": 1793191349512,
    "published_ms": 1793190900000,
    "section": "סלבס",
-   "title": "האקס עם זקן, היא עם שקוף: בנה של יוצאת הריאליטי התחתן"
+   "title": "לצד הגרוש: בנה של יוצאת הריאליטי התחתן"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-0c0b6c775d011a1026.htm": {
    "check_attempts": 1,
@@ -48361,7 +48373,7 @@
    "indexnow_ms": 1793141666777,
    "published_ms": 1793140860000,
    "section": "",
-   "title": "התוצאות הכמעט סופיות - והקריאה החריגה בגוש השינוי"
+   "title": "התוצאות הכמעט סופיות - והמסר של איזנקוט אחרי הנאום"
   },
   "https://www.mako.co.il/special-mako-news/Article-195ef5f365ad0a1026.htm": {
    "check_attempts": 1,
