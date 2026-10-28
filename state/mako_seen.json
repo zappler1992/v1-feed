@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793199149490,
+ "last_run_ms": 1793199449624,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12989,7 +12989,7 @@
    "indexnow_ms": null,
    "published_ms": 1793198640000,
    "section": "ספורט",
-   "title": "יירכש מיידית? מו\"מ להעברת גמבלה לבית\"ר"
+   "title": "העסקה נסגרה: גמבלה יעבור מטבריה לבית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fdaa3fbf11a31a1027.htm": {
    "check_attempts": 1,
@@ -19287,7 +19287,7 @@
    "indexnow_ms": 1793196627105,
    "published_ms": 1793196360000,
    "section": "",
-   "title": "\"רעה, מה זה?\": הפפרצי של גל גדות יצא משליטה"
+   "title": "\"רעה, מה זה?\": פפרצי של גל גדות יצא משליטה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5dbbebe619601a1027.htm": {
    "check_attempts": 1,
@@ -41273,6 +41273,18 @@
    "section": "הכי חם",
    "title": "צדי צרפתי: \"כל פעם אני שונא את עצמי יותר\""
   },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-586bb8acab281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-586bb8acab281a1027.htm",
+   "checked_ms": 1793199387208,
+   "content_type": "article",
+   "first_seen_ms": 1793199387208,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793196360000,
+   "section": "",
+   "title": "\"רעה, מה זה?\": הפפרצי של גל גדות יצא משליטה"
+  },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-6b31155ac5f61a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -48865,7 +48877,7 @@
    "indexnow_ms": 1793190266843,
    "published_ms": 1793188920000,
    "section": "",
-   "title": "אם זה אתם, תזדהו: מצביע אחד לבן גביר באום אל-פחם"
+   "title": "אם זה אתם, תזדהו: נחשו כמה הצביעו לבן גביר באום אל-פחם"
   },
   "https://www.mako.co.il/special-mako-news/Article-89d0bce65ef01a1027.htm": {
    "check_attempts": 1,
@@ -50030,6 +50042,18 @@
    "published_ms": 1791705660000,
    "section": "",
    "title": "מנדלבליט העיד במשפט נתניהו: \"התיקים נגד רה\"מ חמורים\""
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-f5b5a09693081a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/liveblog-f5b5a09693081a1026.htm",
+   "checked_ms": 1793199387208,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793199387208,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793198340000,
+   "section": "",
+   "title": "ראש המפלגה מגוש השינוי שעל הכוונת: התוכנית של נתניהו"
   },
   "https://www.mako.co.il/special-senses/coltura/Article-363da4c4048c0a1027.htm": {
    "check_attempts": 1,
