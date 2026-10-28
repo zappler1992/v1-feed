@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793191649236,
+ "last_run_ms": 1793191949253,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16732,6 +16732,18 @@
    "published_ms": 1792961880000,
    "section": "ספורט",
    "title": "\"כדור זהב? ימאל לא מופיע למשחקים חשובים\""
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-e15723fa38281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793191949253,
+   "content_type": "article",
+   "first_seen_ms": 1793191949253,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793191800000,
+   "section": "ספורט",
+   "title": "עושים סדר: תולדות \"הסכסוך\" של אמבפה וסין"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-e76a5a79a7271a1027.htm": {
    "check_attempts": 1,
