@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c23c82626b081a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-28T17:18:00+00:00</news:publication_date>
+<news:title>האם ישראל וארה&quot;ב בדרך למערכה חדשה באיראן?</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/28/rinat_iran_281026_m_1400_1793161881743_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5d545f07d5381a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -68,7 +77,7 @@
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
 <news:publication_date>2026-10-28T16:03:51+00:00</news:publication_date>
-<news:title>&quot;יכול להיות שגם היא מסתירה כזה דבר ממני&quot;: אחרי שנחשף ב&quot;הזמר במסכה&quot;, אלי אילדיס תוהה על השתתפותה של ה</news:title>
+<news:title>אחרי שנחשף ב&quot;הזמר במסכה&quot;, אלי אילדיס תוהה על השתתפותה של הקולגה מירי נבו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/28/M_Celebs_18333_28102026040027_1400_1793203425283_FirstFrame.jpg</image:loc></image:image>
 </url>
@@ -2937,23 +2946,5 @@
 <news:title>המסעדה התאילנדית שכולם נסעו אליה מרחוק - נסגרת אחרי 12 שנה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/26/rinat_restaurant_261026_m_1400_1793036182802_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9ad0e50b03971a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-26T17:20:21+00:00</news:publication_date>
-<news:title>אזהרה חמורה של משרד הבריאות: &quot;אל תשתמשו במוצר הזה&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/26/MAYA_RECALL_261026_1400_1793035214003_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-26T17:19:16+00:00</news:publication_date>
-<news:title>תיעוד: פיצוץ אדיר במחסן אמל&quot;ח בצפון סוריה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/26/V1_SYRIA_7792_26102026051756_1400_1793035148968_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
