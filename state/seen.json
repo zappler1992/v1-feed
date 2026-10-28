@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-72eaf35bc2381a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-64c2db49a3381a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e227f35bc2381a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19527,6 +19528,24 @@
    "updated_ms": 1793171239000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d6f4cd9e74181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18299_28102026070535/M_Celebs_18299_28102026070535_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e227f35bc2381a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"יכול להיות שגם היא מסתירה כזה דבר ממני\": אחרי שנחשף ב\"הזמר במסכה\", אלי אילדיס תוהה על השתתפותה של ה",
+   "duration_s": 43,
+   "first_seen_ms": 1793203946345,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18333_28102026040027_1400_1793203425283_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793203431000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"יכול להיות שגם היא מסתירה כזה דבר ממני\": אחרי שנחשף ב\"הזמר במסכה\", אלי אילדיס תוהה על השתתפותה של ה",
+   "type": "mivzakim",
+   "updated_ms": 1793203431000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e227f35bc2381a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18333_28102026040027/M_Celebs_18333_28102026040027_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-e564fb0d05871a1026.htm": {
    "author": "עדכוני בידור",
@@ -89432,6 +89451,24 @@
    "updated_ms": 1793108852000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-64bf055198d71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_rain_7845_27102026014604/V1_karind_rain_7845_27102026014604_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-64c2db49a3381a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל יוצא במבצע פנים צבאי להשבת אמצעי לחימה וציוד צבאי",
+   "duration_s": 28,
+   "first_seen_ms": 1793203946345,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18334_28102026040510_1400_1793203616352_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793203623000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל יוצא במבצע פנים צבאי להשבת אמצעי לחימה וציוד צבאי",
+   "type": "mivzakim",
+   "updated_ms": 1793203623000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-64c2db49a3381a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18334_28102026040510/M_NEWS_18334_28102026040510_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-65676d226a771a1027.htm": {
    "author": "מבזקים",
