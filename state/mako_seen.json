@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793212649630,
+ "last_run_ms": 1793212949593,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10446,6 +10446,18 @@
    "published_ms": 1791096900000,
    "section": "ספורט",
    "title": "ההכנות מעלות הילוך: לוח הזמנים של חיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5743810c9b381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793212949593,
+   "content_type": "article",
+   "first_seen_ms": 1793212949593,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793212620000,
+   "section": "ספורט",
+   "title": "ברמן עברה את מבחני הכושר ותשוב לליגת העל"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-57ffab3b05131a1026.htm": {
    "check_attempts": 1,
@@ -30651,7 +30663,7 @@
    "indexnow_ms": 1793183187374,
    "published_ms": 1793182920000,
    "section": "HIX",
-   "title": "ברח לה שתן ברגע הכי לא מתאים - והיא עשתה משהו מפתיע"
+   "title": "ניסתה להרים כמעט 200 ק\"ג – וזה נגמר בפדיחה"
   },
   "https://www.mako.co.il/hix-special/Article-7e11f9f49cbe0a1026.htm": {
    "check_attempts": 1,
@@ -38560,6 +38572,18 @@
    "published_ms": 1792496640000,
    "section": "פלילים",
    "title": "במקווה ובבית כנסת: בן 33 מואשם במעשים מגונים בקטינים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-bb2a0e740c381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793212826857,
+   "content_type": "article",
+   "first_seen_ms": 1793212826857,
+   "indexable": true,
+   "indexnow_ms": 1793212826857,
+   "published_ms": 1793211840000,
+   "section": "פלילים",
+   "title": "גבר נעצר בחשד שבעט בראשו של כלבו"
   },
   "https://www.mako.co.il/men-men_news/Article-bbc14391b6d41a1026.htm": {
    "check_attempts": 1,
