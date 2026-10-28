@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793209049403,
+ "last_run_ms": 1793209349515,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5564,6 +5564,18 @@
    "published_ms": 1792697880000,
    "section": "ספורט",
    "title": "בכורה רעה לווקר, בשיקטש הפסידה לאנדולו"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-89ee5000a8381a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793209349515,
+   "content_type": "article",
+   "first_seen_ms": 1793209349515,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793208960000,
+   "section": "ספורט",
+   "title": "הסיבה להיעדרות מיציץ` מול אנדולו אפס"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-89eec18cd6541a1027.htm": {
    "check_attempts": 1,
@@ -30627,7 +30639,7 @@
    "indexnow_ms": 1793183187374,
    "published_ms": 1793182920000,
    "section": "HIX",
-   "title": "ניסתה להרים כמעט 200 ק\"ג – וזה נגמר בפדיחה"
+   "title": "ניסתה להרים כמעט 200 ק\"ג - וזה נגמר בפדיחה מדהימה"
   },
   "https://www.mako.co.il/hix-special/Article-7e11f9f49cbe0a1026.htm": {
    "check_attempts": 1,
