@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-974f291061381a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cff7409ba7381a1026.htm",
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-05930d42c8381a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45804,6 +45805,24 @@
    "updated_ms": 1793095473000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cecaee06dcc71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Mif_27102026/MASTER/Kim_RasheiMif_27102026/Kim_RasheiMif_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cff7409ba7381a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "איפה כולם הצביעו, מי נשאר נאמן לליכוד ואיפה נרשמו הפתעות בקלפי? מהערבה ועד קריית שמונה, המספרים המפתיעים והמשעשעים שמאחורי מפת הבחירות בישראל.",
+   "duration_s": 34,
+   "first_seen_ms": 1793210846497,
+   "image": "https://img.mako.co.il/2026/10/28/SHIR_MAP_281026_FIX_1400_1793208830535_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793208221000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מפת ההצבעות: נתונים מעניינים ומשעשעים על הצבעות לפי יישובים",
+   "type": "news",
+   "updated_ms": 1793208780000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cff7409ba7381a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/SHIR_MAP_281026_FIX/SHIR_MAP_281026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-d911604007871a1027.htm": {
    "author": "חדשות",
@@ -108729,6 +108748,24 @@
    "updated_ms": 1791815643000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w03/shorts-730f407318031a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/12/ASAF_WARNING_12102026/MASTER/ASAF_WARNING_12102026_M/ASAF_WARNING_12102026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-05930d42c8381a1027.htm": {
+   "author": "חופש וטיולים",
+   "date_source": "json-publishDate",
+   "description": "הרשתות החברתיות סוערות בימים האחרונים בעקבות תקנות חדשות של Airbnb שייכנסו לתוקף ב-20 בנובמבר, ונועדו לשים סוף לאחת התלונות המרכזיות של אורחים: מטלות הניקיון המוגזמות בצ'ק-אאוט. לפי הכללים החדשים, בעלי דירות לא יוכלו לדרוש מאורחים לבצע פעולות כמו לכבס, לשטוף כלים, להוריד זבל או להסיר מצעים מהמיטה כתנאי לעזיבה. בעוד שהאורחים חוגגים את סוף עידן \"דמי הניקיון המופקעים פלוס תורנויות מטבח\", בעלי הדירות מתלוננים. הרשת, מצידה, בעיקר לועגת למארחים ש\"מתבכיינים\" על כך שהם לא יוכלו להכריח אורחים לנקות במקומם.",
+   "duration_s": 81,
+   "first_seen_ms": 1793210846497,
+   "image": "https://img.mako.co.il/2026/10/28/inbie_AirBNB_271026_1400_1793209024334_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793209034000,
+   "sections": [
+    "חופש וטיולים"
+   ],
+   "title": "סערת Airbnb: בעלי הדירות מתבכיינים על התקנות החדשות - והרשת משתוללת",
+   "type": "general",
+   "updated_ms": 1793209034000,
+   "url": "https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-05930d42c8381a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/inbie_AirBNB_271026/MASTER/inbie_AirBNB_271026/inbie_AirBNB_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-2af961e65d171a1027.htm": {
    "author": "חופש וטיולים",
