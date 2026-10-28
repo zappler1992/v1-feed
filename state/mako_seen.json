@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793182949144,
+ "last_run_ms": 1793183249052,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20645,6 +20645,18 @@
    "section": "סלבס",
    "title": "\"צבועה\": הכוכבת חוטפת אש בעקבות ההחלטה החדשה"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-251683b129181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793183067362,
+   "content_type": "article",
+   "first_seen_ms": 1793183067362,
+   "indexable": true,
+   "indexnow_ms": 1793183067362,
+   "published_ms": 1793182500000,
+   "section": "סלבס",
+   "title": "\"קצת שובב\": כוכב ה-NBA פתח חשבון אונליפאנס"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-26ede0e4a4f01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -21015,7 +21027,7 @@
    "indexnow_ms": 1793181627251,
    "published_ms": 1793181240000,
    "section": "סלבס",
-   "title": "הכוכבת היהודייה חוטפת בגלל תיעוד חדש, ומגיבה"
+   "title": "הכוכבת היהודייה חוטפת בגלל תיעוד חדש - ומגיבה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-76b255e759011a1027.htm": {
    "check_attempts": 1,
@@ -21651,7 +21663,7 @@
    "indexnow_ms": 1793178148986,
    "published_ms": 1793177760000,
    "section": "סלבס",
-   "title": "הכוכבת חושפת מה עשתה לחזה שלה, אבל זה לא הכל"
+   "title": "השחקנית חושפת מה עשתה לחזה שלה, אבל זה לא הכל"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-e5599ca1baa01a1027.htm": {
    "check_attempts": 1,
@@ -30136,6 +30148,18 @@
    "published_ms": 1791946800000,
    "section": "HIX",
    "title": "\"הוא אמר שיש לו נשק ושהוא יפתור הכל ביריות\""
+  },
+  "https://www.mako.co.il/hix-special/Article-7ce48de0bf181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793183187374,
+   "content_type": "article",
+   "first_seen_ms": 1793183187374,
+   "indexable": true,
+   "indexnow_ms": 1793183187374,
+   "published_ms": 1793182920000,
+   "section": "HIX",
+   "title": "ניסתה להרים כמעט 200 ק\"ג – וזה נגמר בפדיחה"
   },
   "https://www.mako.co.il/hix-special/Article-7e11f9f49cbe0a1026.htm": {
    "check_attempts": 1,
