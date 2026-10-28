@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9cd2f07eda481a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/29/M_NEWS_18349_28102026112846_1400_1793230206544_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>החלה ספירת המעטפות הכפולות בבחירות לכנסת ה-26. במקביל, נמשכת קליטת תוצאות הקלפיות הרגילות</video:title>
+<video:description>החלה ספירת המעטפות הכפולות בבחירות לכנסת ה-26. במקביל, נמשכת קליטת תוצאות הקלפיות הרגילות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18349_28102026112846/M_NEWS_18349_28102026112846_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-10-28T23:30:15+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-f37a8c5f54481a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/28/FIX_SHIRA_SUSAN_281026_M_1400_1793221437877_FirstFrame.jpg</video:thumbnail_loc>
@@ -109,6 +125,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
@@ -238,6 +255,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -255,6 +273,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -303,6 +322,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -322,6 +342,23 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-d9a35000a8381a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/28/SHIRA_ISRAELIT_281026_M_1400_1793209759384_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;זה המלון הפרטי שלי&quot;: הישראלית שגורשה מתאילנד</video:title>
+<video:description>&quot;זה המלון הפרטי שלי&quot;: הישראלית שגורשה מתאילנד</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/SHIRA_ISRAELIT_281026/MASTER/SHIRA_ISRAELIT_281026_M/SHIRA_ISRAELIT_281026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>35</video:duration>
+<video:publication_date>2026-10-28T17:49:26+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/travel-magazine/2026-m10_w05/shorts-05930d42c8381a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/28/inbie_AirBNB_271026_1400_1793209024334_FirstFrame.jpg</video:thumbnail_loc>
@@ -335,6 +372,7 @@
 <video:live>no</video:live>
 <video:uploader>חופש וטיולים</video:uploader>
 <video:tag>חופש וטיולים</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>טיולים</video:tag>
 </video:video>
 </url>
