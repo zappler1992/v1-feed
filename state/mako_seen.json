@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793197349375,
+ "last_run_ms": 1793197651414,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39268,6 +39268,18 @@
    "published_ms": 1790166000000,
    "section": "פלילים",
    "title": "התחזה לאיש שב\"כ, ניהל קשר רומנטי - ועקץ אלפי שקלים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-eb20ef4e7d281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793197587165,
+   "content_type": "article",
+   "first_seen_ms": 1793197587165,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793197380000,
+   "section": "פלילים",
+   "title": "\"ייגמר ברצח\": איימה על שכנתה בשיחה למוקד 100"
   },
   "https://www.mako.co.il/men-men_news/Article-eb37444dbd851a1027.htm": {
    "check_attempts": 1,

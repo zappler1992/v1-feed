@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-609e9c3854281a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-464095e18d281a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c99bef4e7d281a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9890b8acab281a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6396,7 +6398,7 @@
    ],
    "title": "דמי לובאטו (שוב) בבית חולים, הפעם הסיבה פחות מדאיגה",
    "type": "general",
-   "updated_ms": 1793187566000,
+   "updated_ms": 1793197440000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-aed1427824281a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/NOAY_DEMI_281026/MASTER/NOAY_DEMI_281026/NOAY_DEMI_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -18934,6 +18936,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9628bdacb2181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18291_28102026062016/M_Tarbut_18291_28102026062016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9890b8acab281a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"אנטיפטית מגעילה\": סרטון של גל גדות מעורר סערה",
+   "duration_s": 16,
+   "first_seen_ms": 1793197646324,
+   "image": "https://img.mako.co.il/2026/10/28/M_Celebs_18323_28102026014331_1400_1793195093701_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793195102000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"אנטיפטית מגעילה\": סרטון של גל גדות מעורר סערה",
+   "type": "mivzakim",
+   "updated_ms": 1793195102000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9890b8acab281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18323_28102026014331/M_Celebs_18323_28102026014331_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-999e155041c71a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -19347,6 +19367,24 @@
    "updated_ms": 1792933667000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c8392a80b2371a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18073_25102026010606/M_Tarbut_18073_25102026010606_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c99bef4e7d281a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "טוב להיזכר: החברים ב\"הזמר במסכה\" מזכירים למשה פרץ את הרגע שקרע את מכנסיו בפריים טיים",
+   "duration_s": 42,
+   "first_seen_ms": 1793197646324,
+   "image": "https://img.mako.co.il/2026/10/28/M_Tarbut_18324_28102026021331_1400_1793196916714_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793196925000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "טוב להיזכר: החברים ב\"הזמר במסכה\" מזכירים למשה פרץ את הרגע שקרע את מכנסיו בפריים טיים",
+   "type": "mivzakim",
+   "updated_ms": 1793196925000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-c99bef4e7d281a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18324_28102026021331/M_Tarbut_18324_28102026021331_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ca30906839281a1027.htm": {
    "author": "עדכוני בידור",
@@ -44628,7 +44666,8 @@
    "importance": 1,
    "published_ms": 1793178041000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "מעיין אדם מגיבה לתוצאות הבחירות: \"תרימו את הראש\"",
    "type": "news",
@@ -88728,6 +88767,24 @@
    "updated_ms": 1793092692000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-43fdea141ac71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_bennet_7824_27102026091636/V1_karind_bennet_7824_27102026091636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-464095e18d281a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השריפה סמוך למחלף בן שמן: כביש 6 לכיוון צפון נפתח לתנועה",
+   "duration_s": 20,
+   "first_seen_ms": 1793197646324,
+   "image": "https://img.mako.co.il/2026/10/28/V1_KARIND_FIRE_7922_28102026021938_1400_1793197250911_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793197257000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השריפה סמוך למחלף בן שמן: כביש 6 לכיוון צפון נפתח לתנועה",
+   "type": "mivzakim",
+   "updated_ms": 1793197257000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-464095e18d281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_KARIND_FIRE_7922_28102026021938/V1_KARIND_FIRE_7922_28102026021938_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-479dd5696ad71a1027.htm": {
    "author": "מבזקים",
