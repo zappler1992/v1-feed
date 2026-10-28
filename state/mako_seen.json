@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793208449615,
+ "last_run_ms": 1793208749417,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49982,6 +49982,18 @@
    "published_ms": 1791061200000,
    "section": "",
    "title": "איראן, עיראק וסוריה: המחדל המודיעיני המסוכן שנחשף"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-fa44490c1f871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-fa44490c1f871a1026.htm",
+   "checked_ms": 1793208627551,
+   "content_type": "article",
+   "first_seen_ms": 1793208627551,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793203620000,
+   "section": "",
+   "title": "הרבה פרצופים חדשים: אלה חברי הכנסת ה-26"
   },
   "https://www.mako.co.il/special-mako-news/Article-fad59e819c9c0a1027.htm": {
    "check_attempts": 1,

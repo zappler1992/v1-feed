@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c23c82626b081a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eeb80d42c8381a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -92363,6 +92363,24 @@
    "updated_ms": 1793098613000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ee002c507fc71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18230_27102026105425/M_NEWS_18230_27102026105425_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eeb80d42c8381a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בזמן מירוץ תל אביב: צינור התפוצץ סמוך לדיזינגוף סנטר",
+   "duration_s": 9,
+   "first_seen_ms": 1793208746436,
+   "image": "https://img.mako.co.il/2026/10/28/V1_KARIND_TELAVIV_7929_28102026052537_1400_1793208411192_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793208417000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בזמן מירוץ תל אביב: צינור התפוצץ סמוך לדיזינגוף סנטר",
+   "type": "mivzakim",
+   "updated_ms": 1793208417000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eeb80d42c8381a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_KARIND_TELAVIV_7929_28102026052537/V1_KARIND_TELAVIV_7929_28102026052537_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ef7150e9f8171a1027.htm": {
    "author": "מבזקים",
