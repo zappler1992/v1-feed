@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2d46bcd671181a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8e35bcd671181a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d608bdacb2181a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9628bdacb2181a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18681,6 +18681,24 @@
    "updated_ms": 1793003957000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-929fc2e395771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18125_26102026083726/M_Celebs_18125_26102026083726_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9628bdacb2181a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שתיקה כהסכמה? סופיה ורגרה לא מאשרת (אבל גם לא מכחישה) את השמועות על הזוגיות החדשה",
+   "duration_s": 36,
+   "first_seen_ms": 1793168845715,
+   "image": "https://img.mako.co.il/2026/10/28/M_Tarbut_18291_28102026062016_1400_1793168506878_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793168513000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שתיקה כהסכמה? סופיה ורגרה לא מאשרת (אבל גם לא מכחישה) את השמועות על הזוגיות החדשה",
+   "type": "mivzakim",
+   "updated_ms": 1793168513000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9628bdacb2181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18291_28102026062016/M_Tarbut_18291_28102026062016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-999e155041c71a1027.htm": {
    "author": "עדכוני בידור",
@@ -90787,6 +90805,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d5906f4d9bb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_FIRSTVOTERS_7803_27102026050842/V1_FIRSTVOTERS_7803_27102026050842_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d608bdacb2181a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נחל נקרות בשיאו לאחר הגשמים שירדו אתמול ובמהלך הלילה",
+   "duration_s": 43,
+   "first_seen_ms": 1793168845715,
+   "image": "https://img.mako.co.il/2026/10/28/M_NEWS_18290_28102026062002_1400_1793168496167_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793168502000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נחל נקרות בשיאו לאחר הגשמים שירדו אתמול ובמהלך הלילה",
+   "type": "mivzakim",
+   "updated_ms": 1793168502000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d608bdacb2181a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18290_28102026062002/M_NEWS_18290_28102026062002_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d67cd47a2c371a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -117240,7 +117276,7 @@
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "תקציר בשידור חי במקסיקו: מגיש בעט ברחפן שפגע בפניה של דוגמנית",
+   "title": "באמצע השידור החי במקסיקו: מגיש בעט ברחפן שפגע בפניה של דוגמנית",
    "type": "mivzakim",
    "updated_ms": 1793165441000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-5ee9dc20af081a1026.htm",
