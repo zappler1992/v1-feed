@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793166449782,
+ "last_run_ms": 1793166748811,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27520,6 +27520,18 @@
    "published_ms": 1790757900000,
    "section": "בריאות",
    "title": "החפץ היה תקוע בין מיתרי הקול של התינוק ימים"
+  },
+  "https://www.mako.co.il/health-news/Article-b4bf7f20b4271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793166627582,
+   "content_type": "article",
+   "first_seen_ms": 1793166627582,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793166300000,
+   "section": "בריאות",
+   "title": "איזו דיאטה באמת עובדת? התשובה של המחקרים"
   },
   "https://www.mako.co.il/health-news/Article-b5621e08e0431a1027.htm": {
    "check_attempts": 1,
