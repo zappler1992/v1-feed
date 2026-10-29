@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ecd7672139981a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-e090c023c6981a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-55610bd5ea981a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6448,7 +6447,8 @@
    "importance": 1,
    "published_ms": 1793297047000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "יעל שלביה ולאנס כמו שעוד לא ראינו אותם",
    "type": "general",
@@ -45813,7 +45813,8 @@
    "importance": 1,
    "published_ms": 1793296260000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "כוכבי הרשת נעצרו בחשד שאיימו על צעיר שהתעלל בחתולה",
    "type": "news",
@@ -46823,7 +46824,8 @@
    "importance": 1,
    "published_ms": 1793301710000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "נהגים: זה מה שעליכם לעשות מה-1 בנובמבר",
    "type": "news",
@@ -90861,6 +90863,24 @@
    "updated_ms": 1793085546000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5543d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18201_27102026071733/M_NEWS_18201_27102026071733_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-55610bd5ea981a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "יש תקלה במבזקים אז מקווה שזה יעלה. אעדכן כשהיא תיפתר",
+   "duration_s": 67,
+   "first_seen_ms": 1793312845704,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18410_29102026101944_1400_1793312480114_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793312491000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "יש תקלה במבזקים אז מקווה שזה יעלה. אעדכן כשהיא תיפתר",
+   "type": "mivzakim",
+   "updated_ms": 1793312491000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-55610bd5ea981a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18410_29102026101944/M_NEWS_18410_29102026101944_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-557f40313c081a1026.htm": {
    "author": "מבזקים",
