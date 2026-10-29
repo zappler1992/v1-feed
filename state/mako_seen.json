@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793276548942,
+ "last_run_ms": 1793276849121,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35020,6 +35020,18 @@
    "published_ms": 1792253220000,
    "section": "",
    "title": "הכוכב הישראלי ואשתו חושפים לראשונה את בתם"
+  },
+  "https://www.mako.co.il/makoz-news/Article-480a2be2f8781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793276849121,
+   "content_type": "article",
+   "first_seen_ms": 1793276849121,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793276460000,
+   "section": "",
+   "title": "כוכבת הרשת הוטרדה ברחוב בתל אביב"
   },
   "https://www.mako.co.il/makoz-news/Article-4b14ce1361fa0a1027.htm": {
    "check_attempts": 1,
