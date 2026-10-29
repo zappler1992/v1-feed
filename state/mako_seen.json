@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793269349847,
+ "last_run_ms": 1793269648846,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21147,7 +21147,7 @@
    "indexnow_ms": 1793266827279,
    "published_ms": 1793266620000,
    "section": "סלבס",
-   "title": "מה קרה לאקסית של יוצא הריאליטי?"
+   "title": "עושים סדר: מה קרה לאקסית של יוצא הריאליטי?"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-08e1e97815f61a1026.htm": {
    "check_attempts": 1,
@@ -28601,6 +28601,18 @@
    "section": "בריאות",
    "title": "\"לאישה היה תפקיד קריטי בהצלת המטוס\""
   },
+  "https://www.mako.co.il/health-news/Article-a76cb6a800781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793269648846,
+   "content_type": "article",
+   "first_seen_ms": 1793269648846,
+   "indexable": true,
+   "indexnow_ms": 1793269648846,
+   "published_ms": 1793266500000,
+   "section": "בריאות",
+   "title": "מאה ילדים אושפזו בגלל הנגיף - 5 בטיפול נמרץ"
+  },
   "https://www.mako.co.il/health-news/Article-a77f1b2f72e41a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31671,7 +31683,7 @@
    "indexnow_ms": null,
    "published_ms": 1793248860000,
    "section": "HIX",
-   "title": "\"המורה ידעה שמה שהיא עושה פסול, אבל המשיכה\""
+   "title": "\"היא ידעה שמה שהיא עושה פסול, אבל המשיכה\""
   },
   "https://www.mako.co.il/hix-special/Article-cdddd8b5d7531a1026.htm": {
    "check_attempts": 1,
@@ -57026,6 +57038,18 @@
    "published_ms": 1791432900000,
    "section": "",
    "title": "יהודה לוי מצהיר: \"אעשה בשבילה הכל, אפילו למות\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-0ea4cbfe69681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793269587463,
+   "content_type": "article",
+   "first_seen_ms": 1793269587463,
+   "indexable": true,
+   "indexnow_ms": 1793269587463,
+   "published_ms": 1793260860000,
+   "section": "הכי חם",
+   "title": "\"שמרנו זה על זה, מודה על הזכות שנפלה בחיקי\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-106afcc674221a1027.htm": {
    "check_attempts": 1,
