@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793264850563,
+ "last_run_ms": 1793265149599,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43732,6 +43732,18 @@
    "published_ms": 1793012580000,
    "section": "",
    "title": "יום הבחירות: איפה אוכלים בזול ושותים בחינם?"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-f14a8ebc24351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/living-architecture/local/Article-f14a8ebc24351a1026.htm",
+   "checked_ms": 1793265027197,
+   "content_type": "article",
+   "first_seen_ms": 1793265027197,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793256000000,
+   "section": "עיצוב הבית",
+   "title": "מעצבת: על מה לא הייתי מבזבזת שקל בשיפוץ הבית"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Recipe-a33cd7aad6371a1026.htm": {
    "check_attempts": 1,
