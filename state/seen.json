@@ -1,10 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-89013f1be1361a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m10_w05/shorts-ec8940715f681a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-4b63f485f0781a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-3b95396f7f681a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-558edd8f22781a1027.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-f603bc7802781a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1333,6 +1331,24 @@
    "updated_ms": 1793007420000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-a2a316ca53771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP20/MASTER/ACADEMY_OF_LIES_EP20/ACADEMY_OF_LIES_EP20_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-f603bc7802781a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 23: מיה מחכה לחזרה עם ג׳אד, אבל כשהוא מגיע קר ומרוחק, שום דבר כבר לא זורם ביניהם. בלי לדעת על ההודעה שאשלי שלחה בשמה, היא לא מבינה למה הוא מוותר על ההופעה המשותפת וחוששת שגילה מי היא באמת. בבית, אוליביה מבחינה שמשהו עובר עליה ומתכננת הפתעה בבית הספר - שעלולה לסכן דווקא את הסוד שמיה מנסה לשמור.",
+   "duration_s": 175,
+   "first_seen_ms": 1793269045736,
+   "image": "https://img.mako.co.il/2026/10/29/ACADEMY_OF_LIES_EP23_1400_1793268580426_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793268587000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "בקצב השקר פרק 23: משאיר אותה לבד",
+   "type": "series",
+   "updated_ms": 1793268587000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-f603bc7802781a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/ACADEMY_OF_LIES_EP23/MASTER/ACADEMY_OF_LIES_EP23/ACADEMY_OF_LIES_EP23_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm": {
    "author": "בקצב השקר",
@@ -89953,6 +89969,24 @@
    "updated_ms": 1793162504000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-557f40313c081a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_rinat_trump_281026_7901_28102026044029/V1_rinat_trump_281026_7901_28102026044029_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-558edd8f22781a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח באוקראינה על 13 הרוגים בפגיעת כטב\"ם רוסי בתחנת רכבת בעיר דניפרו",
+   "duration_s": 9,
+   "first_seen_ms": 1793269045736,
+   "image": "https://img.mako.co.il/2026/10/29/M_NEWS_18377_29102026101128_1400_1793268776771_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793268783000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח באוקראינה על 13 הרוגים בפגיעת כטב\"ם רוסי בתחנת רכבת בעיר דניפרו",
+   "type": "mivzakim",
+   "updated_ms": 1793268783000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-558edd8f22781a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18377_29102026101128/M_NEWS_18377_29102026101128_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-561ebd1ad6d71a1027.htm": {
    "author": "מבזקים",
