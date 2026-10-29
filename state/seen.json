@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-175e94681c681a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-905294681c681a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17886,7 +17886,8 @@
    "importance": 0,
    "published_ms": 1793254413000,
    "sections": [
-    "עדכוני בידור"
+    "עדכוני בידור",
+    "סלבס"
    ],
    "title": "דמי לובאטו וסלינה גומז חוזרות לימי הוולוגים שלהן בפרסומת למותג האיפור של גומז",
    "type": "mivzakim",
@@ -19225,6 +19226,24 @@
    "updated_ms": 1793048933000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-8ee023b98f971a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18180_26102026090708/M_Tarbut_18180_26102026090708_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-905294681c681a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שורד השבי יגיל יעקב: \"יש בי יותר מסתם חטוף\"",
+   "duration_s": 66,
+   "first_seen_ms": 1793263646646,
+   "image": "https://img.mako.co.il/2026/10/29/M_MakoZ_18371_29102026082827_1400_1793262657617_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793262664000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שורד השבי יגיל יעקב: \"יש בי יותר מסתם חטוף\"",
+   "type": "mivzakim",
+   "updated_ms": 1793262664000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-905294681c681a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_MakoZ_18371_29102026082827/M_MakoZ_18371_29102026082827_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-929fc2e395771a1026.htm": {
    "author": "עדכוני בידור",

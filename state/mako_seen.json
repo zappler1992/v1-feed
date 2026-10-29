@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793263349604,
+ "last_run_ms": 1793263649654,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17895,7 +17895,7 @@
    "indexnow_ms": 1793257826739,
    "published_ms": 1793257140000,
    "section": "תרבות tvbee",
-   "title": "האירוע החריג בצילומי העירום: \"הגבתי בתקיפות\""
+   "title": "צילומי העירום של הכוכבת והאירוע החריג: \"הגבתי בתקיפות\""
   },
   "https://www.mako.co.il/culture-articles/Article-8328fcfa16cd0a1027.htm": {
    "check_attempts": 1,
@@ -22025,6 +22025,18 @@
    "section": "סלבס",
    "title": "מה זה שמה בשמיים? הכוכב העלה תיעוד בעירום"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-a7222224da681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793263649654,
+   "content_type": "article",
+   "first_seen_ms": 1793263649654,
+   "indexable": true,
+   "indexnow_ms": 1793263649654,
+   "published_ms": 1793262180000,
+   "section": "סלבס",
+   "title": "הכוכבת העלתה תמונה בעירום מלא מהאמבטיה"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-a9584a45966f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22889,6 +22901,18 @@
    "section": "משפט",
    "title": "אף שקיבל 130 אלף שקל כמפונה במלחמה: ישלם פחות מזונות"
   },
+  "https://www.mako.co.il/finances-law/family-law/Article-4e6793f5bc681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793263587092,
+   "content_type": "article",
+   "first_seen_ms": 1793263587092,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793263320000,
+   "section": "משפט",
+   "title": "הכה את בנו - ודרש לבטל את המזונות: \"הפכתי לארנק מהלך\""
+  },
   "https://www.mako.co.il/finances-law/family-law/Article-928048bff2e31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -22900,6 +22924,18 @@
    "published_ms": 1792045080000,
    "section": "משפט",
    "title": "למה עסקים משפחתיים מתקשים לשרוד לאורך דורות?"
+  },
+  "https://www.mako.co.il/finances-law/family-law/Article-b0bfa37e2b681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793263587092,
+   "content_type": "article",
+   "first_seen_ms": 1793263587092,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793261400000,
+   "section": "משפט",
+   "title": "הבת עברה לגור עם אביה – האם תחזיר את המזונות שקיבלה"
   },
   "https://www.mako.co.il/finances-law/family-law/Article-d3273aea01c11a1026.htm": {
    "check_attempts": 1,
