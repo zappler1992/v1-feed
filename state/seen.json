@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4004be6b5a681a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d1ca5aefa681a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17945,6 +17945,24 @@
    "updated_ms": 1793120200000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0cccc80044e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18266_27102026045500/M_Tarbut_18266_27102026045500_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d1ca5aefa681a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כוכבת ״חתונמי״ מור רדמי ילדה בת שניה",
+   "duration_s": 6,
+   "first_seen_ms": 1793261546546,
+   "image": "https://img.mako.co.il/2026/10/29/M_Celebs_18369_29102026080413_1400_1793261127087_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793261133000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כוכבת ״חתונמי״ מור רדמי ילדה בת שניה",
+   "type": "mivzakim",
+   "updated_ms": 1793261133000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d1ca5aefa681a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18369_29102026080413/M_Celebs_18369_29102026080413_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-0d6471e6d1281a1027.htm": {
    "author": "עדכוני בידור",
@@ -46399,7 +46417,8 @@
    "importance": 2,
    "published_ms": 1793214325000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "התמונה מתבהרת - עמית סגל מסביר למי יש את הקלף החזק",
    "type": "news",
