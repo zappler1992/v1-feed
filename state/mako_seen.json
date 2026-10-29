@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793277149054,
+ "last_run_ms": 1793277448929,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22457,6 +22457,18 @@
    "section": "",
    "title": "\"אין מצב שקנדל ג'נר לא רותחת מקנאה\""
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-cf57d5201c181a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793277266919,
+   "content_type": "article",
+   "first_seen_ms": 1793277266919,
+   "indexable": true,
+   "indexnow_ms": 1793277266919,
+   "published_ms": 1793276940000,
+   "section": "סלבס",
+   "title": "אקדח הוצמד לראשה: הסודות של קים קרדשיאן נחשפים"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-d3b55201961e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35476,6 +35488,18 @@
    "published_ms": 1791727080000,
    "section": "",
    "title": "גננת נעצרה בחשד למעורבות ברצח המזעזע"
+  },
+  "https://www.mako.co.il/men-men_news/Article-02f64e8209781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793277266919,
+   "content_type": "article",
+   "first_seen_ms": 1793277266919,
+   "indexable": true,
+   "indexnow_ms": 1793277266919,
+   "published_ms": 1793276220000,
+   "section": "פלילים",
+   "title": "\"דקר את חברו במהלך חופשה משותפת באילת\""
   },
   "https://www.mako.co.il/men-men_news/Article-030548aa64a31a1027.htm": {
    "check_attempts": 1,
