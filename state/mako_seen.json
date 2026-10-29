@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793267849677,
+ "last_run_ms": 1793268149796,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22095,7 +22095,7 @@
    "indexnow_ms": 1793263649654,
    "published_ms": 1793262180000,
    "section": "סלבס",
-   "title": "הכוכבת העלתה תמונה בעירום מלא מהאמבטיה"
+   "title": "\"זאת חייבת להיות עונת הציצים\": הכוכבת חוגגת בעירום"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-a9584a45966f0a1026.htm": {
    "check_attempts": 1,
@@ -30040,6 +30040,18 @@
    "published_ms": 1791452100000,
    "section": "HIX",
    "title": "לכד תנין במשקל 400 ק\"ג וטען: \"יש גדול יותר\""
+  },
+  "https://www.mako.co.il/hix-nature/Article-5ca708ff90781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793268149796,
+   "content_type": "article",
+   "first_seen_ms": 1793268149796,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793267580000,
+   "section": "HIX",
+   "title": "תושבי חיפה דיווחו על נמלים והמין הפולש התגלה"
   },
   "https://www.mako.co.il/hix-nature/Article-6644a26b0db01a1027.htm": {
    "check_attempts": 1,
@@ -41213,6 +41225,18 @@
    "section": "מוזיקה",
    "title": "הדי-ג'יי שיתפה בבשורות קשות מבית החולים"
   },
+  "https://www.mako.co.il/music-news/Article-7182856631781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793268149796,
+   "content_type": "article",
+   "first_seen_ms": 1793268149796,
+   "indexable": true,
+   "indexnow_ms": 1793268149796,
+   "published_ms": 1793267940000,
+   "section": "מוזיקה",
+   "title": "שעות לפני ההופעה: מכה לאיתי לוי"
+  },
   "https://www.mako.co.il/music-news/Article-71ae66961e611a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -44608,6 +44632,18 @@
    "published_ms": 1792388820000,
    "section": "דיגיטל",
    "title": "הסיבה שסרטוני ה-AI של ביבי כן מסוכנים"
+  },
+  "https://www.mako.co.il/nexter-news/Article-43e0f485f0781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793268027373,
+   "content_type": "article",
+   "first_seen_ms": 1793268027373,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793267460000,
+   "section": "דיגיטל",
+   "title": "צילם את עצמו לייב במסעדה, ונדהם כשהגיע החשבון"
   },
   "https://www.mako.co.il/nexter-news/Article-4addf52819d51a1026.htm": {
    "check_attempts": 1,
