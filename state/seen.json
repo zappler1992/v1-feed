@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b022be2f8781a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45722,14 +45722,14 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "לקראת הפגנה שצפויה להתקיים היום בבני ברק, המשטרה מזהירה מפני שינויים בהסדרי התנועה: \nכביש 4 צפוי להיחסם בשני הכיוונים בין מחלף אלוף שדה למחלף אם המושבות, וייתכנו עומסים וחסימות גם בציר ז'בוטינסקי. הנהגים מתבקשים להימנע מהגעה לאזור ולהשתמש בדרכים חלופיות.",
    "duration_s": 25,
    "first_seen_ms": 1793276245917,
    "image": "https://img.mako.co.il/2026/10/29/Kim_Pkakim_29102026_1400_1793275903269_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793275911000,
    "sections": [],
-   "title": "",
+   "title": "צפי לעומסי ענק באזור בני ברק: המשטרה מזהירה",
    "type": "news",
    "updated_ms": 1793275911000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm",
@@ -89061,6 +89061,24 @@
    "updated_ms": 1793041213000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2acfd30219971a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_BARAK_7796_26102026065850/V1_BARAK_7796_26102026065850_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b022be2f8781a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חשד לשוחד בחירות בישראל במעורבות קטאר: ירון אברהם עושה סדר בפרשה שנחשפה",
+   "duration_s": 46,
+   "first_seen_ms": 1793276545921,
+   "image": "https://img.mako.co.il/2026/10/29/V1_onceagainqatar_7950_29102026121448_1400_1793276218546_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793276224000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חשד לשוחד בחירות בישראל במעורבות קטאר: ירון אברהם עושה סדר בפרשה שנחשפה",
+   "type": "mivzakim",
+   "updated_ms": 1793276224000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b022be2f8781a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_onceagainqatar_7950_29102026121448/V1_onceagainqatar_7950_29102026121448_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b11cec333c71a1027.htm": {
    "author": "מבזקים",
