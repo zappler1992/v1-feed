@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793303549392,
+ "last_run_ms": 1793303849337,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5432,6 +5432,18 @@
    "published_ms": 1792688220000,
    "section": "ספורט",
    "title": "צפו: אולפן היורוליג לקראת מכבי ת\"א-פריז"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-56fefcd843981a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793303849337,
+   "content_type": "article",
+   "first_seen_ms": 1793303849337,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793303640000,
+   "section": "ספורט",
+   "title": "40 דקות ברצף: למה תייס לא עולה מהספסל?"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-577a56940ec11a1026.htm": {
    "check_attempts": 1,
@@ -13817,7 +13829,7 @@
    "indexnow_ms": null,
    "published_ms": 1793301840000,
    "section": "ספורט",
-   "title": "ההסבר השופט: למה פרץ לא קיבל פנדל בגמר?"
+   "title": "הסבר השופט: למה פרץ לא קיבל פנדל בגמר?"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-010aa68c03041a1027.htm": {
    "check_attempts": 1,
@@ -18736,6 +18748,18 @@
    "published_ms": 1792001760000,
    "section": "",
    "title": "בשל תמיכתה בארגון טרור: ההחלטה נגד הסופרת"
+  },
+  "https://www.mako.co.il/culture-articles/Article-d87cfcd843981a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793303787145,
+   "content_type": "article",
+   "first_seen_ms": 1793303787145,
+   "indexable": true,
+   "indexnow_ms": 1793303787145,
+   "published_ms": 1793303520000,
+   "section": "",
+   "title": "כוכב \"מסע בין כוכבים\" ו\"אקס-מן\" הלך לעולמו"
   },
   "https://www.mako.co.il/culture-articles/Article-da771428b0271a1026.htm": {
    "check_attempts": 1,
