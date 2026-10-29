@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-09c9f63484681a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-71b8f63484681a1027.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-6284799c48281a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-066af63484681a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -17857,6 +17857,24 @@
    "updated_ms": 1792957042000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-02b8d3b509471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18098_25102026073539/M_Celebs_18098_25102026073539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-066af63484681a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "דמי לובאטו וסלינה גומז חוזרות לימי הוולוגים שלהן בפרסומת למותג האיפור של גומז",
+   "duration_s": 45,
+   "first_seen_ms": 1793254946372,
+   "image": "https://img.mako.co.il/2026/10/29/M_Tarbut_18362_29102026061201_1400_1793254406983_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793254413000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "דמי לובאטו וסלינה גומז חוזרות לימי הוולוגים שלהן בפרסומת למותג האיפור של גומז",
+   "type": "mivzakim",
+   "updated_ms": 1793254413000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-066af63484681a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18362_29102026061201/M_Tarbut_18362_29102026061201_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-09df1333bc871a1027.htm": {
    "author": "עדכוני בידור",
@@ -93803,6 +93821,22 @@
    "updated_ms": 1793182140000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-1d96ba3685871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/POLISHUK_EP22/MASTER/POLISHUK_EP22/POLISHUK_EP22_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-6284799c48281a1027.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 23: סולי חושפת שהייתה המרצה של קוזו, והיועץ שרגיל לחלק הוראות מוצא את עצמו שוב בתפקיד התלמיד. היא מציעה לשמש ראש הלשכה ולשמור על פולישוק מפניו, וכשקוזו ממהר לצאת היא מזכירה לו שגם מהלימודים נשאר לו חוב אצלה.",
+   "duration_s": 82,
+   "first_seen_ms": 1793254946372,
+   "image": "https://img.mako.co.il/2026/10/28/POLISHUK_EP23_1400_1793191847566_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793191857000,
+   "sections": [],
+   "title": "פולישוק פרק 23: לא קונה את הפוזה",
+   "type": "series",
+   "updated_ms": 1793191857000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-6284799c48281a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/POLISHUK_EP23/MASTER/POLISHUK_EP23/POLISHUK_EP23_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-d19bb95041871a1027.htm": {
    "author": "פולישוק",
