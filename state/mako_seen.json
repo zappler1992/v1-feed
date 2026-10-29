@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793236348865,
+ "last_run_ms": 1793236648795,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48434,6 +48434,18 @@
    "published_ms": 1792841940000,
    "section": "",
    "title": "הנתון שיכריע את הבחירות והתוכנית הסודית ליום שאחרי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-175ef07eda481a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-175ef07eda481a1027.htm",
+   "checked_ms": 1793236467377,
+   "content_type": "article",
+   "first_seen_ms": 1793236467377,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793236320000,
+   "section": "",
+   "title": "המסר ששיגר ואנס - בזמן שטראמפ שוקל לחדש תקיפות באיראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-187a6654fbe71a1026.htm": {
    "check_attempts": 1,
