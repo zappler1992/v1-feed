@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793254949372,
+ "last_run_ms": 1793255249266,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12726,6 +12726,18 @@
    "published_ms": 1791714660000,
    "section": "ספורט",
    "title": "\"מאיפה זה בא?!\": אוהדי מכבי חיפה בהלם"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e5f3910764681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793255187531,
+   "content_type": "article",
+   "first_seen_ms": 1793255187531,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793254980000,
+   "section": "ספורט",
+   "title": "מישהו ישאר בחוץ? פלונטר הזרים של בית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e600c7f8c0e71a1027.htm": {
    "check_attempts": 1,
