@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-c3d0053224781a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-25bb6aae55781a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18166,6 +18166,24 @@
    "updated_ms": 1793089634000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-23c44bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18215_27102026082602/M_Celebs_18215_27102026082602_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-25bb6aae55781a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שעות לפני ההופעה בהיכל מנורה: חשבון האינסטגרם של איתי לוי נחסם ונעלם",
+   "duration_s": 25,
+   "first_seen_ms": 1793273245886,
+   "image": "https://img.mako.co.il/2026/10/29/M_Music_18383_29102026110547_1400_1793272045078_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793272051000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שעות לפני ההופעה בהיכל מנורה: חשבון האינסטגרם של איתי לוי נחסם ונעלם",
+   "type": "mivzakim",
+   "updated_ms": 1793272051000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-25bb6aae55781a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18383_29102026110547/M_Music_18383_29102026110547_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-275ecc26f4171a1027.htm": {
    "author": "עדכוני בידור",
@@ -88475,14 +88493,14 @@
    "duration_s": 74,
    "first_seen_ms": 1793262746586,
    "image": "https://img.mako.co.il/2026/10/29/V1_yaron_7942_29102026082346_1400_1793262407216_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793262413000,
    "sections": [
     "מבזקים"
    ],
    "title": "החשד להתערבות בבחירות: למה השב\"כ לא פעל קודם: ירון אברהם מסביר",
    "type": "mivzakim",
-   "updated_ms": 1793262413000,
+   "updated_ms": 1793272320000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-175e94681c681a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_yaron_7942_29102026082346/V1_yaron_7942_29102026082346_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
