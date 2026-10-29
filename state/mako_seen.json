@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793272648727,
+ "last_run_ms": 1793272948866,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42208,6 +42208,18 @@
    "published_ms": 1791431100000,
    "section": "חדשות",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q2/Article-fb0c337bfe16d91027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-fb0c337bfe16d91027.htm",
+   "checked_ms": 1793272948866,
+   "content_type": "article",
+   "first_seen_ms": 1793272948866,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793272620000,
+   "section": "תרבות tvbee",
+   "title": "הסרט של יהורם גאון לא עובד בכלל. גם לא לרגע"
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-0e75b0a5dc971a1027.htm": {
    "check_attempts": 1,
