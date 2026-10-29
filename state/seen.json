@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e894c841ad881a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a41d2bbefd881a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-900c8e631f881a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-80ee96dcac881a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6437,6 +6437,24 @@
    "updated_ms": 1793085845000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-8036d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_GalAdam_27102026/MASTER/Kim_GalAdam_27102026/Kim_GalAdam_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-80ee96dcac881a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "יעל שלביה הרימה לבן הזוג שלה, נהג הפרומולה 1 לאנס סטרוול, בפוסט יום הולדת רומנטי.",
+   "duration_s": 19,
+   "first_seen_ms": 1793299346527,
+   "image": "https://img.mako.co.il/2026/10/29/rinat_yael_291026_m_1400_1793297040548_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793297047000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "יעל שלביה ולאנס כמו שעוד לא ראינו אותם",
+   "type": "general",
+   "updated_ms": 1793297047000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-80ee96dcac881a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/rinat_yael_291026/MASTER/rinat_yael_291026_m/rinat_yael_291026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-91f3d5696ad71a1027.htm": {
    "author": "סלבס",
@@ -91961,6 +91979,24 @@
    "updated_ms": 1793258376000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8fb13b17c7681a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_colotshinu_7939_29102026071800/V1_colotshinu_7939_29102026071800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-900c8e631f881a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שוב זה קורה: הדרבי התל-אביבי הופסק לאחר 2 דקות בעקבות הדלקת אבוקות במגרש",
+   "duration_s": 11,
+   "first_seen_ms": 1793299346527,
+   "image": "https://img.mako.co.il/2026/10/29/M_NEWS_18400_29102026063731_1400_1793299124473_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793299134000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שוב זה קורה: הדרבי התל-אביבי הופסק לאחר 2 דקות בעקבות הדלקת אבוקות במגרש",
+   "type": "mivzakim",
+   "updated_ms": 1793299134000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-900c8e631f881a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18400_29102026063731/M_NEWS_18400_29102026063731_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-912041da88b71a1027.htm": {
    "author": "מבזקים",
