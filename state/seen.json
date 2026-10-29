@@ -20206,7 +20206,7 @@
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f3438fa03a781a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "\"תראה את התחת שלה\": כוכבת הרשת הוטרדה ברחובות תל אביב",
+   "description": "\"תראה את התחת שלה\": כוכבת הרשת ליר כהן הוטרדה ברחובות תל אביב",
    "duration_s": 34,
    "first_seen_ms": 1793277445937,
    "image": "https://img.mako.co.il/2026/10/29/M_Tarbut_18389_29102026123149_1400_1793277187642_FirstFrame.jpg",
@@ -20215,9 +20215,9 @@
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "\"תראה את התחת שלה\": כוכבת הרשת הוטרדה ברחובות תל אביב",
+   "title": "\"תראה את התחת שלה\": כוכבת הרשת ליר כהן הוטרדה ברחובות תל אביב",
    "type": "mivzakim",
-   "updated_ms": 1793277194000,
+   "updated_ms": 1793283060000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f3438fa03a781a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18389_29102026123149/M_Tarbut_18389_29102026123149_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -45584,7 +45584,8 @@
    "importance": 2,
    "published_ms": 1793274960000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "סכנה בטיפולי היופי: האזהרה החריגה של משרד הבריאות",
    "type": "news",
@@ -45766,7 +45767,9 @@
    "image": "https://img.mako.co.il/2026/10/29/FIX_Kim_Pkakim_29102026_1400_1793281832805_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793275911000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "צפי לעומסי ענק באזור בני ברק: המשטרה מזהירה",
    "type": "news",
    "updated_ms": 1793275911000,
@@ -46128,7 +46131,9 @@
    "image": "https://img.mako.co.il/2026/10/29/mapapa29_1400_1793280686261_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793269276000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מפת המנדטים העדכנית - לפי ספירת הקולות",
    "type": "news",
    "updated_ms": 1793280660000,
@@ -89132,7 +89137,7 @@
    ],
    "title": "חשד לשוחד בחירות בישראל במעורבות קטאר: ירון אברהם עושה סדר בפרשה שנחשפה",
    "type": "mivzakim",
-   "updated_ms": 1793278380000,
+   "updated_ms": 1793282880000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2b022be2f8781a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/yaronffifkf/yaronffifkf_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -92111,7 +92116,8 @@
    "importance": 1,
    "published_ms": 1793273822000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "אונייה בשירות צים שיצאה מישראל טבעה בים השחור: \"נפגעה מכלי שיט בלתי מאוישים\"",
    "type": "mivzakim",
@@ -120364,7 +120370,8 @@
    "importance": 0,
    "published_ms": 1793271127000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ניסיון חטיפה לאור יום בהוואי: גבר ניסה לחטוף אישה לעיני אמה - השכנים נחלצו לעזרתה",
    "type": "mivzakim",
