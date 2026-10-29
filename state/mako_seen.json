@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793266649682,
+ "last_run_ms": 1793266949661,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21100,6 +21100,18 @@
    "published_ms": 1793199900000,
    "section": "סלבס",
    "title": "כוכב \"האח\" שנעצר מגיב: \"מה שבינינו צריך להיפתר בינינו\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-feebf73293371a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793266827279,
+   "content_type": "article",
+   "first_seen_ms": 1793266827279,
+   "indexable": true,
+   "indexnow_ms": 1793266827279,
+   "published_ms": 1793266620000,
+   "section": "סלבס",
+   "title": "מה קרה לאקסית של יוצא הריאליטי?"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-08e1e97815f61a1026.htm": {
    "check_attempts": 1,
@@ -52982,6 +52994,18 @@
    "published_ms": 1792567140000,
    "section": "חופש",
    "title": "המדינה שחוששת ממהומות, ומה צפויה ההשפעה על ישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-690f14fa9e681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793266949661,
+   "content_type": "article",
+   "first_seen_ms": 1793266949661,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793262180000,
+   "section": "חופש",
+   "title": "כוננות שיא: היעד השקט באירופה בונה בונקרים למלחמה"
   },
   "https://www.mako.co.il/travel-news/international/Article-693b2c9137111a1026.htm": {
    "check_attempts": 1,
