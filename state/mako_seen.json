@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793257649447,
+ "last_run_ms": 1793257949431,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17837,6 +17837,18 @@
    "section": "",
    "title": "השחקן טום סקריט (\"הנוסע השמיני\") הלך לעולמו"
   },
+  "https://www.mako.co.il/culture-articles/Article-8328ea4695681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793257826739,
+   "content_type": "article",
+   "first_seen_ms": 1793257826739,
+   "indexable": true,
+   "indexnow_ms": 1793257826739,
+   "published_ms": 1793257140000,
+   "section": "תרבות tvbee",
+   "title": "האירוע החריג בצילומי העירום: \"הגבתי בתקיפות\""
+  },
   "https://www.mako.co.il/culture-articles/Article-8328fcfa16cd0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26524,6 +26536,18 @@
    "published_ms": 1792645200000,
    "section": "",
    "title": "מצאנו ארוחה שלמה במחיר של פיתה עם שווארמה"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-29d533a6fd181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793257826739,
+   "content_type": "article",
+   "first_seen_ms": 1793257826739,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793256480000,
+   "section": "",
+   "title": "האיש מאחורי האימפריה האשדודית פתח מקום חדש ומסקרן"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-2d9a470a19f21a1027.htm": {
    "check_attempts": 1,
@@ -50043,6 +50067,18 @@
    "section": "חדשות",
    "title": "התוכנית של אוריך לשיפור תדמיתה של קטאר בישראל"
   },
+  "https://www.mako.co.il/special-mako-news/Article-ce03f63484681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-ce03f63484681a1027.htm",
+   "checked_ms": 1793257826739,
+   "content_type": "article",
+   "first_seen_ms": 1793257826739,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793257620000,
+   "section": "",
+   "title": "ועדת הבחירות לראש השב\"כ: יש לחקור שוחד מגורמים זרים"
+  },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q3/Article-ce263e40bb4d0a1026.htm",
@@ -53197,7 +53233,7 @@
    "indexnow_ms": null,
    "published_ms": 1793252160000,
    "section": "חופש",
-   "title": "מחכים כאן לישראלים: היעד האירופי שהפך לטרנד"
+   "title": "הישראלים כבר גילו: היעד האירופי הצומח ביותר"
   },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
