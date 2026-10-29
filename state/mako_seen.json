@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793275048846,
+ "last_run_ms": 1793275348852,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19912,6 +19912,18 @@
    "published_ms": 1791729300000,
    "section": "סלבס",
    "title": "עשו סולחה? כך תועדו אופירה אסייג וציפי רפאלי"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-6e70053224781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793275348852,
+   "content_type": "article",
+   "first_seen_ms": 1793275348852,
+   "indexable": true,
+   "indexnow_ms": 1793275348852,
+   "published_ms": 1793273820000,
+   "section": "סלבס",
+   "title": "בפישוק רגליים: השחקנית חוגגת 51 בתיעוד נועז"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-6ea2318c80451a1026.htm": {
    "check_attempts": 1,
@@ -42245,6 +42257,18 @@
    "section": "חדשות",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
   },
+  "https://www.mako.co.il/news-entertainment/2020_q3/Article-2ab7e95470f9371026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-2ab7e95470f9371026.htm",
+   "checked_ms": 1793275348852,
+   "content_type": "article",
+   "first_seen_ms": 1793275348852,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1596195480000,
+   "section": "הכי חם",
+   "title": "מי שישרוד את השעה הראשונה, יגלה סרט הופך בטן"
+  },
   "https://www.mako.co.il/news-entertainment/2026_q2/Article-fb0c337bfe16d91027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-fb0c337bfe16d91027.htm",
@@ -54157,7 +54181,7 @@
    "indexnow_ms": 1793272467541,
    "published_ms": 1793271660000,
    "section": "חופש",
-   "title": "\"לא שמענו מהן\": טסו לטיול באיראן - והסתבכו"
+   "title": "החליטו טסו לטיול באיראן - ומאז הקשר איתן נותק"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
