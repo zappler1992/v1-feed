@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793251349302,
+ "last_run_ms": 1793251649272,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53067,6 +53067,18 @@
    "section": "",
    "title": "באמצע הרחוב: דקרה אדם יהודי בחו\"ל - וברחה"
   },
+  "https://www.mako.co.il/travel-news/international/Article-bb9afd0462381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793251587327,
+   "content_type": "article",
+   "first_seen_ms": 1793251587327,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793252160000,
+   "section": "חופש",
+   "title": "הישראלים כבר גילו: היעד האירופי הצומח ביותר"
+  },
   "https://www.mako.co.il/travel-news/international/Article-bca1ac97c97e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -53630,6 +53642,18 @@
    "published_ms": 1792038060000,
    "section": "חופש",
    "title": "עם שלושה מתחמים: הרופטופ החדש שנפתח באילת"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-28cd69a58b271a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793251587327,
+   "content_type": "article",
+   "first_seen_ms": 1793251587327,
+   "indexable": true,
+   "indexnow_ms": 1793251587327,
+   "published_ms": 1793250240000,
+   "section": "חופש",
+   "title": "אחד המקומות המיוחדים בארץ פותח כעת את שעריו"
   },
   "https://www.mako.co.il/travel-news/israel/Article-2c9d7d7fd1601a1026.htm": {
    "check_attempts": 1,
