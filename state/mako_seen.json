@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793278048965,
+ "last_run_ms": 1793278348979,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1436,6 +1436,18 @@
    "published_ms": 1793270324000,
    "section": "אופנה",
    "title": "עם מחשוף גב מהנועזים שראינו: טיילור מלכוב מייצרת אימפקט אופנתי"
+  },
+  "https://fashionforward.mako.co.il/news/322596/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793278348979,
+   "content_type": "post",
+   "first_seen_ms": 1793278348979,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "חורף? הדר שירי לא שמעה על זה ובחרה בביקיני משגע"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -24136,6 +24148,18 @@
    "published_ms": 1791176580000,
    "section": "",
    "title": "\"אנשים לא מבינים כמה כסף מחכה להם\""
+  },
+  "https://www.mako.co.il/finances-news/Article-6a0e3fb3fa781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793278227019,
+   "content_type": "article",
+   "first_seen_ms": 1793278227019,
+   "indexable": true,
+   "indexnow_ms": 1793278227019,
+   "published_ms": 1793277780000,
+   "section": "כסף",
+   "title": "תדלקו מהר: ההוזלה בדלק תימשך ארבעה ימים"
   },
   "https://www.mako.co.il/finances-news/Article-6bd0a70fb08c0a1027.htm": {
    "check_attempts": 1,
@@ -50905,7 +50929,7 @@
    "indexnow_ms": null,
    "published_ms": 1793267040000,
    "section": "",
-   "title": "בלי נתניהו: הממשלה שמציעים החרדים לאיזנקוט"
+   "title": "בלי נתניהו: הממשלה שהחרדים מציעים לאיזנקוט"
   },
   "https://www.mako.co.il/special-mako-news/Article-ceddef91e82e0a1027.htm": {
    "check_attempts": 1,
