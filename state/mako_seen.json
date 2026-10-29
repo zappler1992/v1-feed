@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793286749083,
+ "last_run_ms": 1793287050082,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6224,6 +6224,18 @@
    "published_ms": 1791491700000,
    "section": "ספורט",
    "title": "\"נדלק מול ולנסיה\". המשחק הענק של בלייקני"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c40dd0e063881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793286987565,
+   "content_type": "article",
+   "first_seen_ms": 1793286987565,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793286900000,
+   "section": "ספורט",
+   "title": "חשיפה: מתיחות גדולה בין איטודיס למיציץ`"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-c4c171bd5b921a1027.htm": {
    "check_attempts": 1,
@@ -24304,6 +24316,18 @@
    "published_ms": 1791665880000,
    "section": "",
    "title": "רשת קוסמטיקה ישראלית חשודה: \"כלאו לקוחות בחדרים\""
+  },
+  "https://www.mako.co.il/finances-news/Article-70e34d2692881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793287050082,
+   "content_type": "article",
+   "first_seen_ms": 1793287050082,
+   "indexable": true,
+   "indexnow_ms": 1793287050082,
+   "published_ms": 1793286720000,
+   "section": "כסף",
+   "title": "מגנץ ועד גפני: מי לא יחזור לכנסת הבאה"
   },
   "https://www.mako.co.il/finances-news/Article-7129358d83531a1026.htm": {
    "check_attempts": 1,
