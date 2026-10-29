@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793297549297,
+ "last_run_ms": 1793297849278,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -108,6 +108,18 @@
    "published_ms": 1792711775000,
    "section": "Fashion Forward",
    "title": "מתנה בשישי: מארז מוצרי טיפוח של promise בשווי 823 שקלים"
+  },
+  "https://fashionforward.mako.co.il/gift/322588/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793297666881,
+   "content_type": "article",
+   "first_seen_ms": 1793297666881,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793279224000,
+   "section": "Fashion Forward",
+   "title": "מתנה בשישי: 550 לרכישה במותג הלייפסטייל גלביה"
   },
   "https://fashionforward.mako.co.il/industry/collections/321666/": {
    "check_attempts": 1,
@@ -273,9 +285,9 @@
    "first_seen_ms": 1793284949073,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793293307000,
    "section": "",
-   "title": "אני טאלנט, אני כוכב, אני מותג. אין בעולם מופע כמו שלי"
+   "title": "אייל חדד אומר שנשים עם חזה גדול לא צריכות ללבוש גולף. אני באתי בגולף"
   },
   "https://fashionforward.mako.co.il/more/weddings/320663/": {
    "check_attempts": 1,
@@ -1749,6 +1761,18 @@
    "section": "Fashion Forward",
    "title": "ריטה, שומעת? הטרנד הסקסי מהאייטיז חוזר ברמות"
   },
+  "https://fashionforward.mako.co.il/trend/alert/322482/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793297666881,
+   "content_type": "article",
+   "first_seen_ms": 1793297666881,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793293619000,
+   "section": "Fashion Forward",
+   "title": "לא רק אלו יוגה ולולולמון: תכירו את מותג הספורט הכי מדובר"
+  },
   "https://fashionforward.mako.co.il/trend/alert/322488/": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -1760,6 +1784,18 @@
    "published_ms": 1793216253000,
    "section": "Fashion Forward",
    "title": "רק לזרוק על ג'ינס: הז'קט הוויראלי הזה מטיס כל לוק (והוא עדיין במלאי!)"
+  },
+  "https://fashionforward.mako.co.il/trend/alert/322577/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793297666881,
+   "content_type": "article",
+   "first_seen_ms": 1793297666881,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": 1793293616000,
+   "section": "Fashion Forward",
+   "title": "אנחנו בהלם שדווקא זה התיק שכולן מחפשות עכשיו"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q3_2026/Article-1d736270638d0a1026.htm": {
    "check_attempts": 1,
@@ -5395,7 +5431,7 @@
    "indexnow_ms": null,
    "published_ms": 1792688220000,
    "section": "ספורט",
-   "title": "צפו: אולפן היורוליג לקראת מכבי - ריאל"
+   "title": "צפו: אולפן היורוליג לקראת מכבי ת\"א-פריז"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-577a56940ec11a1026.htm": {
    "check_attempts": 1,
