@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c3fcc3e056881a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2d585705d6881a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -89285,6 +89285,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c56e24aebc71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18226_27102026095611/M_NEWS_18226_27102026095611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2d585705d6881a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "העימותים נמשכים: חרדים חוסמים את צומת גאה באזור בכביש 4",
+   "duration_s": 43,
+   "first_seen_ms": 1793290646237,
+   "image": "https://img.mako.co.il/2026/10/29/M_NEWS_18392_29102026040935_1400_1793290278566_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793290285000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "העימותים נמשכים: חרדים חוסמים את צומת גאה באזור בכביש 4",
+   "type": "mivzakim",
+   "updated_ms": 1793290285000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2d585705d6881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18392_29102026040935/M_NEWS_18392_29102026040935_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2f65bace48371a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -106636,7 +106654,7 @@
    ],
    "title": "החיים החדשים של רומי גונן: לירי אלבג - ככה שמרנו על היגיינה בשבי",
    "type": "general",
-   "updated_ms": 1793257206000,
+   "updated_ms": 1793290320000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-69c4001c96681a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/Amit_ROMI_LIRI_HAYGIN/MASTER/Amit_ROMI_LIRI_HAYGIN_M/Amit_ROMI_LIRI_HAYGIN_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -120224,7 +120242,8 @@
    "importance": 0,
    "published_ms": 1793274205000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הפרלמנט הפך לזירת אגרוף: חברי פרלמנט בארמניה הלכו מכות באמצע דיון",
    "type": "mivzakim",
