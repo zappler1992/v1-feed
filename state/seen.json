@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c55aa5ceb7781a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45718,6 +45718,22 @@
    "updated_ms": 1793105357000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4757d47885d71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/inbalcalpi271026/MASTER/inbalcalpi271026m/inbalcalpi271026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 25,
+   "first_seen_ms": 1793276245917,
+   "image": "https://img.mako.co.il/2026/10/29/Kim_Pkakim_29102026_1400_1793275903269_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793275911000,
+   "sections": [],
+   "title": "",
+   "type": "news",
+   "updated_ms": 1793275911000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-48fa2be2f8781a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/Kim_Pkakim_29102026/MASTER/Kim_Pkakim_29102026/Kim_Pkakim_29102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-49b04752ecb71a1026.htm": {
    "author": "חדשות",
@@ -109635,7 +109651,8 @@
    "importance": 1,
    "published_ms": 1793256328000,
    "sections": [
-    "טכנולוגיה"
+    "טכנולוגיה",
+    "הכי נצפים עכשיו"
    ],
    "title": "התפוח הזוהר חוזר למקבוק פרו החדש – שמגיע לראשונה עם מסך מגע PROLED",
    "type": "general",
