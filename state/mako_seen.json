@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793284648968,
+ "last_run_ms": 1793284949073,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -264,6 +264,18 @@
    "published_ms": 1789683075000,
    "section": "Fashion Forward",
    "title": "\"מרגישה הכי אישה\": טל טיטו עונה לטוקבקיסטים בתמונות מחשמלות"
+  },
+  "https://fashionforward.mako.co.il/magazine/322539/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793284949073,
+   "content_type": "post",
+   "first_seen_ms": 1793284949073,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "",
+   "title": "אני טאלנט, אני כוכב, אני מותג. אין בעולם מופע כמו שלי"
   },
   "https://fashionforward.mako.co.il/more/weddings/320663/": {
    "check_attempts": 1,
@@ -20189,6 +20201,18 @@
    "section": "סלבס",
    "title": "זה בחוץ: החדשות של בן אל תבורי ובת הזוג"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-7f4f74536d781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793284949073,
+   "content_type": "article",
+   "first_seen_ms": 1793284949073,
+   "indexable": true,
+   "indexnow_ms": 1793284949073,
+   "published_ms": 1793284200000,
+   "section": "",
+   "title": "מאי מדברת לראשונה על הסיבות לפרידה: \"זה לא בגלל איתי\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-80e0145821601a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24820,6 +24844,18 @@
    "published_ms": 1793146020000,
    "section": "",
    "title": "כמה הצביעו בעיר שלכם? בואו לבדוק"
+  },
+  "https://www.mako.co.il/finances-news/Article-fdf9e4a444781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793284949073,
+   "content_type": "article",
+   "first_seen_ms": 1793284949073,
+   "indexable": true,
+   "indexnow_ms": 1793284949073,
+   "published_ms": 1793284200000,
+   "section": "",
+   "title": "עשירי העולם מגיעים לכאן כדי לחפש מקלט. מה הם מסתירים"
   },
   "https://www.mako.co.il/finances-news/Article-feedddcf99d41a1027.htm": {
    "check_attempts": 1,
@@ -33124,6 +33160,18 @@
    "published_ms": 1792476960000,
    "section": "הורים",
    "title": "\"למדנו ללכת על ביצים ליד אבא שלנו\""
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-b4153fb3fa781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793284949073,
+   "content_type": "article",
+   "first_seen_ms": 1793284949073,
+   "indexable": true,
+   "indexnow_ms": 1793284949073,
+   "published_ms": 1793284200000,
+   "section": "",
+   "title": "\"קשרו את הילדים בתוך חיתול, חנקו אותם עד אובדן הכרה\""
   },
   "https://www.mako.co.il/home-family-relationship/Article-d2945accc0de0a1026.htm": {
    "check_attempts": 1,
@@ -52694,6 +52742,18 @@
    "published_ms": 1792680120000,
    "section": "",
    "title": "מיישרת קו: אל על מבטלת את הטיסות ליעד המבוקש"
+  },
+  "https://www.mako.co.il/travel-news/Article-db2d9d3f70881a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793284949073,
+   "content_type": "article",
+   "first_seen_ms": 1793284949073,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793284200000,
+   "section": "",
+   "title": "גם שטחי אש ושלטי \"הכניסה אסורה\" לא עוצרים את קוקו טריפ"
   },
   "https://www.mako.co.il/travel-news/Article-df8b97156eec0a1026.htm": {
    "check_attempts": 1,
