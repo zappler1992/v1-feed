@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793268149796,
+ "last_run_ms": 1793268449735,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28947,7 +28947,7 @@
    "indexnow_ms": 1793260586979,
    "published_ms": 1793259960000,
    "section": "בריאות",
-   "title": "תפסיקו להשתמש במוצרים האלה: אזהרת משרד הבריאות"
+   "title": "\"סיכון משמעותי\": האזהרה של משרד הבריאות"
   },
   "https://www.mako.co.il/health-news/Article-d939359e0e511a1026.htm": {
    "check_attempts": 1,
@@ -30051,7 +30051,7 @@
    "indexnow_ms": null,
    "published_ms": 1793267580000,
    "section": "HIX",
-   "title": "תושבי חיפה דיווחו על נמלים והמין הפולש התגלה"
+   "title": "תושבים בחיפה מדווחים: המין הפולש שזוהה לראשונה בישראל"
   },
   "https://www.mako.co.il/hix-nature/Article-6644a26b0db01a1027.htm": {
    "check_attempts": 1,
@@ -50594,6 +50594,18 @@
    "published_ms": 1790277000000,
    "section": "",
    "title": "שבחים מול ביקורת: התגובות על נאום נתניהו באו\"ם"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-cecdbe6b5a681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-cecdbe6b5a681a1027.htm",
+   "checked_ms": 1793268387388,
+   "content_type": "article",
+   "first_seen_ms": 1793268387388,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793267040000,
+   "section": "",
+   "title": "בלי נתניהו: הממשלה שהחרדים מציעים לאיזנקוט"
   },
   "https://www.mako.co.il/special-mako-news/Article-ceddef91e82e0a1027.htm": {
    "check_attempts": 1,
