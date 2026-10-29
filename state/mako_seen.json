@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793263949604,
+ "last_run_ms": 1793264250598,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8948,6 +8948,18 @@
    "published_ms": 1793224080000,
    "section": "ספורט",
    "title": "העולות לסיבוב ח` בגביע המדינה WINNER"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-cup-q4_2026/Article-3340f764cd681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793264250598,
+   "content_type": "article",
+   "first_seen_ms": 1793264250598,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793264040000,
+   "section": "ספורט",
+   "title": "ישיר: קבוצות ליגת העל מוגרלות בגביע"
   },
   "https://www.mako.co.il/Sports-football-il/national-cup-q4_2026/Article-63c65c8352481a1027.htm": {
    "check_attempts": 1,
@@ -33533,6 +33545,18 @@
    "section": "",
    "title": "גן ההנצחה הקסום לזכרה של הלוחמת עדי גרומן"
   },
+  "https://www.mako.co.il/living-garden-and-porch/gardening/Article-4ae23a8a5f411a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793264187161,
+   "content_type": "article",
+   "first_seen_ms": 1793264187161,
+   "indexable": true,
+   "indexnow_ms": 1793264187161,
+   "published_ms": 1793263980000,
+   "section": "עיצוב הבית",
+   "title": "לא יסמין ולא שושן: הפרח עם הריח המשגע לגינה"
+  },
   "https://www.mako.co.il/living-garden-and-porch/gardening/Article-ddb07ffc47d41a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -36700,6 +36724,18 @@
    "published_ms": 1791965040000,
    "section": "פלילים",
    "title": "פשיטת הענק של המשטרה על סוחרי הסמים"
+  },
+  "https://www.mako.co.il/men-men_news/Article-4bc0db0a3d681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793264187161,
+   "content_type": "article",
+   "first_seen_ms": 1793264187161,
+   "indexable": true,
+   "indexnow_ms": 1793264187161,
+   "published_ms": 1793263620000,
+   "section": "פלילים",
+   "title": "גנב מיליוני דולרים: איש עסקים ישראלי הוסגר לארה\"ב"
   },
   "https://www.mako.co.il/men-men_news/Article-4bd1271b1f751a1026.htm": {
    "check_attempts": 1,
@@ -41093,6 +41129,18 @@
    "section": "מוזיקה",
    "title": "חומרים בשווי מיליונים: תביעת הענק של האחים גלאגר"
   },
+  "https://www.mako.co.il/music-news/Article-7a74db0a3d681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793264067147,
+   "content_type": "article",
+   "first_seen_ms": 1793264067147,
+   "indexable": true,
+   "indexnow_ms": 1793264067147,
+   "published_ms": 1793263800000,
+   "section": "מוזיקה",
+   "title": "אחרי שדרכה על דגל ישראל: הזמרת הלטינית מגיבה"
+  },
   "https://www.mako.co.il/music-news/Article-7ac6dd8a38431a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43528,6 +43576,18 @@
    "published_ms": 1793005440000,
    "section": "חופש",
    "title": "הונאות ומחירים גבוהים: גן העדן נמצא על סף קריסה"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-226b962796681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/world-2026/Article-226b962796681a1026.htm",
+   "checked_ms": 1793264250598,
+   "content_type": "article",
+   "first_seen_ms": 1793264250598,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793259180000,
+   "section": "",
+   "title": "אחרי החשיפה שלה - הכוכבת תחת מתקפה: \"טרגדיה\""
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-421c911bcf771a1027.htm": {
    "check_attempts": 1,
@@ -50341,7 +50401,7 @@
    "indexnow_ms": null,
    "published_ms": 1793257620000,
    "section": "",
-   "title": "החשד לשוחד בחירות בישראל, הליכוד: \"פיגוע בדמוקרטיה\""
+   "title": "החשד לשוחד בחירות בישראל, בליכוד הגיבו בזעם"
   },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
