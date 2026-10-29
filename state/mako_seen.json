@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793262749633,
+ "last_run_ms": 1793263049659,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34697,6 +34697,18 @@
    "section": "",
    "title": "בהלבשה תחתונה: כוכבת הרשת בתמונות לוהטות"
   },
+  "https://www.mako.co.il/makoz-news/Article-77fba5aefa681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793262867033,
+   "content_type": "article",
+   "first_seen_ms": 1793262867033,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793262480000,
+   "section": "",
+   "title": "יגיל יעקב: \"יש בי יותר מסתם חטוף\""
+  },
   "https://www.mako.co.il/makoz-news/Article-7bfdebe619601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -55958,6 +55970,18 @@
    "published_ms": 1793039700000,
    "section": "הכי חם",
    "title": "הכוכב הפתיע מעריצות: \"סוגד ומעריץ אתכן\""
+  },
+  "https://www.mako.co.il/tv-the_escape/season1-articles/Article-c98abafcfbe51a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793262867033,
+   "content_type": "article",
+   "first_seen_ms": 1793262867033,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793261580000,
+   "section": "קשת 12",
+   "title": "\"ניסיתי להציל אותה מהפחדנית הזאת\""
   },
   "https://www.mako.co.il/tv-the_escape/season1-articles/Article-ede0619b33e41a1027.htm": {
    "check_attempts": 1,
