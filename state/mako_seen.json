@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793307150601,
+ "last_run_ms": 1793307449856,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -50390,6 +50390,18 @@
    "published_ms": 1791396480000,
    "section": "",
    "title": "מכתב ההתרעה ותגובת נתניהו: \"שידברו עם אלה בקפלן\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-35228e631f881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-35228e631f881a1027.htm",
+   "checked_ms": 1793307267450,
+   "content_type": "article",
+   "first_seen_ms": 1793307267450,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793306220000,
+   "section": "",
+   "title": "מבוי סתום? התרחישים האפשריים להקמת ממשלה"
   },
   "https://www.mako.co.il/special-mako-news/Article-381b0dd55d1e0a1027.htm": {
    "check_attempts": 1,
