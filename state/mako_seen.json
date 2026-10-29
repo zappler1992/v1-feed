@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793267549705,
+ "last_run_ms": 1793267849677,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13410,6 +13410,18 @@
    "published_ms": 1792686840000,
    "section": "ספורט",
    "title": "\"בעיטה קסומה, קנגווה מצייר על המגרש\""
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-05dc856631781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793267787357,
+   "content_type": "article",
+   "first_seen_ms": 1793267787357,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793267520000,
+   "section": "ספורט",
+   "title": "מאבק על עמדה אחת: ההרכב המשוער של ברדה"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-1ff193a261281a1026.htm": {
    "check_attempts": 1,
