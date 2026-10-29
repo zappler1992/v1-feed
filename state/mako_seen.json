@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793252249372,
+ "last_run_ms": 1793252549352,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48841,7 +48841,7 @@
    "indexnow_ms": null,
    "published_ms": 1793215800000,
    "section": "",
-   "title": "ליברמן קורא את הקלפים ומבין שעליו להמתין"
+   "title": "מנתק מגע ולא עונה לטלפונים: התוכניות של ליברמן להמשך"
   },
   "https://www.mako.co.il/special-mako-news/Article-3a4123bfed701a1026.htm": {
    "check_attempts": 1,
@@ -50426,6 +50426,18 @@
    "published_ms": 1792701480000,
    "section": "חדשות",
    "title": "כוחות הביטחון פתחו במבצע ממוקד בחברון"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-415cd45878581a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/liveblog-415cd45878581a1027.htm",
+   "checked_ms": 1793252549352,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793252549352,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793252400000,
+   "section": "",
+   "title": "המעטפות הכפולות נספרות: אלו תוצאות האמת עד כה"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
