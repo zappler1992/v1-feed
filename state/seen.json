@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-6284799c48281a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-066af63484681a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-cc42910764681a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19711,6 +19710,24 @@
    "updated_ms": 1793192456000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ca30906839281a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18321_28102026125903/M_Celebs_18321_28102026125903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-cc42910764681a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בדיוק היום לפני 32 שנה מריה קארי שחררה לעולם את הסינגל ששינה לנצח את חג המולד",
+   "duration_s": 137,
+   "first_seen_ms": 1793255546393,
+   "image": "https://img.mako.co.il/2026/10/29/M_Music_18363_29102026062114_1400_1793255008447_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793255016000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בדיוק היום לפני 32 שנה מריה קארי שחררה לעולם את הסינגל ששינה לנצח את חג המולד",
+   "type": "mivzakim",
+   "updated_ms": 1793255016000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-cc42910764681a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18363_29102026062114/M_Music_18363_29102026062114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d3790305d0d71a1027.htm": {
    "author": "עדכוני בידור",
@@ -111938,7 +111955,7 @@
    "sections": [],
    "title": "איזו מדינההה: הקול האגדי שהתחבא מתחת למסכת האספרסו חזק",
    "type": "general",
-   "updated_ms": 1793221124000,
+   "updated_ms": 1793255400000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-6f964eb6a3481a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/inbie_espresso_281026/MASTER/inbie_espresso_281026/inbie_espresso_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
