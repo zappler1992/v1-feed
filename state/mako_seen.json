@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793267249699,
+ "last_run_ms": 1793267549705,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1711,7 +1711,7 @@
    "indexnow_ms": null,
    "published_ms": 1793137576000,
    "section": "Fashion Forward",
-   "title": "הטרנד הסקסי מהאייטיז חוזר ברמות, והוא פה כדי להישאר"
+   "title": "ריטה, שומעת? הטרנד הסקסי מהאייטיז חוזר ברמות"
   },
   "https://fashionforward.mako.co.il/trend/alert/322488/": {
    "check_attempts": 1,
@@ -21111,7 +21111,7 @@
    "indexnow_ms": 1793266827279,
    "published_ms": 1793266620000,
    "section": "סלבס",
-   "title": "מה קרה לאקסית של יוצא הריאליטי?"
+   "title": "היד המגובסת והחגיגה: מה קרה ליאנה ארונוב?"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-08e1e97815f61a1026.htm": {
    "check_attempts": 1,
@@ -22636,6 +22636,18 @@
    "published_ms": 1793259000000,
    "section": "",
    "title": "50% הנחה או עבודה בעיניים? כך תזהו מבצע באמת"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-1c6a08ff90781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793267427301,
+   "content_type": "article",
+   "first_seen_ms": 1793267427301,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793266560000,
+   "section": "כסף",
+   "title": "המבצעים בעליאקספרס יתחילו מאוד מוקדם השנה"
   },
   "https://www.mako.co.il/finances-consumer/Article-201f882f60871a1027.htm": {
    "check_attempts": 1,
