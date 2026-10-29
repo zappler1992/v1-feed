@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793265149599,
+ "last_run_ms": 1793265449674,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8971,7 +8971,7 @@
    "indexnow_ms": null,
    "published_ms": 1793264040000,
    "section": "ספורט",
-   "title": "ישיר: קבוצות ליגת העל מוגרלות בגביע"
+   "title": "הגרלת ענק: דרבי תל-אביבי כבר בסיבוב ח'"
   },
   "https://www.mako.co.il/Sports-football-il/national-cup-q4_2026/Article-63c65c8352481a1027.htm": {
    "check_attempts": 1,
@@ -17631,7 +17631,7 @@
    "indexnow_ms": 1793253387437,
    "published_ms": 1793252220000,
    "section": "תרבות tvbee",
-   "title": "אחרי שאובחנה בסרטן, ובסיוע רפואי: הכוכבת הלכה לעולמה"
+   "title": "הכוכבת היהודייה הלכה לעולמה בגיל 95"
   },
   "https://www.mako.co.il/culture-articles/Article-3e70be62fdbe0a1027.htm": {
    "check_attempts": 1,
@@ -27101,6 +27101,18 @@
    "section": "",
    "title": "שעה ומוכן: תבשיל פרגיות עם קינואה ואטריות"
   },
+  "https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-c0dc82c8ee181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793265267222,
+   "content_type": "recipe",
+   "first_seen_ms": 1793265267222,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793249520000,
+   "section": "",
+   "title": "זה הדבר הכי חכם להכין עם האורז שנשאר מאתמול"
+  },
   "https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-c2545710fe7c0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28443,7 +28455,7 @@
    "indexnow_ms": 1793259626857,
    "published_ms": 1793257440000,
    "section": "בריאות",
-   "title": "\"זה עלול להיות קטלני\": בנות 12 ו-14 אושפזו באיכילוב"
+   "title": "שתי נערות אושפזו לאחר שאכלו פטריות בר"
   },
   "https://www.mako.co.il/health-news/Article-9f6f3d2d8e631a1027.htm": {
    "check_attempts": 1,
@@ -32788,6 +32800,18 @@
    "published_ms": 1792942920000,
    "section": "הורים",
    "title": "המועצה מחקה חלק מהאנדרטה לזכר נרצחת הנובה"
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-ee8914fa9e681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793265387216,
+   "content_type": "article",
+   "first_seen_ms": 1793265387216,
+   "indexable": true,
+   "indexnow_ms": 1793265387216,
+   "published_ms": 1793264700000,
+   "section": "הורים",
+   "title": "\"כולם אמרו שאני חזק. לא שאלו אם נשאר לי כוח\""
   },
   "https://www.mako.co.il/home-family-relationship/couples-in-test/Article-23c8331b3cec0a1026.htm": {
    "check_attempts": 1,
@@ -49995,6 +50019,18 @@
    "section": "",
    "title": "\"ויתרתי על ההורים במודע כדי לשרוד\": דניאל חוזר לתופת"
   },
+  "https://www.mako.co.il/special-mako-news/Article-9b3b3cea49681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-9b3b3cea49681a1027.htm",
+   "checked_ms": 1793265267222,
+   "content_type": "article",
+   "first_seen_ms": 1793265267222,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793259900000,
+   "section": "",
+   "title": "המעורבות של המדינה הערבית - וסכומי הכסף הגדולים שזרמו"
+  },
   "https://www.mako.co.il/special-mako-news/Article-9b40750349041a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-9b40750349041a1027.htm",
@@ -50929,7 +50965,7 @@
    "indexnow_ms": null,
    "published_ms": 1793252400000,
    "section": "",
-   "title": "המעטפות הכפולות נספרות: אלו תוצאות האמת עד כה"
+   "title": "השינוי במפת המנדטים באופוזיציה - ותוצאות האמת עד כה"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-4fbf25dc62711a1027.htm": {
    "check_attempts": 1,
