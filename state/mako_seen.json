@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793306551754,
+ "last_run_ms": 1793306850237,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13733,7 +13733,7 @@
    "indexnow_ms": null,
    "published_ms": 1793305860000,
    "section": "ספורט",
-   "title": "סנטימטרים מ-3:3: הדרמה בגביע הטוטו"
+   "title": "צפו. סנטימטרים מ-3:3: הדרמה בגביע הטוטו"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-4f0a012186281a1027.htm": {
    "check_attempts": 1,
@@ -13854,6 +13854,18 @@
    "published_ms": 1793305200000,
    "section": "ספורט",
    "title": "\"דניאל דאפה הפך למפלצת. החזיר על הכל\""
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-d7cc5a6a06981a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793306787363,
+   "content_type": "article",
+   "first_seen_ms": 1793306787363,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793306160000,
+   "section": "ספורט",
+   "title": "9 לדאפה, 3 לדוידה: הציונים של משה פרימו"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-ec3839b565981a1026.htm": {
    "check_attempts": 1,
@@ -19636,6 +19648,18 @@
    "published_ms": 1790597700000,
    "section": "סלבס",
    "title": "טרוד עם סיגריה, לפני שירצה מאסר: כך תפסנו את השחקן"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-18eda4ac54981a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793306667602,
+   "content_type": "article",
+   "first_seen_ms": 1793306667602,
+   "indexable": true,
+   "indexnow_ms": 1793306667602,
+   "published_ms": 1793305200000,
+   "section": "",
+   "title": "חצי שנה מאז שחשפה זוגיות: ההצהרה של יעל שלביה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-1b5bc0dc9ca51a1027.htm": {
    "check_attempts": 1,
@@ -42435,7 +42459,7 @@
    "indexnow_ms": 1793301387069,
    "published_ms": 1793300700000,
    "section": "",
-   "title": "הישראלי סירב לגנות את \"רצח העם\" ונבעט מהפסטיבל"
+   "title": "הישראלי סירב לגנות את \"רצח העם\" - ונבעט מהפסטיבל"
   },
   "https://www.mako.co.il/music-news/Article-c560693eb6a51a1027.htm": {
    "check_attempts": 1,
