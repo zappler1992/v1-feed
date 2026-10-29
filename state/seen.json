@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-75b6a5a25e781a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-11873a4050881a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45421,6 +45421,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0caa750109971a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/rinat_lalaland_262026/MASTER/rinat_lalaland_262026_m/rinat_lalaland_262026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-11873a4050881a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1793286746197,
+   "image": "https://img.mako.co.il/2026/10/29/biata_ofer_291026_1400_1793284840506_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793284850000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "העונש של עופר לוי אחרי הסרטון המסית",
+   "type": "news",
+   "updated_ms": 1793284850000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-11873a4050881a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/biata_ofer_291026/MASTER/biata_ofer_291026/biata_ofer_291026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-124adf361b871a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -46149,7 +46167,8 @@
    "importance": 1,
    "published_ms": 1793269276000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "מפת המנדטים העדכנית - לפי ספירת הקולות",
    "type": "news",
