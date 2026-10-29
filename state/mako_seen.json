@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793263049659,
+ "last_run_ms": 1793263349604,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13387,6 +13387,18 @@
    "section": "ספורט",
    "title": "קני מילר: \"ברנלי? אני כאן עד סוף העונה\""
   },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-3e3e93f5bc681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793263349604,
+   "content_type": "article",
+   "first_seen_ms": 1793263349604,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793263080000,
+   "section": "ספורט",
+   "title": "מענק נאה: כמה שווה זכייה בגביע הטוטו?"
+  },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-40739c3854281a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -17524,6 +17536,18 @@
    "published_ms": 1791720000000,
    "section": "תרבות tvbee",
    "title": "סרטו של הכוכב הפרו-פלסטיני מגיע לבכורה בארץ"
+  },
+  "https://www.mako.co.il/culture-articles/Article-31ba464f6b681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793263227074,
+   "content_type": "article",
+   "first_seen_ms": 1793263227074,
+   "indexable": true,
+   "indexnow_ms": 1793263227074,
+   "published_ms": 1793262540000,
+   "section": "תרבות tvbee",
+   "title": "ההתכתבויות שמסעירות את גרמניה: \"מפחדת מחמאס\""
   },
   "https://www.mako.co.il/culture-articles/Article-363da4c4048c0a1027.htm": {
    "check_attempts": 1,
@@ -28347,7 +28371,7 @@
    "indexnow_ms": 1793259626857,
    "published_ms": 1793257440000,
    "section": "בריאות",
-   "title": "\"20 שנה שאני עוסק בתחום לא נתקלתי במקרה כזה\""
+   "title": "\"זה עלול להיות קטלני\": בנות 12 ו-14 אושפזו באיכילוב"
   },
   "https://www.mako.co.il/health-news/Article-9f6f3d2d8e631a1027.htm": {
    "check_attempts": 1,
