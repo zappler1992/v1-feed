@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-66b93b17c7681a1026.htm",
-  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-69c4001c96681a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4004be6b5a681a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -89382,6 +89381,24 @@
    "updated_ms": 1793000471000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3fdba93142771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18115_26102026073945/M_NEWS_18115_26102026073945_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4004be6b5a681a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "קטאר העבירה סכומי ענק למצביעים בישראל - חשד להתערבות זרה בבחירות",
+   "duration_s": 70,
+   "first_seen_ms": 1793261246544,
+   "image": "https://img.mako.co.il/2026/10/29/V1_qataramit_7940_29102026075930_1400_1793260886160_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793260892000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "קטאר העבירה סכומי ענק למצביעים בישראל - חשד להתערבות זרה בבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793260892000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-4004be6b5a681a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_qataramit_7940_29102026075930/V1_qataramit_7940_29102026075930_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-401536f190f71a1026.htm": {
    "author": "מבזקים",

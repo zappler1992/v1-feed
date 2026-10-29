@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793260949507,
+ "last_run_ms": 1793261249556,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20620,6 +20620,18 @@
    "published_ms": 1790853780000,
    "section": "סלבס",
    "title": "המשפיענית על ההיריון המתקדם בצל המשבר עם בעלה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d5843cea49681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793261066924,
+   "content_type": "article",
+   "first_seen_ms": 1793261066924,
+   "indexable": true,
+   "indexnow_ms": 1793261066924,
+   "published_ms": 1793259600000,
+   "section": "סלבס",
+   "title": "שנה וחצי אחרי לידת בנה: מור רדמי ילדה בת"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-d5ac3caad2281a1027.htm": {
    "check_attempts": 1,
@@ -47320,6 +47332,18 @@
    "published_ms": 1790075220000,
    "section": "צבא וביטחון",
    "title": "לוחמים הופתעו: מסתור יצירתי לנשק שנגנב מצה\"ל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-775c828e3a681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793261249556,
+   "content_type": "article",
+   "first_seen_ms": 1793261249556,
+   "indexable": true,
+   "indexnow_ms": 1793261249556,
+   "published_ms": 1793260740000,
+   "section": "צבא וביטחון",
+   "title": "אצבע בעין למערב: יבצעו עשרות שיגורים ביום, על הגבול"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-79440896d8511a1027.htm": {
    "check_attempts": 1,
