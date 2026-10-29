@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8fb13b17c7681a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88b25879c8681a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85bcbfe69681a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45768,6 +45769,22 @@
    "updated_ms": 1793005680000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MOON_261026/MASTER/SHIR_MOON_261026/SHIR_MOON_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88b25879c8681a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 30,
+   "first_seen_ms": 1793259746541,
+   "image": "https://img.mako.co.il/2026/10/29/inbalbo2910m_1400_1793259203284_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793259214000,
+   "sections": [],
+   "title": "חשד למימון זר ושוחד בחירות: יו\"ר ועדת הבחירות הורה לראש השב\"כ לפתוח בחקירה",
+   "type": "news",
+   "updated_ms": 1793259214000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88b25879c8681a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/fixbobo/fixbobo_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-8aa167bba2a71a1027.htm": {
    "author": "חדשות",
@@ -91822,6 +91839,24 @@
    "updated_ms": 1793178002000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b7d1b5696b181a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/M_NEWS_18304_28102026085727/M_NEWS_18304_28102026085727_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85bcbfe69681a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגלל מזג האוויר: עשרות קלפיות צבאיות הוטסו במסוק צה\"לי במבצע שינוע מיוחד בליל הבחירות",
+   "duration_s": 9,
+   "first_seen_ms": 1793259746541,
+   "image": "https://img.mako.co.il/2026/10/29/M_NEWS_18367_29102026073639_1400_1793259492772_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793259502000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגלל מזג האוויר: עשרות קלפיות צבאיות הוטסו במסוק צה\"לי במבצע שינוע מיוחד בליל הבחירות",
+   "type": "mivzakim",
+   "updated_ms": 1793259502000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85bcbfe69681a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18367_29102026073639/M_NEWS_18367_29102026073639_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b85dd339a8371a1027.htm": {
    "author": "מבזקים",
