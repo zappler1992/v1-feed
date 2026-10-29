@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793270548896,
+ "last_run_ms": 1793270848731,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1424,6 +1424,18 @@
    "published_ms": 1793188692000,
    "section": "אופנה",
    "title": "נחשו מה? סידני סוויני לגמרי עושה את זה שוב"
+  },
+  "https://fashionforward.mako.co.il/news/322558/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793270787469,
+   "content_type": "post",
+   "first_seen_ms": 1793270787469,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "טיילור מלכוב עם מחשוף גב מהנועזים שראינו"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -2972,6 +2984,18 @@
    "published_ms": 1792400880000,
    "section": "ספורט",
    "title": "איפה דני? מחירי שחקני פורטלנד בפנטזי NBA"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-6751f196b3781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793270787469,
+   "content_type": "article",
+   "first_seen_ms": 1793270787469,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793270520000,
+   "section": "ספורט",
+   "title": "\"קשה לצפייה\": הפתיחה המזעזעת של גובר"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-68335046d4c61a1026.htm": {
    "check_attempts": 1,
