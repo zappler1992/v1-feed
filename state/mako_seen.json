@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793293349227,
+ "last_run_ms": 1793293650123,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -15031,6 +15031,18 @@
    "section": "ספורט",
    "title": "\"למד איך להסתדר\": הציונים שקיבל חלאילי"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6a4da7e5a9881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793293586771,
+   "content_type": "article",
+   "first_seen_ms": 1793293586771,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793293260000,
+   "section": "ספורט",
+   "title": "צפו: היכה שחקן יריב והורחק לחצי שנה"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-6ff65f5007711a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -21484,6 +21496,18 @@
    "published_ms": 1792692900000,
    "section": "",
    "title": "החשיפה של סשה לכבוד יום הולדתו של עומר אדם"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local/Article-c77b3fb3fa781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793293466770,
+   "content_type": "article",
+   "first_seen_ms": 1793293466770,
+   "indexable": true,
+   "indexnow_ms": 1793293466770,
+   "published_ms": 1793293320000,
+   "section": "הכי חם",
+   "title": "אלי לוזון: \"זה כמו ארגון פשע מה שקרה שם\""
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-ce7ecdc25bf11a1027.htm": {
    "check_attempts": 1,
@@ -58190,6 +58214,18 @@
    "published_ms": 1791573120000,
    "section": "",
    "title": "רותי ברודו על אלי אוחנה: \"נפלתי בקסמו\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-7c6e2be2f8781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793293466770,
+   "content_type": "article",
+   "first_seen_ms": 1793293466770,
+   "indexable": true,
+   "indexnow_ms": 1793293466770,
+   "published_ms": 1793293320000,
+   "section": "הכי חם",
+   "title": "התפקיד החדש והמסקרן של אליענה בקייר"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-7d75d4540f011a1026.htm": {
    "check_attempts": 1,
