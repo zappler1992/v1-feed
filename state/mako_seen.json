@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793293650123,
+ "last_run_ms": 1793293949396,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16542,6 +16542,18 @@
    "published_ms": 1792775580000,
    "section": "ספורט",
    "title": "מתי יעצר? אקס סיטי שכבש בכל משחק העונה"
+  },
+  "https://www.mako.co.il/Sports-football-world/q4_2026/Article-6902a7e5a9881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793293949396,
+   "content_type": "article",
+   "first_seen_ms": 1793293949396,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793293740000,
+   "section": "ספורט",
+   "title": "אקס מכבי תל אביב מועמד לאימון יובנטוס"
   },
   "https://www.mako.co.il/Sports-football-world/q4_2026/Article-72f86bbeaa7f0a1026.htm": {
    "check_attempts": 1,
