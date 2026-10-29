@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793272348806,
+ "last_run_ms": 1793272648727,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1433,9 +1433,9 @@
    "first_seen_ms": 1793270787469,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793270324000,
    "section": "אופנה",
-   "title": "טיילור מלכוב עם מחשוף גב מהנועזים שראינו"
+   "title": "עם מחשוף גב מהנועזים שראינו: טיילור מלכוב מייצרת אימפקט אופנתי"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -54062,6 +54062,18 @@
    "published_ms": 1793002560000,
    "section": "חופש",
    "title": "טלטלה בחו\"ל: היחסים עם ישראל בדרך למשבר"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-d9599233f2781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793272467541,
+   "content_type": "article",
+   "first_seen_ms": 1793272467541,
+   "indexable": true,
+   "indexnow_ms": 1793272467541,
+   "published_ms": 1793271660000,
+   "section": "חופש",
+   "title": "\"לא שמענו מהן\": טסו לטיול באיראן - והסתבכו"
   },
   "https://www.mako.co.il/travel-news/international/Article-dceaf2922dcf0a1026.htm": {
    "check_attempts": 1,
