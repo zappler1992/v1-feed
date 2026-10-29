@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-7750190750981a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9f2da4ac54981a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ab2da4ac54981a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-33a1e635e4981a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18493,6 +18491,24 @@
    "updated_ms": 1793121612000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3336a59855e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18268_27102026051815/M_Celebs_18268_27102026051815_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-33a1e635e4981a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "איתי לוי מתייחס לפרסום ב-mako: \"אין לי אינסטגרם. ירדתי 4 קילו, מהלחץ\"",
+   "duration_s": 23,
+   "first_seen_ms": 1793305946709,
+   "image": "https://img.mako.co.il/2026/10/29/M_Music_18404_29102026082617_1400_1793305698373_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793305705000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "איתי לוי מתייחס לפרסום ב-mako: \"אין לי אינסטגרם. ירדתי 4 קילו, מהלחץ\"",
+   "type": "mivzakim",
+   "updated_ms": 1793305705000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-33a1e635e4981a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18404_29102026082617/M_Music_18404_29102026082617_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-394f718904e71a1027.htm": {
    "author": "עדכוני בידור",
@@ -46713,7 +46729,9 @@
    "image": "https://img.mako.co.il/2026/10/29/biata_car_291026_1400_1793301703129_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793301710000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "נהגים: זה מה שעליכם לעשות מה-1 בנובמבר",
    "type": "news",
    "updated_ms": 1793301710000,
