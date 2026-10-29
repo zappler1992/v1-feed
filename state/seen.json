@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-1244454cfe881a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ab56190750981a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -45636,7 +45636,7 @@
    ],
    "title": "כוכבי הרשת נעצרו בחשד שאיימו על צעיר שהתעלל בחתולה",
    "type": "news",
-   "updated_ms": 1793300400000,
+   "updated_ms": 1793301300000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-0fdc24b38b881a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/MFIX_SHIRA_CAT_291026/MFIX_SHIRA_CAT_291026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -46631,6 +46631,22 @@
    "updated_ms": 1793166260000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ab41dc20af081a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/AVISHAI_WORLDPRESS_2810/MASTER/AVISHAI_WORLDPRESS_2810_M/AVISHAI_WORLDPRESS_2810_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ab56190750981a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 27,
+   "first_seen_ms": 1793302346427,
+   "image": "https://img.mako.co.il/2026/10/29/biata_car_291026_1400_1793301703129_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793301710000,
+   "sections": [],
+   "title": "נהגים: זה מה שעליכם לעשות מה-1 בנובמבר",
+   "type": "news",
+   "updated_ms": 1793301710000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ab56190750981a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/biata_car_291026/MASTER/biata_car_291026/biata_car_291026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-ad81642ae6871a1026.htm": {
    "author": "חדשות",
@@ -120587,7 +120603,8 @@
    "importance": 0,
    "published_ms": 1793298216000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי Vיראלים"
    ],
    "title": "דיון בפרלמנט או זירת היאבקות: הפוליטיקאים בארמניה שיצאו משליטה",
    "type": "mivzakim",
