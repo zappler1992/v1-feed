@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793297849278,
+ "last_run_ms": 1793298149258,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -51626,6 +51626,18 @@
    "published_ms": 1793126340000,
    "section": "",
    "title": "במקרה של מבוי סתום: התוכנית של הנשיא - כך יוטל המנדט"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f20924b38b881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-f20924b38b881a1027.htm",
+   "checked_ms": 1793298026903,
+   "content_type": "article",
+   "first_seen_ms": 1793298026903,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793297400000,
+   "section": "",
+   "title": "חשד שעוד שתי מדינות ניסו להטות את הבחירות"
   },
   "https://www.mako.co.il/special-mako-news/Article-f273f6f3fb861a1027.htm": {
    "check_attempts": 1,
