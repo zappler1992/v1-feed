@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-20b0d4d412881a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-29T14:52:09+00:00</news:publication_date>
+<news:title>הפגנות החרדים בכביש 4 החלו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/29/V1_kvish4_7955_29102026025015_1400_1793285522449_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2825ede0ff781a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2415,23 +2424,5 @@
 <news:title>מבזק הבחירות של V1</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/27/V1_MIVZAK_1700_7849_27102026030830_1400_1793113813880_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5d1dce134dd71a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-27T14:55:50+00:00</news:publication_date>
-<news:title>תיעוד נוסף ויוצא דופן של הזרימות בנחל חתירה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/27/M_NEWS_18253_27102026025437_1400_1793112943644_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-dce809c8bdd71a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-27T14:55:22+00:00</news:publication_date>
-<news:title>אחרי הגשמים החזקים בדרום: זרימות בנחל חתירה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/27/M_NEWS_18252_27102026025315_1400_1793112915391_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
