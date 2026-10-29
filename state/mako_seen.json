@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793309865681,
+ "last_run_ms": 1793310149616,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44668,6 +44668,18 @@
    "published_ms": 1792904400000,
    "section": "",
    "title": "הסתדרנו עם צהריים: 3 מתכוני פסטה בסיר אחד"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-4ae23a8a5f411a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793310149616,
+   "content_type": "article",
+   "first_seen_ms": 1793310149616,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793292360000,
+   "section": "עיצוב הבית",
+   "title": "לא יסמין ולא שושן: הפרח עם הריח המשגע לגינה"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-6bbbb09f53771a1026.htm": {
    "check_attempts": 1,
