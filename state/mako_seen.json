@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793248949224,
+ "last_run_ms": 1793249250138,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30905,6 +30905,18 @@
    "section": "HIX",
    "title": "ניסתה להציל את חברתה משיטפון, ושתיהן נסחפו"
   },
+  "https://www.mako.co.il/hix-special/Article-96f8a5a7ef281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793249067152,
+   "content_type": "article",
+   "first_seen_ms": 1793249067152,
+   "indexable": true,
+   "indexnow_ms": 1793249067152,
+   "published_ms": 1793248920000,
+   "section": "HIX",
+   "title": "הגיעה עם הילד לגן – ובנה נהרג בתאונה קטלנית"
+  },
   "https://www.mako.co.il/hix-special/Article-96fbdfa1d9f31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31252,6 +31264,18 @@
    "published_ms": 1792119600000,
    "section": "HIX",
    "title": "\"הוא בטח בנו יותר. אולי הוא פשוט אהב בחורות\""
+  },
+  "https://www.mako.co.il/hix-special/Article-c96ea5a7ef281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793249067152,
+   "content_type": "article",
+   "first_seen_ms": 1793249067152,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793248860000,
+   "section": "HIX",
+   "title": "\"היא ידעה שמה שהיא עושה פסול, אבל המשיכה\""
   },
   "https://www.mako.co.il/hix-special/Article-cdddd8b5d7531a1026.htm": {
    "check_attempts": 1,
