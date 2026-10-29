@@ -1,7 +1,11 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-81f9fb34d2781a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-889dfb34d2781a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b97fb34d2781a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7c47dd8f22781a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d936dd8f22781a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4b64856631781a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18383,6 +18387,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b33b8be6c181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18306_28102026090933/M_Celebs_18306_28102026090933_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b97fb34d2781a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"היה שקט מוחלט, הוא נפל על הברכיים וחיבק אותי. התפרקנו\": פיליפ שאולוב על הסצנה שלא ישכח ב\"הבריחה\"",
+   "duration_s": 49,
+   "first_seen_ms": 1793269945743,
+   "image": "https://img.mako.co.il/2026/10/29/M_Tarbut_18381_29102026102419_1400_1793269563977_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793269571000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"היה שקט מוחלט, הוא נפל על הברכיים וחיבק אותי. התפרקנו\": פיליפ שאולוב על הסצנה שלא ישכח ב\"הבריחה\"",
+   "type": "mivzakim",
+   "updated_ms": 1793269571000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b97fb34d2781a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18381_29102026102419/M_Tarbut_18381_29102026102419_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3f54872b9c771a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -19012,6 +19034,24 @@
    "updated_ms": 1793189240000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7b48012186281a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18318_28102026120010/M_Celebs_18318_28102026120010_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7c47dd8f22781a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנג׳ל ברנס: ״זה בסדר להרגיש רע, להרגיש חרא. אני נמצאת במצב שלא דמיינתי שאהיה בו״",
+   "duration_s": 25,
+   "first_seen_ms": 1793269945743,
+   "image": "https://img.mako.co.il/2026/10/29/M_Music_18380_29102026102050_1400_1793269350492_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793269361000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנג׳ל ברנס: ״זה בסדר להרגיש רע, להרגיש חרא. אני נמצאת במצב שלא דמיינתי שאהיה בו״",
+   "type": "mivzakim",
+   "updated_ms": 1793269361000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7c47dd8f22781a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18380_29102026102050/M_Music_18380_29102026102050_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7ea6a59855e71a1026.htm": {
    "author": "עדכוני בידור",
@@ -19930,6 +19970,24 @@
    "updated_ms": 1793171239000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d6f4cd9e74181a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18299_28102026070535/M_Celebs_18299_28102026070535_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d936dd8f22781a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנג׳ל ברנס: ״זה בסדר להרגיש רע, להרגיש חרא. אני נמצאת במצב שלא דמיינתי שאהיה בו״",
+   "duration_s": 74,
+   "first_seen_ms": 1793269945743,
+   "image": "https://img.mako.co.il/2026/10/29/M_Tarbut_18379_29102026102021_1400_1793269323243_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793269330000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנג׳ל ברנס: ״זה בסדר להרגיש רע, להרגיש חרא. אני נמצאת במצב שלא דמיינתי שאהיה בו״",
+   "type": "mivzakim",
+   "updated_ms": 1793269330000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d936dd8f22781a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18379_29102026102021/M_Tarbut_18379_29102026102021_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-da1973d26f381a1026.htm": {
    "author": "עדכוני בידור",
@@ -45627,6 +45685,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-49b04752ecb71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Shopping_27102026/MASTER/Kim_Shopping_27102026/Kim_Shopping_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4b64856631781a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "קרולינה, בת 21, ביקשה מחבורת נערים  להפסיק להתפרע בחנות שבה עבדה ביום הבחירות. \nבתגובה, אחד מהם פתח לעברה קונפטי אבקתי שחדר לעיניה וגרם לה לא לראות למשך זמן מה.\nמכיוון שעברה ניתוח לייזר בעיניה כחצי שנה קודם לכן, היא חששה שנגרם לה נזק. המשטרה ומד״א הגיעו למקום, נכון לעכשיו לא ידוע מה עלה בגורל הנערים.",
+   "duration_s": 57,
+   "first_seen_ms": 1793269945743,
+   "image": "https://img.mako.co.il/2026/10/29/Kim_Attack_29102026_1400_1793267849546_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793267856000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "ביקשה מנערים להפסיק להשתולל בחנות – אחד מהם פתח קונפטי בפניה",
+   "type": "news",
+   "updated_ms": 1793267856000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4b64856631781a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/Kim_Attack_29102026/MASTER/Kim_Attack_29102026/Kim_Attack_29102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-54a98e0602e71a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -45920,6 +45996,22 @@
    "updated_ms": 1793216541000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-87a7043e00481a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/SHIRA_YELEDK_281026/MASTER/SHIRA_YELEDK_281026_M/SHIRA_YELEDK_281026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-889dfb34d2781a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 23,
+   "first_seen_ms": 1793269945743,
+   "image": "https://img.mako.co.il/2026/10/29/Inbalvote291026m_1400_1793269266551_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793269276000,
+   "sections": [],
+   "title": "מפת המנדטים העדכנית - לפי ספירת הקולות",
+   "type": "news",
+   "updated_ms": 1793269276000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-889dfb34d2781a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/inbalvote291026/MASTER/Inbalvote291026m/Inbalvote291026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-88a8a35477771a1026.htm": {
    "author": "חדשות",
@@ -109425,7 +109517,7 @@
    ],
    "title": "התפוח הזוהר חוזר למקבוק פרו החדש – שמגיע לראשונה עם מסך מגע PROLED",
    "type": "general",
-   "updated_ms": 1793256328000,
+   "updated_ms": 1793269200000,
    "url": "https://www.v-1.co.il/tech-magazine/2026-m10_w05/shorts-c086ea4695681a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/Kim_Macbook_29102026/MASTER/Kim_Macbook_29102026/Kim_Macbook_29102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
