@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793259149374,
+ "last_run_ms": 1793259449497,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -17559,7 +17559,7 @@
    "indexnow_ms": 1793253387437,
    "published_ms": 1793252220000,
    "section": "תרבות tvbee",
-   "title": "אחרי שאובחנה בסרטן, ובסיוע רפואי: הכוכבת הלכה לעולמה"
+   "title": "הכוכבת היהודייה הלכה לעולמה בגיל 95"
   },
   "https://www.mako.co.il/culture-articles/Article-3e70be62fdbe0a1027.htm": {
    "check_attempts": 1,
@@ -22493,6 +22493,18 @@
    "section": "כסף",
    "title": "בארץ משלמים הרבה יותר: הסייל הסודי באמזון"
   },
+  "https://www.mako.co.il/finances-consumer/Article-0a8d914eaa281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793259266821,
+   "content_type": "article",
+   "first_seen_ms": 1793259266821,
+   "indexable": true,
+   "indexnow_ms": 1793259266821,
+   "published_ms": 1793259000000,
+   "section": "",
+   "title": "50% הנחה או עבודה בעיניים? כך תלמדו לזהות מבצע אמיתי"
+  },
   "https://www.mako.co.il/finances-consumer/Article-201f882f60871a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -26032,6 +26044,18 @@
    "published_ms": 1792067340000,
    "section": "הכי חם",
    "title": "מהיום אין דבר כזה \"לא אוהבים עוגות לימון\""
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-3f650c8164a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793259266821,
+   "content_type": "recipe",
+   "first_seen_ms": 1793259266821,
+   "indexable": true,
+   "indexnow_ms": 1793259266821,
+   "published_ms": 1793259000000,
+   "section": "",
+   "title": "כל הסודות בדרך לעוגת השמרים המושלמת"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-854d9fe3db181a1026.htm": {
    "check_attempts": 1,
@@ -32920,6 +32944,18 @@
    "published_ms": 1792659060000,
    "section": "עיצוב הבית",
    "title": "המעצבת מכפר קאסם בונה את הבתים הכי יפים במגזר"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-f14a8ebc24351a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793259266821,
+   "content_type": "article",
+   "first_seen_ms": 1793259266821,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793256000000,
+   "section": "עיצוב הבית",
+   "title": "מעצבת: על מה לא הייתי מבזבזת שקל בשיפוץ הבית"
   },
   "https://www.mako.co.il/living-architecture/local/Article-fa2f960ba5e31a1026.htm": {
    "check_attempts": 1,
@@ -44837,6 +44873,18 @@
    "section": "דיגיטל",
    "title": "\"הישראלי שהנחית את המטוס\" התגלה בתור הטרלה"
   },
+  "https://www.mako.co.il/nexter-news/Article-aa113b17c7681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793259449497,
+   "content_type": "article",
+   "first_seen_ms": 1793259449497,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793258340000,
+   "section": "דיגיטל",
+   "title": "ממדאני חטף, העסקה עם החברה הישראלית בוטלה"
+  },
   "https://www.mako.co.il/nexter-news/Article-ab4515f8bb6f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -50077,7 +50125,7 @@
    "indexnow_ms": null,
    "published_ms": 1793257620000,
    "section": "",
-   "title": "ועדת הבחירות לראש השב\"כ: יש לחקור שוחד מגורמים זרים"
+   "title": "השב\"כ בודק: סכומי עתק עברו מקטאר למצביעים בחברה הערבית"
   },
   "https://www.mako.co.il/special-mako-news/Article-ce263e40bb4d0a1026.htm": {
    "check_attempts": 1,
