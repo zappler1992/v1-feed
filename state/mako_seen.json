@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793260349583,
+ "last_run_ms": 1793260650512,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28733,6 +28733,18 @@
    "section": "בריאות",
    "title": "הרופא שלח תינוק לביתו – והוא נפטר"
   },
+  "https://www.mako.co.il/health-news/Article-d893cbfe69681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793260586979,
+   "content_type": "article",
+   "first_seen_ms": 1793260586979,
+   "indexable": true,
+   "indexnow_ms": 1793260586979,
+   "published_ms": 1793259960000,
+   "section": "בריאות",
+   "title": "\"סיכון משמעותי\": האזהרה של משרד הבריאות"
+  },
   "https://www.mako.co.il/health-news/Article-d939359e0e511a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -44919,7 +44931,7 @@
    "indexnow_ms": null,
    "published_ms": 1793258340000,
    "section": "דיגיטל",
-   "title": "ממדאני חטף, העסקה עם החברה הישראלית בוטלה"
+   "title": "בגלל ביקורת על ממדאני: העסקה עם החברה הישראלית בוטלה"
   },
   "https://www.mako.co.il/nexter-news/Article-ab4515f8bb6f0a1026.htm": {
    "check_attempts": 1,
@@ -54661,7 +54673,7 @@
    "indexnow_ms": null,
    "published_ms": 1793253360000,
    "section": "חופש",
-   "title": "זה היעד הכי מטורף שנוכל להגיע אליו בטיסה ישירה בקרוב"
+   "title": "בטיסה ישירה: זה היעד הכי מטורף שנוכל להגיע אליו בקרוב"
   },
   "https://www.mako.co.il/travel-world/Article-784fcb9ed84e0a1027.htm": {
    "check_attempts": 1,

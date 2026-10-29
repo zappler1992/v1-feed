@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5a0c4fe5d9681a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-66b93b17c7681a1026.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-69c4001c96681a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6596,7 +6597,8 @@
    "published_ms": 1793198462000,
    "sections": [
     "סלבס",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי Vיראלים"
    ],
    "title": "הסרטון של גל גדות שעורר סערה",
    "type": "general",
@@ -45583,6 +45585,24 @@
    "updated_ms": 1793100978000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5f7cb474f1d71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_C14_27102026/MASTER/Kim_C14_27102026/Kim_C14_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-66b93b17c7681a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 27,
+   "first_seen_ms": 1793260646548,
+   "image": "https://img.mako.co.il/2026/10/29/yoav_mexico_291026_1400_1793257818307_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793257920000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "\"דם על הידיים\": הסערה נגד הישראלים במקסיקו",
+   "type": "news",
+   "updated_ms": 1793257920000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-66b93b17c7681a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/yoav_mexico_291026/MASTER/yoav_mexico_291026/yoav_mexico_291026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-67b1ad3759771a1027.htm": {
    "author": "חדשות",
@@ -105753,6 +105773,24 @@
    "updated_ms": 1793021040000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-529f6c6184871a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/dor_cel_261026/MASTER/dor_cel_261026/dor_cel_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-69c4001c96681a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "לירי אלבג ששרדה 477 ימים בשבי חמאס הגיעה להתארח בפודקאסט של רומי גונן שם הן דיברו על אירועים שעברו יחד בשבי, האוכל בעזה ואיך שומרים על היגיינה בסיסית במנהרות חמאס",
+   "duration_s": 81,
+   "first_seen_ms": 1793260646548,
+   "image": "https://img.mako.co.il/2026/10/29/Amit_ROMI_LIRI_HAYGIN_M_1400_1793257199664_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793257206000,
+   "sections": [
+    "רומי גונן: הפודקאסט"
+   ],
+   "title": "החיים החדשים של רומי גונן: לירי אלבג - ככה שמרנו על היגיינה בשבי",
+   "type": "general",
+   "updated_ms": 1793257206000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-69c4001c96681a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/Amit_ROMI_LIRI_HAYGIN/MASTER/Amit_ROMI_LIRI_HAYGIN_M/Amit_ROMI_LIRI_HAYGIN_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-974f291061381a1026.htm": {
    "author": "מיוחד",
