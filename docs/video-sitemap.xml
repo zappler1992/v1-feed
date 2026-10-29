@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-d49ec023c6981a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/29/M_Music_18406_29102026085242_1400_1793307317427_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>איתי לוי אירח הערב את אופק אדנק בהיכל מנורה וביחד ביצעו את הלהיטים &quot;נתתי לך בית&quot; ו&quot;04&quot;</video:title>
+<video:description>איתי לוי אירח הערב את אופק אדנק בהיכל מנורה וביחד ביצעו את הלהיטים &quot;נתתי לך בית&quot; ו&quot;04&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18406_29102026085242/M_Music_18406_29102026085242_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>96</video:duration>
+<video:publication_date>2026-10-29T20:55:24+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-11e75a6a06981a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/29/rinat_whitehouse_291026_m_1400_1793306911961_FirstFrame.jpg</video:thumbnail_loc>
@@ -13,6 +29,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>מהעולם</video:uploader>
+<video:tag>חדשות</video:tag>
 <video:tag>מהעולם</video:tag>
 </video:video>
 </url>
