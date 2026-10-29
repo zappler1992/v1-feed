@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-311e3c50b5881a1027.htm",
-  "https://www.v-1.co.il/culture-magazine/2026-m10_w05/shorts-c5da4f1674881a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c2323c50b5881a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -89359,14 +89358,15 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-311e3c50b5881a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "פיצוצים בכביש 4: המשטרה זורקת רימוני הלם לעבר המפגינים, אלימות קשה במקום",
+   "description": "פיצוצים בכביש 4: המשטרה זורקת רימוני הלם לעבר המפגינים, אלימות קשה במקום\nצילום: יוסף כהן",
    "duration_s": 38,
    "first_seen_ms": 1793289446190,
    "image": "https://img.mako.co.il/2026/10/29/V1_rinat_hafgana_291026_7956_29102026035331_1400_1793289296951_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793289304000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "פיצוצים בכביש 4: המשטרה זורקת רימוני הלם לעבר המפגינים, אלימות קשה במקום",
    "type": "mivzakim",
@@ -92918,6 +92918,24 @@
    "updated_ms": 1793088439000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0a84bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_waserlof_7817_27102026080542/V1_karind_waserlof_7817_27102026080542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c2323c50b5881a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "73 אלף לנתניהו, 58 אלף לאיזנקוט: הסתיימה ספירת המעטפות הכפולות",
+   "duration_s": 9,
+   "first_seen_ms": 1793289746222,
+   "image": "https://img.mako.co.il/2026/10/29/M_NEWS_18391_29102026035558_1400_1793289437641_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793289444000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "73 אלף לנתניהו, 58 אלף לאיזנקוט: הסתיימה ספירת המעטפות הכפולות",
+   "type": "mivzakim",
+   "updated_ms": 1793289444000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c2323c50b5881a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18391_29102026035558/M_NEWS_18391_29102026035558_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c551810c9b381a1027.htm": {
    "author": "מבזקים",

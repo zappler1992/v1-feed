@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793289449184,
+ "last_run_ms": 1793289749219,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27544,6 +27544,18 @@
    "published_ms": 1790062620000,
    "section": "",
    "title": "תכפילו כמויות: שניצל תירס קריספי שכל הבית יעוף עליו"
+  },
+  "https://www.mako.co.il/food-tips_and_guides/beginners_cook/Recipe-3f650c8164a21a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793289626639,
+   "content_type": "recipe",
+   "first_seen_ms": 1793289626639,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793289540000,
+   "section": "הכי חם",
+   "title": "כל הסודות בדרך לעוגת השמרים המושלמת"
   },
   "https://www.mako.co.il/food-tips_and_guides/sos/Article-5413b1dedd1e0a1026.htm": {
    "check_attempts": 1,
