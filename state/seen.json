@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-6d3cc841ad881a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-82a3c841ad881a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-0003c841ad881a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -91726,6 +91727,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-81f9fb34d2781a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/M_NEWS_18378_29102026101921/M_NEWS_18378_29102026101921_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-82a3c841ad881a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט תוקף את נתניהו: \"יצא למסע מתוזמר ומאורגן ליצירת דה - לגיטימציה לתוצאות הבחירות\"",
+   "duration_s": 159,
+   "first_seen_ms": 1793298446439,
+   "image": "https://img.mako.co.il/2026/10/29/V1_GADI_7962_29102026062011_1400_1793298233277_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793298246000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט תוקף את נתניהו: \"יצא למסע מתוזמר ומאורגן ליצירת דה - לגיטימציה לתוצאות הבחירות\"",
+   "type": "mivzakim",
+   "updated_ms": 1793298246000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-82a3c841ad881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_GADI_7962_29102026062011/V1_GADI_7962_29102026062011_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-83e5590acdb71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -120466,6 +120485,24 @@
    "updated_ms": 1792848161000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w04/shorts-fd10999bc0e61a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/24/V1_SHIR_LUVER_7704_24102026012112/V1_SHIR_LUVER_7704_24102026012112_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-0003c841ad881a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "דיון בפרלמנט או זירת היאבקות: הפוליטיקאים בארמניה שיצאו משליטה",
+   "duration_s": 57,
+   "first_seen_ms": 1793298446439,
+   "image": "https://img.mako.co.il/2026/10/29/V1_armenia_7963_29102026062055_1400_1793298209354_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793298216000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "דיון בפרלמנט או זירת היאבקות: הפוליטיקאים בארמניה שיצאו משליטה",
+   "type": "mivzakim",
+   "updated_ms": 1793298216000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-0003c841ad881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_armenia_7963_29102026062055/V1_armenia_7963_29102026062055_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-15e873d26f381a1026.htm": {
    "author": "מבזקים מהעולם",
