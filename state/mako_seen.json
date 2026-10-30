@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793359948978,
+ "last_run_ms": 1793360249722,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9392,6 +9392,18 @@
    "published_ms": 1792433160000,
    "section": "ספורט",
    "title": "לתפוס את הראש: השער הענק של אסרס בלאומית"
+  },
+  "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-5322f0d8a7c81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793360187540,
+   "content_type": "article",
+   "first_seen_ms": 1793360187540,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793359020000,
+   "section": "ספורט",
+   "title": "חוזר לכדורגל: הקבוצה החדשה של אביב אברהם"
   },
   "https://www.mako.co.il/Sports-football-il/national-league-q4_2026/Article-5c00f6f3fb861a1027.htm": {
    "check_attempts": 1,
@@ -58633,7 +58645,7 @@
    "indexnow_ms": 1793347826861,
    "published_ms": 1793340000000,
    "section": "קשת 12",
-   "title": "הווידוי של רותי: \"קבוצת תמיכה אני לגמרי צריכה\""
+   "title": "רותי ברודו: \"קבוצת תמיכה אני לגמרי צריכה\""
   },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-a9cb8dd9c2221a1027.htm": {
    "check_attempts": 1,
