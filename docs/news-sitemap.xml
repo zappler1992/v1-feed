@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-1e05050472c81a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-30T09:41:31+00:00</news:publication_date>
+<news:title>טעות חייו: הנהג נמלט מהמשטרה - והתנגש בעוצמה במשאית של FedEx באיווה שבארצות הברית</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/30/V1_karind_fedex_7985_30102026094014_1400_1793353284724_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4c57f55761c81a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2033,23 +2042,5 @@
 <news:title>ההימורים של הישראלים בפולימרקט</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/28/NOAY_POLY_281026_1400_1793181046378_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-4c59c2295e181a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-28T09:45:20+00:00</news:publication_date>
-<news:title>הרס רב בזירת התנגשות הרכבות בספרד שגבתה את חייהם של 46 נוסעים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/28/V1_spainruins_7913_28102026094407_1400_1793180711452_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-c20e33a6fd181a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-28T09:43:27+00:00</news:publication_date>
-<news:title>התנגשות הרכבות הקטלנית בספרד: תיעוד חדש מהזירה</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/28/V1_spain2_7912_28102026094145_1400_1793180598932_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
