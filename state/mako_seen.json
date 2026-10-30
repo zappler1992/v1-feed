@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793341349477,
+ "last_run_ms": 1793341649563,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38787,7 +38787,7 @@
    "indexnow_ms": null,
    "published_ms": 1793336700000,
    "section": "פלילים",
-   "title": "שלחו תמונות עירום ונסחטו: \"סגרנו על 100 אלף שקל\""
+   "title": "שלחו תמונות עירום ונסחטו: \"סגרנו על 100 אלף\""
   },
   "https://www.mako.co.il/men-men_news/Article-71fafd3994641a1026.htm": {
    "check_attempts": 1,
@@ -52154,6 +52154,18 @@
    "published_ms": 1792946700000,
    "section": "",
    "title": "תושבת פריז הציגה בדמעות: השיטה החדשה של המפגינים בצרפת"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d29aa6ceb6b81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-d29aa6ceb6b81a1027.htm",
+   "checked_ms": 1793341587545,
+   "content_type": "article",
+   "first_seen_ms": 1793341587545,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793341200000,
+   "section": "",
+   "title": "תאונת דרכים קשה בין טרקטור לאוטובוס בנגב"
   },
   "https://www.mako.co.il/special-mako-news/Article-d52ad3b509471a1026.htm": {
    "check_attempts": 1,
