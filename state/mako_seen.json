@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793387250522,
+ "last_run_ms": 1793387549752,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38727,7 +38727,7 @@
    "indexnow_ms": null,
    "published_ms": 1793334180000,
    "section": "פלילים",
-   "title": "\"מושך הרבה אש\": העבריין הצעיר שמשגע את המשטרה"
+   "title": "העבריין הצעיר מקריית מלאכי שמשגע את המשטרה"
   },
   "https://www.mako.co.il/men-men_news/Article-58c1b09f53771a1026.htm": {
    "check_attempts": 1,
@@ -51879,6 +51879,18 @@
    "section": "",
    "title": "טראמפ נשאל על הבחירות בישראל: \"אולי אעשה עם זה משהו\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-6bed9480fbc81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-6bed9480fbc81a1026.htm",
+   "checked_ms": 1793387549752,
+   "content_type": "article",
+   "first_seen_ms": 1793387549752,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793379600000,
+   "section": "",
+   "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח"
+  },
   "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q3/Article-6d8db4386cfd0a1026.htm",
@@ -58310,6 +58322,18 @@
    "published_ms": 1791577740000,
    "section": "",
    "title": "\"הלשכה יצרה מצג שווא בזמן המלחמה, זו בגידה\""
+  },
+  "https://www.mako.co.il/tv-ofira_ohana_seri/articles/Article-9cb8fd38c2e81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793387549752,
+   "content_type": "article",
+   "first_seen_ms": 1793387549752,
+   "indexable": true,
+   "indexnow_ms": 1793387549752,
+   "published_ms": 1793386680000,
+   "section": "",
+   "title": "יאיר גולן על אחדות: \"בשום פנים ואופן לא\""
   },
   "https://www.mako.co.il/tv-ofira_ohana_seri/articles/Article-f2b90a892f441a1027.htm": {
    "check_attempts": 1,
