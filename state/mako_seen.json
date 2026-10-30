@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793333549378,
+ "last_run_ms": 1793333849242,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24161,6 +24161,18 @@
    "section": "כסף",
    "title": "באיזה עשירון אתם באמת, ומה זה אומר על המינוס"
   },
+  "https://www.mako.co.il/finances-magazine/money_week/Article-2ec53a4050881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793333787021,
+   "content_type": "article",
+   "first_seen_ms": 1793333787021,
+   "indexable": true,
+   "indexnow_ms": 1793333787021,
+   "published_ms": 1793333640000,
+   "section": "",
+   "title": "30% עכשיו, יותר בהמשך: איך לתזמן את הסיילים  של נובמבר"
+  },
   "https://www.mako.co.il/finances-magazine/money_week/Article-6f059b58c3461a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30339,7 +30351,7 @@
    "indexnow_ms": null,
    "published_ms": 1793264520000,
    "section": "HIX",
-   "title": "\"להיות אמא יחידנית נשואה זה קשה. בהצלחה\""
+   "title": "הודיעה על היריון – והשיבה למי שזלזלה במוגבלות של בעלה"
   },
   "https://www.mako.co.il/hix-bizarre/Article-945ea69925951a1026.htm": {
    "check_attempts": 1,
@@ -30688,6 +30700,18 @@
    "published_ms": 1791169200000,
    "section": "",
    "title": "היום תורגש התקררות, ומחר כבר נרגיש התחלה של חורף"
+  },
+  "https://www.mako.co.il/hix-nature/Article-27a98e631f881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793333787021,
+   "content_type": "article",
+   "first_seen_ms": 1793333787021,
+   "indexable": true,
+   "indexnow_ms": 1793333787021,
+   "published_ms": 1793332800000,
+   "section": "",
+   "title": "הגשם חוזר אבל עוד מעט מזג האוויר מתהפך"
   },
   "https://www.mako.co.il/hix-nature/Article-2c3af7cbda8c0a1027.htm": {
    "check_attempts": 1,
@@ -47307,7 +47331,7 @@
    "indexnow_ms": null,
    "published_ms": 1793220120000,
    "section": "גאווה",
-   "title": "הותקפה במקלות: הרצח המזעזע במדינה המוסלמית"
+   "title": "הותקפה במקלות: טרנסג'נדרית נרצחה בפקיסטן"
   },
   "https://www.mako.co.il/pride-news/Article-27bace7734f51a1026.htm": {
    "check_attempts": 1,
