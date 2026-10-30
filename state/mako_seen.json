@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793335049387,
+ "last_run_ms": 1793335349705,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13914,6 +13914,18 @@
    "published_ms": 1793305440000,
    "section": "ספורט",
    "title": "כמו דוידה. החגיגה של דאפה מול מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-f18c0c9560b81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793335349705,
+   "content_type": "article",
+   "first_seen_ms": 1793335349705,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793334900000,
+   "section": "ספורט",
+   "title": "צפו. \"רק ההתחלה\": הפועל ת\"א חוגגת תואר"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-fb9aa424d1981a1026.htm": {
    "check_attempts": 1,
@@ -47188,6 +47200,18 @@
    "published_ms": null,
    "section": "גאווה",
    "title": "הכוכבת חושפת את הנטייה המינית שלה"
+  },
+  "https://www.mako.co.il/pride-culture/Article-bc43901a71981a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793335227316,
+   "content_type": "article",
+   "first_seen_ms": 1793335227316,
+   "indexable": true,
+   "indexnow_ms": 1793335227316,
+   "published_ms": 1793332800000,
+   "section": "גאווה",
+   "title": "זוכרים אותה? \"עבדתי בלי הפסקה עד שזה נגמר\""
   },
   "https://www.mako.co.il/pride-culture/Article-c2051b568d8d0a1026.htm": {
    "check_attempts": 1,
