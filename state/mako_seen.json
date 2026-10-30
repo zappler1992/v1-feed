@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793335950037,
+ "last_run_ms": 1793336249769,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13721,7 +13721,7 @@
    "indexnow_ms": null,
    "published_ms": 1793334900000,
    "section": "ספורט",
-   "title": "\"הייתם רכים\". אכזבה גדולה במכבי ת\"א"
+   "title": "כולל אסיפה של קני מילר: ההלם במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-2d4a454cfe881a1026.htm": {
    "check_attempts": 1,
@@ -19373,6 +19373,18 @@
    "section": "תרבות tvbee",
    "title": "סרט האולי-המשך נופל מהמקור כמעט בכל הפרמטרים"
   },
+  "https://www.mako.co.il/culture-weekend/tomer-movies-reviews/Article-ffe0396f7f681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793332800000,
+   "section": "תרבות tvbee",
+   "title": "אישה מסריחה, גבר מקש: סיפור אהבה שעובד מעולה"
+  },
   "https://www.mako.co.il/entertainment-celebs/Article-1b973755e9611a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24305,6 +24317,18 @@
    "section": "חדשות",
    "title": "בנק ישראל הותיר את הריבית על כנה"
   },
+  "https://www.mako.co.il/finances-news/Article-0e6cc8d063871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793334600000,
+   "section": "כסף",
+   "title": "האמהות שהצליחו לגלגל מיליונים בחופשת לידה"
+  },
   "https://www.mako.co.il/finances-news/Article-16bf36d371c71a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28265,6 +28289,18 @@
    "section": "בריאות",
    "title": "\"הטראומה מגיעה ללא התרעה - אבל זו שליחות\""
   },
+  "https://www.mako.co.il/health-magazine/Article-95d826e226021a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793337660000,
+   "section": "בריאות",
+   "title": "בדיקת ממוגרפיה תקינה? מה חשוב לדעת עד לבדיקה"
+  },
   "https://www.mako.co.il/health-magazine/Article-a8902f4457fff91026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28324,6 +28360,18 @@
    "published_ms": 1790055060000,
    "section": "בריאות",
    "title": "למה הגב כואב דווקא בחגים – ומה כדאי לעשות"
+  },
+  "https://www.mako.co.il/health-magazine/Article-d60c5d1a9a3b0a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793337060000,
+   "section": "בריאות",
+   "title": "הורים ומורים - זה מה שעושים כשילד מדמם מהאף"
   },
   "https://www.mako.co.il/health-magazine/Article-e6fe97e283e31a1026.htm": {
    "check_attempts": 1,
@@ -29272,6 +29320,18 @@
    "published_ms": 1791965940000,
    "section": "בריאות",
    "title": "התינוק לא חוסן - ואושפז בגלל מחלה קשה"
+  },
+  "https://www.mako.co.il/health-news/Article-96c2de4e19d41a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793343960000,
+   "section": "בריאות",
+   "title": "האם בקרוב יגדלו תאי זרע במעבדה?"
   },
   "https://www.mako.co.il/health-news/Article-9936161ed3041a1026.htm": {
    "check_attempts": 1,
@@ -31409,6 +31469,18 @@
    "section": "HIX",
    "title": "\"הבטיחו לה 50 אלף דולר אם היא תעבור את המכס\""
   },
+  "https://www.mako.co.il/hix-special/Article-13d47feb22681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "HIX",
+   "title": "\"פחדתי וביקשתי מאלוהים שיגיד לי מה לעשות\""
+  },
   "https://www.mako.co.il/hix-special/Article-16d5836a8b531a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31601,6 +31673,18 @@
    "section": "HIX",
    "title": "צילמה את משפחתה באגם, ונבהלה ממה שהופיע ברקע"
   },
+  "https://www.mako.co.il/hix-special/Article-35ecab1fda281a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "HIX",
+   "title": "צולמה בארוחת הבוקר – ונעלמה בלי להשאיר עקבות"
+  },
   "https://www.mako.co.il/hix-special/Article-37f7cb1bcb621a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31612,6 +31696,18 @@
    "published_ms": 1791687600000,
    "section": "HIX",
    "title": "הותקף בידי דוב, וניצל בזכות טלפון שהתפוצץ"
+  },
+  "https://www.mako.co.il/hix-special/Article-3b42a242b5681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "HIX",
+   "title": "15 שנה אחרי: תפנית בחקירת הרצח של מישל פארקר"
   },
   "https://www.mako.co.il/hix-special/Article-3e52d24e4b611a1027.htm": {
    "check_attempts": 1,
@@ -33113,6 +33209,18 @@
    "section": "הורים",
    "title": "מי שחכם מבין שהתשובה הראשונה שלו שגויה"
   },
+  "https://www.mako.co.il/home-family-kids/Article-5ce5c295e3771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336187496,
+   "content_type": "article",
+   "first_seen_ms": 1793336187496,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793335140000,
+   "section": "הורים",
+   "title": "96% מהפותרים לא מצליחים להבין את החידה"
+  },
   "https://www.mako.co.il/home-family-kids/Article-668d0dc7fc111a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33617,6 +33725,18 @@
    "section": "הורים",
    "title": "צלב קרס צויר בביה\"ס, הקהילה החליטה לא לשתוק"
   },
+  "https://www.mako.co.il/home-family-relationship/Article-78506c6184871a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336187496,
+   "content_type": "article",
+   "first_seen_ms": 1793336187496,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793337060000,
+   "section": "הורים",
+   "title": "בג'יפים במדבר, אחים שכולים לומדים לדבר מהבטן"
+  },
   "https://www.mako.co.il/home-family-relationship/Article-7ec417abf7ce0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33797,6 +33917,18 @@
    "section": "הורים",
    "title": "\"אנחנו ביחד כבר כמה חודשים, ועוד לא שכבנו\""
   },
+  "https://www.mako.co.il/home-family-relationship/couples-in-test/Article-d508c9bff8281a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336187496,
+   "content_type": "article",
+   "first_seen_ms": 1793336187496,
+   "indexable": true,
+   "indexnow_ms": 1793336187496,
+   "published_ms": 1793282760000,
+   "section": "הורים",
+   "title": "\"מיד חיפשתי את הגבר הבא. רק עשיר, כמובן\""
+  },
   "https://www.mako.co.il/home-family-relationship/couples-in-test/Article-f480be9259511a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33856,6 +33988,18 @@
    "published_ms": 1792089840000,
    "section": "עיצוב הבית",
    "title": "חמסה: וילה נוטפת סטייל למשפחה עם 8 ילדים"
+  },
+  "https://www.mako.co.il/living-architecture/local-renovation/Article-55f5fe8814261a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793281500000,
+   "section": "עיצוב הבית",
+   "title": "חלמה על לופט ניו-יורקי ובנתה אותו באבן יהודה"
   },
   "https://www.mako.co.il/living-architecture/local-renovation/Article-6e79c0d43dec0a1026.htm": {
    "check_attempts": 1,
@@ -34924,6 +35068,18 @@
    "published_ms": 1790485200000,
    "section": "עיצוב הבית",
    "title": "אחרי הדרמות: בבית השובב של אורי בנאי ואנה גופמן"
+  },
+  "https://www.mako.co.il/living-rooms/living-room/Article-8d97ecb39d7c0a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793281800000,
+   "section": "עיצוב הבית",
+   "title": "ויתרו על מסך הטלוויזיה בסלון - והפתרון המהמם"
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-99b0928e2b411a1026.htm": {
    "check_attempts": 1,
@@ -45149,6 +45305,18 @@
    "section": "",
    "title": "אחרי שהאשימה את ישראל: הצעד הדרמטי נגד התובעת מהאג"
   },
+  "https://www.mako.co.il/nexter-guide/Article-3537db49a3381a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793282220000,
+   "section": "דיגיטל",
+   "title": "בדקנו את האייפון המתקפל: שווה 8,000 שקל?"
+  },
   "https://www.mako.co.il/nexter-guide/Article-485fe778a8e31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45556,6 +45724,18 @@
    "published_ms": 1792930320000,
    "section": "דיגיטל",
    "title": "גם ההאקרים נערכו לבחירות: ההודעה הזדונית שנשלחה לרבים"
+  },
+  "https://www.mako.co.il/nexter-news/Article-2c249d785a781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793281620000,
+   "section": "דיגיטל",
+   "title": "\"התחלתי לקרצף ספות ותוך כדי להעלות סטוריז\""
   },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
@@ -46060,6 +46240,18 @@
    "published_ms": 1792125540000,
    "section": "",
    "title": "מאסק חשף את \"הטסלה המעופפת\""
+  },
+  "https://www.mako.co.il/nexter-news/Article-79bb55f6ee771a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "דיגיטל",
+   "title": "\"בזכות ה-AI, אני עובדת היום כמו ארבע גלי\""
   },
   "https://www.mako.co.il/nexter-news/Article-7b8c5879c8681a1026.htm": {
    "check_attempts": 1,
@@ -46793,6 +46985,18 @@
    "section": "דיגיטל",
    "title": "\"העליתי את הסרטון, בבוקר היו מאות אלפי צפיות\""
   },
+  "https://www.mako.co.il/nexter-news/Article-e43b2be2f8781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793332800000,
+   "section": "דיגיטל",
+   "title": "כמו כל הבורסה של ת\"א: הקיצוץ שמאיים על כולנו"
+  },
   "https://www.mako.co.il/nexter-news/Article-e4fa4b0c0da21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47152,6 +47356,18 @@
    "published_ms": 1793080800000,
    "section": "הורים",
    "title": "\"יש משהו בתינוק שמעורר את החוסר בסבתא\""
+  },
+  "https://www.mako.co.il/ninemonth-birth/Article-6f74c8a89c681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336187496,
+   "content_type": "article",
+   "first_seen_ms": 1793336187496,
+   "indexable": true,
+   "indexnow_ms": 1793336187496,
+   "published_ms": 1793284620000,
+   "section": "הורים",
+   "title": "\"פחדו לשאול על הבת שלי. השתיקה כאבה יותר\""
   },
   "https://www.mako.co.il/ninemonth-birth/Article-6f8b261845e31a1027.htm": {
    "check_attempts": 1,
@@ -48689,6 +48905,18 @@
    "section": "צבא וביטחון",
    "title": "בארה\"ב שומרים על עמימות: אירוע חריג בלב ים"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-66a7756b4d781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "צבא וביטחון",
+   "title": "המדינה המפתיעה ששוקלת רכש ביטחוני מישראל"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-68811f61762d0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -49780,6 +50008,18 @@
    "published_ms": 1791092700000,
    "section": "",
    "title": "השב\"כ מעורב: מעצר התייר סמוך למתקן הרגיש"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-fc6c96dcac881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332860000,
+   "section": "צבא וביטחון",
+   "title": "מה יכולה ישראל להשיג מתקיפה נוספת באיראן?"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-fd1f77b55d601a1027.htm": {
    "check_attempts": 1,
@@ -58203,6 +58443,18 @@
    "section": "תרבות tvbee",
    "title": "סולימאן מסוודה התרסק ברגע. אבל זה לא הסיפור"
   },
+  "https://www.mako.co.il/tvbee-articles/see_it_all/Article-789a4e8209781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793336067641,
+   "content_type": "article",
+   "first_seen_ms": 1793336067641,
+   "indexable": true,
+   "indexnow_ms": 1793336067641,
+   "published_ms": 1793332800000,
+   "section": "תרבות tvbee",
+   "title": "הניסוי של \"מה קשור\" לא נכשל. סתם פספסתם אותו"
+  },
   "https://www.mako.co.il/tvbee-articles/see_it_all/Article-b82128adc37f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -59737,7 +59989,7 @@
    "indexnow_ms": 1790910748433,
    "published_ms": 1790910000000,
    "section": "תרבות tvbee",
-   "title": "לצד הכוכב העולה: יהודה לוי חוזר לקצה העולם"
+   "title": "אסי כהן חוזר, מתפשט, מתחתן ומסתבך. לא תבואו?"
   },
   "https://www.mako.co.il/tvbee-tvbee-highlights/Article-abc4603ae980a61006.htm": {
    "check_attempts": 1,
