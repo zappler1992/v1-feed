@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cdc420a6e8e81a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7612e5bce6d81a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5bc0e5bce6d81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46364,7 +46365,8 @@
    "importance": 2,
    "published_ms": 1793379952000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "המתיחות מול איראן: עושים סדר בשמועות",
    "type": "news",
@@ -46887,6 +46889,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5a8ef65b10c71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/Kim_Wedding_27102026/MASTER/Kim_Wedding_27102026/Kim_Wedding_27102026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5bc0e5bce6d81a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מה שנראה כמו ניצחון ברור הפך לתמונה פוליטית אחרת לגמרי. דפנה ליאל עם הדרמה מאחורי המספרים: איך ירד גוש נתניהו מ-64 ל-53 מנדטים, אילו שינויים הובילו למהפך ומה המשמעות של התוצאה למאבק על הקמת הממשלה. מתוך חדשות 12.",
+   "duration_s": 57,
+   "first_seen_ms": 1793395945897,
+   "image": "https://img.mako.co.il/2026/10/30/yoav_dafna_301026_1400_1793376209493_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793376300000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "11 מנדטים פחות: מה קרה לגוש נתניהו",
+   "type": "news",
+   "updated_ms": 1793376300000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5bc0e5bce6d81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/yoav_dafna_301026/MASTER/yoav_dafna_301026/yoav_dafna_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-5caabf58a6e81a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -47102,6 +47122,24 @@
    "updated_ms": 1793374512000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-741038d066d81a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/inbie_dvori_301026/MASTER/inbie_dvori_301026/inbie_dvori_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7612e5bce6d81a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "תיעודים מפחידים של הטרדות בחולון רצות בקבוצת פייסבוק מקומית. נשים מזהירות אחת את השניה ממנו ומספרות את הסיפורים האישיים והמטרידים שחוו בגללו.",
+   "duration_s": 22,
+   "first_seen_ms": 1793395945897,
+   "image": "https://img.mako.co.il/2026/10/30/inbie_matrid_301026_1400_1793376626755_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793376633000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "התיעודים המפחידים מחולון: גבר מטריד צעירות ורודף אחריהן",
+   "type": "news",
+   "updated_ms": 1793376633000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7612e5bce6d81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/inbie_matrid_301026/MASTER/inbie_matrid_301026/inbie_matrid_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-7b7a411fb3471a1026.htm": {
    "author": "חדשות",
@@ -47656,7 +47694,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cdc420a6e8e81a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "אפשר בתוכנית \"רב הנסתר על הגלוי\" של אל-ג'זירה, פרסמותיעוד מישיבה של מפקדי הזרוע הצבאית בארגון הטרור חמאס, שחוסלו במהלך המלחמה. בין המצולמים: מפקד הזרוע הצבאית מוחמד דף, סגנו, מרוואן עיסא, מוחמד סינוואר ובכירים נוספים",
+   "description": "בתוכנית \"רב הנסתר על הגלוי\" של אל-ג'זירה, פרסמו תיעוד מישיבה של מפקדי הזרוע הצבאית בארגון הטרור חמאס, שחוסלו במהלך המלחמה. בין המצולמים: מפקד הזרוע הצבאית מוחמד דף, סגנו, מרוואן עיסא, מוחמד סינוואר ובכירים נוספים",
    "duration_s": 68,
    "first_seen_ms": 1793395345890,
    "image": "https://img.mako.co.il/2026/10/30/inbie_hamas_301026_1400_1793394576782_FirstFrame.jpg",
