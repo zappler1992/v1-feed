@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-779fe30614c81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eb2c177805c81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -94035,14 +94035,14 @@
    "duration_s": 7,
    "first_seen_ms": 1793354845850,
    "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18428_30102026100424_1400_1793354742381_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793354749000,
    "sections": [
     "מבזקים"
    ],
    "title": "רכב התנגש בחנות בביג קריות",
    "type": "mivzakim",
-   "updated_ms": 1793354749000,
+   "updated_ms": 1793355960000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0d9e30614c81a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18428_30102026100424/M_NEWS_18428_30102026100424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -95057,6 +95057,24 @@
    "updated_ms": 1793035156000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ea8add7643971a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_SYRIA_7792_26102026051756/V1_SYRIA_7792_26102026051756_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eb2c177805c81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב התנגש בחנות בביג קריות, שתי נשים נפצעו בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1793356345916,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18430_30102026102450_1400_1793355985084_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793355992000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב התנגש בחנות בביג קריות, שתי נשים נפצעו בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1793355992000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-eb2c177805c81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18430_30102026102450/M_NEWS_18430_30102026102450_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ecd7672139981a1026.htm": {
    "author": "מבזקים",
