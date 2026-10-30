@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793380650836,
+ "last_run_ms": 1793381550298,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43408,6 +43408,18 @@
    "published_ms": 1791290160000,
    "section": "מוזיקה",
    "title": "בעקבות הריאליטי: הילדים של קוקו מתפוצצים עם הישג ענק"
+  },
+  "https://www.mako.co.il/music-news/Article-e2ac3a4050881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793381550298,
+   "content_type": "article",
+   "first_seen_ms": 1793381550298,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793380800000,
+   "section": "מוזיקה",
+   "title": "זה מה שקורה כשמלון ביוון הופך לפסטיבל של ישראלים"
   },
   "https://www.mako.co.il/music-news/Article-e3b437828d6e0a1026.htm": {
    "check_attempts": 1,
