@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4c57f55761c81a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-30T09:15:12+00:00</news:publication_date>
+<news:title>משרד הבריאות מזהיר: אל תאכלו את מוצרי השוקולד האלו</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/30/MAYA_chocolate_301026_1400_1793351706149_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a6c6ba529eb81a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2087,14 +2096,5 @@
 <news:title>קלואי קרדשיאן יודעת? כוכב ה-NBA לשעבר למאר אודום פתח אונליפנס</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/28/M_Celebs_18307_28102026092104_1400_1793179577789_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-3b33b8be6c181a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-28T09:21:13+00:00</news:publication_date>
-<news:title>דנה זרמון: ״לאף אחד אין רוב כי העם הזה מפולג. המנהיגים שלנו שכחו לקבל אחד את השני&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/28/M_Celebs_18306_28102026090933_1400_1793179267131_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
