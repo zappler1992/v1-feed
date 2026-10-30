@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-742525ae1ad81a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9172da255ed81a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ed90164dbfd81a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47160,6 +47161,22 @@
    "updated_ms": 1793122461000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-91616c0916e71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/SHIR_URIG_271026/MASTER/SHIR_URIG_271026/SHIR_URIG_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9172da255ed81a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "חודש אחרי הדרמה בטיסת פליי דובאי לישראל, נחשפת זהותם של שני הטייסים שעלו למטוס כנוסעים ומצאו את עצמם מצילים אותו מהתרסקות. אחרי שטייס המשנה תקף את הקברניט והמטוס החל לצלול, הנסון סטיבן מפיג'י ורואן טות' מדרום אפריקה השתלטו על ההגאים והצליחו להנחית אותו בשלום בסעודיה. השבוע זכו השניים לאות הוקרה יוקרתי באיחוד האמירויות, לצד הקברניט שנפצע בתקיפה.",
+   "duration_s": 28,
+   "first_seen_ms": 1793385146552,
+   "image": "https://img.mako.co.il/2026/10/30/FIX_yoav_pilots_301026_1400_1793384207436_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793384160000,
+   "sections": [],
+   "title": "חודש אחרי הדרמה בפליי דובאי: הגיבורים נחשפים",
+   "type": "news",
+   "updated_ms": 1793384160000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-9172da255ed81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/FIX_yoav_pilots_301026/FIX_yoav_pilots_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-943b2c4451871a1026.htm": {
    "author": "חדשות",
@@ -95623,6 +95640,24 @@
    "updated_ms": 1793155604000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ed31a64e95081a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_STIV_natbag_7897_28102026024524/V1_STIV_natbag_7897_28102026024524_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ed90164dbfd81a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הלכה לעולמה מור שמלי, אלמנתו של אלון ז\"ל, שנרצח בפיגוע באלכסנדריה",
+   "duration_s": 12,
+   "first_seen_ms": 1793385146552,
+   "image": "https://img.mako.co.il/2026/10/30/V1_MOR_7995_30102026062750_1400_1793384929900_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793384936000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הלכה לעולמה מור שמלי, אלמנתו של אלון ז\"ל, שנרצח בפיגוע באלכסנדריה",
+   "type": "mivzakim",
+   "updated_ms": 1793384936000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ed90164dbfd81a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_MOR_7995_30102026062750/V1_MOR_7995_30102026062750_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-edde06c89d181a1027.htm": {
    "author": "מבזקים",
