@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793390249652,
+ "last_run_ms": 1793390549634,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21484,6 +21484,18 @@
    "published_ms": 1790254800000,
    "section": "סלבס",
    "title": "80 קילו פחות: אשתו של שלומי יפרח מציגה מהפך"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf1a7cde45e81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793390427437,
+   "content_type": "article",
+   "first_seen_ms": 1793390427437,
+   "indexable": true,
+   "indexnow_ms": 1793390427437,
+   "published_ms": 1793389440000,
+   "section": "",
+   "title": "\"כתשו אותי, הפכו אותי למחבל, תומך טרור\""
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf7dd90380dc0a1026.htm": {
    "check_attempts": 1,
@@ -43948,6 +43960,18 @@
    "published_ms": 1792761900000,
    "section": "קשת 12",
    "title": "\"הסלבס מרשים לעצמם להתנהג שם אחרת\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-bf1a7cde45e81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-bf1a7cde45e81a1026.htm",
+   "checked_ms": 1793390307426,
+   "content_type": "article",
+   "first_seen_ms": 1793390307426,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793389440000,
+   "section": "",
+   "title": "\"כתשו אותי, הפכו אותי למחבל, תומך טרור\""
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-bfb6a435e2371a1026.htm": {
    "check_attempts": 1,
