@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793352448832,
+ "last_run_ms": 1793352748632,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34012,6 +34012,18 @@
    "published_ms": 1793264700000,
    "section": "הורים",
    "title": "\"כולם אמרו שאני חזק. לא שאלו אם נשאר לי כוח\""
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-faac87d57cb81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793352627017,
+   "content_type": "article",
+   "first_seen_ms": 1793352627017,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793352540000,
+   "section": "הכי חם",
+   "title": "\"ניצחון של החיים\": שורדי השבי על הנכדה החדשה"
   },
   "https://www.mako.co.il/home-family-relationship/couples-in-test/Article-23c8331b3cec0a1026.htm": {
    "check_attempts": 1,
