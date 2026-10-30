@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793393848932,
+ "last_run_ms": 1793394149048,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -59906,6 +59906,18 @@
    "published_ms": 1791280680000,
    "section": "",
    "title": "השאלה שעצבנה את עמית סגל בשידור"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-72b1bf58a6e81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793394149048,
+   "content_type": "article",
+   "first_seen_ms": 1793394149048,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793391840000,
+   "section": "",
+   "title": "\"אמרתי לו 'אני שורפת את העסקים שלנו'\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-755898a7951e0a1026.htm": {
    "check_attempts": 1,
