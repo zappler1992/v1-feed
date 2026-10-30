@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793370749168,
+ "last_run_ms": 1793371049481,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10770,6 +10770,18 @@
    "published_ms": 1792651860000,
    "section": "ספורט",
    "title": "זוארץ שלח התראה לפני תביעה לפריג`"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4021bed3c2d81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793370987488,
+   "content_type": "article",
+   "first_seen_ms": 1793370987488,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793370720000,
+   "section": "ספורט",
+   "title": "\"עישנתי גראס בעונת האליפות של מכבי ת\"א\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-40b0c9b5aa971a1026.htm": {
    "check_attempts": 1,
