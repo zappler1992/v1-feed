@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793343149705,
+ "last_run_ms": 1793343449621,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52165,7 +52165,7 @@
    "indexnow_ms": null,
    "published_ms": 1793341200000,
    "section": "",
-   "title": "אוטובוס שהסיע ילדים התנגש בטרקטור, נהג נפצע אנוש"
+   "title": "אוטובוס שהסיע ילדים התנגש בטרקטור, הנהג נהרג"
   },
   "https://www.mako.co.il/special-mako-news/Article-d52ad3b509471a1026.htm": {
    "check_attempts": 1,
@@ -58118,6 +58118,18 @@
    "published_ms": 1792724400000,
    "section": "קשת 12",
    "title": "\"עשיתי, אבל לא מבינה בזה\""
+  },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-69d92b6137111a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793343449621,
+   "content_type": "article",
+   "first_seen_ms": 1793343449621,
+   "indexable": true,
+   "indexnow_ms": 1793343449621,
+   "published_ms": 1793340000000,
+   "section": "",
+   "title": "\"אדבר על משהו שלא דיברתי וזה מלחיץ אותי\""
   },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-6a626bed11381a1027.htm": {
    "check_attempts": 1,
