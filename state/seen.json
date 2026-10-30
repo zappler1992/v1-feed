@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-f26e177805c81a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6b24ec53e7b81a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46595,6 +46595,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-67b1ad3759771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_THAILAND_261026/MASTER/SHIR_THAILAND_261026/SHIR_THAILAND_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6b24ec53e7b81a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "נסעו בכביש 1 וחטפו סלע לתוך השמשה - השמשה נופצה לגמרי והם עצרו בצד הדרך, שם גילו שאנונימי השליך את האבן מהר המנוחות. מתוך \"שישי בבוקר עם גלית ויואב\", קשת 12",
+   "duration_s": 75,
+   "first_seen_ms": 1793356945927,
+   "image": "https://img.mako.co.il/2026/10/30/MAYA_KVISH1_301026_1400_1793342803692_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793342810000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "נסעו בכביש 1 - וחטפו סלע לתוך השמשה",
+   "type": "news",
+   "updated_ms": 1793342810000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6b24ec53e7b81a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/MAYA_KVISH1_301026/MASTER/MAYA_KVISH1_301026/MAYA_KVISH1_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-6ba7bd17b7371a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -47519,7 +47537,9 @@
    "image": "https://img.mako.co.il/2026/10/30/MAYA_DELEK_301026_1400_1793346549152_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793346556000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מחירי הדלק עולים - שוב",
    "type": "news",
    "updated_ms": 1793346556000,
