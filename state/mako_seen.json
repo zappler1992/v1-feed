@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793365049093,
+ "last_run_ms": 1793365349004,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11694,6 +11694,18 @@
    "published_ms": 1792439820000,
    "section": "ספורט",
    "title": "\"אם בית\"ר ישלחו לי חוזה, אחתום בשמחה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-85d59a16fbc81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793365349004,
+   "content_type": "article",
+   "first_seen_ms": 1793365349004,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793365020000,
+   "section": "ספורט",
+   "title": "כבר אמר \"כן\": כך נפל מעבר יובטיץ` לחיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-86fe742b1ed51a1026.htm": {
    "check_attempts": 1,
