@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793400749168,
+ "last_run_ms": 1793401050059,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2468,6 +2468,18 @@
    "published_ms": 1793363640000,
    "section": "ספורט",
    "title": "בכורה בדרבי? בלאט הודיע שהוא כשיר למכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-e09a4ccd3fe81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793400987020,
+   "content_type": "article",
+   "first_seen_ms": 1793400987020,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793400840000,
+   "section": "ספורט",
+   "title": "\"רצו גארד זול\": נחשפה התכתבות עם קולדבלה"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-e1050eb308871a1026.htm": {
    "check_attempts": 1,
