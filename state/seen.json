@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-f5cf35ae71d81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f24bed3c2d81a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2402bed3c2d81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6375,7 +6376,8 @@
    "importance": 2,
    "published_ms": 1793358245000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "רותי ברודו בווידוי: הרגע בו הבנתי שבעלי בוגד בי",
    "type": "general",
@@ -18386,6 +18388,24 @@
    "updated_ms": 1793089634000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-23c44bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18215_27102026082602/M_Celebs_18215_27102026082602_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2402bed3c2d81a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מעיין אדם משתפת בשידור כמה כסף שם חיים אתגר בברית של בנה עיתו וחושפת בטעות איך הגיבה",
+   "duration_s": 72,
+   "first_seen_ms": 1793371946397,
+   "image": "https://img.mako.co.il/2026/10/30/M_Tarbut_18446_30102026023419_1400_1793371046236_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793371052000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מעיין אדם משתפת בשידור כמה כסף שם חיים אתגר בברית של בנה עיתו וחושפת בטעות איך הגיבה",
+   "type": "mivzakim",
+   "updated_ms": 1793371052000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2402bed3c2d81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18446_30102026023419/M_Tarbut_18446_30102026023419_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-25bb6aae55781a1026.htm": {
    "author": "עדכוני בידור",
@@ -47575,7 +47595,8 @@
    "importance": 2,
    "published_ms": 1793354116000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "העיר לנער שדרס אותו עם אופניים – ונדקר בגבו",
    "type": "news",
@@ -93397,6 +93418,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9e9a241de2771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/SHIR_MURDER_261026_1/SHIR_MURDER_261026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f24bed3c2d81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שבוע בלבד לאחר ההיתקלות בצומת יהודה: צה\"ל הרס את בתיהם של שני המחבלים שחוסלו",
+   "duration_s": 16,
+   "first_seen_ms": 1793371946397,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18447_30102026024525_1400_1793371611456_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793371618000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שבוע בלבד לאחר ההיתקלות בצומת יהודה: צה\"ל הרס את בתיהם של שני המחבלים שחוסלו",
+   "type": "mivzakim",
+   "updated_ms": 1793371618000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f24bed3c2d81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18447_30102026024525/M_NEWS_18447_30102026024525_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f254752ecb71a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -122027,7 +122066,8 @@
    "importance": 0,
    "published_ms": 1793357511000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כן, זה רחוב אוקספורד בלונדון: תיעוד מהכאוס הענק - אחרי ההחלטה להפוך אותו למדרחוב",
    "type": "mivzakim",

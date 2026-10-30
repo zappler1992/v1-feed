@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9f24bed3c2d81a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/30/M_NEWS_18447_30102026024525_1400_1793371611456_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>שבוע בלבד לאחר ההיתקלות בצומת יהודה: צה&quot;ל הרס את בתיהם של שני המחבלים שחוסלו</video:title>
+<video:description>שבוע בלבד לאחר ההיתקלות בצומת יהודה: צה&quot;ל הרס את בתיהם של שני המחבלים שחוסלו</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18447_30102026024525/M_NEWS_18447_30102026024525_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>16</video:duration>
+<video:publication_date>2026-10-30T14:46:58+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-2402bed3c2d81a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/10/30/M_Tarbut_18446_30102026023419_1400_1793371046236_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מעיין אדם משתפת בשידור כמה כסף שם חיים אתגר בברית של בנה עיתו וחושפת בטעות איך הגיבה</video:title>
+<video:description>מעיין אדם משתפת בשידור כמה כסף שם חיים אתגר בברית של בנה עיתו וחושפת בטעות איך הגיבה</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18446_30102026023419/M_Tarbut_18446_30102026023419_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>72</video:duration>
+<video:publication_date>2026-10-30T14:37:32+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-345235ae71d81a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/10/30/M_NEWS_18445_30102026021846_1400_1793369983480_FirstFrame.jpg</video:thumbnail_loc>
@@ -289,6 +321,7 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -323,6 +356,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -435,6 +469,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
