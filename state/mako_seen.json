@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793352748632,
+ "last_run_ms": 1793353048782,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13902,6 +13902,18 @@
    "published_ms": 1793279520000,
    "section": "ספורט",
    "title": "\"הוא נסוג\". הדרמה בצירוף הבינגו של הפועל"
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-7b1f87d57cb81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793352987042,
+   "content_type": "article",
+   "first_seen_ms": 1793352987042,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793352720000,
+   "section": "ספורט",
+   "title": "גוש השינוי: הפועל הפסיקה להיות פראיירית"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-88209d6197781a1026.htm": {
    "check_attempts": 1,
@@ -38895,7 +38907,7 @@
    "indexnow_ms": null,
    "published_ms": 1793336700000,
    "section": "פלילים",
-   "title": "שלחו תמונות עירום ונסחטו: \"סגרנו על 100 אלף\""
+   "title": "שלחו תמונות עירום ונסחטו: \"סגרנו על 100 אלף שקל\""
   },
   "https://www.mako.co.il/men-men_news/Article-71fafd3994641a1026.htm": {
    "check_attempts": 1,
@@ -56905,7 +56917,7 @@
    "indexnow_ms": null,
    "published_ms": 1793338620000,
    "section": "חופש",
-   "title": "מלון היוקרה היה פעם מפקדה נאצית. זה מה שקורה שם היום"
+   "title": "עבר הכל: מלון היוקרה שהפך ממפקדה נאצית למקלט ליהודים"
   },
   "https://www.mako.co.il/travel-world/Article-7691a89283681a1027.htm": {
    "check_attempts": 1,
