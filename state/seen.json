@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-1e05050472c81a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0d9e30614c81a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e310ae0aa3c81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47398,6 +47399,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e2939940ef171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/rinat_bigbrother_251026/MASTER/rinat_bigbrother_251026_m/rinat_bigbrother_251026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e310ae0aa3c81a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "גבר מאשדוד נפגע מקטין שרכב על אופניים בעת שהיה בדרכו לאסוף את ילדיו. כשהעיר לרוכב, חבורת הקטינים תקפה אותו - אחד ריסס גז פלפל ואחר דקר אותו בגבו.",
+   "duration_s": 67,
+   "first_seen_ms": 1793354845850,
+   "image": "https://img.mako.co.il/2026/10/30/MAYA_ASDOD_301026_1400_1793354109962_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793354116000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "העיר לנער שדרס אותו עם אופניים – ונדקר בגבו",
+   "type": "news",
+   "updated_ms": 1793354116000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e310ae0aa3c81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/MAYA_ASDOD_301026/MASTER/MAYA_ASDOD_301026/MAYA_ASDOD_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-e4b9ab1bcb771a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -94009,6 +94028,24 @@
    "updated_ms": 1793088439000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0a84bf156c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_waserlof_7817_27102026080542/V1_karind_waserlof_7817_27102026080542_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0d9e30614c81a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רכב התנגש בחנות בביג קריות",
+   "duration_s": 7,
+   "first_seen_ms": 1793354845850,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18428_30102026100424_1400_1793354742381_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793354749000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רכב התנגש בחנות בביג קריות",
+   "type": "mivzakim",
+   "updated_ms": 1793354749000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c0d9e30614c81a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18428_30102026100424/M_NEWS_18428_30102026100424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-c2323c50b5881a1027.htm": {
    "author": "מבזקים",
