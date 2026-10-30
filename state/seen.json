@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-00eaa23504b81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5afde31c04b81a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d631a23504b81a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -91086,6 +91087,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-597836f190f71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_HAGIGOT_7870_27102026082326/V1_HAGIGOT_7870_27102026082326_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5afde31c04b81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תוצאות סופיות בצל החקירה, התוכנית של איזנקוט והפריצה לבורסת הקריפטו: אלו הן הכותרות של הבוקר",
+   "duration_s": 44,
+   "first_seen_ms": 1793338946692,
+   "image": "https://img.mako.co.il/2026/10/30/V1_KOTAROT_7973_30102026053747_1400_1793338746012_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793338753000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תוצאות סופיות בצל החקירה, התוכנית של איזנקוט והפריצה לבורסת הקריפטו: אלו הן הכותרות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1793338753000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5afde31c04b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_KOTAROT_7973_30102026053747/V1_KOTAROT_7973_30102026053747_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5d1dce134dd71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -121482,6 +121501,24 @@
    "updated_ms": 1793013122000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-cd47b164ed771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_germany_7788_26102026111026/V1_karind_germany_7788_26102026111026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d631a23504b81a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הר הגעש התפרץ במחוז אלביי שבפיליפינים - ענן אפר כיסה את השמיים | צפו",
+   "duration_s": 23,
+   "first_seen_ms": 1793338946692,
+   "image": "https://img.mako.co.il/2026/10/30/V1_karind_Philippines_7972_30102026053545_1400_1793338625844_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793338636000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הר הגעש התפרץ במחוז אלביי שבפיליפינים - ענן אפר כיסה את השמיים | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793338636000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d631a23504b81a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_Philippines_7972_30102026053545/V1_karind_Philippines_7972_30102026053545_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-fc64427824281a1026.htm": {
    "author": "מבזקים מהעולם",
