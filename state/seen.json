@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-12c563af3ad81a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-742525ae1ad81a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19305,6 +19305,24 @@
    "updated_ms": 1793254271000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-71b8f63484681a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18360_29102026060338/M_Tarbut_18360_29102026060338_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-742525ae1ad81a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מעיין אדם חושפת שרצתה להשתתף ב\"הזמר במסכה\" - וסורבה: \"כולם אמרו לי בשום פנים ואופן לא\"",
+   "duration_s": 30,
+   "first_seen_ms": 1793380646828,
+   "image": "https://img.mako.co.il/2026/10/30/M_Tarbut_18450_30102026051058_1400_1793380354617_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793380361000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מעיין אדם חושפת שרצתה להשתתף ב\"הזמר במסכה\" - וסורבה: \"כולם אמרו לי בשום פנים ואופן לא\"",
+   "type": "mivzakim",
+   "updated_ms": 1793380361000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-742525ae1ad81a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18450_30102026051058/M_Tarbut_18450_30102026051058_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-74f6cea538771a1027.htm": {
    "author": "עדכוני בידור",
@@ -46948,7 +46966,9 @@
    "image": "https://img.mako.co.il/2026/10/30/inbie_dvori_301026_1400_1793374504303_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793374512000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "חשד להתערבות קטרית בבחירות: המוסד נכנס לחקירה לבקשת השב\"כ",
    "type": "news",
    "updated_ms": 1793374512000,
