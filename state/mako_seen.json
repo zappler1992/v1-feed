@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793382449590,
+ "last_run_ms": 1793383350289,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6884,6 +6884,18 @@
    "published_ms": 1793336700000,
    "section": "ספורט",
    "title": "ההסבר לאי שיתופם של תייס וליף בהפסד מכבי"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-fc1cda255ed81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793383350289,
+   "content_type": "article",
+   "first_seen_ms": 1793383350289,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793382900000,
+   "section": "ספורט",
+   "title": "הייז למכבי ת\"א? סוכנו צינן: \"פייק ניוז\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-fd21c4780c951a1027.htm": {
    "check_attempts": 1,
