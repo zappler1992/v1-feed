@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793380049561,
+ "last_run_ms": 1793380349479,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52814,6 +52814,18 @@
    "published_ms": 1791009540000,
    "section": "",
    "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ec6a76efd7181a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-ec6a76efd7181a1026.htm",
+   "checked_ms": 1793380349479,
+   "content_type": "article",
+   "first_seen_ms": 1793380349479,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793380080000,
+   "section": "",
+   "title": "ישראל בפלונטר, והכדור נמצא כרגע בידיו של אדם אחד"
   },
   "https://www.mako.co.il/special-mako-news/Article-ec780197bd3e0a1026.htm": {
    "check_attempts": 1,
