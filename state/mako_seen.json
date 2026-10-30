@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793393548926,
+ "last_run_ms": 1793393848932,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -51962,6 +51962,18 @@
    "published_ms": 1793379600000,
    "section": "",
    "title": "איראן מגבירה את הלחץ, וחלון ההזדמנויות לתקיפה נפתח"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-6caf7cde45e81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-6caf7cde45e81a1026.htm",
+   "checked_ms": 1793393787622,
+   "content_type": "article",
+   "first_seen_ms": 1793393787622,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793390820000,
+   "section": "",
+   "title": "שוטרים השתלטו על ביהמ\"ש החוקתי וסילקו את הנשיא"
   },
   "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
