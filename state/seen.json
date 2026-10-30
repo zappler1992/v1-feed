@@ -1,11 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-7148dcb999e81a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-64a7c5c958e81a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b927c5c958e81a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-358e20a6e8e81a1027.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ae1220a6e8e81a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cdc420a6e8e81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46367,7 +46363,9 @@
    "image": "https://img.mako.co.il/2026/10/30/inbie_iran_301026_1400_1793379945105_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793379952000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "המתיחות מול איראן: עושים סדר בשמועות",
    "type": "news",
    "updated_ms": 1793379952000,
@@ -47654,6 +47652,24 @@
    "updated_ms": 1792917387000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-c782083cf2271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_YANA_251026/MASTER/SHIR_YANA_251026/SHIR_YANA_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cdc420a6e8e81a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "אפשר בתוכנית \"רב הנסתר על הגלוי\" של אל-ג'זירה, פרסמותיעוד מישיבה של מפקדי הזרוע הצבאית בארגון הטרור חמאס, שחוסלו במהלך המלחמה. בין המצולמים: מפקד הזרוע הצבאית מוחמד דף, סגנו, מרוואן עיסא, מוחמד סינוואר ובכירים נוספים",
+   "duration_s": 68,
+   "first_seen_ms": 1793395345890,
+   "image": "https://img.mako.co.il/2026/10/30/inbie_hamas_301026_1400_1793394576782_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793394584000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מצטופפים במנהרה, מכינים את טבח 7.10: תיעוד חדש של מוחמד דף ובכירי חמאס",
+   "type": "news",
+   "updated_ms": 1793394584000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cdc420a6e8e81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/inbie_hamas_301026/MASTER/inbie_hamas_301026/inbie_hamas_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-cecaee06dcc71a1026.htm": {
    "author": "חדשות",
