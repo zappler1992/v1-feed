@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2397f8aeb8b81a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8769f830b9b81a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f918f830b9b81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20583,6 +20584,24 @@
    "updated_ms": 1793006721000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f7f745d408771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Celebs_18129_26102026092343/M_Celebs_18129_26102026092343_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f918f830b9b81a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "קפטן קירק נפרד מקפטן פיקארד: וויליאם שאטנר סופד לפטריק סטיוארט - \"הוא היה חבר, קולגה ושחקן נהדר\"",
+   "duration_s": 9,
+   "first_seen_ms": 1793344046642,
+   "image": "https://img.mako.co.il/2026/10/30/M_Tarbut_18418_30102026065122_1400_1793343578439_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793343585000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "קפטן קירק נפרד מקפטן פיקארד: וויליאם שאטנר סופד לפטריק סטיוארט - \"הוא היה חבר, קולגה ושחקן נהדר\"",
+   "type": "mivzakim",
+   "updated_ms": 1793343585000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f918f830b9b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18418_30102026065122/M_Tarbut_18418_30102026065122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -92312,6 +92331,24 @@
    "updated_ms": 1793120508000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-85b1c80044e71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_BEN12_7857_27102026050018/V1_BEN12_7857_27102026050018_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8769f830b9b81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נקבע מותו של נהג האוטובוס בתאונה בכביש 25: 22 פצועים במצב קל | תיעוד נוסף מהזירה",
+   "duration_s": 9,
+   "first_seen_ms": 1793344046642,
+   "image": "https://img.mako.co.il/2026/10/30/V1_karind_kvish25_7979_30102026065946_1400_1793343654259_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793343665000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נקבע מותו של נהג האוטובוס בתאונה בכביש 25: 22 פצועים במצב קל | תיעוד נוסף מהזירה",
+   "type": "mivzakim",
+   "updated_ms": 1793343665000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8769f830b9b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_kvish25_7979_30102026065946/V1_karind_kvish25_7979_30102026065946_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8793f4ecb1d71a1026.htm": {
    "author": "מבזקים",
