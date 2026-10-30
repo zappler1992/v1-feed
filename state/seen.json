@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-8769f830b9b81a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-f918f830b9b81a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b37af830b9b81a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-d9d8c2e395771a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19988,6 +19988,24 @@
    "updated_ms": 1793012982000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b3614a90bd771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18138_26102026110804/M_Tarbut_18138_26102026110804_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b37af830b9b81a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"כמוטנטית וכחברה בצי הכוכבים\": כוכבת סרטי \"אקס-מן\" רבקה רומיין נפרדת מפטריק סטיוארט",
+   "duration_s": 54,
+   "first_seen_ms": 1793344946792,
+   "image": "https://img.mako.co.il/2026/10/30/M_Tarbut_18420_30102026070623_1400_1793344079512_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793344088000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"כמוטנטית וכחברה בצי הכוכבים\": כוכבת סרטי \"אקס-מן\" רבקה רומיין נפרדת מפטריק סטיוארט",
+   "type": "mivzakim",
+   "updated_ms": 1793344088000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b37af830b9b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18420_30102026070623/M_Tarbut_18420_30102026070623_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b3905cac6a371a1027.htm": {
    "author": "עדכוני בידור",
@@ -107737,6 +107755,25 @@
    "updated_ms": 1793288280000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-d326d0e063881a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/DANIEL_TITANIC_291026/MASTER/DANIEL_TITANIC_291026/DANIEL_TITANIC_291026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-d9d8c2e395771a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "page-jsonld",
+   "description": "״גבר זה גבר״: אור ועדי (כוכבי המירוץ למיליון) בדיון סוער על האם אישה יכולה להתאמן אצל מאמן כושר וללכת לגינקולוג גבר?",
+   "duration_s": 97,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1793344946792,
+   "image": "https://img.mako.co.il/2026/10/26/NOAB_OR_ADI_261026_M_1400_1793003723135_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793003730000,
+   "sections": [
+    "המיוחדים"
+   ],
+   "title": "האם אישה צריכה ללכת לגינקולוג גבר?",
+   "type": "general",
+   "updated_ms": 1793003730000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-d9d8c2e395771a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/NOAB_OR_ADI_261026_M/MASTER/NOAB_OR_ADI_261026_M/NOAB_OR_ADI_261026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-suggested/2026-m03_w03/shorts-0cbc8de8892d0a1026.htm": {
    "author": "אהבה מעבר לפינה",
