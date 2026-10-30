@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793386949695,
+ "last_run_ms": 1793387250522,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3284,6 +3284,18 @@
    "published_ms": 1792634760000,
    "section": "ספורט",
    "title": "התחלנו: דאבל דאבל לדני ב-83:124 על הסאנס"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-8e36f24060e81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793387250522,
+   "content_type": "article",
+   "first_seen_ms": 1793387250522,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793386320000,
+   "section": "ספורט",
+   "title": "מכה לפורטלנד: זמן ההיעדרות של מוראנט"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-8e442fd52ef51a1026.htm": {
    "check_attempts": 1,
