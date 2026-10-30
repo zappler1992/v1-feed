@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793383350289,
+ "last_run_ms": 1793383650329,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29739,7 +29739,7 @@
    "indexnow_ms": 1793374649250,
    "published_ms": 1793374380000,
    "section": "",
-   "title": "חיפשו את בנם בן השנתיים במשך שעות - ומצאו אותו בבגאז'"
+   "title": "חיפשו את בנם הפעוט במשך שעות, ומצאו אותו מת בבגאז'"
   },
   "https://www.mako.co.il/health-news/Article-9d1d400ebd331a1027.htm": {
    "check_attempts": 1,
@@ -43948,6 +43948,18 @@
    "published_ms": 1793220180000,
    "section": "קשת 12",
    "title": "זמר ענק: זה המפורסם שנחשף ב\"הזמר במסכה\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-efc6bed3c2d81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-efc6bed3c2d81a1027.htm",
+   "checked_ms": 1793383650329,
+   "content_type": "article",
+   "first_seen_ms": 1793383650329,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793378220000,
+   "section": "",
+   "title": "אחרי החשדות, אילנית מכריזה: \"אם זה יקרה, אני פורשת\""
   },
   "https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm": {
    "check_attempts": 1,
