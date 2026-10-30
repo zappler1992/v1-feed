@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793335349705,
+ "last_run_ms": 1793335649662,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13710,6 +13710,18 @@
    "published_ms": 1793184240000,
    "section": "ספורט",
    "title": "קני מילר: \"ברנלי? אני כאן עד סוף העונה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-229c0c9560b81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793335467242,
+   "content_type": "article",
+   "first_seen_ms": 1793335467242,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793334900000,
+   "section": "ספורט",
+   "title": "\"הייתם רכים\". אכזבה גדולה במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/toto-cup-q4_2026/Article-2d4a454cfe881a1026.htm": {
    "check_attempts": 1,
@@ -50270,6 +50282,18 @@
    "published_ms": 1792139820000,
    "section": "",
    "title": "ליברמן תקף בחריפות את איזנקוט. כך הוא השיב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-1e486d062ba81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-1e486d062ba81a1027.htm",
+   "checked_ms": 1793335587289,
+   "content_type": "article",
+   "first_seen_ms": 1793335587289,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793328300000,
+   "section": "",
+   "title": "מעל 6 מיליארד דולר: חשד לשוד הקריפטו הגדול בהיסטוריה"
   },
   "https://www.mako.co.il/special-mako-news/Article-203f82626b081a1027.htm": {
    "check_attempts": 1,
