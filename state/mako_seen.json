@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793353948653,
+ "last_run_ms": 1793354248637,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -51182,6 +51182,18 @@
    "published_ms": 1792033800000,
    "section": "חדשות",
    "title": "דיווח: ישראל בלמה את פרויקט \"מועצת השלום\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-45b13cea49681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-n12_magazine/eb54fba84b900a10/Article-45b13cea49681a1027.htm",
+   "checked_ms": 1793354067123,
+   "content_type": "article",
+   "first_seen_ms": 1793354067123,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793345400000,
+   "section": "",
+   "title": "יש עוד אפשרות חוץ מבחירות חוזרות: המהלך ביום שאחרי"
   },
   "https://www.mako.co.il/special-mako-news/Article-45db5836ce2f0a1026.htm": {
    "check_attempts": 1,
