@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-a50ea8b38db81a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-750ca8b38db81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-536bba529eb81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -91031,6 +91030,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/FIX_yoav_POLICE_251026/FIX_yoav_POLICE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-536bba529eb81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שגרירות צ'כיה בישראל: הדיפלומטית קלרה שניידרובה נהרגה לאחר שנדרסה על ידי מיניבוס ברחוב אגריפס",
+   "duration_s": 9,
+   "first_seen_ms": 1793349745864,
+   "image": "https://img.mako.co.il/2026/10/30/V1_karind_czech_7983_30102026083433_1400_1793349362565_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793349369000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שגרירות צ'כיה בישראל: הדיפלומטית קלרה שניידרובה נהרגה לאחר שנדרסה על ידי מיניבוס ברחוב אגריפס",
+   "type": "mivzakim",
+   "updated_ms": 1793349369000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-536bba529eb81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_czech_7983_30102026083433/V1_karind_czech_7983_30102026083433_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-545989fa4a871a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -97026,13 +97043,13 @@
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18305_28102026090304/M_Food_18305_28102026090304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-750ca8b38db81a1026.htm": {
-   "author": "מתכונים",
+   "author": "ריטה גולדשטיין",
    "date_source": "json-publishDate",
-   "description": "האם עדיין שווה להגיע לפאסטל גם בלי שף מכוכב מישלן?",
+   "description": "המיקום נהדר, השירות מצוין ויש גם כמה מנות שהיינו חוזרים בשבילן (מרק פנטסטי וסלט מופתי). אבל בין כיסונים מאכזבים לדג ב-186 שקלים שאיש לא רצה להמשיך לאכול, הביקור בפאסטל היה מתסכל כי ראינו כמה טוב זה יכול להיות, ובמחירים כאלה - הכל צריך להיות ברמה הזאת",
    "duration_s": 37,
    "first_seen_ms": 1793348245732,
    "image": "https://img.mako.co.il/2026/10/30/M_Food_18425_30102026080805_1400_1793347846285_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793347856000,
    "sections": [
     "אוכל ומתכונים"
