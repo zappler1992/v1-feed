@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0ed59ba346b81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e27ff8aeb8b81a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9b8cf8aeb8b81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19663,6 +19664,24 @@
    "updated_ms": 1793013983000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9b4055f6ee771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18140_26102026112459/M_Tarbut_18140_26102026112459_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9b8cf8aeb8b81a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנסמבל התזמורת האנדלוסית הישראלית אשדוד הופיעו בעיר אסווירה במרוקו, לצד מוזיקאים מרוקאים",
+   "duration_s": 61,
+   "first_seen_ms": 1793343146621,
+   "image": "https://img.mako.co.il/2026/10/30/M_Tarbut_18417_30102026064339_1400_1793342716944_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793342727000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנסמבל התזמורת האנדלוסית הישראלית אשדוד הופיעו בעיר אסווירה במרוקו, לצד מוזיקאים מרוקאים",
+   "type": "mivzakim",
+   "updated_ms": 1793342727000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9b8cf8aeb8b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18417_30102026064339/M_Tarbut_18417_30102026064339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9c78ce96e2481a1026.htm": {
    "author": "עדכוני בידור",
@@ -94557,6 +94576,24 @@
    "updated_ms": 1793092587000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e18881565ac71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_holand_7823_27102026091456/V1_karind_holand_7823_27102026091456_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e27ff8aeb8b81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "התאונה הקטלנית בכביש 25: נהג האוטובוס נהרג, שלוש נשים חולצו כשהן בהכרה",
+   "duration_s": 14,
+   "first_seen_ms": 1793343146621,
+   "image": "https://img.mako.co.il/2026/10/30/V1_karind_masok_7978_30102026064630_1400_1793342837474_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793342844000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "התאונה הקטלנית בכביש 25: נהג האוטובוס נהרג, שלוש נשים חולצו כשהן בהכרה",
+   "type": "mivzakim",
+   "updated_ms": 1793342844000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e27ff8aeb8b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_masok_7978_30102026064630/V1_karind_masok_7978_30102026064630_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e2f0f55dbec71a1026.htm": {
    "author": "מבזקים",
