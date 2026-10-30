@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f49dbe47dbb81a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-10-30T07:49:16+00:00</news:publication_date>
+<news:title>מחירי הדלק עולים - שוב</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/10/30/MAYA_DELEK_301026_1400_1793346549152_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-fd42f830b9b81a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2060,14 +2069,5 @@
 <news:title>מעין אדם: ״לא נקבל את השינוי שרצינו אבל נקבל שינוי. קחו אוויר, זה יהיה ארוך״</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/28/M_Celebs_18302_28102026075215_1400_1793174370451_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-db1c76efd7181a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-28T07:54:18+00:00</news:publication_date>
-<news:title>מאות אלפי צפיות בכל העולם: הנערה שהצטלמה בקלפי ושיגעה את הרשת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/28/FIX_MAIN_2_HAIFA_1400_1793175981282_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
