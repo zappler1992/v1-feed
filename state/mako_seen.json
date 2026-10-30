@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793347648983,
+ "last_run_ms": 1793347948767,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -58143,6 +58143,18 @@
    "section": "קשת 12",
    "title": "בר רפאלי מודה: \"יש לי חולשה לקרחים\""
   },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-53ad802b05481a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793347826861,
+   "content_type": "article",
+   "first_seen_ms": 1793347826861,
+   "indexable": true,
+   "indexnow_ms": 1793347826861,
+   "published_ms": 1793332800000,
+   "section": "קשת 12",
+   "title": "איתי לוי מודה: \"אין לי מה להסתיר\""
+  },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-555abec92d861a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -58371,6 +58383,18 @@
    "section": "קשת 12",
    "title": "עינב בובליל מכחישה: \"זאת לא אני\""
   },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-f89493f5bc681a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793347826861,
+   "content_type": "article",
+   "first_seen_ms": 1793347826861,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793340000000,
+   "section": "קשת 12",
+   "title": "כולם חושדים: זה הצעד הגדול הבא של מה קשור\""
+  },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-1f25fcb266111a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -58418,6 +58442,18 @@
    "published_ms": 1791529200000,
    "section": "קשת 12",
    "title": "\"הבנות יגידו אמא יא פדחנית, למה אמרת את זה?\""
+  },
+  "https://www.mako.co.il/tv-will_you_start/articles/Article-7eee868a4e611a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793347826861,
+   "content_type": "article",
+   "first_seen_ms": 1793347826861,
+   "indexable": true,
+   "indexnow_ms": 1793347826861,
+   "published_ms": 1793340000000,
+   "section": "קשת 12",
+   "title": "רותי ברודו: \"קבוצת תמיכה אני לגמרי צריכה\""
   },
   "https://www.mako.co.il/tv-will_you_start/articles/Article-a9cb8dd9c2221a1027.htm": {
    "check_attempts": 1,
