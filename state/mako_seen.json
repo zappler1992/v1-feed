@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793360548984,
+ "last_run_ms": 1793360850049,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8924,6 +8924,18 @@
    "published_ms": 1791149940000,
    "section": "ספורט",
    "title": "גלוך במוקד: צפו בעצבים בסיום המשחק"
+  },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-acdc99c289c81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793360787611,
+   "content_type": "article",
+   "first_seen_ms": 1793360787611,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793360640000,
+   "section": "ספורט",
+   "title": "הופעה אחת תספיק? סאגת גורן וחוקי הנבחרות"
   },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ae1afc59e7211a1027.htm": {
    "check_attempts": 1,
