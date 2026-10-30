@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793347948767,
+ "last_run_ms": 1793348248718,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -51194,6 +51194,18 @@
    "published_ms": 1790353200000,
    "section": "",
    "title": "הטביעה באשקלון: נקבע מותו של בן 17"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-510e7f2fcf881a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-510e7f2fcf881a1027.htm",
+   "checked_ms": 1793348186875,
+   "content_type": "article",
+   "first_seen_ms": 1793348186875,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793345340000,
+   "section": "",
+   "title": "אין סיכוי לממשלת מיעוט? ההתבטאות של עבאס בדיון סגור"
   },
   "https://www.mako.co.il/special-mako-news/Article-526861d193441a1027.htm": {
    "check_attempts": 1,
