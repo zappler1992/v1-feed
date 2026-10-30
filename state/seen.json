@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-a0940bd5ea981a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9a790c9560b81a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c690c9560b81a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6393,7 +6394,8 @@
    "importance": 1,
    "published_ms": 1793186926000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הקריירה החדשה והלא שגרתית של כוכב ה-NBA",
    "type": "general",
@@ -89765,6 +89767,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c56e24aebc71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18226_27102026095611/M_NEWS_18226_27102026095611_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c690c9560b81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בורסת הקריפטו בינאנס חוקרת חשד לפריצת ענק לפלטפורמה שלה, מה שהוביל להקפאת נכסים דיגיטליים בשווי של י",
+   "duration_s": 9,
+   "first_seen_ms": 1793334446725,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18412_30102026042332_1400_1793334300130_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793334310000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בורסת הקריפטו בינאנס חוקרת חשד לפריצת ענק לפלטפורמה שלה, מה שהוביל להקפאת נכסים דיגיטליים בשווי של י",
+   "type": "mivzakim",
+   "updated_ms": 1793334310000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c690c9560b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18412_30102026042332/M_NEWS_18412_30102026042332_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2d585705d6881a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92510,6 +92530,24 @@
    "updated_ms": 1793003630000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-99e6c5c0f4771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_karind_purdis_7779_26102026083206/V1_karind_purdis_7779_26102026083206_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9a790c9560b81a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אוקראינה עצרה את התקיפות על בתי הזיקוק ברוסיה בעקבות לחץ מצד טראמפ",
+   "duration_s": 4,
+   "first_seen_ms": 1793334446725,
+   "image": "https://img.mako.co.il/2026/10/30/M_NEWS_18413_30102026042359_1400_1793334310938_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793334320000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אוקראינה עצרה את התקיפות על בתי הזיקוק ברוסיה בעקבות לחץ מצד טראמפ",
+   "type": "mivzakim",
+   "updated_ms": 1793334320000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9a790c9560b81a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18413_30102026042359/M_NEWS_18413_30102026042359_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm": {
    "author": "מבזקים",
