@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-53bccd3cd2391a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-579ccd3cd2391a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-79ef1339d4391a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4138cd3cd2391a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47108,6 +47108,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-3ce6d3b509471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/inbalyaron251026/MASTER/Inbalyaron251026m/Inbalyaron251026m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4138cd3cd2391a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "רשת אל-ג'זירה פרסמה תיעודים חדשים שטרם נראו של בכירי חמאס - בהם תיעודים של מוחמד דף לפני שאיבד את עינו, ותמונה חדשה של פגישת המועצה הצבאית של חמאס שמציגה 14 בכירים, כולם חוסלו במלחמה, בהם סינוואר, דף, ומרואן עיסא.",
+   "duration_s": 63,
+   "first_seen_ms": 1793473645902,
+   "image": "https://img.mako.co.il/2026/10/31/TALI_DEIF_311026_1400_1793470637112_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793470643000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "התיעודים החדשים של מוחמד דף לפני שאיבד את עינו, וצמרת הבכירים שחוסלה",
+   "type": "news",
+   "updated_ms": 1793470643000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-4138cd3cd2391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/TALI_DEIF_311026/MASTER/TALI_DEIF_311026/TALI_DEIF_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-41a6d3b509471a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -93701,6 +93719,24 @@
    "updated_ms": 1793098787000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-790deaaaffc71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_kalpi2_7834_27102026105728/V1_karind_kalpi2_7834_27102026105728_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-79ef1339d4391a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הנהגים מתעדים: מכונית עולה בלהבות ענק - באמצע הכביש סמוך לנתניה | לא דווח על נפגעים",
+   "duration_s": 5,
+   "first_seen_ms": 1793473645902,
+   "image": "https://img.mako.co.il/2026/10/31/V1_FIRE_8023_31102026070314_1400_1793473449648_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793473456000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הנהגים מתעדים: מכונית עולה בלהבות ענק - באמצע הכביש סמוך לנתניה | לא דווח על נפגעים",
+   "type": "mivzakim",
+   "updated_ms": 1793473456000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-79ef1339d4391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_FIRE_8023_31102026070314/V1_FIRE_8023_31102026070314_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7b0ebdacb2181a1026.htm": {
    "author": "מבזקים",
