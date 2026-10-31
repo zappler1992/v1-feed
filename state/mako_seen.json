@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793461349413,
+ "last_run_ms": 1793461649432,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2180,6 +2180,18 @@
    "published_ms": 1792900560000,
    "section": "ספורט",
    "title": "\"הכנסנו את עצמנו לבור\": מכבי ת\"א מסכמת"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-4dcf60f329291a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793461649432,
+   "content_type": "article",
+   "first_seen_ms": 1793461649432,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793461320000,
+   "section": "ספורט",
+   "title": "\"היינו קרובים להייז. הסכמנו לכל התנאים\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-533da14f84c21a1027.htm": {
    "check_attempts": 1,
