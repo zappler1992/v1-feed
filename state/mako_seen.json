@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793469448814,
+ "last_run_ms": 1793469748897,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16050,6 +16050,18 @@
    "published_ms": 1792485060000,
    "section": "ספורט",
    "title": "עם אופציית יציאה: פרטי ההסכם של יצחקי"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-9d9d318151391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793469748897,
+   "content_type": "article",
+   "first_seen_ms": 1793469748897,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793469300000,
+   "section": "ספורט",
+   "title": "\"מהלכים יפים\": גורן בישל בבארסה אתלטיק"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-a396351a42011a1027.htm": {
    "check_attempts": 1,
@@ -46275,7 +46287,7 @@
    "indexnow_ms": null,
    "published_ms": 1793282220000,
    "section": "דיגיטל",
-   "title": "בדקנו את האייפון המתקפל: שווה 8,000 שקל?"
+   "title": "כמו להחזיק סמארטפון בפעם הראשונה: אפל עושה זאת שוב"
   },
   "https://www.mako.co.il/nexter-guide/Article-485fe778a8e31a1027.htm": {
    "check_attempts": 1,
@@ -47955,7 +47967,7 @@
    "indexnow_ms": null,
    "published_ms": 1793332800000,
    "section": "דיגיטל",
-   "title": "יותר ויותר מומחים ומשקיעים מזהירים מהסכנה הזו"
+   "title": "כמו כל הבורסה של ת\"א: הקיצוץ שמאיים על כולנו"
   },
   "https://www.mako.co.il/nexter-news/Article-e4fa4b0c0da21a1026.htm": {
    "check_attempts": 1,
@@ -59439,6 +59451,18 @@
    "section": "",
    "title": "צרחות: זו הכוכבת שנחשפה ב\"הזמר במסכה\""
   },
+  "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-f085f4d84c291a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793469626680,
+   "content_type": "article",
+   "first_seen_ms": 1793469626680,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793469360000,
+   "section": "",
+   "title": "הזמר בביקורת על האומנים הצעירים: \"הכל נשמע אותו דבר\""
+  },
   "https://www.mako.co.il/tv-the_masked_singer/season5-articles/Article-f7c958e64b361a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -60637,7 +60661,7 @@
    "indexnow_ms": 1793464965551,
    "published_ms": 1793464800000,
    "section": "",
-   "title": "\"לא בטוח שאני מחפש את האחת, טוב לי כרגע\""
+   "title": "\"לא בטוח שאני מחפש את האחת, נעים לי ככה\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-aea36a247a831a1027.htm": {
    "check_attempts": 1,

@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6e5665f9f291a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-5a32a1c4ed291a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-43577e752b191a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9a4eaf960391a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60dd318151391a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -48061,6 +48060,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b5ff5d4358f71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/MAYA_BREAKING_271026/MASTER/MAYA_BREAKING_271026/MAYA_BREAKING_271026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9a4eaf960391a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לא רק בחו\"ל: חגיגות ההאלווין הגיעו לרחובות תל אביב עם בתים מקושטים וילדים מחופשים שעוברים בין הבתים ושואלים \"תעלול או ממתק?\"",
+   "duration_s": 40,
+   "first_seen_ms": 1793469745791,
+   "image": "https://img.mako.co.il/2026/10/31/HalloweenLIRONM_1400_1793468753051_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793468820000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "זה לא ניו יורק: טירוף האלווין כובש את ישראל ברחובות מקושטים וילדים מחופשים",
+   "type": "news",
+   "updated_ms": 1793468820000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9a4eaf960391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/HalloweenLIRONM/MASTER/HalloweenLIRONM/HalloweenLIRONM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9d8409659c71a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -92945,6 +92962,24 @@
    "updated_ms": 1793339134000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-603fe31c04b81a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_mada_7974_30102026054401/V1_karind_mada_7974_30102026054401_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60dd318151391a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "פסע מאסון בבני ברק: נסע ברמזור אדום בין המכוניות - וכמעט דרס ילד קטן שחצה את הכביש",
+   "duration_s": 15,
+   "first_seen_ms": 1793469745791,
+   "image": "https://img.mako.co.il/2026/10/31/V1_BNEIBRAK_8019_31102026055636_1400_1793469461549_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793469468000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "פסע מאסון בבני ברק: נסע ברמזור אדום בין המכוניות - וכמעט דרס ילד קטן שחצה את הכביש",
+   "type": "mivzakim",
+   "updated_ms": 1793469468000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60dd318151391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_BNEIBRAK_8019_31102026055636/V1_BNEIBRAK_8019_31102026055636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60ef9a16fbc81a1027.htm": {
    "author": "מבזקים",
