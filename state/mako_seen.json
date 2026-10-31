@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793472748884,
+ "last_run_ms": 1793473048747,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -46299,7 +46299,7 @@
    "indexnow_ms": null,
    "published_ms": 1793282220000,
    "section": "דיגיטל",
-   "title": "כמו להחזיק סמארטפון בפעם הראשונה: אפל עושה זאת שוב"
+   "title": "בדקנו את האייפון המתקפל: שווה 8,000 שקל?"
   },
   "https://www.mako.co.il/nexter-guide/Article-485fe778a8e31a1027.htm": {
    "check_attempts": 1,
@@ -52802,6 +52802,18 @@
    "published_ms": 1792332060000,
    "section": "חדשות",
    "title": "הרמטכ\"ל החליט על עוצר יציאות בצה\"ל בבחירות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-abe0a1c4ed291a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793472866737,
+   "content_type": "article",
+   "first_seen_ms": 1793472866737,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793472780000,
+   "section": "",
+   "title": "המחאות באירופה: מאות אלפים בגרמניה, אש ברחובות אלבניה"
   },
   "https://www.mako.co.il/special-mako-news/Article-ac6de83d90561a1026.htm": {
    "check_attempts": 1,
