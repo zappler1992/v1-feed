@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21d8b30a81291a1027.htm"
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-4237c0c854881a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -47355,7 +47355,8 @@
    "importance": 2,
    "published_ms": 1793440622000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד דרמטי: נער נמלט משוטרים על קורקינט - ונדרס על ידי ניידת בפתח תקווה",
    "type": "news",
@@ -48014,7 +48015,8 @@
    "importance": 2,
    "published_ms": 1793439540000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "דיווח בארה\"ב: טראמפ הודיע להיערך לתקיפה באיראן אחרי בחירות האמצע",
    "type": "news",
@@ -109277,6 +109279,24 @@
    "updated_ms": 1792748580000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w04/shorts-e7593046bb361a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/22/FIXNOAY_CHEN_221026_1/FIXNOAY_CHEN_221026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-4237c0c854881a1027.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "הפעם במדור הטיולים וההמלצות של V1 עם בלוגרית האוכל שירז צ'וקולו - מקום חדש בשם ITO, הסגנון הוא המבורגר בטעמים יפנים, הם מביאים את זה לידי ביטוי גם בלחמניה, גם בבשר (בשר ואגיו) גם ברטבים ובתיבול, פתוח מראשון עד שישי מהשעה 13:00-21:00. בתאבון!",
+   "duration_s": 76,
+   "first_seen_ms": 1793454146440,
+   "image": "https://img.mako.co.il/2026/10/31/shirazzzzufix_1400_1793434782152_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793440920000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "ההמבורגר היפני ששיגע את הרשת",
+   "type": "general",
+   "updated_ms": 1793440920000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-4237c0c854881a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/shirazzzzufix/shirazzzzufix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-47bc4a90bd771a1027.htm": {
    "author": "מיוחד",
