@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793470348842,
+ "last_run_ms": 1793470648783,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -60470,6 +60470,18 @@
    "published_ms": 1792397940000,
    "section": "תרבות tvbee",
    "title": "עם תג מחיר של מיליון שקל: הקרב על קוקו מאילת"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-832bdaac91391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793470466708,
+   "content_type": "article",
+   "first_seen_ms": 1793470466708,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793469780000,
+   "section": "",
+   "title": "אל-ג'זירה שיתפו: הריאיון שהפך להיט אצל הפרו-פלסטינים"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8361105303b11a1027.htm": {
    "check_attempts": 1,
