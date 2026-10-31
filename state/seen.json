@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-4237c0c854881a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17c6b30a81291a1027.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-116c930eb4291a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -90429,6 +90430,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-175e94681c681a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/V1_yaron_7942_29102026082346/V1_yaron_7942_29102026082346_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17c6b30a81291a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ההצהרה המדאיגה של המנהיג העליון של איראן | דיווח דרמטי של פוקס ניוז",
+   "duration_s": 26,
+   "first_seen_ms": 1793456546528,
+   "image": "https://img.mako.co.il/2026/10/31/V1_foxnews_8006_31102026021628_1400_1793456272989_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793456283000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ההצהרה המדאיגה של המנהיג העליון של איראן | דיווח דרמטי של פוקס ניוז",
+   "type": "mivzakim",
+   "updated_ms": 1793456283000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17c6b30a81291a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_foxnews_8006_31102026021628/V1_foxnews_8006_31102026021628_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-17d27c8895171a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -122965,6 +122984,24 @@
    "updated_ms": 1793441764000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-0e798b00e6191a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_SHIR_CARS_8001_31102026101444/V1_SHIR_CARS_8001_31102026101444_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-116c930eb4291a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "כך נראית אירופה בשנת 2026: כל החנויות סגורות ואטומות מחשש להתפרעויות וכאוס ברחובות",
+   "duration_s": 59,
+   "first_seen_ms": 1793456546528,
+   "image": "https://img.mako.co.il/2026/10/31/V1_EUORPE_8007_31102026021756_1400_1793456392683_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793456402000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "כך נראית אירופה בשנת 2026: כל החנויות סגורות ואטומות מחשש להתפרעויות וכאוס ברחובות",
+   "type": "mivzakim",
+   "updated_ms": 1793456402000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-116c930eb4291a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_EUORPE_8007_31102026021756/V1_EUORPE_8007_31102026021756_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-15e873d26f381a1026.htm": {
    "author": "מבזקים מהעולם",
