@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793458949448,
+ "last_run_ms": 1793459249648,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12691,6 +12691,18 @@
    "section": "ספורט",
    "title": "שווים מיליארדים: המועמדים לרכישת חיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b8f0032496291a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793459187365,
+   "content_type": "article",
+   "first_seen_ms": 1793459187365,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793458980000,
+   "section": "ספורט",
+   "title": "שנוי במחלוקת: האם בית\"ר קופחה נגד ק\"ש?"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b9d91c4d60c71a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -15726,6 +15738,18 @@
    "published_ms": 1792906860000,
    "section": "ספורט",
    "title": "\"מראדונה של אמדספור\": סבע משגע את טורקיה"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-5f63b30a81291a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793459187365,
+   "content_type": "article",
+   "first_seen_ms": 1793459187365,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793458800000,
+   "section": "ספורט",
+   "title": "פרץ פתח, דקה 1: סאות'המפטון - ק.פ.ר 0:0"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-60ff70ba9e371a1026.htm": {
    "check_attempts": 1,
