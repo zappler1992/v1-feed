@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793478149053,
+ "last_run_ms": 1793478448890,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7365,6 +7365,18 @@
    "section": "ספורט",
    "title": "\"זה הכוח שלו\": בפורטלנד לא נרגעים מאבדיה"
   },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-b1c326ddf8391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793478386939,
+   "content_type": "article",
+   "first_seen_ms": 1793478386939,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793478120000,
+   "section": "ספורט",
+   "title": "לא נשאר חייב: דני עקץ בעקבות הטענות נגדו"
+  },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-b83bed8a13b01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -11214,6 +11226,18 @@
    "published_ms": 1791968220000,
    "section": "ספורט",
    "title": "ג`ובאני רוסו: הכדורגלנים הישראלים קמצנים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5491ab2789391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793478386939,
+   "content_type": "article",
+   "first_seen_ms": 1793478386939,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793478060000,
+   "section": "ספורט",
+   "title": "\"30 שנה בכדורגל, כזו שריקה לא ראיתי\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-572f1fc2ca501a1027.htm": {
    "check_attempts": 1,
@@ -44235,7 +44259,7 @@
    "indexnow_ms": 1793476948925,
    "published_ms": 1793476380000,
    "section": "מוזיקה",
-   "title": "\"היו לו סחרחורות\": הדרמה של אופק אדנק"
+   "title": "הזמר קרס בהופעה: \"הוא היה חלש, נשכב על הספה ולא זז\""
   },
   "https://www.mako.co.il/music-news/radio_airplay_chart/Article-310111eb45e51a1026.htm": {
    "check_attempts": 1,
@@ -48471,7 +48495,7 @@
    "indexnow_ms": 1793336187496,
    "published_ms": 1793284620000,
    "section": "הורים",
-   "title": "\"איך בכלל מספרים לאדם זר שיש לי ילדה, אבל היא מתה?\""
+   "title": "\"פחדו לשאול על הבת שלי. השתיקה כאבה יותר\""
   },
   "https://www.mako.co.il/ninemonth-birth/Article-6f8b261845e31a1027.htm": {
    "check_attempts": 1,
