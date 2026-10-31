@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793426549501,
+ "last_run_ms": 1793426849509,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -51158,6 +51158,18 @@
    "published_ms": 1791012060000,
    "section": "",
    "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר: \"התוצאות בבדיקה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-006cda255ed81a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-006cda255ed81a1027.htm",
+   "checked_ms": 1793426787446,
+   "content_type": "article",
+   "first_seen_ms": 1793426787446,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793426700000,
+   "section": "",
+   "title": "האיתות של עבאס - והלחץ של נתניהו על גוש השינוי"
   },
   "https://www.mako.co.il/special-mako-news/Article-0537da3b52571a1026.htm": {
    "check_attempts": 1,
