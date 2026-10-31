@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b9a4eaf960391a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60dd318151391a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae94318151391a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d193318151391a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -95060,6 +95060,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae0403d3a9271a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/M_NEWS_18070_25102026103903/M_NEWS_18070_25102026103903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae94318151391a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מתקרבים לנקודת הכרעה באיראן: ניר דבורי עם כל מה שמותר להגיד",
+   "duration_s": 78,
+   "first_seen_ms": 1793470345797,
+   "image": "https://img.mako.co.il/2026/10/31/V1_dvori_8021_31102026060747_1400_1793470199249_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793470205000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מתקרבים לנקודת הכרעה באיראן: ניר דבורי עם כל מה שמותר להגיד",
+   "type": "mivzakim",
+   "updated_ms": 1793470205000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae94318151391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_dvori_8021_31102026060747/V1_dvori_8021_31102026060747_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b0a6d69533e71a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -124170,6 +124188,24 @@
    "updated_ms": 1793435309000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-cf6d27e6a0191a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_SHIR_POLIN_7999_31102026082656/V1_SHIR_POLIN_7999_31102026082656_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d193318151391a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "פיצוץ - והשוטר נפגע ועולה באש: התיעוד החריג מהכאוס בצרפת",
+   "duration_s": 33,
+   "first_seen_ms": 1793470345797,
+   "image": "https://img.mako.co.il/2026/10/31/V1_SHOTER_8020_31102026060511_1400_1793470001978_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793470008000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "פיצוץ - והשוטר נפגע ועולה באש: התיעוד החריג מהכאוס בצרפת",
+   "type": "mivzakim",
+   "updated_ms": 1793470008000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d193318151391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_SHOTER_8020_31102026060511/V1_SHOTER_8020_31102026060511_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-d631a23504b81a1026.htm": {
    "author": "מבזקים מהעולם",
