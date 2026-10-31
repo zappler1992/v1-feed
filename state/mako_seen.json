@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793424749535,
+ "last_run_ms": 1793425049524,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3800,6 +3800,18 @@
    "published_ms": 1791905700000,
    "section": "ספורט",
    "title": "\"לא יהיו ברוטציה\": המצב של שרף ו-וולף"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e80f8163f5091a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793425049524,
+   "content_type": "article",
+   "first_seen_ms": 1793425049524,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793424900000,
+   "section": "ספורט",
+   "title": "לוקה נפל: צפו בסל של קרי ששיגע את ארה\"ב"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-e8c1a14151081a1027.htm": {
    "check_attempts": 1,
