@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b63fa9e23b391a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-7a0ca9e23b391a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-877820bb8b391a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-12aea9e23b391a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b17a04219c391a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -20626,6 +20623,24 @@
    "updated_ms": 1793187572000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-aef1427824281a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18316_28102026113728/M_Tarbut_18316_28102026113728_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b17a04219c391a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עדן גולן על בימת הבארבי הערב: ״לייצג אותנו מול כל העולם - החוויה הכי משמעותית וגדולה שיש\"",
+   "duration_s": 71,
+   "first_seen_ms": 1793481446088,
+   "image": "https://img.mako.co.il/2026/10/31/M_Music_18494_31102026090622_1400_1793480876311_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793480883000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עדן גולן על בימת הבארבי הערב: ״לייצג אותנו מול כל העולם - החוויה הכי משמעותית וגדולה שיש\"",
+   "type": "mivzakim",
+   "updated_ms": 1793480883000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b17a04219c391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18494_31102026090622/M_Music_18494_31102026090622_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-b1c9537e27271a1026.htm": {
    "author": "עדכוני בידור",
@@ -92755,9 +92770,9 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "הסימן בשמי המזרח התיכון לתקיפה קרובה נגד איראן | צפו",
-   "duration_s": 34,
+   "duration_s": 18,
    "first_seen_ms": 1793471545807,
-   "image": "https://img.mako.co.il/2026/10/31/V1_rinat_iran_311026_8022_31102026062323_1400_1793471083780_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/10/31/fix_rinat_iran_311026_1400_1793481079845_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793471090000,
    "sections": [
@@ -92765,9 +92780,9 @@
    ],
    "title": "הסימן בשמי המזרח התיכון לתקיפה קרובה נגד איראן | צפו",
    "type": "mivzakim",
-   "updated_ms": 1793471090000,
+   "updated_ms": 1793481060000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-53bccd3cd2391a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_rinat_iran_311026_8022_31102026062323/V1_rinat_iran_311026_8022_31102026062323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/fix_rinat_iran_311026/fix_rinat_iran_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-545989fa4a871a1026.htm": {
    "author": "מבזקים",
