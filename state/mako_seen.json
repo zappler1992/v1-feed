@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793452894055,
+ "last_run_ms": 1793453249153,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44260,6 +44260,18 @@
    "published_ms": 1793378220000,
    "section": "",
    "title": "אחרי החשדות, אילנית מכריזה: \"אם זה יקרה, אני פורשת\""
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-ffe0396f7f681a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793453067287,
+   "content_type": "article",
+   "first_seen_ms": 1793453067287,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793332800000,
+   "section": "תרבות tvbee",
+   "title": "אישה מסריחה, גבר מקש: סיפור אהבה שעובד מעולה"
   },
   "https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm": {
    "check_attempts": 1,
