@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-396bb30a81291a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21d8b30a81291a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -46799,6 +46799,22 @@
    "updated_ms": 1793154480000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21ab76e4c4081a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/yoav_night_run_281026/MASTER/yoav_night_run_281026/yoav_night_run_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21d8b30a81291a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "יונית לוי משתפת בחוויה האישית שלה מיום הבחירות: אחרי שזיהו אותה בתור לקלפי והבינו שמחכה לה שידור ארוך, השכנים הציעו לה לעקוף את התור - והיא גם מפרגנת לציבור הישראלי על הסבלנות המפתיעה.",
+   "duration_s": 30,
+   "first_seen_ms": 1793453846271,
+   "image": "https://img.mako.co.il/2026/10/31/SHIR_YONIT_311026_1400_1793452603732_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793452610000,
+   "sections": [],
+   "title": "יונית לוי חושפת: כך נתנו לה לעקוף בתור לקלפי",
+   "type": "news",
+   "updated_ms": 1793452620000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21d8b30a81291a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/SHIR_YONIT_311026/MASTER/SHIR_YONIT_311026/SHIR_YONIT_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-244aa5ceb7781a1027.htm": {
    "author": "חדשות",
@@ -123032,7 +123048,7 @@
    "duration_s": 61,
    "first_seen_ms": 1793453546257,
    "image": "https://img.mako.co.il/2026/10/31/V1_SHIR_TEHERAN_8004_31102026012426_1400_1793453144059_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793453150000,
    "sections": [
     "מבזקים מהעולם"
