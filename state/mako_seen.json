@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793475148885,
+ "last_run_ms": 1793475449084,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16387,6 +16387,18 @@
    "section": "ספורט",
    "title": "השער המהיר אי פעם: הטעות שפגעה בבאיירן"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-f50670881f291a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793475449084,
+   "content_type": "article",
+   "first_seen_ms": 1793475449084,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793475180000,
+   "section": "ספורט",
+   "title": "דורטמונד סחטה 2:2 מבאיירן בקלאסיקר"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-fe3f4d0ce1d01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -22467,7 +22479,19 @@
    "indexnow_ms": 1793469387670,
    "published_ms": 1793468220000,
    "section": "",
-   "title": "שוב רווקה: הכוכבת ובן הזוג נפרדו"
+   "title": "הכוכבת ובן הזוג נפרדו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local/Article-867fdaac91391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793475449084,
+   "content_type": "article",
+   "first_seen_ms": 1793475449084,
+   "indexable": true,
+   "indexnow_ms": 1793475449084,
+   "published_ms": 1793475300000,
+   "section": "",
+   "title": "כוכבת הריאליטי והכדורגלן חושפים את מין העובר"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-8a43cba8a9c81a1027.htm": {
    "check_attempts": 1,
@@ -48387,7 +48411,7 @@
    "indexnow_ms": 1793336187496,
    "published_ms": 1793284620000,
    "section": "הורים",
-   "title": "\"פחדו לשאול על הבת שלי. השתיקה כאבה יותר\""
+   "title": "\"איך בכלל מספרים לאדם זר שיש לי ילדה, אבל היא מתה?\""
   },
   "https://www.mako.co.il/ninemonth-birth/Article-6f8b261845e31a1027.htm": {
    "check_attempts": 1,
