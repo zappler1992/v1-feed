@@ -1,10 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-8941a1c4ed291a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-75aa665f9f291a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13ee70881f291a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0b386e1f5c291a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6e5665f9f291a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-5a32a1c4ed291a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-43577e752b191a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6459,6 +6458,24 @@
    "updated_ms": 1792945364000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4f81dff07d371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_CELEBS_251026_FIX/MAYA_CELEBS_251026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-5a32a1c4ed291a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"היא אמרה לי לשים את היד על הלב ועל הרחם ולצעוק 'לעולם לא יהיה לי ילד'\": בפרק של \"מי רוצה להתחיל\" בקשת 12, רותי ברודו חושפת את הקושי להיכנס להריון, את תחושת ההגשמה העצמית שהחליפה את הרצון בילד, מאיזו סיבה שינתה את דעתה לאחר מכן - ובאיזו שיטה היא נעזרה כדי השלימה עם הבחירה שלה.",
+   "duration_s": 61,
+   "first_seen_ms": 1793469445801,
+   "image": "https://img.mako.co.il/2026/10/31/biata_ruti_311026_1400_1793466615340_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793466622000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "רותי ברודו חושפת למה בחרה לא להביא ילדים",
+   "type": "general",
+   "updated_ms": 1793466622000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-5a32a1c4ed291a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/biata_ruti_311026/MASTER/biata_ruti_311026/biata_ruti_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-7569427824281a1026.htm": {
    "author": "סלבס",
@@ -46939,7 +46956,8 @@
    "importance": 2,
    "published_ms": 1793452610000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "יונית לוי חושפת: כך נתנו לה לעקוף בתור לקלפי",
    "type": "news",
@@ -47094,6 +47112,24 @@
    "updated_ms": 1792992780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-41a6d3b509471a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_HOLON_251026/MASTER/MAYA_HOLON_251026/MAYA_HOLON_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-43577e752b191a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "צרפת נערכת לעוד יום של כאוס ברחובות: 70 אלף שוטרים ואנשי ביטחון ייפרסו ברחבי המדינה מחשש לגל מהומות, ביזה והרס. בעלי עסקים כבר מתגוננים מראש וממגנים את חלונות הראווה, בעוד הממשלה מבטיחה תגובה תקיפה לכל הפרת סדר.",
+   "duration_s": 30,
+   "first_seen_ms": 1793469445801,
+   "image": "https://img.mako.co.il/2026/10/31/SHIR_FRANCE_311026_1400_1793448136690_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793448143000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "צרפת בכוננות שיא: 70 אלף שוטרים נערכים לגל מהומות נוסף ברחובות",
+   "type": "news",
+   "updated_ms": 1793448143000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-43577e752b191a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/SHIR_FRANCE_311026/MASTER/SHIR_FRANCE_311026/SHIR_FRANCE_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-44cd249bbf271a1027.htm": {
    "author": "חדשות",
@@ -47506,7 +47542,8 @@
    "importance": 2,
    "published_ms": 1793455474000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "הרופא הדביק יולדת בחיידק טורף: זה הפיצוי הענק שתקבל מבית החולים",
    "type": "news",
@@ -91722,20 +91759,20 @@
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3943f4d84c291a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "בוי ג'ורג' נחת בישראל לקראת שתי הופעותיו  בהיכל מנורה ואמר: \"אני כאן מתוך אהבה\"",
-   "duration_s": 9,
+   "description": "בוי ג'ורג' נחת בישראל לקראת שתי הופעותיו בהיכל מנורה ואמר: \"אני כאן מתוך אהבה\"",
+   "duration_s": 90,
    "first_seen_ms": 1793465246627,
-   "image": "https://img.mako.co.il/2026/10/31/V1_BOYGORG_8014_31102026043949_1400_1793464885419_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/10/31/SHIRA_BOYGORG_FIX_1400_1793469046952_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1793464891000,
    "sections": [
     "מבזקים"
    ],
-   "title": "בוי ג'ורג' נחת בישראל לקראת שתי הופעותיו  בהיכל מנורה ואמר: \"אני כאן מתוך אהבה\"",
+   "title": "בוי ג'ורג' נחת בישראל לקראת שתי הופעותיו בהיכל מנורה ואמר: \"אני כאן מתוך אהבה\"",
    "type": "mivzakim",
-   "updated_ms": 1793464891000,
+   "updated_ms": 1793469060000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-3943f4d84c291a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_BOYGORG_8014_31102026043949/V1_BOYGORG_8014_31102026043949_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/SHIRA_BOYGORG_FIX/SHIRA_BOYGORG_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-39662c507fc71a1027.htm": {
    "author": "מבזקים",
@@ -95187,6 +95224,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6d9d71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18197_27102026070638/M_NEWS_18197_27102026070638_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6e5665f9f291a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השם המפתיע ליושב ראש הכנסת: עמית סגל מסביר | צפו",
+   "duration_s": 61,
+   "first_seen_ms": 1793469445801,
+   "image": "https://img.mako.co.il/2026/10/31/V1_rinat_segal_311026_8018_31102026054916_1400_1793469054409_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793469061000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השם המפתיע ליושב ראש הכנסת: עמית סגל מסביר | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793469061000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b6e5665f9f291a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_rinat_segal_311026_8018_31102026054916/V1_rinat_segal_311026_8018_31102026054916_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-b7d1b5696b181a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -95287,7 +95342,8 @@
    "importance": 1,
    "published_ms": 1793463329000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "מהעולם"
    ],
    "title": "הפגנות נגד יוקר המחיה? מפגינים בצרפת תועדו שורפים את דגלי ישראל וארה\"ב בעיר ליון",
    "type": "mivzakim",
@@ -123345,7 +123401,8 @@
    "importance": 1,
    "published_ms": 1793456402000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "כך נראית אירופה בשנת 2026: כל החנויות סגורות ואטומות מחשש להתפרעויות וכאוס ברחובות",
    "type": "mivzakim",
