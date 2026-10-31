@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793474548804,
+ "last_run_ms": 1793474848908,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13794,6 +13794,18 @@
    "published_ms": 1791257280000,
    "section": "ספורט",
    "title": "אימון: מכבי חיפה והפועל כפ\"ס נפרדו ב-2:2"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f2464e61d5391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793474848908,
+   "content_type": "article",
+   "first_seen_ms": 1793474848908,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793474580000,
+   "section": "ספורט",
+   "title": "אוהדי מכבי נתניה קראו לרוני לוי להתפטר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-f2a31256a2f61a1026.htm": {
    "check_attempts": 1,
