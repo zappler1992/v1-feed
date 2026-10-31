@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0408cd3cd2391a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-53bccd3cd2391a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-579ccd3cd2391a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6228,7 +6229,7 @@
    "importance": 2,
    "published_ms": 1793470616000,
    "sections": [],
-   "title": "ומר אדם עצר את ההופעה בפתאומיות | צפו",
+   "title": "עומר אדם עצר את ההופעה בפתאומיות | צפו",
    "type": "general",
    "updated_ms": 1793470740000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-0408cd3cd2391a1026.htm",
@@ -92583,6 +92584,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-536bba529eb81a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/V1_karind_czech_7983_30102026083433/V1_karind_czech_7983_30102026083433_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-53bccd3cd2391a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הסימן בשמי המזרח התיכון לתקיפה קרובה נגד איראן | צפו",
+   "duration_s": 34,
+   "first_seen_ms": 1793471545807,
+   "image": "https://img.mako.co.il/2026/10/31/V1_rinat_iran_311026_8022_31102026062323_1400_1793471083780_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793471090000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הסימן בשמי המזרח התיכון לתקיפה קרובה נגד איראן | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793471090000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-53bccd3cd2391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_rinat_iran_311026_8022_31102026062323/V1_rinat_iran_311026_8022_31102026062323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-545989fa4a871a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -92745,6 +92764,24 @@
    "updated_ms": 1792988928000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-5732644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/V1_brasil1_7763_26102026042707/V1_brasil1_7763_26102026042707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-579ccd3cd2391a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "למרות החשש והיערכות כוחות הביטחון: ערב רגוע וללא מחאות בכיכר הרפובליקה בפריז",
+   "duration_s": 13,
+   "first_seen_ms": 1793471545807,
+   "image": "https://img.mako.co.il/2026/10/31/M_NEWS_18484_31102026062325_1400_1793471076342_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793471083000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "למרות החשש והיערכות כוחות הביטחון: ערב רגוע וללא מחאות בכיכר הרפובליקה בפריז",
+   "type": "mivzakim",
+   "updated_ms": 1793471083000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-579ccd3cd2391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/M_NEWS_18484_31102026062325/M_NEWS_18484_31102026062325_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-58567bec19c71a1026.htm": {
    "author": "מבזקים",
