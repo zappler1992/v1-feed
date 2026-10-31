@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793428349579,
+ "last_run_ms": 1793428650595,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5768,6 +5768,18 @@
    "published_ms": 1792604940000,
    "section": "ספורט",
    "title": "השופטת של מכבי בוולנסיה הושעתה מהיורוליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-77e84fd2aa091a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793428587582,
+   "content_type": "article",
+   "first_seen_ms": 1793428587582,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793428500000,
+   "section": "ספורט",
+   "title": "NO אלייז`ה, NO פארטי: הדה ז`וו של הפועל"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-79743d2d8e631a1027.htm": {
    "check_attempts": 1,
