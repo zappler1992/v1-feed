@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793484449144,
+ "last_run_ms": 1793484749221,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53138,6 +53138,18 @@
    "published_ms": 1793042100000,
    "section": "",
    "title": "כך נכשל הניסיון של נתניהו לגרום לווינטר לפרוש"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b16ea88113391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-b16ea88113391a1027.htm",
+   "checked_ms": 1793484749221,
+   "content_type": "article",
+   "first_seen_ms": 1793484749221,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793479860000,
+   "section": "",
+   "title": "המועד בו הסיכוי לחידוש המלחמה יעלה - בצורה דרמטית"
   },
   "https://www.mako.co.il/special-mako-news/Article-b1e2c489b3b01a1027.htm": {
    "check_attempts": 1,
