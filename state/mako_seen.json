@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793456549643,
+ "last_run_ms": 1793456849283,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13398,6 +13398,18 @@
    "published_ms": 1790844180000,
    "section": "ספורט",
    "title": "כך רטנר עשוי לחזור לרוטציה של מכבי חיפה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e450930eb4291a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793456849283,
+   "content_type": "article",
+   "first_seen_ms": 1793456849283,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793456520000,
+   "section": "ספורט",
+   "title": "הצביעו ברגליים: כמות הקהל באצטדיון טדי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-e4c1e06135c71a1026.htm": {
    "check_attempts": 1,
@@ -36999,7 +37011,7 @@
    "indexnow_ms": 1793454507234,
    "published_ms": 1793454420000,
    "section": "",
-   "title": "\"עבורנו זה לא רק ציוד. זו ההנצחה של אבא\""
+   "title": "בפעם השנייה השנה: הטראומה של משפחת הלוחם שנפל ב-7/10"
   },
   "https://www.mako.co.il/men-men_news/Article-01ed5b35e67d0a1026.htm": {
    "check_attempts": 1,
