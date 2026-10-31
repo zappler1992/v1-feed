@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793480249000,
+ "last_run_ms": 1793480549074,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -46649,6 +46649,18 @@
    "section": "דיגיטל",
    "title": "הפכו להזדמנות: התופעה החדשה בקרב מפוטרים"
   },
+  "https://www.mako.co.il/nexter-news/Article-19e0a9e23b391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793480549074,
+   "content_type": "article",
+   "first_seen_ms": 1793480549074,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793479860000,
+   "section": "דיגיטל",
+   "title": "שיחת ההונאה שמלחיצה ישראלים: \"התרעת אבטחה מטהרן\""
+  },
   "https://www.mako.co.il/nexter-news/Article-1a04fb0f5dce0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -60685,7 +60697,7 @@
    "indexnow_ms": null,
    "published_ms": 1793469780000,
    "section": "",
-   "title": "הריאיון שעורר סערה: \"תוצאה של הכיבוש והטרור היהודי\""
+   "title": "הרגע של חלי גולדנברג הגיע עד לאל-ג'זירה"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8361105303b11a1027.htm": {
    "check_attempts": 1,
