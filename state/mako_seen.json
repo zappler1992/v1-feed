@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793468848756,
+ "last_run_ms": 1793469148763,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53162,6 +53162,18 @@
    "published_ms": 1790577600000,
    "section": "",
    "title": "למדה לקח מאיראן: המעצמה שמתכוננת למלחמה עם ארה\"ב"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-cfd71abdbd291a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-cfd71abdbd291a1026.htm",
+   "checked_ms": 1793469027627,
+   "content_type": "article",
+   "first_seen_ms": 1793469027627,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793467500000,
+   "section": "",
+   "title": "אחרי הפגישה עם לפיד: המהלכים הבאים שמתכנן איזנקוט"
   },
   "https://www.mako.co.il/special-mako-news/Article-d0525519e5b51a1027.htm": {
    "check_attempts": 1,
