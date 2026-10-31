@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-b7d226ddf8391a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-130f2ba89d391a1027.htm",
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-e21ff378cd391a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -18481,6 +18482,24 @@
    "updated_ms": 1793479713000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-12aea9e23b391a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18491_31102026084627/M_Music_18491_31102026084627_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-130f2ba89d391a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"יש פה טענות שאת הפלפל\": ערן זהבי חושד שאשתו נמצאת מתחת למסכת הפלפל",
+   "duration_s": 18,
+   "first_seen_ms": 1793483246137,
+   "image": "https://img.mako.co.il/2026/10/31/M_Tarbut_18498_31102026093648_1400_1793482710743_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793482717000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"יש פה טענות שאת הפלפל\": ערן זהבי חושד שאשתו נמצאת מתחת למסכת הפלפל",
+   "type": "mivzakim",
+   "updated_ms": 1793482717000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-130f2ba89d391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18498_31102026093648/M_Tarbut_18498_31102026093648_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-13c84bf156c71a1026.htm": {
    "author": "עדכוני בידור",
@@ -116651,6 +116670,24 @@
    "updated_ms": 1793255400000,
    "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-6f964eb6a3481a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/inbie_espresso_281026/MASTER/inbie_espresso_281026/inbie_espresso_281026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-e21ff378cd391a1026.htm": {
+   "author": "TV1",
+   "date_source": "json-publishDate",
+   "description": "מרגשת עד דמעות: לא ייאמן! זאת הזמרת והשחקנית האהובה שהסתתרה מתחת למסכת הבצל העצובה",
+   "duration_s": 28,
+   "first_seen_ms": 1793483246137,
+   "image": "https://img.mako.co.il/2026/10/31/HAZAMARM_1400_1793482526031_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793482680000,
+   "sections": [
+    "הזמר במסכה"
+   ],
+   "title": "מי זאת מי זאת? מלכת הקרח היא הנחשפת מתחת למסכת הבצל",
+   "type": "general",
+   "updated_ms": 1793482680000,
+   "url": "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-e21ff378cd391a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/HAZAMRIMG/MASTER/HAZAMARM/HAZAMARM_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m07_w05/shorts-39b7f929289af91026.htm": {
    "author": "מבזקים מהעולם",
