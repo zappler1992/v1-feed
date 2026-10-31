@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-e0d44ab96ff81a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d009d7b4e4091a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bb8d7b4e4091a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-52a8d7b4e4091a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -91765,6 +91767,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-522bd2f0cb171a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/FIX_yoav_POLICE_251026/FIX_yoav_POLICE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-52a8d7b4e4091a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עלייה בטמפרטורות ללא צפי לגשם בסוף השבוע ובתחילת השבוע הבא",
+   "duration_s": 39,
+   "first_seen_ms": 1793422646742,
+   "image": "https://img.mako.co.il/2026/10/31/V1_WETHER_7998_31102026045251_1400_1793422454567_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793422461000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עלייה בטמפרטורות ללא צפי לגשם בסוף השבוע ובתחילת השבוע הבא",
+   "type": "mivzakim",
+   "updated_ms": 1793422461000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-52a8d7b4e4091a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_WETHER_7998_31102026045251/V1_WETHER_7998_31102026045251_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-536bba529eb81a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -93624,6 +93644,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9a790c9560b81a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/M_NEWS_18413_30102026042359/M_NEWS_18413_30102026042359_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bb8d7b4e4091a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "עשרות אלפי שוטרים נערכים בצרפת, גרמניה וספרד מחשש לחידוש המהומות הערב",
+   "duration_s": 43,
+   "first_seen_ms": 1793422646742,
+   "image": "https://img.mako.co.il/2026/10/31/M_NEWS_18456_31102026045241_1400_1793422458938_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793422465000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "עשרות אלפי שוטרים נערכים בצרפת, גרמניה וספרד מחשש לחידוש המהומות הערב",
+   "type": "mivzakim",
+   "updated_ms": 1793422465000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bb8d7b4e4091a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/M_NEWS_18456_31102026045241/M_NEWS_18456_31102026045241_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9bc9ec4b30471a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -95162,6 +95200,24 @@
    "updated_ms": 1792988707000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-cf61644794671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/M_NEWS_18107_26102026042332/M_NEWS_18107_26102026042332_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d009d7b4e4091a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צה״ל תקף הבוקר בכפר תיבנית בדרום לבנון",
+   "duration_s": 9,
+   "first_seen_ms": 1793422646742,
+   "image": "https://img.mako.co.il/2026/10/31/M_NEWS_18457_31102026045302_1400_1793422496944_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793422506000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צה״ל תקף הבוקר בכפר תיבנית בדרום לבנון",
+   "type": "mivzakim",
+   "updated_ms": 1793422506000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d009d7b4e4091a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/M_NEWS_18457_31102026045302/M_NEWS_18457_31102026045302_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-d06b42d702f71a1026.htm": {
    "author": "מבזקים",
