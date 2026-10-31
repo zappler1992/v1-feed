@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793422949685,
+ "last_run_ms": 1793423249496,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52033,7 +52033,7 @@
    "indexnow_ms": null,
    "published_ms": 1793390820000,
    "section": "",
-   "title": "שוטרים השתלטו על ביהמ\"ש החוקתי וסילקו את הנשיא"
+   "title": "הנשיא הסתובב עם מטוסו, המשטרה נכנסה למתחם בית המשפט"
   },
   "https://www.mako.co.il/special-mako-news/Article-6d8db4386cfd0a1026.htm": {
    "check_attempts": 1,
@@ -52490,6 +52490,18 @@
    "published_ms": 1791312480000,
    "section": "",
    "title": "ההחלטה האנטי-ישראלית בבריטניה - וסערת הענק"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-b440bf58a6e81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-b440bf58a6e81a1026.htm",
+   "checked_ms": 1793423249496,
+   "content_type": "article",
+   "first_seen_ms": 1793423249496,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793423160000,
+   "section": "",
+   "title": "נערכים לטבח: התיעודים של בכירי חמאס שחוסלו נחשפו"
   },
   "https://www.mako.co.il/special-mako-news/Article-b4889cfc9dae0a1026.htm": {
    "check_attempts": 1,
