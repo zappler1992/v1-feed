@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793423249496,
+ "last_run_ms": 1793423549526,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4796,6 +4796,18 @@
    "published_ms": 1792671120000,
    "section": "ספורט",
    "title": "אתה המכבי: הדרישה הפרועה מים מדר"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-170dd7b4e4091a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793423549526,
+   "content_type": "article",
+   "first_seen_ms": 1793423549526,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793423340000,
+   "section": "ספורט",
+   "title": "4 מיילים: ההתכתבות המלאה של דיץ וקולדבלה"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-17c2dde40cd51a1026.htm": {
    "check_attempts": 1,
