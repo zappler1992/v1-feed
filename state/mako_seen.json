@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793483849099,
+ "last_run_ms": 1793484149509,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49108,6 +49108,18 @@
    "published_ms": null,
    "section": "גאווה",
    "title": "\"מדברים על מסיבות, ולבחירות \"אין לנו כוח'\""
+  },
+  "https://www.mako.co.il/pride-news/Article-a576c9bfa4391a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793484027073,
+   "content_type": "article",
+   "first_seen_ms": 1793484027073,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "גאווה",
+   "title": "אביה פרחי: \"אמרו לנו לברוח לשוליים של המצעד\""
   },
   "https://www.mako.co.il/pride-news/Article-aa55db5c4c031a1026.htm": {
    "check_attempts": 1,

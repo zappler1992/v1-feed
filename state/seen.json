@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-130f2ba89d391a1027.htm",
-  "https://www.v-1.co.il/tv1-magazine/2026-m10_w05/shorts-e21ff378cd391a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e8262ba89d391a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4ccf2ba89d391a1027.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e5347a5a6a391a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6229,7 +6230,8 @@
    "importance": 2,
    "published_ms": 1793470616000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "עומר אדם עצר את ההופעה בפתאומיות | צפו",
    "type": "general",
@@ -6457,6 +6459,24 @@
    "updated_ms": 1793013655000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4c8a55f6ee771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ofira_tamar_2610/MASTER/ofira_tamar_2610_m/ofira_tamar_2610_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4ccf2ba89d391a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 26,
+   "first_seen_ms": 1793484146162,
+   "image": "https://img.mako.co.il/2026/10/31/rinat_ofek_311026_m_1400_1793482800219_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793482807000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"נשכב על הספה ולא זז\":  הדרמה של אופק אדנק",
+   "type": "general",
+   "updated_ms": 1793482807000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4ccf2ba89d391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/rinat_ofek_311026/MASTER/rinat_ofek_311026_m/rinat_ofek_311026_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-4f81dff07d371a1026.htm": {
    "author": "סלבס",
@@ -6807,6 +6827,24 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e3cf1339d4391a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/TALI_KLIEN_311026_FIX/TALI_KLIEN_311026_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e5347a5a6a391a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "עדן אלנה כבשה את בימות הפריים טיים והאירוויזיון - ואז נעלמה. כעת היא חושפת את המחיר הכבד של התהילה: הקריסה הנפשית, הדיכאון, וההחלטה לעזוב את תעשיית הבידור לטובת שגרת חיים רגילה ועבודה בקופת חולים.",
+   "duration_s": 99,
+   "first_seen_ms": 1793484146162,
+   "image": "https://img.mako.co.il/2026/10/31/TALI_EDEN_311026_1400_1793479494902_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793479502000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "\"רציתי למות, שתיתי מערב עד בוקר\": עדן אלנה מספרת על המשבר הגדול אחרי ההצלחה",
+   "type": "general",
+   "updated_ms": 1793479502000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e5347a5a6a391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/TALI_EDEN_311026/MASTER/TALI_EDEN_311026/TALI_EDEN_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e7ec87f991271a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
@@ -6825,6 +6863,24 @@
    "updated_ms": 1792915755000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e7ec87f991271a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/SHIR_MAAYAN_251026/MASTER/SHIR_MAAYAN_251026/SHIR_MAAYAN_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e8262ba89d391a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 11,
+   "first_seen_ms": 1793484146162,
+   "image": "https://img.mako.co.il/2026/10/31/TALI_AVSHA_311026_1400_1793483425861_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793483436000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "",
+   "type": "general",
+   "updated_ms": 1793483436000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-e8262ba89d391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/TALI_AVSHA_311026/MASTER/TALI_AVSHA_311026/TALI_AVSHA_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-efddab1bcb771a1026.htm": {
    "author": "סלבס",
@@ -9482,7 +9538,7 @@
   "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ba10b30a81291a1027.htm": {
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
-   "description": "הראפר האנטי ישראלי מאקלמור מופיע עם חולצה הקוראת לשחרורו של הארכי-מחבל מארואן עיסא מהכלא הישראלי",
+   "description": "הראפר האנטי ישראלי מאקלמור מופיע עם חולצה הקוראת לשחרורו של הארכי-מחבל מארואן ברגותי",
    "duration_s": 22,
    "first_seen_ms": 1793457746382,
    "image": "https://img.mako.co.il/2026/10/31/V1_macklemore_8005_31102026015149_1400_1793454773683_FirstFrame.jpg",
@@ -9492,9 +9548,9 @@
     "מהעולם",
     "הכי נצפים עכשיו"
    ],
-   "title": "הראפר האנטי ישראלי מאקלמור מופיע עם חולצה הקוראת לשחרורו של הארכי-מחבל מארואן עיסא מהכלא הישראלי",
+   "title": "הראפר האנטי ישראלי מאקלמור מופיע עם חולצה הקוראת לשחרורו של הארכי-מחבל מארואן ברגותי",
    "type": "mivzakim",
-   "updated_ms": 1793483340000,
+   "updated_ms": 1793483520000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-ba10b30a81291a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_macklemore_8005_31102026015149/V1_macklemore_8005_31102026015149_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -48016,7 +48072,8 @@
    "importance": 2,
    "published_ms": 1793466720000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "2.5 מיליון צפו: התמונה המזויפת שנתניהו הפיץ - בעיצומו של יום הבחירות",
    "type": "news",
@@ -48343,7 +48400,8 @@
    "importance": 2,
    "published_ms": 1793468820000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "זה לא ניו יורק: טירוף האלווין כובש את ישראל ברחובות מקושטים וילדים מחופשים",
    "type": "news",
@@ -124372,7 +124430,8 @@
    "importance": 0,
    "published_ms": 1793466127000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "ככה העולם לא ראה עוד את האפיפיור: משחק כדורסל ברומא",
    "type": "mivzakim",
@@ -124636,7 +124695,8 @@
    "importance": 0,
    "published_ms": 1793470008000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "פיצוץ - והשוטר נפגע ועולה באש: התיעוד החריג מהכאוס בצרפת",
    "type": "mivzakim",
