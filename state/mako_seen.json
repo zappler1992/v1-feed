@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793459549978,
+ "last_run_ms": 1793459849410,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12534,6 +12534,18 @@
    "published_ms": 1792467480000,
    "section": "ספורט",
    "title": "\"התגלו הבעיות\": מה שמטריד את מכבי ת\"א"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-adc52afde6291a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793459787398,
+   "content_type": "article",
+   "first_seen_ms": 1793459787398,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793459700000,
+   "section": "ספורט",
+   "title": "\"בית\"ר קופחה, טעות גדולה של דקל צינו\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ae3df92ff9551a1027.htm": {
    "check_attempts": 1,
@@ -46611,7 +46623,7 @@
    "indexnow_ms": 1793336067641,
    "published_ms": 1793281620000,
    "section": "דיגיטל",
-   "title": "\"התחלתי לקרצף ספות ותוך כדי להעלות סטוריז\""
+   "title": "\"אנחנו רוב הזמן לבד, בעיקר עם אחותי ובעלה\""
   },
   "https://www.mako.co.il/nexter-news/Article-2d42b3b1ea6e0a1026.htm": {
    "check_attempts": 1,
