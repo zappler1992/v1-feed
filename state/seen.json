@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-0215da543c391a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9f4704219c391a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5cf404219c391a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -19310,6 +19311,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5a4cca9abe381a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18339_28102026071106/M_Tarbut_18339_28102026071106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5cf404219c391a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנה זק התארחה במופע של עדן גולן וביחד ביצעו את הדואט שלהן - לונדון",
+   "duration_s": 36,
+   "first_seen_ms": 1793482046171,
+   "image": "https://img.mako.co.il/2026/10/31/M_Music_18496_31102026091856_1400_1793481618305_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793481628000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנה זק התארחה במופע של עדן גולן וביחד ביצעו את הדואט שלהן - לונדון",
+   "type": "mivzakim",
+   "updated_ms": 1793481628000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5cf404219c391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18496_31102026091856/M_Music_18496_31102026091856_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-5f49992579091a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -20371,6 +20390,24 @@
    "updated_ms": 1793305068000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9f2da4ac54981a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18403_29102026081628/M_Music_18403_29102026081628_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9f4704219c391a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עמית סגל מציג: איך שבת יוצאת ב-17:23 בירושלים והוא כבר ב-18:00 בשידור בנווה אילן",
+   "duration_s": 47,
+   "first_seen_ms": 1793482046171,
+   "image": "https://img.mako.co.il/2026/10/31/M_Tarbut_18497_31102026092144_1400_1793481839004_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793481848000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עמית סגל מציג: איך שבת יוצאת ב-17:23 בירושלים והוא כבר ב-18:00 בשידור בנווה אילן",
+   "type": "mivzakim",
+   "updated_ms": 1793481848000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-9f4704219c391a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Tarbut_18497_31102026092144/M_Tarbut_18497_31102026092144_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-a0617feb22681a1026.htm": {
    "author": "עדכוני בידור",
@@ -93231,7 +93268,7 @@
    ],
    "title": "פסע מאסון בבני ברק: נסע ברמזור אדום בין המכוניות - וכמעט דרס ילד קטן שחצה את הכביש",
    "type": "mivzakim",
-   "updated_ms": 1793478660000,
+   "updated_ms": 1793481840000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-60dd318151391a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_BNEIBRAK_8019_31102026055636/V1_BNEIBRAK_8019_31102026055636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
