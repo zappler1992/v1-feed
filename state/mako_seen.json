@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793461649432,
+ "last_run_ms": 1793461949447,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -45857,6 +45857,18 @@
    "section": "",
    "title": "אחרי החשיפה שלה - הכוכבת תחת מתקפה: \"טרגדיה\""
   },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-2734856631781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-cooking-with-keshet/einav_bublil/Article-2734856631781a1026.htm",
+   "checked_ms": 1793461827432,
+   "content_type": "article",
+   "first_seen_ms": 1793461827432,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793361600000,
+   "section": "",
+   "title": "היא טובה גם בחלבי: המתכונים של עינב בובליל"
+  },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-421c911bcf771a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/food-meals/recipes_for_shabath/Article-421c911bcf771a1027.htm",
@@ -51147,7 +51159,7 @@
    "indexnow_ms": 1793460749536,
    "published_ms": 1793459940000,
    "section": "",
-   "title": "איראן שוב מאיימת: \"ערוכים לכל פעולה של ישראל או ארה\"ב\""
+   "title": "האיום החריג מאיראן: \"ערוכים לכל פעולה של ישראל וארה\"ב\""
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-5d0c4a847e9e0a1026.htm": {
    "check_attempts": 1,
