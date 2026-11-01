@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2f5bcc9d2e591a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-074bcc9d2e591a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9590,6 +9591,25 @@
    "updated_ms": 1793086020000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-f0fad71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_frider_7814_27102026070800/V1_karind_frider_7814_27102026070800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-074bcc9d2e591a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "הכי חמודות שיש: לירז צ'רכי מספרת לבנות שלה שהיא הבצל בזמר במסכה",
+   "duration_s": 6,
+   "first_seen_ms": 1793517446105,
+   "image": "https://img.mako.co.il/2026/11/01/V1_KARIND_LIRAZ_8032_01112026065523_1400_1793516197367_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793516204000,
+   "sections": [
+    "סלבס",
+    "הזמר במסכה"
+   ],
+   "title": "הכי חמודות שיש: לירז צ'רכי מספרת לבנות שלה שהיא הבצל בזמר במסכה",
+   "type": "mivzakim",
+   "updated_ms": 1793516204000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-074bcc9d2e591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_LIRAZ_8032_01112026065523/V1_KARIND_LIRAZ_8032_01112026065523_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm": {
    "author": "מבזקי סלבס",
@@ -21707,6 +21727,24 @@
    "updated_ms": 1793511164000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e04f9e20d8591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18509_01112026053132/M_Tarbut_18509_01112026053132_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הפעם בלי המחשוף: סידני סוויני וסקוטר בראון בתחפושת פרוותית להאלווין",
+   "duration_s": 9,
+   "first_seen_ms": 1793517446105,
+   "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18520_01112026070451_1400_1793517165542_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793517176000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הפעם בלי המחשוף: סידני סוויני וסקוטר בראון בתחפושת פרוותית להאלווין",
+   "type": "mivzakim",
+   "updated_ms": 1793517176000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18520_01112026070451/M_Celebs_18520_01112026070451_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
