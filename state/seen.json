@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-efb7771285891a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7cbe771285891a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-efe706dbc4891a1026.htm",
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m11_w01/shorts-d51e6d7867891a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -33179,6 +33179,24 @@
    "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m10_w04/shorts-da33d96414961a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/23/MAYA_WINTER_231026/MASTER/MAYA_WINTER_231026/MAYA_WINTER_231026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/lifestyle-magazine/2026-m11_w01/shorts-d51e6d7867891a1026.htm": {
+   "author": "לייף & סטייל",
+   "date_source": "json-publishDate",
+   "description": "מחקר חדש מדרום קוריאה קובע שקשיות מנייר למעשה מזיקות לסביבה הרבה יותר מקשיות הפלסטיק הישנות. לפי המחקר, שבחן 16 מדדים אקולוגיים, קשיות פלסטיק הציגו את טביעת הרגל הסביבתית הנמוכה ביותר ב-10 מהם. לעומתן, קשיות נייר פולטות פי 6 יותר חומרים מסרטנים וגורמות לפי 2 יותר נזק של חומציות סביבתית. גם מיתוס המיחזור נופץ: מתברר שקשיות הנייר קטנות מדי בשביל מערכות המיון, והדבק והציפוי שלהן מונעים פירוק יעיל, כך שהן כמעט ולא ממוחזרות בפועל.",
+   "duration_s": 83,
+   "first_seen_ms": 1793560946272,
+   "image": "https://img.mako.co.il/2026/11/01/inbie_straw_011126_1400_1793559894928_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793559901000,
+   "sections": [
+    "לייף & סטייל"
+   ],
+   "title": "בטוחים שקשיות הנייר מצילות את כדור הארץ? תחשבו שוב",
+   "type": "general",
+   "updated_ms": 1793559901000,
+   "url": "https://www.v-1.co.il/lifestyle-magazine/2026-m11_w01/shorts-d51e6d7867891a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/inbie_straw_011126/MASTER/inbie_straw_011126/inbie_straw_011126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/living_healthy-magazine/2025-m07_w03/shorts-5251f6336830891026.htm": {
    "author": "חיים בריא",
    "date_source": null,
@@ -50109,6 +50127,22 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-efb7771285891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIRA_RISAHON_011126/MASTER/SHIRA_RISAHON_011126_M/SHIRA_RISAHON_011126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-efe706dbc4891a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לפי מקורות ישראליים ואמריקניים, טראמפ ונתניהו קיימו שיחה \"ישירה ונוקבת\" על המשא ומתן עם איראן. נתניהו מודאג מהמגעים ולוחץ לחדש את המלחמה לאחר בחירות האמצע בארה\"ב, בעוד טראמפ מעוניין למצות את השיחות ולא רוצה שישראל תפריע להן. במקביל, הנשיא האמריקני הזהיר מפני תקיפה נוספת של אתרי הגרעין באיראן: \"יכולים לעשות את זה בעשר דקות\".\nמתוך חדשות 12",
+   "duration_s": 62,
+   "first_seen_ms": 1793560946272,
+   "image": "https://img.mako.co.il/2026/11/01/netfixfix_1400_1793558113812_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793557901000,
+   "sections": [],
+   "title": "השיחה הנוקבת בין טראמפ לנתניהו על איראן: בדרך לתקיפה או להסכם?",
+   "type": "news",
+   "updated_ms": 1793557901000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-efe706dbc4891a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/netfixfix/netfixfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f26e23a23a591a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -50138,7 +50172,8 @@
    "importance": 2,
    "published_ms": 1793547480000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "שלושת הסימנים שמעלים את החשש לחידוש המלחמה עם איראן",
    "type": "news",
@@ -112229,7 +112264,8 @@
    "importance": 2,
    "published_ms": 1793547960000,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "הכי נצפים עכשיו"
    ],
    "title": "60 שניות עם אהבת השם גורדון",
    "type": "general",
