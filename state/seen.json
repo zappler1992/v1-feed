@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-d6fdcc9d2e591a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-7123a7ed1d791a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-4e0a412fec791a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7030,6 +7031,24 @@
    "updated_ms": 1793518808000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0a44180c40691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Ian_01112026/MASTER/Kim_Ian_01112026/Kim_Ian_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-7123a7ed1d791a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "המשפיענית שיתפה את עוקביה בסיבת היעלמותה בימים האחרונים, ותיארה תחושות גופניות קשות וחוסר יכולת לתפקד: \"אני ממש מקווה להתחזק ולחזור עוד כמה ימים\"",
+   "duration_s": 33,
+   "first_seen_ms": 1793550745948,
+   "image": "https://img.mako.co.il/2026/11/01/inbalamit11m_1400_1793549375446_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793549382000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "דניאל עמית: \"אני חווה חרדות קשות\"",
+   "type": "general",
+   "updated_ms": 1793549382000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-7123a7ed1d791a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/inbalamit11/MASTER/inbalamit11m/inbalamit11m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-95d99a66cf591a1026.htm": {
    "author": "סלבס",
@@ -29590,6 +29609,24 @@
    "updated_ms": 1793543532000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-41d644dd67791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/inbalmatos01126/MASTER/inbalmatos01126m/inbalmatos01126m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-4e0a412fec791a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "אירוע מטריד בטורקיה: אם באיסטנבול תועדה דוחפת את עגלת התינוק שלה לתוך הרכבת,\nכאשר בשניה האחרונה נבלם אסון נוראי.",
+   "duration_s": 12,
+   "first_seen_ms": 1793550745948,
+   "image": "https://img.mako.co.il/2026/11/01/Kim_Accident_01112026_1400_1793548517833_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793548525000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "כמעט אסון: האמא דחפה את עגלת התינוק ישר לתוך הרכבת הנוסעת",
+   "type": "general",
+   "updated_ms": 1793548525000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-4e0a412fec791a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Accident_01112026/MASTER/Kim_Accident_01112026/Kim_Accident_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-f05b3fa71a791a1026.htm": {
    "author": "מהעולם",
