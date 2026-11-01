@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793516848906,
+ "last_run_ms": 1793517149013,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18652,6 +18652,18 @@
    "published_ms": 1791618780000,
    "section": "ספורט",
    "title": "רז הרשקו זכתה במדליית ארד באליפות העולם"
+  },
+  "https://www.mako.co.il/Sports-others/q4_2026/Article-fd93cc9d2e591a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793517149013,
+   "content_type": "article",
+   "first_seen_ms": 1793517149013,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793516640000,
+   "section": "ספורט",
+   "title": "אבישג סמברג הודיעה על פרישה מטאקוונדו"
   },
   "https://www.mako.co.il/Sports-others/tennis-q4_2026/Article-26ac4d6246c01a1027.htm": {
    "check_attempts": 1,
@@ -37431,7 +37443,7 @@
    "indexnow_ms": 1793454507234,
    "published_ms": 1793454420000,
    "section": "",
-   "title": "בפעם השנייה השנה: הטראומה של משפחת הלוחם שנפל ב-7/10"
+   "title": "\"עבורנו זה לא רק ציוד. זו ההנצחה של אבא\""
   },
   "https://www.mako.co.il/men-men_news/Article-01ed5b35e67d0a1026.htm": {
    "check_attempts": 1,
@@ -39567,7 +39579,7 @@
    "indexnow_ms": 1793474906843,
    "published_ms": 1793474460000,
    "section": "",
-   "title": "התעלל באשתו הנכה: החשד החמור נגד קצין המשטרה הבכיר"
+   "title": "קצין במשטרה נעצר בחשד שתקף את אשתו הנכה"
   },
   "https://www.mako.co.il/men-men_news/Article-607bf4ecb1d71a1026.htm": {
    "check_attempts": 1,
@@ -39891,7 +39903,7 @@
    "indexnow_ms": 1793226040973,
    "published_ms": 1793447460000,
    "section": "",
-   "title": "\"אירוע חמור, לא ברור באיזו סמכות נוהל המרדף\""
+   "title": "התיעוד שהסעיר את הרשת: \"זה אירוע חמור\""
   },
   "https://www.mako.co.il/men-men_news/Article-6fb206c981111a1026.htm": {
    "check_attempts": 1,
@@ -41283,7 +41295,7 @@
    "indexnow_ms": 1793509587199,
    "published_ms": 1793509200000,
    "section": "",
-   "title": "\"ראש העיר היה מודע\": מכה נוספת לרפי ומיטל סער"
+   "title": "הלכו המרצדס והאאודי: מכה נוספת לרפי ומיטל סער"
   },
   "https://www.mako.co.il/men-men_news/Article-ac190f64a5f31a1026.htm": {
    "check_attempts": 1,
@@ -44643,7 +44655,7 @@
    "indexnow_ms": null,
    "published_ms": 1793479200000,
    "section": "",
-   "title": "זמרת בין-לאומית: המפורסמת שנחשפה ב\"הזמר במסכה\""
+   "title": "זמרת בינלאומית: המפורסמת שנחשפה ב\"הזמר במסכה"
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-3ea0036fef461a1027.htm": {
    "check_attempts": 1,
@@ -49984,6 +49996,18 @@
    "published_ms": 1792312260000,
    "section": "צבא וביטחון",
    "title": "חוששת? המהלך של טורקיה כדי שלא להילחם בחות'ים"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-3559cc9d2e591a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793517027332,
+   "content_type": "article",
+   "first_seen_ms": 1793517027332,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793516280000,
+   "section": "",
+   "title": "התרחיש באיראן שממנו חוששים בארה\"ב - והאיומים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-35bdb93d357e0a1026.htm": {
    "check_attempts": 1,
