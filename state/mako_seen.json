@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793562149198,
+ "last_run_ms": 1793562449226,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21197,6 +21197,18 @@
    "section": "",
    "title": "ההצהרה המפתיעה של בר רפאלי על אופירה אסייג"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-35886d7867891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793562449226,
+   "content_type": "article",
+   "first_seen_ms": 1793562449226,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793562360000,
+   "section": "",
+   "title": "ההתכתבות הסוערת של אדוה דדון ואוהד בוזגלו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-35a33a560bd51a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35415,7 +35427,7 @@
    "indexnow_ms": null,
    "published_ms": 1793550300000,
    "section": "",
-   "title": "דוד של מור שמלי: \"ידענו שהמסכה מסתירה. לא הופתעתי\""
+   "title": "\"ידענו שהמסכה מסתירה. לא הופתעתי\""
   },
   "https://www.mako.co.il/home-family-relationship/Article-2092a90900771a1027.htm": {
    "check_attempts": 1,
