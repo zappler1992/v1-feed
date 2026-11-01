@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793539949625,
+ "last_run_ms": 1793540250607,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22829,6 +22829,18 @@
    "section": "סלבס",
    "title": "כוכב \"האח\" שנעצר מגיב: \"מה שבינינו צריך להיפתר בינינו\""
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-fe3af9fb72791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793540250607,
+   "content_type": "article",
+   "first_seen_ms": 1793540250607,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793539980000,
+   "section": "סלבס",
+   "title": "\"הוא ראה אותי עם הילדות וניסה לדרוס אותנו\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-feebf73293371a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45412,6 +45424,18 @@
    "published_ms": 1793171400000,
    "section": "סלבס",
    "title": "\"אפשר לפטר אותה\": ההודעה שהסעירה את מירן בוזגלו"
+  },
+  "https://www.mako.co.il/news-entertainment/2026_q4/Article-8e539c380f691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/entertainment-celebs/local-2026/Article-8e539c380f691a1027.htm",
+   "checked_ms": 1793540187450,
+   "content_type": "article",
+   "first_seen_ms": 1793540187450,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793539200000,
+   "section": "סלבס",
+   "title": "\"חנקו והטיחו אותי על הרצפה, נעלו אותי בבית\""
   },
   "https://www.mako.co.il/news-entertainment/2026_q4/Article-9b469646293e0a1027.htm": {
    "check_attempts": 1,
