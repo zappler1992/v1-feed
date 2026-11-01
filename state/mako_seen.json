@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793526149391,
+ "last_run_ms": 1793526449307,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1493,7 +1493,7 @@
    "first_seen_ms": 1793525849388,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793525584000,
    "section": "",
    "title": "גילינו מאיפה השמלה המטורפת של מיכל פעילן, ואנחנו בשוק"
   },
@@ -30929,6 +30929,18 @@
    "section": "",
    "title": "בת 14 אושפזה בטיפול נמרץ - בעקבות החלקת שיער"
   },
+  "https://www.mako.co.il/health-news/Article-c53e03d3a9271a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793526449307,
+   "content_type": "article",
+   "first_seen_ms": 1793526449307,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793526240000,
+   "section": "בריאות",
+   "title": "שני השדיים נכרתו - אך הגידול נותר"
+  },
   "https://www.mako.co.il/health-news/Article-c5a9f764cd681a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -48292,6 +48304,18 @@
    "published_ms": 1793105220000,
    "section": "",
    "title": "הפוליטיקאים לא מפסיקים להתקשר היום - ככה תחסמו אותם"
+  },
+  "https://www.mako.co.il/nexter-news/Article-99e8214a86691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793526266991,
+   "content_type": "article",
+   "first_seen_ms": 1793526266991,
+   "indexable": true,
+   "indexnow_ms": 1793526266991,
+   "published_ms": 1793525100000,
+   "section": "דיגיטל",
+   "title": "החוקר הפסיק לחסוך לפנסיה: \"ה-AI ישמיד אותנו\""
   },
   "https://www.mako.co.il/nexter-news/Article-9a2d751855f51a1026.htm": {
    "check_attempts": 1,

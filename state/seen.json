@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4716214a86691a1027.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-75b19110a2881a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-230cb44f96691a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-353973c9c7691a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1387,6 +1389,24 @@
    "updated_ms": 1793094540000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m10_w05/shorts-ffa41ac177771a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/ACADEMY_OF_LIES_EP21/MASTER/ACADEMY_OF_LIES_EP21/ACADEMY_OF_LIES_EP21_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-230cb44f96691a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 25: כשאוליביה שוב דורשת ממנה להיות מושלמת, מיה נשברת ומספרת כמה קשה לה לעמוד בציפיות שלה. בספרייה מחכה לה עוד השפלה מאשלי, אבל הפעם מיה מפסיקה לספוג ומבהירה שהיא יודעת על ההתחזות. כשאשלי מתרברבת בכך שגם ג׳אד נטש אותה, מיה חושדת שהיא אחראית לריחוק שלו - ומציבה לה אולטימטום: לספר את האמת, לפני שתעשה זאת בעצמה.",
+   "duration_s": 168,
+   "first_seen_ms": 1793526446398,
+   "image": "https://img.mako.co.il/2026/11/01/ACADEMY_OF_LIES_EP25_1400_1793525067794_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793526120000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "בקצב השקר פרק 25: תחשפי או שאחשוף בעצמי",
+   "type": "series",
+   "updated_ms": 1793526120000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-230cb44f96691a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/ACADEMY_OF_LIES_EP25/MASTER/ACADEMY_OF_LIES_EP25/ACADEMY_OF_LIES_EP25_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -21694,6 +21714,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-23d89a66cf591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18523_01112026072125/M_Music_18523_01112026072125_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-353973c9c7691a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בזוגיות חדשה? לירז צ׳רכי מגיבה לפרסומים: ״לא מאשרת ולא מכחישה״",
+   "duration_s": 41,
+   "first_seen_ms": 1793526446398,
+   "image": "https://img.mako.co.il/2026/11/01/M_Tarbut_18532_01112026094106_1400_1793526161268_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793526168000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בזוגיות חדשה? לירז צ׳רכי מגיבה לפרסומים: ״לא מאשרת ולא מכחישה״",
+   "type": "mivzakim",
+   "updated_ms": 1793526168000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-353973c9c7691a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18532_01112026094106/M_Tarbut_18532_01112026094106_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-37b484345d591a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23798,7 +23836,7 @@
    ],
    "title": "אל תזרקו קליפות לימון: הטריק המפתיע שישדרג את הריח בבית",
    "type": "general",
-   "updated_ms": 1793428728000,
+   "updated_ms": 1793526120000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m10_w05/shorts-891f992579091a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/SHIR_LEMON_311026/MASTER/SHIR_LEMON_311026/SHIR_LEMON_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -35570,6 +35608,24 @@
    "updated_ms": 1792572060000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-dd57a0dcc1951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/LOVE_CORNER_EP35/MASTER/LOVE_CORNER_EP35_M/LOVE_CORNER_EP35_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-75b19110a2881a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 44: עדן מספרת לעודד שליאור מתחמק ממנה, וביטול הסטודיו משבש לה את תוכניות העבודה. בינתיים, אלונה מגיעה לבית של ליאור ומודה שהוא גורם לה להרגיש משהו שלא הרגישה הרבה זמן, אבל השקרים לגולן ולעדן קשים לה. ליאור מתעקש שהרגשות ביניהם אמיתיים ורוצה שכבר יקבלו החלטה.",
+   "duration_s": 164,
+   "first_seen_ms": 1793526446398,
+   "image": "https://img.mako.co.il/2026/10/29/LOVE_CORNER_EP44_M_1400_1793286224537_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793526000000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "אהבה מעבר לפינה פרק 44: פותחת את הלב",
+   "type": "series",
+   "updated_ms": 1793526000000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-75b19110a2881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/LOVE_CORNER_EP44/MASTER/LOVE_CORNER_EP44_M/LOVE_CORNER_EP44_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-a5109110a2881a1026.htm": {
    "author": "אהבה מעבר לפינה",
@@ -99135,10 +99191,13 @@
    "image": "https://img.mako.co.il/2026/10/29/POLISHUK_EP25_1400_1793298239496_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793298250000,
-   "sections": [],
+   "sections": [
+    "הפרק היומי",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 25: באולפן כוכב, בלשכה צרות",
    "type": "series",
-   "updated_ms": 1793298250000,
+   "updated_ms": 1793526060000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-2ab3c841ad881a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/POLISHUK_EP25/MASTER/POLISHUK_EP25/POLISHUK_EP25_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
