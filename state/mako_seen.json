@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793531249243,
+ "last_run_ms": 1793531549258,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1496,6 +1496,18 @@
    "published_ms": 1793525584000,
    "section": "",
    "title": "עדיין בשוק שגילינו מאיפה השמלה המטורפת של כתבת החדשות"
+  },
+  "https://fashionforward.mako.co.il/news/322647/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793531549258,
+   "content_type": "post",
+   "first_seen_ms": 1793531549258,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "סשה אדם ויתרה על בגדי המעצבים לטובת ג'ינס וטי-שירט"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -11058,6 +11070,18 @@
    "published_ms": 1791834300000,
    "section": "ספורט",
    "title": "צפו בברזאו: \"מכבי חיפה היא הטובה בישראל\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-366794c07b691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793531549258,
+   "content_type": "article",
+   "first_seen_ms": 1793531549258,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793531160000,
+   "section": "ספורט",
+   "title": "\"הפנדל נגד בית\"ר? בכלל לא בטוח שזו טעות\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3697db5c4c031a1026.htm": {
    "check_attempts": 1,
