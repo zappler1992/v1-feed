@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793552248941,
+ "last_run_ms": 1793552548881,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35285,6 +35285,18 @@
    "section": "הורים",
    "title": "שלוש שנים, חצי ק\"מ מעזה: \"כלום לא השתנה כאן\""
   },
+  "https://www.mako.co.il/home-family-relationship/Article-1aa7412fec791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793552306946,
+   "content_type": "article",
+   "first_seen_ms": 1793552306946,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793550300000,
+   "section": "",
+   "title": "דודה של מור שמלי: \"לא הופתעתי\""
+  },
   "https://www.mako.co.il/home-family-relationship/Article-2092a90900771a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -51411,7 +51423,7 @@
    "indexnow_ms": null,
    "published_ms": 1793542440000,
    "section": "צבא וביטחון",
-   "title": "אחרי האירוע החריג: הזירה החדשה שמתחממת בגבול"
+   "title": "אחרי אירוע חריג: הזירה החדשה שמתחממת בגבול"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
