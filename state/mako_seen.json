@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793548048795,
+ "last_run_ms": 1793548348845,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -47093,6 +47093,18 @@
    "section": "ספורט",
    "title": "\"נכנס לרדאר\": קסטין ירכוש קבוצה חדשה?"
   },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-947d96dd6b791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793548348845,
+   "content_type": "article",
+   "first_seen_ms": 1793548348845,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793547720000,
+   "section": "ספורט",
+   "title": "\"גמור כבר 8 שנים\": טן האח \"ריסק\" את CR7"
+  },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-9f506d109f031a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -54518,6 +54530,18 @@
    "published_ms": 1791913920000,
    "section": "",
    "title": "שיחת נתניהו וטראמפ - והחשש לקיום הבחירות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-c16951e178791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793548226741,
+   "content_type": "article",
+   "first_seen_ms": 1793548226741,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793547900000,
+   "section": "",
+   "title": "ביהדות התורה לא שוללים חבירה לאיזנקוט: \"הרבנים יחליטו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-c37025c877311a1027.htm": {
    "check_attempts": 1,
