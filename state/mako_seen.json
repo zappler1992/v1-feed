@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793519548988,
+ "last_run_ms": 1793519849957,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34133,6 +34133,18 @@
    "section": "",
    "title": "אלה בתי הספר שהצטיינו בבגרות: חפשו את שלכם"
   },
+  "https://www.mako.co.il/home-family-kids/Article-0cf44b59f0691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519787561,
+   "content_type": "article",
+   "first_seen_ms": 1793519787561,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793519340000,
+   "section": "הורים",
+   "title": "האמא נחרדה: בת ה-6 יצרה תמונה שלה בגיל 25"
+  },
   "https://www.mako.co.il/home-family-kids/Article-104252719fb01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37204,6 +37216,18 @@
    "published_ms": 1793079960000,
    "section": "",
    "title": "עם עדן בן זקן: חגיגת הענק של כוכב הרשת בבויה"
+  },
+  "https://www.mako.co.il/makoz-news/Article-8553180c40691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519787561,
+   "content_type": "article",
+   "first_seen_ms": 1793519787561,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793519040000,
+   "section": "",
+   "title": "\"יהודי, תעוף מפה\": אהבת השם גורדון הותקף בתאילנד"
   },
   "https://www.mako.co.il/makoz-news/Article-96b6656efbda0a1027.htm": {
    "check_attempts": 1,
