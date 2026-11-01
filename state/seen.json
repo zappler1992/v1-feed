@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f09d1dcad2591a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6872,7 +6872,8 @@
    "importance": 1,
    "published_ms": 1793483436000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "\"לך תז**** ילד יהודי\": אהבת השם גורדון הותקף בתאילנד",
    "type": "general",
@@ -97741,6 +97742,24 @@
    "updated_ms": 1793117752000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ff8778de91e71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/M_NEWS_18259_27102026041427/M_NEWS_18259_27102026041427_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צעיר בשנות ה-20 לחייו נפצע הלילה בינוני בתאונת דרכים בכביש החוף באזור מחלף פולג",
+   "duration_s": 9,
+   "first_seen_ms": 1793506645843,
+   "image": "https://img.mako.co.il/2026/11/01/M_NEWS_18503_01112026041236_1400_1793506439210_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793506446000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צעיר בשנות ה-20 לחייו נפצע הלילה בינוני בתאונת דרכים בכביש החוף באזור מחלף פולג",
+   "type": "mivzakim",
+   "updated_ms": 1793506446000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18503_01112026041236/M_NEWS_18503_01112026041236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8165d994a2591a1027.htm": {
    "author": "מבזקים",
