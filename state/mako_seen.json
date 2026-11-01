@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793554648978,
+ "last_run_ms": 1793554948888,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11154,6 +11154,18 @@
    "published_ms": 1793531160000,
    "section": "ספורט",
    "title": "\"הפנדל נגד בית\"ר? בכלל לא בטוח שזו טעות\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-366e43bac2891a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793554948888,
+   "content_type": "article",
+   "first_seen_ms": 1793554948888,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793554620000,
+   "section": "ספורט",
+   "title": "\"איך אישרו את זה?\": סערת הדרבי הירושלמי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3697db5c4c031a1026.htm": {
    "check_attempts": 1,
@@ -35319,7 +35331,7 @@
    "indexnow_ms": null,
    "published_ms": 1793550300000,
    "section": "",
-   "title": "דודה של מור שמלי: \"לא הופתעתי\""
+   "title": "דוד של מור שמלי: \"ידענו שהמסכה מסתירה פצע. לא הופתעתי\""
   },
   "https://www.mako.co.il/home-family-relationship/Article-2092a90900771a1027.htm": {
    "check_attempts": 1,
@@ -44596,6 +44608,18 @@
    "published_ms": 1790506200000,
    "section": "מוזיקה",
    "title": "זה העונש שתקבל האיראנית שהופיעה ללא חיג'אב"
+  },
+  "https://www.mako.co.il/music-news/Article-84375d9781891a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793554948888,
+   "content_type": "article",
+   "first_seen_ms": 1793554948888,
+   "indexable": true,
+   "indexnow_ms": 1793554948888,
+   "published_ms": 1793554740000,
+   "section": "מוזיקה",
+   "title": "חואן אטקינס, ממייסדי ז'אנר הטכנו, מת בגיל 64"
   },
   "https://www.mako.co.il/music-news/Article-8d1a9e4c23871a1026.htm": {
    "check_attempts": 1,
