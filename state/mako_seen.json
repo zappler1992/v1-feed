@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793512948806,
+ "last_run_ms": 1793513248741,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -40299,7 +40299,7 @@
    "indexnow_ms": 1793477666922,
    "published_ms": 1793477520000,
    "section": "",
-   "title": "הסיוט של תושבת עפולה: \"יכולתי למות, קרעו לי את הבשר\""
+   "title": "הסיוט של תושבת עפולה - \"יכולתי למות, קרעו לי את הבשר\""
   },
   "https://www.mako.co.il/men-men_news/Article-80a708c864dc0a1027.htm": {
    "check_attempts": 1,
@@ -54098,6 +54098,18 @@
    "published_ms": 1792868160000,
    "section": "",
    "title": "המהומות באירופה: רעולי פנים פשטו על הקולוסיאום"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-3cf4ab2789391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/liveblog-3cf4ab2789391a1026.htm",
+   "checked_ms": 1793513187243,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793513187243,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793512860000,
+   "section": "",
+   "title": "התוכנית של איזנקוט מתבהרת - וההחלטה המסתמנת של החרדים"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-40a48b9854561a1026.htm": {
    "check_attempts": 1,
