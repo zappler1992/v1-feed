@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793522549724,
+ "last_run_ms": 1793522849168,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -58359,6 +58359,18 @@
    "section": "",
    "title": "\"היה לחץ וצעקות ופאניקה - קפצו על התוקף\""
   },
+  "https://www.mako.co.il/travel-news/israel/Article-e9c646b0e2691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793522849168,
+   "content_type": "article",
+   "first_seen_ms": 1793522849168,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793522280000,
+   "section": "חופש",
+   "title": "החל מהיום: בשורות שובות למי שצריך לחדש דרכון"
+  },
   "https://www.mako.co.il/travel-news/israel/Article-eb4b9e961fd41a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -61970,6 +61982,18 @@
    "published_ms": 1791175440000,
    "section": "תרבות tvbee",
    "title": "הסדרה הזאת כל כך ממכרת שהיא כמעט מסוכנת"
+  },
+  "https://www.mako.co.il/tvbee-tv-review/Article-42a9011d02371a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793522849168,
+   "content_type": "article",
+   "first_seen_ms": 1793522849168,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793522640000,
+   "section": "תרבות tvbee",
+   "title": "הסדרה עוכרת השלווה משיגה את כל מה שהיא רוצה"
   },
   "https://www.mako.co.il/tvbee-tv-review/Article-55f445a937a00a1026.htm": {
    "check_attempts": 1,
