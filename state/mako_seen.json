@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793525249601,
+ "last_run_ms": 1793525549400,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39004,6 +39004,18 @@
    "published_ms": 1790313420000,
    "section": "",
    "title": "השכנים שמו לב לסל המצרכים - וגילו את הטרגדיה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-3951c5c436691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793525426949,
+   "content_type": "article",
+   "first_seen_ms": 1793525426949,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793524740000,
+   "section": "פלילים",
+   "title": "בגלל ריב עם משפחתו: בן 15 השחית בית כנסת"
   },
   "https://www.mako.co.il/men-men_news/Article-39a191323fb31a1027.htm": {
    "check_attempts": 1,
