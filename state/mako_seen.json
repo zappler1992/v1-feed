@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793557350145,
+ "last_run_ms": 1793557649095,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11610,6 +11610,18 @@
    "published_ms": 1791536100000,
    "section": "ספורט",
    "title": "קשר בני יהודה ובית שאן לשעבר נכנס לקומה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5c3506dbc4891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793557649095,
+   "content_type": "article",
+   "first_seen_ms": 1793557649095,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793557440000,
+   "section": "ספורט",
+   "title": "\"כל הגדולות הכירו, למה לא נלחמו עליו?\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5cbea952d1f31a1027.htm": {
    "check_attempts": 1,
