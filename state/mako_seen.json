@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793513248741,
+ "last_run_ms": 1793513548730,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43781,6 +43781,18 @@
    "section": "מוזיקה",
    "title": "8 שנים אחרי מנת יתר: הכוכבת הגיעה שוב לבית החולים"
   },
+  "https://www.mako.co.il/music-news/Article-9d696596a9591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793513427280,
+   "content_type": "article",
+   "first_seen_ms": 1793513427280,
+   "indexable": true,
+   "indexnow_ms": 1793513427280,
+   "published_ms": 1793512380000,
+   "section": "",
+   "title": "\"מצב חירום רפואי\": הדרמה סביב מצבו של הזמר האגדי"
+  },
   "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -60937,7 +60949,7 @@
    "indexnow_ms": null,
    "published_ms": 1793469780000,
    "section": "",
-   "title": "הריאיון שעורר סערה: \"תוצאה של הכיבוש והטרור היהודי\""
+   "title": "הרגע של חלי גולדנברג הגיע עד לאל-ג'זירה"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8361105303b11a1027.htm": {
    "check_attempts": 1,
