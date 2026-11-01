@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793569349564,
+ "last_run_ms": 1793569650542,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2552,6 +2552,18 @@
    "published_ms": 1791836340000,
    "section": "ספורט",
    "title": "צפו בבכר נחשף: \"לא היה קל בשנתיים האלה\""
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-a9649948ff891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793569650542,
+   "content_type": "article",
+   "first_seen_ms": 1793569650542,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793569440000,
+   "section": "ספורט",
+   "title": "קולדבלה סיפר: היכן עומדים מאמצי הרכש?"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-aa91c92118a41a1027.htm": {
    "check_attempts": 1,
@@ -39412,6 +39424,18 @@
    "published_ms": 1791450240000,
    "section": "פלילים",
    "title": "בנו של ראש ארגון פשע עוכב לחקירה בהרצליה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-2d4e3dac00991a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793569650542,
+   "content_type": "article",
+   "first_seen_ms": 1793569650542,
+   "indexable": true,
+   "indexnow_ms": 1793569650542,
+   "published_ms": 1793568840000,
+   "section": "",
+   "title": "מכה נוספת למיטל סער: הקביעה של בית המשפט"
   },
   "https://www.mako.co.il/men-men_news/Article-2d57b472f0fd0a1026.htm": {
    "check_attempts": 1,

@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/01/M_Tarbut_18574_01112026092142_1400_1793568189507_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;אני לא מאמין&quot;: הפרה הקדושה נחשפה ב&quot;הזמר במסכה&quot;</video:title>
+<video:description>&quot;אני לא מאמין&quot;: הפרה הקדושה נחשפה ב&quot;הזמר במסכה&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18574_01112026092142/M_Tarbut_18574_01112026092142_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>46</video:duration>
+<video:publication_date>2026-11-01T21:23:16+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-80721643ee891a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/01/M_Tarbut_18573_01112026092114_1400_1793568179442_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;כולם פה גמורים&quot;: אחרי שהרימו דרינק אחד, חברי הפאנל לא מצליחים להפסיק לצחוק</video:title>
+<video:description>&quot;כולם פה גמורים&quot;: אחרי שהרימו דרינק אחד, חברי הפאנל לא מצליחים להפסיק לצחוק</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18573_01112026092114/M_Tarbut_18573_01112026092114_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>53</video:duration>
+<video:publication_date>2026-11-01T21:23:06+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-27fb8730de891a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/01/V1_Yeled_8060_01112026090758_1400_1793567371874_FirstFrame.jpg</video:thumbnail_loc>
@@ -37,8 +69,8 @@
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7327e4566e891a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/01/M_Celebs_18570_01112026085338_1400_1793566946711_FirstFrame.jpg</video:thumbnail_loc>
-<video:title>בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול. בתמונה בן אסולין בוי ג׳ורג׳ ואיציק הגדול</video:title>
-<video:description>בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול. בתמונה בן אסולין בוי ג׳ורג׳ ואיציק הגדול</video:description>
+<video:title>בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול</video:title>
+<video:description>בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול</video:description>
 <video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18570_01112026085338/M_Celebs_18570_01112026085338_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>9</video:duration>
 <video:publication_date>2026-11-01T21:02:33+00:00</video:publication_date>
@@ -305,6 +337,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -419,6 +452,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -484,6 +518,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

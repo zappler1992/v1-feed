@@ -1,12 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-6dff66354e891a1027.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-27fb8730de891a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7327e4566e891a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d48f66354e891a1027.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-34e75831dc891a1027.htm",
-  "https://www.v-1.co.il/tv1-magazine/2026-m11_w01/shorts-688666354e891a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-80721643ee891a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22062,6 +22058,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4fbf9e7ab4591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18506_01112026042319/M_Celebs_18506_01112026042319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"אני לא מאמין\": הפרה הקדושה נחשפה ב\"הזמר במסכה\"",
+   "duration_s": 46,
+   "first_seen_ms": 1793569646404,
+   "image": "https://img.mako.co.il/2026/11/01/M_Tarbut_18574_01112026092142_1400_1793568189507_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793568196000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"אני לא מאמין\": הפרה הקדושה נחשפה ב\"הזמר במסכה\"",
+   "type": "mivzakim",
+   "updated_ms": 1793568196000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18574_01112026092142/M_Tarbut_18574_01112026092142_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-60659e7e8c691a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -22105,21 +22119,21 @@
    "duration_s": 81,
    "first_seen_ms": 1793566946348,
    "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18571_01112026085621_1400_1793566702486_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793566709000,
    "sections": [
     "עדכוני בידור"
    ],
    "title": "ואלרי חמתי שרה לבעלה הטרי שיר מיוחד שכתבה לרגל החתונה",
    "type": "mivzakim",
-   "updated_ms": 1793566709000,
+   "updated_ms": 1793567400000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-6f8be4566e891a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18571_01112026085621/M_Celebs_18571_01112026085621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7327e4566e891a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
-   "description": "בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול. בתמונה בן אסולין בוי ג׳ורג׳ ואיציק הגדול",
+   "description": "בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול",
    "duration_s": 9,
    "first_seen_ms": 1793567546391,
    "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18570_01112026085338_1400_1793566946711_FirstFrame.jpg",
@@ -22128,7 +22142,7 @@
    "sections": [
     "עדכוני בידור"
    ],
-   "title": "בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול. בתמונה בן אסולין בוי ג׳ורג׳ ואיציק הגדול",
+   "title": "בוי ג׳ורג׳ הגיע הערב לארוחת בשרים באיציק הגדול",
    "type": "mivzakim",
    "updated_ms": 1793566953000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7327e4566e891a1026.htm",
@@ -22223,6 +22237,24 @@
    "updated_ms": 1793558814000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7cbe771285891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18560_01112026064529/M_Tarbut_18560_01112026064529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-80721643ee891a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"כולם פה גמורים\": אחרי שהרימו דרינק אחד, חברי הפאנל לא מצליחים להפסיק לצחוק",
+   "duration_s": 53,
+   "first_seen_ms": 1793569646404,
+   "image": "https://img.mako.co.il/2026/11/01/M_Tarbut_18573_01112026092114_1400_1793568179442_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793568186000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"כולם פה גמורים\": אחרי שהרימו דרינק אחד, חברי הפאנל לא מצליחים להפסיק לצחוק",
+   "type": "mivzakim",
+   "updated_ms": 1793568186000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-80721643ee891a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18573_01112026092114/M_Tarbut_18573_01112026092114_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8362648dfe591a1026.htm": {
    "author": "עדכוני בידור",
@@ -50273,7 +50305,8 @@
    "importance": 2,
    "published_ms": 1793554999000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "המהומות מגיעות לעוד מדינה ענקית באירופה: התיעודים הדרמטיים מגרמניה",
    "type": "news",
@@ -50325,7 +50358,9 @@
    "image": "https://img.mako.co.il/2026/11/01/SHIRA_RISAHON_011126_M_1400_1793560172227_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793560179000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "תושבים מדווחים: ריח חריף של גז מתפשט במערב ראשון לציון",
    "type": "news",
    "updated_ms": 1793560179000,
@@ -127039,7 +127074,8 @@
    "importance": 1,
    "published_ms": 1793552594000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד דרמטי מקליפורניה: מרדף בשידור חי הסתיים בהתנגשות מכוונות באופנוען נמלט",
    "type": "mivzakim",
