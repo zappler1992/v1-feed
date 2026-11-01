@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cacad3efdc691a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b5e6a1cf4b691a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -98633,6 +98634,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ca719e20d8591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18513_01112026053523/M_NEWS_18513_01112026053523_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cacad3efdc691a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איזנקוט או נתניהו? יו\"ר דגל התורה אשר צפוי להיפגש עם גולדקנופף ופרוש, כדי לתאם עמדות לגבי ההמלצה לנש",
+   "duration_s": 9,
+   "first_seen_ms": 1793531846507,
+   "image": "https://img.mako.co.il/2026/11/01/M_NEWS_18538_01112026111216_1400_1793531648434_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793531655000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איזנקוט או נתניהו? יו\"ר דגל התורה אשר צפוי להיפגש עם גולדקנופף ופרוש, כדי לתאם עמדות לגבי ההמלצה לנש",
+   "type": "mivzakim",
+   "updated_ms": 1793531655000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cacad3efdc691a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18538_01112026111216/M_NEWS_18538_01112026111216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e6dc9e7ab4591a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -100508,6 +100527,24 @@
    "updated_ms": 1793001330000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-fd56241de2771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18123_26102026075356/M_Food_18123_26102026075356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b5e6a1cf4b691a1027.htm": {
+   "author": "חן אורפז",
+   "date_source": "json-publishDate",
+   "description": "אצבעות מבצק פיסטוק ושקדים, ציפוי שוקולד מריר עם קראנץ' קורנפלקס ומלח גס מעל. הכל מוכן בשתי קערות ובמקפיא, בלי להדליק תנור. זה כל כך כיפי, כנראה שבחיים לא יימאס לנו מטרנד שוקולד דובאי",
+   "duration_s": 56,
+   "first_seen_ms": 1793531846507,
+   "image": "https://img.mako.co.il/2026/11/01/M_Food_18537_01112026110220_1400_1793531032173_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793531040000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "אפשר להכריז כבר שזה לא סתם טרנד? חטיפי דובאי קראנץ'",
+   "type": "mivzakim",
+   "updated_ms": 1793531040000,
+   "url": "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b5e6a1cf4b691a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Food_18537_01112026110220/M_Food_18537_01112026110220_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/she_has_it-magazine/2026-m04_w02/shorts-6a837bb15ad5d91027.htm": {
    "author": "יש לה את זה",
