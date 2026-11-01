@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f559d1b8f0691a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-95d99a66cf591a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0a44180c40691a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6993,6 +6994,43 @@
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m10_w05/shorts-ff193b6451a71a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/MAYA_ZAMAR_261026/MASTER/MAYA_ZAMAR_261026/MAYA_ZAMAR_261026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0a44180c40691a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "סולן להקת הרוק הבריטית דיפ פרפל, איאן גילן בן ה-81, אושפז בבית החולים בעקבות אירוע רפואי. \nבעקבות אשפוזו, הלהקה הודיעה על דחיית שתי הופעות שתוכננו להתקיים בגרמניה.",
+   "duration_s": 36,
+   "first_seen_ms": 1793520146202,
+   "image": "https://img.mako.co.il/2026/11/01/Kim_Ian_01112026_1400_1793518798261_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793518808000,
+   "sections": [
+    "סלבס",
+    "חם במוזיקה"
+   ],
+   "title": "איאן גילן, סולן להקת דיפ פרפל, הובהל לבית החולים בעקבות אירוע רפואי",
+   "type": "general",
+   "updated_ms": 1793518808000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0a44180c40691a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Ian_01112026/MASTER/Kim_Ian_01112026/Kim_Ian_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-95d99a66cf591a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "בקשה מפתיעה בכנס בחיפה הפכה לרגע מרגש במיוחד: יו\"ר ישראל ביתנו, אביגדור ליברמן, חיתן את ארטיום ואלכסנדרה.",
+   "duration_s": 46,
+   "first_seen_ms": 1793520146202,
+   "image": "https://img.mako.co.il/2026/11/01/SHIR_LIBERMAN_110126_1400_1793517814195_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793517821000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "על תקן הרב המחתן: כך מצא את עצמו אביגדור ליברמן מתחת לחופה",
+   "type": "general",
+   "updated_ms": 1793517821000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-95d99a66cf591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_LIBERMAN_110126/MASTER/SHIR_LIBERMAN_110126/SHIR_LIBERMAN_110126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
    "date_source": null,
@@ -9545,7 +9583,8 @@
    "published_ms": 1793454780000,
    "sections": [
     "מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חם במוזיקה"
    ],
    "title": "הראפר האנטי ישראלי מאקלמור מופיע עם חולצה הקוראת לשחרורו של הארכי-מחבל מארואן ברגותי",
    "type": "mivzakim",
@@ -9595,9 +9634,9 @@
    "author": "מבזקי סלבס",
    "date_source": "json-publishDate",
    "description": "הכי חמודות שיש: לירז צ'רכי מספרת לבנות שלה שהיא הבצל בזמר במסכה",
-   "duration_s": 6,
+   "duration_s": 25,
    "first_seen_ms": 1793517446105,
-   "image": "https://img.mako.co.il/2026/11/01/V1_KARIND_LIRAZ_8032_01112026065523_1400_1793516197367_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/01/FIX_LIRAZ_1400_1793519362958_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793516204000,
    "sections": [
@@ -9606,9 +9645,9 @@
    ],
    "title": "הכי חמודות שיש: לירז צ'רכי מספרת לבנות שלה שהיא הבצל בזמר במסכה",
    "type": "mivzakim",
-   "updated_ms": 1793516204000,
+   "updated_ms": 1793519340000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-074bcc9d2e591a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_LIRAZ_8032_01112026065523/V1_KARIND_LIRAZ_8032_01112026065523_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/FIX_LIRAZ/FIX_LIRAZ_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm": {
    "author": "מבזקי סלבס",

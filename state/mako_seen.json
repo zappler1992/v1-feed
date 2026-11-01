@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793519849957,
+ "last_run_ms": 1793520149023,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33125,6 +33125,18 @@
    "section": "HIX",
    "title": "יצא להעמיס פירות דקל בנהר – ומת מוות אכזרי"
   },
+  "https://www.mako.co.il/hix-special/Article-64a1b52a61691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519907575,
+   "content_type": "article",
+   "first_seen_ms": 1793519907575,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793519700000,
+   "section": "HIX",
+   "title": "שרדה כדי לספר: ככה זה מרגיש לעבור הוצאה להורג"
+  },
   "https://www.mako.co.il/hix-special/Article-6544d11f8e3e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34732,6 +34744,18 @@
    "published_ms": 1792998900000,
    "section": "הורים",
    "title": "\"אל תוותרי גם אם אומרים לך שאת צעירה מדי\""
+  },
+  "https://www.mako.co.il/home-family-relationship/Article-262c7bbc6f591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793520149023,
+   "content_type": "article",
+   "first_seen_ms": 1793520149023,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793516880000,
+   "section": "הכי חם",
+   "title": "איזנקוט חיפש את ליברמן בסופ\"ש? הוא הכניס זוג לחופה"
   },
   "https://www.mako.co.il/home-family-relationship/Article-2c1a37abab931a1027.htm": {
    "check_attempts": 1,
@@ -43971,7 +43995,7 @@
    "indexnow_ms": 1793513427280,
    "published_ms": 1793512380000,
    "section": "",
-   "title": "\"מצב חירום רפואי\": הדרמה סביב מצבו של הזמר האגדי"
+   "title": "\"מצב חירום רפואי\": סולן הלהקה האגדית אושפז"
   },
   "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
    "check_attempts": 1,
