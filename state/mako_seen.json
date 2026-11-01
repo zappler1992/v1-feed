@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793537249433,
+ "last_run_ms": 1793537549494,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38153,6 +38153,18 @@
    "section": "חדשות",
    "title": "הפרטים החדשים שנחשפו על הרצח המחריד בעכו"
   },
+  "https://www.mako.co.il/men-men_news/Article-09ee8a9732791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793537549494,
+   "content_type": "article",
+   "first_seen_ms": 1793537549494,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793537160000,
+   "section": "פלילים",
+   "title": "הכה את אחיו במוט ברזל וגרם לו לפגיעת ראש קשה"
+  },
   "https://www.mako.co.il/men-men_news/Article-0a837973917f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51783,7 +51795,7 @@
    "indexnow_ms": 1793536349449,
    "published_ms": 1793534880000,
    "section": "צבא וביטחון",
-   "title": "\"תהיו בשקט\": המסר המפתיע ששלחה ארה\"ב לבנות בריתה"
+   "title": "\"תהיו בשקט\": המסר המפתיע של ארה\"ב לבני בריתה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c94116e9a2b01a1026.htm": {
    "check_attempts": 1,
@@ -54302,6 +54314,18 @@
    "published_ms": 1790923980000,
    "section": "",
    "title": "\"הרגשתי שהמטוס צולל, ידעתי שאסור לתת להם למות\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-c9efbb269f691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-law/2026_q4/Article-c9efbb269f691a1026.htm",
+   "checked_ms": 1793537549494,
+   "content_type": "article",
+   "first_seen_ms": 1793537549494,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793537340000,
+   "section": "",
+   "title": "שב\"כ מעורב: ח\"כ נחקר בחשד שקיבל כסף מגורם זר"
   },
   "https://www.mako.co.il/special-mako-news/Article-ca7d42d702f71a1026.htm": {
    "check_attempts": 1,
@@ -57889,7 +57913,7 @@
    "indexnow_ms": 1793524349838,
    "published_ms": 1793522460000,
    "section": "חופש",
-   "title": "הדרישה מהישראלים: תגנו את המצב בארץ - או שהסיור מבוטל"
+   "title": "הדרישה המקוממת בטוסקנה מהזוג הישראלי - שבחר לא לשתוק"
   },
   "https://www.mako.co.il/travel-news/international/Article-ca25d7e2c0ce0a1026.htm": {
    "check_attempts": 1,
