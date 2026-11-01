@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793518949053,
+ "last_run_ms": 1793519248996,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27628,6 +27628,18 @@
    "published_ms": 1791216180000,
    "section": "",
    "title": "בדקתם לאחרונה כמה עולה קופסה של גלידוניות?"
+  },
+  "https://www.mako.co.il/food-cooking_magazine/new_products/Article-a0627a5f3e591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519067471,
+   "content_type": "article",
+   "first_seen_ms": 1793519067471,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793516520000,
+   "section": "",
+   "title": "בסדר, אנחנו מודים, זה לא רע הביסלי המטרוף הזה"
   },
   "https://www.mako.co.il/food-cooking_magazine/new_products/Article-c6d7b43830871a1026.htm": {
    "check_attempts": 1,
