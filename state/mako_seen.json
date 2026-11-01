@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793511748802,
+ "last_run_ms": 1793512049755,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -58406,6 +58406,18 @@
    "published_ms": 1792316520000,
    "section": "חופש",
    "title": "אפס פשיעה וללא הפגנות: המדינה הזו באירופה שקטה ורגועה"
+  },
+  "https://www.mako.co.il/travel-world/Article-c32eaec919871a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793512049755,
+   "content_type": "article",
+   "first_seen_ms": 1793512049755,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793510940000,
+   "section": "חופש",
+   "title": "הישראלים התחילו לגלות את העיר הכי נעימה באירופה"
   },
   "https://www.mako.co.il/travel-world/Article-c38b7f05fab11a1026.htm": {
    "check_attempts": 1,
