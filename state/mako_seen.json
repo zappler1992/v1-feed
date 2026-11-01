@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793555249683,
+ "last_run_ms": 1793555549929,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -23081,6 +23081,18 @@
    "section": "סלבס",
    "title": "יאנה ביקשה עזרה בהסעות בגלל מצבה, נתנאל עקץ"
   },
+  "https://www.mako.co.il/entertainment-celebs/local/Article-95b90ef091891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793555427130,
+   "content_type": "article",
+   "first_seen_ms": 1793555427130,
+   "indexable": true,
+   "indexnow_ms": 1793555427130,
+   "published_ms": 1793553180000,
+   "section": "",
+   "title": "\"אני סובלת מחרדות קשות. להחזיק את הטלפון קשה לי\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local/Article-95ef9a2e75e61a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35331,7 +35343,7 @@
    "indexnow_ms": null,
    "published_ms": 1793550300000,
    "section": "",
-   "title": "דוד של מור שמלי: \"ידענו שהמסכה מסתירה פצע. לא הופתעתי\""
+   "title": "דוד של מור שמלי: \"ידענו שהמסכה מסתירה. לא הופתעתי\""
   },
   "https://www.mako.co.il/home-family-relationship/Article-2092a90900771a1027.htm": {
    "check_attempts": 1,

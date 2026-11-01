@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-01c143bac2891a1027.htm",
+  "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-31e0b9d56f791a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21749,6 +21750,24 @@
    "updated_ms": 1793357859000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ffb7177805c81a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18432_30102026105622/M_Music_18432_30102026105622_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-01c143bac2891a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "״חרדות שמשתלטות על כל הגוף, לא מסוגלת לתפקד״: דניאל עמית משתפת מדוע נעלמה בימים האחרונים",
+   "duration_s": 9,
+   "first_seen_ms": 1793555546577,
+   "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18556_01112026053257_1400_1793555167031_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793555173000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "״חרדות שמשתלטות על כל הגוף, לא מסוגלת לתפקד״: דניאל עמית משתפת מדוע נעלמה בימים האחרונים",
+   "type": "mivzakim",
+   "updated_ms": 1793555173000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-01c143bac2891a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18556_01112026053257/M_Celebs_18556_01112026053257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-0e69c5c436691a1026.htm": {
    "author": "עדכוני בידור",
@@ -50008,16 +50027,16 @@
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "",
+   "description": "אחרי צרפת ואיטליה, גל המחאות שוטף גם את גרמניה: מה שהתחיל כמחאה לגיטימית על מצב החינוך ויוקר המחיה, הסתיים בהרס וביזה יוצאי דופן שיצאו מכלל שליטה. למעלה מאלף שוטרים הוזרמו לרחובות פרנקפורט לאחר שהמונים החלו לפרוץ לבתי עסק, להצית פחים ולהשתמש בחפצים מהרחוב כדי לרסק חלונות ראווה ולגנוב סחורה, באירועים שאילצו את הרשויות לסגור את אחד מאזורי הקניות העמוסים במדינה.",
    "duration_s": 82,
    "first_seen_ms": 1793555246116,
    "image": "https://img.mako.co.il/2026/11/01/LIRON_GERMANY_01112026M_1400_1793554992401_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793554999000,
    "sections": [],
-   "title": "",
+   "title": "המהומות מגיעות לעוד מדינה ענקית באירופה: התיעודים הדרמטיים מגרמניה",
    "type": "news",
-   "updated_ms": 1793554999000,
+   "updated_ms": 1793555160000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LIRON_GERMANY_01112026M/MASTER/LIRON_GERMANY_01112026M/LIRON_GERMANY_01112026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -112110,6 +112129,24 @@
    "updated_ms": 1793003730000,
    "url": "https://www.v-1.co.il/special-magazine/2026-m10_w05/shorts-d9d8c2e395771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/NOAB_OR_ADI_261026_M/MASTER/NOAB_OR_ADI_261026_M/NOAB_OR_ADI_261026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-31e0b9d56f791a1026.htm": {
+   "author": "מיוחד",
+   "date_source": "json-publishDate",
+   "description": "אור ועדי פותחים הכל: את מגלה שבעל של חברה טובה בוגד בה - את מספרת לה, או לא?",
+   "duration_s": 96,
+   "first_seen_ms": 1793555546577,
+   "image": "https://img.mako.co.il/2026/11/01/NOAB_ADI_OR_BIGDA2_261026_M_1400_1793551864330_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793551871000,
+   "sections": [
+    "המיוחדים"
+   ],
+   "title": "מגלה לחברה שבעלה בוגד בה - או לא?",
+   "type": "general",
+   "updated_ms": 1793551871000,
+   "url": "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-31e0b9d56f791a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/NOAB_ADI_OR_BIGDA_261026_M/MASTER/NOAB_ADI_OR_BIGDA2_261026_M/NOAB_ADI_OR_BIGDA2_261026_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-d6fdcc9d2e591a1026.htm": {
    "author": "מיוחד",
