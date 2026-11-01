@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793516548853,
+ "last_run_ms": 1793516848906,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22659,7 +22659,7 @@
    "indexnow_ms": 1793514027364,
    "published_ms": 1793478360000,
    "section": "סלבס",
-   "title": "על רקע המשבר הזוגי: התיעוד של הכוכבת הישראלית ובעלה"
+   "title": "על רקע המשבר הזוגי: התיעוד של הכוכבת ובעלה"
   },
   "https://www.mako.co.il/entertainment-celebs/local/Article-867fdaac91391a1027.htm": {
    "check_attempts": 1,
@@ -37049,6 +37049,18 @@
    "section": "",
    "title": "אורן להב: \"ראיתי את הפרסום ולא האמנתי\""
   },
+  "https://www.mako.co.il/makoz-news/Article-70cd7a5f3e591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793516787378,
+   "content_type": "article",
+   "first_seen_ms": 1793516787378,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793516100000,
+   "section": "",
+   "title": "אחרי שהתארסה: ההודעה הכואבת של לורן צרור"
+  },
   "https://www.mako.co.il/makoz-news/Article-77fba5aefa681a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -49285,9 +49297,9 @@
    "first_seen_ms": 1793484027073,
    "indexable": false,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793516700000,
    "section": "גאווה",
-   "title": "אביה פרחי: \"אמרו לנו לברוח לשוליים של המצעד\""
+   "title": "המגישה הישראלית הושפלה בחו\"ל: \"אמרו לנו לברוח לשוליים\""
   },
   "https://www.mako.co.il/pride-news/Article-aa55db5c4c031a1026.htm": {
    "check_attempts": 1,
