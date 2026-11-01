@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793536949422,
+ "last_run_ms": 1793537249433,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -40901,6 +40901,18 @@
    "section": "פלילים",
    "title": "כתב אישום נגד קצין משמרת שפגע מינית בשוטרת"
   },
+  "https://www.mako.co.il/men-men_news/Article-7fd03b37d1791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793537187317,
+   "content_type": "article",
+   "first_seen_ms": 1793537187317,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793536740000,
+   "section": "פלילים",
+   "title": "\"הן ירקו עליי, חסמו את הדרך והתחילו לאיים\""
+  },
   "https://www.mako.co.il/men-men_news/Article-800326a0fcb01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48220,6 +48232,18 @@
    "published_ms": 1790863200000,
    "section": "דיגיטל",
    "title": "כבוד מפוקפק: ישראל שנייה בעולם אחרי ארה\"ב"
+  },
+  "https://www.mako.co.il/nexter-news/Article-74eacd3d70791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793537067326,
+   "content_type": "article",
+   "first_seen_ms": 1793537067326,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793535360000,
+   "section": "דיגיטל",
+   "title": "החברה הישראלית נמכרת ב-420 מיליון דולר במזומן"
   },
   "https://www.mako.co.il/nexter-news/Article-7546a9224a7e0a1027.htm": {
    "check_attempts": 1,
