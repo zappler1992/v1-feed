@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793569949484,
+ "last_run_ms": 1793570249487,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30207,7 +30207,7 @@
    "indexnow_ms": 1793566227616,
    "published_ms": 1793565780000,
    "section": "",
-   "title": "ריח חריף של גז ברחוב: שתי נשים פונו לבית חולים"
+   "title": "ריח חריף של גז בראשל\"צ: שתי נשים פונו לבית חולים"
   },
   "https://www.mako.co.il/health-news/Article-0405105303b11a1027.htm": {
    "check_attempts": 1,
@@ -31731,7 +31731,7 @@
    "indexnow_ms": 1793528787064,
    "published_ms": 1793528400000,
    "section": "בריאות",
-   "title": "גבר עישן ליד בלון החמצן שלו - ונכווה קשות"
+   "title": "עישן ליד בלון החמצן שלו - והתוצאה קשה"
   },
   "https://www.mako.co.il/health-news/Article-e9a6692416a21a1026.htm": {
    "check_attempts": 1,
@@ -54902,6 +54902,18 @@
    "published_ms": 1791484500000,
    "section": "חדשות",
    "title": "האיש שהעיר את נתניהו: \"מה שפורסם לא משקף אפילו חצי\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-bc9c6d7867891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-bc9c6d7867891a1026.htm",
+   "checked_ms": 1793570186746,
+   "content_type": "article",
+   "first_seen_ms": 1793570186746,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793565660000,
+   "section": "",
+   "title": "המהלך הבא שמתכננים בגוש השינוי"
   },
   "https://www.mako.co.il/special-mako-news/Article-bd0d62b373741a1026.htm": {
    "check_attempts": 1,
