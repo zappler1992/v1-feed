@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793530649341,
+ "last_run_ms": 1793530949373,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28456,6 +28456,18 @@
    "published_ms": 1790570520000,
    "section": "",
    "title": "חוזרים לקלאסיקה: עוגת ביסקוויטים בקלי קלות"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-desserts/Recipe-bf0a94c07b691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793530707146,
+   "content_type": "recipe",
+   "first_seen_ms": 1793530707146,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793528460000,
+   "section": "",
+   "title": "בחיים לא יימאס עלינו: חטיף דובאי קראנץ' ביתי"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-desserts/Recipe-e53be7413b1f0a1027.htm": {
    "check_attempts": 1,
