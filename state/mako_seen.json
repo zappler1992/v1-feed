@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793522849168,
+ "last_run_ms": 1793523449764,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33449,6 +33449,18 @@
    "section": "HIX",
    "title": "הדליף לזוגתו מידע על ישראל – והיא פרסמה אותו"
   },
+  "https://www.mako.co.il/hix-special/Article-9930ce4eb3691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793523449764,
+   "content_type": "article",
+   "first_seen_ms": 1793523449764,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793522460000,
+   "section": "HIX",
+   "title": "\"ארובת הפיות\" קרסה אחרי הגשם – ושלושה נהרגו"
+  },
   "https://www.mako.co.il/hix-special/Article-a10d3745d7851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -34815,7 +34827,7 @@
    "indexnow_ms": null,
    "published_ms": 1793516880000,
    "section": "הכי חם",
-   "title": "איזנקוט חיפש את ליברמן בסופ\"ש? הוא הכניס זוג לחופה"
+   "title": "\"כבוד גדול\": הזוג שחותן על ידי ליברמן בראיון"
   },
   "https://www.mako.co.il/home-family-relationship/Article-2c1a37abab931a1027.htm": {
    "check_attempts": 1,

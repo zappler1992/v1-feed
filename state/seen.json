@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-7f88121792691a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-42bfcd9b84691a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-de4ecb4074691a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -125474,6 +125475,24 @@
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-07a023a23a591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_car_011126_8029_01112026060124/V1_karind_car_011126_8029_01112026060124_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-42bfcd9b84691a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד דרמטי: עמוד סלע עצום קרס באתר תיירות בטורקיה - שלושה בני אדם נהרגו וחמישה נפצעו",
+   "duration_s": 19,
+   "first_seen_ms": 1793523447019,
+   "image": "https://img.mako.co.il/2026/11/01/V1_karind_turkey_011026_8038_01112026084843_1400_1793523018013_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793523024000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד דרמטי: עמוד סלע עצום קרס באתר תיירות בטורקיה - שלושה בני אדם נהרגו וחמישה נפצעו",
+   "type": "mivzakim",
+   "updated_ms": 1793523024000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-42bfcd9b84691a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_turkey_011026_8038_01112026084843/V1_karind_turkey_011026_8038_01112026084843_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
@@ -125527,6 +125546,24 @@
    "updated_ms": 1793518551000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9eff9a66cf591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_GAG_8034_01112026073415/V1_KARIND_GAG_8034_01112026073415_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-de4ecb4074691a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חוסר מזל: גלגל שהתנתק ממכונית, התעופף לעבר סטודנט מצ'ילה - ופגע בו",
+   "duration_s": 20,
+   "first_seen_ms": 1793523447019,
+   "image": "https://img.mako.co.il/2026/11/01/V1_karind_galgal_8037_01112026084630_1400_1793522870330_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793522876000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "חוסר מזל: גלגל שהתנתק ממכונית, התעופף לעבר סטודנט מצ'ילה - ופגע בו",
+   "type": "mivzakim",
+   "updated_ms": 1793522876000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-de4ecb4074691a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_galgal_8037_01112026084630/V1_karind_galgal_8037_01112026084630_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
