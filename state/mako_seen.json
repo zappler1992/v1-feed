@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793563949461,
+ "last_run_ms": 1793564249480,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21520,6 +21520,18 @@
    "published_ms": 1793196360000,
    "section": "",
    "title": "\"רעה, מה זה?\": פפרצי של גל גדות יצא משליטה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5d54e6b879891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793564249480,
+   "content_type": "article",
+   "first_seen_ms": 1793564249480,
+   "indexable": true,
+   "indexnow_ms": 1793564249480,
+   "published_ms": 1793563800000,
+   "section": "הכי חם",
+   "title": "כוכבת \"חתונמי\" חושפת את השם שבחרה לבתה"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-5dbbebe619601a1027.htm": {
    "check_attempts": 1,
@@ -47464,6 +47476,18 @@
    "published_ms": 1793361600000,
    "section": "",
    "title": "היא טובה גם בחלבי: המתכונים של עינב בובליל"
+  },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-3bad053224781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-restaurants/best-trending_restaurants/Article-3bad053224781a1027.htm",
+   "checked_ms": 1793564249480,
+   "content_type": "article",
+   "first_seen_ms": 1793564249480,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793554200000,
+   "section": "הכי חם",
+   "title": "לא רק יוסי שטרית: 20 המסעדות הכי מדוברות"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-421c911bcf771a1027.htm": {
    "check_attempts": 1,
