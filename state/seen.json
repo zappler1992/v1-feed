@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-985ebb269f691a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1e75bb269f691a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21714,6 +21714,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18516_01112026061913/M_Tarbut_18516_01112026061913_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1e75bb269f691a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מרגש: ואלרי חמאתי חשפה את השמלה שתלבש בחתונתה הערב",
+   "duration_s": 9,
+   "first_seen_ms": 1793536646612,
+   "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18546_01112026121030_1400_1793535507896_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793535514000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מרגש: ואלרי חמאתי חשפה את השמלה שתלבש בחתונתה הערב",
+   "type": "mivzakim",
+   "updated_ms": 1793535514000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1e75bb269f691a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18546_01112026121030/M_Celebs_18546_01112026121030_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-23d89a66cf591a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23960,7 +23978,7 @@
    "sections": [],
    "title": "מסעדת הדגים המיתולוגית נסגרת אחרי 25 שנה",
    "type": "general",
-   "updated_ms": 1793529582000,
+   "updated_ms": 1793536200000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_FISH_011126/MASTER/SHIR_FISH_011126/SHIR_FISH_011126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -49648,7 +49666,8 @@
    "importance": 2,
    "published_ms": 1793526796000,
    "sections": [
-    "חדשות מהמסך"
+    "חדשות מהמסך",
+    "חדשות"
    ],
    "title": "הקריאה הנאצית המזעזעת של פעיל הימין",
    "type": "news",
@@ -49681,7 +49700,7 @@
    "description": "שיחה מוקלטת שמתחזה לגוגל ומתריעה על פעילות חשודה בחשבון מטהרן מנסה להלחיץ ישראלים ולגרום להם לפעול. במערך הסייבר מזהירים: מדובר בניסיון הונאה, וקבלת השיחה לא מעידה שהחשבון שלכם נפרץ.",
    "duration_s": 37,
    "first_seen_ms": 1793534546544,
-   "image": "https://img.mako.co.il/2026/11/01/SHIR_IRAN_011126_1400_1793533789869_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/01/SHIR_IRAN_011126_FIX_1400_1793535234057_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793533796000,
    "sections": [
@@ -49689,9 +49708,9 @@
    ],
    "title": "השיחה המלחיצה שישראלים קיבלו: \"התרעה מטהרן\" - מה לעשות ואיך לפעול",
    "type": "news",
-   "updated_ms": 1793533796000,
+   "updated_ms": 1793535240000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-624a9c380f691a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_IRAN_011126/MASTER/SHIR_IRAN_011126/SHIR_IRAN_011126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_IRAN_011126_FIX/SHIR_IRAN_011126_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-d33dd3efdc691a1026.htm": {
    "author": "חדשות",
