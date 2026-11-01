@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793510848830,
+ "last_run_ms": 1793511148827,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44309,6 +44309,18 @@
    "section": "מוזיקה",
    "title": "שורדת השבי תוקפת את הכוכב הבין-לאומי"
   },
+  "https://www.mako.co.il/music-news/Article-f5eabb4081c81a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-entertainment/2026_q4/Article-f5eabb4081c81a1026.htm",
+   "checked_ms": 1793511148827,
+   "content_type": "article",
+   "first_seen_ms": 1793511148827,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793511000000,
+   "section": "",
+   "title": "\"הגעתי ל-36 קילו\": עדן אלנה חושפת את המשבר הגדול"
+  },
   "https://www.mako.co.il/music-news/Article-f692fa021ddc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -46827,7 +46839,7 @@
    "indexnow_ms": null,
    "published_ms": 1793479860000,
    "section": "דיגיטל",
-   "title": "השיחה המלחיצה שרבים בישראל קיבלו: \"התרעת אבטחה מטהרן\""
+   "title": "השיחה שרבים קיבלו: \"מקור הפעילות באיראן\""
   },
   "https://www.mako.co.il/nexter-news/Article-1a04fb0f5dce0a1026.htm": {
    "check_attempts": 1,
