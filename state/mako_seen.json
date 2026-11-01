@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793530949373,
+ "last_run_ms": 1793531249243,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -21149,6 +21149,18 @@
    "section": "סלבס",
    "title": "עם אוזני ארנב: כתב החדשות ואשתו רוקדים צמוד"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-51f5d99949691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793531187143,
+   "content_type": "article",
+   "first_seen_ms": 1793531187143,
+   "indexable": true,
+   "indexnow_ms": 1793531187143,
+   "published_ms": 1793530740000,
+   "section": "סלבס",
+   "title": "אחרי שהתחתנו: הזמרת ויוצא \"האח\" קיבלו החלטה"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-524b1742bb8c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -32680,6 +32692,18 @@
    "published_ms": 1792393500000,
    "section": "HIX",
    "title": "חמושים פתחו באש לעבר רכבו של הכוכב הבוליוודי"
+  },
+  "https://www.mako.co.il/hix-special/Article-04e3fb34d2781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793531187143,
+   "content_type": "article",
+   "first_seen_ms": 1793531187143,
+   "indexable": true,
+   "indexnow_ms": 1793531187143,
+   "published_ms": 1793530980000,
+   "section": "HIX",
+   "title": "\"זאת המערה הכי קלסטרופובית שהייתי בה בחיים\""
   },
   "https://www.mako.co.il/hix-special/Article-05a2dbdc38d51a1026.htm": {
    "check_attempts": 1,
@@ -48423,7 +48447,7 @@
    "indexnow_ms": 1793526266991,
    "published_ms": 1793525100000,
    "section": "דיגיטל",
-   "title": "האיש הזה הפסיק לחסוך לפנסיה - ובחיים לא תנחשו למה"
+   "title": "החוקר הפסיק לחסוך לפנסיה: \"ה-AI ישמיד אותנו\""
   },
   "https://www.mako.co.il/nexter-news/Article-9a2d751855f51a1026.htm": {
    "check_attempts": 1,
@@ -56365,7 +56389,7 @@
    "indexnow_ms": null,
    "published_ms": 1793527980000,
    "section": "חופש",
-   "title": "אחרי הפשיטה על המלון היוקרתי: ישראלי ישלח לכלא בחו\"ל"
+   "title": "אחרי הפשיטה על מלון היוקרה: הישראלי ממשיך להסתבך בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,
@@ -58705,7 +58729,7 @@
    "indexnow_ms": null,
    "published_ms": 1793522280000,
    "section": "חופש",
-   "title": "היום זה מתחיל: הבשורה הטובה למי שצריך לחדש דרכון"
+   "title": "החל מהיום: בשורות שובות למי שצריך לחדש דרכון"
   },
   "https://www.mako.co.il/travel-news/israel/Article-eb4b9e961fd41a1026.htm": {
    "check_attempts": 1,
@@ -61573,7 +61597,7 @@
    "indexnow_ms": 1793528067064,
    "published_ms": 1793527860000,
    "section": "הכי חם",
-   "title": "לירז צ'רכי \"לא מאשרת ולא מכחישה\""
+   "title": "בזוגיות חדשה? לירז צ'רכי מגיבה לפרסומים"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-72b1bf58a6e81a1026.htm": {
    "check_attempts": 1,
