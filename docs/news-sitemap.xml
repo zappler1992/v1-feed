@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-01T10:39:42+00:00</news:publication_date>
+<news:title>מסעדת הדגים המיתולוגית נסגרת אחרי 25 שנה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/01/SHIR_FISH_011126_1400_1793529576016_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-427d939609691a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1773,23 +1782,5 @@
 היום בהופעת הצהריים שלהם</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/30/M_Music_18432_30102026105622_1400_1793357852439_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-4836177805c81a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-30T10:51:51+00:00</news:publication_date>
-<news:title>כן, זה רחוב אוקספורד בלונדון: תיעוד מהכאוס הענק - אחרי ההחלטה להפוך אותו למדרחוב</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/30/V1_karind_oxford_7989_30102026105034_1400_1793357505046_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ee75177805c81a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-30T10:50:38+00:00</news:publication_date>
-<news:title>האם היא קוראת טוקבקים, ומה ההרגל המוזר שלה? מאי חטואל בשאלון מגזין סופשבוע של mako</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/30/M_Celebs_18431_30102026104832_1400_1793357431669_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

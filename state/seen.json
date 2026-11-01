@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-427d939609691a1026.htm"
+  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7042,7 +7042,8 @@
    "published_ms": 1793517821000,
    "sections": [
     "רק בישראל",
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "על תקן הרב המחתן: כך מצא את עצמו אביגדור ליברמן מתחת לחופה",
    "type": "general",
@@ -23892,6 +23893,22 @@
    "updated_ms": 1793526120000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m10_w05/shorts-891f992579091a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/SHIR_LEMON_311026/MASTER/SHIR_LEMON_311026/SHIR_LEMON_311026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 14,
+   "first_seen_ms": 1793530346478,
+   "image": "https://img.mako.co.il/2026/11/01/SHIR_FISH_011126_1400_1793529576016_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793529582000,
+   "sections": [],
+   "title": "מסעדת הדגים המיתולוגית נסגרת אחרי 25 שנה",
+   "type": "general",
+   "updated_ms": 1793529582000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-e216b6803a691a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_FISH_011126/MASTER/SHIR_FISH_011126/SHIR_FISH_011126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m04_w01/shorts-51ef9d3fcfc4d91027.htm": {
    "author": "מהעולם",
@@ -49558,7 +49575,9 @@
    "image": "https://img.mako.co.il/2026/11/01/SHIR_LIGHT_110126_1400_1793514659079_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793514665000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מי חייב להדליק אורות החל מ־1 בנובמבר?",
    "type": "news",
    "updated_ms": 1793514660000,
@@ -49627,7 +49646,8 @@
    "importance": 1,
    "published_ms": 1793512766000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "המכה החדשה לראש עיריית כפר סבא ואשתו",
    "type": "news",
@@ -125721,14 +125741,14 @@
    "duration_s": 19,
    "first_seen_ms": 1793523447019,
    "image": "https://img.mako.co.il/2026/11/01/V1_karind_turkey_011026_8038_01112026084843_1400_1793523018013_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793523024000,
    "sections": [
     "מבזקים מהעולם"
    ],
    "title": "תיעוד דרמטי: עמוד סלע עצום קרס באתר תיירות בטורקיה - שלושה בני אדם נהרגו וחמישה נפצעו",
    "type": "mivzakim",
-   "updated_ms": 1793523024000,
+   "updated_ms": 1793529960000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-42bfcd9b84691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_turkey_011026_8038_01112026084843/V1_karind_turkey_011026_8038_01112026084843_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
