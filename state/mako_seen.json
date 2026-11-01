@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793523449764,
+ "last_run_ms": 1793524349838,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11047,6 +11047,18 @@
    "section": "ספורט",
    "title": "אקס חיפה: \"יצאנו לחפש חזירי בר בלילות\""
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-37c28ae075691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793524140000,
+   "section": "ספורט",
+   "title": "בית\"ר דורשת: לבחון מחדש את האדום למוזי"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3918a69293d51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -12798,6 +12810,18 @@
    "published_ms": 1792951140000,
    "section": "ספורט",
    "title": "על הדשא: תגרה בין אוהדי בית\"ר להפועל פ\"ת"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b50beb8fc5691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793523960000,
+   "section": "ספורט",
+   "title": "בית\"ר ביקשה מהמנהלת לא לשחק בשבת בצהריים"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b66e413f62031a1026.htm": {
    "check_attempts": 1,
@@ -23141,6 +23165,18 @@
    "section": "",
    "title": "כוכב נבחרת קולומביה לשעבר נפרד מסימן ההיכר שלו"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-3bf7c4b462691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": true,
+   "indexnow_ms": 1793524349838,
+   "published_ms": 1793522940000,
+   "section": "סלבס",
+   "title": "יסתיים בגירושים? מאבק הכוחות בין הכוכבת לארוס שלה"
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-497e3089fc751a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23356,6 +23392,18 @@
    "published_ms": 1792241820000,
    "section": "סלבס",
    "title": "\"הסקס הכי טוב בחייה\": הכוכבת בווידוי לוהט"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-6bfe6d82c1691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": true,
+   "indexnow_ms": 1793524349838,
+   "published_ms": 1793523360000,
+   "section": "סלבס",
+   "title": "הרחוב נסגר לתנועה: הכוכבת התחתנה באירוע אינטימי"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-6cca6a498c711a1026.htm": {
    "check_attempts": 1,
@@ -46625,6 +46673,18 @@
    "section": "עיצוב הבית",
    "title": "לא יסמין ולא שושן: הפרח עם הריח המשגע לגינה"
   },
+  "https://www.mako.co.il/news-tip12/2026_q4/Article-4d568fa03a781a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/food-meals/lunch_recipes/Article-4d568fa03a781a1026.htm",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793524260000,
+   "section": "הכי חם",
+   "title": "המתכונים שאתם צריכים לארוחת הצהריים המושלמת"
+  },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-55f5fe8814261a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -57386,6 +57446,18 @@
    "published_ms": 1791197400000,
    "section": "חופש",
    "title": "יצא לטיול ונעלם: \"אנחנו מתוסכלים, אין לנו קצה חוט\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-c8529a66cf591a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793524349838,
+   "content_type": "article",
+   "first_seen_ms": 1793524349838,
+   "indexable": true,
+   "indexnow_ms": 1793524349838,
+   "published_ms": 1793522460000,
+   "section": "חופש",
+   "title": "הדרישה מהישראלית בחו\"ל: \"מה את חושבת על המצב בארץ\""
   },
   "https://www.mako.co.il/travel-news/international/Article-ca25d7e2c0ce0a1026.htm": {
    "check_attempts": 1,
