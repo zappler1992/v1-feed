@@ -1,9 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-2ab3c841ad881a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-7da060f8bb591a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-055660f8bb591a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f26e23a23a591a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-a862c4d41c591a1027.htm",
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -9592,6 +9593,24 @@
    "updated_ms": 1793086020000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m10_w05/shorts-f0fad71de2c71a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/27/V1_karind_frider_7814_27102026070800/V1_karind_frider_7814_27102026070800_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "מלכת ההאלווין עושה זאת שוב: היידי קלום התחפשה השנה ליד של עצמה - בהעתק מדויק כולל הטבעות והקעקוע",
+   "duration_s": 22,
+   "first_seen_ms": 1793515646014,
+   "image": "https://img.mako.co.il/2026/11/01/V1_HEIDIKLUM_8031_01112026062621_1400_1793514464288_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793514470000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "מלכת ההאלווין עושה זאת שוב: היידי קלום התחפשה השנה ליד של עצמה - בהעתק מדויק כולל הטבעות והקעקוע",
+   "type": "mivzakim",
+   "updated_ms": 1793514470000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_HEIDIKLUM_8031_01112026062621/V1_HEIDIKLUM_8031_01112026062621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -21619,6 +21638,24 @@
    "updated_ms": 1793507067000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4fbf9e7ab4591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18506_01112026042319/M_Celebs_18506_01112026042319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-a862c4d41c591a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "והנה קלום מסבירה קצת מה עומד מאחורי הפרטים הקטנים שביד הכרותה",
+   "duration_s": 47,
+   "first_seen_ms": 1793515646014,
+   "image": "https://img.mako.co.il/2026/11/01/M_Tarbut_18517_01112026063051_1400_1793514731377_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793514739000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "והנה קלום מסבירה קצת מה עומד מאחורי הפרטים הקטנים שביד הכרותה",
+   "type": "mivzakim",
+   "updated_ms": 1793514739000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-a862c4d41c591a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18517_01112026063051/M_Tarbut_18517_01112026063051_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-dbf29e20d8591a1026.htm": {
    "author": "עדכוני בידור",
@@ -48220,7 +48257,8 @@
    "importance": 2,
    "published_ms": 1793476680000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "מהעולם"
    ],
    "title": "שוד הקריפטו הגדול בהיסטוריה: 6.3 מיליארד דולר נגנבו ב-20 דקות בלבד",
    "type": "news",
@@ -49110,6 +49148,40 @@
    "updated_ms": 1792950823000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-f786332791471a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/MAYA_RAPE_251026/MASTER/MAYA_RAPE_251026/MAYA_RAPE_251026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-055660f8bb591a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 29,
+   "first_seen_ms": 1793515646014,
+   "image": "https://img.mako.co.il/2026/11/01/SHIR_LIGHT_110126_1400_1793514659079_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793514665000,
+   "sections": [],
+   "title": "מי חייב להדליק אורות החל מ־1 בנובמבר?",
+   "type": "news",
+   "updated_ms": 1793514660000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-055660f8bb591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_LIGHT_110126/MASTER/SHIR_LIGHT_110126/SHIR_LIGHT_110126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f26e23a23a591a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "שלוש מכוניות היוקרה של ראש עיריית כפר סבא רפי סער ואשתו מיטל: טסלה, מרצדס ואאודי - שנתפסו במסגרת חקירת החשדות לשחיתות, לא צפויות להיות מוחזרות לבני הזוג ועשויות לעבור לחזקת המדינה. \nבמשטרה טוענים כי בני הזוג לא סיפקו הסבר למקור הכספים ששימשו לרכישתן, וכי יש ראיות לכך שסער\nידע על הכספים שהועברו לאשתו.",
+   "duration_s": 35,
+   "first_seen_ms": 1793515646014,
+   "image": "https://img.mako.co.il/2026/11/01/Kim_KfarSaba_01112026_1400_1793512760397_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793512766000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "המכה החדשה לראש עיריית כפר סבא ואשתו",
+   "type": "news",
+   "updated_ms": 1793512766000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f26e23a23a591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_KfarSaba_01112026/MASTER/Kim_KfarSaba_01112026/Kim_KfarSaba_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m03_w03/shorts-8ded5582e58fc91026.htm": {
    "author": "מבזקים",
@@ -95610,7 +95682,7 @@
    ],
    "title": "מתקרבים לנקודת הכרעה באיראן: ניר דבורי עם כל מה שמותר להגיד",
    "type": "mivzakim",
-   "updated_ms": 1793514060000,
+   "updated_ms": 1793515500000,
    "url": "https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-ae94318151391a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/31/V1_dvori_8021_31102026060747/V1_dvori_8021_31102026060747_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -117052,7 +117124,8 @@
    "published_ms": 1793482680000,
    "sections": [
     "הזמר במסכה",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "סלבס"
    ],
    "title": "מי זאת מי זאת? מלכת הקרח היא הנחשפת מתחת למסכת הבצל",
    "type": "general",

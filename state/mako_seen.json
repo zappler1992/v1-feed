@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793515348772,
+ "last_run_ms": 1793515648924,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3692,6 +3692,18 @@
    "published_ms": 1793029320000,
    "section": "ספורט",
    "title": "לראשונה העונה: בן שרף ישחק בג`י ליג"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-ce62d0b5fc591a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793515587300,
+   "content_type": "article",
+   "first_seen_ms": 1793515587300,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793515320000,
+   "section": "ספורט",
+   "title": "\"רק תרוץ\". המחליף של מוראנט בפורטלנד"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-d41de7f9eb161a1026.htm": {
    "check_attempts": 1,
@@ -30711,7 +30723,7 @@
    "indexnow_ms": null,
    "published_ms": 1793513880000,
    "section": "בריאות",
-   "title": "אוכלים בשעות הלילה? אתם בסיכון למחלה"
+   "title": "אוכלים בשעות הלילה? אתם בסיכון גבוה למחלה הקשה"
   },
   "https://www.mako.co.il/health-news/Article-c6e7460fc3431a1027.htm": {
    "check_attempts": 1,
