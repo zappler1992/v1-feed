@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793529149256,
+ "last_run_ms": 1793529449267,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39123,7 +39123,7 @@
    "indexnow_ms": null,
    "published_ms": 1793524740000,
    "section": "פלילים",
-   "title": "בגלל ריב עם משפחתו: המעשה הקיצוני של בן ה-15"
+   "title": "בגלל ריב עם משפחתו: בן 15 השחית בית כנסת"
   },
   "https://www.mako.co.il/men-men_news/Article-39a191323fb31a1027.htm": {
    "check_attempts": 1,
@@ -42519,7 +42519,7 @@
    "indexnow_ms": 1793526986997,
    "published_ms": 1793526600000,
    "section": "פלילים",
-   "title": "אחרי שצפו בסרטוני התעללות מהמעון: הצעד של המשטרה"
+   "title": "אחרי שצפו בסרטונים מהמעון: התפתחות בפרשת ההתעללות"
   },
   "https://www.mako.co.il/men-men_news/Article-d168cc3499931a1027.htm": {
    "check_attempts": 1,
@@ -56330,6 +56330,18 @@
    "published_ms": 1792303320000,
    "section": "חופש",
    "title": "מדינת הענק האירופית חוששת מתרחיש צרפת: \"לא ניתן שיקרה\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-221f53f147691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793529387093,
+   "content_type": "article",
+   "first_seen_ms": 1793529387093,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793527980000,
+   "section": "חופש",
+   "title": "אחרי הפשיטה על המלון היוקרתי: ישראלי ישלח לכלא בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-23bb35a27b8c0a1027.htm": {
    "check_attempts": 1,
