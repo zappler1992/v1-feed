@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793520449059,
+ "last_run_ms": 1793521349809,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2167,7 +2167,7 @@
    "indexnow_ms": null,
    "published_ms": 1793520360000,
    "section": "ספורט",
-   "title": "בלאט ומיציץ` בסגל הפועל, לביא במכבי ת\"א"
+   "title": "מיציץ` ובלאט בסגל הפועל, לביא במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-35ad181f5bf41a1026.htm": {
    "check_attempts": 1,
@@ -24293,6 +24293,18 @@
    "section": "",
    "title": "50% הנחה או עבודה בעיניים? כך תזהו מבצע באמת"
   },
+  "https://www.mako.co.il/finances-consumer/Article-109cc58dff391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793521349809,
+   "content_type": "article",
+   "first_seen_ms": 1793521349809,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793484780000,
+   "section": "כסף",
+   "title": "לפני שכולם קונים: 10 מוצרים ששווה להכיר"
+  },
   "https://www.mako.co.il/finances-consumer/Article-1c6a08ff90781a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -24939,7 +24951,7 @@
    "indexnow_ms": null,
    "published_ms": 1793518800000,
    "section": "משפט",
-   "title": "הורים יפוצו בכמיליון שקל בעקבות לידה שקטה"
+   "title": "ההיריון הסתיים בטרגדיה - וההורים יפוצו במיליון שקל"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-edb9279390851a1027.htm": {
    "check_attempts": 1,
@@ -48651,7 +48663,7 @@
    "indexnow_ms": null,
    "published_ms": 1793520000000,
    "section": "דיגיטל",
-   "title": "הפיתוח המפתיע שיעזור לסובלים מכאבי פנטום"
+   "title": "הפיתוח הישראלי המפתיע שיעזור לסובלים מכאבי פנטום"
   },
   "https://www.mako.co.il/nexter-news/Article-eaca1a31aa1f0a1027.htm": {
    "check_attempts": 1,
@@ -50236,6 +50248,18 @@
    "published_ms": 1791394140000,
    "section": "",
    "title": "התיעוד שלא פורסם מרגע חטיפת התצפיתניות מנחל עוז"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-389fd1b8f0691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793521349809,
+   "content_type": "article",
+   "first_seen_ms": 1793521349809,
+   "indexable": true,
+   "indexnow_ms": 1793521349809,
+   "published_ms": 1793520180000,
+   "section": "צבא וביטחון",
+   "title": "ארה\"ב שומרת מיירטים - כך מנצלים זאת במעצמה העוינת"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-3a45f6d9f6361a1026.htm": {
    "check_attempts": 1,
@@ -58729,7 +58753,7 @@
    "indexnow_ms": null,
    "published_ms": 1793510940000,
    "section": "חופש",
-   "title": "הישראלים התחילו לגלות את העיר הכי מפתיעה באירופה"
+   "title": "הישראלים התחילו לגלות את העיר הכי נעימה באירופה"
   },
   "https://www.mako.co.il/travel-world/Article-c38b7f05fab11a1026.htm": {
    "check_attempts": 1,
