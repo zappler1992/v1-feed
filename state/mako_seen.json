@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793508748722,
+ "last_run_ms": 1793509049666,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25456,6 +25456,18 @@
    "published_ms": 1791704880000,
    "section": "כסף",
    "title": "הדבר החריג שהופיע החודש בתלוש המשכורת של המון ישראלים"
+  },
+  "https://www.mako.co.il/finances-news/Article-51d49e7ab4591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793508987150,
+   "content_type": "article",
+   "first_seen_ms": 1793508987150,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793508600000,
+   "section": "",
+   "title": "המדינה שמאחורי שוד הקריפטו הגדול בהיסטוריה"
   },
   "https://www.mako.co.il/finances-news/Article-577f762505e31a1026.htm": {
    "check_attempts": 1,
