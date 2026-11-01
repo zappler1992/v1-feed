@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793550748871,
+ "last_run_ms": 1793551048945,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -18724,6 +18724,18 @@
    "published_ms": 1791485700000,
    "section": "ספורט",
    "title": "היהלום של ברצלונה האריך חוזה עד 2030"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-f3eee138fe791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793550986862,
+   "content_type": "article",
+   "first_seen_ms": 1793550986862,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793550840000,
+   "section": "ספורט",
+   "title": "\"מביש, סקנדל\": הפנדל שקיבל אמבפה במוקד"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-f546117f3ed61a1026.htm": {
    "check_attempts": 1,
