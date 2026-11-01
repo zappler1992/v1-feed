@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8e6cc4b462691a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-9e2598d6c1691a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e8c446b0e2691a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -6997,7 +6996,7 @@
   "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0a44180c40691a1027.htm": {
    "author": "סלבס",
    "date_source": "json-publishDate",
-   "description": "סולן להקת הרוק הבריטית דיפ פרפל, איאן גילן בן ה-81, אושפז בבית החולים בעקבות אירוע רפואי. \nבעקבות אשפוזו, הלהקה הודיעה על דחיית שתי הופעות שתוכננו להתקיים בגרמניה.",
+   "description": "סולן להקת הרוק הבריטית דיפ פרפל, איאן גילן בן ה-81, אושפז בבית החולים בעקבות אירוע רפואי. \nבעקבות אשפוזו, הלהקה הודיעה על דחיית שתי הופעות שתוכננו להתקיים בגרמניה",
    "duration_s": 36,
    "first_seen_ms": 1793520146202,
    "image": "https://img.mako.co.il/2026/11/01/Kim_Ian_01112026_1400_1793518798261_FirstFrame.jpg",
@@ -49381,6 +49380,22 @@
    "updated_ms": 1793514660000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-055660f8bb591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_LIGHT_110126/MASTER/SHIR_LIGHT_110126/SHIR_LIGHT_110126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e8c446b0e2691a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "במהדורת ליל כל הקדושים של SNL, הקומיקאי מייקל צ'ה ניצל את הבחירות בישראל כדי לתקוף את ישראל בבדיחה מקוממת שקישרה בין ימין, שמאל ו\"רצח עם\".",
+   "duration_s": 18,
+   "first_seen_ms": 1793522247061,
+   "image": "https://img.mako.co.il/2026/11/01/Kim_SNL_01112026_1400_1793521630959_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793521637000,
+   "sections": [],
+   "title": "הבחירות בישראל הגיעו ל-SNL: הקומיקאי מייקל צ'ה תוקף את ישראל בבדיחה על \"רצח עם\"",
+   "type": "news",
+   "updated_ms": 1793521637000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e8c446b0e2691a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_SNL_01112026/MASTER/Kim_SNL_01112026/Kim_SNL_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f26e23a23a591a1026.htm": {
    "author": "חדשות",
@@ -125431,7 +125446,8 @@
    "importance": 0,
    "published_ms": 1793513007000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מפחיד: טנדר התנגש בשולחנות הסועדים במסעדה בקליפורניה | התיעוד ממצלמות האבטחה",
    "type": "mivzakim",
