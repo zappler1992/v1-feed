@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793519248996,
+ "last_run_ms": 1793519548988,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24617,6 +24617,18 @@
    "section": "משפט",
    "title": "הכה את בנו - ודרש לבטל את המזונות: \"הפכתי לארנק מהלך\""
   },
+  "https://www.mako.co.il/finances-law/family-law/Article-50734b59f0691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519548988,
+   "content_type": "article",
+   "first_seen_ms": 1793519548988,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793519280000,
+   "section": "משפט",
+   "title": "נישאה לעיוור עקב הבטחה לדירה - וזכתה במחציתה"
+  },
   "https://www.mako.co.il/finances-law/family-law/Article-928048bff2e31a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24892,6 +24904,18 @@
    "published_ms": 1792652280000,
    "section": "משפט",
    "title": "צוואה היא לא מותרות: לכל אדם כדאי לערוך אחת"
+  },
+  "https://www.mako.co.il/finances-law/law-general/Article-d854180c40691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793519427537,
+   "content_type": "article",
+   "first_seen_ms": 1793519427537,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793518800000,
+   "section": "משפט",
+   "title": "הורים יפוצו בכמיליון שקל בעקבות לידה שקטה"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-edb9279390851a1027.htm": {
    "check_attempts": 1,
@@ -28420,6 +28444,18 @@
    "published_ms": 1791270720000,
    "section": "",
    "title": "התבנית היפה הזאת יכולה להיות ארוחת הערב שלכם"
+  },
+  "https://www.mako.co.il/food-restaurants/best-trending_restaurants/Article-3bad053224781a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793519427537,
+   "content_type": "article",
+   "first_seen_ms": 1793519427537,
+   "indexable": true,
+   "indexnow_ms": 1793519427537,
+   "published_ms": 1793518980000,
+   "section": "",
+   "title": "לא רק יוסי שטרית: 20 המסעדות הכי מדוברות של החודש"
   },
   "https://www.mako.co.il/food-restaurants/best-trending_restaurants/Article-c32281cde4ce0a1027.htm": {
    "check_attempts": 1,
@@ -46395,7 +46431,7 @@
    "indexnow_ms": null,
    "published_ms": 1793517060000,
    "section": "",
-   "title": "תנסו את זה: הזמן הקצר שצריך כדי להבריק מטבח מטונף"
+   "title": "תנסו את זה: הזמן שצריך כדי להבריק מטבח מטונף"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-226b962796681a1026.htm": {
    "check_attempts": 1,
@@ -60613,7 +60649,7 @@
    "indexnow_ms": 1793517987356,
    "published_ms": 1793516760000,
    "section": "תרבות tvbee",
-   "title": "\"בצד של רצח העם\": הבדיחה האנטי-ישראלית בתוכנית המצליחה"
+   "title": "הבחירות בישראל הגיעו ל-SNL: \"בצד של רצח העם\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-22af9fdc3ba11a1026.htm": {
    "check_attempts": 1,
