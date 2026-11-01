@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0d021dcad2591a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-01T04:22:03+00:00</news:publication_date>
+<news:title>עשרות פורעים נעצרו הלילה במהומות שיצאו משליטה בפרנקפורט</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/01/M_NEWS_18505_01112026042034_1400_1793506916733_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e6dc9e7ab4591a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1629,23 +1638,5 @@
 <news:title>מזג האוויר משתגע: היום יירד גשם - אבל המהפך קרוב: צפו בתחזית המלאה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/30/V1_TAHAZ_7970_30102026045954_1400_1793336503365_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-9a790c9560b81a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-30T04:25:20+00:00</news:publication_date>
-<news:title>אוקראינה עצרה את התקיפות על בתי הזיקוק ברוסיה בעקבות לחץ מצד טראמפ</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/30/M_NEWS_18413_30102026042359_1400_1793334310938_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-2c690c9560b81a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-30T04:25:10+00:00</news:publication_date>
-<news:title>בורסת הקריפטו חוקרת חשד לפריצת ענק לפלטפורמה שלה, מה שהוביל להקפאת נכסים דיגיטלים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/30/M_NEWS_18412_30102026042332_1400_1793334300130_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
