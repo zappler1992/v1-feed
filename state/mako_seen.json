@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793518348929,
+ "last_run_ms": 1793518648907,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33725,6 +33725,18 @@
    "section": "",
    "title": "רציתם לטייל ביום הבחירות? כדאי שתכינו מטריה"
   },
+  "https://www.mako.co.il/hix-special/Article-d8bbda543c391a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793518467389,
+   "content_type": "article",
+   "first_seen_ms": 1793518467389,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793518380000,
+   "section": "HIX",
+   "title": "ילדה תינוקת מתלמידה בן ה-13 – והודתה במעשיה"
+  },
   "https://www.mako.co.il/hix-special/Article-d8f8fa525f851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -49359,7 +49371,7 @@
    "indexnow_ms": null,
    "published_ms": 1793516700000,
    "section": "גאווה",
-   "title": "המגישה הישראלית הושפלה בחו\"ל: \"אמרו לנו לברוח לשוליים\""
+   "title": "אביה פרחי: \"אמרו לנו לברוח לשוליים של המצעד\""
   },
   "https://www.mako.co.il/pride-news/Article-aa55db5c4c031a1026.htm": {
    "check_attempts": 1,
@@ -58573,7 +58585,7 @@
    "indexnow_ms": null,
    "published_ms": 1793510940000,
    "section": "חופש",
-   "title": "הישראלים התחילו לגלות את העיר הכי נעימה באירופה"
+   "title": "הישראלים התחילו לגלות את העיר הכי מפתיעה באירופה"
   },
   "https://www.mako.co.il/travel-world/Article-c38b7f05fab11a1026.htm": {
    "check_attempts": 1,
