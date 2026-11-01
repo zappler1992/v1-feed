@@ -177,6 +177,7 @@
 <video:requires_subscription>no</video:requires_subscription>
 <video:live>no</video:live>
 <video:uploader>אוכל</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>אוכל</video:tag>
 </video:video>
 </url>
@@ -196,6 +197,22 @@
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות מהמסך</video:tag>
 <video:tag>מהעולם</video:tag>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-eedffd92d8691a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/01/SHIR_EILAT_011126_1400_1793527502722_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>העוקץ החדש והמתוחכם באילת</video:title>
+<video:description>מאות נופשים שהגיעו לטיילת באילת נפלו לפי החשד בעוקץ הימורים מתוחכם והפסידו מאות אלפי שקלים. מהמרים שתולים, זכיות מבוימות ומשחק שהיה מכור מראש - כך פעלה לכאורה הרשת שנחשפה בפשיטה משטרתית, שבמהלכה נעצרו חמישה גברים וקטין.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIR_EILAT_011126/MASTER/SHIR_EILAT_011126/SHIR_EILAT_011126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>46</video:duration>
+<video:publication_date>2026-11-01T10:05:09+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
@@ -264,6 +281,7 @@ Powered by Spikes</video:description>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות מהמסך</video:tag>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -427,6 +445,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -443,6 +462,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -459,6 +479,7 @@ Powered by Spikes</video:description>
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
