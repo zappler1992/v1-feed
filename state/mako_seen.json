@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793556749128,
+ "last_run_ms": 1793557049088,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16254,6 +16254,18 @@
    "published_ms": 1791604200000,
    "section": "ספורט",
    "title": "המאבק נגד ישראל מגיע לבחירות בפיפ\"א"
+  },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-7c840ef091891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793556987241,
+   "content_type": "article",
+   "first_seen_ms": 1793556987241,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793556600000,
+   "section": "ספורט",
+   "title": "77 דקות לסבע ב-1:5, הפסד כואב לברק יצחקי"
   },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-7cacf35bc2381a1026.htm": {
    "check_attempts": 1,
@@ -52239,7 +52251,7 @@
    "indexnow_ms": 1793526026981,
    "published_ms": 1793525640000,
    "section": "צבא וביטחון",
-   "title": "התרחיש שעלול להוביל את איראן לירי חסר הבחנה"
+   "title": "טילים ומשגרים: היכולות שאיראן שיקמה לאחרונה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d18e832a11f31a1026.htm": {
    "check_attempts": 1,
@@ -53150,6 +53162,18 @@
    "published_ms": 1792841940000,
    "section": "",
    "title": "הנתון שיכריע את הבחירות והתוכנית הסודית ליום שאחרי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-12da42c6e3891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793557049088,
+   "content_type": "article",
+   "first_seen_ms": 1793557049088,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793556360000,
+   "section": "חדשות",
+   "title": "בנט הודיע: אמליץ לנשיא על איזנקוט להרכבת הממשלה"
   },
   "https://www.mako.co.il/special-mako-news/Article-16f92cb5f5f81a1026.htm": {
    "check_attempts": 1,
