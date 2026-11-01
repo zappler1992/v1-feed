@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-9ab28a9732791a1027.htm",
-  "https://www.v-1.co.il/travel-magazine/2026-m11_w01/shorts-a31d86d6e0791a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4253c535a3791a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6a005a3f3791a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -98673,6 +98673,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18503_01112026041236/M_NEWS_18503_01112026041236_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4253c535a3791a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תאונה בין שתי משאיות בצומת גבולות: אדם שנלכד חולץ על ידי לוחמי האש",
+   "duration_s": 9,
+   "first_seen_ms": 1793539646700,
+   "image": "https://img.mako.co.il/2026/11/01/V1_karind_tehuna_8045_01112026012127_1400_1793539369340_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793539376000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תאונה בין שתי משאיות בצומת גבולות: אדם שנלכד חולץ על ידי לוחמי האש",
+   "type": "mivzakim",
+   "updated_ms": 1793539376000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4253c535a3791a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_tehuna_8045_01112026012127/V1_karind_tehuna_8045_01112026012127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4c019e20d8591a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -98853,6 +98871,24 @@
    "updated_ms": 1793531655000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cacad3efdc691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18538_01112026111216/M_NEWS_18538_01112026111216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6a005a3f3791a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "נער בן 16 נפצע קשה בתאונת דרכים בין קלנועית לאוטובוס ברחוב ירמיהו בירושלים",
+   "duration_s": 9,
+   "first_seen_ms": 1793539646700,
+   "image": "https://img.mako.co.il/2026/11/01/M_NEWS_18547_01112026012022_1400_1793539312868_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793539319000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "נער בן 16 נפצע קשה בתאונת דרכים בין קלנועית לאוטובוס ברחוב ירמיהו בירושלים",
+   "type": "mivzakim",
+   "updated_ms": 1793539319000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6a005a3f3791a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18547_01112026012022/M_NEWS_18547_01112026012022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e6dc9e7ab4591a1027.htm": {
    "author": "מבזקים",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793539349607,
+ "last_run_ms": 1793539649655,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12774,6 +12774,18 @@
    "published_ms": 1792438440000,
    "section": "ספורט",
    "title": "מילר: \"היינו צריכים להבקיע 3-4 שערים\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ab4105a3f3791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793539649655,
+   "content_type": "article",
+   "first_seen_ms": 1793539649655,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793539380000,
+   "section": "ספורט",
+   "title": "באיגוד הודו רשמית: הפנדל של ק\"ש היה שגוי"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-abe3959f2c471a1026.htm": {
    "check_attempts": 1,
@@ -55286,6 +55298,18 @@
    "published_ms": 1791457200000,
    "section": "SENSES",
    "title": "בלב המדבר: המחווה המרגשת לשורדי הנובה"
+  },
+  "https://www.mako.co.il/special-senses/coltura/Article-e4603b37d1791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793539467782,
+   "content_type": "article",
+   "first_seen_ms": 1793539467782,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793539200000,
+   "section": "SENSES",
+   "title": "למופע עם דודו טסה: כוכב רדיוהד חוזר לישראל"
   },
   "https://www.mako.co.il/special-senses/coltura/Article-ec249e4c23871a1026.htm": {
    "check_attempts": 1,
