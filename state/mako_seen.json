@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793534549409,
+ "last_run_ms": 1793534851434,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38477,6 +38477,18 @@
    "section": "פלילים",
    "title": "נעצר עם פתקי \"זה שוד תביאו את הכסף\""
   },
+  "https://www.mako.co.il/men-men_news/Article-1b672921cd691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793534787269,
+   "content_type": "article",
+   "first_seen_ms": 1793534787269,
+   "indexable": true,
+   "indexnow_ms": 1793534787269,
+   "published_ms": 1793533620000,
+   "section": "פלילים",
+   "title": "אישום: מורה נהיגה ביצע עבירות מין בתלמידות"
+  },
   "https://www.mako.co.il/men-men_news/Article-1c00a668702e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39016,6 +39028,18 @@
    "published_ms": 1792311540000,
    "section": "פלילים",
    "title": "כתובות גרפיטי בערבית עוררו בהלה בשכונת היוקרה בהרצליה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-30abf8e70f691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793534787269,
+   "content_type": "article",
+   "first_seen_ms": 1793534787269,
+   "indexable": true,
+   "indexnow_ms": 1793534787269,
+   "published_ms": 1793533800000,
+   "section": "פלילים",
+   "title": "\"קבלת הפנים\" לראש ארגון הפשע ששוחרר מהכלא"
   },
   "https://www.mako.co.il/men-men_news/Article-327488acd7021a1026.htm": {
    "check_attempts": 1,
@@ -57206,6 +57230,18 @@
    "published_ms": 1792481340000,
    "section": "חופש",
    "title": "\"אנשים קפצו למים\": יצאו לשיט  - והסירה החלה לעלות באש"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-87d5d99949691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793534851434,
+   "content_type": "article",
+   "first_seen_ms": 1793534851434,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793527560000,
+   "section": "חופש",
+   "title": "הכאוס מתפשט: מחאת הענק בלב העיר האירופית יצאה משליטה"
   },
   "https://www.mako.co.il/travel-news/international/Article-883aa6468d381a1026.htm": {
    "check_attempts": 1,
