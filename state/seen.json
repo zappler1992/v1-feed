@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm",
-  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-074bcc9d2e591a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3114648dfe591a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8362648dfe591a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ee32648dfe591a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21674,6 +21675,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4fbf9e7ab4591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18506_01112026042319/M_Celebs_18506_01112026042319_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8362648dfe591a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "האלווין 2026: ג׳ניפר לופז התחפשה לברברלה",
+   "duration_s": 33,
+   "first_seen_ms": 1793517746145,
+   "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18521_01112026071216_1400_1793517316470_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793517324000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "האלווין 2026: ג׳ניפר לופז התחפשה לברברלה",
+   "type": "mivzakim",
+   "updated_ms": 1793517324000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8362648dfe591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18521_01112026071216/M_Celebs_18521_01112026071216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-a862c4d41c591a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -21745,6 +21764,24 @@
    "updated_ms": 1793517176000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18520_01112026070451/M_Celebs_18520_01112026070451_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ee32648dfe591a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "האלווין 2026: קבלו את כריסטינה אגילרה",
+   "duration_s": 8,
+   "first_seen_ms": 1793517746145,
+   "image": "https://img.mako.co.il/2026/11/01/M_Celebs_18522_01112026071344_1400_1793517296250_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793517302000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "האלווין 2026: קבלו את כריסטינה אגילרה",
+   "type": "mivzakim",
+   "updated_ms": 1793517302000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ee32648dfe591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18522_01112026071344/M_Celebs_18522_01112026071344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -98015,6 +98052,24 @@
    "updated_ms": 1793516213000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2f5bcc9d2e591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18519_01112026065454/M_NEWS_18519_01112026065454_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3114648dfe591a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בגיל 25: המדליסטית האולימפית אבישג סמברג הכריזה על פרישה",
+   "duration_s": 9,
+   "first_seen_ms": 1793517746145,
+   "image": "https://img.mako.co.il/2026/11/01/V1_karind_avishag_8033_01112026071602_1400_1793517449230_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793517455000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בגיל 25: המדליסטית האולימפית אבישג סמברג הכריזה על פרישה",
+   "type": "mivzakim",
+   "updated_ms": 1793517455000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3114648dfe591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_avishag_8033_01112026071602/V1_karind_avishag_8033_01112026071602_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm": {
    "author": "מבזקים",

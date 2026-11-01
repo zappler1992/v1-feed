@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793517448917,
+ "last_run_ms": 1793517765042,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10446,6 +10446,18 @@
    "published_ms": 1793183700000,
    "section": "ספורט",
    "title": "שכטר סיפר: מה התפקיד החדש של זיו במכבי?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0e5d7bbc6f591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793517765042,
+   "content_type": "article",
+   "first_seen_ms": 1793517765042,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793517540000,
+   "section": "ספורט",
+   "title": "זה לא הפנדל: חשבון הנפש של בית\"ר י-ם"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0ebce1c444871a1026.htm": {
    "check_attempts": 1,
@@ -37756,6 +37768,18 @@
    "published_ms": 1791865680000,
    "section": "",
    "title": "\"היא הבטיחה שנתחתן, אז העברתי לה 50 אלף דולר\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-0d858a83de591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793517765042,
+   "content_type": "article",
+   "first_seen_ms": 1793517765042,
+   "indexable": true,
+   "indexnow_ms": 1793517765042,
+   "published_ms": 1793517240000,
+   "section": "פלילים",
+   "title": "בנו של עבריין מוכר נעצר: \"סחט באיומים איש עסקים\""
   },
   "https://www.mako.co.il/men-men_news/Article-0e8882c8ee181a1026.htm": {
    "check_attempts": 1,
