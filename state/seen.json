@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-07a023a23a591a1026.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-2ab3c841ad881a1026.htm",
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-7da060f8bb591a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21545,6 +21547,24 @@
    "updated_ms": 1793357859000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m10_w05/shorts-ffb7177805c81a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Music_18432_30102026105622/M_Music_18432_30102026105622_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "במשאית: ככה היידי קלום, בתחפושת המחרפנת, הגיעה למסיבת ההאלווין השנתית שלה",
+   "duration_s": 54,
+   "first_seen_ms": 1793514446044,
+   "image": "https://img.mako.co.il/2026/11/01/M_Tarbut_18516_01112026061913_1400_1793514050004_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793514056000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "במשאית: ככה היידי קלום, בתחפושת המחרפנת, הגיעה למסיבת ההאלווין השנתית שלה",
+   "type": "mivzakim",
+   "updated_ms": 1793514056000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18516_01112026061913/M_Tarbut_18516_01112026061913_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-46809e7ab4591a1027.htm": {
    "author": "עדכוני בידור",
@@ -98655,6 +98675,23 @@
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-1d96ba3685871a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/POLISHUK_EP22/MASTER/POLISHUK_EP22/POLISHUK_EP22_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-2ab3c841ad881a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "page-jsonld",
+   "description": "פולישוק פרק 25: התשובות של פולישוק בחידון הופכות אותו לחביב האולפן ומסדרות לו הזמנה קבועה לתוכנית. אפילו חומי נהנה מההופעה, בזמן שקוזו כבר מתכנן להעמיד את השר במקום. בינתיים פולישוק ותקומה חוגגים את ההצלחה אחרי השידור, אבל הודעה מאיימת מקוזו קוטעת את ההתלהבות.\nPowered by Spikes",
+   "duration_s": 107,
+   "enrich_attempts": 1,
+   "first_seen_ms": 1793514446044,
+   "image": "https://img.mako.co.il/2026/10/29/POLISHUK_EP25_1400_1793298239496_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793298250000,
+   "sections": [],
+   "title": "פולישוק פרק 25: באולפן כוכב, בלשכה צרות",
+   "type": "series",
+   "updated_ms": 1793298250000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-2ab3c841ad881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/POLISHUK_EP25/MASTER/POLISHUK_EP25/POLISHUK_EP25_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-6284799c48281a1027.htm": {
    "author": "פולישוק",
    "date_source": "json-publishDate",
@@ -125056,6 +125093,24 @@
    "updated_ms": 1793510674000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_RUSSIA_8026_01112026052309/V1_KARIND_RUSSIA_8026_01112026052309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-7da060f8bb591a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "לא ינפשו כבר שם: מלון בכפר המטיילים שבדרך למחנה הבסיס של האוורסט בנפאל נשרף כליל | צפו",
+   "duration_s": 17,
+   "first_seen_ms": 1793514446044,
+   "image": "https://img.mako.co.il/2026/11/01/V1_KARIND_HOTEL_8030_01112026062157_1400_1793514186391_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793514192000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "לא ינפשו כבר שם: מלון בכפר המטיילים שבדרך למחנה הבסיס של האוורסט בנפאל נשרף כליל | צפו",
+   "type": "mivzakim",
+   "updated_ms": 1793514192000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-7da060f8bb591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_HOTEL_8030_01112026062157/V1_KARIND_HOTEL_8030_01112026062157_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",
