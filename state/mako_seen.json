@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793566050037,
+ "last_run_ms": 1793566349334,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30161,6 +30161,18 @@
    "section": "בריאות",
    "title": "\"פחד אלוהים\": החשש מקרינה על גגות בתי הספר"
   },
+  "https://www.mako.co.il/health-news/Article-01c7b690fc891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793566227616,
+   "content_type": "article",
+   "first_seen_ms": 1793566227616,
+   "indexable": true,
+   "indexnow_ms": 1793566227616,
+   "published_ms": 1793565780000,
+   "section": "",
+   "title": "ריח חריף של גז ברחוב: שתי נשים פונו לבית חולים"
+  },
   "https://www.mako.co.il/health-news/Article-0405105303b11a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q3/Article-0405105303b11a1027.htm",
@@ -31683,7 +31695,7 @@
    "indexnow_ms": 1793528787064,
    "published_ms": 1793528400000,
    "section": "בריאות",
-   "title": "עישן ליד בלון החמצן שלו - והתוצאה קשה"
+   "title": "גבר עישן ליד בלון החמצן שלו - ונכווה קשות"
   },
   "https://www.mako.co.il/health-news/Article-e9a6692416a21a1026.htm": {
    "check_attempts": 1,
