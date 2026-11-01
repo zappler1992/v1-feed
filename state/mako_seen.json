@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793568449478,
+ "last_run_ms": 1793568749487,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2636,6 +2636,18 @@
    "published_ms": 1791791220000,
    "section": "ספורט",
    "title": "\"מתגעגע אליכם. בבקשה תחזרו ליציע, מתחנן\""
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-c70c9948ff891a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793568749487,
+   "content_type": "article",
+   "first_seen_ms": 1793568749487,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793568540000,
+   "section": "ספורט",
+   "title": "קטש: \"זה לא היה נעים, אני הראשון שאחראי\""
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-c7a1921eaa891a1027.htm": {
    "check_attempts": 1,
