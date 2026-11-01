@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-4775e138fe791a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm",
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-a0c2e138fe791a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7086,6 +7087,24 @@
    "updated_ms": 1793537423000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-9ab28a9732791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Motorcycle01112026/MASTER/Kim_Motorcycle01112026/Kim_Motorcycle01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-a0c2e138fe791a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "לרגל חודש המאבק באלימות כלפי נשים, כוכבת \"חתונה ממבט שני\" שלי סויסה משתפת באומץ כי הייתה בזוגיות אלימה. בפוסט חשוף תחת אזהרת טריגר, היא מתארת מציאות קשה של אלימות פיזית, הכוללת חניקות, הטחות לרצפה וכליאה בבית לשעות ארוכות. סויסה מסבירה כי היא משתפת את סיפורה כדי לנפץ סטיגמות ולהראות שאלימות לא פוסחת על שום אוכלוסייה.",
+   "duration_s": 33,
+   "first_seen_ms": 1793553446094,
+   "image": "https://img.mako.co.il/2026/11/01/LIRONSHELLYS01112026M_1400_1793551751744_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793551920000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "כוכבת חתונמי משתפת: הייתי בזוגיות אלימה",
+   "type": "general",
+   "updated_ms": 1793551920000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-a0c2e138fe791a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LIRONSHELLYS01112026M/MASTER/LIRONSHELLYS01112026M/LIRONSHELLYS01112026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -24084,7 +24103,8 @@
    "importance": 2,
    "published_ms": 1793542200000,
    "sections": [
-    "אוכל"
+    "אוכל",
+    "הכי נצפים עכשיו"
    ],
    "title": "הכי גדולה בעולם: רשת המזון המהיר שעקפה את מקדונלדס",
    "type": "general",
@@ -49895,6 +49915,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4b1936a6e4791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Bus_01112026/MASTER/Kim_Bus_01112026/Kim_Bus_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 27,
+   "first_seen_ms": 1793553446094,
+   "image": "https://img.mako.co.il/2026/11/01/SHIRA_YESHIBA_011126_M_1400_1793551371869_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793551378000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "בשל סכנה לחיי אדם: הישיבה שנסגרה בצפת",
+   "type": "news",
+   "updated_ms": 1793551378000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIRA_YESHIBA_011126/MASTER/SHIRA_YESHIBA_011126_M/SHIRA_YESHIBA_011126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-624a9c380f691a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -49905,7 +49943,8 @@
    "importance": 2,
    "published_ms": 1793533796000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "השיחה המלחיצה שישראלים קיבלו: \"התרעה מטהרן\" - מה לעשות ואיך לפעול",
    "type": "news",
@@ -49994,7 +50033,9 @@
    "image": "https://img.mako.co.il/2026/11/01/SHIR_NITZAN_011126_1400_1793545164451_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793547480000,
-   "sections": [],
+   "sections": [
+    "חדשות"
+   ],
    "title": "שלושת הסימנים שמעלים את החשש לחידוש המלחמה עם איראן",
    "type": "news",
    "updated_ms": 1793548380000,
@@ -126525,7 +126566,8 @@
    "importance": 0,
    "published_ms": 1793545810000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תיעוד חריג: התחפושת ל\"יום המתים\" עלתה באש - ובת ה-12 ממקסיקו נכוותה קשות",
    "type": "mivzakim",
