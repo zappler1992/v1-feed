@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793572349455,
+ "last_run_ms": 1793572665528,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53414,6 +53414,18 @@
    "published_ms": 1793295900000,
    "section": "",
    "title": "בן גביר נגד המפכ\"ל: \"יש לו אג'נדה להתחנף לשמאלנים\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-0dbeeb8dc2991a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793572586834,
+   "content_type": "article",
+   "first_seen_ms": 1793572586834,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793571900000,
+   "section": "חדשות",
+   "title": "בית שמש: נער בן 15 נפצע בינוני-קשה, כנראה מרימון הלם"
   },
   "https://www.mako.co.il/special-mako-news/Article-0e790269ad871a1026.htm": {
    "check_attempts": 1,
