@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793528549311,
+ "last_run_ms": 1793528849311,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3956,6 +3956,18 @@
    "published_ms": 1793339580000,
    "section": "ספורט",
    "title": "\"נכשל ממש מהר\": הניסוי של פורטלנד עם דני"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-fb18c2334a691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793528787064,
+   "content_type": "article",
+   "first_seen_ms": 1793528787064,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793528520000,
+   "section": "ספורט",
+   "title": "אותו הקו: מהפכת השיפוט שלא מזיזה לאבדיה"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-fb3e018f4ab51a1026.htm": {
    "check_attempts": 1,
@@ -10254,6 +10266,18 @@
    "published_ms": 1791892020000,
    "section": "ספורט",
    "title": "עשרות אלפי מושבים: חידוש איצטדיוני ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0448214a86691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793528787064,
+   "content_type": "article",
+   "first_seen_ms": 1793528787064,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793524860000,
+   "section": "ספורט",
+   "title": "מתקרבים לחזרה: מצב הפצועים במכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-04e750b8a7261a1026.htm": {
    "check_attempts": 1,
@@ -23199,7 +23223,7 @@
    "indexnow_ms": 1793524349838,
    "published_ms": 1793522940000,
    "section": "סלבס",
-   "title": "יסתיים בגירושים? מאבק הכוחות בין הכוכבת לארוס שלה"
+   "title": "לא שוב: המשבר שמאיים על החתונה של הכוכבת"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-422ccb4074691a1027.htm": {
    "check_attempts": 1,
@@ -31168,6 +31192,18 @@
    "published_ms": 1791358860000,
    "section": "בריאות",
    "title": "\"אין טיפול שיוכל להשכיח את המראות שראינו שם\""
+  },
+  "https://www.mako.co.il/health-news/Article-e62d939609691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793528787064,
+   "content_type": "article",
+   "first_seen_ms": 1793528787064,
+   "indexable": true,
+   "indexnow_ms": 1793528787064,
+   "published_ms": 1793528400000,
+   "section": "בריאות",
+   "title": "עישן ליד בלון החמצן שלו - והתוצאה קשה"
   },
   "https://www.mako.co.il/health-news/Article-e9a6692416a21a1026.htm": {
    "check_attempts": 1,
