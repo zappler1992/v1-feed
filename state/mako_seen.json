@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793525549400,
+ "last_run_ms": 1793525849388,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1484,6 +1484,18 @@
    "published_ms": 1793277833000,
    "section": "אופנה",
    "title": "חורף? הדר שירי לא שמעה על זה ובחרה בביקיני משגע"
+  },
+  "https://fashionforward.mako.co.il/news/322622/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793525849388,
+   "content_type": "post",
+   "first_seen_ms": 1793525849388,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "",
+   "title": "גילינו מאיפה השמלה המטורפת של מיכל פעילן, ואנחנו בשוק"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -23415,7 +23427,7 @@
    "indexnow_ms": 1793524349838,
    "published_ms": 1793523360000,
    "section": "סלבס",
-   "title": "הרחוב נסגר לתנועה: הכוכבת התחתנה באירוע אינטימי"
+   "title": "הרחוב נסגר לתנועה: השחקנית התחתנה באירוע אינטימי"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-6cca6a498c711a1026.htm": {
    "check_attempts": 1,
@@ -24172,6 +24184,18 @@
    "published_ms": 1791184260000,
    "section": "סלבס",
    "title": "בזמן שהיא מגלגלת מיליארדים: הווידוי של הכוכבת על ילדיה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-ea24121792691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793525786975,
+   "content_type": "article",
+   "first_seen_ms": 1793525786975,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793525580000,
+   "section": "סלבס",
+   "title": "הכוכבת מכריזה לצד ספר תהילים: \"קוראת בעברית\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-eb8803a5d8a11a1027.htm": {
    "check_attempts": 1,
@@ -32163,7 +32187,7 @@
    "indexnow_ms": 1793505987066,
    "published_ms": 1793505600000,
    "section": "HIX",
-   "title": "המהפך במזג האוויר מחר - והיום שבו הגשם עשוי לחזור"
+   "title": "היום נוח. אלו הימים בהם הגשם צפוי לחזור"
   },
   "https://www.mako.co.il/hix-nature/Article-553620c2be871a1027.htm": {
    "check_attempts": 1,
@@ -33927,7 +33951,7 @@
    "indexnow_ms": null,
    "published_ms": 1793518380000,
    "section": "HIX",
-   "title": "המורה ילדה תינוקת מתלמיד בן 13 - וקיבלה עונש לכל החיים"
+   "title": "ילדה תינוקת מתלמידה בן ה-13 – והודתה במעשיה"
   },
   "https://www.mako.co.il/hix-special/Article-d8f8fa525f851a1026.htm": {
    "check_attempts": 1,
@@ -39015,7 +39039,7 @@
    "indexnow_ms": null,
    "published_ms": 1793524740000,
    "section": "פלילים",
-   "title": "בגלל ריב עם משפחתו: בן 15 השחית בית כנסת"
+   "title": "בגלל ריב עם משפחתו: המעשה הקיצוני של בן ה-15"
   },
   "https://www.mako.co.il/men-men_news/Article-39a191323fb31a1027.htm": {
    "check_attempts": 1,
