@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793528849311,
+ "last_run_ms": 1793529149256,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1495,7 +1495,7 @@
    "indexnow_ms": null,
    "published_ms": 1793525584000,
    "section": "",
-   "title": "גילינו מאיפה השמלה המטורפת של כתבת החדשות, ואנחנו בשוק"
+   "title": "עדיין בשוק שגילינו מאיפה השמלה המטורפת של כתבת החדשות"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -7280,6 +7280,18 @@
    "published_ms": 1791564000000,
    "section": "ספורט",
    "title": "מה הלאה? מאחורי הסיטואציה אליה נכנס יעקב"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-314ac2334a691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793529149256,
+   "content_type": "article",
+   "first_seen_ms": 1793529149256,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793528940000,
+   "section": "ספורט",
+   "title": "ארינאס החמיא לאבדיה: \"כישרון מסוג אחר\""
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-3e7d091942121a1026.htm": {
    "check_attempts": 1,
@@ -23223,7 +23235,7 @@
    "indexnow_ms": 1793524349838,
    "published_ms": 1793522940000,
    "section": "סלבס",
-   "title": "לא שוב: המשבר שמאיים על החתונה של הכוכבת"
+   "title": "\"היא שתלטנית והוא עומד על שלו\": המשבר בין הכוכבת לארוס"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-422ccb4074691a1027.htm": {
    "check_attempts": 1,
@@ -36519,7 +36531,7 @@
    "indexnow_ms": null,
    "published_ms": 1793520360000,
    "section": "עיצוב הבית",
-   "title": "נוודת עם בריכה: הצצה לבית החדש של נטע צ'רנר בצוקי ים"
+   "title": "אחרי שוויתרה על הבית: הכוכבת נותרת הצצה לחייה החדשים"
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-b96fae07a9d51a1026.htm": {
    "check_attempts": 1,
@@ -44283,7 +44295,7 @@
    "indexnow_ms": 1793525187063,
    "published_ms": 1793524920000,
    "section": "מוזיקה",
-   "title": "התנאים שהמדינה האנטי-ישראלית הציבה לקאמבק לאירוויזיון"
+   "title": "אלה התנאים של המדינה האנטי-ישראלית לחזרה לאירוויזיון"
   },
   "https://www.mako.co.il/music-news/Article-aa290095ab631a1027.htm": {
    "check_attempts": 1,
@@ -48387,7 +48399,7 @@
    "indexnow_ms": 1793526266991,
    "published_ms": 1793525100000,
    "section": "דיגיטל",
-   "title": "החוקר הפסיק לחסוך לפנסיה: \"ה-AI ישמיד אותנו\""
+   "title": "האיש הזה הפסיק לחסוך לפנסיה - ובחיים לא תנחשו למה"
   },
   "https://www.mako.co.il/nexter-news/Article-9a2d751855f51a1026.htm": {
    "check_attempts": 1,
