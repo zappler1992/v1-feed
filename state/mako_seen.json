@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793559149196,
+ "last_run_ms": 1793559452576,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2372,6 +2372,18 @@
    "published_ms": 1792382160000,
    "section": "ספורט",
    "title": "\"חלק בלתי נפרד\": העדכון על מצבו של בלאט"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-6dc0771285891a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793559388083,
+   "content_type": "article",
+   "first_seen_ms": 1793559388083,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793559240000,
+   "section": "ספורט",
+   "title": "לפני הבכורה בדרבי: מכבי ערכה טקס לבלאט"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-744f173881131a1027.htm": {
    "check_attempts": 1,
