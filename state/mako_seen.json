@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793518049899,
+ "last_run_ms": 1793518348929,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -38656,6 +38656,18 @@
    "published_ms": 1792410060000,
    "section": "פלילים",
    "title": "האחים שהפכו לאימת המסעדנים בקריית גת"
+  },
+  "https://www.mako.co.il/men-men_news/Article-36147bbc6f591a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793518348929,
+   "content_type": "article",
+   "first_seen_ms": 1793518348929,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793517960000,
+   "section": "פלילים",
+   "title": "\"יודעים מי לחץ על ההדק ומי תכנן את הרצח\""
   },
   "https://www.mako.co.il/men-men_news/Article-362307eb60d51a1027.htm": {
    "check_attempts": 1,
