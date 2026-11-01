@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793533649291,
+ "last_run_ms": 1793533949359,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1496,6 +1496,18 @@
    "published_ms": 1793525584000,
    "section": "",
    "title": "עדיין בשוק שגילינו מאיפה השמלה המטורפת של כתבת החדשות"
+  },
+  "https://fashionforward.mako.co.il/news/322623/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793533827226,
+   "content_type": "post",
+   "first_seen_ms": 1793533827226,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "בר רפאלי לבשה גופייה משגעת, שלביה לבשה אותה לפני"
   },
   "https://fashionforward.mako.co.il/news/322647/": {
    "check_attempts": 1,
@@ -48039,7 +48051,7 @@
    "indexnow_ms": null,
    "published_ms": 1793524140000,
    "section": "דיגיטל",
-   "title": "מה כבר יכול להשתבש? הרעיון המפחיד של צוקרברג"
+   "title": "מה יכול להשתבש? מטא רוצה לייצר גם רובוטים"
   },
   "https://www.mako.co.il/nexter-news/Article-6684a972f7e41a1027.htm": {
    "check_attempts": 1,
