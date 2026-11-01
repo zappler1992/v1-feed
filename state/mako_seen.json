@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793540250607,
+ "last_run_ms": 1793540549652,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31841,6 +31841,18 @@
    "section": "HIX",
    "title": "\"יש ספקות לגבי תאריך הלידה של השחקן הזה\""
   },
+  "https://www.mako.co.il/hix-bizarre/Article-5bc0fd7ca4791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793540549652,
+   "content_type": "article",
+   "first_seen_ms": 1793540549652,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793540280000,
+   "section": "HIX",
+   "title": "כך הוא נראה לפני שהשיל חצי כמעט ממשקל גופו"
+  },
   "https://www.mako.co.il/hix-bizarre/Article-610657abaecc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31972,6 +31984,18 @@
    "published_ms": 1790497680000,
    "section": "HIX",
    "title": "הקופה שתתה וודקה בחנות - ותקפה את העובדים"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-9922fd7ca4791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793540549652,
+   "content_type": "article",
+   "first_seen_ms": 1793540549652,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793540280000,
+   "section": "HIX",
+   "title": "הקרחונים נמסו, וחשפו ממצאים מסוכנים מאוד"
   },
   "https://www.mako.co.il/hix-bizarre/Article-9d9e550588851a1026.htm": {
    "check_attempts": 1,
@@ -42771,7 +42795,7 @@
    "indexnow_ms": 1793526986997,
    "published_ms": 1793526600000,
    "section": "פלילים",
-   "title": "אחרי שצפו בסרטוני התעללות מהמעון: הצעד של המשטרה"
+   "title": "\"אכזריות יומית\": נחשפו מאות מעשי אלימות קשה בפעוטון"
   },
   "https://www.mako.co.il/men-men_news/Article-d168cc3499931a1027.htm": {
    "check_attempts": 1,
