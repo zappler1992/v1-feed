@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-9e679e7ab4591a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-46809e7ab4591a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4fbf9e7ab4591a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -124893,6 +124891,24 @@
    "updated_ms": 1793187751000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-fc64427824281a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/28/V1_SHIR_SPAIN_7916_28102026114043/V1_SHIR_SPAIN_7916_28102026114043_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "עננת עשן: אוקראינה תקפה את בית זיקוק הנפט בעיר קסטובו שברוסיה",
+   "duration_s": 16,
+   "first_seen_ms": 1793510845934,
+   "image": "https://img.mako.co.il/2026/11/01/V1_KARIND_RUSSIA_8026_01112026052309_1400_1793510667608_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793510674000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "עננת עשן: אוקראינה תקפה את בית זיקוק הנפט בעיר קסטובו שברוסיה",
+   "type": "mivzakim",
+   "updated_ms": 1793510674000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_RUSSIA_8026_01112026052309/V1_KARIND_RUSSIA_8026_01112026052309_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/yes_chef-magazine/2026-m08_w02/shorts-2061aa1570ccf91026.htm": {
    "author": "כן שף",

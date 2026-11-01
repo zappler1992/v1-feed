@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-689a9e20d8591a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-01T05:24:34+00:00</news:publication_date>
+<news:title>עננת עשן: אוקראינה תקפה את בית זיקוק הנפט בעיר קסטובו שברוסיה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/01/V1_KARIND_RUSSIA_8026_01112026052309_1400_1793510667608_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-9e679e7ab4591a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -1638,14 +1647,5 @@
 <news:title>הר הגעש התפרץ במחוז אלביי שבפיליפינים - ענן אפר כיסה את השמיים | צפו</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/30/V1_karind_Philippines_7972_30102026053545_1400_1793338625844_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-00eaa23504b81a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-30T05:24:21+00:00</news:publication_date>
-<news:title>הגניבה הגדולה ביותר אי פעם: חשד לפריצת אבטחה בבורסת קריפטו בייגאנס</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/30/V1_Crypto_7971_30102026052240_1400_1793337854535_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
