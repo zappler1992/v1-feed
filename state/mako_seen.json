@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793542948623,
+ "last_run_ms": 1793543248447,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2156,6 +2156,18 @@
    "published_ms": 1791286140000,
    "section": "ספורט",
    "title": "עדכונים חיים: המאבק סביב מכבי בבית הדין"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-1e0044dd67791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793543187523,
+   "content_type": "article",
+   "first_seen_ms": 1793543187523,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793543040000,
+   "section": "ספורט",
+   "title": "גיבוי מלא: במכבי סומכים על קלארק כמנהיג"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-1ebaa42929a41a1027.htm": {
    "check_attempts": 1,
@@ -19792,6 +19804,18 @@
    "published_ms": 1790260320000,
    "section": "",
    "title": "לא ציפינו: הקריירה החדשה של זוכת הריאליטי"
+  },
+  "https://www.mako.co.il/culture-articles/Article-c95a44dd67791a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793543067533,
+   "content_type": "article",
+   "first_seen_ms": 1793543067533,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793542020000,
+   "section": "תרבות tvbee",
+   "title": "הבמאי היהודי-אמריקאי המצליח ירה ברגלו בטעות"
   },
   "https://www.mako.co.il/culture-articles/Article-cf8b0c1a1b8f0a1027.htm": {
    "check_attempts": 1,
@@ -51269,6 +51293,18 @@
    "section": "",
    "title": "ימנעו מלחמה? המהלכים הבאים והמועד המכריע"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-6dce420207791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793543248447,
+   "content_type": "article",
+   "first_seen_ms": 1793543248447,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793542440000,
+   "section": "צבא וביטחון",
+   "title": "אחרי אירוע חריג: הזירה החדשה שמתחממת בגבול"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51951,7 +51987,7 @@
    "indexnow_ms": 1793536349449,
    "published_ms": 1793534880000,
    "section": "צבא וביטחון",
-   "title": "המועד שבעולם מסמנים למלחמה באירופה – והתגובה"
+   "title": "החשש מעימות צבאי באירופה - והבקשה החריגה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-c94116e9a2b01a1026.htm": {
    "check_attempts": 1,
