@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793652749569,
+ "last_run_ms": 1793653049564,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12054,6 +12054,18 @@
    "published_ms": 1793652180000,
    "section": "ספורט",
    "title": "בכר: \"היינו שווים לפחות תיקו במשחק הזה\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5e520af9cfd91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793652986686,
+   "content_type": "article",
+   "first_seen_ms": 1793652986686,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793652600000,
+   "section": "ספורט",
+   "title": "ברדה: \"זה מבחן בגרות אחרי גמר הטוטו\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5f5487f991271a1027.htm": {
    "check_attempts": 1,
