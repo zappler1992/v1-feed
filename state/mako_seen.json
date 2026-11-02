@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793619449313,
+ "last_run_ms": 1793619750186,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42232,6 +42232,18 @@
    "published_ms": 1790911800000,
    "section": "פלילים",
    "title": "\"אין לי קשר לשום ארגון פשע, לא ביצעתי הונאה\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-84100cb020c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793619627283,
+   "content_type": "article",
+   "first_seen_ms": 1793619627283,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793619120000,
+   "section": "פלילים",
+   "title": "הזמין ילדים לשחק במחשב - וביצע בהם עבירות מין"
   },
   "https://www.mako.co.il/men-men_news/Article-854e89d121f41a1027.htm": {
    "check_attempts": 1,
