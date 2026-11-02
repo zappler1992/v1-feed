@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793592150930,
+ "last_run_ms": 1793592452973,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -55298,6 +55298,18 @@
    "published_ms": 1791223800000,
    "section": "",
    "title": "המפלגה שמתרסקת - והבשורה הרעה לקואליציה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-da26eb8dc2991a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-da26eb8dc2991a1027.htm",
+   "checked_ms": 1793592452973,
+   "content_type": "article",
+   "first_seen_ms": 1793592452973,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793592360000,
+   "section": "",
+   "title": "רצח את בת זוגו עם גרזן לעיני הילדים - והתאבד"
   },
   "https://www.mako.co.il/special-mako-news/Article-dc5c84b5ceee0a1026.htm": {
    "check_attempts": 1,
