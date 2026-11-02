@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793610149245,
+ "last_run_ms": 1793610449130,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -54986,6 +54986,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8b49d3efdc691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-8b49d3efdc691a1026.htm",
+   "checked_ms": 1793610449130,
+   "content_type": "article",
+   "first_seen_ms": 1793610449130,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793607600000,
+   "section": "",
+   "title": "הקרב על המנדט: המפלגות שיכריעו את ההחלטה"
   },
   "https://www.mako.co.il/special-mako-news/Article-8bd422593dc01a1027.htm": {
    "check_attempts": 1,
