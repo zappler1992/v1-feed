@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6e391c28fa91a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-621cd57edfa91a1027.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-aee8d57edfa91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -50210,15 +50210,15 @@
    "description": "טראמפ מאיים כי ארה\"ב עשויה להנחית מכה נוספת על איראן: \"בשלב מסוים נצטרך להנחית עליהם את הפטיש\" – אמירה שמעלה תהיות אם מדובר ברמז למבצע \"פטיש חצות\".",
    "duration_s": 29,
    "first_seen_ms": 1793599945871,
-   "image": "https://img.mako.co.il/2026/11/02/SHIR_TRUMP_021126_FIX_1400_1793601114635_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/02/SHIR_TRUMP_021126_FIX1_1400_1793602540632_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793599130000,
    "sections": [],
    "title": "טראמפ בעצרת: \"נצטרך להנחית עליהם את הפטיש\"",
    "type": "news",
-   "updated_ms": 1793601120000,
+   "updated_ms": 1793602500000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-1e2bee05eca91a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_TRUMP_021126_FIX/SHIR_TRUMP_021126_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_TRUMP_021126_FIX1/SHIR_TRUMP_021126_FIX1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-2aed825ff7691a1026.htm": {
    "author": "חדשות",
@@ -50295,6 +50295,24 @@
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/SHIRA_YESHIBA_011126/MASTER/SHIRA_YESHIBA_011126_M/SHIRA_YESHIBA_011126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-621cd57edfa91a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "מבית חאנון למרתון ניו יורק: לאחר שנפצע באורח קשה בעזה, איבד את רגלו, ועבר לא פחות מ-19 ניתוחים ושיקום ממושך, הלוחם בוריס שטונדה ממשיך לשבור שיאים. שבועיים בלבד אחרי שצלח את תחרות \"איש הברזל\" המפרכת, הוא חצה את קו הסיום של מרתון ניו יורק היוקרתי. \n\nהשראה אמיתית של כוח רצון שלא נכנע לשום מכשול.",
+   "duration_s": 33,
+   "first_seen_ms": 1793602945957,
+   "image": "https://img.mako.co.il/2026/11/02/BORISM02112026_1400_1793602261697_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793602268000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "גאווה לאומית! בוריס שטונדה, הלוחם שאיבד את רגלו בקרבות בעזה, סיים את מרתון ניו יורק",
+   "type": "news",
+   "updated_ms": 1793602500000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-621cd57edfa91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/BORISM02112026/MASTER/BORISM02112026/BORISM02112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-624a9c380f691a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
@@ -50347,6 +50365,24 @@
    "updated_ms": 1793596877000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-8b41b13ae8a91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_MURDER_021126/MASTER/SHIR_MURDER_021126/SHIR_MURDER_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-aee8d57edfa91a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 35,
+   "first_seen_ms": 1793602945957,
+   "image": "https://img.mako.co.il/2026/11/02/rinat_passport_021126_m_1400_1793601731234_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793601738000,
+   "sections": [
+    "חופש וטיולים"
+   ],
+   "title": "תעריף חורף לדרכונים: כך תחסכו מאות שקלים",
+   "type": "news",
+   "updated_ms": 1793601738000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-aee8d57edfa91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/rinat_passport_021126/MASTER/rinat_passport_021126_m/rinat_passport_021126_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-c9936b174c891a1026.htm": {
    "author": "חדשות",
