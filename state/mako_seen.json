@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793636550323,
+ "last_run_ms": 1793636849453,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39471,7 +39471,7 @@
    "indexnow_ms": 1793629226744,
    "published_ms": 1793628780000,
    "section": "פלילים",
-   "title": "נתפס על חם: ההפתעה שחיכתה בנתב\"ג לצעיר שחזר מברלין"
+   "title": "ניסה להסתיר באריזות: נחת מברלין ונעצר בנתב\"ג"
   },
   "https://www.mako.co.il/men-men_news/Article-09ee8a9732791a1027.htm": {
    "check_attempts": 1,
@@ -40540,6 +40540,18 @@
    "published_ms": 1792410060000,
    "section": "פלילים",
    "title": "האחים שהפכו לאימת המסעדנים בקריית גת"
+  },
+  "https://www.mako.co.il/men-men_news/Article-35d3cc721ac91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793636787130,
+   "content_type": "article",
+   "first_seen_ms": 1793636787130,
+   "indexable": true,
+   "indexnow_ms": 1793636787130,
+   "published_ms": 1793636640000,
+   "section": "",
+   "title": "אמר קדיש על אדם חי בטיקטוק - והלובי הוצת"
   },
   "https://www.mako.co.il/men-men_news/Article-36147bbc6f591a1027.htm": {
    "check_attempts": 1,
@@ -48520,6 +48532,18 @@
    "published_ms": 1792296060000,
    "section": "ספורט",
    "title": "לא עוצר: צמד גדול למסי ב-1:3 של מיאמי"
+  },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-45303d9160d91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793636787130,
+   "content_type": "article",
+   "first_seen_ms": 1793636787130,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793636640000,
+   "section": "ספורט",
+   "title": "\"מיותר שנגרר לזה\": קנגווה יורחק לתקופה?"
   },
   "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-674173859d581a1027.htm": {
    "check_attempts": 1,
