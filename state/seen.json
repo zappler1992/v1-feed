@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56aab39343d91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22207,6 +22206,24 @@
    "updated_ms": 1793568196000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18574_01112026092142/M_Tarbut_18574_01112026092142_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56aab39343d91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ממליצה לחזור לאקס? אריאנה גרנדה בתמונות חדשות עם בן הזוג החדש-ישן ריקי אלברז",
+   "duration_s": 5,
+   "first_seen_ms": 1793639547080,
+   "image": "https://img.mako.co.il/2026/11/02/M_Celebs_18624_02112026050515_1400_1793639181036_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793639187000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ממליצה לחזור לאקס? אריאנה גרנדה בתמונות חדשות עם בן הזוג החדש-ישן ריקי אלברז",
+   "type": "mivzakim",
+   "updated_ms": 1793639187000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56aab39343d91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18624_02112026050515/M_Celebs_18624_02112026050515_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-594800266bc91a1026.htm": {
    "author": "עדכוני בידור",
@@ -51013,9 +51030,9 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "ריח גז חריף מורגש ברחבי מערב ראשון לציון מתחילת השבוע - התושבים מדווחים על צריבה, קשיי נשימה והקאות בקרב ילדים. שתי נשים הגיעו לבית החולים עם קוצר נשימה, אך הרשויות מדווחות כי מקור הריח עדיין לא אותר.",
-   "duration_s": 83,
+   "duration_s": 69,
    "first_seen_ms": 1793634746296,
-   "image": "https://img.mako.co.il/2026/11/02/RishonLeZion_FIX_1400_1793638540685_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/02/RishonLeZion_FIX2_1400_1793639385785_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793633815000,
    "sections": [
@@ -51023,9 +51040,9 @@
    ],
    "title": "ריח הגז החריף בראשון לציון: לרשויות אין תשובות",
    "type": "news",
-   "updated_ms": 1793635020000,
+   "updated_ms": 1793638860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-dc8943067ec91a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/RishonLeZion_FIX/RishonLeZion_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/RishonLeZion_FIX2/RishonLeZion_FIX2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm": {
    "author": "חדשות",
