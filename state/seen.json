@@ -7060,7 +7060,9 @@
    "image": "https://img.mako.co.il/2026/11/02/TALI_ELIOR_021126_1400_1793648840280_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793650500000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "סיים עם שבר באף: בוגר \"הכוכב הבא\" אליאור זנדני הותקף ביוון על רקע אנטישמי",
    "type": "general",
    "updated_ms": 1793650500000,
@@ -101080,20 +101082,20 @@
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8d8da37942e91a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
-   "description": "דיווחים באיראן: התקבלו דיווחים על חמישה פיצוצים באי קשאם שבמצר הורמוז",
+   "description": "דיווחים באיראן: התקבלו דיווחים על חמישה פיצוצים באי קאשם שבמצר הורמוז",
    "duration_s": 41,
    "first_seen_ms": 1793655446604,
    "image": "https://img.mako.co.il/2026/11/02/V1_IRAN_8087_02112026093315_1400_1793655292537_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793655300000,
    "sections": [
     "מבזקים"
    ],
-   "title": "דיווחים באיראן: התקבלו דיווחים על חמישה פיצוצים באי קשאם שבמצר הורמוז",
+   "title": "דיווחים באיראן: התקבלו דיווחים על חמישה פיצוצים באי קאשם שבמצר הורמוז",
    "type": "mivzakim",
    "updated_ms": 1793655300000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8d8da37942e91a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_IRAN_8087_02112026093315/V1_IRAN_8087_02112026093315_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/TALI_IRAN_FIX/TALI_IRAN_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8e6cc4b462691a1026.htm": {
    "author": "מבזקים",
