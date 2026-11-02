@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793610449130,
+ "last_run_ms": 1793610749104,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2228,6 +2228,18 @@
    "published_ms": 1791461040000,
    "section": "ספורט",
    "title": "\"קיבל 7,000 ד`\". כך בראיינט הגיע לישראל"
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-2ba7ce14d6b91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793610749104,
+   "content_type": "article",
+   "first_seen_ms": 1793610749104,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793610300000,
+   "section": "ספורט",
+   "title": "\"רוצה להבין את הציפיות\": התסכול של תייס"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-2da03c9112171a1026.htm": {
    "check_attempts": 1,
@@ -25240,6 +25252,18 @@
    "published_ms": 1790570160000,
    "section": "",
    "title": "בלי טיסה ובלי מלון: חגי תשרי עולים 3,500 שקל"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-9854c59861791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793610749104,
+   "content_type": "article",
+   "first_seen_ms": 1793610749104,
+   "indexable": true,
+   "indexnow_ms": 1793610749104,
+   "published_ms": 1793610540000,
+   "section": "כסף",
+   "title": "סוף סוף: דייסון משיקה את המוצר שכולנו חיכינו"
   },
   "https://www.mako.co.il/finances-consumer/Article-9d95f59666a11a1026.htm": {
    "check_attempts": 1,
@@ -51987,7 +52011,7 @@
    "indexnow_ms": 1793603548995,
    "published_ms": 1793602860000,
    "section": "",
-   "title": "סימן אותם: ה\"אשמים\" של טראמפ בהסתבכות באיראן"
+   "title": "הבכיר שסופג אש: \"משקר לטראמפ על המצב באיראן\""
   },
   "https://www.mako.co.il/pzm-soldiers/Article-461ab4ffb2b91a1026.htm": {
    "check_attempts": 1,
@@ -54013,7 +54037,7 @@
    "indexnow_ms": null,
    "published_ms": 1793603880000,
    "section": "",
-   "title": "פעיל ימין לאיזנקוט: \"בוגד, רצחת את הבן שלך\""
+   "title": "פעיל הימין לאיזנקוט: \"בוגד, רצחת את הבן שלך\""
   },
   "https://www.mako.co.il/special-mako-news/Article-16f92cb5f5f81a1026.htm": {
    "check_attempts": 1,
