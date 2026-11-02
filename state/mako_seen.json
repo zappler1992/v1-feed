@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793617049611,
+ "last_run_ms": 1793617349382,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -5516,6 +5516,18 @@
    "published_ms": 1792219620000,
    "section": "ספורט",
    "title": "איטודיס: \"בלי המאמץ שלכם - זה אבוד!\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-32dd889e1eb91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793617349382,
+   "content_type": "article",
+   "first_seen_ms": 1793617349382,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793617140000,
+   "section": "ספורט",
+   "title": "\"אולימפיאקוס התעניינה בקיטון וואלאס\""
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-33302c68bac11a1026.htm": {
    "check_attempts": 1,
@@ -42809,6 +42821,18 @@
    "section": "",
    "title": "\"הם אנסו אותי במקלט, לא יכולתי להתנגד\""
   },
+  "https://www.mako.co.il/men-men_news/Article-a49c1073aab91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793617227083,
+   "content_type": "article",
+   "first_seen_ms": 1793617227083,
+   "indexable": true,
+   "indexnow_ms": 1793617227083,
+   "published_ms": 1793617080000,
+   "section": "",
+   "title": "\"היא מצאה את אמה מתבוססת בדמה בסלון\""
+  },
   "https://www.mako.co.il/men-men_news/Article-a4dac68542601a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -59486,6 +59510,18 @@
    "published_ms": 1792643640000,
    "section": "חופש",
    "title": "מה באמת כולל חוק הטרולי החדש שכולם מדברים עליו?"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-c18716d919b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793617227083,
+   "content_type": "article",
+   "first_seen_ms": 1793617227083,
+   "indexable": true,
+   "indexnow_ms": 1793617227083,
+   "published_ms": 1793616000000,
+   "section": "חופש",
+   "title": "הישראלים תיעדו איך זורקים את המזוודות שלהם מהמטוס"
   },
   "https://www.mako.co.il/travel-news/international/Article-c1a4547169211a1026.htm": {
    "check_attempts": 1,
