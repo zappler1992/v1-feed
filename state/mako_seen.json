@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793622450342,
+ "last_run_ms": 1793622749682,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -9621,6 +9621,18 @@
    "section": "ספורט",
    "title": "\"רן בן שמעון איבד את האמון של כל המדינה\""
   },
+  "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-abd676dd13c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793622749682,
+   "content_type": "article",
+   "first_seen_ms": 1793622749682,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793622540000,
+   "section": "ספורט",
+   "title": "אביו של גורן: אוריין גאה לייצג את ישראל"
+  },
   "https://www.mako.co.il/Sports-football-il/israeli-league-q4_2026/Article-ac4ec0c51c801a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -13350,6 +13362,18 @@
    "published_ms": 1791645000000,
    "section": "ספורט",
    "title": "הסיבה שבגללה קרייב לא נרשם מול ק\"ש"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b75676dd13c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793622749682,
+   "content_type": "article",
+   "first_seen_ms": 1793622749682,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793622540000,
+   "section": "ספורט",
+   "title": "\"נעשה לך טרור\": אלפי האיומים שקיבל צינו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b7e7542b2e821a1027.htm": {
    "check_attempts": 1,
