@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793643449459,
+ "last_run_ms": 1793643749387,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -45989,6 +45989,18 @@
    "section": "מוזיקה",
    "title": "חואן אטקינס, ממייסדי ז'אנר הטכנו, מת בגיל 64"
   },
+  "https://www.mako.co.il/music-news/Article-850577e935d91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793643627321,
+   "content_type": "article",
+   "first_seen_ms": 1793643627321,
+   "indexable": true,
+   "indexnow_ms": 1793643627321,
+   "published_ms": 1793643420000,
+   "section": "",
+   "title": "זוכת האירוויזיון עלתה לישראל: \"מרגישה בבית\""
+  },
   "https://www.mako.co.il/music-news/Article-8d1a9e4c23871a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -55250,6 +55262,18 @@
    "published_ms": 1791137460000,
    "section": "",
    "title": "הפרטים החדשים שהתגלו בחקירת טייס המשנה העומאני"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-3bfee39a86d91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-3bfee39a86d91a1027.htm",
+   "checked_ms": 1793643749387,
+   "content_type": "article",
+   "first_seen_ms": 1793643749387,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793643240000,
+   "section": "",
+   "title": "הטעיה או סיבוב פרסה? האמירה המפתיעה של טראמפ על איראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-3e7e0d68a2631a1026.htm": {
    "check_attempts": 1,
