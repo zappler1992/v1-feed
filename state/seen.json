@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7e9a43466fc91a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-48f5a696eec91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -51075,7 +51075,7 @@
    ],
    "title": "האם ידעה ושתקה: נידונה לשבעה מאסרי עולם",
    "type": "news",
-   "updated_ms": 1793611260000,
+   "updated_ms": 1793635800000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-ec81c6b5c5b91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/ALMA_MORDER_021126_FIX/ALMA_MORDER_021126_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -100224,6 +100224,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4253c535a3791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_tehuna_8045_01112026012127/V1_karind_tehuna_8045_01112026012127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-48f5a696eec91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הפורעים הבעירו צמיגים כדי לשבש את פעילות כוחות צה\"ל שהגיעו לפנות את המאחז הבוקר",
+   "duration_s": 10,
+   "first_seen_ms": 1793636547022,
+   "image": "https://img.mako.co.il/2026/11/02/V1_MAACHAZ_8076_02112026040745_1400_1793635732639_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793635739000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הפורעים הבעירו צמיגים כדי לשבש את פעילות כוחות צה\"ל שהגיעו לפנות את המאחז הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1793635739000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-48f5a696eec91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_MAACHAZ_8076_02112026040745/V1_MAACHAZ_8076_02112026040745_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4b66286fcdb91a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -100655,7 +100673,7 @@
    ],
    "title": "\"אף איש צוות לא היה שם לעצור את זה\": 6 בנות תקפו ילדה בבית ספר באשקלון - מול התלמידים",
    "type": "mivzakim",
-   "updated_ms": 1793628408000,
+   "updated_ms": 1793635440000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90d0b89898c91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_katlot_8073_02112026020518/V1_katlot_8073_02112026020518_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
