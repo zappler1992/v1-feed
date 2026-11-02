@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-0f49f5316cc91a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-96703468ddc91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22531,6 +22531,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8c2e42373bc91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18618_02112026024600/M_Tarbut_18618_02112026024600_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-96703468ddc91a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כוכב ריאל מדריד ונבחרת אנגליה ג'וד בלינגהאם מככב בקמפיין החדש של קלווין קליין",
+   "duration_s": 52,
+   "first_seen_ms": 1793633846296,
+   "image": "https://img.mako.co.il/2026/11/02/M_FF_18619_02112026032931_1400_1793633481818_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793633488000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כוכב ריאל מדריד ונבחרת אנגליה ג'וד בלינגהאם מככב בקמפיין החדש של קלווין קליין",
+   "type": "mivzakim",
+   "updated_ms": 1793633488000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-96703468ddc91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_FF_18619_02112026032931/M_FF_18619_02112026032931_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-9e2598d6c1691a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -30324,10 +30342,10 @@
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-eeb35cd8e4b91a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
-   "description": "מטוס מנהלים מדגם Learjet 60 שהיה על טיסה מטקסס לבאהמה התרסק ביום ראשון (01/11/2026) אחר הצהריים בעיר גרינאקרס שבמחוז פאלם ביץ פלורידה, אסון קשה שבו נהרגו כל תשעת הנוסעים ואנשי הצוות שהיו על סיפונו. הקלטות הקשר הדרמטיות מתוך תא הטייס חשפו את רגעי האימה האחרונים, שבהם דיווחו הטייסים על תנאי מזג אוויר קשים, כיסי אוויר וצלילה חדה של אלפי רגליים בדקה, עד לקריאת החירום האחרונה ולפגיעה הקטלנית בקרקע.",
-   "duration_s": 44,
+   "description": "נטליה גדליה, בת 20 בלבד, היא טייסת המשנה שנהרגה בהתרסקות מטוס המנהלים בפלורידה. המטוס, שהיה בדרכו מטקסס לאיי בהאמה, התרסק כשעל סיפונו תשעה בני אדם, שכולם נהרגו. בהקלטות הקשר שפורסמו נשמעות קריאות המצוקה שלה ברגעים האחרונים לפני ההתרסקות.",
+   "duration_s": 40,
    "first_seen_ms": 1793614046272,
-   "image": "https://img.mako.co.il/2026/11/02/rinat_plane_021126_m_1400_1793607660219_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/02/yoav_FLORIDA_CRASH_021126_1400_1793633377174_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793607668000,
    "sections": [
@@ -30336,9 +30354,9 @@
    ],
    "title": "\"אנחנו עומדים להתרסק\": הקלטת הקשר המצמררת שניות לפני נפילת המטוס בפלורידה",
    "type": "general",
-   "updated_ms": 1793626260000,
+   "updated_ms": 1793633520000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-eeb35cd8e4b91a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/rinat_plane_021126/MASTER/rinat_plane_021126_m/rinat_plane_021126_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/yoav_FLORIDA_CRASH_021126/yoav_FLORIDA_CRASH_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-f05b3fa71a791a1026.htm": {
    "author": "מהעולם",
