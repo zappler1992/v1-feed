@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793604749038,
+ "last_run_ms": 1793605065058,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30520,6 +30520,18 @@
    "published_ms": 1790845860000,
    "section": "בריאות",
    "title": "בן השנתיים תחב את היד למאוורר - וזה מה שקרה"
+  },
+  "https://www.mako.co.il/health-news/Article-19974fb93ea91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793604987467,
+   "content_type": "article",
+   "first_seen_ms": 1793604987467,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793601180000,
+   "section": "בריאות",
+   "title": "\"פגיעה קשה במעי\": בן 5 נשאב לתוך ג'קוזי"
   },
   "https://www.mako.co.il/health-news/Article-1aef9b007b2d0a1027.htm": {
    "check_attempts": 1,
