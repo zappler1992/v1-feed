@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-4e1c2eb62fd91a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-1efe4a2c2cd91a1027.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-78a82eb62fd91a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-eb121f5cf9d91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30518,6 +30520,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-0f49f5316cc91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/Kim_HasidimNYC_02112026/MASTER/Kim_HasidimNYC_02112026/Kim_HasidimNYC_02112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-1efe4a2c2cd91a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "זמרת הקאנטרי ג'סי ג'יימס דקר תיעדה נוסע שהניח רגל יחפה ומסריחה על משענת היד שלה בטיסה. בתגובה היא שלפה ספריי וריססה לו את הרגל. הסרטון התפוצץ ברשת, ורבים דווקא היו בעדה, אבל היו גם כאלה שחשדו שזו בכלל מתיחה על בעלה.",
+   "duration_s": 15,
+   "first_seen_ms": 1793653946606,
+   "image": "https://img.mako.co.il/2026/11/02/yoav_legs_021126_1400_1793648955373_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793649480000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "שמו לה את הרגליים על הידית בטיסה - וככה היא הגיבה",
+   "type": "general",
+   "updated_ms": 1793649480000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-1efe4a2c2cd91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/yoav_legs_021126/MASTER/yoav_legs_021126/yoav_legs_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-41d644dd67791a1026.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -30589,6 +30609,24 @@
    "updated_ms": 1793565780000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-68815831dc891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LIRON_MARS_01112026M/MASTER/LIRON_MARS_01112026M/LIRON_MARS_01112026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-78a82eb62fd91a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "חולצה בחיים: ילדה בת 10 נחטפה באמצע הלילה מביתה באורגון שבארה\"ב, לאחר שהחוטף תקף את אחותה הגדולה בפטיש וכמעט הרג אותה. אחרי כ-13 שעות של חיפושים, כוחות מיוחדים איתרו אותה קשורה בתוך תיק גדול שהוסתר בארון",
+   "duration_s": 51,
+   "first_seen_ms": 1793653946606,
+   "image": "https://img.mako.co.il/2026/11/02/yoav_hilutz_021126_1400_1793651313722_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793651940000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "נמצאה קשורה בתוך תיק: החילוץ הדרמטי של בת ה-10",
+   "type": "general",
+   "updated_ms": 1793651940000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-78a82eb62fd91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/yoav_hilutz_021126/MASTER/yoav_hilutz_021126/yoav_hilutz_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-eeb35cd8e4b91a1026.htm": {
    "author": "מהעולם",
@@ -51106,7 +51144,9 @@
    "image": "https://img.mako.co.il/2026/11/02/TALI_BEAPER_021126_1400_1793641552943_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793641560000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "מבצע הביפרים באיראן? הרמז של בכיר המוסד לשעבר שעושה כותרות בכל העולם",
    "type": "news",
    "updated_ms": 1793641560000,
@@ -51249,7 +51289,8 @@
    "importance": 1,
    "published_ms": 1793633815000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ריח הגז החריף בראשון לציון: לרשויות אין תשובות",
    "type": "news",
@@ -51286,7 +51327,8 @@
    "importance": 2,
    "published_ms": 1793640420000,
    "sections": [
-    "חופש וטיולים"
+    "חופש וטיולים",
+    "הכי נצפים עכשיו"
    ],
    "title": "שברו את המזוודות: התיעוד המקומם מהטיסה לארץ",
    "type": "news",
@@ -51309,6 +51351,24 @@
    "updated_ms": 1793521637000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e8c446b0e2691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_SNL_01112026/MASTER/Kim_SNL_01112026/Kim_SNL_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-eb121f5cf9d91a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "סרטון בטיקטוק שבו נראו ילדות בנות 8 שמשתתפות בסדנת לק ג'ל - עורר סערה ברשת, והתגובות לא איחרו להגיע - לצד מי שזעמו על הרעיון, היו גם כאלה שדווקא לא הבינו על מה המהומה.",
+   "duration_s": 28,
+   "first_seen_ms": 1793653946606,
+   "image": "https://img.mako.co.il/2026/11/02/Kim_Nails_02112026_1_1400_1793646688854_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793646695000,
+   "sections": [
+    "רק בישראל"
+   ],
+   "title": "הגולשים לא נשארו אדישים: סדנת הלק ג'ל לילדות שעוררה סערה",
+   "type": "news",
+   "updated_ms": 1793646695000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-eb121f5cf9d91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/Kim_Nails_02112026/MASTER/Kim_Nails_02112026_1/Kim_Nails_02112026_1_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-ec81c6b5c5b91a1026.htm": {
    "author": "חדשות",
@@ -118114,9 +118174,9 @@
    "sections": [
     "רק בישראל"
    ],
-   "title": "מיליון אנשים כבר צפו: הישראלי הראשון שהעז לצלול בים המלח",
+   "title": "מיליון אנשים כבר צפו: הישראלי שהעז לצלול בים המלח",
    "type": "general",
-   "updated_ms": 1793652300000,
+   "updated_ms": 1793652780000,
    "url": "https://www.v-1.co.il/travel-magazine/2026-m11_w01/shorts-a31d86d6e0791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_SALT_011126_FIX/SHIR_SALT_011126_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -128895,7 +128955,8 @@
    "importance": 2,
    "published_ms": 1793637090000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "מזג אוויר קיצוני ביוון: הצפות קשות ונזקים כבדים ברחבי האי רודוס בעקבות גשמים עזים",
    "type": "mivzakim",
@@ -129024,7 +129085,8 @@
    "importance": 0,
    "published_ms": 1793636841000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "אסון באינדונזיה: זרמי בוץ געשיים מהר סאמרו הציפו בתים לאחר שפרצו את גדות הנהר",
    "type": "mivzakim",
