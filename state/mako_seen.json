@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793635049247,
+ "last_run_ms": 1793635349309,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4280,6 +4280,18 @@
    "published_ms": 1792542300000,
    "section": "ספורט",
    "title": "מתי זה קרה? פרטים חדשים על פציעת אבדיה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-fe2d43466fc91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793635349309,
+   "content_type": "article",
+   "first_seen_ms": 1793635349309,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793635200000,
+   "section": "ספורט",
+   "title": "בדרך לעונה היסטורית? השינוי הענק של לוקה"
   },
   "https://www.mako.co.il/Sports-basketball-world/eurocup-q3_2026/Article-b725d39ab18e0a1027.htm": {
    "check_attempts": 1,
