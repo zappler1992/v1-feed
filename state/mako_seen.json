@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793623649135,
+ "last_run_ms": 1793623949172,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1553,9 +1553,9 @@
    "first_seen_ms": 1793617827152,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793617244000,
    "section": "אופנה",
-   "title": "הקפיצה את מדד התעוזה: הבחירה הלוהטת של יעל שלביה"
+   "title": "יעל שלביה לקחה את הטופ הטרנדי של החורף, והפכה אותו לאקסטרה סקסי"
   },
   "https://fashionforward.mako.co.il/news/322715/": {
    "check_attempts": 1,
@@ -1565,7 +1565,7 @@
    "first_seen_ms": 1793620650421,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793620110000,
    "section": "אופנה",
    "title": "לא משחררת מהקיץ: מלי לוי רותחת בביקיני שווה במיוחד"
   },
@@ -13373,7 +13373,7 @@
    "indexnow_ms": null,
    "published_ms": 1793622540000,
    "section": "ספורט",
-   "title": "\"נעשה לך טרור\": אלפי האיומים שקיבל צינו"
+   "title": "3,000 הודעות: האיומים שקיבל דקל צינו"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-b7e7542b2e821a1027.htm": {
    "check_attempts": 1,
@@ -21328,6 +21328,18 @@
    "published_ms": 1790938500000,
    "section": "סלבס",
    "title": "אחרי 10 חודשים יחד: כוכבת \"חתונמי\" התארסה"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-1de6bc8c11c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793623827341,
+   "content_type": "article",
+   "first_seen_ms": 1793623827341,
+   "indexable": true,
+   "indexnow_ms": 1793623827341,
+   "published_ms": 1793623500000,
+   "section": "סלבס",
+   "title": "דומה לאקסית: ברק שמיר והדוגמנית מתקרבים"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-1e17eb3743511a1026.htm": {
    "check_attempts": 1,
@@ -46169,6 +46181,18 @@
    "section": "מוזיקה",
    "title": "הזמרת המצליחה עלתה לבמה עם מסר פרו-פלסטיני"
   },
+  "https://www.mako.co.il/music-news/Article-d7d3a49624c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793623949172,
+   "content_type": "article",
+   "first_seen_ms": 1793623949172,
+   "indexable": true,
+   "indexnow_ms": 1793623949172,
+   "published_ms": 1793623680000,
+   "section": "מוזיקה",
+   "title": "אלמנת כוכב שנות ה-90 תיאלץ לשלם מיליונים למשפחתו"
+  },
   "https://www.mako.co.il/music-news/Article-dafa42219e511a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -56833,7 +56857,7 @@
    "indexnow_ms": null,
    "published_ms": 1793620980000,
    "section": "",
-   "title": "\"יתהפך העולם, אני לא אשב עם נתניהו\""
+   "title": "ליברמן הודיע שימליץ על איזנקוט - ועקץ: \"כשלון צורב\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-be85d8f1b3e61a1026.htm": {
    "check_attempts": 1,
