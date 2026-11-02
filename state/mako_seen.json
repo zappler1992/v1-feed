@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793632949258,
+ "last_run_ms": 1793633249277,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -54530,6 +54530,18 @@
    "published_ms": 1793462280000,
    "section": "",
    "title": "עצרת נגד ישראלים ביעד האהוב: \"לסגור את בתי חב\"ד\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-0418cc721ac91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-0418cc721ac91a1027.htm",
+   "checked_ms": 1793633066973,
+   "content_type": "article",
+   "first_seen_ms": 1793633066973,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793632860000,
+   "section": "",
+   "title": "דיווח על אשפוזים והקאות: תעלומת גל ריח הגז בראשל\"צ"
   },
   "https://www.mako.co.il/special-mako-news/Article-0537da3b52571a1026.htm": {
    "check_attempts": 1,
