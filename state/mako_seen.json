@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793653049564,
+ "last_run_ms": 1793653349613,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -10710,6 +10710,18 @@
    "published_ms": 1791892020000,
    "section": "ספורט",
    "title": "עשרות אלפי מושבים: חידוש איצטדיוני ישראל"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-043a36bab0e91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793653349613,
+   "content_type": "article",
+   "first_seen_ms": 1793653349613,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793653140000,
+   "section": "ספורט",
+   "title": "צפו: דסה התייחס לסאגת העידוד במכבי חיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-0448214a86691a1027.htm": {
    "check_attempts": 1,
@@ -33303,7 +33315,7 @@
    "indexnow_ms": null,
    "published_ms": 1793622900000,
    "section": "HIX",
-   "title": "יצאו לשיט של שעה – ונמצאו אחרי שלושה חודשים"
+   "title": "יצאו לשיט של שעה - ונקלעו לשלושה חודשים של סיוט"
   },
   "https://www.mako.co.il/hix-bizarre/Article-c997c5ba9cce0a1026.htm": {
    "check_attempts": 1,
@@ -38019,7 +38031,7 @@
    "indexnow_ms": null,
    "published_ms": 1793608560000,
    "section": "עיצוב הבית",
-   "title": "גילינו כמה עולה לשפץ מטבח בישראל ב-2026"
+   "title": "כמה עולה לשפץ מטבח בישראל ב-2026?"
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-2f611eda56ec0a1027.htm": {
    "check_attempts": 1,
