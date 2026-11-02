@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9f7e76dd13c91a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-053eed3892c91a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b71ca49624c91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22548,6 +22548,24 @@
    "updated_ms": 1793616480000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-aa05ce14d6b91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18602_02112026090026/M_Celebs_18602_02112026090026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b71ca49624c91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אנה ארונוב: ״טירוף מה שקורה לי מאתמול. אני זמרת לא רעה״",
+   "duration_s": 58,
+   "first_seen_ms": 1793623646101,
+   "image": "https://img.mako.co.il/2026/11/02/M_Celebs_18614_02112026123637_1400_1793623106092_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793623113000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אנה ארונוב: ״טירוף מה שקורה לי מאתמול. אני זמרת לא רעה״",
+   "type": "mivzakim",
+   "updated_ms": 1793623113000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b71ca49624c91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18614_02112026123637/M_Celebs_18614_02112026123637_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-bcb843bac2891a1027.htm": {
    "author": "עדכוני בידור",
@@ -100671,6 +100689,24 @@
    "updated_ms": 1793566296000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e9417389ad891a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18567_01112026084958/M_NEWS_18567_01112026084958_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "על רקע המתיחות מול איראן: מורים בדרום התבקשו להכין את התלמידים ללמידה מרחוק",
+   "duration_s": 9,
+   "first_seen_ms": 1793623646101,
+   "image": "https://img.mako.co.il/2026/11/02/V1_darommessage_8069_02112026124141_1400_1793623381214_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793623387000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "על רקע המתיחות מול איראן: מורים בדרום התבקשו להכין את התלמידים ללמידה מרחוק",
+   "type": "mivzakim",
+   "updated_ms": 1793623387000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_darommessage_8069_02112026124141/V1_darommessage_8069_02112026124141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f09d1dcad2591a1026.htm": {
    "author": "מבזקים",
