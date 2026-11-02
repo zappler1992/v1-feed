@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793615548952,
+ "last_run_ms": 1793615849281,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -29585,6 +29585,18 @@
    "section": "",
    "title": "חדש בקריית אונו: המבורגר וואגיו נדיר ב-74 שקלים"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-410e535808791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793615787011,
+   "content_type": "article",
+   "first_seen_ms": 1793615787011,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793614620000,
+   "section": "",
+   "title": "בהשקעה של מיליונים: המקום החדש והענק שנפתח בבת-ים"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-41a622fec9351a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -48123,7 +48135,7 @@
    "indexnow_ms": null,
    "published_ms": 1793607900000,
    "section": "",
-   "title": "טריק הביצים הקשות שעומד לשנות לנו את החיים"
+   "title": "טריק הביצים הקשות הזה הדליק אותנו לגמרי"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-0fa7809145261a1027.htm": {
    "check_attempts": 1,
