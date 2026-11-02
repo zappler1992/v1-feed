@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793632349226,
+ "last_run_ms": 1793632649305,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -60122,6 +60122,18 @@
    "published_ms": 1791174660000,
    "section": "חופש",
    "title": "אזהרת מסע חמורה לתיירים שנמצאים במדינה היפה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-de6742373bc91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793632649305,
+   "content_type": "article",
+   "first_seen_ms": 1793632649305,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793629080000,
+   "section": "חופש",
+   "title": "\"איזו חוצפה יש לאנשים! – צריכים להוריד אותו\""
   },
   "https://www.mako.co.il/travel-news/international/Article-df41724176051a1026.htm": {
    "check_attempts": 1,
