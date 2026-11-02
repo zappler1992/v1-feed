@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793643149532,
+ "last_run_ms": 1793643449459,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14790,6 +14790,18 @@
    "published_ms": 1792318020000,
    "section": "ספורט",
    "title": "הרכבים נגררו: צפו במעצר אנשי ההנהלה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fc7677e935d91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793643387333,
+   "content_type": "article",
+   "first_seen_ms": 1793643387333,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793643060000,
+   "section": "ספורט",
+   "title": "בחצי מזמן המשחק: מדמון עקף את סוקלר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-fca5ab8877761a1026.htm": {
    "check_attempts": 1,
@@ -58250,6 +58262,18 @@
    "published_ms": 1791131040000,
    "section": "",
    "title": "רוצים דרכון זר? המדינה הזו תיתן לכם אותו תמורת כסף"
+  },
+  "https://www.mako.co.il/travel-news/Article-856287e183d91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793643387333,
+   "content_type": "article",
+   "first_seen_ms": 1793643387333,
+   "indexable": true,
+   "indexnow_ms": 1793643387333,
+   "published_ms": 1793640120000,
+   "section": "",
+   "title": "מכוניות נסחפו: כאוס באי האהוב על הישראלים"
   },
   "https://www.mako.co.il/travel-news/Article-8b0ce19dbeff0a1027.htm": {
    "check_attempts": 1,
