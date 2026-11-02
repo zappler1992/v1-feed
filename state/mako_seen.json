@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793602048912,
+ "last_run_ms": 1793602348935,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -55814,6 +55814,18 @@
    "published_ms": 1791904680000,
    "section": "",
    "title": "שינוי הכיוון של איראן: \"מנסה לפגוע ביעדים רגישים\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f84543bac2891a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel/2026_q4/Article-f84543bac2891a1027.htm",
+   "checked_ms": 1793602348935,
+   "content_type": "article",
+   "first_seen_ms": 1793602348935,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793599740000,
+   "section": "",
+   "title": "עריק ניסה לברוח מהארץ והצליח להסתנן עד השירותים במטוס"
   },
   "https://www.mako.co.il/special-mako-news/Article-f9457f2fcf881a1027.htm": {
    "check_attempts": 1,

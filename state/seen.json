@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-32dad57edfa91a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-f1f30e7cfda91a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-71a10e7cfda91a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6e391c28fa91a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -99962,6 +99961,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6a005a3f3791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18547_01112026012022/M_NEWS_18547_01112026012022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6e391c28fa91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בהמשך לדיווחים על ריח חריף בראשון לציון אמש, בכבאות והצלה מעדכנים: \"לא נמצאו חומרים מסוכנים\"",
+   "duration_s": 9,
+   "first_seen_ms": 1793602345947,
+   "image": "https://img.mako.co.il/2026/11/02/V1_rishon_8064_02112026064710_1400_1793602088626_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793602095000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בהמשך לדיווחים על ריח חריף בראשון לציון אמש, בכבאות והצלה מעדכנים: \"לא נמצאו חומרים מסוכנים\"",
+   "type": "mivzakim",
+   "updated_ms": 1793602095000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6e391c28fa91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_rishon_8064_02112026064710/V1_rishon_8064_02112026064710_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e1cc535808791a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -101909,6 +101926,24 @@
    "updated_ms": 1793001330000,
    "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-fd56241de2771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18123_26102026075356/M_Food_18123_26102026075356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm": {
+   "author": "מתכונים",
+   "date_source": "json-publishDate",
+   "description": "הכירו את התמכרות הטורטייה החדשה שלנו",
+   "duration_s": 19,
+   "first_seen_ms": 1793602345947,
+   "image": "https://img.mako.co.il/2026/11/02/M_Food_18588_02112026064614_1400_1793602049837_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793602056000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "הכירו את התמכרות הטורטייה החדשה שלנו",
+   "type": "mivzakim",
+   "updated_ms": 1793602056000,
+   "url": "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Food_18588_02112026064614/M_Food_18588_02112026064614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b5e6a1cf4b691a1027.htm": {
    "author": "חן אורפז",
