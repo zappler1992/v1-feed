@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793601448886,
+ "last_run_ms": 1793601748901,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -28937,6 +28937,18 @@
    "section": "",
    "title": "ככה הופכים חצי קילו עוף טחון לארוחה ל-6"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-chicken/Recipe-845cf8e70f691a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793601748901,
+   "content_type": "recipe",
+   "first_seen_ms": 1793601748901,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793602140000,
+   "section": "",
+   "title": "יש הטוענים שהמנה הזו מתעלה אפילו על שניצל"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-chicken/pullet/Recipe-be44450455c7a41006.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-be44450455c7a41006.htm",
@@ -44667,7 +44679,7 @@
    "indexnow_ms": null,
    "published_ms": 1793599980000,
    "section": "מוזיקה",
-   "title": "אחרי שהוחרם מהפסטיבל: המוזיקאי הישראלי מגיב"
+   "title": "אחרי שהוחרם מהפסטיבל: המוזיקאי הישראלי מגיב לראשונה"
   },
   "https://www.mako.co.il/music-news/Article-3e345fa4586f0a1027.htm": {
    "check_attempts": 1,
@@ -60003,6 +60015,18 @@
    "section": "",
    "title": "צריכים לחדש דרכון בקרוב? יש לנו חדשות רעות"
   },
+  "https://www.mako.co.il/travel-news/israel/Article-fd944fb93ea91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793601748901,
+   "content_type": "article",
+   "first_seen_ms": 1793601748901,
+   "indexable": true,
+   "indexnow_ms": 1793601748901,
+   "published_ms": 1793599920000,
+   "section": "חופש",
+   "title": "המקום הכי יפה בארץ נפתח לחודש במחיר סמלי"
+  },
   "https://www.mako.co.il/travel-world/Article-01cceca640b21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -60266,6 +60290,18 @@
    "published_ms": 1791261420000,
    "section": "חופש",
    "title": "הסוד של המדינה היפה: העיר הזו היא קסם האמיתי"
+  },
+  "https://www.mako.co.il/travel-world/Article-7b2a91c28fa91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793601748901,
+   "content_type": "article",
+   "first_seen_ms": 1793601748901,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793600940000,
+   "section": "חופש",
+   "title": "פעם ראשונה בחו\"ל? זה המקום הכי טוב לנחות בו"
   },
   "https://www.mako.co.il/travel-world/Article-8265912c4a351a1026.htm": {
    "check_attempts": 1,
