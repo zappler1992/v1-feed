@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793652449580,
+ "last_run_ms": 1793652749569,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12042,6 +12042,18 @@
    "published_ms": 1792234620000,
    "section": "ספורט",
    "title": "האבא שיחק בליגת העל, הבן מככב בגרמניה"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5e022eb62fd91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793652626685,
+   "content_type": "article",
+   "first_seen_ms": 1793652626685,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793652180000,
+   "section": "ספורט",
+   "title": "בכר: \"היינו שווים לפחות תיקו במשחק הזה\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5f5487f991271a1027.htm": {
    "check_attempts": 1,
