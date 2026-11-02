@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6b7ad7e02cd91a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-02T19:43:38+00:00</news:publication_date>
+<news:title>טראמפ: &quot;איראן רוצים להגיע לעסקה, וזה עשוי לקרות&quot;.</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_TRUMP_8083_02112026074217_1400_1793648612576_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5fb8d7e02cd91a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2213,14 +2222,5 @@
 <news:title>שוד הקריפטו הגדול בהיסטוריה: 6.3 מיליארד דולר נגנבו ב-20 דקות בלבד</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/01/fix_rinat_money_311026_m_1400_1793484151023_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-ca77542b76391a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-31T19:43:31+00:00</news:publication_date>
-<news:title>אש בגרמניה: המפגינים מעלים בלהבות כל דבר שבא ליד | התיעוד מהכאוס בעיר המבורג</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/31/V1_GERMANY_8024_31102026074209_1400_1793475805135_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
