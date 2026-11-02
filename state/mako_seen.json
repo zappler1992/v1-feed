@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793607149180,
+ "last_run_ms": 1793607449881,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27363,7 +27363,7 @@
    "indexnow_ms": 1793607027608,
    "published_ms": 1793606580000,
    "section": "נדל\"ן",
-   "title": "מגדל הפחד: הדיירים בחיפה מפחדים לצאת מהבית"
+   "title": "שריפות והצפות: הדיירים בבניין בחיפה חוששים לצאת מהבית"
   },
   "https://www.mako.co.il/finances-real-estate/Article-37c88f1a0bf90a1027.htm": {
    "check_attempts": 1,
@@ -33412,6 +33412,18 @@
    "published_ms": 1790686020000,
    "section": "HIX",
    "title": "הוגשה תלונה למשטרה: בן שנה וחצי ברח מהגנון"
+  },
+  "https://www.mako.co.il/hix-special/Article-024673b454b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793607449881,
+   "content_type": "article",
+   "first_seen_ms": 1793607449881,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793606880000,
+   "section": "HIX",
+   "title": "\"מרגישה לגמרי חסרת אונים, ורוצה לחזור הביתה\""
   },
   "https://www.mako.co.il/hix-special/Article-024a6bf47f251a1026.htm": {
    "check_attempts": 1,
