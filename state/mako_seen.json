@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793651849505,
+ "last_run_ms": 1793652149514,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39747,7 +39747,7 @@
    "indexnow_ms": null,
    "published_ms": 1793618340000,
    "section": "פלילים",
-   "title": "אחרי שבועות של איסור: הבשורה הטובה שקיבלה אגם צרפי"
+   "title": "אחרי שבועות של איסור: ההקלה שקיבלה אגם צרפי"
   },
   "https://www.mako.co.il/men-men_news/Article-0b56e288263d0a1027.htm": {
    "check_attempts": 1,
@@ -41091,7 +41091,7 @@
    "indexnow_ms": 1793607987644,
    "published_ms": 1793607120000,
    "section": "פלילים",
-   "title": "גרם הרס בכנסייה והשאיר פתק: \"לא יודע מה נכנס בי\""
+   "title": "הרס את המקום הקדוש והשאיר פתק: \"לא יודע מה נכנס בי\""
   },
   "https://www.mako.co.il/men-men_news/Article-433b884eeca01a1026.htm": {
    "check_attempts": 1,
@@ -56559,6 +56559,18 @@
    "section": "",
    "title": "תמך באיראן: נאסרה כניסה לישראל של טייס בחברת ענק"
   },
+  "https://www.mako.co.il/special-mako-news/Article-bdffd7e02cd91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-bdffd7e02cd91a1026.htm",
+   "checked_ms": 1793652026654,
+   "content_type": "article",
+   "first_seen_ms": 1793652026654,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793651220000,
+   "section": "",
+   "title": "ההפתעה של ליברמן - שעשויה לסלול את הדרך לממשלת איזנקוט"
+  },
   "https://www.mako.co.il/special-mako-news/Article-bf175ad340f51a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-bf175ad340f51a1027.htm",
@@ -62162,6 +62174,18 @@
    "published_ms": 1790280120000,
    "section": "חדשות",
    "title": "\"הוא ננטש\": המיליארדר שתרם לכולם ונשאר לבד מדבר"
+  },
+  "https://www.mako.co.il/tv-exposure/articles/Article-c4335459edd91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793652026654,
+   "content_type": "article",
+   "first_seen_ms": 1793652026654,
+   "indexable": true,
+   "indexnow_ms": 1793652026654,
+   "published_ms": 1793651820000,
+   "section": "",
+   "title": "\"צעקתי 'די, תפסיק', נגעלתי מכל הגוף שלי\""
   },
   "https://www.mako.co.il/tv-galit_and_yoav/articles/Article-6cef288d657d0a1027.htm": {
    "check_attempts": 1,
