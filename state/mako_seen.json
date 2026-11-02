@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793611949464,
+ "last_run_ms": 1793612249207,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -59835,6 +59835,18 @@
    "section": "חופש",
    "title": "עם שלושה מתחמים: הרופטופ החדש שנפתח באילת"
   },
+  "https://www.mako.co.il/travel-news/israel/Article-267ff47c76b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793612249207,
+   "content_type": "article",
+   "first_seen_ms": 1793612249207,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793611020000,
+   "section": "חופש",
+   "title": "\"לא על זה שילמנו\": הזעם של נוסעי אל על"
+  },
   "https://www.mako.co.il/travel-news/israel/Article-28cd69a58b271a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -63554,6 +63566,18 @@
    "published_ms": 1792567500000,
    "section": "הכי חם",
    "title": "\"קשה לי לראות אנשים שאומרים כאלו מילים\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-abaa554a28b91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793612186805,
+   "content_type": "article",
+   "first_seen_ms": 1793612186805,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793611800000,
+   "section": "תרבות tvbee",
+   "title": "האמירה בשידור שסיבכה את אילה חסון: \"בושה וכלימה\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-ae0edd6b8ec81a1027.htm": {
    "check_attempts": 1,
