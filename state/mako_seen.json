@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793641649602,
+ "last_run_ms": 1793641949479,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -48268,6 +48268,18 @@
    "published_ms": 1793253720000,
    "section": "ספורט",
    "title": "הסעיף שעלול לעלות לאבדיה 30 מיליון דולר"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-ae8f77e935d91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793641949479,
+   "content_type": "article",
+   "first_seen_ms": 1793641949479,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793641560000,
+   "section": "ספורט",
+   "title": "\"ישפיע על הרשיון?\": העונש החריג ביורוליג"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-b2fd782afdc51a1027.htm": {
    "check_attempts": 1,
