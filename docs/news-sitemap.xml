@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2f5543276eb91a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-02T11:11:01+00:00</news:publication_date>
+<news:title>כך נראות מערכות ההגנה האווירית שנפרסו באחוזתו של טראמפ במאר-א-לאגו, פלורידה</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_airdefense_8066_02112026110936_1400_1793617855378_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4b66286fcdb91a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2231,14 +2240,5 @@
 <news:title>המהלך הדרמטי שנבחן בגוש השינוי</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/30/yoav_direct_elections_301026_1400_1793391560043_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m10_w05/shorts-fd3654c659191a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-31T11:17:08+00:00</news:publication_date>
-<news:title>באיראן טוענים - ח&#x27;אמנאי נפגש עם בכירי הצבא ושיגר איום: &quot;נגיב בעוצמה אם נותקף, ללא מגבלה גיאוגרפית&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/31/M_NEWS_18475_31102026111545_1400_1793445422016_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

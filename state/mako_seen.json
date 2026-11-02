@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793617951123,
+ "last_run_ms": 1793618249474,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -24761,6 +24761,18 @@
    "section": "סלבס",
    "title": "רגע אחרי שנחשפו: השמועות על הדוגמנית והכוכב"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-c45b241198b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793618187204,
+   "content_type": "article",
+   "first_seen_ms": 1793618187204,
+   "indexable": true,
+   "indexnow_ms": 1793618187204,
+   "published_ms": 1793617560000,
+   "section": "סלבס",
+   "title": "בריטני במתקפה: \"גרמו לי להרגיש כמו שפחה\""
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-c66fadf9881e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30736,6 +30748,18 @@
    "published_ms": 1790574960000,
    "section": "בריאות",
    "title": "הדיקור העלים את הגוש - רגע לפני הניתוח"
+  },
+  "https://www.mako.co.il/health-news/Article-1b185cd8e4b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793618249474,
+   "content_type": "article",
+   "first_seen_ms": 1793618249474,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793606940000,
+   "section": "בריאות",
+   "title": "נחתך בזמן ניקוי בשר - ונדבק בנגיף נדיר"
   },
   "https://www.mako.co.il/health-news/Article-1e25351a42011a1027.htm": {
    "check_attempts": 1,
