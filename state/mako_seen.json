@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793615849281,
+ "last_run_ms": 1793616149531,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13459,6 +13459,18 @@
    "section": "ספורט",
    "title": "חוזה לשנתיים: פרטים חדשים על דסה וב\"ש"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-bfff5dab3db91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793616149531,
+   "content_type": "article",
+   "first_seen_ms": 1793616149531,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793615760000,
+   "section": "ספורט",
+   "title": "כל הגדולות אחריו: תג המחיר הצפוי של חזן"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c1575470c6551a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -20523,7 +20535,7 @@
    "indexnow_ms": null,
    "published_ms": 1793605680000,
    "section": "תרבות tvbee",
-   "title": "דסטין הופמן על צילומי \"הבוגר\": \"חוויה נוראית\""
+   "title": "\"הם מנסים להוריד לי את היהודי מהפנים. זה לא יקרה\""
   },
   "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-455869b1933d0a1026.htm": {
    "check_attempts": 1,
@@ -22288,6 +22300,18 @@
    "published_ms": 1793124960000,
    "section": "סלבס",
    "title": "\"אפשר לפטר אותה\": ההודעה שהסעירה את מירן בוזגלו"
+  },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-8a3c3e1debb91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793616149531,
+   "content_type": "article",
+   "first_seen_ms": 1793616149531,
+   "indexable": true,
+   "indexnow_ms": 1793616149531,
+   "published_ms": 1793615820000,
+   "section": "סלבס",
+   "title": "התיעוד המסקרן של אשתו של עומר אדם"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-8ae7ba529eb81a1027.htm": {
    "check_attempts": 1,
@@ -58934,6 +58958,18 @@
    "published_ms": 1792912260000,
    "section": "חופש",
    "title": "מספר הישראלים שנחתו במדינה הזו הכפיל את עצמו"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-8f0faa7dabb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793616026941,
+   "content_type": "article",
+   "first_seen_ms": 1793616026941,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793614380000,
+   "section": "חופש",
+   "title": "אחרי חודש וחצי: שוחרר הישראלי שנעצר בנמל התעופה בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-8f47cda1143d0a1026.htm": {
    "check_attempts": 1,
