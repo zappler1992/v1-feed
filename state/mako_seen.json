@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793618249474,
+ "last_run_ms": 1793618549471,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27041,6 +27041,18 @@
    "section": "",
    "title": "בנק ישראל דוחה את תוכנית הקריפטו"
   },
+  "https://www.mako.co.il/finances-news/Article-cbda295b6fb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793618549471,
+   "content_type": "article",
+   "first_seen_ms": 1793618549471,
+   "indexable": true,
+   "indexnow_ms": 1793618549471,
+   "published_ms": 1793617860000,
+   "section": "כסף",
+   "title": "נסעה 200 ק\"מ לחדש ת\"ז ונשלחה בחזרה הביתה"
+  },
   "https://www.mako.co.il/finances-news/Article-d00ca23504b81a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -39268,6 +39280,18 @@
    "published_ms": 1792922940000,
    "section": "פלילים",
    "title": "בשניות בודדות: חטף נשק ממאבטח בבית הספר"
+  },
+  "https://www.mako.co.il/men-men_news/Article-0b1d295b6fb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793618549471,
+   "content_type": "article",
+   "first_seen_ms": 1793618549471,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793618340000,
+   "section": "פלילים",
+   "title": "אחרי שבועות של איסור: ההקלה שקיבלה אגם צרפי"
   },
   "https://www.mako.co.il/men-men_news/Article-0b56e288263d0a1027.htm": {
    "check_attempts": 1,
@@ -64513,7 +64537,7 @@
    "indexnow_ms": 1791263427164,
    "published_ms": 1790508600000,
    "section": "תרבות tvbee",
-   "title": "בן אפלק חוזר לנטפליקס - ומלכלך את הידיים"
+   "title": "כל ילדי המילניום יתרגשו מהסרט הרומנטי הזה"
   },
   "https://www.mako.co.il/tvbee/Article-8b67948044461a1027.htm": {
    "check_attempts": 1,
