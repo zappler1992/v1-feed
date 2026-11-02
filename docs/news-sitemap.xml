@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-02T16:57:24+00:00</news:publication_date>
+<news:title>סריקות במערב ראשון לציון בעקבות הדיווחים על ריח חריף</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/M_NEWS_18623_02112026045548_1400_1793638637694_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6ce33d9160d91a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -52,7 +61,7 @@
 <news:publication_date>2026-11-02T15:36:55+00:00</news:publication_date>
 <news:title>ריח הגז החריף בראשון לציון: לרשויות אין תשובות</news:title>
 </news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/02/Kim_Gas_02112026_1400_1793633809485_FirstFrame.jpg</image:loc></image:image>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/RishonLeZion_FIX_1400_1793638540685_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-67813468ddc91a1026.htm</loc>
@@ -125,6 +134,15 @@
 <news:title>בתערוכה לזכר 7 באוקטובר: הזמר בוי ג’ורג’ ביקר במוזיאון הסובלנות ירושלים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/02/M_Music_18617_02112026023546_1400_1793630566916_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-02T14:08:48+00:00</news:publication_date>
+<news:title>האם אנחנו בדרך למתקפה גרעינית על איראן?</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/SHIR_IRAN_021126_1400_1793628521747_FirstFrame.jpg</image:loc></image:image>
 </url>
 <url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90d0b89898c91a1026.htm</loc>
@@ -2195,14 +2213,5 @@
 <news:title>ליברמן: &quot;אנשי הזדון לא נחים קיבלתי כמה פניות אבל אין לי שום כוונה להיות יו&quot;ר הכנסת&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/31/V1_LIBERMAN_8017_31102026050752_1400_1793466549156_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/world_newsflash-2026/m10_w05/shorts-82aea1c4ed291a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-31T17:02:07+00:00</news:publication_date>
-<news:title>ככה העולם לא ראה עוד את האפיפיור: משחק כדורסל ברומא</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/31/V1_APIFYOR_8016_31102026050030_1400_1793466121025_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

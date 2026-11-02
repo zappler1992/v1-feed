@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/02/M_NEWS_18623_02112026045548_1400_1793638637694_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>סריקות במערב ראשון לציון בעקבות הדיווחים על ריח חריף</video:title>
+<video:description>סריקות במערב ראשון לציון בעקבות הדיווחים על ריח חריף</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18623_02112026045548/M_NEWS_18623_02112026045548_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-11-02T16:57:24+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6ce33d9160d91a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/02/V1_Rhodes_8078_02112026042913_1400_1793637083678_FirstFrame.jpg</video:thumbnail_loc>
@@ -83,11 +99,11 @@
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-dc8943067ec91a1027.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/11/02/Kim_Gas_02112026_1400_1793633809485_FirstFrame.jpg</video:thumbnail_loc>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/02/RishonLeZion_FIX_1400_1793638540685_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>ריח הגז החריף בראשון לציון: לרשויות אין תשובות</video:title>
 <video:description>ריח גז חריף מורגש ברחבי מערב ראשון לציון מתחילת השבוע - התושבים מדווחים על צריבה, קשיי נשימה והקאות בקרב ילדים. שתי נשים הגיעו לבית החולים עם קוצר נשימה, אך הרשויות מדווחות כי מקור הריח עדיין לא אותר.</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/Kim_Gas_02112026/MASTER/Kim_Gas_02112026/Kim_Gas_02112026_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
-<video:duration>41</video:duration>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/RishonLeZion_FIX/RishonLeZion_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>83</video:duration>
 <video:publication_date>2026-11-02T15:36:55+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
 <video:requires_subscription>no</video:requires_subscription>
@@ -225,6 +241,23 @@
 <video:live>no</video:live>
 <video:uploader>עדכוני בידור</video:uploader>
 <video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/02/SHIR_IRAN_021126_1400_1793628521747_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>האם אנחנו בדרך למתקפה גרעינית על איראן?</video:title>
+<video:description>האם טראמפ שוקל להשתמש בנשק גרעיני טקטי נגד איראן? הפרשן האמריקני טאקר קרלסון טוען שנתניהו מפעיל לחץ כבד על הנשיא האמריקני לצאת למתקפה נוספת, הפעם נגד אתר גרעין תת-קרקעי שקשה לחדור אליו באמצעים קונבנציונליים. במקביל, טראמפ משגר מסר מאיים על איראן ומצהיר ש&quot;בשלב מסוים נצטרך לתת להם את הפטיש&quot;.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_IRAN_021126/MASTER/SHIR_IRAN_021126/SHIR_IRAN_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>56</video:duration>
+<video:publication_date>2026-11-02T14:08:48+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>

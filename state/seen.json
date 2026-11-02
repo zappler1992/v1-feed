@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6ce33d9160d91a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -51012,9 +51013,9 @@
    "author": "חדשות",
    "date_source": "json-publishDate",
    "description": "ריח גז חריף מורגש ברחבי מערב ראשון לציון מתחילת השבוע - התושבים מדווחים על צריבה, קשיי נשימה והקאות בקרב ילדים. שתי נשים הגיעו לבית החולים עם קוצר נשימה, אך הרשויות מדווחות כי מקור הריח עדיין לא אותר.",
-   "duration_s": 41,
+   "duration_s": 83,
    "first_seen_ms": 1793634746296,
-   "image": "https://img.mako.co.il/2026/11/02/Kim_Gas_02112026_1400_1793633809485_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/02/RishonLeZion_FIX_1400_1793638540685_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793633815000,
    "sections": [
@@ -51024,7 +51025,7 @@
    "type": "news",
    "updated_ms": 1793635020000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-dc8943067ec91a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/Kim_Gas_02112026/MASTER/Kim_Gas_02112026/Kim_Gas_02112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/RishonLeZion_FIX/RishonLeZion_FIX_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm": {
    "author": "חדשות",
@@ -51171,6 +51172,24 @@
    "updated_ms": 1793631431000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f8f442373bc91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/yoav_liberman_021126/MASTER/yoav_liberman_021126/yoav_liberman_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "האם טראמפ שוקל להשתמש בנשק גרעיני טקטי נגד איראן? הפרשן האמריקני טאקר קרלסון טוען שנתניהו מפעיל לחץ כבד על הנשיא האמריקני לצאת למתקפה נוספת, הפעם נגד אתר גרעין תת-קרקעי שקשה לחדור אליו באמצעים קונבנציונליים. במקביל, טראמפ משגר מסר מאיים על איראן ומצהיר ש\"בשלב מסוים נצטרך לתת להם את הפטיש\".",
+   "duration_s": 56,
+   "first_seen_ms": 1793638946387,
+   "image": "https://img.mako.co.il/2026/11/02/SHIR_IRAN_021126_1400_1793628521747_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793628528000,
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
+   "title": "האם אנחנו בדרך למתקפה גרעינית על איראן?",
+   "type": "news",
+   "updated_ms": 1793628528000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fa41b89898c91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_IRAN_021126/MASTER/SHIR_IRAN_021126/SHIR_IRAN_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-fb5306a219791a1027.htm": {
    "author": "חדשות",
@@ -100784,6 +100803,24 @@
    "updated_ms": 1793610893000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b33a241198b91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18604_02112026091334/M_NEWS_18604_02112026091334_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סריקות במערב ראשון לציון בעקבות הדיווחים על ריח חריף",
+   "duration_s": 9,
+   "first_seen_ms": 1793638946387,
+   "image": "https://img.mako.co.il/2026/11/02/M_NEWS_18623_02112026045548_1400_1793638637694_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793638644000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סריקות במערב ראשון לציון בעקבות הדיווחים על ריח חריף",
+   "type": "mivzakim",
+   "updated_ms": 1793638644000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944407742d91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18623_02112026045548/M_NEWS_18623_02112026045548_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b944ee05eca91a1026.htm": {
    "author": "מבזקים",
