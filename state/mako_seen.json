@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793620050563,
+ "last_run_ms": 1793620350502,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25816,6 +25816,30 @@
    "published_ms": 1792913700000,
    "section": "משפט",
    "title": "גבר שעבר החלפת ברך ניצח את ביטוח לאומי"
+  },
+  "https://www.mako.co.il/finances-law/law-general/Article-a4debc8c11c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793620350502,
+   "content_type": "article",
+   "first_seen_ms": 1793620350502,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793620020000,
+   "section": "משפט",
+   "title": "גרוש בלי גרוש: איך נערכים כלכלית לגירושים?"
+  },
+  "https://www.mako.co.il/finances-law/law-general/Article-b043286fcdb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793620350502,
+   "content_type": "article",
+   "first_seen_ms": 1793620350502,
+   "indexable": true,
+   "indexnow_ms": 1793620350502,
+   "published_ms": 1793616660000,
+   "section": "משפט",
+   "title": "האב העביר את הבית לבנותיו – הבן יוכל לתבוע כבר בחייו"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-bdc253b16c7c0a1026.htm": {
    "check_attempts": 1,
