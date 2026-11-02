@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793637749287,
+ "last_run_ms": 1793638049233,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -56834,6 +56834,18 @@
    "published_ms": 1793126340000,
    "section": "",
    "title": "במקרה של מבוי סתום: התוכנית של הנשיא - כך יוטל המנדט"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-f143e1e4f9c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-f143e1e4f9c91a1026.htm",
+   "checked_ms": 1793637987077,
+   "content_type": "article",
+   "first_seen_ms": 1793637987077,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793637780000,
+   "section": "",
+   "title": "הצעד שימנע מלחמה? התפתחות משמעותית במגעים עם איראן"
   },
   "https://www.mako.co.il/special-mako-news/Article-f20924b38b881a1027.htm": {
    "check_attempts": 1,
