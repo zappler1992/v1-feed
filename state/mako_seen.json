@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793622749682,
+ "last_run_ms": 1793623049577,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1567,7 +1567,7 @@
    "indexnow_ms": null,
    "published_ms": null,
    "section": "אופנה",
-   "title": "מלי לוי רותחת בביקיני שווה במיוחד"
+   "title": "לא משחררת מהקיץ: מלי לוי רותחת בביקיני שווה במיוחד"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -32956,6 +32956,18 @@
    "published_ms": 1790250960000,
    "section": "הכי חם",
    "title": "\"גירושים. מיד\": התיעוד מהיציע שחרפן את כולם"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-c37878f2f3c91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793623049577,
+   "content_type": "article",
+   "first_seen_ms": 1793623049577,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793622900000,
+   "section": "HIX",
+   "title": "יצאו לשיט של שעה – ונמצאו אחרי שלושה חודשים"
   },
   "https://www.mako.co.il/hix-bizarre/Article-c997c5ba9cce0a1026.htm": {
    "check_attempts": 1,
