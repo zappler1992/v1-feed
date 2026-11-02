@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793614949573,
+ "last_run_ms": 1793615248996,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20523,7 +20523,7 @@
    "indexnow_ms": null,
    "published_ms": 1793605680000,
    "section": "תרבות tvbee",
-   "title": "הכוכב ההוליוודי חושף: \"נקרע לי עור התוף\""
+   "title": "דסטין הופמן על צילומי \"הבוגר\": \"חוויה נוראית\""
   },
   "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-455869b1933d0a1026.htm": {
    "check_attempts": 1,
@@ -52564,6 +52564,18 @@
    "published_ms": 1791795540000,
    "section": "צבא וביטחון",
    "title": "כל הפרטים: כך יתנהלו הבחירות בצה\"ל"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-81aeaa7dabb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793615186875,
+   "content_type": "article",
+   "first_seen_ms": 1793615186875,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793614560000,
+   "section": "צבא וביטחון",
+   "title": "במבצע מיוחד: הושמדו מערכות מתקדמות לחות'ים"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-85508d853d181a1026.htm": {
    "check_attempts": 1,
