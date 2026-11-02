@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-55ccbc8c11c91a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-07034db5fab91a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9f7e76dd13c91a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-053eed3892c91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21881,6 +21881,24 @@
    "updated_ms": 1793555173000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-01c143bac2891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18556_01112026053257/M_Celebs_18556_01112026053257_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-053eed3892c91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ליאם מוציא שיר חדש ושוב מגייס את אבא",
+   "duration_s": 36,
+   "first_seen_ms": 1793622446295,
+   "image": "https://img.mako.co.il/2026/11/02/M_Music_18613_02112026121022_1400_1793621503437_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793621510000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ליאם מוציא שיר חדש ושוב מגייס את אבא",
+   "type": "mivzakim",
+   "updated_ms": 1793621510000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-053eed3892c91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18613_02112026121022/M_Music_18613_02112026121022_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-0927aa7dabb91a1026.htm": {
    "author": "עדכוני בידור",
@@ -128070,6 +128088,24 @@
    "updated_ms": 1793518551000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9eff9a66cf591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_GAG_8034_01112026073415/V1_KARIND_GAG_8034_01112026073415_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9f7e76dd13c91a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מסתכל באימה על הרחפן האוקראיני - ומפוצץ על עצמו מטען חבלה: תיעוד משדה הקרב ברוסיה",
+   "duration_s": 73,
+   "first_seen_ms": 1793622446295,
+   "image": "https://img.mako.co.il/2026/11/02/V1_Rusi_8068_02112026122122_1400_1793622191099_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793622197000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "מסתכל באימה על הרחפן האוקראיני - ומפוצץ על עצמו מטען חבלה: תיעוד משדה הקרב ברוסיה",
+   "type": "mivzakim",
+   "updated_ms": 1793622197000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9f7e76dd13c91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_Rusi_8068_02112026122122/V1_Rusi_8068_02112026122122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-de4ecb4074691a1027.htm": {
    "author": "מבזקים מהעולם",
