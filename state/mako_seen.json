@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793613450007,
+ "last_run_ms": 1793613750771,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16879,6 +16879,18 @@
    "section": "ספורט",
    "title": "נחשף הפער בין קיין לאמבפה בכדור הזהב"
   },
+  "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-bbcd4db5fab91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793613750771,
+   "content_type": "article",
+   "first_seen_ms": 1793613750771,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793613360000,
+   "section": "ספורט",
+   "title": "\"כולם הופתעו\": הצבעות מסי נחשפו והדהימו"
+  },
   "https://www.mako.co.il/Sports-football-world/leagues-q4_2026/Article-bd6225c877311a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -33664,6 +33676,18 @@
    "published_ms": 1793332800000,
    "section": "HIX",
    "title": "\"פחדתי וביקשתי מאלוהים שיגיד לי מה לעשות\""
+  },
+  "https://www.mako.co.il/hix-special/Article-159b1073aab91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793613627161,
+   "content_type": "article",
+   "first_seen_ms": 1793613627161,
+   "indexable": true,
+   "indexnow_ms": 1793613627161,
+   "published_ms": 1793613420000,
+   "section": "HIX",
+   "title": "עלתה על טרמפ עם גבר זר, נחטפה והותקפה בסכין"
   },
   "https://www.mako.co.il/hix-special/Article-16d5836a8b531a1026.htm": {
    "check_attempts": 1,

@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0506605da9b91a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7189605da9b91a1026.htm"
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-226a5705d6881a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-d0320f40e9b91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1407,6 +1407,25 @@
    "updated_ms": 1793526120000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-230cb44f96691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/ACADEMY_OF_LIES_EP25/MASTER/ACADEMY_OF_LIES_EP25/ACADEMY_OF_LIES_EP25_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-d0320f40e9b91a1027.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 26: מיה כבר לא נבהלת מהאיומים של אשלי ונותנת לה עד הגאלה לספר לכולם את האמת. בן שומע את העימות מהצד ומגלה שוויתר על החברה הכי טובה שלו בשביל מתחזה. כשהוא ניגש למיה לברר מה עוד הסתירה ממנו אשלי, מיה מחליטה להפסיק להסתיר בעצמה - ומגלה לו שהיא בתה האמיתית של אוליביה קמפבל.",
+   "duration_s": 92,
+   "first_seen_ms": 1793613746680,
+   "image": "https://img.mako.co.il/2026/11/02/ACADEMY_OF_LIES_EP26_1400_1793612848113_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793613300000,
+   "sections": [
+    "הפרק היומי",
+    "בקצב השקר"
+   ],
+   "title": "בקצב השקר פרק 26: סוף סוף מגלה מי היא",
+   "type": "series",
+   "updated_ms": 1793613300000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-d0320f40e9b91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/ACADEMY_OF_LIES_EP26/MASTER/ACADEMY_OF_LIES_EP26/ACADEMY_OF_LIES_EP26_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2025-m11_w03/shorts-c6bd2b8c3797a91026.htm": {
    "author": "סלבס",
@@ -36461,6 +36480,25 @@
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w04/shorts-dd57a0dcc1951a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/20/LOVE_CORNER_EP35/MASTER/LOVE_CORNER_EP35_M/LOVE_CORNER_EP35_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-226a5705d6881a1026.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 45: ליאור אומר לאלונה שהוא בטוח ברגשות שלו, אבל רגע רומנטי נגמר בקפה שנשפך עליה - ובחולצה חלופית מהארון של עדן. בינתיים, עדן שואלת את עודד אם יש לליאור מישהי, והוא מכחיש. כשעדן נזכרת שהיומן שלה נשאר בבית, היא חוזרת לקחת אותו בדיוק כשאלונה עדיין שם.",
+   "duration_s": 163,
+   "first_seen_ms": 1793613746680,
+   "image": "https://img.mako.co.il/2026/10/29/LOVE_CORNER_EP45_M_1400_1793290414522_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793613240000,
+   "sections": [
+    "הפרק היומי",
+    "אהבה מעבר לפינה"
+   ],
+   "title": "אהבה מעבר לפינה פרק 45: בוגד והחברה בדלת",
+   "type": "series",
+   "updated_ms": 1793613240000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-226a5705d6881a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/29/LOVE_CORNER_EP45/MASTER/LOVE_CORNER_EP45_M/LOVE_CORNER_EP45_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m10_w05/shorts-75b19110a2881a1026.htm": {
    "author": "אהבה מעבר לפינה",
    "date_source": "json-publishDate",
@@ -50357,7 +50395,9 @@
    "image": "https://img.mako.co.il/2026/11/02/SHIR_TRUMP_021126_FIX1_1400_1793602540632_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793599130000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "טראמפ בעצרת: \"נצטרך להנחית עליהם את הפטיש\"",
    "type": "news",
    "updated_ms": 1793602500000,
@@ -101194,10 +101234,13 @@
    "image": "https://img.mako.co.il/2026/11/01/POLISHUK_EP26_1400_1793539779354_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793539785000,
-   "sections": [],
+   "sections": [
+    "הפרק היומי",
+    "פולישוק"
+   ],
    "title": "פולישוק פרק 26: הירושה המלוכלכת של השר",
    "type": "series",
-   "updated_ms": 1793539785000,
+   "updated_ms": 1793613240000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-99a605a3f3791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/POLISHUK_EP26/MASTER/POLISHUK_EP26/POLISHUK_EP26_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
