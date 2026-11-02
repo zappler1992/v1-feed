@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793651549577,
+ "last_run_ms": 1793651849505,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14539,6 +14539,18 @@
    "section": "ספורט",
    "title": "לא כזה פשוט: מי השוער הכי טוב בליגה?"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-eb892eb62fd91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793651786642,
+   "content_type": "article",
+   "first_seen_ms": 1793651786642,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793651280000,
+   "section": "ספורט",
+   "title": "עד סוף הסיבוב: המשחקים שנותרו לגדולות"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-ec15289400251a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -26187,7 +26199,7 @@
    "indexnow_ms": 1793620350502,
    "published_ms": 1793616660000,
    "section": "משפט",
-   "title": "האב העביר את הבית רק לבנותיו - וזה מה שהבן החליט לעשות"
+   "title": "האב העביר את הבית לבנותיו – הבן יוכל לתבוע כבר בחייו"
   },
   "https://www.mako.co.il/finances-law/law-general/Article-bdc253b16c7c0a1026.htm": {
    "check_attempts": 1,
@@ -37983,7 +37995,7 @@
    "indexnow_ms": null,
    "published_ms": 1793608560000,
    "section": "עיצוב הבית",
-   "title": "כמה עולה לשפץ מטבח בישראל ב-2026?"
+   "title": "גילינו כמה עולה לשפץ מטבח בישראל ב-2026"
   },
   "https://www.mako.co.il/living-rooms/living-room/Article-2f611eda56ec0a1027.htm": {
    "check_attempts": 1,
