@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-546f1352f5c91a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-02T13:11:42+00:00</news:publication_date>
+<news:title>ניר דבורי מבהיר: הדי הפיצוצים שנשמעים במרכז - כתוצאה מאימונים שגרתיים של חיל האוויר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_dvori_8070_02112026011035_1400_1793625095873_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2231,23 +2240,5 @@
 <news:title>אישה כבת 30 נכוותה ממכל גז שהתפוצץ באזור השומרון, מצבה קשה</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/10/31/M_NEWS_18479_31102026011747_1400_1793452731656_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-21d8b30a81291a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-31T13:16:50+00:00</news:publication_date>
-<news:title>יונית לוי חושפת: כך נתנו לה לעקוף בתור לקלפי</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/31/SHIR_YONIT_311026_1400_1793452603732_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m10_w05/shorts-15d45b3a7d191a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-10-31T13:13:00+00:00</news:publication_date>
-<news:title>זעקת אלמנת קצין השב&quot;כ: &quot;ציוד הילדים נגנב, זה הקשר וההנצחה של אבא&quot;</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/10/31/Inbalfixthoagr_1400_1793452429317_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
