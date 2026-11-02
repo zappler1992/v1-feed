@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793620949962,
+ "last_run_ms": 1793621249249,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19348,6 +19348,18 @@
    "published_ms": 1792846620000,
    "section": "ספורט",
    "title": "המענק שקיבל דולגופיאט על הזכיה בארד"
+  },
+  "https://www.mako.co.il/Sports-others/q4_2026/Article-a4d49382c1c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793621187274,
+   "content_type": "article",
+   "first_seen_ms": 1793621187274,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793621040000,
+   "section": "ספורט",
+   "title": "צפו בשידור הישיר: סמברג מודיעה על פרישה"
   },
   "https://www.mako.co.il/Sports-others/q4_2026/Article-c803c7f0ea421a1026.htm": {
    "check_attempts": 1,
@@ -56738,6 +56750,18 @@
    "published_ms": 1790148480000,
    "section": "חדשות",
    "title": "הרשימה המשותפת ורע\"ם נפסלו בוועדת הבחירות המרכזית"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-b8937142c0c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/liveblog-b8937142c0c91a1027.htm",
+   "checked_ms": 1793621187274,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793621187274,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793620980000,
+   "section": "",
+   "title": "\"יתהפך העולם, אני לא אשב עם נתניהו\""
   },
   "https://www.mako.co.il/special-mako-news/liveblog-be85d8f1b3e61a1026.htm": {
    "check_attempts": 1,
