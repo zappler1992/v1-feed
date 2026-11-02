@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793645849493,
+ "last_run_ms": 1793646149544,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11887,6 +11887,18 @@
    "section": "ספורט",
    "title": "עם ברוניניו מעל כולם: מספרי התקפת חיפה"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-581c2b10a9d91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793646149544,
+   "content_type": "article",
+   "first_seen_ms": 1793646149544,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793645940000,
+   "section": "ספורט",
+   "title": "לפי שופט AI: אווסו היה צריך לקבל אדום?"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5993e1b6b6a21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -12221,7 +12233,7 @@
    "indexnow_ms": null,
    "published_ms": 1793645160000,
    "section": "ספורט",
-   "title": "\"עצמי עלוב. בדרך לערב חסר רחמים\""
+   "title": "\"געגועים לפלורס\": האכזבה של אוהדי חיפה"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-6679f67b91851a1026.htm": {
    "check_attempts": 1,
