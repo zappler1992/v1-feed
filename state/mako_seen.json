@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793616449106,
+ "last_run_ms": 1793616749364,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37481,6 +37481,18 @@
    "section": "עיצוב הבית",
    "title": "הם רק רצו מטבח יפה - עכשיו הם מנהלים אימפריה"
   },
+  "https://www.mako.co.il/living-rooms/kitchen/Article-fe259cece5b91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793616627142,
+   "content_type": "article",
+   "first_seen_ms": 1793616627142,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793608560000,
+   "section": "עיצוב הבית",
+   "title": "כמה עולה לשפץ מטבח בישראל ב-2026?"
+  },
   "https://www.mako.co.il/living-rooms/living-room/Article-2f611eda56ec0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -43875,7 +43887,7 @@
    "indexnow_ms": 1793613149510,
    "published_ms": 1793612460000,
    "section": "פלילים",
-   "title": "\"הבאתי בחשבון שינסו להוריד, אבל לא האמנתי שזה יקרה\""
+   "title": "טען שתלה שלט של בנט - וביתו הוצת: \"ניסו להעביר מסר\""
   },
   "https://www.mako.co.il/men-men_news/Article-d5f869ebe6e61a1027.htm": {
    "check_attempts": 1,
