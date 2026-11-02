@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793602348935,
+ "last_run_ms": 1793602648930,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -56666,6 +56666,18 @@
    "published_ms": 1790741040000,
    "section": "חופש",
    "title": "בוטיק אמיתי: ככה נראה מלון עם 8 חדרים בת\"א"
+  },
+  "https://www.mako.co.il/travel-israel/leisure/Article-96b58a9732791a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793602648930,
+   "content_type": "article",
+   "first_seen_ms": 1793602648930,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793537580000,
+   "section": "חופש",
+   "title": "בריכה ביום ומדורה בערב: זה המקום הכי שקט שיש"
   },
   "https://www.mako.co.il/travel-israel/leisure/Article-9945c7949adb0a1027.htm": {
    "check_attempts": 1,
