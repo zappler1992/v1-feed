@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793605349146,
+ "last_run_ms": 1793605649008,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37097,6 +37097,18 @@
    "section": "עיצוב הבית",
    "title": "לא רק המטבח מנצח - הצצה לבית של סתיו נפתלי"
   },
+  "https://www.mako.co.il/living-rooms/Article-bda8214a86691a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793605649008,
+   "content_type": "article",
+   "first_seen_ms": 1793605649008,
+   "indexable": true,
+   "indexnow_ms": 1793605649008,
+   "published_ms": 1793605080000,
+   "section": "עיצוב הבית",
+   "title": "מה ששלה - שלה: הצצנו לבית של אופירה אסייג"
+  },
   "https://www.mako.co.il/living-rooms/Article-d2acace050351a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47883,7 +47895,7 @@
    "indexnow_ms": null,
    "published_ms": 1793599380000,
    "section": "",
-   "title": "לא צריך לזרוק חצי בית: שיטת הסידור שתעשה לכם מהפך"
+   "title": "כולם כבר על זה: שיטת הסידור שמתחילה בשאלה אחת"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-3bad053224781a1027.htm": {
    "check_attempts": 1,
@@ -53786,6 +53798,18 @@
    "published_ms": 1793556360000,
    "section": "חדשות",
    "title": "בנט הודיע: אמליץ לנשיא על איזנקוט להרכבת הממשלה"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-15ef91c28fa91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-15ef91c28fa91a1026.htm",
+   "checked_ms": 1793605649008,
+   "content_type": "article",
+   "first_seen_ms": 1793605649008,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793603880000,
+   "section": "",
+   "title": "פעיל ימין לאיזנקוט: \"בוגד, רצחת את הבן שלך\""
   },
   "https://www.mako.co.il/special-mako-news/Article-16f92cb5f5f81a1026.htm": {
    "check_attempts": 1,
