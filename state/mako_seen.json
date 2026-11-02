@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793613149510,
+ "last_run_ms": 1793613450007,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -394,6 +394,18 @@
    "published_ms": 1792573652000,
    "section": "Fashion Forward",
    "title": "שמלת הכלולות של שיר הדס מאיר הייתה מדהימה, אנחנו בקראש על השמלה השנייה"
+  },
+  "https://fashionforward.mako.co.il/more/weddings/322684/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793613387003,
+   "content_type": "post",
+   "first_seen_ms": 1793613387003,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "שמלת הכלה השנייה של ולארי חמאתי פשוט הורסת עליה"
   },
   "https://fashionforward.mako.co.il/more/weekend/321127/": {
    "check_attempts": 1,
@@ -55046,6 +55058,18 @@
    "published_ms": 1792953900000,
    "section": "חדשות",
    "title": "הפגישה של רה\"מ עם הבכיר בפרויקט הקטארי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-88610e7cfda91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-88610e7cfda91a1027.htm",
+   "checked_ms": 1793613387003,
+   "content_type": "article",
+   "first_seen_ms": 1793613387003,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793613120000,
+   "section": "",
+   "title": "\"בגידה איומה\": ישראל שוב במרכז הסערה בארה\"ב"
   },
   "https://www.mako.co.il/special-mako-news/Article-886f012186281a1027.htm": {
    "check_attempts": 1,
