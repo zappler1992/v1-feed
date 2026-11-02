@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793650349477,
+ "last_run_ms": 1793650649609,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11754,6 +11754,18 @@
    "published_ms": 1793039220000,
    "section": "ספורט",
    "title": "לפי שופט AI: אזולאי היה צריך לקבל אדום?"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4a1f5459edd91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793650649609,
+   "content_type": "article",
+   "first_seen_ms": 1793650649609,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793650380000,
+   "section": "ספורט",
+   "title": "מילר: \"בשביל אליפות צריך לדעת להתאושש\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4ae5c9b5aa971a1026.htm": {
    "check_attempts": 1,
