@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-3ac75e1177b91a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0506605da9b91a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7189605da9b91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7148,7 +7149,7 @@
    "description": "",
    "duration_s": 25,
    "first_seen_ms": 1793553746101,
-   "image": "https://img.mako.co.il/2026/11/01/gun1126m_1400_1793553094635_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/02/gunfix_1400_1793612626868_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793553101000,
    "sections": [
@@ -7156,9 +7157,9 @@
    ],
    "title": "חריג: הבמאי ההוליוודי המפורסם ירה לעצמו ברגל בטעות",
    "type": "general",
-   "updated_ms": 1793611380000,
+   "updated_ms": 1793612640000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-aef7e138fe791a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/gun1126/MASTER/gun1126m/gun1126m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/gunfix/gunfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
@@ -22184,6 +22185,24 @@
    "updated_ms": 1793610941000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-70c0554a28b91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18603_02112026091301/M_Celebs_18603_02112026091301_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7189605da9b91a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "כששומעים אותה לראשונה: סשה אדם מתארגנת להופעה של בעלה עומר בניו יורק",
+   "duration_s": 40,
+   "first_seen_ms": 1793613146292,
+   "image": "https://img.mako.co.il/2026/11/02/M_Celebs_18605_02112026093320_1400_1793612086924_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793612093000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "כששומעים אותה לראשונה: סשה אדם מתארגנת להופעה של בעלה עומר בניו יורק",
+   "type": "mivzakim",
+   "updated_ms": 1793612093000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7189605da9b91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18605_02112026093320/M_Celebs_18605_02112026093320_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-71a10e7cfda91a1027.htm": {
    "author": "עדכוני בידור",
@@ -99471,6 +99490,24 @@
    "updated_ms": 1793595346000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-01a0dde0d8a91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18579_02112026045429/M_NEWS_18579_02112026045429_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0506605da9b91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בעקבות ההתבטאות של איילה חסון על הנשים הבדואיות: ועדת האתיקה של התאגיד תתכנס לדיון",
+   "duration_s": 61,
+   "first_seen_ms": 1793613146292,
+   "image": "https://img.mako.co.il/2026/11/02/M_NEWS_18606_02112026094529_1400_1793612845848_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793612857000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בעקבות ההתבטאות של איילה חסון על הנשים הבדואיות: ועדת האתיקה של התאגיד תתכנס לדיון",
+   "type": "mivzakim",
+   "updated_ms": 1793612857000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0506605da9b91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18606_02112026094529/M_NEWS_18606_02112026094529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-05d20ef091891a1026.htm": {
    "author": "מבזקים",
