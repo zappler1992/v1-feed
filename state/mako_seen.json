@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793603250176,
+ "last_run_ms": 1793603548995,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27209,6 +27209,18 @@
    "section": "כסף",
    "title": "9 מקומות בישראל שעברו מהפך מתחילת העשור"
   },
+  "https://www.mako.co.il/finances-real-estate/Article-13c6d57edfa91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793603427327,
+   "content_type": "article",
+   "first_seen_ms": 1793603427327,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793602800000,
+   "section": "נדל\"ן",
+   "title": "אלפי חניות מחכות לנהגים, אז למה הן חצי ריקות"
+  },
   "https://www.mako.co.il/finances-real-estate/Article-1aa717d3fda21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51748,6 +51760,18 @@
    "published_ms": 1792920660000,
    "section": "צבא וביטחון",
    "title": "מדמה תקיפה גרעינית: התרגיל של מדינות אירופה"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-4289e1a0f0b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793603548995,
+   "content_type": "article",
+   "first_seen_ms": 1793603548995,
+   "indexable": true,
+   "indexnow_ms": 1793603548995,
+   "published_ms": 1793602860000,
+   "section": "",
+   "title": "סימן אותם: ה\"אשמים\" של טראמפ בהסתבכות באיראן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-477f5afb0fa01a1026.htm": {
    "check_attempts": 1,
