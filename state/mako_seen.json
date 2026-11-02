@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793605649008,
+ "last_run_ms": 1793605950110,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20441,6 +20441,18 @@
    "section": "",
    "title": "15 שנות מאסר נגזרו על המפיק הארווי ויינשטיין"
   },
+  "https://www.mako.co.il/culture-articles/Article-fc36e1a0f0b91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793605950110,
+   "content_type": "article",
+   "first_seen_ms": 1793605950110,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793605680000,
+   "section": "תרבות tvbee",
+   "title": "הכוכב ההוליוודי חושף: \"נקרע לי עור התוף\""
+  },
   "https://www.mako.co.il/culture-books-and-theatre/first-chapters-short-stories/Article-455869b1933d0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35320,6 +35332,18 @@
    "published_ms": 1790672400000,
    "section": "חדשות",
    "title": "דוח OECD: הכיתות צפופות, והמורים בורחים"
+  },
+  "https://www.mako.co.il/home-family-kids/Article-46acdcc3a2b91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793605950110,
+   "content_type": "article",
+   "first_seen_ms": 1793605950110,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793604600000,
+   "section": "הורים",
+   "title": "הפרעת הקשב עולה לנו יותר ממה שאנחנו חושבים"
   },
   "https://www.mako.co.il/home-family-kids/Article-47fe4b6af1b11a1026.htm": {
    "check_attempts": 1,
