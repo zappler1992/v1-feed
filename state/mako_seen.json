@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793632049235,
+ "last_run_ms": 1793632349226,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -6800,6 +6800,18 @@
    "published_ms": 1792003200000,
    "section": "ספורט",
    "title": "בדרך לעזיבה? דורסי הושעה מאולימפיאקוס"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-b2b400266bc91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793632349226,
+   "content_type": "article",
+   "first_seen_ms": 1793632349226,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793631540000,
+   "section": "ספורט",
+   "title": "עוד לא בן 18: פריצת ילד הפלא ביורוליג"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-b2eda3ee82e61a1027.htm": {
    "check_attempts": 1,
@@ -49695,7 +49707,7 @@
    "indexnow_ms": 1793630426781,
    "published_ms": 1793630100000,
    "section": "דיגיטל",
-   "title": "חשש להרעלת מזון: מתקפת הסייבר ששיתקה את אירופה"
+   "title": "פרצו למקרר בסופר: מתקפת הסייבר ששיתקה את אירופה"
   },
   "https://www.mako.co.il/nexter-news/Article-58fdb6e546f31a1026.htm": {
    "check_attempts": 1,
