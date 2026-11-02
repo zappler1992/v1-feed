@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde96b30e3b91a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3bb68eac73b91a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1b658eac73b91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -21842,6 +21843,24 @@
    "updated_ms": 1793543036000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1136420207791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_MakoZ_18548_01112026022212/M_MakoZ_18548_01112026022212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1b658eac73b91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"רק אלוהים יודע כמה אני מתגעגע אלייך\": נתנאל רודינצקי במסר לאקסית יאנה ארונוב?",
+   "duration_s": 12,
+   "first_seen_ms": 1793606546095,
+   "image": "https://img.mako.co.il/2026/11/02/M_Celebs_18591_02112026075354_1400_1793606115281_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793606121000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"רק אלוהים יודע כמה אני מתגעגע אלייך\": נתנאל רודינצקי במסר לאקסית יאנה ארונוב?",
+   "type": "mivzakim",
+   "updated_ms": 1793606121000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1b658eac73b91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18591_02112026075354/M_Celebs_18591_02112026075354_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-1d8bc4d41c591a1027.htm": {
    "author": "עדכוני בידור",
@@ -99527,6 +99546,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3b81214a86691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18530_01112026093007/M_NEWS_18530_01112026093007_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3bb68eac73b91a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "במהירות של 239 קמ״ש ומרדף עם מסוק משטרתי: ניסיון ההימלטות של רוכב האופנוע | תיעוד",
+   "duration_s": 70,
+   "first_seen_ms": 1793606546095,
+   "image": "https://img.mako.co.il/2026/11/02/M_NEWS_18592_02112026075450_1400_1793606193037_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793606199000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "במהירות של 239 קמ״ש ומרדף עם מסוק משטרתי: ניסיון ההימלטות של רוכב האופנוע | תיעוד",
+   "type": "mivzakim",
+   "updated_ms": 1793606199000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3bb68eac73b91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18592_02112026075450/M_NEWS_18592_02112026075450_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-406f1dcad2591a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -99826,7 +99863,8 @@
    "importance": 2,
    "published_ms": 1793604230000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "צעירה יהודייה הותקפה בקמפוס אוניברסיטה בארה\"ב",
    "type": "mivzakim",
