@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-fc8afd2f1af91a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cafbfd2f1af91a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51b4c6fbaf91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23002,6 +23003,24 @@
    "updated_ms": 1793641863000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e21077e935d91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18626_02112026054953/M_Tarbut_18626_02112026054953_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51b4c6fbaf91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שתי גלן קלוז הגיעו לפרימיירת העונה השנייה של \"All's Fair\"",
+   "duration_s": 13,
+   "first_seen_ms": 1793680946016,
+   "image": "https://img.mako.co.il/2026/11/03/M_Tarbut_18640_03112026043707_1400_1793680693731_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793680700000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שתי גלן קלוז הגיעו לפרימיירת העונה השנייה של \"All's Fair\"",
+   "type": "mivzakim",
+   "updated_ms": 1793680700000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51b4c6fbaf91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18640_03112026043707/M_Tarbut_18640_03112026043707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm": {
    "author": "עדכוני בידור",
@@ -101478,6 +101497,24 @@
    "updated_ms": 1793531655000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cacad3efdc691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18538_01112026111216/M_NEWS_18538_01112026111216_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cafbfd2f1af91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מזג אוויר סתווי - והגשם בדרך: התחזית המלאה",
+   "duration_s": 56,
+   "first_seen_ms": 1793680946016,
+   "image": "https://img.mako.co.il/2026/11/03/V1_forecast_8090_03112026043736_1400_1793680762394_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793680769000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מזג אוויר סתווי - והגשם בדרך: התחזית המלאה",
+   "type": "mivzakim",
+   "updated_ms": 1793680769000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cafbfd2f1af91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_forecast_8090_03112026043736/V1_forecast_8090_03112026043736_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cf4a95c187c91a1027.htm": {
    "author": "מבזקים",
