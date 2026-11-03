@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793713648934,
+ "last_run_ms": 1793713948984,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19216,6 +19216,18 @@
    "published_ms": 1791095880000,
    "section": "ספורט",
    "title": "\"הפסד גדול\": בקטלוניה הגיבו לחיסרון גורן"
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-54890f00ba1a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793713948984,
+   "content_type": "article",
+   "first_seen_ms": 1793713948984,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793713680000,
+   "section": "ספורט",
+   "title": "כלא זו אופציה: העונש לשוער שגרם למוות"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-58639ac82b0a1a1027.htm": {
    "check_attempts": 1,
