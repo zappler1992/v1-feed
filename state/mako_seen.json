@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793722049495,
+ "last_run_ms": 1793722351033,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -14442,6 +14442,18 @@
    "published_ms": 1792670460000,
    "section": "ספורט",
    "title": "שבר בארובת העין לבואטנג. זה זמן ההיעדרות"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-decc42f6622a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793722351033,
+   "content_type": "article",
+   "first_seen_ms": 1793722351033,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793722080000,
+   "section": "ספורט",
+   "title": "פיפ\"א הטילה על הפועל חיפה איסור העברות"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-df5fde3fb3331a1026.htm": {
    "check_attempts": 1,
@@ -42303,7 +42315,7 @@
    "indexnow_ms": 1793721266992,
    "published_ms": 1793721060000,
    "section": "",
-   "title": "כך נחשפו הזוועות בגן הילדים: \"הסייעות ערבבו אותנו\""
+   "title": "אורן חזן חשף פרטים נוספים על הזוועות בגן של ילדיו"
   },
   "https://www.mako.co.il/men-men_news/Article-50d65b344c8c0a1026.htm": {
    "check_attempts": 1,
