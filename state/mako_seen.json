@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793693549251,
+ "last_run_ms": 1793693849327,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -26489,6 +26489,18 @@
    "section": "משפט",
    "title": "פ\"ת: נדחתה בקשת דיירים להקמת ממ\"ד בשטח משותף"
   },
+  "https://www.mako.co.il/finances-law/traffic/Article-71e3c845360a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793693667187,
+   "content_type": "article",
+   "first_seen_ms": 1793693667187,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793692560000,
+   "section": "משפט",
+   "title": "זיכוי לנהגת שהתנגשה ברוכב אופנוע"
+  },
   "https://www.mako.co.il/finances-law/traffic/Article-aa05d7a750b01a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28900,6 +28912,18 @@
    "published_ms": 1771247700000,
    "section": "משפט",
    "title": "\"יש קייס לתביעה\"?: הבוט שמנבא פסקי דין"
+  },
+  "https://www.mako.co.il/finances-special/lawyer_podcast/Article-9124f871b60a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793693667187,
+   "content_type": "article",
+   "first_seen_ms": 1793693667187,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793693460000,
+   "section": "משפט",
+   "title": "נפגעתם בתאונה בדרך לעבודה? כך תקבלו פיצוי"
   },
   "https://www.mako.co.il/food-chefs/ben_shai/Article-04d272feca261a1026.htm": {
    "check_attempts": 1,

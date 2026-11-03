@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-0027bbfd060a1a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-08c2c14ff10a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e4f714a2b60a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5b0714a2b60a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -30664,6 +30666,22 @@
    "updated_ms": 1793369820000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-f5cf35ae71d81a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/yoav_europe_301026/MASTER/yoav_europe_301026/yoav_europe_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-08c2c14ff10a1a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "מי הכי חתיך בממשל האמריקני? הנשיא דונלד טראמפ התבקש לבחור בין בכירי ממשלו, בהם ג'יי די ואנס, מרקו רוביו וסקוט בסנט. \"את תסבכי אותי בצרות גדולות\", השיב למראיינת, התחמק מבחירה והעדיף להחמיא לכולם.",
+   "duration_s": 43,
+   "first_seen_ms": 1793693846357,
+   "image": "https://img.mako.co.il/2026/11/03/inbaltrumpos031126m_1400_1793688871909_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793688878000,
+   "sections": [],
+   "title": "השאלה שתפסה את טראמפ לא מוכן - מי הכי חתיך בממשל?",
+   "type": "general",
+   "updated_ms": 1793688878000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-08c2c14ff10a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/inbaltrumpos031126/MASTER/inbaltrumpos031126m/inbaltrumpos031126m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-0f49f5316cc91a1027.htm": {
    "author": "מהעולם",
@@ -100972,6 +100990,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-55ccbc8c11c91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_liberman_8067_02112026114418/V1_liberman_8067_02112026114418_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5b0714a2b60a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בהכוונת השב״כ: מסתערבי מג״ב איו״ש עצרו בחטיבת מנשה מבוקש החשוד בקידום פעילות טרור וחשוד נוסף בסיוע ל",
+   "duration_s": 9,
+   "first_seen_ms": 1793693846357,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18657_03112026081134_1400_1793693580175_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793693586000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בהכוונת השב״כ: מסתערבי מג״ב איו״ש עצרו בחטיבת מנשה מבוקש החשוד בקידום פעילות טרור וחשוד נוסף בסיוע ל",
+   "type": "mivzakim",
+   "updated_ms": 1793693586000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5b0714a2b60a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18657_03112026081134/M_NEWS_18657_03112026081134_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5c465831dc891a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -101821,6 +101857,24 @@
    "updated_ms": 1793543373000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e1cc535808791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18549_01112026022757/M_NEWS_18549_01112026022757_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e4f714a2b60a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן שנתיים נכווה ממים רותחים בבית אריה, מצבו קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1793693846357,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18658_03112026081153_1400_1793693594390_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793693601000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן שנתיים נכווה ממים רותחים בבית אריה, מצבו קשה",
+   "type": "mivzakim",
+   "updated_ms": 1793693601000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e4f714a2b60a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18658_03112026081153/M_NEWS_18658_03112026081153_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e6dc9e7ab4591a1027.htm": {
    "author": "מבזקים",
