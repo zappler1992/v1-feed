@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ae0953f2e20a1a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-f2b0c14ff10a1a1026.htm"
+  "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-bc8b78f2f3c91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -102724,6 +102723,22 @@
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-99a605a3f3791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/POLISHUK_EP26/MASTER/POLISHUK_EP26/POLISHUK_EP26_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-bc8b78f2f3c91a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 27: ההקלטה מהכספת מציתה ויכוח בלשכה, סולי רוצה להשמיד את החומרים ותקומה רואה בהם הזדמנות להדליף ולסגור חשבון עם קוזו. פולישוק עוד מנסה להבין אם כדאי להיעזר במה שמצאו, אבל ככל שהוויכוח מתחמם הוא נותר המום, והשתיים ממשיכות להתווכח בלי לחכות להחלטה שלו.",
+   "duration_s": 95,
+   "first_seen_ms": 1793692346352,
+   "image": "https://img.mako.co.il/2026/11/02/POLISHUK_EP27_1400_1793622961821_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793622968000,
+   "sections": [],
+   "title": "פולישוק פרק 27: להשמיד או להדליף?",
+   "type": "series",
+   "updated_ms": 1793622968000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-bc8b78f2f3c91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/POLISHUK_EP27/MASTER/POLISHUK_EP27/POLISHUK_EP27_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/recipes-2026/m09_w03/shorts-84f82fb2553b0a1027.htm": {
    "author": "מתכונים",
    "date_source": null,
@@ -129345,7 +129360,8 @@
    "importance": 1,
    "published_ms": 1793686228000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "תאונה קטלנית בהר האוורסט: שני מסוקים התנגשו במהלך ניסיון נחיתה, אדם נהרג ושניים נפצעו",
    "type": "mivzakim",
