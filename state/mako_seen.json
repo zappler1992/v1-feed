@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793695649334,
+ "last_run_ms": 1793695949286,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36292,6 +36292,18 @@
    "published_ms": 1792647180000,
    "section": "הורים",
    "title": "מחקר: מה ילדים יודעים על הבחירות ודמוקרטיה?"
+  },
+  "https://www.mako.co.il/home-family-kids/Article-25ee87c2090a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793695827372,
+   "content_type": "article",
+   "first_seen_ms": 1793695827372,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793695260000,
+   "section": "הורים",
+   "title": "הבת שלה חיקתה אותה – והיא מחקה את האינסטגרם"
   },
   "https://www.mako.co.il/home-family-kids/Article-26934fc503690a1026.htm": {
    "check_attempts": 1,
