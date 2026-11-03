@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9943e8e0fff91a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22715,6 +22715,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-84eb9a66cf591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18524_01112026072557/M_Tarbut_18524_01112026072557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אחרי הפרידה מבן הזוג: כוכבת הרשת ליהי גרוסמן מתפרקת בבכי מול אחיה הקטן",
+   "duration_s": 28,
+   "first_seen_ms": 1793687546178,
+   "image": "https://img.mako.co.il/2026/11/03/M_Celebs_18646_03112026062246_1400_1793687049227_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793687056000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אחרי הפרידה מבן הזוג: כוכבת הרשת ליהי גרוסמן מתפרקת בבכי מול אחיה הקטן",
+   "type": "mivzakim",
+   "updated_ms": 1793687056000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18646_03112026062246/M_Celebs_18646_03112026062246_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8c2e42373bc91a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -25055,7 +25073,7 @@
    ],
    "title": "בלי מים ובלי ללכלך כלים: הדרך הכי קלה ומהירה להכין ביצים קשות",
    "type": "general",
-   "updated_ms": 1793610809000,
+   "updated_ms": 1793687220000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-3ac75e1177b91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/rinat_eggs_021126/MASTER/rinat_eggs_021126_m/rinat_eggs_021126_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -129211,16 +129229,16 @@
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6658c5bf500a1a1026.htm": {
    "author": "מבזקים מהעולם",
    "date_source": "json-publishDate",
-   "description": "תאונה קטלנית ליד האוורסט: שני מסוקים התנגשו במהלך ניסיון נחיתה, אדם נהרג ושניים נפצעו",
+   "description": "תאונה קטלנית בהר האוורסט: שני מסוקים התנגשו במהלך ניסיון נחיתה, אדם נהרג ושניים נפצעו",
    "duration_s": 15,
    "first_seen_ms": 1793686346165,
    "image": "https://img.mako.co.il/2026/11/03/V1_averst_8093_03112026060904_1400_1793686220339_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793686228000,
    "sections": [
     "מבזקים מהעולם"
    ],
-   "title": "תאונה קטלנית ליד האוורסט: שני מסוקים התנגשו במהלך ניסיון נחיתה, אדם נהרג ושניים נפצעו",
+   "title": "תאונה קטלנית בהר האוורסט: שני מסוקים התנגשו במהלך ניסיון נחיתה, אדם נהרג ושניים נפצעו",
    "type": "mivzakim",
    "updated_ms": 1793686228000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6658c5bf500a1a1026.htm",
