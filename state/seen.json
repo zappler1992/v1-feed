@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-2fd94637d51a1a1027.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-e6841178431a1a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-1c80e352d51a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ef8be352d51a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23384,6 +23386,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ee32648dfe591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18522_01112026071344/M_Celebs_18522_01112026071344_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ef8be352d51a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הכוכב הארגנטינאי אגוסטין ברנסקוני מתייחס לסערת קירל והכפילה: \"ככה זה בהפקות מסוימות\"",
+   "duration_s": 95,
+   "first_seen_ms": 1793709145764,
+   "image": "https://img.mako.co.il/2026/11/03/M_MakoZ_18672_03112026122229_1400_1793708676066_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793708682000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הכוכב הארגנטינאי אגוסטין ברנסקוני מתייחס לסערת קירל והכפילה: \"ככה זה בהפקות מסוימות\"",
+   "type": "mivzakim",
+   "updated_ms": 1793708682000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ef8be352d51a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_MakoZ_18672_03112026122229/M_MakoZ_18672_03112026122229_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-f1561073aab91a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -31029,6 +31049,22 @@
    "updated_ms": 1793699220000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-78a82eb62fd91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/yoav_hilutz_021126/MASTER/yoav_hilutz_021126/yoav_hilutz_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-e6841178431a1a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רשת המזון המהיר סופגת אש לאחר שסרטון ויראלי חשף עובדת לבנה בסניף דרייב-תרו שהחליטה להתחפש להאלווין ב\"בלאקפייס\". בעקבות הזעם ברשת, ברגר קינג מיהרה לשחרר הצהרה רשמית בה הבהירה שהיא לוקחת את העניין ברצינות, ושהזכיין המקומי מטפל בנושא מול ההנהלה והעובדת כדי להבהיר שמעשה כזה הוא \"לא מקובל\". עדיין לא ברור אם העובדת פוטרה או ספגה עונש משמעתי.",
+   "duration_s": 28,
+   "first_seen_ms": 1793709145764,
+   "image": "https://img.mako.co.il/2026/11/03/alma_burger_03112026_1400_1793706537811_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793706544000,
+   "sections": [],
+   "title": "סערה אמריקאית: עובדת בורגר קינג באה לעבודה באיפור \"בלאקפייס\", מחופשת לשחורה",
+   "type": "general",
+   "updated_ms": 1793706544000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-e6841178431a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/alma_burger_03112026/MASTER/alma_burger_03112026/alma_burger_03112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-eeb35cd8e4b91a1026.htm": {
    "author": "מהעולם",
@@ -51802,7 +51838,8 @@
    "importance": 2,
    "published_ms": 1793696270000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "מהעולם"
    ],
    "title": "סוף טראגי לסחיטה ברשת: הפרופסור שרצח את אשתו בגלל תמונות אינטימיות",
    "type": "news",
@@ -100976,6 +101013,24 @@
    "updated_ms": 1793506923000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0d021dcad2591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18505_01112026042034/M_NEWS_18505_01112026042034_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-1c80e352d51a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בלב פריז: חברת רפאל תציג לראשונה יחד מערכות הגנה ימית ולייזר במסגרת תערוכת Euronaval 2026",
+   "duration_s": 9,
+   "first_seen_ms": 1793709145764,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18674_03112026122654_1400_1793708913591_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793708920000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בלב פריז: חברת רפאל תציג לראשונה יחד מערכות הגנה ימית ולייזר במסגרת תערוכת Euronaval 2026",
+   "type": "mivzakim",
+   "updated_ms": 1793708920000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-1c80e352d51a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18674_03112026122654/M_NEWS_18674_03112026122654_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-1dbab13ae8a91a1027.htm": {
    "author": "מבזקים",
