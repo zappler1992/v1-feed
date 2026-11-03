@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793737349984,
+ "last_run_ms": 1793737649364,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16002,6 +16002,18 @@
    "published_ms": 1791999000000,
    "section": "ספורט",
    "title": "התחיל בדריבל ענק: צפו בשער של ליברפול"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-81e653427f2a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793737649364,
+   "content_type": "article",
+   "first_seen_ms": 1793737649364,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793737320000,
+   "section": "ספורט",
+   "title": "עקף את אמבפה: השיא ששבר לאמין ימאל"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-82a705429ef51a1027.htm": {
    "check_attempts": 1,
@@ -37995,7 +38007,7 @@
    "indexnow_ms": null,
    "published_ms": 1793702460000,
    "section": "עיצוב הבית",
-   "title": "אין עוד כאלה: כזה פנטהאוז לא ראיתם בישראל מעולם"
+   "title": "ורהיטים מהארמון: כזה פנטהאוז ביפו לא ראיתם"
   },
   "https://www.mako.co.il/living-architecture/local/Article-924e9d75c7c71a1027.htm": {
    "check_attempts": 1,
@@ -41452,6 +41464,18 @@
    "published_ms": 1792039260000,
    "section": "",
    "title": "באמצעות דרכונים מזויפים: התופעה המטרידה בנתב\"ג"
+  },
+  "https://www.mako.co.il/men-men_news/Article-2c6fb862af2a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793737466649,
+   "content_type": "article",
+   "first_seen_ms": 1793737466649,
+   "indexable": true,
+   "indexnow_ms": 1793737466649,
+   "published_ms": 1793736540000,
+   "section": "",
+   "title": "\"אני בטראומה קשה\": החשד החמור נגד כדורגלן מליגת העל"
   },
   "https://www.mako.co.il/men-men_news/Article-2cc5653226511a1027.htm": {
    "check_attempts": 1,
@@ -56293,7 +56317,7 @@
    "indexnow_ms": null,
    "published_ms": 1793736180000,
    "section": "",
-   "title": "ראש השב\"כ מבקש לחקור את ראשי המפלגות הערביות"
+   "title": "הדרישה של ראש השב\"כ נגד ראשי המפלגות הערביות"
   },
   "https://www.mako.co.il/special-mako-news/Article-0537da3b52571a1026.htm": {
    "check_attempts": 1,
