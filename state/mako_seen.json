@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793701949388,
+ "last_run_ms": 1793702249546,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1601,9 +1601,9 @@
    "first_seen_ms": 1793700626682,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793700429000,
    "section": "אופנה",
-   "title": "אפשר ללבוש את המכנסיים הטרנדיים האלה גם בחורף"
+   "title": "אתי קובו מבהירה: אפשר ללבוש את המכנסיים הטרנדיים האלה גם בחורף"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -28612,6 +28612,18 @@
    "published_ms": 1792944000000,
    "section": "נדל\"ן",
    "title": "מ-12 ל-40 מ\"ר: בעלי הדירות שניצחו את העירייה"
+  },
+  "https://www.mako.co.il/finances-real-estate/Article-9866c8c57e0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793702066774,
+   "content_type": "article",
+   "first_seen_ms": 1793702066774,
+   "indexable": true,
+   "indexnow_ms": 1793702066774,
+   "published_ms": 1793701740000,
+   "section": "נדל\"ן",
+   "title": "רוכשים דירה בלי משכנתה? כך עובדת שיטת גינדי"
   },
   "https://www.mako.co.il/finances-real-estate/Article-990ff451bffa0a1027.htm": {
    "check_attempts": 1,
