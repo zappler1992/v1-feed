@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793714548873,
+ "last_run_ms": 1793714849960,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -50788,6 +50788,18 @@
    "published_ms": 1792930320000,
    "section": "דיגיטל",
    "title": "גם ההאקרים נערכו לבחירות: ההודעה הזדונית שנשלחה לרבים"
+  },
+  "https://www.mako.co.il/nexter-news/Article-2c088fac891a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793714786681,
+   "content_type": "article",
+   "first_seen_ms": 1793714786681,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793714580000,
+   "section": "דיגיטל",
+   "title": "המחסור בשיא: \"הזמנו 5,000 - קיבלנו 0 יחידות\""
   },
   "https://www.mako.co.il/nexter-news/Article-2c249d785a781a1027.htm": {
    "check_attempts": 1,
