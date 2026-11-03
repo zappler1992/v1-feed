@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793701649417,
+ "last_run_ms": 1793701949388,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19097,6 +19097,18 @@
    "section": "ספורט",
    "title": "לאחר סערת הפנדל: מחוות אלצ`ה לרביבו"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-3976c8c57e0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793701949388,
+   "content_type": "article",
+   "first_seen_ms": 1793701949388,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793701800000,
+   "section": "ספורט",
+   "title": "הדופק עוד חזר: רגעיו האחרונים של דה מיגל"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-3bbbda3ca1971a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -25131,7 +25143,7 @@
    "indexnow_ms": 1793692467076,
    "published_ms": 1793692140000,
    "section": "סלבס",
-   "title": "מיליונים בבנק, אבל הכוכב טוען: \"אני חסר בית\""
+   "title": "אחרי הקריסה, הכוכב טוען: \"אני חסר בית\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-9f7387efc0a11a1027.htm": {
    "check_attempts": 1,
@@ -27784,6 +27796,18 @@
    "published_ms": 1793617860000,
    "section": "כסף",
    "title": "נסעה 200 ק\"מ לחדש ת\"ז ונשלחה בחזרה הביתה"
+  },
+  "https://www.mako.co.il/finances-news/Article-cf83c8c57e0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793701826776,
+   "content_type": "article",
+   "first_seen_ms": 1793701826776,
+   "indexable": true,
+   "indexnow_ms": 1793701826776,
+   "published_ms": 1793701260000,
+   "section": "כסף",
+   "title": "\"אני מסיים עם זה\": אילון מאסק בהצהרה מפתיעה"
   },
   "https://www.mako.co.il/finances-news/Article-d00ca23504b81a1026.htm": {
    "check_attempts": 1,
