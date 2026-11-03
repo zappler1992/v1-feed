@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-964d36bab0e91a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0759fd2f1af91a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-7659fd2f1af91a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -100358,6 +100359,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-05d20ef091891a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/FIX_HATZHARA_M/FIX_HATZHARA_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0759fd2f1af91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "דיווח פלסטיני: צה\"ל עצר הלילה כתב אלג'זירה בביתו בעיר דורא מדרום לחברון",
+   "duration_s": 43,
+   "first_seen_ms": 1793680346001,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18638_03112026042533_1400_1793680032097_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793680038000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "דיווח פלסטיני: צה\"ל עצר הלילה כתב אלג'זירה בביתו בעיר דורא מדרום לחברון",
+   "type": "mivzakim",
+   "updated_ms": 1793680038000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0759fd2f1af91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18638_03112026042533/M_NEWS_18638_03112026042533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0d021dcad2591a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -100954,6 +100973,24 @@
    "updated_ms": 1793593005000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-75aa883d37a91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18577_02112026041447/M_NEWS_18577_02112026041447_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-7659fd2f1af91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "צבא ארה\"ב ביצע בשבועות האחרונים תקיפות הגנה באיראן, אך נמנע מלפרסם אותן כדי שלא להביא להסלמה",
+   "duration_s": 28,
+   "first_seen_ms": 1793680346001,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18639_03112026042545_1400_1793680028456_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793680038000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "צבא ארה\"ב ביצע בשבועות האחרונים תקיפות הגנה באיראן, אך נמנע מלפרסם אותן כדי שלא להביא להסלמה",
+   "type": "mivzakim",
+   "updated_ms": 1793680038000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-7659fd2f1af91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18639_03112026042545/M_NEWS_18639_03112026042545_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-7e01e1a0f0b91a1026.htm": {
    "author": "מבזקים",
