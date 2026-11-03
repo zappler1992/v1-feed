@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793714849960,
+ "last_run_ms": 1793715149047,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19227,7 +19227,7 @@
    "indexnow_ms": null,
    "published_ms": 1793713680000,
    "section": "ספורט",
-   "title": "כלא זו אופציה: העונש לשוער שגרם למוות"
+   "title": "כלא זו אופציה: העונש לשוער שגרם למות השחקן"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-58639ac82b0a1a1027.htm": {
    "check_attempts": 1,
@@ -27785,6 +27785,18 @@
    "section": "כסף",
    "title": "לאחר שנחשד בזיוף: יו\"ר נתיבי איילון הודח"
   },
+  "https://www.mako.co.il/finances-news/Article-9d0c1d999b1a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793715026691,
+   "content_type": "article",
+   "first_seen_ms": 1793715026691,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793713800000,
+   "section": "כסף",
+   "title": "סופ\"ש של פקקים: איילון ייחסם בשני הכיוונים ‏"
+  },
   "https://www.mako.co.il/finances-news/Article-a484874f78dc0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35488,6 +35500,18 @@
    "published_ms": 1792614540000,
    "section": "",
    "title": "תיעוד בלתי נתפס: בת ה-3 הושארה לבד בבית - כך זה נגמר"
+  },
+  "https://www.mako.co.il/hix-special/Article-6dd046d76b1a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793715026691,
+   "content_type": "article",
+   "first_seen_ms": 1793715026691,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793714760000,
+   "section": "HIX",
+   "title": "יצאו למסע באלפים האוסטרים, ונטשו את חברם בהר"
   },
   "https://www.mako.co.il/hix-special/Article-6e4e3f3f87601a1026.htm": {
    "check_attempts": 1,
@@ -46108,6 +46132,18 @@
    "published_ms": 1793202300000,
    "section": "",
    "title": "הותרו לפרסום שמות החשודות בהתעללות בפעוטון"
+  },
+  "https://www.mako.co.il/men-men_news/Article-fa2946d76b1a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793715026691,
+   "content_type": "article",
+   "first_seen_ms": 1793715026691,
+   "indexable": true,
+   "indexnow_ms": 1793715026691,
+   "published_ms": 1793714520000,
+   "section": "פלילים",
+   "title": "עבריין מוכר יעבור לפנטהאוז; השכנים: \"נהפוך למטרות\""
   },
   "https://www.mako.co.il/men-men_news/Article-fbf1550588851a1026.htm": {
    "check_attempts": 1,
