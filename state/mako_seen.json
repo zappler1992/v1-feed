@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793699250480,
+ "last_run_ms": 1793699549321,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -19205,6 +19205,18 @@
    "section": "ספורט",
    "title": "בזמן הקלאסיקו: ביתו של מיליטאו נשדד"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6cae4b1c7c0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793699549321,
+   "content_type": "article",
+   "first_seen_ms": 1793699549321,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793699160000,
+   "section": "ספורט",
+   "title": "הקבוצה מולה מת דה מיגל - אנדורה של פיקה"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-6cb1c3ef30571a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -20223,7 +20235,7 @@
    "indexnow_ms": null,
    "published_ms": 1793692260000,
    "section": "תרבות tvbee",
-   "title": "\"פעילה פרו-ישראלית דחפה דגל ישראל לתיבת הדואר שלי\""
+   "title": "\"מקבל הודעות שנאה בגלל העמדות שלי כלפי ישראל\""
   },
   "https://www.mako.co.il/culture-articles/Article-475a928e2b411a1026.htm": {
    "check_attempts": 1,
@@ -44295,7 +44307,7 @@
    "indexnow_ms": 1793691867039,
    "published_ms": 1793690820000,
    "section": "פלילים",
-   "title": "\"המשיך להכות את שליח הוולט גם אחרי שאיבד הכרה\""
+   "title": "מאבטחו של יוסי מוסלי מואשם בתקיפת שליח וולט"
   },
   "https://www.mako.co.il/men-men_news/Article-b43f8222ee041a1027.htm": {
    "check_attempts": 1,
