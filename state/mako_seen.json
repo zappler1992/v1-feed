@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793699849508,
+ "last_run_ms": 1793700149696,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20235,7 +20235,7 @@
    "indexnow_ms": null,
    "published_ms": 1793692260000,
    "section": "תרבות tvbee",
-   "title": "\"מקבל הודעות שנאה בגלל העמדות שלי כלפי ישראל\""
+   "title": "זוכה האוסקר הפרו-פלסטיני: \"מקבל הודעות שנאה\""
   },
   "https://www.mako.co.il/culture-articles/Article-475a928e2b411a1026.htm": {
    "check_attempts": 1,
@@ -32921,6 +32921,18 @@
    "section": "בריאות",
    "title": "\"אין טיפול שיוכל להשכיח את המראות שראינו שם\""
   },
+  "https://www.mako.co.il/health-news/Article-e56887c2090a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793700149696,
+   "content_type": "article",
+   "first_seen_ms": 1793700149696,
+   "indexable": true,
+   "indexnow_ms": 1793700149696,
+   "published_ms": 1793699880000,
+   "section": "",
+   "title": "\"זו קטסטרופה, אי אפשר לצאת החוצה\""
+  },
   "https://www.mako.co.il/health-news/Article-e62d939609691a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33424,6 +33436,18 @@
    "published_ms": 1793540280000,
    "section": "HIX",
    "title": "כך הוא נראה לפני שהשיל חצי כמעט ממשקל גופו"
+  },
+  "https://www.mako.co.il/hix-bizarre/Article-5e964b1c7c0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793700026646,
+   "content_type": "article",
+   "first_seen_ms": 1793700026646,
+   "indexable": true,
+   "indexnow_ms": 1793700026646,
+   "published_ms": 1793699760000,
+   "section": "HIX",
+   "title": "\"נתניהו האיראני\" תועד בחנות ממתקים בטהרן"
   },
   "https://www.mako.co.il/hix-bizarre/Article-610657abaecc0a1026.htm": {
    "check_attempts": 1,
@@ -45424,6 +45448,18 @@
    "published_ms": 1792653660000,
    "section": "פלילים",
    "title": "גנב מוצרים באלפי שקלים: אימת הסופרים באשקלון"
+  },
+  "https://www.mako.co.il/men-men_news/Article-e929d1d23d0a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793700026646,
+   "content_type": "article",
+   "first_seen_ms": 1793700026646,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793699520000,
+   "section": "פלילים",
+   "title": "הסיבה שבן 17 השליך רימון על מסיבת יום הולדת"
   },
   "https://www.mako.co.il/men-men_news/Article-e96bbe6633ec0a1026.htm": {
    "check_attempts": 1,
