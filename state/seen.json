@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-b3674a981f1a1a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-f56d4a981f1a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3224047d712a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e12f34d0812a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23400,6 +23400,24 @@
    "updated_ms": 1793511164000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e04f9e20d8591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18509_01112026053132/M_Tarbut_18509_01112026053132_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e12f34d0812a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אשר סויסה (סקאזי) ונרקיס בבלאנס מתוך פסטיבל מידברן",
+   "duration_s": 64,
+   "first_seen_ms": 1793722046234,
+   "image": "https://img.mako.co.il/2026/11/03/M_Music_18688_03112026035550_1400_1793721453654_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793721460000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אשר סויסה (סקאזי) ונרקיס בבלאנס מתוך פסטיבל מידברן",
+   "type": "mivzakim",
+   "updated_ms": 1793721460000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e12f34d0812a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18688_03112026035550/M_Music_18688_03112026035550_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e16e3fa71a791a1026.htm": {
    "author": "עדכוני בידור",
@@ -101498,6 +101516,24 @@
    "updated_ms": 1793526484000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-31d073c9c7691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_HERZOG_8041_01112026094536/V1_KARIND_HERZOG_8041_01112026094536_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3224047d712a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מחריד מהצפון: נסע שיכור על מלגזה - ודרס את חברו למוות",
+   "duration_s": 28,
+   "first_seen_ms": 1793722046234,
+   "image": "https://img.mako.co.il/2026/11/03/V1_Shalommivzak_8105_03112026035958_1400_1793721683280_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793721689000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מחריד מהצפון: נסע שיכור על מלגזה - ודרס את חברו למוות",
+   "type": "mivzakim",
+   "updated_ms": 1793721689000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3224047d712a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_Shalommivzak_8105_03112026035958/V1_Shalommivzak_8105_03112026035958_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-32dad57edfa91a1027.htm": {
    "author": "מבזקים",
