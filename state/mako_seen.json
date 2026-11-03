@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793691749287,
+ "last_run_ms": 1793692049271,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44033,6 +44033,18 @@
    "section": "",
    "title": "בזמן שהיו בנופש באילת: הסטודנטית נעצרה עם בן זוגה"
   },
+  "https://www.mako.co.il/men-men_news/Article-b3d6a22df30a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793691867039,
+   "content_type": "article",
+   "first_seen_ms": 1793691867039,
+   "indexable": true,
+   "indexnow_ms": 1793691867039,
+   "published_ms": 1793690820000,
+   "section": "פלילים",
+   "title": "\"המשיך להכות את שליח הוולט גם אחרי שאיבד הכרה\""
+  },
   "https://www.mako.co.il/men-men_news/Article-b43f8222ee041a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -60746,6 +60758,18 @@
    "published_ms": 1791197400000,
    "section": "חופש",
    "title": "יצא לטיול ונעלם: \"אנחנו מתוסכלים, אין לנו קצה חוט\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-c4972042730a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793691867039,
+   "content_type": "article",
+   "first_seen_ms": 1793691867039,
+   "indexable": true,
+   "indexnow_ms": 1793691867039,
+   "published_ms": 1793691720000,
+   "section": "",
+   "title": "בזמן שפינו תיירים: שני מסוקים התנגשו והתרסקו"
   },
   "https://www.mako.co.il/travel-news/international/Article-c8529a66cf591a1026.htm": {
    "check_attempts": 1,
