@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793695349242,
+ "last_run_ms": 1793695649334,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25695,7 +25695,7 @@
    "indexnow_ms": null,
    "published_ms": 1793694000000,
    "section": "סלבס",
-   "title": "\"היא נראית כמו תוצר של נישואי קרובים\""
+   "title": "\"נישואי קרובים\": הבת של הכוכבים חוטפת תגובות אכזריות"
   },
   "https://www.mako.co.il/entertainment-celebs/world/Article-76af3e6f10e31a1026.htm": {
    "check_attempts": 1,
@@ -32727,7 +32727,7 @@
    "indexnow_ms": 1793694627251,
    "published_ms": 1793689140000,
    "section": "",
-   "title": "\"חשש שתהפוך לבעיה בריאותית חוצה יבשות\""
+   "title": "ההתפרצות של הנגיף המסוכן - והחשש שיגיע עד אלינו"
   },
   "https://www.mako.co.il/health-news/Article-d6482caffff31a1026.htm": {
    "check_attempts": 1,
@@ -54713,6 +54713,18 @@
    "section": "צבא וביטחון",
    "title": "בלי ירי טיל אחד: הסימנים שאיראן קרובה לשיא המשבר"
   },
+  "https://www.mako.co.il/pzm-soldiers/Article-e5d1dde8c80a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793695649334,
+   "content_type": "article",
+   "first_seen_ms": 1793695649334,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793695320000,
+   "section": "חדשות",
+   "title": "\"ביצעו ניסוי\": השב\"כ חשף תשתית לייצור רקטות בשומרון"
+  },
   "https://www.mako.co.il/pzm-soldiers/Article-e68a8ea25e671a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -60914,6 +60926,18 @@
    "published_ms": 1793616000000,
    "section": "חופש",
    "title": "הישראלים תיעדו איך זורקים את המזוודות שלהם מהמטוס"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-c18ebbfd060a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793695467340,
+   "content_type": "article",
+   "first_seen_ms": 1793695467340,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793691060000,
+   "section": "חופש",
+   "title": "הטופס שחייבים למלא לפני הטיסה - או שלא תוכלו לטוס"
   },
   "https://www.mako.co.il/travel-news/international/Article-c1a4547169211a1026.htm": {
    "check_attempts": 1,
