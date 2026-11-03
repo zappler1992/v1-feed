@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793683349015,
+ "last_run_ms": 1793683649014,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35501,6 +35501,18 @@
    "section": "",
    "title": "אחרי שנים: הסוד המזעזע של המטפל בילדים נחשף"
   },
+  "https://www.mako.co.il/hix-special/Article-c3bc2e842df91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793683587378,
+   "content_type": "article",
+   "first_seen_ms": 1793683587378,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793683380000,
+   "section": "HIX",
+   "title": "\"הגלשן התחיל להסתובב. הבנתי שמשהו לא בסדר\""
+  },
   "https://www.mako.co.il/hix-special/Article-c60932b740011a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37276,6 +37288,18 @@
    "published_ms": 1793090640000,
    "section": "עיצוב הבית",
    "title": "האדריכל התל אביבי המצליח כתב שיצביע ליכוד וקיבל איומים"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-b238e6bdacb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793683649014,
+   "content_type": "article",
+   "first_seen_ms": 1793683649014,
+   "indexable": true,
+   "indexnow_ms": 1793683649014,
+   "published_ms": 1793682000000,
+   "section": "עיצוב הבית",
+   "title": "מגדל או תכשיט? המבנה החדש שמסקרן את רמת החייל"
   },
   "https://www.mako.co.il/living-architecture/local/Article-bc69d57ffc6f0a1026.htm": {
    "check_attempts": 1,
