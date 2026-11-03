@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793698050793,
+ "last_run_ms": 1793698349363,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16279,6 +16279,18 @@
    "section": "ספורט",
    "title": "\"עושה רק נזק לב\"ש\": משחק הנפל של דיופ"
   },
+  "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-83739ac82b0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793698349363,
+   "content_type": "article",
+   "first_seen_ms": 1793698349363,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793698140000,
+   "section": "ספורט",
+   "title": "ממשיכים בשיקום: מצבם של ונטורה ופרץ"
+  },
   "https://www.mako.co.il/Sports-football-world/europe-league-q4_2026/Article-993e5d522c041a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -19121,6 +19133,18 @@
    "section": "ספורט",
    "title": "\"הפסד גדול\": בקטלוניה הגיבו לחיסרון גורן"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-58639ac82b0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793698349363,
+   "content_type": "article",
+   "first_seen_ms": 1793698349363,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793697960000,
+   "section": "ספורט",
+   "title": "\"שבור מהמצב\": השוער שאחראי למות השחקן"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-5aed6531e0b41a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -20199,7 +20223,7 @@
    "indexnow_ms": null,
    "published_ms": 1793692260000,
    "section": "תרבות tvbee",
-   "title": "זוכה האוסקר הפרו-פלסטיני: \"מקבל הודעות שנאה\""
+   "title": "\"פעילה פרו-ישראלית דחפה דגל ישראל לתיבת הדואר שלי\""
   },
   "https://www.mako.co.il/culture-articles/Article-475a928e2b411a1026.htm": {
    "check_attempts": 1,
