@@ -1,10 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-7a51bdb61f0a1a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-0519102aaf0a1a1027.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-a732bdb61f0a1a1026.htm",
-  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b9a9bdb61f0a1a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-b6b6244a790a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0b66ab44af0a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-51c0102aaf0a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22501,6 +22500,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-4fd7aa238d0a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18661_03112026100852/M_Music_18661_03112026100852_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-51c0102aaf0a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"ערסיות בריוניות, אני פשוט בוכה\": מאיה בוסקילה מגיבה על הלינץ'",
+   "duration_s": 9,
+   "first_seen_ms": 1793703446571,
+   "image": "https://img.mako.co.il/2026/11/03/M_Celebs_18668_03112026104552_1400_1793703060706_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793703067000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"ערסיות בריוניות, אני פשוט בוכה\": מאיה בוסקילה מגיבה על הלינץ'",
+   "type": "mivzakim",
+   "updated_ms": 1793703067000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-51c0102aaf0a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18668_03112026104552/M_Celebs_18668_03112026104552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-56a68730de891a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -31024,7 +31041,9 @@
    "image": "https://img.mako.co.il/2026/11/03/migell031126m_1400_1793699677576_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793699684000,
-   "sections": [],
+   "sections": [
+    "מהעולם"
+   ],
    "title": "מהדורות החדשות בספרד מדווחות בהלם: \"מיגל נפצע במרגש הכדורגל - ומת\"",
    "type": "general",
    "updated_ms": 1793700000000,
@@ -51717,6 +51736,22 @@
    "updated_ms": 1793614860000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-aee8d57edfa91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/rinat_passport_021126/MASTER/rinat_passport_021126_m/rinat_passport_021126_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-b6b6244a790a1a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "ג'יימס היל, פרופסור לשעבר בן 76 מאוניברסיטת אוהיו, נידון למאסר עולם לאחר שרצח את אשתו מסיבה בלתי נתפסת - סחיטה ברשת. היל סיפר לחוקרים שאישה שהכיר באינטרנט איימה להפיץ תמונות אינטימיות שלו אם לא ישלם לה 15 אלף דולר בגיפט קארדס של אפל. לדבריו, הוא הרגיש לכוד והחליט שהדרך היחידה לצאת מהמצב היא לרצוח את משפחתו. מיד לאחר מכן הוא ניסה לדקור את הכלב המשפחתי (שהצליח לברוח), התקשר למשטרה ודקר את עצמו בחזה. לאחרונה הוא הודה באשמה, ונשלח למאסר עם אפשרות לשחרור מוקדם בעוד 15 שנה - כשהוא יהיה בשנות ה-90 לחייו.",
+   "duration_s": 77,
+   "first_seen_ms": 1793703446571,
+   "image": "https://img.mako.co.il/2026/11/03/inbie_proffesor_031126_1400_1793696263764_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793696270000,
+   "sections": [],
+   "title": "סוף טראגי לסחיטה ברשת: הפרופסור שרצח את אשתו בגלל תמונות אינטימיות",
+   "type": "news",
+   "updated_ms": 1793696270000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-b6b6244a790a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/inbie_proffesor_031126/MASTER/inbie_proffesor_031126/inbie_proffesor_031126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-c9936b174c891a1026.htm": {
    "author": "חדשות",
@@ -100848,6 +100883,24 @@
    "updated_ms": 1793680038000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0759fd2f1af91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18638_03112026042533/M_NEWS_18638_03112026042533_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0b66ab44af0a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מטוס פולני נחת בנמל תעופה חלופי בעקבות חשד לחפץ חשוד",
+   "duration_s": 9,
+   "first_seen_ms": 1793703446571,
+   "image": "https://img.mako.co.il/2026/11/03/V1_lot_8098_03112026105131_1400_1793703163470_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793703169000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מטוס פולני נחת בנמל תעופה חלופי בעקבות חשד לחפץ חשוד",
+   "type": "mivzakim",
+   "updated_ms": 1793703169000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0b66ab44af0a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_lot_8098_03112026105131/V1_lot_8098_03112026105131_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-0d021dcad2591a1026.htm": {
    "author": "מבזקים",
