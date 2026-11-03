@@ -1,9 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-edec1ce69e1a1a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fabb1ce69e1a1a1026.htm",
-  "https://www.v-1.co.il/special-magazine/2026-m11_w01/shorts-efe3acb16e1a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d5af4a981f1a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d4af4a981f1a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-86982da69f1a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23022,6 +23022,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-84eb9a66cf591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18524_01112026072557/M_Tarbut_18524_01112026072557_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-86982da69f1a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "פרידה שוקלת למתוח את הגבה",
+   "duration_s": 9,
+   "first_seen_ms": 1793719346262,
+   "image": "https://img.mako.co.il/2026/11/03/M_Celebs_18685_03112026031355_1400_1793718899104_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793718906000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "פרידה שוקלת למתוח את הגבה",
+   "type": "mivzakim",
+   "updated_ms": 1793718906000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-86982da69f1a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18685_03112026031355/M_Celebs_18685_03112026031355_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23257,6 +23275,24 @@
    "updated_ms": 1793566850000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d48f66354e891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_MakoZ_18572_01112026085842/M_MakoZ_18572_01112026085842_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d4af4a981f1a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה לא בחו״ל: ככה נראה המידברן 2026 בצילומי רחפן",
+   "duration_s": 11,
+   "first_seen_ms": 1793719346262,
+   "image": "https://img.mako.co.il/2026/11/03/M_Music_18687_03112026031541_1400_1793718999403_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793719006000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה לא בחו״ל: ככה נראה המידברן 2026 בצילומי רחפן",
+   "type": "mivzakim",
+   "updated_ms": 1793719006000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d4af4a981f1a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18687_03112026031541/M_Music_18687_03112026031541_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d990535808791a1027.htm": {
    "author": "עדכוני בידור",
@@ -51829,7 +51865,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-964d36bab0e91a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "איך אפשר לחסוך אלפי שקלים בקניות בסופר? בעזרת הבינה המלאכותית קלוד תוכלו להשוות מחירים, לזהות פערים בין רשתות ולתכנן קניות חכמות יותר - ולהישאר עם יותר כסף בכיס.",
+   "description": "איך אפשר לחסוך אלפי שקלים בקניות בסופר? בעזרת הבינה המלאכותית קלוד תוכלו להשוות מחירים, לזהות פערים בין רשתות ולתכנן קניות חכמות יותר - ולהישאר עם יותר כסף בכיס",
    "duration_s": 99,
    "first_seen_ms": 1793657546646,
    "image": "https://img.mako.co.il/2026/11/02/Kim_Clod_02112026_1400_1793653962400_FirstFrame.jpg",
@@ -51840,7 +51876,7 @@
    ],
    "title": "ככה תחסכו אלפי שקלים בקניות בסופר - בעזרת קלוד",
    "type": "news",
-   "updated_ms": 1793653969000,
+   "updated_ms": 1793718780000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-964d36bab0e91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/Kim_Clod_02112026/MASTER/Kim_Clod_02112026/Kim_Clod_02112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -102603,6 +102639,24 @@
    "updated_ms": 1793544027000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d18c51e178791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18552_01112026023903/M_NEWS_18552_01112026023903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d5af4a981f1a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "שני חשודים נעצרו בניסיון גניבת רכב בתוך היישוב רמות השבים",
+   "duration_s": 15,
+   "first_seen_ms": 1793719346262,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18686_03112026031517_1400_1793718999683_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793719006000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "שני חשודים נעצרו בניסיון גניבת רכב בתוך היישוב רמות השבים",
+   "type": "mivzakim",
+   "updated_ms": 1793719006000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d5af4a981f1a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18686_03112026031517/M_NEWS_18686_03112026031517_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6a005a3f3791a1026.htm": {
    "author": "מבזקים",
