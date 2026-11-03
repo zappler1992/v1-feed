@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90acc14ff10a1a1026.htm",
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-a3f4c5bf500a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -101299,6 +101300,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8e6cc4b462691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18528_01112026080903/M_NEWS_18528_01112026080903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90acc14ff10a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השוטר שנחשד בתקיפת אשתו הנכה צפוי להשתחרר ממעצר",
+   "duration_s": 9,
+   "first_seen_ms": 1793688446203,
+   "image": "https://img.mako.co.il/2026/11/03/M_NEWS_18652_03112026064048_1400_1793688129570_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793688135000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השוטר שנחשד בתקיפת אשתו הנכה צפוי להשתחרר ממעצר",
+   "type": "mivzakim",
+   "updated_ms": 1793688135000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90acc14ff10a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18652_03112026064048/M_NEWS_18652_03112026064048_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90d0b89898c91a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103735,6 +103754,24 @@
    "updated_ms": 1793602056000,
    "url": "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Food_18588_02112026064614/M_Food_18588_02112026064614_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-a3f4c5bf500a1a1026.htm": {
+   "author": "יעל קצב",
+   "date_source": "json-publishDate",
+   "description": "העוגה הזאת היא משהו שבין עוגה לפנקייק פאדג'י, ותסמכו עלינו שהיא בדיוק מה שאתם רוצים כשהחשק למתוק מתחיל לעקצץ. והבונוס: אפילו לא מלכלכים קערה, רק מחבת ומטרפה (טוב, הגנאש זה כבר סיפור אחר)",
+   "duration_s": 18,
+   "first_seen_ms": 1793688446203,
+   "image": "https://img.mako.co.il/2026/11/03/M_Food_18650_03112026063054_1400_1793687520486_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793687527000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "עוגת נוטלה שמכינים ישירות במחבת? רוצים!",
+   "type": "mivzakim",
+   "updated_ms": 1793687527000,
+   "url": "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-a3f4c5bf500a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Food_18650_03112026063054/M_Food_18650_03112026063054_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-b5e6a1cf4b691a1027.htm": {
    "author": "חן אורפז",
