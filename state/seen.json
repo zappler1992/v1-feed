@@ -1,10 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-60c7dcfc433a1a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-588349bd623a1a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-3f30dbd0f43a1a1027.htm",
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-89f02c3ad33a1a1026.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-def45ca0053a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23584,6 +23581,24 @@
    "updated_ms": 1793527172000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-dd15825ff7691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18536_01112026095605/M_Tarbut_18536_01112026095605_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-def45ca0053a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"לא חשבתי שתזהו\": רגע אחרי שנחשף ב\"הזמר במסכה\", ניקי גולדשטיין מסכם את החוויה",
+   "duration_s": 58,
+   "first_seen_ms": 1793743346323,
+   "image": "https://img.mako.co.il/2026/11/03/M_Tarbut_18711_03112026094721_1400_1793742550650_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793742558000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"לא חשבתי שתזהו\": רגע אחרי שנחשף ב\"הזמר במסכה\", ניקי גולדשטיין מסכם את החוויה",
+   "type": "mivzakim",
+   "updated_ms": 1793742558000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-def45ca0053a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18711_03112026094721/M_Tarbut_18711_03112026094721_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e04f9e20d8591a1026.htm": {
    "author": "עדכוני בידור",
@@ -52095,7 +52110,7 @@
    "sections": [],
    "title": "דאגה במערכת הביטחון: האמירה של רה\"מ על הסיוע האמריקאי",
    "type": "news",
-   "updated_ms": 1793735269000,
+   "updated_ms": 1793743200000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-6da693424e2a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/fix_rinat_dvori_031126/fix_rinat_dvori_031126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
