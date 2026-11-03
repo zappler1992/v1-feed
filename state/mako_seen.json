@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793710648860,
+ "last_run_ms": 1793710948766,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52060,6 +52060,18 @@
    "published_ms": 1792406220000,
    "section": "דיגיטל",
    "title": "\"המוסד שורף את פריז\": הקונספירציה על המהומות"
+  },
+  "https://www.mako.co.il/nexter-news/Article-dd629511861a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793710948766,
+   "content_type": "article",
+   "first_seen_ms": 1793710948766,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793710080000,
+   "section": "דיגיטל",
+   "title": "החברה הישראלית הוותיקה מפטרת 500 עובדים"
   },
   "https://www.mako.co.il/nexter-news/Article-e148ae14031e0a1026.htm": {
    "check_attempts": 1,

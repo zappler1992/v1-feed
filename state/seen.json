@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3e627c6d761a1a1026.htm"
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-d62514a2b60a1a1026.htm",
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e25bbb92671a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -10040,6 +10041,22 @@
    "updated_ms": 1793516280000,
    "url": "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-a520c4d41c591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_HEIDIKLUM_8031_01112026062621/V1_HEIDIKLUM_8031_01112026062621_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-d62514a2b60a1a1026.htm": {
+   "author": "מבזקי סלבס",
+   "date_source": "json-publishDate",
+   "description": "לא ניתן לזיהוי: ג'וני דפ הפתיע מבקרים בשוק חג המולד בניו יורק כשהוא מחופש לדמותו מסרט חדש",
+   "duration_s": 19,
+   "first_seen_ms": 1793710945836,
+   "image": "https://img.mako.co.il/2026/11/03/V1_jonny_8095_03112026081002_1400_1793693498497_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793693505000,
+   "sections": [],
+   "title": "לא ניתן לזיהוי: ג'וני דפ הפתיע מבקרים בשוק חג המולד בניו יורק כשהוא מחופש לדמותו מסרט חדש",
+   "type": "mivzakim",
+   "updated_ms": 1793693505000,
+   "url": "https://www.v-1.co.il/celebs_newsflash-2026/m11_w01/shorts-d62514a2b60a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_jonny_8095_03112026081002/V1_jonny_8095_03112026081002_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/culture-magazine/2026-m01_w04/shorts-cb7273bdf45eb91027.htm": {
    "author": "תרבות",
@@ -51794,7 +51811,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-adf91b2bd11a1a1027.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "לשם פיינגולד נסעה עם בנה בדרום כשחמושים רדפו אחריה, חסמו את דרכה וכיוונו לעברה אקדח בניסיון לגנוב את רכבה.\nהיא הצליחה להימלט לתחנת דלק סמוכה שבה שהו שוטרים",
+   "description": "לשם פיינגולד נסעה עם בנה בדרום כשחמושים רדפו אחריה, חסמו את דרכה וכיוונו לעברה אקדח בניסיון לגנוב את רכבה.\nהיא הצליחה להימלט לתחנת דלק סמוכה שבה שהו שוטרים.",
    "duration_s": 99,
    "first_seen_ms": 1793705846720,
    "image": "https://img.mako.co.il/2026/11/03/Kim_Chase_031120266_1400_1793704519491_FirstFrame.jpg",
@@ -51954,6 +51971,24 @@
    "updated_ms": 1793555760000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e04043bac2891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LIRON_GERMANY_01112026M/MASTER/LIRON_GERMANY_01112026M/LIRON_GERMANY_01112026M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e25bbb92671a1a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "משמרות המהפכה באיראן פרסמו תיעוד נדיר מתוך רשת המנהרות התת-קרקעיות המכונה \"ערי הטילים\", ובה מוצגים משגרי טילים, כלי שיט ואמצעי לחימה מתקדמים. הפרסום נועד לשדר עוצמה צבאית ולחדד את המסר כי טהראן ערוכה להגיב לכל איום במפרץ הפרסי. במוקד המסר עומד מצר הורמוז, אחד מנתיבי השיט החשובים בעולם, כאשר איראן מדגישה את יכולתה להשפיע על ביטחון האזור ולשמור על הרתעה מול הנוכחות הצבאית המערבית.",
+   "duration_s": 56,
+   "first_seen_ms": 1793710945836,
+   "image": "https://img.mako.co.il/2026/11/03/inbie_iran_031126_1400_1793710386832_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793710393000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מכאן יבואו הטילים האיראניים: התיעוד הנדיר בתוך המנהרות בסרטון התעמולה מטהרן",
+   "type": "news",
+   "updated_ms": 1793710393000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e25bbb92671a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/inbie_iran_031126/MASTER/inbie_iran_031126/inbie_iran_031126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-e68cb39343d91a1027.htm": {
    "author": "חדשות",
