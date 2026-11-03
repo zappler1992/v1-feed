@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793716948908,
+ "last_run_ms": 1793717248905,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22349,6 +22349,18 @@
    "section": "סלבס",
    "title": "ב-30 מיליון: המהלך של האקס של טיילור מלכוב"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-469bffbaca1a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793717066809,
+   "content_type": "article",
+   "first_seen_ms": 1793717066809,
+   "indexable": true,
+   "indexnow_ms": 1793717066809,
+   "published_ms": 1793716740000,
+   "section": "סלבס",
+   "title": "קורין גדעון: \"זה הבעיר אותו. הוא גבר אלים ונרקיסיסט\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-47f3382a844e0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -27795,7 +27807,7 @@
    "indexnow_ms": null,
    "published_ms": 1793713800000,
    "section": "כסף",
-   "title": "איילון ייחסם בשני הכיוונים, וחמישה קווי רכבת ישתנו"
+   "title": "סופ\"ש של פקקים: איילון ייחסם בשני הכיוונים ‏"
   },
   "https://www.mako.co.il/finances-news/Article-a484874f78dc0a1027.htm": {
    "check_attempts": 1,
@@ -35116,6 +35128,18 @@
    "published_ms": 1793697720000,
    "section": "HIX",
    "title": "התנגש בשוער במהלך משחק – ומת למחרת בביה\"ח"
+  },
+  "https://www.mako.co.il/hix-special/Article-40d212548d1a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793717186812,
+   "content_type": "article",
+   "first_seen_ms": 1793717186812,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793716920000,
+   "section": "HIX",
+   "title": "נפתחה חקירה פלילית בעקבות מות הכדורגלן בספרד"
   },
   "https://www.mako.co.il/hix-special/Article-40e76a520cd51a1027.htm": {
    "check_attempts": 1,
