@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793723250087,
+ "last_run_ms": 1793723549873,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49624,6 +49624,18 @@
    "published_ms": 1792589880000,
    "section": "ספורט",
    "title": "כמה הוא שווה? עונת הפריצה של טוקלומטי"
+  },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-decc42f6622a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793723549873,
+   "content_type": "article",
+   "first_seen_ms": 1793723549873,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793723400000,
+   "section": "ספורט",
+   "title": "פיפ\"א הטילה על הפועל חיפה איסור העברות"
   },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-e396657dc6f21a1026.htm": {
    "check_attempts": 1,
