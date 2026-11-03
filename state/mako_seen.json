@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793690850275,
+ "last_run_ms": 1793691149229,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37804,6 +37804,18 @@
    "published_ms": 1790827200000,
    "section": "עיצוב הבית",
    "title": "לשטוף או רק לנגב? זאת הדרך הנכונה לנקות פטריות"
+  },
+  "https://www.mako.co.il/living-diy/maintenance/Article-fc2e2042730a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793691027039,
+   "content_type": "article",
+   "first_seen_ms": 1793691027039,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793689920000,
+   "section": "עיצוב הבית",
+   "title": "הטעות שאתם עושים בבית שמושכת עכבישים"
   },
   "https://www.mako.co.il/living-diy/renovations/Article-0fa7809145261a1027.htm": {
    "check_attempts": 1,
