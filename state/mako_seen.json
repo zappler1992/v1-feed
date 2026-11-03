@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793686949091,
+ "last_run_ms": 1793687249106,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35045,6 +35045,18 @@
    "section": "HIX",
    "title": "הצית אש בפניה של אישה – ונעצר בידי המשטרה"
   },
+  "https://www.mako.co.il/hix-special/Article-7113e8e0fff91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-7113e8e0fff91a1027.htm",
+   "checked_ms": 1793687249106,
+   "content_type": "article",
+   "first_seen_ms": 1793687249106,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793686800000,
+   "section": "",
+   "title": "בת 20 בלבד: זו הטייסת במטוס שהתרסק בארה\"ב"
+  },
   "https://www.mako.co.il/hix-special/Article-76142da7076f0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -35547,7 +35559,7 @@
    "indexnow_ms": null,
    "published_ms": 1793683380000,
    "section": "HIX",
-   "title": "אסון בטיסה: תייר ומדריך נהרגו בהתרסקות גלשן אוויר"
+   "title": "\"הגלשן התחיל להסתובב. הבנתי שמשהו לא בסדר\""
   },
   "https://www.mako.co.il/hix-special/Article-c60932b740011a1027.htm": {
    "check_attempts": 1,
@@ -64898,6 +64910,18 @@
    "published_ms": 1793017620000,
    "section": "תרבות tvbee",
    "title": "\"היינו בשידור?\": האמירה של חלי גולדנברג - וההפתעה"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-9bd2c9e0edf91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793687066660,
+   "content_type": "article",
+   "first_seen_ms": 1793687066660,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793686620000,
+   "section": "תרבות tvbee",
+   "title": "אלן דג'נרס נפרדת בדמעות: \"זה פשוט הלם, הלם\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-a55e032425431a1026.htm": {
    "check_attempts": 1,
