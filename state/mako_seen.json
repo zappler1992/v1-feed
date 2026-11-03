@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793700749381,
+ "last_run_ms": 1793701049527,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53272,6 +53272,18 @@
    "published_ms": 1792438980000,
    "section": "",
    "title": "דרמה בכביש 1: נעצרו חשודים שהיו בדרך לפיגוע"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-2222aa238d0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793700866711,
+   "content_type": "article",
+   "first_seen_ms": 1793700866711,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793700540000,
+   "section": "צבא וביטחון",
+   "title": "ארה\"ב בדקה רכיבי מערכים קריטיים שלה - ונחרדה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-223c3a9747f90a1026.htm": {
    "check_attempts": 1,
