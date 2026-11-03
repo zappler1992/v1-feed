@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793712749015,
+ "last_run_ms": 1793713048869,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39629,6 +39629,18 @@
    "section": "",
    "title": "\"כמעט מלאכים\" יתאחדו על הבמה בדצמבר הקרוב"
   },
+  "https://www.mako.co.il/makoz-news/Article-116e9186f81a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793712867553,
+   "content_type": "article",
+   "first_seen_ms": 1793712867553,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793712420000,
+   "section": "",
+   "title": "אגוסטין על העבודה עם קירל"
+  },
   "https://www.mako.co.il/makoz-news/Article-165c545922e51a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45291,7 +45303,7 @@
    "indexnow_ms": null,
    "published_ms": 1793707980000,
    "section": "פלילים",
-   "title": "\"התייחס לאחייניתו כאל כלי לסיפוק דחפיו הסוטים\""
+   "title": "10 שנים בכלא לדוד שאנס את אחייניתו בת ה-6"
   },
   "https://www.mako.co.il/men-men_news/Article-d168cc3499931a1027.htm": {
    "check_attempts": 1,
@@ -47295,7 +47307,7 @@
    "indexnow_ms": 1793709748670,
    "published_ms": 1793709300000,
    "section": "מוזיקה",
-   "title": "בצל הפרשה: \"כשאתה במעצר בית אין לך ברירה\""
+   "title": "נתנאל רודניצקי: \"כשאתה במעצר בית אין לך ברירה\""
   },
   "https://www.mako.co.il/music-news/Article-b18d09c632851a1027.htm": {
    "check_attempts": 1,
@@ -54328,6 +54340,18 @@
    "published_ms": 1793687520000,
    "section": "",
    "title": "יכול להכניס אותנו למלחמה? משמעות פעולת ארה\"ב"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-6f84b2ddc81a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793712867553,
+   "content_type": "article",
+   "first_seen_ms": 1793712867553,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793712360000,
+   "section": "",
+   "title": "ההודעה הדרמטית של טראמפ על עצירת הסיוע לישראל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
