@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793692349324,
+ "last_run_ms": 1793692650200,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -20141,6 +20141,18 @@
    "section": "",
    "title": "השחקן שהתאהב בדוגמנית: \"אמרה לי שהיא בוט איראני\""
   },
+  "https://www.mako.co.il/culture-articles/Article-3f9e2042730a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793692587093,
+   "content_type": "article",
+   "first_seen_ms": 1793692587093,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793692260000,
+   "section": "תרבות tvbee",
+   "title": "זוכה האוסקר הפרו-פלסטיני: \"מקבל הודעות שנאה\""
+  },
   "https://www.mako.co.il/culture-articles/Article-475a928e2b411a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24988,6 +25000,18 @@
    "published_ms": 1792918740000,
    "section": "סלבס",
    "title": "לא שילמה 40 שנה: סטיבי וונדר תובע את האקסית"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-9b00c14ff10a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793692467076,
+   "content_type": "article",
+   "first_seen_ms": 1793692467076,
+   "indexable": true,
+   "indexnow_ms": 1793692467076,
+   "published_ms": 1793692140000,
+   "section": "סלבס",
+   "title": "אחרי הבולען באחוזה שלו - הכוכב טוען: \"אני חסר בית\""
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-9f7387efc0a11a1027.htm": {
    "check_attempts": 1,
@@ -43733,6 +43757,18 @@
    "section": "",
    "title": "ניסיון החיסול - בזמן שבני המשפחה בבית: \"תהיה נקמה קשה\""
   },
+  "https://www.mako.co.il/men-men_news/Article-a4e2d390050a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793692587093,
+   "content_type": "article",
+   "first_seen_ms": 1793692587093,
+   "indexable": true,
+   "indexnow_ms": 1793692587093,
+   "published_ms": 1793692020000,
+   "section": "פלילים",
+   "title": "ההחלטה לגבי גנב ציוד ההגברה של נרצח הנובה"
+  },
   "https://www.mako.co.il/men-men_news/Article-a4f672c274371a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -46575,7 +46611,7 @@
    "indexnow_ms": 1793690066885,
    "published_ms": 1793689920000,
    "section": "",
-   "title": "\"קיבלתי מכות מבן אדם שבכלל לא ראיתי שהגיע. ברחתי\""
+   "title": "\"קיבלתי מכות ממישהו שבכלל לא ראיתי מגיע. ברחתי\""
   },
   "https://www.mako.co.il/music-news/Article-a06545d408771a1026.htm": {
    "check_attempts": 1,
