@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793700449574,
+ "last_run_ms": 1793700749381,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1592,6 +1592,18 @@
    "published_ms": 1793694664000,
    "section": "Fashion Forward",
    "title": "בובה פראית: נועה קירל הצליחה להפתיע אותנו עם שמלת המחוך הזאת"
+  },
+  "https://fashionforward.mako.co.il/news/322750/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793700626682,
+   "content_type": "post",
+   "first_seen_ms": 1793700626682,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "אפשר ללבוש את המכנסיים הטרנדיים האלה גם בחורף"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -40972,6 +40984,18 @@
    "published_ms": 1790443140000,
    "section": "",
    "title": "תקרית חריגה באילת: \"הייתה בהתקף זעם מטורף\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-2a10d1d23d0a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793700626682,
+   "content_type": "article",
+   "first_seen_ms": 1793700626682,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793699940000,
+   "section": "פלילים",
+   "title": "\"אין סיכוי\": ההחלטה לגבי אגם צרפי ושילת חוטה"
   },
   "https://www.mako.co.il/men-men_news/Article-2a1cbf7aa5301a1026.htm": {
    "check_attempts": 1,
