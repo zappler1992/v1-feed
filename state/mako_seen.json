@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793744549375,
+ "last_run_ms": 1793744849375,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -56330,6 +56330,18 @@
    "published_ms": 1791012060000,
    "section": "",
    "title": "צה\"ל ניסה לחסל את מחליפו של סינוואר: \"התוצאות בבדיקה\""
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-ef658230d63a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793744787023,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793744787023,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793737200000,
+   "section": "חדשות",
+   "title": "המודיעין הדרמטי על איראן שישראל הציגה לארה\"ב"
   },
   "https://www.mako.co.il/special-mako-news/Article-00140ef091891a1026.htm": {
    "check_attempts": 1,
