@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793692650200,
+ "last_run_ms": 1793692949220,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -57278,6 +57278,18 @@
    "published_ms": 1792712400000,
    "section": "חדשות",
    "title": "בכירים באיראן טוענים: \"תהיה מערכה עוד לפני הבחירות\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-d6bec5bf500a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-d6bec5bf500a1a1026.htm",
+   "checked_ms": 1793692827119,
+   "content_type": "article",
+   "first_seen_ms": 1793692827119,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793692440000,
+   "section": "חדשות",
+   "title": "הרמז של ליברמן לפני פגישת ראשי הגוש - והקרבות הפנימיים"
   },
   "https://www.mako.co.il/special-mako-news/Article-d7459e0cc7c01a1026.htm": {
    "check_attempts": 1,
