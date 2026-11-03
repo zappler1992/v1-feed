@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793682148922,
+ "last_run_ms": 1793682448944,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -60843,6 +60843,18 @@
    "section": "חופש",
    "title": "עושים צרכים בכל מקום: זה מה שקורה במקום היפה באירופה"
   },
+  "https://www.mako.co.il/travel-news/international/Article-e65afd2f1af91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793682387275,
+   "content_type": "article",
+   "first_seen_ms": 1793682387275,
+   "indexable": true,
+   "indexnow_ms": 1793682387275,
+   "published_ms": 1793679480000,
+   "section": "חופש",
+   "title": "שיא של 10 שנים: זו הסיבה שהטיסות יקרות מתמיד"
+  },
   "https://www.mako.co.il/travel-news/international/Article-e8dc26a7f8dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -61910,6 +61922,18 @@
    "published_ms": 1791439380000,
    "section": "חופש",
    "title": "זול, יפה וקרוב: היעד שהכי משתלם לנחות בו עכשיו"
+  },
+  "https://www.mako.co.il/travel-world/Article-63a91f5cf9d91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793682387275,
+   "content_type": "article",
+   "first_seen_ms": 1793682387275,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793681880000,
+   "section": "חופש",
+   "title": "לא הרבה מכירים את האירוע הכי מטורף שמתקיים באירופה"
   },
   "https://www.mako.co.il/travel-world/Article-6406632f5ae31a1027.htm": {
    "check_attempts": 1,
