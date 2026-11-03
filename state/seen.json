@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-a2e287c2090a1a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-b20187c2090a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7040,7 +7040,9 @@
    "image": "https://img.mako.co.il/2026/11/03/inbalma031126m_1400_1793692662700_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793692669000,
-   "sections": [],
+   "sections": [
+    "סלבס"
+   ],
    "title": "אחרי 14 שנות נישואים: כוכבת הרשת הישראלית מתגרשת בעקבות בגידה",
    "type": "general",
    "updated_ms": 1793692669000,
@@ -7272,6 +7274,22 @@
    "updated_ms": 1793612640000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-aef7e138fe791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/gunfix/gunfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-b20187c2090a1a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "עומר אדם נכנס לעולם העסקים והופך לאחד הבעלים של רשת מועדוני זאפה. יחד עם חברת \nארומה מיוזיק רכש 40.05% מהרשת, והשניים יובילו את ניהולה ואת תוכניות ההתרחבות שלה.",
+   "duration_s": 27,
+   "first_seen_ms": 1793696546436,
+   "image": "https://img.mako.co.il/2026/11/03/Kim_OmerAdam_03112026_1400_1793695502431_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793695509000,
+   "sections": [],
+   "title": "עומר אדם נכנס כשותף בזאפה - ורוכש 40% מהרשת",
+   "type": "general",
+   "updated_ms": 1793695509000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-b20187c2090a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/Kim_OmerAdam_03112026/MASTER/Kim_OmerAdam_03112026/Kim_OmerAdam_03112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-newsflash/2026-m07_w01/shorts-c90e1f2914c1f91027.htm": {
    "author": "סלבס",
