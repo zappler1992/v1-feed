@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793682748955,
+ "last_run_ms": 1793683049054,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -55226,6 +55226,18 @@
    "published_ms": 1793603880000,
    "section": "",
    "title": "פעיל הימין לאיזנקוט: \"בוגד, רצחת את הבן שלך\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-16e0508d24f91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793682867319,
+   "content_type": "article",
+   "first_seen_ms": 1793682867319,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793677620000,
+   "section": "חדשות",
+   "title": "סוף לתעלומת הריח החריף בראשון לציון: \"מצאנו את המקור\""
   },
   "https://www.mako.co.il/special-mako-news/Article-16f92cb5f5f81a1026.htm": {
    "check_attempts": 1,
