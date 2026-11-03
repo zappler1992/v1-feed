@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793706764516,
+ "last_run_ms": 1793707048689,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -44525,6 +44525,18 @@
    "section": "פלילים",
    "title": "חייל צה\"ל חשוד ברצח בצפון בחודש שעבר"
   },
+  "https://www.mako.co.il/men-men_news/Article-b5c53f7c521a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793706867120,
+   "content_type": "article",
+   "first_seen_ms": 1793706867120,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793705640000,
+   "section": "פלילים",
+   "title": "דקות אחרי הקטטה ההמונית הגיעה נקמה אלימה"
+  },
   "https://www.mako.co.il/men-men_news/Article-b5da53f5447f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51519,7 +51531,7 @@
    "indexnow_ms": 1793703626882,
    "published_ms": 1793703600000,
    "section": "דיגיטל",
-   "title": "חברת ההייטק שהכי טוב לעבוד בה, וזו שצנחה 32 מקומות"
+   "title": "החברה שהכי טוב לעבוד בה, וזו שצנחה 32 מקומות"
   },
   "https://www.mako.co.il/nexter-news/Article-a3f41428b0271a1026.htm": {
    "check_attempts": 1,
