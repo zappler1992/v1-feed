@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793684549076,
+ "last_run_ms": 1793684848942,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -31181,6 +31181,18 @@
    "section": "בריאות",
    "title": "\"נשענתי על המעקה, והבנתי שמשהו קורה\""
   },
+  "https://www.mako.co.il/health-news/Article-0e3d872b9c771a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793684787464,
+   "content_type": "article",
+   "first_seen_ms": 1793684787464,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793684580000,
+   "section": "בריאות",
+   "title": "האם טבליות למדיח מכילות חומרים מסרטנים?"
+  },
   "https://www.mako.co.il/health-news/Article-110bd36df8261a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31516,6 +31528,18 @@
    "published_ms": 1790148540000,
    "section": "בריאות",
    "title": "\"לא דמיינתי, חשבתי שמדובר בפריחה או אלרגיה\""
+  },
+  "https://www.mako.co.il/health-news/Article-3edec9e0edf91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793684848942,
+   "content_type": "article",
+   "first_seen_ms": 1793684848942,
+   "indexable": true,
+   "indexnow_ms": 1793684848942,
+   "published_ms": 1793684640000,
+   "section": "",
+   "title": "סוף לתעלומת הריח החריף בראשון לציון: \"מצאנו את המקור\""
   },
   "https://www.mako.co.il/health-news/Article-4259a54c1aa21a1026.htm": {
    "check_attempts": 1,
