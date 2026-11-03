@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793707648594,
+ "last_run_ms": 1793707948664,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -50199,7 +50199,7 @@
    "indexnow_ms": null,
    "published_ms": 1793282220000,
    "section": "דיגיטל",
-   "title": "בדקנו את האייפון המתקפל: שווה 8,000 שקל?"
+   "title": "המחיר שלו מגיע עד 14 אלף שקל. בדקנו אם זה שווה את זה"
   },
   "https://www.mako.co.il/nexter-guide/Article-485fe778a8e31a1027.htm": {
    "check_attempts": 1,
@@ -53380,6 +53380,18 @@
    "published_ms": 1791895080000,
    "section": "צבא וביטחון",
    "title": "אחרי שנים: מה שעומד לקרות לכוח האו\"ם בדרום לבנון"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-196d5ef5f01a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793707827205,
+   "content_type": "article",
+   "first_seen_ms": 1793707827205,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793703840000,
+   "section": "צבא וביטחון",
+   "title": "סימן לבאות? התשתית המבוצרת שצה\"ל מרחיב בצפון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1a3367d586b11a1027.htm": {
    "check_attempts": 1,
@@ -62378,6 +62390,18 @@
    "published_ms": 1791801300000,
    "section": "",
    "title": "ברגע האחרון: החברה מבטלת את קו הטיסות"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-db658e9a521a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793707827205,
+   "content_type": "article",
+   "first_seen_ms": 1793707827205,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793705820000,
+   "section": "חופש",
+   "title": "טס לחופשה בתאילנד - והציל חיי נוסע ישראלי"
   },
   "https://www.mako.co.il/travel-news/israel/Article-dfb970f88b501a1026.htm": {
    "check_attempts": 1,
