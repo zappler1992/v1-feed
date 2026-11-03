@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793709148647,
+ "last_run_ms": 1793709448722,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1613,7 +1613,7 @@
    "first_seen_ms": 1793708787292,
    "indexable": true,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793708203000,
    "section": "אופנה",
    "title": "בגיל 56: קלאודיה שיפר מצטלמת טופלס ונראית פשוט מדהים"
   },
@@ -19384,6 +19384,18 @@
    "published_ms": 1792989180000,
    "section": "ספורט",
    "title": "\"ריאל שיתקה את בארסה, אמבפה הוריד לקרקע\""
+  },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-84b74637d51a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793709448722,
+   "content_type": "article",
+   "first_seen_ms": 1793709448722,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793709300000,
+   "section": "ספורט",
+   "title": "רשמית: גורן בסגל ברצלונה לאסטון וילה"
   },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-93c78e66ab961a1026.htm": {
    "check_attempts": 1,
@@ -59822,6 +59834,18 @@
    "published_ms": 1790154180000,
    "section": "חופש",
    "title": "\"המוכר ביקש סליחה, העברנו את המסר\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-0c7d4637d51a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793709267332,
+   "content_type": "article",
+   "first_seen_ms": 1793709267332,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793708820000,
+   "section": "",
+   "title": "מטוס למשלחת לפולין עם תלמידים יהודים ביצע נחיתת חירום"
   },
   "https://www.mako.co.il/travel-news/international/Article-0cee36b104dc0a1027.htm": {
    "check_attempts": 1,
