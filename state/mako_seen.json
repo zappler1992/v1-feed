@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793716349012,
+ "last_run_ms": 1793716649052,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -52852,6 +52852,18 @@
    "published_ms": 1790737200000,
    "section": "הכי חם",
    "title": "מאנחל בונני ועד אסי כהן: הסרטים בפסטיבל הגאה"
+  },
+  "https://www.mako.co.il/pride-culture/Article-c4761d999b1a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793716586780,
+   "content_type": "article",
+   "first_seen_ms": 1793716586780,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793713980000,
+   "section": "גאווה",
+   "title": "המחאה נגד הסדרה של \"הארי פוטר\" מגיעה לשיא"
   },
   "https://www.mako.co.il/pride-culture/Article-d8db21e10fc80a1027.htm": {
    "check_attempts": 1,
