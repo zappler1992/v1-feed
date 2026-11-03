@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793721149278,
+ "last_run_ms": 1793721449155,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42281,6 +42281,18 @@
    "section": "פלילים",
    "title": "נתפס בתום מרדף: הטעות שעשה מזוהה עם המוסלים"
   },
+  "https://www.mako.co.il/men-men_news/Article-50408fac891a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793721266992,
+   "content_type": "article",
+   "first_seen_ms": 1793721266992,
+   "indexable": true,
+   "indexnow_ms": 1793721266992,
+   "published_ms": 1793721060000,
+   "section": "",
+   "title": "כך נחשפו הזוועות בגן הילדים: \"הסייעות ערבבו אותנו\""
+  },
   "https://www.mako.co.il/men-men_news/Article-50d65b344c8c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -54459,7 +54471,7 @@
    "indexnow_ms": null,
    "published_ms": 1793712360000,
    "section": "",
-   "title": "עצירת הסיוע לישראל: ההפתעה בצה\"ל - והמשמעות"
+   "title": "דברי טראמפ על הסיוע - וההפתעה בצה\"ל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-6fe5c69ef9fc0a1027.htm": {
    "check_attempts": 1,
@@ -57266,6 +57278,18 @@
    "published_ms": 1790186940000,
    "section": "",
    "title": "לחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-8adcf9b0ad1a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-8adcf9b0ad1a1a1027.htm",
+   "checked_ms": 1793721266992,
+   "content_type": "article",
+   "first_seen_ms": 1793721266992,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793720040000,
+   "section": "",
+   "title": "המשמעות האמיתית של הפסקת הסיוע האמריקאי לישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-8b49d3efdc691a1026.htm": {
    "check_attempts": 1,
@@ -65714,6 +65738,18 @@
    "published_ms": 1792241040000,
    "section": "",
    "title": "\"יש דימוי של דוגמנית, ופתאום אתה מגלה בחורה חדה\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-6bcef9b0ad1a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793721449155,
+   "content_type": "article",
+   "first_seen_ms": 1793721449155,
+   "indexable": true,
+   "indexnow_ms": 1793721449155,
+   "published_ms": 1793716740000,
+   "section": "",
+   "title": "\"תלוי באיזה גיל הם, לרוב אני יודעת\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-6d3310fb2f2d0a1027.htm": {
    "check_attempts": 1,
