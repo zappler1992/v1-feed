@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793725049238,
+ "last_run_ms": 1793725349423,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -39747,7 +39747,7 @@
    "indexnow_ms": null,
    "published_ms": 1793712420000,
    "section": "",
-   "title": "אגוסטין על העבודה עם קירל"
+   "title": "\"היה קושי\": אגוסטין על העבודה עם קירל"
   },
   "https://www.mako.co.il/makoz-news/Article-165c545922e51a1026.htm": {
    "check_attempts": 1,
@@ -43012,6 +43012,18 @@
    "published_ms": 1792608420000,
    "section": "",
    "title": "ניסו לחסל משפיענית רשת - בגלל התוכן שהעלתה"
+  },
+  "https://www.mako.co.il/men-men_news/Article-6e85c971832a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793725227163,
+   "content_type": "article",
+   "first_seen_ms": 1793725227163,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793724540000,
+   "section": "חדשות",
+   "title": "הפשיעה בדרום: ההאמר הצה\"לי הגנוב אותר במפעל"
   },
   "https://www.mako.co.il/men-men_news/Article-6ed2bed3c2d81a1027.htm": {
    "check_attempts": 1,
