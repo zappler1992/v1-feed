@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793732249255,
+ "last_run_ms": 1793732549313,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -11790,6 +11790,18 @@
    "published_ms": 1792651860000,
    "section": "ספורט",
    "title": "זוארץ שלח התראה לפני תביעה לפריג`"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-3fd298291c2a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793732549313,
+   "content_type": "article",
+   "first_seen_ms": 1793732549313,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793732400000,
+   "section": "ספורט",
+   "title": "שתי גרסאות: פרטים חדשים מפרשת הכדורגלן"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-4021bed3c2d81a1027.htm": {
    "check_attempts": 1,
@@ -57734,6 +57746,18 @@
    "published_ms": 1790360160000,
    "section": "",
    "title": "עסקת המיליארדים עם סעודיה - והחשש בארצות הברית"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-aea31ce69e1a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-aea31ce69e1a1a1026.htm",
+   "checked_ms": 1793732427474,
+   "content_type": "article",
+   "first_seen_ms": 1793732427474,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793731500000,
+   "section": "",
+   "title": "התוצאה שעלולה להוביל לשינוי דרמטי ביחס של ארה\"ב לישראל"
   },
   "https://www.mako.co.il/special-mako-news/Article-b00ecee5335e0a1027.htm": {
    "check_attempts": 1,
