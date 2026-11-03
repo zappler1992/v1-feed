@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-fa41e282442a1a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-03T16:44:32+00:00</news:publication_date>
+<news:title>איזנקוט: &quot;נפעל במהירות באפשרית כדי למנוע בחירות&quot;</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/03/M_NEWS_18691_03112026044242_1400_1793724265283_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c329c971832a1a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2015,14 +2024,5 @@
 <news:title>מגלה לחברה שבעלה בוגד בה - או לא?</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/01/NOAB_ADI_OR_BIGDA2_261026_M_1400_1793551864330_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-11-01T16:42:58+00:00</news:publication_date>
-<news:title>בשל סכנה לחיי אדם: הישיבה שנסגרה בצפת</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/01/SHIRA_YESHIBA_011126_M_1400_1793551371869_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
