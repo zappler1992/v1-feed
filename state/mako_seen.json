@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793706148590,
+ "last_run_ms": 1793706449640,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25889,6 +25889,18 @@
    "section": "",
    "title": "50% הנחה או עבודה בעיניים? כך תזהו מבצע באמת"
   },
+  "https://www.mako.co.il/finances-consumer/Article-0d2f86e3331a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793706267081,
+   "content_type": "article",
+   "first_seen_ms": 1793706267081,
+   "indexable": true,
+   "indexnow_ms": 1793706267081,
+   "published_ms": 1793705880000,
+   "section": "כסף",
+   "title": "יעלו את מחירים? המשבר בזארה הולך וגדל"
+  },
   "https://www.mako.co.il/finances-consumer/Article-109cc58dff391a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -50549,6 +50561,18 @@
    "section": "דיגיטל",
    "title": "רק בגלל פוסט: הצעירה האיראנית שתוצא להורג"
   },
+  "https://www.mako.co.il/nexter-news/Article-2b81102aaf0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793706267081,
+   "content_type": "article",
+   "first_seen_ms": 1793706267081,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793705760000,
+   "section": "דיגיטל",
+   "title": "בלי האייפון 18 הרגיל: הרווח המטורף של אפל"
+  },
   "https://www.mako.co.il/nexter-news/Article-2bee9ddc0f271a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -60146,6 +60170,18 @@
    "published_ms": 1790141760000,
    "section": "חופש",
    "title": "עולם אחר: הגענו לאי הפרטי שכולם מדברים עליו כרגע"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-46b9102aaf0a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793706267081,
+   "content_type": "article",
+   "first_seen_ms": 1793706267081,
+   "indexable": true,
+   "indexnow_ms": 1793706267081,
+   "published_ms": 1793705040000,
+   "section": "חופש",
+   "title": "\"חברת התעופה לא אישרה לו לעלות למטוס\""
   },
   "https://www.mako.co.il/travel-news/international/Article-46bde56ae8f31a1026.htm": {
    "check_attempts": 1,
