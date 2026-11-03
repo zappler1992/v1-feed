@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793708427262,
+ "last_run_ms": 1793708848737,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1604,6 +1604,18 @@
    "published_ms": 1793700429000,
    "section": "אופנה",
    "title": "אתי קובו מבהירה: אפשר ללבוש את המכנסיים הטרנדיים האלה גם בחורף"
+  },
+  "https://fashionforward.mako.co.il/news/322768/": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793708787292,
+   "content_type": "post",
+   "first_seen_ms": 1793708787292,
+   "indexable": true,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "בגיל 56: קלאודיה שיפר מצטלמת טופלס ונראית פשוט מדהים"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -11789,7 +11801,7 @@
    "indexnow_ms": null,
    "published_ms": 1793706600000,
    "section": "ספורט",
-   "title": "אלון יפת: \"דקל צינו לא במצב לשפוט כרגע\""
+   "title": "אלו השופטים שלא משובצים לקבוצות ספציפיות"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-41b0a69925951a1026.htm": {
    "check_attempts": 1,
@@ -29777,6 +29789,18 @@
    "section": "",
    "title": "רוצים לארח ערב הנד רולס? ככה עושים את זה בבית"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-28fa4db5fab91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793708787292,
+   "content_type": "recipe",
+   "first_seen_ms": 1793708787292,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793692800000,
+   "section": "",
+   "title": "הקוקטייל הקלאסי האהוב - ב-3 מרכיבים בלבד"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-beverages/Recipe-d54bfa525f851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45173,6 +45197,18 @@
    "section": "פלילים",
    "title": "אחרי שצפו בסרטוני התעללות מהמעון: הצעד של המשטרה"
   },
+  "https://www.mako.co.il/men-men_news/Article-d10d6a3be41a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793708667283,
+   "content_type": "article",
+   "first_seen_ms": 1793708667283,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793707980000,
+   "section": "פלילים",
+   "title": "10 שנים בכלא לדוד שאנס את אחייניתו בת ה-6"
+  },
   "https://www.mako.co.il/men-men_news/Article-d168cc3499931a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -52360,6 +52396,18 @@
    "published_ms": 1790485200000,
    "section": "הכי חם",
    "title": "פותחים עונה - השמות הכי יפים ומיוחדים לסתיו"
+  },
+  "https://www.mako.co.il/ninemonth-baby_names/articles/Article-7318b468e41a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793708667283,
+   "content_type": "article",
+   "first_seen_ms": 1793708667283,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793707380000,
+   "section": "הורים",
+   "title": "שם מכוכב אחר: השמות שקשורים לשמיים ולכוכבים"
   },
   "https://www.mako.co.il/ninemonth-baby_names/articles/Article-7e88f70b40d51a1026.htm": {
    "check_attempts": 1,
