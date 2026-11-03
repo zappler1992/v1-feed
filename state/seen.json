@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b23efd2f1af91a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-da91c9e0edf91a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-73d9094cdef91a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde62e842df91a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22535,6 +22537,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-73a06d82c1691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_MakoZ_18526_01112026080219/M_MakoZ_18526_01112026080219_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-73d9094cdef91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "בינתיים בברלין: פרמיירת \"משחקי הרעב: זריחה על האסיף\", והשמלה האדירה של מקנה גרייס",
+   "duration_s": 20,
+   "first_seen_ms": 1793685146150,
+   "image": "https://img.mako.co.il/2026/11/03/M_Tarbut_18645_03112026054212_1400_1793684605202_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793684612000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "בינתיים בברלין: פרמיירת \"משחקי הרעב: זריחה על האסיף\", והשמלה האדירה של מקנה גרייס",
+   "type": "mivzakim",
+   "updated_ms": 1793684612000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-73d9094cdef91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18645_03112026054212/M_Tarbut_18645_03112026054212_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-764bf47c76b91a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23148,6 +23168,24 @@
    "updated_ms": 1793634290000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fce043067ec91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18621_02112026034323/M_Celebs_18621_02112026034323_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde62e842df91a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "אבל עם כל הכבוד לגלן הכפולה, מי שגנבה את ההצגה היא כמובן הכוכבת הגדולה של הסדרה - קים קרדשיאן",
+   "duration_s": 14,
+   "first_seen_ms": 1793685146150,
+   "image": "https://img.mako.co.il/2026/11/03/M_Tarbut_18644_03112026054007_1400_1793684490050_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793684496000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "אבל עם כל הכבוד לגלן הכפולה, מי שגנבה את ההצגה היא כמובן הכוכבת הגדולה של הסדרה - קים קרדשיאן",
+   "type": "mivzakim",
+   "updated_ms": 1793684496000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde62e842df91a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18644_03112026054007/M_Tarbut_18644_03112026054007_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde96b30e3b91a1026.htm": {
    "author": "עדכוני בידור",
@@ -101607,6 +101645,24 @@
    "updated_ms": 1793602095000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d6e391c28fa91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_rishon_8064_02112026064710/V1_rishon_8064_02112026064710_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-da91c9e0edf91a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אלו הכותרות החשובות של הבוקר",
+   "duration_s": 57,
+   "first_seen_ms": 1793685146150,
+   "image": "https://img.mako.co.il/2026/11/03/V1_Kotarot_031126_8092_03112026054628_1400_1793684887503_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793684894000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אלו הכותרות החשובות של הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1793684894000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-da91c9e0edf91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_Kotarot_031126_8092_03112026054628/V1_Kotarot_031126_8092_03112026054628_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e1cc535808791a1027.htm": {
    "author": "מבזקים",

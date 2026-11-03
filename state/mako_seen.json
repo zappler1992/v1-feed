@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793684848942,
+ "last_run_ms": 1793685149003,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3956,6 +3956,18 @@
    "published_ms": 1792927740000,
    "section": "ספורט",
    "title": "לא בתוכניות? המצב המסובך של וולף ושרף"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-c552c9e0edf91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793685149003,
+   "content_type": "article",
+   "first_seen_ms": 1793685149003,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793684820000,
+   "section": "ספורט",
+   "title": "\"דני בדרך הבטוחה להופעה שנייה באולסטאר\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-c70f643c04601a1026.htm": {
    "check_attempts": 1,
