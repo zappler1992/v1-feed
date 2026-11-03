@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-724e5019172a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f5ac5019172a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a4e5b219a62a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ef305019172a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -101853,14 +101851,14 @@
    "duration_s": 15,
    "first_seen_ms": 1793726846133,
    "image": "https://img.mako.co.il/2026/11/03/V1_YELADIMM_8109_03112026052120_1400_1793726560588_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 2,
    "published_ms": 1793726567000,
    "sections": [
     "מבזקים"
    ],
    "title": "החשד לחפץ חשוד בספינת \"מנו ספנות\": הישראלים המבוהלים מפונים מהסיפון | תיעוד",
    "type": "mivzakim",
-   "updated_ms": 1793726567000,
+   "updated_ms": 1793727600000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-561fb219a62a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_YELADIMM_8109_03112026052120/V1_YELADIMM_8109_03112026052120_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -103093,6 +103091,24 @@
    "updated_ms": 1793623740000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_darommessage_8069_02112026124141/V1_darommessage_8069_02112026124141_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ef305019172a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "\"הולכים, אלוהים יודע לאן\": תיעוד של ספינת \"מנו ספנות\" שמעוכבת ביוון - בגלל החשד לפצצה",
+   "duration_s": 14,
+   "first_seen_ms": 1793727746120,
+   "image": "https://img.mako.co.il/2026/11/03/V1_YAVAN_8111_03112026053636_1400_1793727473729_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793727480000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "\"הולכים, אלוהים יודע לאן\": תיעוד של ספינת \"מנו ספנות\" שמעוכבת ביוון - בגלל החשד לפצצה",
+   "type": "mivzakim",
+   "updated_ms": 1793727480000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ef305019172a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_YAVAN_8111_03112026053636/V1_YAVAN_8111_03112026053636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f09d1dcad2591a1026.htm": {
    "author": "מבזקים",
