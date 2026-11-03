@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793695049249,
+ "last_run_ms": 1793695349242,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25684,6 +25684,18 @@
    "published_ms": 1791483420000,
    "section": "סלבס",
    "title": "הנסיך הארי חושף לראשונה: \"שקעתי בדיכאון, לא תפקדתי\""
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-fe3605c4050a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793695349242,
+   "content_type": "article",
+   "first_seen_ms": 1793695349242,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793694000000,
+   "section": "סלבס",
+   "title": "\"היא נראית כמו תוצר של נישואי קרובים\""
   },
   "https://www.mako.co.il/entertainment-celebs/world/Article-76af3e6f10e31a1026.htm": {
    "check_attempts": 1,
