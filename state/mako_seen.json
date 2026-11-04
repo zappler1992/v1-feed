@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793794349358,
+ "last_run_ms": 1793794649357,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -42867,6 +42867,18 @@
    "section": "פלילים",
    "title": "חשד: הקשר בין רצח הנער באשקלון - לרצח מיתר ביטון ז\"ל"
   },
+  "https://www.mako.co.il/men-men_news/Article-49317647f66a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793794587536,
+   "content_type": "article",
+   "first_seen_ms": 1793794587536,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793794440000,
+   "section": "פלילים",
+   "title": "\"טלטלו, קשירו וחנקו תינוקות עד אובדן הכרה\""
+  },
   "https://www.mako.co.il/men-men_news/Article-4956be8fa57e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -51986,6 +51998,18 @@
    "published_ms": 1790074800000,
    "section": "דיגיטל",
    "title": "עשו אקזיט: כ-80 עובדים בארץ יהפכו למיליונרים"
+  },
+  "https://www.mako.co.il/nexter-news/Article-3b5006f3c36a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793794467543,
+   "content_type": "article",
+   "first_seen_ms": 1793794467543,
+   "indexable": true,
+   "indexnow_ms": 1793794467543,
+   "published_ms": 1793794080000,
+   "section": "דיגיטל",
+   "title": "מחכים לאייפון 18? יש בשורה טובה ורעה"
   },
   "https://www.mako.co.il/nexter-news/Article-3c902cc5f32f0a1027.htm": {
    "check_attempts": 1,
