@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793765249985,
+ "last_run_ms": 1793765550191,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -34612,6 +34612,18 @@
    "published_ms": 1792551600000,
    "section": "",
    "title": "המקומות שבהם צפוי היום גשם - והמהפך הגדול בסופ\"ש"
+  },
+  "https://www.mako.co.il/hix-nature/Article-95451178431a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793765550191,
+   "content_type": "article",
+   "first_seen_ms": 1793765550191,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793764800000,
+   "section": "",
+   "title": "הטמפרטורות יורדות, זה היום שבו הגשם יחזור"
   },
   "https://www.mako.co.il/hix-nature/Article-a53a11f9547f0a1026.htm": {
    "check_attempts": 1,
