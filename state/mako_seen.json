@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793792849596,
+ "last_run_ms": 1793793149231,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36603,6 +36603,18 @@
    "section": "HIX",
    "title": "\"כשאתם מגיעים לאושוויץ, תביאו אוכל ושתייה\""
   },
+  "https://www.mako.co.il/hix-special/Article-b211079f556a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793793027505,
+   "content_type": "article",
+   "first_seen_ms": 1793793027505,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793792640000,
+   "section": "HIX",
+   "title": "יוזף פריצל שוב ביקש להשתחרר מוקדם, ושוב נדחה"
+  },
   "https://www.mako.co.il/hix-special/Article-b28a6bed11381a1027.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -62808,6 +62820,18 @@
    "published_ms": 1792482120000,
    "section": "חופש",
    "title": "\"חצו קו אדום\": ההתפרעויות הגיעו למדינה נוספת באירופה"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-be9d06f3c36a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793793149231,
+   "content_type": "article",
+   "first_seen_ms": 1793793149231,
+   "indexable": true,
+   "indexnow_ms": 1793793149231,
+   "published_ms": 1793791860000,
+   "section": "חופש",
+   "title": "עוד טיסות מהארץ: הביקוש ליעד הזה ממשיך לעלות"
   },
   "https://www.mako.co.il/travel-news/international/Article-bfe6261845e31a1027.htm": {
    "check_attempts": 1,
