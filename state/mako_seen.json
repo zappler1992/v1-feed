@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793777548809,
+ "last_run_ms": 1793777849089,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -55852,6 +55852,18 @@
    "published_ms": 1792174920000,
    "section": "",
    "title": "במערכת הביטחון מתייחסים לאפשרות של מלחמה לפני הבחירות"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-d4bf6960181a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793777787385,
+   "content_type": "article",
+   "first_seen_ms": 1793777787385,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793777700000,
+   "section": "",
+   "title": "אצבע בעין של פוטין: שיתוף הפעולה החריג באירופה"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-d4cc229f8cb01a1027.htm": {
    "check_attempts": 1,
