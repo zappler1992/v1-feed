@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793783550518,
+ "last_run_ms": 1793783849240,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12090,6 +12090,18 @@
    "published_ms": 1791968220000,
    "section": "ספורט",
    "title": "ג`ובאני רוסו: הכדורגלנים הישראלים קמצנים"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-54500faa0d5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793783786926,
+   "content_type": "article",
+   "first_seen_ms": 1793783786926,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793783460000,
+   "section": "ספורט",
+   "title": "לאחר הרחקות כהן ומוזי: המסר שקיבלה בית\"ר"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-5491ab2789391a1026.htm": {
    "check_attempts": 1,
@@ -52852,6 +52864,18 @@
    "published_ms": 1792562700000,
    "section": "דיגיטל",
    "title": "התפתחות בתביעה של אחותו של אלטמן על התעללות מינית"
+  },
+  "https://www.mako.co.il/nexter-news/Article-d1c4594b3c5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793783666907,
+   "content_type": "article",
+   "first_seen_ms": 1793783666907,
+   "indexable": true,
+   "indexnow_ms": 1793783666907,
+   "published_ms": 1793783040000,
+   "section": "דיגיטל",
+   "title": "החברה הישראלית נסגרת אחרי 9 שנים, עשרות יפוטרו"
   },
   "https://www.mako.co.il/nexter-news/Article-d3de1ceb81a21a1026.htm": {
    "check_attempts": 1,
