@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793825849598,
+ "last_run_ms": 1793826149570,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -8300,6 +8300,18 @@
    "published_ms": 1791870600000,
    "section": "ספורט",
    "title": "\"הצבנו אתגר\": השינוי בדקות המשחק של דני"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-f83a082ba58a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793826149570,
+   "content_type": "article",
+   "first_seen_ms": 1793826149570,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793825820000,
+   "section": "ספורט",
+   "title": "\"המאצ`אפ הכי קשה\": התלות של פורטלנד בדני"
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-f8ff815a61c21a1026.htm": {
    "check_attempts": 1,
