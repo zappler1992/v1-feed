@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793812049302,
+ "last_run_ms": 1793812350265,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -57181,7 +57181,7 @@
    "indexnow_ms": 1793807426927,
    "published_ms": 1793806980000,
    "section": "",
-   "title": "מידע חדש: הסימנים שהתקבלו לפני טבח 7 באוקטובר"
+   "title": "הסימנים שהתקבלו לפני טבח 7 באוקטובר"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-ffda2506f5d01a1027.htm": {
    "check_attempts": 1,
@@ -57708,6 +57708,18 @@
    "published_ms": 1790626320000,
    "section": "",
    "title": "נתניהו חושף את הסיבה לביקור באמירויות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-09e459ebb37a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-09e459ebb37a1a1026.htm",
+   "checked_ms": 1793812350265,
+   "content_type": "article",
+   "first_seen_ms": 1793812350265,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793812200000,
+   "section": "",
+   "title": "ואנס: \"המצביעים שנטשו רוצים שנשנה את היחסים עם ישראל\""
   },
   "https://www.mako.co.il/special-mako-news/Article-0ae92ca33f7e0a1026.htm": {
    "check_attempts": 1,
