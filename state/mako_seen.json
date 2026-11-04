@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793804565506,
+ "last_run_ms": 1793804849181,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -57492,6 +57492,18 @@
    "published_ms": 1793426700000,
    "section": "",
    "title": "האיתות של עבאס - והלחץ של נתניהו על גוש השינוי"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-01fd3ccc807a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-01fd3ccc807a1a1026.htm",
+   "checked_ms": 1793804786790,
+   "content_type": "article",
+   "first_seen_ms": 1793804786790,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793804100000,
+   "section": "",
+   "title": "אירוע ביטחוני חריג בבית הנשיא: \"חבלנים הוזעקו\""
   },
   "https://www.mako.co.il/special-mako-news/Article-0247930eb4291a1026.htm": {
    "check_attempts": 1,
