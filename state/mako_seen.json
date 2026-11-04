@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793793149231,
+ "last_run_ms": 1793793450775,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -12388,6 +12388,18 @@
    "published_ms": 1791690660000,
    "section": "ספורט",
    "title": "\"ויקטור טוב מאוד, ויכול להיות מצוין\""
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-6115e74fc56a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793793387701,
+   "content_type": "article",
+   "first_seen_ms": 1793793387701,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793793300000,
+   "section": "ספורט",
+   "title": "כך ב\"ש פספסה את החלוץ שלוהט בצ`מפיונס"
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-612b480c51b91a1027.htm": {
    "check_attempts": 1,
@@ -63755,7 +63767,7 @@
    "indexnow_ms": 1793781027629,
    "published_ms": 1793779800000,
    "section": "חופש",
-   "title": "הפרק הישראלי שנכנס לרשימת 100 היפים בעולם"
+   "title": "כאן בארץ: הפארק שנכנס לרשימת 100 היפים בעולם"
   },
   "https://www.mako.co.il/travel-news/israel/Article-92f08765a7171a1027.htm": {
    "check_attempts": 1,

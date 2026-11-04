@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-47d7079f556a1a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-5273e74fc56a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-da22e74fc56a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23764,6 +23765,24 @@
    "updated_ms": 1793543668000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d990535808791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18551_01112026023306/M_Tarbut_18551_01112026023306_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-da22e74fc56a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"אל תקחו חלק בחרא הזה\": ליעד מאיר נכנס במעריצים הצעירים בעקבות טרנד הסרטונים האלימים בטיקטוק",
+   "duration_s": 186,
+   "first_seen_ms": 1793793446339,
+   "image": "https://img.mako.co.il/2026/11/04/M_Music_18746_04112026114901_1400_1793793073391_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793793080000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"אל תקחו חלק בחרא הזה\": ליעד מאיר נכנס במעריצים הצעירים בעקבות טרנד הסרטונים האלימים בטיקטוק",
+   "type": "mivzakim",
+   "updated_ms": 1793793080000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-da22e74fc56a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18746_04112026114901/M_Music_18746_04112026114901_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-dbf29e20d8591a1026.htm": {
    "author": "עדכוני בידור",
@@ -132382,6 +132401,24 @@
    "updated_ms": 1793657100000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-4e1c2eb62fd91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_CAR_8085_02112026083423/V1_CAR_8085_02112026083423_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-5273e74fc56a1a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הפלאפון מתחיל להעלות עשן - ותוך רגע עולה באש בידיו של גבר בהודו | צפו ברגע המבהיל",
+   "duration_s": 25,
+   "first_seen_ms": 1793793446339,
+   "image": "https://img.mako.co.il/2026/11/04/V1_karind_india_8144_04112026115112_1400_1793793152310_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793793159000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הפלאפון מתחיל להעלות עשן - ותוך רגע עולה באש בידיו של גבר בהודו | צפו ברגע המבהיל",
+   "type": "mivzakim",
+   "updated_ms": 1793793159000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-5273e74fc56a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_karind_india_8144_04112026115112/V1_karind_india_8144_04112026115112_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-5e33b862af2a1a1026.htm": {
    "author": "מבזקים מהעולם",
