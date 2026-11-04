@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5f777dd67f6a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90843ccc807a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -103409,10 +103409,10 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "חשד לחפץ חשוד בבית הנשיא: עיתונאית זרה עוכבה בגלל התרעה בשיקוף - הנוכחים הונחו להסתגר",
-   "duration_s": 9,
+   "duration_s": 77,
    "first_seen_ms": 1793804246109,
-   "image": "https://img.mako.co.il/2026/11/04/V1_NASI_8151_04112026024838_1400_1793803839718_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/11/04/NASI_FIX_2_1400_1793804411898_FirstFrame.jpg",
+   "importance": 2,
    "published_ms": 1793803846000,
    "sections": [
     "מבזקים"
@@ -103421,7 +103421,7 @@
    "type": "mivzakim",
    "updated_ms": 1793803846000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5f777dd67f6a1a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_NASI_8151_04112026024838/V1_NASI_8151_04112026024838_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NASI_FIX_2/NASI_FIX_2_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5fb8d7e02cd91a1026.htm": {
    "author": "מבזקים",
@@ -104056,6 +104056,24 @@
    "updated_ms": 1793759370000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8ef6cee0f04a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18713_04112026022739/M_NEWS_18713_04112026022739_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90843ccc807a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מבית הנשיא: הרגע שבו פינו את הנוכחים, אחרי החשד לחפץ חשוד ועיכוב העיתונאית הזרה",
+   "duration_s": 11,
+   "first_seen_ms": 1793804546103,
+   "image": "https://img.mako.co.il/2026/11/04/V1_nasi_8152_04112026025435_1400_1793804148804_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793804155000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד מבית הנשיא: הרגע שבו פינו את הנוכחים, אחרי החשד לחפץ חשוד ועיכוב העיתונאית הזרה",
+   "type": "mivzakim",
+   "updated_ms": 1793804155000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90843ccc807a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_nasi_8152_04112026025435/V1_nasi_8152_04112026025435_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90acc14ff10a1a1026.htm": {
    "author": "מבזקים",
