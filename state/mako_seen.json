@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793778150139,
+ "last_run_ms": 1793778449038,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32249,6 +32249,18 @@
    "section": "בריאות",
    "title": "\"חווינו טראומה ואין מי שמספק תשובות\""
   },
+  "https://www.mako.co.il/health-news/Article-37fcf8db56921a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793778387406,
+   "content_type": "article",
+   "first_seen_ms": 1793778387406,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793778060000,
+   "section": "בריאות",
+   "title": "\"הייתי מבועת\": רופא האא\"ג שאיבד את השמיעה"
+  },
   "https://www.mako.co.il/health-news/Article-3917fb8674531a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -45040,6 +45052,18 @@
    "published_ms": 1791446940000,
    "section": "",
    "title": "\"כל הבניין היה על הרגליים, ילדים לא נרדמים בלילות\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-ad35c024375a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793778267422,
+   "content_type": "article",
+   "first_seen_ms": 1793778267422,
+   "indexable": true,
+   "indexnow_ms": 1793778267422,
+   "published_ms": 1793777880000,
+   "section": "פלילים",
+   "title": "בני זוג חשודים: \"הקימו כת וביצעו מעשים מגונים בנשים\""
   },
   "https://www.mako.co.il/men-men_news/Article-ad9ba4bc6fe61a1026.htm": {
    "check_attempts": 1,
@@ -66650,6 +66674,18 @@
    "published_ms": 1792684680000,
    "section": "",
    "title": "שרון גל התפטר מ-i24: זה הערוץ שבו יגיש"
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-8c6a2ea8165a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793778267422,
+   "content_type": "article",
+   "first_seen_ms": 1793778267422,
+   "indexable": true,
+   "indexnow_ms": 1793778267422,
+   "published_ms": 1793777760000,
+   "section": "",
+   "title": "העימות החריג בין אל-סייד לכתב: \"תפסיק לרדוף אחריי\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-8c89fffe5fce0a1026.htm": {
    "check_attempts": 1,

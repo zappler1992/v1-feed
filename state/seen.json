@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d103f23bf55a1a1026.htm",
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-6f08f23bf55a1a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-803e8c0c185a1a1027.htm",
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-3a2f985cb75a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52211,7 +52211,7 @@
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "העולם לא נשאר אדיש לדרמה הפוליטית בארה\"ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון.",
+   "description": "העולם לא נשאר אדיש לדרמה הפוליטית בארה\"ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון",
    "duration_s": 46,
    "first_seen_ms": 1793776945836,
    "image": "https://img.mako.co.il/2026/11/04/yoav_france24_041126_1400_1793776275246_FirstFrame.jpg",
@@ -52220,7 +52220,7 @@
    "sections": [],
    "title": "\"ניצחון לדמוקרטים\": העולם מסקר את המהפך הפוליטי בארה\"ב",
    "type": "news",
-   "updated_ms": 1793776560000,
+   "updated_ms": 1793777940000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_france24_041126/MASTER/yoav_france24_041126/yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -52271,7 +52271,8 @@
    "importance": 2,
    "published_ms": 1793735269000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות"
    ],
    "title": "דאגה במערכת הביטחון: האמירה של רה\"מ על הסיוע האמריקאי",
    "type": "news",
@@ -106219,6 +106220,24 @@
    "url": "https://www.v-1.co.il/recipes-2026/m10_w05/shorts-fd56241de2771a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/10/M_Food_18123_26102026075356/M_Food_18123_26102026075356_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-3a2f985cb75a1a1026.htm": {
+   "author": "יעל קצב",
+   "date_source": "json-publishDate",
+   "description": "כולם מדברים על צ'ילי קריספי, וכמה שהוא משדרג בערך הכל - מחביתה, דרך כריך ועד מרקים ותבשילים. אבל אנחנו? אנחנו לא רק מדברים, אנחנו מכינים שמן צ'ילי קריספי בבית. זה קל ממש, ויוצא אש (ולא רק מהחריפות)",
+   "duration_s": 19,
+   "first_seen_ms": 1793778445883,
+   "image": "https://img.mako.co.il/2026/11/04/M_Food_18734_04112026073919_1400_1793778048244_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793778055000,
+   "sections": [
+    "אוכל ומתכונים"
+   ],
+   "title": "ככה מכינים שמן צ'ילי פריך - טעים יותר מכל אחד שתקנו",
+   "type": "mivzakim",
+   "updated_ms": 1793778055000,
+   "url": "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-3a2f985cb75a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Food_18734_04112026073919/M_Food_18734_04112026073919_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/recipes-2026/m11_w01/shorts-596bd57edfa91a1027.htm": {
    "author": "יעל קצב",
    "date_source": "json-publishDate",
@@ -131951,6 +131970,24 @@
    "updated_ms": 1793514192000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-7da060f8bb591a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_KARIND_HOTEL_8030_01112026062157/V1_KARIND_HOTEL_8030_01112026062157_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-803e8c0c185a1a1027.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הכלב שהחליט לצאת לחופשה: הסתנן לשטח המבצעי בנמל התעופה במאלגה והעסיק את העובדים במרדף שנמשך שעות",
+   "duration_s": 9,
+   "first_seen_ms": 1793778445883,
+   "image": "https://img.mako.co.il/2026/11/04/V1_KARIND_DOG_041126_8133_04112026074340_1400_1793778298564_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793778305000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הכלב שהחליט לצאת לחופשה: הסתנן לשטח המבצעי בנמל התעופה במאלגה והעסיק את העובדים במרדף שנמשך שעות",
+   "type": "mivzakim",
+   "updated_ms": 1793778305000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-803e8c0c185a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_DOG_041126_8133_04112026074340/V1_KARIND_DOG_041126_8133_04112026074340_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-8c596fb26a791a1027.htm": {
    "author": "מבזקים מהעולם",
