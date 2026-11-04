@@ -1,8 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4ddda097bc6a1a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff12a097bc6a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2151a4644e6a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8fbf35db7d6a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23510,6 +23510,24 @@
    "updated_ms": 1793630854000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8c2e42373bc91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18618_02112026024600/M_Tarbut_18618_02112026024600_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8fbf35db7d6a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "\"מקלל אותך כבר מאתמול\": שלום מיכאלשווילי פוגש את בר רפאלי אחרי שחשדה כי הוא מסתתר בתחפושת החמור",
+   "duration_s": 5,
+   "first_seen_ms": 1793802146233,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18760_04112026015729_1400_1793800716191_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793800723000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "\"מקלל אותך כבר מאתמול\": שלום מיכאלשווילי פוגש את בר רפאלי אחרי שחשדה כי הוא מסתתר בתחפושת החמור",
+   "type": "mivzakim",
+   "updated_ms": 1793800723000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8fbf35db7d6a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18760_04112026015729/M_Tarbut_18760_04112026015729_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8fe9ce17713a1a1026.htm": {
    "author": "עדכוני בידור",
@@ -102463,6 +102481,24 @@
    "updated_ms": 1793533149000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-1fce2921cd691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18544_01112026113716/M_NEWS_18544_01112026113716_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2151a4644e6a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "באגרופים ועם אלה: תיעוד קטטה באמצע הכביש באור עקיבא - הרקע פלילי, המשטרה פתחה בחקירה",
+   "duration_s": 23,
+   "first_seen_ms": 1793802146233,
+   "image": "https://img.mako.co.il/2026/11/04/V1_MAKOT_8150_04112026021720_1400_1793801909985_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793801917000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "באגרופים ועם אלה: תיעוד קטטה באמצע הכביש באור עקיבא - הרקע פלילי, המשטרה פתחה בחקירה",
+   "type": "mivzakim",
+   "updated_ms": 1793801917000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2151a4644e6a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_MAKOT_8150_04112026021720/V1_MAKOT_8150_04112026021720_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-219d771285891a1027.htm": {
    "author": "מבזקים",
