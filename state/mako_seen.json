@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793786548833,
+ "last_run_ms": 1793787196722,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41765,6 +41765,18 @@
    "section": "",
    "title": "\"הפעילות שלנו חוקית ואף אחד לא יעצור אותנו\""
   },
+  "https://www.mako.co.il/men-men_news/Article-22e508bc8f5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793786786934,
+   "content_type": "article",
+   "first_seen_ms": 1793786786934,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793786580000,
+   "section": "פלילים",
+   "title": "\"לנתק אותו\": הצעד של המשטרה נגד ראש ארגון הפשע"
+  },
   "https://www.mako.co.il/men-men_news/Article-23e3b68c1dd51a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -61766,6 +61778,18 @@
    "published_ms": 1790759880000,
    "section": "",
    "title": "הדרמה בשחקים: \"זה היה מחבל ולא ריב – תחלצו אותנו מפה\""
+  },
+  "https://www.mako.co.il/travel-news/international/Article-644108bc8f5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793786786934,
+   "content_type": "article",
+   "first_seen_ms": 1793786786934,
+   "indexable": true,
+   "indexnow_ms": 1793786786934,
+   "published_ms": 1793785200000,
+   "section": "חופש",
+   "title": "ישראלים עשו צרכים על כנסייה בחו\"ל - סמוך לגן ילדים"
   },
   "https://www.mako.co.il/travel-news/international/Article-64d40c00a7501a1026.htm": {
    "check_attempts": 1,
