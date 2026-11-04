@@ -1,14 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f1f2c81fde5a1a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c1f2c81fde5a1a1026.htm",
-  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m11_w01/shorts-2c32fd7ca4791a1027.htm",
-  "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-04ad328466c91a1026.htm",
-  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-239187e183d91a1026.htm",
-  "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-77c20fb3475a1a1026.htm",
-  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-58e7594b3c5a1a1027.htm",
-  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-90ca8c67cd5a1a1026.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-2c20c81fde5a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1424,7 +1417,8 @@
    "importance": 1,
    "published_ms": 1793785560000,
    "sections": [
-    "הפרק היומי"
+    "הפרק היומי",
+    "בקצב השקר"
    ],
    "title": "בקצב השקר פרק 28: תקיפה רגע לפני ההופעה",
    "type": "series",
@@ -7186,6 +7180,24 @@
    "updated_ms": 1793699946000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-1100d1d23d0a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/Kim_Grace_03112026/MASTER/Kim_Grace_03112026/Kim_Grace_03112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-2c20c81fde5a1a1026.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "יעל שלביה מספקת הצצה לחיי היוקרה של משפחת בן זוגה, נהג הפורמולה 1 לאנס סטרול. בתמונות ששיתפה מהחופשה הזוגית בקריביים נחשף בית הנופש המפואר של אביו המיליארדר, לורנס סטרול, באי מוסטיק, שנחשב לאחד היעדים האקסקלוסיביים בעולם. ואם תהיתם מי השכנים באי, גם מיק ג'אגר וטומי הילפיגר מחזיקים בו בתי נופש.",
+   "duration_s": 29,
+   "first_seen_ms": 1793786245787,
+   "image": "https://img.mako.co.il/2026/11/04/INBAR_SHELBIA_041126_1400_1793785399204_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793785406000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "הצצה נדירה: יעל שלביה חושפת בית הנופש היוקרתי של בן זוגה לאנס סטרול",
+   "type": "general",
+   "updated_ms": 1793785406000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-2c20c81fde5a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/INBAR_SHELBIA_041126/MASTER/INBAR_SHELBIA_041126/INBAR_SHELBIA_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-433d554a28b91a1027.htm": {
    "author": "סלבס",
@@ -38354,7 +38366,8 @@
    "importance": 1,
    "published_ms": 1793785380000,
    "sections": [
-    "הפרק היומי"
+    "הפרק היומי",
+    "אהבה מעבר לפינה"
    ],
    "title": "אהבה מעבר לפינה פרק 47: הגיע הזמן לספר",
    "type": "series",
