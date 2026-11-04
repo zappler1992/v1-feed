@@ -1,10 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f9677dd67f6a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-fcef4f45697a1a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-710586c8d87a1a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-a36a86c8d87a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-42b82b066c7a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c8fe5166da7a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24000,6 +23998,24 @@
    "updated_ms": 1793776183000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c66af23bf55a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18733_04112026070806/M_Music_18733_04112026070806_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c8fe5166da7a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "מתקשה לקבל? אסף זמיר מגיב לחבר החדש של אסיה, ביתו בת ה-6",
+   "duration_s": 10,
+   "first_seen_ms": 1793816546228,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18779_04112026055406_1400_1793814930742_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793814937000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "מתקשה לקבל? אסף זמיר מגיב לחבר החדש של אסיה, ביתו בת ה-6",
+   "type": "mivzakim",
+   "updated_ms": 1793814937000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c8fe5166da7a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18779_04112026055406/M_Tarbut_18779_04112026055406_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d23b2ea8165a1a1027.htm": {
    "author": "עדכוני בידור",
@@ -103203,6 +103219,24 @@
    "updated_ms": 1793539376000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4253c535a3791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_tehuna_8045_01112026012127/V1_karind_tehuna_8045_01112026012127_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-42b82b066c7a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ: זה נכון שהפסדנו בבחירות בגלל המלחמה באיראן, אבל זה היה שווה את זה",
+   "duration_s": 12,
+   "first_seen_ms": 1793816546228,
+   "image": "https://img.mako.co.il/2026/11/04/V1_TRUMP_8157_04112026061717_1400_1793816322850_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793816329000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ: זה נכון שהפסדנו בבחירות בגלל המלחמה באיראן, אבל זה היה שווה את זה",
+   "type": "mivzakim",
+   "updated_ms": 1793816329000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-42b82b066c7a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_TRUMP_8157_04112026061717/V1_TRUMP_8157_04112026061717_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-43fd9ac82b0a1a1027.htm": {
    "author": "מבזקים",
