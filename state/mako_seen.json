@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793817149221,
+ "last_run_ms": 1793817449976,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16204,6 +16204,18 @@
    "published_ms": 1792553220000,
    "section": "ספורט",
    "title": "צפו. \"כואב. ברצלונה קיבלה שיעור בצניעות\""
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-601f2b066c7a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793817449976,
+   "content_type": "article",
+   "first_seen_ms": 1793817449976,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793817240000,
+   "section": "ספורט",
+   "title": "בנגיעה בעקב: צפו בגול הנהדר של בלינגהאם"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-6790a778f3c71a1026.htm": {
    "check_attempts": 1,
