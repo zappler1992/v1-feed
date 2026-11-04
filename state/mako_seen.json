@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793801549522,
+ "last_run_ms": 1793801849460,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35174,6 +35174,18 @@
    "published_ms": 1792724400000,
    "section": "",
    "title": "היום יהיה חם מהרגיל. הקלה בחום תורגש רק מחר"
+  },
+  "https://www.mako.co.il/hix-nature/Article-aad5e4cc5d6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793801666765,
+   "content_type": "article",
+   "first_seen_ms": 1793801666765,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793801520000,
+   "section": "HIX",
+   "title": "לכדו תנין במשקל 600 ק\"ג – וגילו פרט מטריד"
   },
   "https://www.mako.co.il/hix-nature/Article-ae41bc8c11c91a1026.htm": {
    "check_attempts": 1,
