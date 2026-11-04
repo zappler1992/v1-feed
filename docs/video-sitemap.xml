@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/yoav_france24_041126_1400_1793776275246_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>&quot;ניצחון לדמוקרטים&quot;: העולם מסקר את המהפך הפוליטי בארה&quot;ב</video:title>
+<video:description>העולם לא נשאר אדיש לדרמה הפוליטית בארה&quot;ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_france24_041126/MASTER/yoav_france24_041126/yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>46</video:duration>
+<video:publication_date>2026-11-04T07:16:00+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-d23b2ea8165a1a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/M_Tarbut_18732_04112026070750_1400_1793776185139_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>רומי פרנקל: &quot;הסתכלתי במראה ולא נהניתי להתלבש - עשיתי שינוי. אני מאושרת ויש לי ביטחון עצמי&quot;</video:title>
+<video:description>רומי פרנקל: &quot;הסתכלתי במראה ולא נהניתי להתלבש - עשיתי שינוי. אני מאושרת ויש לי ביטחון עצמי&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18732_04112026070750/M_Tarbut_18732_04112026070750_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>89</video:duration>
+<video:publication_date>2026-11-04T07:09:51+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c66af23bf55a1a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/M_Music_18733_04112026070806_1400_1793776177276_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>צמרמורת: עומר אדם העלה את אלי-ה כהן ובר קופרשטיין לבמה בניו יורק - ויחד עם שרו &quot;מודה אני&quot;</video:title>
+<video:description>צמרמורת: עומר אדם העלה את אלי-ה כהן ובר קופרשטיין לבמה בניו יורק - ויחד עם שרו &quot;מודה אני&quot;</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18733_04112026070806/M_Music_18733_04112026070806_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>59</video:duration>
+<video:publication_date>2026-11-04T07:09:43+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>עדכוני בידור</video:uploader>
+<video:tag>עדכוני בידור</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-36dd2149045a1a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/04/V1_karind_AbdulElSayed_8130_04112026065101_1400_1793775133322_FirstFrame.jpg</video:thumbnail_loc>
@@ -335,6 +383,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
