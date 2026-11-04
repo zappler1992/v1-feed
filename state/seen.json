@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b9af3f43484a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a4853f43484a1a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ea8d20001b4a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6e253f43484a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7209,7 +7211,9 @@
    "image": "https://img.mako.co.il/2026/11/03/rinat_mask_031126_m_1400_1793740155561_FirstFrame.jpg",
    "importance": 1,
    "published_ms": 1793740162000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "השופטים לא האמינו: ניקי גולדשטיין הוא הכוכב שהתחבא מתחת ל\"פה הגדול\"",
    "type": "general",
    "updated_ms": 1793740162000,
@@ -52215,7 +52219,8 @@
    "importance": 2,
    "published_ms": 1793740550000,
    "sections": [
-    "לייף & סטייל"
+    "לייף & סטייל",
+    "הכי נצפים עכשיו"
    ],
    "title": "בשורה קשה לצרכנים - המשבר בזארה שלא הכרתם",
    "type": "news",
@@ -102498,6 +102503,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6cdb2921cd691a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_greta_8043_01112026113015/V1_karind_greta_8043_01112026113015_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6e253f43484a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מושלת ניו יורק הדמוקרטית קאת'י הוצ'ול זכתה בכהונה נוספת",
+   "duration_s": 9,
+   "first_seen_ms": 1793765846931,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18718_04112026041223_1400_1793765622812_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793765630000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מושלת ניו יורק הדמוקרטית קאת'י הוצ'ול זכתה בכהונה נוספת",
+   "type": "mivzakim",
+   "updated_ms": 1793765630000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6e253f43484a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18718_04112026041223/M_NEWS_18718_04112026041223_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-724e5019172a1a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103040,6 +103063,24 @@
    "updated_ms": 1793713996000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a3adffbaca1a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18679_03112026015140/M_NEWS_18679_03112026015140_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a4853f43484a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מהפך היסטורי בטקסס: הדמוקרט ג'יימס טלאריקו ניצח את קן פקסטון",
+   "duration_s": 9,
+   "first_seen_ms": 1793765846931,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18720_04112026041351_1400_1793765700366_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793765707000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מהפך היסטורי בטקסס: הדמוקרט ג'יימס טלאריקו ניצח את קן פקסטון",
+   "type": "mivzakim",
+   "updated_ms": 1793765707000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a4853f43484a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18720_04112026041351/M_NEWS_18720_04112026041351_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-a4e5b219a62a1a1026.htm": {
    "author": "מבזקים",
@@ -103652,6 +103693,24 @@
    "updated_ms": 1793644881000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ea80c06318d91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_BB_8082_02112026063830/V1_BB_8082_02112026063830_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ea8d20001b4a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "איימי אקטון הדמוקרטית ניצחה את ויווק ראמסוואמי הרפובליקני במרוץ למושל אוהיו",
+   "duration_s": 9,
+   "first_seen_ms": 1793765846931,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18719_04112026041304_1400_1793765659581_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793765666000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "איימי אקטון הדמוקרטית ניצחה את ויווק ראמסוואמי הרפובליקני במרוץ למושל אוהיו",
+   "type": "mivzakim",
+   "updated_ms": 1793765666000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ea8d20001b4a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18719_04112026041304/M_NEWS_18719_04112026041304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ec91a49624c91a1027.htm": {
    "author": "מבזקים",
