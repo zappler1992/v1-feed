@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-cf4f70cfe05a1a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-04T05:43:25+00:00</news:publication_date>
+<news:title>המפלה של הנשיא בבחירות האמצע: כך טראמפ הגיב להפסד בשידור</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/04/V1_karind_surprise_8123_04112026054210_1400_1793770999106_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-33c71acd5f4a1a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2168,14 +2177,5 @@
 <news:title>טראמפ בעצרת: &quot;נצטרך להנחית עליהם את הפטיש&quot;</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/02/SHIR_TRUMP_021126_FIX1_1400_1793602540632_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-99639f6b0ba91a1026.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-11-02T05:42:41+00:00</news:publication_date>
-<news:title>כותרות הבוקר</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_rinat_kotarot_021126_8062_02112026054101_1400_1793598153646_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>
