@@ -1,8 +1,10 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-42b82b066c7a1a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-c8fe5166da7a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f0352b066c7a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-99a42b066c7a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b5132b066c7a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff822b066c7a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -940,7 +942,8 @@
    "importance": 2,
    "published_ms": 1793808600000,
    "sections": [
-    "60 שניות"
+    "60 שניות",
+    "הכי נצפים עכשיו"
    ],
    "title": "60 שניות עם ישראל אטיאס",
    "type": "general",
@@ -7210,7 +7213,8 @@
    "importance": 2,
    "published_ms": 1793798370000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "אחרי ארבעה חודשים בלבד: רוסלנה רודינה ובן הזוג עמי ברדה נפרדו",
    "type": "general",
@@ -23690,6 +23694,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-973853427f2a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18700_03112026075046/M_Tarbut_18700_03112026075046_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-99a42b066c7a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "גיא מרוז מעדכן שהעיתונאית ובת זוגו אורלי וילנאי עברה אירוע לב",
+   "duration_s": 24,
+   "first_seen_ms": 1793818946299,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18782_04112026064952_1400_1793818263738_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793818270000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "גיא מרוז מעדכן שהעיתונאית ובת זוגו אורלי וילנאי עברה אירוע לב",
+   "type": "mivzakim",
+   "updated_ms": 1793818270000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-99a42b066c7a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18782_04112026064952/M_Tarbut_18782_04112026064952_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-9cbace17713a1a1026.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23890,6 +23912,24 @@
    "updated_ms": 1793645953000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b3a91f5cf9d91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18629_02112026065700/M_Celebs_18629_02112026065700_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b5132b066c7a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "ההצבעה לשיר הזוכה ממשיכה ב-makoz: כוכבי הפסטיגל מתעדים מחדר החזרות",
+   "duration_s": 18,
+   "first_seen_ms": 1793818946299,
+   "image": "https://img.mako.co.il/2026/11/04/M_MakoZ_18781_04112026064224_1400_1793817806502_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793817812000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "ההצבעה לשיר הזוכה ממשיכה ב-makoz: כוכבי הפסטיגל מתעדים מחדר החזרות",
+   "type": "mivzakim",
+   "updated_ms": 1793817812000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b5132b066c7a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_MakoZ_18781_04112026064224/M_MakoZ_18781_04112026064224_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-b71ca49624c91a1027.htm": {
    "author": "עדכוני בידור",
@@ -24610,6 +24650,24 @@
    "updated_ms": 1793800293000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff12a097bc6a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18759_04112026015019/M_Tarbut_18759_04112026015019_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff822b066c7a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "הסתיימה ההרחקה? אחרי סערת הבחירות עופר לוי מקבל חיקוי הערב ב״ארץ נהדרת״",
+   "duration_s": 19,
+   "first_seen_ms": 1793818946299,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18780_04112026064154_1400_1793817786331_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793817792000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "הסתיימה ההרחקה? אחרי סערת הבחירות עופר לוי מקבל חיקוי הערב ב״ארץ נהדרת״",
+   "type": "mivzakim",
+   "updated_ms": 1793817792000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff822b066c7a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18780_04112026064154/M_Tarbut_18780_04112026064154_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -53695,7 +53753,7 @@
    "sections": [],
    "title": "התפרעות במטוס: נוסע השתולל וסירב להתפנות - השוטרים הוציאו אותו בכוח",
    "type": "news",
-   "updated_ms": 1793803817000,
+   "updated_ms": 1793816880000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f9677dd67f6a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/alma_plane_041126/MASTER/alma_plane_041126/alma_plane_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -105516,6 +105574,24 @@
    "updated_ms": 1793727480000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ef305019172a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_YAVAN_8111_03112026053636/V1_YAVAN_8111_03112026053636_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f0352b066c7a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "בן 74 איבד את ההכרה במגרש טניס, מצבו קשה",
+   "duration_s": 9,
+   "first_seen_ms": 1793818946299,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18783_04112026065421_1400_1793818543213_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793818550000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "בן 74 איבד את ההכרה במגרש טניס, מצבו קשה",
+   "type": "mivzakim",
+   "updated_ms": 1793818550000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f0352b066c7a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18783_04112026065421/M_NEWS_18783_04112026065421_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f09d1dcad2591a1026.htm": {
    "author": "מבזקים",
