@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793831551695,
+ "last_run_ms": 1793831849545,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49885,7 +49885,7 @@
    "indexnow_ms": 1793808449855,
    "published_ms": 1793805540000,
    "section": "חדשות",
-   "title": "מי יקבל את המנדט מהנשיא? מצעד הממליצים יוצא לדרך"
+   "title": "תמונת הממליצים המסתמנת - והמפלגה שלא תמליץ על אף מועמד"
   },
   "https://www.mako.co.il/news-israel/2026_q4/Article-38ad1a12e2931a1026.htm": {
    "check_attempts": 1,
@@ -59077,6 +59077,18 @@
    "section": "",
    "title": "המשמעות האמיתית של הפסקת הסיוע האמריקאי לישראל"
   },
+  "https://www.mako.co.il/special-mako-news/Article-8b385812be7a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793831787274,
+   "content_type": "article",
+   "first_seen_ms": 1793831787274,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793822700000,
+   "section": "חדשות",
+   "title": "גורמי אכיפה בכירים נגד ראש השב\"כ: \"הוא מורח את הזמן\""
+  },
   "https://www.mako.co.il/special-mako-news/Article-8b49d3efdc691a1026.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/Article-8b49d3efdc691a1026.htm",
@@ -60419,7 +60431,7 @@
    "indexnow_ms": null,
    "published_ms": 1793826840000,
    "section": "",
-   "title": "זיני זועם - והעימות סביב החשד להתערבות בבחירות מחריף"
+   "title": "הזעם של ראש השב\"כ: \"התקבל אקדח מעשן של ראיות\""
   },
   "https://www.mako.co.il/special-mako-news/Article-ffd355ef7da51a1026.htm": {
    "check_attempts": 1,
