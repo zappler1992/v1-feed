@@ -1,9 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3918cb5df26a1a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68475115426a1a1027.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-70fe4c9dc36a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52674,7 +52672,7 @@
    ],
    "title": "15 נערות תקפו את קריסטינה בבית הספר",
    "type": "news",
-   "updated_ms": 1793784725000,
+   "updated_ms": 1793790480000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAB_YALDA_041126_M/MASTER/NOAB_YALDA_041126_M/NOAB_YALDA_041126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -132406,6 +132404,24 @@
    "updated_ms": 1793645940000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-6ce33d9160d91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_Rhodes_8078_02112026042913/V1_Rhodes_8078_02112026042913_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-70fe4c9dc36a1a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תיעוד מחריד מסין: המכבש נסע לאחור - ודרס למוות נכה על כיסא גלגלים",
+   "duration_s": 47,
+   "first_seen_ms": 1793791046490,
+   "image": "https://img.mako.co.il/2026/11/04/V1_Sin_8141_04112026111016_1400_1793790738442_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793790748000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "תיעוד מחריד מסין: המכבש נסע לאחור - ודרס למוות נכה על כיסא גלגלים",
+   "type": "mivzakim",
+   "updated_ms": 1793790748000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-70fe4c9dc36a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_Sin_8141_04112026111016/V1_Sin_8141_04112026111016_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-73be8ae075691a1026.htm": {
    "author": "מבזקים מהעולם",
