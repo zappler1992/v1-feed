@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793779966631,
+ "last_run_ms": 1793780249984,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3188,6 +3188,18 @@
    "published_ms": 1792581720000,
    "section": "ספורט",
    "title": "הקבוצה של המדינה: פורטלנד תהמם את ה-NBA?"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-0ad1f23bf55a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793780249984,
+   "content_type": "article",
+   "first_seen_ms": 1793780249984,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793777160000,
+   "section": "ספורט",
+   "title": "נשאל על לברון ונאזק: מעצר ג`יי אר סמית`"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-0afda0dcc1951a1027.htm": {
    "check_attempts": 1,
@@ -48376,6 +48388,18 @@
    "published_ms": 1792250820000,
    "section": "מוזיקה",
    "title": "המעריצה חשפה חזה בהופעה של הכוכבת - והתגובה"
+  },
+  "https://www.mako.co.il/music-news/Article-eefc51f6495a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793780249984,
+   "content_type": "article",
+   "first_seen_ms": 1793780249984,
+   "indexable": true,
+   "indexnow_ms": 1793780249984,
+   "published_ms": 1793779440000,
+   "section": "מוזיקה",
+   "title": "\"מה קרה שם עם אייל?\": יגל אושרי פותח הכל"
   },
   "https://www.mako.co.il/music-news/Article-f3282b1205271a1026.htm": {
    "check_attempts": 1,
