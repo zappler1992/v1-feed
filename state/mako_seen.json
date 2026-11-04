@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793784749291,
+ "last_run_ms": 1793785048810,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -33387,7 +33387,7 @@
    "indexnow_ms": 1793783186777,
    "published_ms": 1793782860000,
    "section": "בריאות",
-   "title": "מעורר דאגה: מה עומד מאחורי הידיים של צ'ארלס?"
+   "title": "מעורר דאגה: מה קרה לידיים של המלך צ'ארלס?"
   },
   "https://www.mako.co.il/health-news/Article-cfeabb9982a31a1027.htm": {
    "check_attempts": 1,
@@ -47609,6 +47609,18 @@
    "section": "מוזיקה",
    "title": "עוקץ את הכוכב האנטישמי? המסר של סולן מטאליקה"
   },
+  "https://www.mako.co.il/music-news/Article-5aa00faa0d5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793784866829,
+   "content_type": "article",
+   "first_seen_ms": 1793784866829,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793784660000,
+   "section": "מוזיקה",
+   "title": "רק בן 19: ההישג הענק של נדב חנציס"
+  },
   "https://www.mako.co.il/music-news/Article-5b993b4f244e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -53224,6 +53236,18 @@
    "published_ms": 1791272040000,
    "section": "דיגיטל",
    "title": "הרגע המביך כשאלטמן נשאל על הצעירה שהתאבדה"
+  },
+  "https://www.mako.co.il/nexter-news/Article-f3200faa0d5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793784866829,
+   "content_type": "article",
+   "first_seen_ms": 1793784866829,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793783700000,
+   "section": "דיגיטל",
+   "title": "1,271 עובדים יפוטרו: \"זה הרגע הכי קשה שלנו\""
   },
   "https://www.mako.co.il/nexter-news/Article-f6773f3f87601a1026.htm": {
    "check_attempts": 1,
