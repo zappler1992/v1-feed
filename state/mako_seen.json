@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793805749177,
+ "last_run_ms": 1793806050097,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16373,6 +16373,18 @@
    "section": "ספורט",
    "title": "נתן לה כנפיים: 1:4 ענק לריאל על לייפציג"
   },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-9a3528e6a17a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793805986848,
+   "content_type": "article",
+   "first_seen_ms": 1793805986848,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793805780000,
+   "section": "ספורט",
+   "title": "יותר טובה בלי ויניסיוס? כאב הראש של ריאל"
+  },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-9a8014dfa7b31a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -23775,6 +23787,18 @@
    "section": "סלבס",
    "title": "הכוכב הבינלאומי שוב בזוגיות עם ישראלית"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-a81ca4644e6a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793805986848,
+   "content_type": "article",
+   "first_seen_ms": 1793805986848,
+   "indexable": true,
+   "indexnow_ms": 1793805986848,
+   "published_ms": 1793805060000,
+   "section": "סלבס",
+   "title": "\"אני מגלה הכל מחדש. אני רוצה להיות רגע רווק באופי\""
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-a86b9b8692771a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -24938,6 +24962,18 @@
    "published_ms": 1793612460000,
    "section": "סלבס",
    "title": "החשד להתעללות מינית: אבא של מייגן מרקל הולך ומסתבך"
+  },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-10aee3f5b76a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793805986848,
+   "content_type": "article",
+   "first_seen_ms": 1793805986848,
+   "indexable": true,
+   "indexnow_ms": 1793805986848,
+   "published_ms": 1793804400000,
+   "section": "סלבס",
+   "title": "\"לא מאשים אותה\": הצעד הבא של הכוכבת ובן זוגה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-10b39940ef171a1027.htm": {
    "check_attempts": 1,
