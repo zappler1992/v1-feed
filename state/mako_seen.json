@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793758665464,
+ "last_run_ms": 1793758982478,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -53187,7 +53187,7 @@
    "indexnow_ms": null,
    "published_ms": 1793713980000,
    "section": "גאווה",
-   "title": "המחאה נגד הסדרה של \"הארי פוטר\" מגיעה לשיא"
+   "title": "המחאה נגד הסדרה של \"הארי פוטר\" מגיעה לשיא חדש"
   },
   "https://www.mako.co.il/pride-culture/Article-d8db21e10fc80a1027.htm": {
    "check_attempts": 1,
@@ -59042,6 +59042,18 @@
    "published_ms": 1792788840000,
    "section": "חדשות",
    "title": "האזהרה של ארה\"ב לאזרחים האמריקאים בישראל"
+  },
+  "https://www.mako.co.il/special-mako-news/liveblog-d7a834d0812a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/liveblog-d7a834d0812a1a1026.htm",
+   "checked_ms": 1793758982478,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793758982478,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793758080000,
+   "section": "",
+   "title": "הדמוקרטים פותחים פער עם שורת ניצחונות קריטיים"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
    "check_attempts": 1,
