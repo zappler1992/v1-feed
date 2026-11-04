@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793792549081,
+ "last_run_ms": 1793792849596,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -50882,6 +50882,18 @@
    "published_ms": 1792526760000,
    "section": "ספורט",
    "title": "\"מול שער ריק, איך לעזאזל רונאלדו החטיא?\""
+  },
+  "https://www.mako.co.il/news-sport/world_soccer-2026_q4/Article-f1dae74fc56a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793792787479,
+   "content_type": "article",
+   "first_seen_ms": 1793792787479,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793792700000,
+   "section": "ספורט",
+   "title": "צפו: נשבר השיא לכרטיסים אדומים במשחק אחד"
   },
   "https://www.mako.co.il/news-tip12/2026_q4/Article-08b2d204ea431a1027.htm": {
    "check_attempts": 1,
