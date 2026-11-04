@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793792249095,
+ "last_run_ms": 1793792549081,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -25839,6 +25839,18 @@
    "section": "סלבס",
    "title": "\"לעולם לא נשכח\": הכוכב הבין-לאומי מנציח את 7 באוקטובר"
   },
+  "https://www.mako.co.il/entertainment-celebs/world-2026/Article-b3d31eaf406a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793792427276,
+   "content_type": "article",
+   "first_seen_ms": 1793792427276,
+   "indexable": true,
+   "indexnow_ms": 1793792427276,
+   "published_ms": 1793791980000,
+   "section": "סלבס",
+   "title": "הכוכבת מסרבת להליך: \"לא רוצה ציצים שנראים כמו קישואים\""
+  },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-b50c58bf34f21a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -38821,7 +38833,7 @@
    "indexnow_ms": 1793784148881,
    "published_ms": 1793778960000,
    "section": "עיצוב הבית",
-   "title": "זה היה חדר ילדים רגיל - ואז הגיעה השיפוצניקית"
+   "title": "בלי שיפוץ: שני קירות שהפכו חדר ילדים לים"
   },
   "https://www.mako.co.il/living-diy/handicrafts/Article-e9912fe863f21a1027.htm": {
    "check_attempts": 1,
@@ -61596,6 +61608,18 @@
    "published_ms": 1791712860000,
    "section": "חופש",
    "title": "\"סיכון למאסר\": האזהרה החמורה לתיירים הישראלים"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-335db569d46a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793792427276,
+   "content_type": "article",
+   "first_seen_ms": 1793792427276,
+   "indexable": true,
+   "indexnow_ms": 1793792427276,
+   "published_ms": 1793790600000,
+   "section": "",
+   "title": "אין קווים אדומים: מחאה חדשה נגד יהודים בחו\"ל"
   },
   "https://www.mako.co.il/travel-news/international/Article-34b1d66dedc51a1026.htm": {
    "check_attempts": 1,
