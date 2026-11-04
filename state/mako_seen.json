@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793794827576,
+ "last_run_ms": 1793795249238,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2588,6 +2588,18 @@
    "published_ms": 1792492380000,
    "section": "ספורט",
    "title": "\"זו סגירת מעגל. כאן קיבלתי צ`אנס ראשון\""
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-85237647f66a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793795187563,
+   "content_type": "article",
+   "first_seen_ms": 1793795187563,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793794440000,
+   "section": "ספורט",
+   "title": "העונש שמכבי ת\"א עלולה לספוג בעקבות הדרבי"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-89dad57edfa91a1027.htm": {
    "check_attempts": 1,
@@ -19827,6 +19839,18 @@
    "section": "ספורט",
    "title": "זה קורה: גורן בסגל של ברצלונה לקלאסיקו"
   },
+  "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-ac66e3f5b76a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793795187563,
+   "content_type": "article",
+   "first_seen_ms": 1793795187563,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793795100000,
+   "section": "ספורט",
+   "title": "נדאל מצטרף לחבר המנהלים של ריאל מדריד"
+  },
   "https://www.mako.co.il/Sports-football-world/spanish-league-q4_2026/Article-ae37828e3a681a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -36625,7 +36649,7 @@
    "indexnow_ms": null,
    "published_ms": 1793792640000,
    "section": "HIX",
-   "title": "יוזף פריצל שוב ביקש להשתחרר מוקדם, ושוב נדחה"
+   "title": "הבקשה של עבריין המין שאנס וכלא את בתו במשך 24 שנה"
   },
   "https://www.mako.co.il/hix-special/Article-b28a6bed11381a1027.htm": {
    "check_attempts": 1,
