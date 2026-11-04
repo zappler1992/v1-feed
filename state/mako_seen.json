@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793798549520,
+ "last_run_ms": 1793798849467,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -46539,6 +46539,18 @@
    "section": "פלילים",
    "title": "ההחלטה של השופטת לגבי העונש של האחים אלכסנדר"
   },
+  "https://www.mako.co.il/men-men_news/Article-d8c9dbe14b6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793798667675,
+   "content_type": "article",
+   "first_seen_ms": 1793798667675,
+   "indexable": true,
+   "indexnow_ms": 1793798667675,
+   "published_ms": 1793798340000,
+   "section": "פלילים",
+   "title": "לעיני נהגים: המעצר האלים של ראש ארגון הפשע"
+  },
   "https://www.mako.co.il/men-men_news/Article-d8ec451818a21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -47726,6 +47738,18 @@
    "published_ms": 1790071380000,
    "section": "מוזיקה",
    "title": "אחרי הפרידה מיובל רפאל: עידו מלכה שובר שתיקה"
+  },
+  "https://www.mako.co.il/music-news/Article-3993bff17a6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793798667675,
+   "content_type": "article",
+   "first_seen_ms": 1793798667675,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793798400000,
+   "section": "מוזיקה",
+   "title": "שוק: תקלת המלתחה המפורסמת בהיסטוריה תוכננה מראש?"
   },
   "https://www.mako.co.il/music-news/Article-3c3d145821601a1026.htm": {
    "check_attempts": 1,
