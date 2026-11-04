@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793783849240,
+ "last_run_ms": 1793784148881,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1616,6 +1616,18 @@
    "published_ms": 1793708203000,
    "section": "אופנה",
    "title": "בגיל 56: קלאודיה שיפר מצטלמת טופלס ונראית פשוט מדהים"
+  },
+  "https://fashionforward.mako.co.il/news/322786/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793784026834,
+   "content_type": "post",
+   "first_seen_ms": 1793784026834,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": null,
+   "section": "אופנה",
+   "title": "דמי מור לבשה את הג'ינס שלה בתור שמלה – וזה מחרפן"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -7748,6 +7760,18 @@
    "published_ms": 1791429900000,
    "section": "ספורט",
    "title": "23 לאבדיה בניצחון פורטלנד על הווריירס"
+  },
+  "https://www.mako.co.il/Sports-basketball/q4_2026/Article-1ac50faa0d5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793784148881,
+   "content_type": "article",
+   "first_seen_ms": 1793784148881,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793783940000,
+   "section": "ספורט",
+   "title": "\"אבדיה יכול להפוך את פורטלנד לקונטנדרית\""
   },
   "https://www.mako.co.il/Sports-basketball/q4_2026/Article-1c3bce1a0f911a1026.htm": {
    "check_attempts": 1,
@@ -27735,7 +27759,7 @@
    "indexnow_ms": null,
    "published_ms": 1793781120000,
    "section": "כסף",
-   "title": "ההחלטה של טראמפ שתשפיע על תלוש השכר שלכם"
+   "title": "מחיר ביטול הסיוע: העלאת המע\"מ באחוז וחצי"
   },
   "https://www.mako.co.il/finances-news/Article-5b36249bbf271a1027.htm": {
    "check_attempts": 1,
@@ -33363,7 +33387,7 @@
    "indexnow_ms": 1793783186777,
    "published_ms": 1793782860000,
    "section": "בריאות",
-   "title": "מעורר דאגה: מה קרה לידיים של המלך צ'ארלס?"
+   "title": "מעורר דאגה: מה עומד מאחוריי הידיים של צ'ארלס?"
   },
   "https://www.mako.co.il/health-news/Article-cfeabb9982a31a1027.htm": {
    "check_attempts": 1,
@@ -37611,7 +37635,7 @@
    "indexnow_ms": null,
    "published_ms": 1793782800000,
    "section": "הורים",
-   "title": "מקרה חמור: צעירה הותקפה על ידי 15 נערות"
+   "title": "בת 14 הותקפה בידי 15 נערות - ונדהמה מתגובת המנהלת"
   },
   "https://www.mako.co.il/home-family-kids/Article-d610835e89261a1026.htm": {
    "check_attempts": 1,
@@ -38668,6 +38692,18 @@
    "published_ms": 1792057740000,
    "section": "עיצוב הבית",
    "title": "תראו מה קלואי קרדשיאן עשתה בכניסה לבית שלה"
+  },
+  "https://www.mako.co.il/living-diy/handicrafts/Article-a53a43276eb91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793784148881,
+   "content_type": "article",
+   "first_seen_ms": 1793784148881,
+   "indexable": true,
+   "indexnow_ms": 1793784148881,
+   "published_ms": 1793778960000,
+   "section": "עיצוב הבית",
+   "title": "בלי שיפוץ: שני קירות שהפכו חדר ילדים לים"
   },
   "https://www.mako.co.il/living-diy/handicrafts/Article-e9912fe863f21a1027.htm": {
    "check_attempts": 1,
@@ -44055,7 +44091,7 @@
    "indexnow_ms": 1793782226697,
    "published_ms": 1793781720000,
    "section": "",
-   "title": "ראש ארגון פשע נעצר הלילה בתל אביב"
+   "title": "ראש ארגון פשע נעצר בתל אביב בחשד לתקיפה"
   },
   "https://www.mako.co.il/men-men_news/Article-7d7bece255b11a1026.htm": {
    "check_attempts": 1,
@@ -63433,7 +63469,7 @@
    "indexnow_ms": 1793781027629,
    "published_ms": 1793779800000,
    "section": "חופש",
-   "title": "הכי יפה: הפארק הישראלי ברשימת 100 היפים בעולם"
+   "title": "הפרק הישראלי שנכנס לרשימת 100 היפים בעולם"
   },
   "https://www.mako.co.il/travel-news/israel/Article-92f08765a7171a1027.htm": {
    "check_attempts": 1,
