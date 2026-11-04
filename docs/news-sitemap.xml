@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-a4f6d652935a1a1026.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-04T06:36:32+00:00</news:publication_date>
+<news:title>הקלפי הכי רחוקה: שלושה אסטרונאוטים הצביעו בבחירות האמצע מתחנת החלל במסלול סביב כדור הארץ</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/04/V1_karind_astronauts_8128_04112026063455_1400_1793774185694_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-d50684f7025a1a1026.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2204,14 +2213,5 @@
 <news:title>מכונית עולה באש בכביש 2 (החוף) לפני היציאה למנהרות הכרמל - דיווחים על פקקי ענק באזור</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/02/biata_carfire_mivfix_1400_1793602899104_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-aee8d57edfa91a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-11-02T06:42:18+00:00</news:publication_date>
-<news:title>תעריף חורף לדרכונים: כך תחסכו מאות שקלים</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/02/rinat_passport_021126_m_1400_1793601731234_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

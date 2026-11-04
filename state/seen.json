@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d92384f7025a1a1026.htm",
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-d50684f7025a1a1026.htm"
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-a4f6d652935a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -131864,6 +131863,24 @@
    "updated_ms": 1793622197000,
    "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-9f7e76dd13c91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/V1_Rusi_8068_02112026122122/V1_Rusi_8068_02112026122122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-a4f6d652935a1a1026.htm": {
+   "author": "מבזקים מהעולם",
+   "date_source": "json-publishDate",
+   "description": "הקלפי הכי רחוקה: שלושה אסטרונאוטים הצביעו בבחירות האמצע מתחנת החלל במסלול סביב כדור הארץ",
+   "duration_s": 29,
+   "first_seen_ms": 1793774545766,
+   "image": "https://img.mako.co.il/2026/11/04/V1_karind_astronauts_8128_04112026063455_1400_1793774185694_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793774192000,
+   "sections": [
+    "מבזקים מהעולם"
+   ],
+   "title": "הקלפי הכי רחוקה: שלושה אסטרונאוטים הצביעו בבחירות האמצע מתחנת החלל במסלול סביב כדור הארץ",
+   "type": "mivzakim",
+   "updated_ms": 1793774192000,
+   "url": "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-a4f6d652935a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_karind_astronauts_8128_04112026063455/V1_karind_astronauts_8128_04112026063455_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-d50684f7025a1a1026.htm": {
    "author": "מבזקים מהעולם",
