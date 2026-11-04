@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793777248730,
+ "last_run_ms": 1793777548809,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30293,6 +30293,18 @@
    "section": "",
    "title": "9 מתכונים לעוגיות מגולגלות שיחזיקו כל סוכות"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-27011352f5c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793777548809,
+   "content_type": "recipe",
+   "first_seen_ms": 1793777548809,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793766660000,
+   "section": "",
+   "title": "נערכים לשבת הגשומה עם עוגת פקאנים וקינמון"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/Recipe-38c5598801031a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -30688,6 +30700,18 @@
    "published_ms": 1791097080000,
    "section": "",
    "title": "מכורים לנאצ'וס בקולנוע? חכו שתטעמו את זה"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-sauces/Recipe-a05687c2090a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793777548809,
+   "content_type": "recipe",
+   "first_seen_ms": 1793777548809,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793770680000,
+   "section": "",
+   "title": "כולם מדברים על זה, אתם מכינים את זה בבית"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-stuffed/Recipe-421ce6b981451a1027.htm": {
    "check_attempts": 1,
@@ -35763,7 +35787,7 @@
    "indexnow_ms": 1793773467162,
    "published_ms": 1793764800000,
    "section": "HIX",
-   "title": "אושפזה בגלל נפיחות, ומאז היא סובלת מבעיה חריגה במיוחד"
+   "title": "אושפזה בגלל נפיחות, ומאז היא לא יכולה להשתין"
   },
   "https://www.mako.co.il/hix-special/Article-626af122f51f0a1026.htm": {
    "check_attempts": 1,
@@ -35908,6 +35932,18 @@
    "published_ms": 1793686800000,
    "section": "",
    "title": "בת 20 בלבד: זו הטייסת במטוס שהתרסק בארה\"ב"
+  },
+  "https://www.mako.co.il/hix-special/Article-72962ea8165a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793777427381,
+   "content_type": "article",
+   "first_seen_ms": 1793777427381,
+   "indexable": true,
+   "indexnow_ms": 1793777427381,
+   "published_ms": 1793777100000,
+   "section": "HIX",
+   "title": "שלחה לאביה הודעה מהמרתון, ומתה לפני קו הסיום"
   },
   "https://www.mako.co.il/hix-special/Article-76142da7076f0a1026.htm": {
    "check_attempts": 1,
@@ -59643,6 +59679,18 @@
    "section": "חופש",
    "title": "יקב, מעיין ונוף מדהים: האזור שלא הרבה מכירים"
   },
+  "https://www.mako.co.il/travel-israel/Article-25123b4e5cc91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793777548809,
+   "content_type": "article",
+   "first_seen_ms": 1793777548809,
+   "indexable": true,
+   "indexnow_ms": 1793777548809,
+   "published_ms": 1793768700000,
+   "section": "חופש",
+   "title": "מים צלולים והרבה צל: המעיין שהפך למוקד עלייה לרגל"
+  },
   "https://www.mako.co.il/travel-israel/Article-2d60291bc85a0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -63938,6 +63986,18 @@
    "published_ms": 1793163960000,
    "section": "חופש",
    "title": "ביקוש שיא: זה המקום שהישראלים ינחתו בו בחורף הקרוב"
+  },
+  "https://www.mako.co.il/travel-world/Article-e80a9fc9a8e41a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793777548809,
+   "content_type": "article",
+   "first_seen_ms": 1793777548809,
+   "indexable": true,
+   "indexnow_ms": 1793777548809,
+   "published_ms": 1792320900000,
+   "section": "חופש",
+   "title": "בהחלט מוזר: בעיר הזו יש מוזיאון חריג ביותר"
   },
   "https://www.mako.co.il/travel-world/Article-f868e75483f21a1026.htm": {
    "check_attempts": 1,
