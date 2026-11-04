@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793764349759,
+ "last_run_ms": 1793764649813,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -35957,6 +35957,18 @@
    "section": "HIX",
    "title": "\"ארובת הפיות\" קרסה אחרי הגשם – ושלושה נהרגו"
   },
+  "https://www.mako.co.il/hix-special/Article-9ae934d0812a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793764586747,
+   "content_type": "article",
+   "first_seen_ms": 1793764586747,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793764380000,
+   "section": "",
+   "title": "המרצה נסחט ע\"י אישה באתר היכרויות - ורצח את אשתו"
+  },
   "https://www.mako.co.il/hix-special/Article-a10d3745d7851a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -37984,6 +37996,18 @@
    "published_ms": 1791444120000,
    "section": "עיצוב הבית",
    "title": "\"יותר ירושלמית מירושלמית\": מזהים מי בתמונה?"
+  },
+  "https://www.mako.co.il/living-architecture/local/Article-6b867142c0c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793764649813,
+   "content_type": "article",
+   "first_seen_ms": 1793764649813,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793768400000,
+   "section": "עיצוב הבית",
+   "title": "ממש לא בפריז: הפיצרייה החדשה והמהממת בגאולה"
   },
   "https://www.mako.co.il/living-architecture/local/Article-6bbbb09f53771a1026.htm": {
    "check_attempts": 1,
@@ -42999,7 +43023,7 @@
    "indexnow_ms": null,
    "published_ms": 1793700960000,
    "section": "פלילים",
-   "title": "ריססו את המוכר בגז פלפל - והכו עם נעליים"
+   "title": "ריססו את המוכר בגז פלפל - והשליכו עליו נעליים"
   },
   "https://www.mako.co.il/men-men_news/Article-67284c3e60541a1026.htm": {
    "check_attempts": 1,
@@ -53955,7 +53979,7 @@
    "indexnow_ms": null,
    "published_ms": 1793703840000,
    "section": "צבא וביטחון",
-   "title": "סימן לבאות? התשתית המבוצרת שצה\"ל מרחיב בצפון"
+   "title": "המהלך של ישראל מעבר לגבול שהקפיץ מדינה עוינת"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1a3367d586b11a1027.htm": {
    "check_attempts": 1,
