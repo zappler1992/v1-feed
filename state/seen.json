@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-def45ca0053a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8ef6cee0f04a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-84c6cee0f04a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52398,7 +52399,8 @@
    "importance": 1,
    "published_ms": 1793737135000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "ערוץ 14 מסית בשידור חי: \"גוש השינוי - סרטן בלב המדינה\"",
    "type": "news",
@@ -102623,6 +102625,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8165d994a2591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18501_01112026040250/M_NEWS_18501_01112026040250_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-84c6cee0f04a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "חבר הקונגרס הרפובליקני ביירון דונלדס ניצח בבחירות למושל פלורידה ויהפוך למושל השחור הראשון בתולדותיה",
+   "duration_s": 9,
+   "first_seen_ms": 1793759546493,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18712_04112026022652_1400_1793759314478_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793759321000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "חבר הקונגרס הרפובליקני ביירון דונלדס ניצח בבחירות למושל פלורידה ויהפוך למושל השחור הראשון בתולדותיה",
+   "type": "mivzakim",
+   "updated_ms": 1793759321000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-84c6cee0f04a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18712_04112026022652/M_NEWS_18712_04112026022652_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-858442373bc91a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -102804,6 +102824,24 @@
    "updated_ms": 1793520635000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8e6cc4b462691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18528_01112026080903/M_NEWS_18528_01112026080903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8ef6cee0f04a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "גורמים בסביבת טראמפ אומרים שהנשיא נערך לאפשרות שהלילה יהיה \"רע מאוד\" עבור מפלגתו",
+   "duration_s": 9,
+   "first_seen_ms": 1793759546493,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18713_04112026022739_1400_1793759363882_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793759370000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "גורמים בסביבת טראמפ אומרים שהנשיא נערך לאפשרות שהלילה יהיה \"רע מאוד\" עבור מפלגתו",
+   "type": "mivzakim",
+   "updated_ms": 1793759370000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-8ef6cee0f04a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18713_04112026022739/M_NEWS_18713_04112026022739_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-90acc14ff10a1a1026.htm": {
    "author": "מבזקים",
