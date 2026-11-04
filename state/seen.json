@@ -1,7 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-91496333f27a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ac73d60a247a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7d82d60a247a1a1027.htm",
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m11_w01/shorts-0cc22ea8165a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -928,6 +930,24 @@
    "updated_ms": 1793001900000,
    "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m10_w05/shorts-f4ad29035c671a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/26/Amit_DAFNA2_60/MASTER/Amit_DAFNA_60_M/Amit_DAFNA_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/60_seconds-magazine/2026-m11_w01/shorts-0cc22ea8165a1a1027.htm": {
+   "author": "60 שניות",
+   "date_source": "json-publishDate",
+   "description": "השחקן ישראל אטיאס הגיע לראיון ב-60 שניות עם ליאל אלי: הקושי להביא ילד, הפחד שיקטלגו אותו כרק שחקן חתיך והפאדיחה הגדולה שקרתה לו בדייט הראשון",
+   "duration_s": 70,
+   "first_seen_ms": 1793809346898,
+   "image": "https://img.mako.co.il/2026/11/04/Amit_ISRAEL_60_M_1400_1793776785964_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793808600000,
+   "sections": [
+    "60 שניות"
+   ],
+   "title": "60 שניות עם ישראל אטיאס",
+   "type": "general",
+   "updated_ms": 1793808600000,
+   "url": "https://www.v-1.co.il/60_seconds-magazine/2026-m11_w01/shorts-0cc22ea8165a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/Amit_ISRAEL_60/MASTER/Amit_ISRAEL_60_M/Amit_ISRAEL_60_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m09_w04/shorts-a47639c681fc0a1026.htm": {
    "author": "בקצב השקר",
@@ -7195,7 +7215,7 @@
    ],
    "title": "אחרי ארבעה חודשים בלבד: רוסלנה רודינה ובן הזוג עמי ברדה נפרדו",
    "type": "general",
-   "updated_ms": 1793803260000,
+   "updated_ms": 1793808300000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-236dfb7b0b6a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_ROSLANA_041126/MASTER/NOAY_ROSLANA_041126/NOAY_ROSLANA_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -23366,6 +23386,24 @@
    "updated_ms": 1793558814000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7cbe771285891a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18560_01112026064529/M_Tarbut_18560_01112026064529_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7d82d60a247a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "שיהיה במזל: אלי ורותם חגגו חינה במידברן",
+   "duration_s": 14,
+   "first_seen_ms": 1793809346898,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18772_04112026041629_1400_1793809070791_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793809078000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "שיהיה במזל: אלי ורותם חגגו חינה במידברן",
+   "type": "mivzakim",
+   "updated_ms": 1793809078000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7d82d60a247a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18772_04112026041629/M_Tarbut_18772_04112026041629_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-7e9a43466fc91a1027.htm": {
    "author": "עדכוני בידור",
@@ -104435,6 +104473,24 @@
    "updated_ms": 1793725216000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ac6f1c5b152a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/V1_MANOS_8107_03112026045853/V1_MANOS_8107_03112026045853_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ac73d60a247a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "הרמטכ\"ל בפיקוד הצפון: “צה”ל דרוך להתפתחויות בזירות קרובות ורחוקות”",
+   "duration_s": 9,
+   "first_seen_ms": 1793809346898,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18774_04112026041719_1400_1793809130445_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793809136000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "הרמטכ\"ל בפיקוד הצפון: “צה”ל דרוך להתפתחויות בזירות קרובות ורחוקות”",
+   "type": "mivzakim",
+   "updated_ms": 1793809136000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-ac73d60a247a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18774_04112026041719/M_NEWS_18774_04112026041719_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b23efd2f1af91a1026.htm": {
    "author": "מבזקים",

@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793808449855,
+ "last_run_ms": 1793809350023,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -7580,6 +7580,18 @@
    "published_ms": 1791809640000,
    "section": "ספורט",
    "title": "מרקוס הווארד בדרך החוצה מבאסקוניה"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ed6fd60a247a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793809350023,
+   "content_type": "article",
+   "first_seen_ms": 1793809350023,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793809080000,
+   "section": "ספורט",
+   "title": "מסתמן: תמיר בלאט יירשם למשחק מול ברצלונה"
   },
   "https://www.mako.co.il/Sports-basketball-world/euroleague-q4_2026/Article-ed77923843561a1026.htm": {
    "check_attempts": 1,
@@ -22705,7 +22717,7 @@
    "indexnow_ms": null,
    "published_ms": 1793803200000,
    "section": "סלבס",
-   "title": "אחרי חצי שנה בלבד: השינוי בחייה של לירז צ'רכי"
+   "title": "זה היה מהיר: השחקנית ובן הזוג נפרדו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-377f0e71e3541a1026.htm": {
    "check_attempts": 1,
@@ -31515,6 +31527,18 @@
    "section": "",
    "title": "איפה תוכלו ליהנות מגיוזה של שף ב-3 שקלים?"
   },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-8babd60a247a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793809350023,
+   "content_type": "article",
+   "first_seen_ms": 1793809350023,
+   "indexable": true,
+   "indexnow_ms": 1793809350023,
+   "published_ms": 1793808240000,
+   "section": "",
+   "title": "המסעדה האהובה שנסגרת - אחרי 25 שנים"
+  },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-9a317928f91e0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -36865,7 +36889,7 @@
    "indexnow_ms": null,
    "published_ms": 1793792640000,
    "section": "HIX",
-   "title": "הבקשה של עבריין המין שאנס וכלא את בתו במשך 24 שנים"
+   "title": "יוזף פריצל שוב ביקש להשתחרר מוקדם, ושוב נדחה"
   },
   "https://www.mako.co.il/hix-special/Article-b28a6bed11381a1027.htm": {
    "check_attempts": 1,
@@ -41101,7 +41125,7 @@
    "indexnow_ms": 1793796267560,
    "published_ms": 1793795580000,
    "section": "",
-   "title": "\"נצטרך להיפרד ממנה\": כוכבת הרשת בבשורה קורעת לב"
+   "title": "כוכבת הרשת בדמעות"
   },
   "https://www.mako.co.il/makoz-news/Article-c0b2892fd61f0a1027.htm": {
    "check_attempts": 1,
@@ -47893,7 +47917,7 @@
    "indexnow_ms": null,
    "published_ms": 1793798400000,
    "section": "מוזיקה",
-   "title": "שוק: תקלת המלתחה המפורסמת בהיסטוריה תוכננה מראש?"
+   "title": "השד שלה נחשף מול מיליונים ב-2004. עכשיו נחשפת האמת"
   },
   "https://www.mako.co.il/music-news/Article-3c3d145821601a1026.htm": {
    "check_attempts": 1,
@@ -60289,6 +60313,18 @@
    "section": "",
    "title": "ראשי המפלגות התייצבו באולפן - וענו על השאלות הקשות"
   },
+  "https://www.mako.co.il/special-mako-news/liveblog-c49edbe14b6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793809350023,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793809350023,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793808900000,
+   "section": "חדשות",
+   "title": "מי יקבל את המנדט מהנשיא? מצעד הממליצים יוצא לדרך"
+  },
   "https://www.mako.co.il/special-mako-news/liveblog-c84cc98a6ce71a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-israel-elections/2026/liveblog-c84cc98a6ce71a1027.htm",
@@ -63143,7 +63179,7 @@
    "indexnow_ms": 1793803226875,
    "published_ms": 1793802360000,
    "section": "",
-   "title": "דרמה בטיסת אל על: המאבטחים הורידו בני זוג מהמטוס"
+   "title": "דרמה באל על: המאבטחים הורידו בני זוג מהמטוס"
   },
   "https://www.mako.co.il/travel-news/international/Article-af29460fc3431a1027.htm": {
    "check_attempts": 1,
@@ -67775,7 +67811,7 @@
    "indexnow_ms": 1793790449686,
    "published_ms": 1793789640000,
    "section": "",
-   "title": "האולטימטום שהציבו בפני אילה חסון - והתגובה שלה"
+   "title": "אילה חסון נגד כאן: \"הציבו בפניי אולטימטום\""
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-9bd2c9e0edf91a1026.htm": {
    "check_attempts": 1,
