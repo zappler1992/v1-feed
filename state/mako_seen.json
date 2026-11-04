@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793820450201,
+ "last_run_ms": 1793820749495,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13768,6 +13768,18 @@
    "published_ms": 1790958360000,
    "section": "ספורט",
    "title": "לא התקבל לנוער בחיפה ופורח בהיידוק ספליט"
+  },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-a8ef8856ff7a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793820749495,
+   "content_type": "article",
+   "first_seen_ms": 1793820749495,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793820540000,
+   "section": "ספורט",
+   "title": "\"שפשף את האיבר ושאל אם אני אוהב את זה\""
   },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-aa7743b0a9551a1026.htm": {
    "check_attempts": 1,
