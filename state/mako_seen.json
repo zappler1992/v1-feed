@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793783248834,
+ "last_run_ms": 1793783550518,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27723,7 +27723,7 @@
    "indexnow_ms": null,
    "published_ms": 1793781120000,
    "section": "כסף",
-   "title": "ההחלטה של טראמפ שתשפיע על תלוש על השכר שלכם"
+   "title": "ההחלטה של טראמפ שתשפיע על תלוש השכר שלכם"
   },
   "https://www.mako.co.il/finances-news/Article-5b36249bbf271a1027.htm": {
    "check_attempts": 1,
@@ -31649,6 +31649,18 @@
    "section": "בריאות",
    "title": "האם תולעים יחליפו בעתיד מזרקים?"
   },
+  "https://www.mako.co.il/health-illnesses-and-medicines/Article-5fd1a2333c5a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793783550518,
+   "content_type": "article",
+   "first_seen_ms": 1793783550518,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793782680000,
+   "section": "בריאות",
+   "title": "בן 3 החלים מהסרטן הקטלני בזכות טיפול ניסיוני"
+  },
   "https://www.mako.co.il/health-illnesses-and-medicines/Article-c665a46665dc0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -33507,7 +33519,7 @@
    "indexnow_ms": 1793773227180,
    "published_ms": 1793772900000,
    "section": "בריאות",
-   "title": "הפעולה שעושים במוצר שיש בכל בית שעלולה לסכן חיים"
+   "title": "מחממים במיקרו: הטרנד המסוכן שעלול לסכן חיים"
   },
   "https://www.mako.co.il/health-news/Article-e39d033b343d0a1027.htm": {
    "check_attempts": 1,
@@ -37576,6 +37588,18 @@
    "published_ms": 1791517140000,
    "section": "הורים",
    "title": "רוב הפותרים של החידה מתייאשים אחרי חמש דקות"
+  },
+  "https://www.mako.co.il/home-family-kids/Article-d528594b3c5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793783550518,
+   "content_type": "article",
+   "first_seen_ms": 1793783550518,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793782800000,
+   "section": "הורים",
+   "title": "מקרה חמור: צעירה הותקפה על ידי 15 נערות"
   },
   "https://www.mako.co.il/home-family-kids/Article-d610835e89261a1026.htm": {
    "check_attempts": 1,
