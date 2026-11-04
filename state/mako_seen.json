@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793797050299,
+ "last_run_ms": 1793797349420,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -2876,6 +2876,18 @@
    "published_ms": 1793564400000,
    "section": "ספורט",
    "title": "\"מכבי נראית כמו קבוצת המילואים של הפועל\""
+  },
+  "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-c8b465cbc96a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793797349420,
+   "content_type": "article",
+   "first_seen_ms": 1793797349420,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793797140000,
+   "section": "ספורט",
+   "title": "שוב על הפרק: רישון הולמס מועמד למכבי ת\"א"
   },
   "https://www.mako.co.il/Sports-basketball-il/bsl-q4_2026/Article-cafd294321991a1027.htm": {
    "check_attempts": 1,
@@ -26582,6 +26594,18 @@
    "published_ms": 1791687600000,
    "section": "כסף",
    "title": "סל הקניות התייקר במאות שקלים מאז 2022"
+  },
+  "https://www.mako.co.il/finances-consumer/Article-4b7d65cbc96a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793797349420,
+   "content_type": "article",
+   "first_seen_ms": 1793797349420,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793796900000,
+   "section": "כסף",
+   "title": "מפת הפיצה של ישראל: הרשתות שהשתלטו על השוק"
   },
   "https://www.mako.co.il/finances-consumer/Article-4c966270638d0a1026.htm": {
    "check_attempts": 1,
