@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793824649499,
+ "last_run_ms": 1793824949379,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -16156,6 +16156,18 @@
    "published_ms": 1791917220000,
    "section": "ספורט",
    "title": "היסטוריה לסבאח, 0:2 לספורטינג על לאנס"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-45933787148a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793824949379,
+   "content_type": "article",
+   "first_seen_ms": 1793824949379,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793824680000,
+   "section": "ספורט",
+   "title": "נפילה הגנתית: המספרים הרעים של ליברפול"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-483f408e7ca51a1026.htm": {
    "check_attempts": 1,
