@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793827349457,
+ "last_run_ms": 1793827649686,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -60360,6 +60360,18 @@
    "published_ms": 1793171880000,
    "section": "",
    "title": "\"תפס מאחור ואנס בכוח\": הטענות החדשות נגד טראמפ"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-fd795166da7a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-fd795166da7a1a1026.htm",
+   "checked_ms": 1793827649686,
+   "content_type": "article",
+   "first_seen_ms": 1793827649686,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793826840000,
+   "section": "",
+   "title": "זיני זועם - והעימות סביב החשד להתערבות בבחירות מחריף"
   },
   "https://www.mako.co.il/special-mako-news/Article-ffd355ef7da51a1026.htm": {
    "check_attempts": 1,
