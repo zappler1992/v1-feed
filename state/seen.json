@@ -1,9 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-bf400a751c6a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-49100a751c6a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6af49ae0fb6a1a1026.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4ddda097bc6a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff12a097bc6a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24396,6 +24395,24 @@
    "updated_ms": 1793605952000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-fde96b30e3b91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18590_02112026075047/M_Celebs_18590_02112026075047_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff12a097bc6a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "עדן פינס שמשתתפת גם היא בעונה, מגיבה לחשיפה של ניקי גולדשטיין ב\"הזמר במסכה\"",
+   "duration_s": 26,
+   "first_seen_ms": 1793800946134,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18759_04112026015019_1400_1793800285371_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793800293000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "עדן פינס שמשתתפת גם היא בעונה, מגיבה לחשיפה של ניקי גולדשטיין ב\"הזמר במסכה\"",
+   "type": "mivzakim",
+   "updated_ms": 1793800293000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-ff12a097bc6a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18759_04112026015019/M_Tarbut_18759_04112026015019_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/fast_content-newsflash/2026-m07_w02/shorts-4a6925036804f91027.htm": {
    "author": "סרטונים מהירים",
@@ -52607,6 +52624,24 @@
    "updated_ms": 1793542080000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4b1936a6e4791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/Kim_Bus_01112026/MASTER/Kim_Bus_01112026/Kim_Bus_01112026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4ddda097bc6a1a1026.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "סערה בכאן 11: הנהלת התאגיד הציבה לאילה חסון אולטימטום בעקבות התבטאויותיה על המגזר הערבי ודרשה ממנה להתנצל בשידור, אחרת לא תוכל להמשיך להגיש. חסון סירבה, תקפה את מנהל החדשות וטענה שניסה להכתיב לה התנצלות בוואטסאפ. בינתיים היא לא תעלה לשידור הערב, אך מכחישה את הדיווחים על עזיבתה את התאגיד.",
+   "duration_s": 60,
+   "first_seen_ms": 1793800946134,
+   "image": "https://img.mako.co.il/2026/11/04/yoav_hason_041126_1400_1793800114475_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793800500000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "מנהל החדשות הציב אולטימטום לאיילה חסון",
+   "type": "news",
+   "updated_ms": 1793800500000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-4ddda097bc6a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_hason_041126/MASTER/yoav_hason_041126/yoav_hason_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-574cb9d56f791a1026.htm": {
    "author": "חדשות",
