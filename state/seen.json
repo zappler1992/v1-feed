@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-dcd0584f985a1a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-03ad584f985a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -31516,6 +31516,24 @@
    "updated_ms": 1793369820000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m10_w05/shorts-f5cf35ae71d81a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/30/yoav_europe_301026/MASTER/yoav_europe_301026/yoav_europe_301026_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-03ad584f985a1a1026.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "רק שלושה וחצי קילומטרים מקו הסיום - הטרגדיה במרתון ניו יורק. רייצ'ל אפה, בת 24 מפנסילבניה, השתתפה לראשונה בחייה במרתון כדי לגייס תרומות לחולי פרקינסון, לזכר סבה. במהלך המרוץ היא התכתבה עם אביה והתלוננה על כאבים. אלא שבקילומטר ה-39, בסנטרל פארק, היא התמוטטה לפתע. צוותי ההצלה ביצעו בה פעולות החייאה ופינו אותה לבית החולים, שם נקבע מותה. לדברי משפחתה, היא סבלה מתסמונת נדירה שגורמת לפירוק רקמת השריר בעקבות מאמץ גופני קיצוני. נסיבות מותה עדיין נחקרות.",
+   "duration_s": 33,
+   "first_seen_ms": 1793780546658,
+   "image": "https://img.mako.co.il/2026/11/04/NOAY_NY_041126_1400_1793778890076_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793778896000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "רק שלושה וחצי קילומטרים מקו הסיום - הטרגדיה במרתון ניו יורק",
+   "type": "general",
+   "updated_ms": 1793778896000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-03ad584f985a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_NY_041126/MASTER/NOAY_NY_041126/NOAY_NY_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-08c2c14ff10a1a1026.htm": {
    "author": "מהעולם",
@@ -132126,7 +132144,8 @@
    "importance": 0,
    "published_ms": 1793773232000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הסרטון שמזעזע מיליונים בעולם: שומר הראש של מפקד משטרת סומוליה נהרג ממנוע המטוס",
    "type": "mivzakim",
