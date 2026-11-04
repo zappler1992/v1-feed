@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-de08ed62016a1a1026.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d3d51eaf406a1a1027.htm"
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3918cb5df26a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68475115426a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52454,7 +52455,8 @@
    "importance": 2,
    "published_ms": 1793776560000,
    "sections": [
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "חדשות אמריקה"
    ],
    "title": "\"ניצחון לדמוקרטים\": העולם מסקר את המהפך הפוליטי בארה\"ב",
    "type": "news",
@@ -52657,6 +52659,24 @@
    "updated_ms": 1793596877000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-8b41b13ae8a91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIR_MURDER_021126/MASTER/SHIR_MURDER_021126/SHIR_MURDER_021126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm": {
+   "author": "חדשות",
+   "date_source": "json-publishDate",
+   "description": "לינץ’ בשירותי בית הספר: 15 נערות תקפו באלימות את קריסטינה בת ה-14, שהתראיינה לחדשות הבוקר ושיתפה: “המנהלת הגיעה ולא עשתה כלום, אמרה שזה באשמתי”",
+   "duration_s": 51,
+   "first_seen_ms": 1793790145904,
+   "image": "https://img.mako.co.il/2026/11/04/NOAB_YALDA_041126_M_1400_1793784718904_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793784725000,
+   "sections": [
+    "חדשות"
+   ],
+   "title": "15 נערות תקפו את קריסטינה בבית הספר",
+   "type": "news",
+   "updated_ms": 1793784725000,
+   "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAB_YALDA_041126_M/MASTER/NOAB_YALDA_041126_M/NOAB_YALDA_041126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9625bc8c11c91a1026.htm": {
    "author": "חדשות",
@@ -102444,6 +102464,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-36dd2149045a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_karind_AbdulElSayed_8130_04112026065101/V1_karind_AbdulElSayed_8130_04112026065101_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3918cb5df26a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "אחרי הניצחון של המועמד עבדול אל-סייד בבחירות האמצע במישיגן: בעזה מחלקים ממתקים",
+   "duration_s": 37,
+   "first_seen_ms": 1793790145904,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18744_04112026105035_1400_1793789531413_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793789540000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "אחרי הניצחון של המועמד עבדול אל-סייד בבחירות האמצע במישיגן: בעזה מחלקים ממתקים",
+   "type": "mivzakim",
+   "updated_ms": 1793789540000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3918cb5df26a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18744_04112026105035/M_NEWS_18744_04112026105035_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3b81214a86691a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -102968,6 +103006,24 @@
    "updated_ms": 1793511341000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-65486596a9591a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_karind_bibi_8028_01112026053339/V1_karind_bibi_8028_01112026053339_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68475115426a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "רוכב אופנוע בן 37 נפצע בינוני במהלך רכיבה בכביש 4, סמוך למחלף אם המושבות",
+   "duration_s": 9,
+   "first_seen_ms": 1793790145904,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18743_04112026104839_1400_1793789411770_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793789420000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "רוכב אופנוע בן 37 נפצע בינוני במהלך רכיבה בכביש 4, סמוך למחלף אם המושבות",
+   "type": "mivzakim",
+   "updated_ms": 1793789420000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68475115426a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18743_04112026104839/M_NEWS_18743_04112026104839_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68489cece5b91a1027.htm": {
    "author": "מבזקים",

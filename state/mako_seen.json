@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793787748815,
+ "last_run_ms": 1793790148979,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -1625,9 +1625,9 @@
    "first_seen_ms": 1793784026834,
    "indexable": false,
    "indexnow_ms": null,
-   "published_ms": null,
+   "published_ms": 1793783694000,
    "section": "אופנה",
-   "title": "דמי מור לבשה את הג'ינס שלה בתור שמלה – וזה מחרפן"
+   "title": "גאפ לראשון: דמי מור לבשה את הג'ינס שלה בתור שמלה – וזה מחרפן"
   },
   "https://fashionforward.mako.co.il/nofilter/321843/": {
    "check_attempts": 1,
@@ -14155,6 +14155,18 @@
    "section": "ספורט",
    "title": "טוריאל ופלקאו צפויים לחזור להרכב הפועל"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c93179b1f26a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793790148979,
+   "content_type": "article",
+   "first_seen_ms": 1793790148979,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793790000000,
+   "section": "ספורט",
+   "title": "לעוד שנתיים: האופציה על ברדה תמומש"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-c958914eaa281a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -15426,6 +15438,18 @@
    "published_ms": 1790770800000,
    "section": "ספורט",
    "title": "\"כבר ראינו את הסוף\": העדות מהמטוס מדובאי"
+  },
+  "https://www.mako.co.il/Sports-football-il/q4_2026/Article-2d6fed62016a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793789067151,
+   "content_type": "article",
+   "first_seen_ms": 1793789067151,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793788020000,
+   "section": "ספורט",
+   "title": "הדיחה את מכבי ת\"א ובדרך לעונה היסטורית"
   },
   "https://www.mako.co.il/Sports-football-il/q4_2026/Article-3073d81358c11a1026.htm": {
    "check_attempts": 1,
@@ -25191,7 +25215,7 @@
    "indexnow_ms": 1793787748815,
    "published_ms": 1793787360000,
    "section": "סלבס",
-   "title": "\"מסע בודד\": הכוכבת מדברת על ההפרעה הנפשית שלה"
+   "title": "התגלה אחרי הלידה: הכוכבת מדברת על ההפרעה הנפשית שלה"
   },
   "https://www.mako.co.il/entertainment-celebs/world-2026/Article-641f5af7041f0a1026.htm": {
    "check_attempts": 1,
@@ -27605,6 +27629,18 @@
    "section": "כסף",
    "title": "3 שנים למלחמה: כמה כסף שילמה המדינה לנפגעים?"
   },
+  "https://www.mako.co.il/finances-news/Article-35bbed62016a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793789667074,
+   "content_type": "article",
+   "first_seen_ms": 1793789667074,
+   "indexable": true,
+   "indexnow_ms": 1793789667074,
+   "published_ms": 1793783400000,
+   "section": "כסף",
+   "title": "טיסה בשקל? רמי לוי בדרך להשתלט על שוק התעופה"
+  },
   "https://www.mako.co.il/finances-news/Article-36de846f96b01a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -28083,7 +28119,7 @@
    "indexnow_ms": 1793785950852,
    "published_ms": 1793785080000,
    "section": "כסף",
-   "title": "הזינוק נמנע, ההתייקרות לא: מחיר הדלק יעלה. כמה תשלמו?"
+   "title": "25 שקל יותר על מכל: הבנזין קופץ הלילה ל-7.85"
   },
   "https://www.mako.co.il/finances-news/Article-89da5af68dbe0a1027.htm": {
    "check_attempts": 1,
@@ -31420,6 +31456,18 @@
    "published_ms": 1791740940000,
    "section": "הכי חם",
    "title": "נקניקייה ב-45 שקל: המקום החדש של מושיק רוט"
+  },
+  "https://www.mako.co.il/food-restaurants/restaurant-news/Article-f9e77c6d761a1a1026.htm": {
+   "check_attempts": 2,
+   "check_reason": "ok",
+   "checked_ms": 1793789907098,
+   "content_type": "article",
+   "first_seen_ms": 1793789667074,
+   "indexable": true,
+   "indexnow_ms": 1793789907098,
+   "published_ms": 1793710200000,
+   "section": "",
+   "title": "עוד מסעדה תל אביבית מוכרת מגיעה לקריית אונו"
   },
   "https://www.mako.co.il/food-restaurants/restaurant-news/Article-ffcaa696eec91a1026.htm": {
    "check_attempts": 1,
@@ -36075,7 +36123,7 @@
    "indexnow_ms": 1793777427381,
    "published_ms": 1793777100000,
    "section": "HIX",
-   "title": "שלחה הודעה לאביה במרתון, רגע לפני קו הסיום התרחש האסון"
+   "title": "שלחה לאביה הודעה מהמרתון, ומתה לפני קו הסיום"
   },
   "https://www.mako.co.il/hix-special/Article-76142da7076f0a1026.htm": {
    "check_attempts": 1,
@@ -37659,7 +37707,7 @@
    "indexnow_ms": null,
    "published_ms": 1793782800000,
    "section": "הורים",
-   "title": "מקרה חמור: צעירה הותקפה על ידי 15 נערות"
+   "title": "בת 14 הותקפה בידי 15 נערות - ונדהמה מתגובת המנהלת"
   },
   "https://www.mako.co.il/home-family-kids/Article-d610835e89261a1026.htm": {
    "check_attempts": 1,
@@ -47932,6 +47980,18 @@
    "published_ms": 1792046460000,
    "section": "מוזיקה",
    "title": "התפתחות בחקירת התקיפה בנמל יפו"
+  },
+  "https://www.mako.co.il/music-news/Article-8f8d1eaf406a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793787986995,
+   "content_type": "article",
+   "first_seen_ms": 1793787986995,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793787660000,
+   "section": "מוזיקה",
+   "title": "ליעד מאיר מתפוצץ: \"אנשים כאלה לא צריכים להיות פה\""
   },
   "https://www.mako.co.il/music-news/Article-926d529c522f0a1027.htm": {
    "check_attempts": 1,
@@ -59427,6 +59487,18 @@
    "section": "",
    "title": "החשש באיראן: \"מחכים לראות מתי תפרוץ מלחמה\""
   },
+  "https://www.mako.co.il/special-mako-news/Article-f98e942dab5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-world/2026_q4/Article-f98e942dab5a1a1027.htm",
+   "checked_ms": 1793787986995,
+   "content_type": "article",
+   "first_seen_ms": 1793787986995,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793782800000,
+   "section": "",
+   "title": "בלילה אחד: השינוי הדרמטי ביחסי ישראל וארה\"ב"
+  },
   "https://www.mako.co.il/special-mako-news/Article-f9ea7956bc201a1027.htm": {
    "check_attempts": 1,
    "check_reason": "canonical -> https://www.mako.co.il/news-military/2026_q4/Article-f9ea7956bc201a1027.htm",
@@ -61813,7 +61885,7 @@
    "indexnow_ms": 1793786786934,
    "published_ms": 1793785200000,
    "section": "חופש",
-   "title": "\"ישראלים השתינו בשטח כנסייה\": הסערה - ותגובת הכומר"
+   "title": "ישראלים עשו צרכים על כנסייה בחו\"ל - סמוך לגן ילדים"
   },
   "https://www.mako.co.il/travel-news/international/Article-64d40c00a7501a1026.htm": {
    "check_attempts": 1,

@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3918cb5df26a1a1026.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/M_NEWS_18744_04112026105035_1400_1793789531413_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>אחרי הניצחון של המועמד עבדול אל-סייד בבחירות האמצע במישיגן: בעזה מחלקים ממתקים</video:title>
+<video:description>אחרי הניצחון של המועמד עבדול אל-סייד בבחירות האמצע במישיגן: בעזה מחלקים ממתקים</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18744_04112026105035/M_NEWS_18744_04112026105035_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>37</video:duration>
+<video:publication_date>2026-11-04T10:52:20+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-68475115426a1a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/M_NEWS_18743_04112026104839_1400_1793789411770_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>רוכב אופנוע בן 37 נפצע בינוני במהלך רכיבה בכביש 4, סמוך למחלף אם המושבות</video:title>
+<video:description>רוכב אופנוע בן 37 נפצע בינוני במהלך רכיבה בכביש 4, סמוך למחלף אם המושבות</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18743_04112026104839/M_NEWS_18743_04112026104839_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>9</video:duration>
+<video:publication_date>2026-11-04T10:50:20+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מבזקים</video:uploader>
+<video:tag>מבזקים</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-de08ed62016a1a1026.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/04/V1_KARIND_SOLBERG_04116_8140_04112026101539_1400_1793787433082_FirstFrame.jpg</video:thumbnail_loc>
@@ -162,6 +194,22 @@
 <video:uploader>אהבה מעבר לפינה</video:uploader>
 <video:tag>הפרק היומי</video:tag>
 <video:tag>אהבה מעבר לפינה</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-9389ac695e5a1a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/NOAB_YALDA_041126_M_1400_1793784718904_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>15 נערות תקפו את קריסטינה בבית הספר</video:title>
+<video:description>לינץ’ בשירותי בית הספר: 15 נערות תקפו באלימות את קריסטינה בת ה-14, שהתראיינה לחדשות הבוקר ושיתפה: “המנהלת הגיעה ולא עשתה כלום, אמרה שזה באשמתי”</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAB_YALDA_041126_M/MASTER/NOAB_YALDA_041126_M/NOAB_YALDA_041126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>51</video:duration>
+<video:publication_date>2026-11-04T09:32:05+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>חדשות</video:uploader>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -404,6 +452,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>הכי נצפים עכשיו</video:tag>
+<video:tag>חדשות אמריקה</video:tag>
 <video:tag>חדשות</video:tag>
 </video:video>
 </url>
