@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-6eeea4419f5a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-de08ed62016a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d3d51eaf406a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -24785,7 +24786,8 @@
    "importance": 0,
    "published_ms": 1793776283000,
    "sections": [
-    "הכי Vיראלים"
+    "הכי Vיראלים",
+    "הכי נצפים עכשיו"
    ],
    "title": "הסרטון ששיגע מיליונים ברשת: לברון ג'יימס לוקח לגימה מיין מכוס של אוהד במהלך משחק",
    "type": "mivzakim",
@@ -52451,7 +52453,9 @@
    "image": "https://img.mako.co.il/2026/11/04/FIX_yoav_france24_041126_1400_1793778857250_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793776560000,
-   "sections": [],
+   "sections": [
+    "הכי נצפים עכשיו"
+   ],
    "title": "\"ניצחון לדמוקרטים\": העולם מסקר את המהפך הפוליטי בארה\"ב",
    "type": "news",
    "updated_ms": 1793779620000,
@@ -104194,6 +104198,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d18c51e178791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/M_NEWS_18552_01112026023903/M_NEWS_18552_01112026023903_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d3d51eaf406a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תוצאות הבחירות הרשמיות הוגשו לנשיא",
+   "duration_s": 9,
+   "first_seen_ms": 1793787745825,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18742_04112026101342_1400_1793787313575_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793787328000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תוצאות הבחירות הרשמיות הוגשו לנשיא",
+   "type": "mivzakim",
+   "updated_ms": 1793787328000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d3d51eaf406a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18742_04112026101342/M_NEWS_18742_04112026101342_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-d5af4a981f1a1a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -104301,6 +104323,24 @@
    "updated_ms": 1793778977000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-dcd0584f985a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_ZINI_8135_04112026075453/V1_KARIND_ZINI_8135_04112026075453_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-de08ed62016a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "סולברג: ״הקולות שמבקשים להטיל דופי בתוצאות הבחירות - סכנה של ממש״",
+   "duration_s": 31,
+   "first_seen_ms": 1793787745825,
+   "image": "https://img.mako.co.il/2026/11/04/V1_KARIND_SOLBERG_04116_8140_04112026101539_1400_1793787433082_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793787441000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "סולברג: ״הקולות שמבקשים להטיל דופי בתוצאות הבחירות - סכנה של ממש״",
+   "type": "mivzakim",
+   "updated_ms": 1793787441000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-de08ed62016a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_SOLBERG_04116_8140_04112026101539/V1_KARIND_SOLBERG_04116_8140_04112026101539_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e1cc535808791a1027.htm": {
    "author": "מבזקים",
@@ -132432,7 +132472,8 @@
    "importance": 0,
    "published_ms": 1793774192000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הקלפי הכי רחוקה: שלושה אסטרונאוטים הצביעו בבחירות האמצע מתחנת החלל במסלול סביב כדור הארץ",
    "type": "mivzakim",
