@@ -14,6 +14,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים</video:uploader>
 <video:tag>מבזקים</video:tag>
+<video:tag>חדשות</video:tag>
 </video:video>
 </url>
 <url>
@@ -270,6 +271,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקי סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 <video:tag>מבזקי סלבס</video:tag>
 </video:video>
 </url>
@@ -338,6 +340,22 @@
 </video:video>
 </url>
 <url>
+<loc>https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-43297647f66a1a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/NOAY_KING_041126_1400_1793793905422_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מעורר דאגה: התיעודים החדשים של המלך צ&#x27;ארלס והשמועות על המצב הרפואי</video:title>
+<video:description>תמונות חדשות של המלך צ&#x27;ארלס בן ה-77, שצולמו במהלך ביקורו בקריביים, מעוררות דאגה בבריטניה לאחר שנראה כשאצבעות ידיו נפוחות ואדומות. המלך, שמתמודד עם מחלת הסרטן מאז פברואר 2024, עורר שאלות בנוגע למצבו הבריאותי. לדברי פרופ&#x27; גיל בר-סלע, מנהל המרכז האונקולוגי במרכז הרפואי העמק, הנפיחות עשויה להיות תופעת לוואי של הטיפולים האונקולוגיים, אך גם להעיד על בעיות בתפקוד הלב או הכליות. עם זאת, הוא מדגיש כי לא ניתן לקבוע את הסיבה על סמך תמונות בלבד. זו לא הפעם הראשונה שאצבעותיו של המלך מושכות תשומת לב, ובעבר אף זכו לכינוי &quot;אצבעות נקניקיות&quot;.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_KING_041126/MASTER/NOAY_KING_041126/NOAY_KING_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>36</video:duration>
+<video:publication_date>2026-11-04T12:05:14+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>מהעולם</video:uploader>
+<video:tag>מהעולם</video:tag>
+</video:video>
+</url>
+<url>
 <loc>https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-9654368f366a1a1027.htm</loc>
 <video:video>
 <video:thumbnail_loc>https://img.mako.co.il/2026/11/04/M_Tarbut_18748_04112026115500_1400_1793793393814_FirstFrame.jpg</video:thumbnail_loc>
@@ -367,6 +385,7 @@
 <video:live>no</video:live>
 <video:uploader>מבזקים מהעולם</video:uploader>
 <video:tag>מבזקים מהעולם</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>
@@ -2105,6 +2124,7 @@
 <video:live>no</video:live>
 <video:uploader>חדשות</video:uploader>
 <video:tag>חדשות</video:tag>
+<video:tag>הכי נצפים עכשיו</video:tag>
 </video:video>
 </url>
 <url>

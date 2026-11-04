@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-2151a4644e6a1a1026.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8fbf35db7d6a1a1026.htm"
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-43297647f66a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7196,7 +7195,7 @@
    ],
    "title": "אחרי ארבעה חודשים בלבד: רוסלנה רודינה ובן הזוג עמי ברדה נפרדו",
    "type": "general",
-   "updated_ms": 1793798370000,
+   "updated_ms": 1793803260000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-236dfb7b0b6a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_ROSLANA_041126/MASTER/NOAY_ROSLANA_041126/NOAY_ROSLANA_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -10218,7 +10217,8 @@
    "importance": 0,
    "published_ms": 1793796155000,
    "sections": [
-    "סלבס"
+    "סלבס",
+    "הכי נצפים עכשיו"
    ],
    "title": "הזמרת ליהי טולדנו בסרטון ראשון עם בת הזוג מיטל שגדולה ממנה ב-14 שנה - וגם המנהלת האישית שלה",
    "type": "mivzakim",
@@ -31935,6 +31935,24 @@
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-41d644dd67791a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/inbalmatos01126/MASTER/inbalmatos01126m/inbalmatos01126m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-43297647f66a1a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "תמונות חדשות של המלך צ'ארלס בן ה-77, שצולמו במהלך ביקורו בקריביים, מעוררות דאגה בבריטניה לאחר שנראה כשאצבעות ידיו נפוחות ואדומות. המלך, שמתמודד עם מחלת הסרטן מאז פברואר 2024, עורר שאלות בנוגע למצבו הבריאותי. לדברי פרופ' גיל בר-סלע, מנהל המרכז האונקולוגי במרכז הרפואי העמק, הנפיחות עשויה להיות תופעת לוואי של הטיפולים האונקולוגיים, אך גם להעיד על בעיות בתפקוד הלב או הכליות. עם זאת, הוא מדגיש כי לא ניתן לקבוע את הסיבה על סמך תמונות בלבד. זו לא הפעם הראשונה שאצבעותיו של המלך מושכות תשומת לב, ובעבר אף זכו לכינוי \"אצבעות נקניקיות\".",
+   "duration_s": 36,
+   "first_seen_ms": 1793803646093,
+   "image": "https://img.mako.co.il/2026/11/04/NOAY_KING_041126_1400_1793793905422_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793793914000,
+   "sections": [
+    "מהעולם"
+   ],
+   "title": "מעורר דאגה: התיעודים החדשים של המלך צ'ארלס והשמועות על המצב הרפואי",
+   "type": "general",
+   "updated_ms": 1793793914000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-43297647f66a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_KING_041126/MASTER/NOAY_KING_041126/NOAY_KING_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-4e0a412fec791a1027.htm": {
    "author": "מהעולם",
    "date_source": "json-publishDate",
@@ -52887,7 +52905,8 @@
    "importance": 2,
    "published_ms": 1793726312000,
    "sections": [
-    "חדשות"
+    "חדשות",
+    "הכי נצפים עכשיו"
    ],
    "title": "המבול בדרך: גשמים עזים, רוחות והצפות - איפה ירד הכי הרבה?",
    "type": "news",
@@ -102492,7 +102511,8 @@
    "importance": 0,
    "published_ms": 1793801917000,
    "sections": [
-    "מבזקים"
+    "מבזקים",
+    "חדשות"
    ],
    "title": "באגרופים ועם אלה: תיעוד קטטה באמצע הכביש באור עקיבא - הרקע פלילי, המשטרה פתחה בחקירה",
    "type": "mivzakim",
@@ -132846,7 +132866,8 @@
    "importance": 0,
    "published_ms": 1793793159000,
    "sections": [
-    "מבזקים מהעולם"
+    "מבזקים מהעולם",
+    "הכי נצפים עכשיו"
    ],
    "title": "הפלאפון מתחיל להעלות עשן - ותוך רגע עולה באש בידיו של גבר בהודו | צפו ברגע המבהיל",
    "type": "mivzakim",

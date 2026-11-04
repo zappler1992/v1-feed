@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793803350582,
+ "last_run_ms": 1793803649513,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -22659,6 +22659,18 @@
    "section": "סלבס",
    "title": "לא מסתירה: מעיין אדם חושפת את הגוף אחרי הלידה"
   },
+  "https://www.mako.co.il/entertainment-celebs/local-2026/Article-36887dd67f6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793803586801,
+   "content_type": "article",
+   "first_seen_ms": 1793803586801,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793803200000,
+   "section": "סלבס",
+   "title": "זה היה מהיר: השחקנית ובן הזוג נפרדו"
+  },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-377f0e71e3541a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -23389,7 +23401,7 @@
    "indexnow_ms": 1793796149308,
    "published_ms": 1793795820000,
    "section": "",
-   "title": "היה מהיר: רוסלנה רודינה ובן הזוג נפרדו"
+   "title": "רוסלנה רודינה ובן הזוג נפרדו"
   },
   "https://www.mako.co.il/entertainment-celebs/local-2026/Article-80e0145821601a1026.htm": {
    "check_attempts": 1,
@@ -52801,7 +52813,7 @@
    "indexnow_ms": 1793793750932,
    "published_ms": 1793793060000,
    "section": "דיגיטל",
-   "title": "הישראלי שמבטיח לחסוך לכם אלפי שקלים בשנה"
+   "title": "בעזרת AI: ליעד פותר את הבעיה שמציקה להמוני ישראלים"
   },
   "https://www.mako.co.il/nexter-news/Article-85a0d3a361e51a1026.htm": {
    "check_attempts": 1,
@@ -60432,6 +60444,18 @@
    "published_ms": 1790233920000,
    "section": "SENSES",
    "title": "גייסו 400 מיליון ושווים כבר 6.4 מיליארד דולר"
+  },
+  "https://www.mako.co.il/special-senses/living/Article-8e5ddf59d95a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793803649513,
+   "content_type": "article",
+   "first_seen_ms": 1793803649513,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793779800000,
+   "section": "SENSES",
+   "title": "כאן בארץ: הפארק שנכנס לרשימת 100 היפים בעולם"
   },
   "https://www.mako.co.il/special-senses/living/Article-bd6efbadcf261a1026.htm": {
    "check_attempts": 1,
