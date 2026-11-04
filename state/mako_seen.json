@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793778449038,
+ "last_run_ms": 1793778749179,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -37289,6 +37289,18 @@
    "section": "הורים",
    "title": "הורים פרצו לתיכון ותקפו תלמיד, שנזקק לטיפול"
   },
+  "https://www.mako.co.il/home-family-kids/Article-8896f23bf55a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793778627590,
+   "content_type": "article",
+   "first_seen_ms": 1793778627590,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793776980000,
+   "section": "הורים",
+   "title": "ילד אלרגי? המענה שיקבל תלוי בעיר שבה הוא גר"
+  },
   "https://www.mako.co.il/home-family-kids/Article-88d59efca1701a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -59389,7 +59401,7 @@
    "indexnow_ms": null,
    "published_ms": 1793758080000,
    "section": "",
-   "title": "הנאום נגד ישראל בארה\"ב - והחגיגה של האיראנים"
+   "title": "הנאום של המועמד האנטי-ישראלי - והחגיגה של האיראנים"
   },
   "https://www.mako.co.il/special-mako-news/liveblog-dd5b302033f21a1026.htm": {
    "check_attempts": 1,
