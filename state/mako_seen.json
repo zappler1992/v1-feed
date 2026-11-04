@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793822250621,
+ "last_run_ms": 1793822550104,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -13157,6 +13157,18 @@
    "section": "ספורט",
    "title": "חיפה מרחק 3 שחקנים מלהיות מועמדת לאליפות"
   },
+  "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-8468e530528a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793822550104,
+   "content_type": "article",
+   "first_seen_ms": 1793822550104,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793822280000,
+   "section": "ספורט",
+   "title": "דיווח: הצעת העתק של לבאנטה על סיסוקו"
+  },
   "https://www.mako.co.il/Sports-football-il/premier-league-q4_2026/Article-85d295661b551a1027.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -16060,6 +16072,18 @@
    "published_ms": 1792598220000,
    "section": "ספורט",
    "title": "עקב פציעת חביצ'ה: פ.ס.ז` תוכל לרכוש שחקן"
+  },
+  "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-2494782c518a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793822550104,
+   "content_type": "article",
+   "first_seen_ms": 1793822550104,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793822160000,
+   "section": "ספורט",
+   "title": "שוב ושוב: נתוני המאני טיים האדירים בריאל"
   },
   "https://www.mako.co.il/Sports-football-world/champion-league-q4_2026/Article-2729ba7ee1261a1027.htm": {
    "check_attempts": 1,
