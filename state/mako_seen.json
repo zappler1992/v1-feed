@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793768850157,
+ "last_run_ms": 1793769150883,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -54075,7 +54075,7 @@
    "indexnow_ms": null,
    "published_ms": 1793703840000,
    "section": "צבא וביטחון",
-   "title": "המהלך של ישראל מעבר לגבול שהקפיץ מדינה עוינת"
+   "title": "סימן לבאות? התשתית המבוצרת שצה\"ל מרחיב בצפון"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-1a3367d586b11a1027.htm": {
    "check_attempts": 1,
@@ -57986,6 +57986,18 @@
    "published_ms": 1792332060000,
    "section": "חדשות",
    "title": "הרמטכ\"ל החליט על עוצר יציאות בצה\"ל בבחירות"
+  },
+  "https://www.mako.co.il/special-mako-news/Article-ab37b862af2a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-ab37b862af2a1a1026.htm",
+   "checked_ms": 1793769150883,
+   "content_type": "article",
+   "first_seen_ms": 1793769150883,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793769000000,
+   "section": "",
+   "title": "החוקים שגוש השינוי מתכנן לבטל עם השבעת הכנסת"
   },
   "https://www.mako.co.il/special-mako-news/Article-abe0a1c4ed291a1027.htm": {
    "check_attempts": 1,

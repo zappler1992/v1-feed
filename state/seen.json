@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-fb9b819e2d4a1a1027.htm",
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-b52c819e2d4a1a1027.htm"
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51d819e2d4a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -23692,6 +23691,24 @@
    "updated_ms": 1793680700000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51b4c6fbaf91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18640_03112026043707/M_Tarbut_18640_03112026043707_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51d819e2d4a1a1027.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "סשה אדם מרימה מהקהל בהופעה של עומר בלוס אנג'לס",
+   "duration_s": 8,
+   "first_seen_ms": 1793769147536,
+   "image": "https://img.mako.co.il/2026/11/04/M_Celebs_18723_04112026045514_1400_1793768173407_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793768179000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "סשה אדם מרימה מהקהל בהופעה של עומר בלוס אנג'לס",
+   "type": "mivzakim",
+   "updated_ms": 1793768179000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e51d819e2d4a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18723_04112026045514/M_Celebs_18723_04112026045514_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-e6b38a83de591a1027.htm": {
    "author": "עדכוני בידור",
@@ -103917,14 +103934,14 @@
    "duration_s": 35,
    "first_seen_ms": 1793767646752,
    "image": "https://img.mako.co.il/2026/11/04/V1_trumpnew_8119_04112026044041_1400_1793767321426_FirstFrame.jpg",
-   "importance": 0,
+   "importance": 1,
    "published_ms": 1793767328000,
    "sections": [
     "מבזקים"
    ],
    "title": "תבוסת הענק של טראמפ בבחירות האמצע בארצות הברית: כל מה מה שצריך לדעת | האזינו לדיווח מעודכן",
    "type": "mivzakim",
-   "updated_ms": 1793767328000,
+   "updated_ms": 1793768760000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-fb9b819e2d4a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_trumpnew_8119_04112026044041/V1_trumpnew_8119_04112026044041_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
