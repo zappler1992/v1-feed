@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8eb22149045a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-dcd0584f985a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -52255,7 +52255,7 @@
    "sections": [],
    "title": "\"ניצחון לדמוקרטים\": העולם מסקר את המהפך הפוליטי בארה\"ב",
    "type": "news",
-   "updated_ms": 1793778840000,
+   "updated_ms": 1793778900000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/FIX_yoav_france24_041126/FIX_yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -104032,6 +104032,24 @@
    "updated_ms": 1793684894000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-da91c9e0edf91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/FIX_Kotarot_031126/FIX_Kotarot_031126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-dcd0584f985a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "השב\"כ: הפעולות למימון והשפעה זרה בסכומי עתק הם תופעה נרחבת ובהיקף העולה על אלפי אנשים",
+   "duration_s": 9,
+   "first_seen_ms": 1793779346117,
+   "image": "https://img.mako.co.il/2026/11/04/V1_KARIND_ZINI_8135_04112026075453_1400_1793778971347_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793778977000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "השב\"כ: הפעולות למימון והשפעה זרה בסכומי עתק הם תופעה נרחבת ובהיקף העולה על אלפי אנשים",
+   "type": "mivzakim",
+   "updated_ms": 1793778977000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-dcd0584f985a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_ZINI_8135_04112026075453/V1_KARIND_ZINI_8135_04112026075453_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-e1cc535808791a1027.htm": {
    "author": "מבזקים",
