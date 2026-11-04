@@ -1,8 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/world_newsflash-2026/m11_w01/shorts-e0408c0c185a1a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-45508c0c185a1a1027.htm"
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8eb22149045a1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -7291,6 +7290,24 @@
    "updated_ms": 1793563200000,
    "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8bb76d7867891a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/mali1126/MASTER/mali1126m/mali1126m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8eb22149045a1a1027.htm": {
+   "author": "סלבס",
+   "date_source": "json-publishDate",
+   "description": "\"אי אפשר, זה מכוער!\": מישל פרו משחזרת את הקטע האייקוני של יונית לוי - כשלא ידעה שהיא בשידור",
+   "duration_s": 26,
+   "first_seen_ms": 1793779046040,
+   "image": "https://img.mako.co.il/2026/11/04/NOAB_MISEL_041126_M_1400_1793775544188_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793775550000,
+   "sections": [
+    "סלבס"
+   ],
+   "title": "מישל פרו עושה יונית לוי",
+   "type": "general",
+   "updated_ms": 1793775550000,
+   "url": "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8eb22149045a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAB_MISEL_041126_M/MASTER/NOAB_MISEL_041126_M/NOAB_MISEL_041126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-95d99a66cf591a1026.htm": {
    "author": "סלבס",
@@ -52229,18 +52246,18 @@
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm": {
    "author": "חדשות",
    "date_source": "json-publishDate",
-   "description": "העולם לא נשאר אדיש לדרמה הפוליטית בארה\"ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון",
+   "description": "העולם לא נשאר אדיש לדרמה הפוליטית בארה\"ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון.",
    "duration_s": 46,
    "first_seen_ms": 1793776945836,
-   "image": "https://img.mako.co.il/2026/11/04/yoav_france24_041126_1400_1793776275246_FirstFrame.jpg",
+   "image": "https://img.mako.co.il/2026/11/04/FIX_yoav_france24_041126_1400_1793778857250_FirstFrame.jpg",
    "importance": 2,
    "published_ms": 1793776560000,
    "sections": [],
    "title": "\"ניצחון לדמוקרטים\": העולם מסקר את המהפך הפוליטי בארה\"ב",
    "type": "news",
-   "updated_ms": 1793777940000,
+   "updated_ms": 1793778840000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_france24_041126/MASTER/yoav_france24_041126/yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/FIX_yoav_france24_041126/FIX_yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-621cd57edfa91a1027.htm": {
    "author": "חדשות",

@@ -84,10 +84,10 @@
 <url>
 <loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-5dcaf23bf55a1a1026.htm</loc>
 <video:video>
-<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/yoav_france24_041126_1400_1793776275246_FirstFrame.jpg</video:thumbnail_loc>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/FIX_yoav_france24_041126_1400_1793778857250_FirstFrame.jpg</video:thumbnail_loc>
 <video:title>&quot;ניצחון לדמוקרטים&quot;: העולם מסקר את המהפך הפוליטי בארה&quot;ב</video:title>
-<video:description>העולם לא נשאר אדיש לדרמה הפוליטית בארה&quot;ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון</video:description>
-<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_france24_041126/MASTER/yoav_france24_041126/yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:description>העולם לא נשאר אדיש לדרמה הפוליטית בארה&quot;ב: כלי התקשורת מסקרים את המפלה של טראמפ, אחרי שהדמוקרטים רשמו ניצחונות היסטוריים בטקסס ובאוהיו ושינו את מאזן הכוחות בוושינגטון.</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/FIX_yoav_france24_041126/FIX_yoav_france24_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
 <video:duration>46</video:duration>
 <video:publication_date>2026-11-04T07:16:00+00:00</video:publication_date>
 <video:family_friendly>yes</video:family_friendly>
@@ -143,6 +143,22 @@
 <video:live>no</video:live>
 <video:uploader>סלבס</video:uploader>
 <video:tag>חדשות מהמסך</video:tag>
+<video:tag>סלבס</video:tag>
+</video:video>
+</url>
+<url>
+<loc>https://www.v-1.co.il/celebs-magazine/2026-m11_w01/shorts-8eb22149045a1a1027.htm</loc>
+<video:video>
+<video:thumbnail_loc>https://img.mako.co.il/2026/11/04/NOAB_MISEL_041126_M_1400_1793775544188_FirstFrame.jpg</video:thumbnail_loc>
+<video:title>מישל פרו עושה יונית לוי</video:title>
+<video:description>&quot;אי אפשר, זה מכוער!&quot;: מישל פרו משחזרת את הקטע האייקוני של יונית לוי - כשלא ידעה שהיא בשידור</video:description>
+<video:content_loc>https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAB_MISEL_041126_M/MASTER/NOAB_MISEL_041126_M/NOAB_MISEL_041126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8</video:content_loc>
+<video:duration>26</video:duration>
+<video:publication_date>2026-11-04T06:59:10+00:00</video:publication_date>
+<video:family_friendly>yes</video:family_friendly>
+<video:requires_subscription>no</video:requires_subscription>
+<video:live>no</video:live>
+<video:uploader>סלבס</video:uploader>
 <video:tag>סלבס</video:tag>
 </video:video>
 </url>
