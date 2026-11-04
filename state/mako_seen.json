@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793835748812,
+ "last_run_ms": 1793836064707,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -36,6 +36,18 @@
    "published_ms": 1792399100000,
    "section": "אופנה",
    "title": "איפה קנית: לשמלה של אניה בוקשטיין יש מחשוף גב משגע"
+  },
+  "https://fashionforward.mako.co.il/celebs/shopping/322829/": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793835987574,
+   "content_type": "article",
+   "first_seen_ms": 1793835987574,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793827825000,
+   "section": "Fashion Forward",
+   "title": "איפה קנית: שלי סרבריאניקוב עם המכנסיים המושלמים לכאן ועכשיו"
   },
   "https://fashionforward.mako.co.il/gift/320608/": {
    "check_attempts": 1,
