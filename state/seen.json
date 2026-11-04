@@ -1,7 +1,14 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-68db8c67cd5a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f1f2c81fde5a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c1f2c81fde5a1a1026.htm",
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m11_w01/shorts-2c32fd7ca4791a1027.htm",
+  "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-04ad328466c91a1026.htm",
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-239187e183d91a1026.htm",
+  "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-77c20fb3475a1a1026.htm",
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-58e7594b3c5a1a1027.htm",
+  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-90ca8c67cd5a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -1406,6 +1413,24 @@
    "updated_ms": 1793526120000,
    "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-230cb44f96691a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/ACADEMY_OF_LIES_EP25/MASTER/ACADEMY_OF_LIES_EP25/ACADEMY_OF_LIES_EP25_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-239187e183d91a1026.htm": {
+   "author": "בקצב השקר",
+   "date_source": "json-publishDate",
+   "description": "בקצב השקר פרק 28: רגע לפני הגאלה, ג׳אד מתנצל בפני מיה על שנפל בפח של אשלי ומציע לחזור להופיע איתה. מיה מסכימה ומנסה לספר לו מי היא באמת, אבל השיחה נקטעת לפני שהיא מספיקה להתוודות. כשג׳אד הולך להתארגן, אשלי מתקרבת למיה מאחור ודוחפת אותה - נחושה למנוע ממנה להרוס לה את הערב.",
+   "duration_s": 88,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/02/ACADEMY_OF_LIES_EP28_1400_1793640059285_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793785560000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "בקצב השקר פרק 28: תקיפה רגע לפני ההופעה",
+   "type": "series",
+   "updated_ms": 1793785560000,
+   "url": "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-239187e183d91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/ACADEMY_OF_LIES_EP28/MASTER/ACADEMY_OF_LIES_EP28/ACADEMY_OF_LIES_EP28_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/academy_of_lies-magazine/2026-m11_w01/shorts-c6f521baf1d91a1027.htm": {
    "author": "בקצב השקר",
@@ -24747,7 +24772,9 @@
    "image": "https://img.mako.co.il/2026/11/04/V1_KARIND_LEBRON_8131_04112026070956_1400_1793776276944_FirstFrame.jpg",
    "importance": 0,
    "published_ms": 1793776283000,
-   "sections": [],
+   "sections": [
+    "הכי Vיראלים"
+   ],
    "title": "הסרטון ששיגע מיליונים ברשת: לברון ג'יימס לוקח לגימה מיין מכוס של אוהד במהלך משחק",
    "type": "mivzakim",
    "updated_ms": 1793776283000,
@@ -26032,6 +26059,24 @@
    "updated_ms": 1793687220000,
    "url": "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-3ac75e1177b91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/rinat_eggs_021126/MASTER/rinat_eggs_021126_m/rinat_eggs_021126_m_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-90ca8c67cd5a1a1026.htm": {
+   "author": "אוכל",
+   "date_source": "json-publishDate",
+   "description": "",
+   "duration_s": 23,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/04/yoav_resturant_041126_1400_1793784177537_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793784360000,
+   "sections": [
+    "אוכל"
+   ],
+   "title": "מישראל לברוקלין: המסעדה החדשה של שגב משה",
+   "type": "general",
+   "updated_ms": 1793784360000,
+   "url": "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-90ca8c67cd5a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/yoav_resturant_041126/MASTER/yoav_resturant_041126/yoav_resturant_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/food-magazine/2026-m11_w01/shorts-c717fd7ca4791a1027.htm": {
    "author": "אוכל",
@@ -31676,6 +31721,24 @@
    "updated_ms": 1793595720000,
    "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-578fe978b1991a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/SHIRA_MATOS_011126/MASTER/SHIRA_MATOS_011126_M/SHIRA_MATOS_011126_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-58e7594b3c5a1a1027.htm": {
+   "author": "מהעולם",
+   "date_source": "json-publishDate",
+   "description": "נזק לראייה ולכוויות קשות: הטרנד החדש והמסוכן בטיקטוק - והכל בגלל ביצה. ביצה קשה שנראית רגילה לחלוטין מתפוצצת ברגע שחותכים אותה בסכין. הסיבה לכך היא חימום במיקרוגל, שגורם להצטברות קיטור ולחץ בתוך הביצה, המשתחררים בבת אחת בעת חיתוך או נגיסה. הפיצוץ עלול לגרום לכוויות ולפציעות, במיוחד אם הוא מתרחש בתוך הפה. גם הסרת הקליפה לא מונעת בהכרח את הסכנה, ולכן מומלץ לחמם ביצים קשות במים חמים ולא במיקרוגל.",
+   "duration_s": 60,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/04/NOAY_TREND_041126_1400_1793783269272_FirstFrame.jpg",
+   "importance": 2,
+   "published_ms": 1793783276000,
+   "sections": [
+    "הכי Vיראלים"
+   ],
+   "title": "נזק לראייה ולכוויות קשות: הטרנד החדש והמסוכן בטיקטוק - והכל בגלל ביצה",
+   "type": "general",
+   "updated_ms": 1793783276000,
+   "url": "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-58e7594b3c5a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/NOAY_TREND_041126/MASTER/NOAY_TREND_041126/NOAY_TREND_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/global-magazine/2026-m11_w01/shorts-68815831dc891a1027.htm": {
    "author": "מהעולם",
@@ -37380,6 +37443,24 @@
    "url": "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-74ade6bdacb91a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/LOADED_EP76/MASTER/LOADED_EP76/LOADED_EP76_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-77c20fb3475a1a1026.htm": {
+   "author": "מסודרים",
+   "date_source": "json-publishDate",
+   "description": "מסודרים פרק 78: תומר וארז מחלקים ביניהם את העבודה כדי להרחיק את גיא מאיילת: ארז תוקע אותו בהתייעצות כדורגל שלא נגמרת, ותומר לוקח אותה לסיור בווילה. בין המקלחת השקופה למיטה המסתובבת, תומר מגיע לאטרקציה שבאמת רצה להראות לה - תמונות של גיא ואביגיל. איילת מסכימה שהיא חמודה, עם חיוך שכבר נראה קצת פחות נלהב.",
+   "duration_s": 160,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/04/LOADED_EP78_1400_1793777568562_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793785620000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "מסודרים פרק 78: סיור עם מסר לאקסית",
+   "type": "series",
+   "updated_ms": 1793785620000,
+   "url": "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-77c20fb3475a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/LOADED_EP78/MASTER/LOADED_EP78/LOADED_EP78_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/loaded-magazine/2026-m11_w01/shorts-ad8e825ff7691a1026.htm": {
    "author": "מסודרים",
    "date_source": "json-publishDate",
@@ -38262,6 +38343,24 @@
    "updated_ms": 1793699280000,
    "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m11_w01/shorts-0e2ccd3d70791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LOVE_CORNER_EP46/MASTER/LOVE_CORNER_EP46_M/LOVE_CORNER_EP46_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m11_w01/shorts-2c32fd7ca4791a1027.htm": {
+   "author": "אהבה מעבר לפינה",
+   "date_source": "json-publishDate",
+   "description": "אהבה מעבר לפינה פרק 47: גולן חוזר מאילת עם חדשות טובות ומבטיח לדניאלה שיעזור למשפחה לצאת מהחובות, בזמן שהיא עדיין רואה בו ובאלונה זוג מיוחד. בפיצה ארט, עודד לוחץ על ליאור לדבר עם עדן. כשהיא מגיעה ומציעה שייצאו לדייט, ליאור אומר שיש משהו שהוא צריך לספר לה.",
+   "duration_s": 140,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/01/LOVE_CORNER_EP47_M_1400_1793540313512_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793785380000,
+   "sections": [
+    "הפרק היומי"
+   ],
+   "title": "אהבה מעבר לפינה פרק 47: הגיע הזמן לספר",
+   "type": "series",
+   "updated_ms": 1793785380000,
+   "url": "https://www.v-1.co.il/love_around_the_corner-magazine/2026-m11_w01/shorts-2c32fd7ca4791a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/LOVE_CORNER_EP47/MASTER/LOVE_CORNER_EP47_M/LOVE_CORNER_EP47_M_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/news-magazine/2024-m10_w01/shorts-356d9f432235291027.htm": {
    "author": "חדשות",
@@ -103811,6 +103910,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c0eeecef05d91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/M_NEWS_18625_02112026054414/M_NEWS_18625_02112026054414_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c1f2c81fde5a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טרקטורון חקלאי התהפך בשטח פתוח סמוך לקדימה, בן 61 במצב בינוני",
+   "duration_s": 9,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18741_04112026094424_1400_1793785552123_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793785559000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טרקטורון חקלאי התהפך בשטח פתוח סמוך לקדימה, בן 61 במצב בינוני",
+   "type": "mivzakim",
+   "updated_ms": 1793785559000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c1f2c81fde5a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18741_04112026094424/M_NEWS_18741_04112026094424_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c1f4fd7ca4791a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -104405,6 +104522,24 @@
    "updated_ms": 1793781461000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f196637baa5a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_SIGARYOT_8136_04112026083605/V1_KARIND_SIGARYOT_8136_04112026083605_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f1f2c81fde5a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "תיעוד: כוחות צה״ל איתרו מטען חבלה שהוטמן בעבר במרחב נור א-שמס - והשמידו אותו",
+   "duration_s": 14,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/04/V1_karind_police_041126_8138_04112026094443_1400_1793785552173_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793785559000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "תיעוד: כוחות צה״ל איתרו מטען חבלה שהוטמן בעבר במרחב נור א-שמס - והשמידו אותו",
+   "type": "mivzakim",
+   "updated_ms": 1793785559000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f1f2c81fde5a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_karind_police_041126_8138_04112026094443/V1_karind_police_041126_8138_04112026094443_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-f559d1b8f0691a1027.htm": {
    "author": "מבזקים",
@@ -105287,6 +105422,25 @@
    "updated_ms": 1793007420000,
    "url": "https://www.v-1.co.il/polishuk-magazine/2026-m10_w05/shorts-e8b870ba9e371a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/10/25/POLISHUK_EP20/MASTER/POLISHUK_EP20/POLISHUK_EP20_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-04ad328466c91a1026.htm": {
+   "author": "פולישוק",
+   "date_source": "json-publishDate",
+   "description": "פולישוק פרק 28: ההופעה של פולישוק זוכה לכותרות, וחומי מתחיל לחשוב שקוזו טעה כשהמעיט בערכו. במקום לנסות להשתיק את השר, הוא מחליט לקרב אותו - ושולח את קוזו להזמין אותו לסוף שבוע עם החבר׳ה. קוזו נאלץ לעבור מאיומים למחמאות, ופולישוק מתקשה להבין מאיפה הגיעה החברות הפתאומית.",
+   "duration_s": 74,
+   "first_seen_ms": 1793785946646,
+   "image": "https://img.mako.co.il/2026/11/02/POLISHUK_EP28_1400_1793625688800_FirstFrame.jpg",
+   "importance": 1,
+   "published_ms": 1793785500000,
+   "sections": [
+    "הפרק היומי",
+    "פולישוק"
+   ],
+   "title": "פולישוק פרק 28: הזמנה עם כוונות נסתרות",
+   "type": "series",
+   "updated_ms": 1793785500000,
+   "url": "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-04ad328466c91a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/POLISHUK_EP28/MASTER/POLISHUK_EP28/POLISHUK_EP28_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/polishuk-magazine/2026-m11_w01/shorts-99a605a3f3791a1026.htm": {
    "author": "פולישוק",
