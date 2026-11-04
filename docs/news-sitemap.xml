@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5f777dd67f6a1a1027.htm</loc>
+<news:news>
+<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
+<news:publication_date>2026-11-04T14:50:46+00:00</news:publication_date>
+<news:title>חשד לחפץ חשוד בבית הנשיא: עיתונאית זרה עוכבה בגלל התרעה בשיקוף - הנוכחים הונחו להסתגר</news:title>
+</news:news>
+<image:image><image:loc>https://img.mako.co.il/2026/11/04/V1_NASI_8151_04112026024838_1400_1793803839718_FirstFrame.jpg</image:loc></image:image>
+</url>
+<url>
 <loc>https://www.v-1.co.il/special_projects-magazine/2026-m11_w01/shorts-2f2e7dd67f6a1a1027.htm</loc>
 <news:news>
 <news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
@@ -2393,23 +2402,5 @@
 <news:title>טיסת וויז אייר מלונדון לבולגריה הוסטה ונחתה בבודפשט בעקבות דיווח חריג: כל הפרטים</news:title>
 </news:news>
 <image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_deanfisher_8075_02112026025834_1400_1793631596873_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-f8f442373bc91a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-11-02T14:57:11+00:00</news:publication_date>
-<news:title>חידת ליברמן: הפרשנות של דפנה ליאל</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/02/yoav_liberman_021126_1400_1793631424400_FirstFrame.jpg</image:loc></image:image>
-</url>
-<url>
-<loc>https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-858442373bc91a1027.htm</loc>
-<news:news>
-<news:publication><news:name>V1</news:name><news:language>he</news:language></news:publication>
-<news:publication_date>2026-11-02T14:56:43+00:00</news:publication_date>
-<news:title>נשיא המדינה, אלקנה בוחבוט ובוי ג׳ורג׳ בחיבוק משותף באירוע ההוקרה לבוי ג׳ורג׳ בבית הנשיא</news:title>
-</news:news>
-<image:image><image:loc>https://img.mako.co.il/2026/11/02/V1_ELKANA_8074_02112026025522_1400_1793631397087_FirstFrame.jpg</image:loc></image:image>
 </url>
 </urlset>

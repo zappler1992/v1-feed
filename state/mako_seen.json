@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793803949207,
+ "last_run_ms": 1793804265127,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -41906,6 +41906,18 @@
    "published_ms": 1791018060000,
    "section": "",
    "title": "\"אם יורשע, הוא יישב שנים ארוכות בכלא\""
+  },
+  "https://www.mako.co.il/men-men_news/Article-1da23ccc807a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793804265127,
+   "content_type": "article",
+   "first_seen_ms": 1793804265127,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793804040000,
+   "section": "פלילים",
+   "title": "תכנן חיסולים עם רחפני נפץ ממלון בהרצליה"
   },
   "https://www.mako.co.il/men-men_news/Article-1dd22b295d2d0a1027.htm": {
    "check_attempts": 1,
