@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793802749541,
+ "last_run_ms": 1793803050558,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -50559,6 +50559,18 @@
    "section": "ספורט",
    "title": "מה הלאה? הצעדים הבאים בעסקת מכבי חיפה"
   },
+  "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-819b7dd67f6a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793802986857,
+   "content_type": "article",
+   "first_seen_ms": 1793802986857,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793802720000,
+   "section": "ספורט",
+   "title": "יעבור? הליגיונר המסקרן ביותר בחורף הקרוב"
+  },
   "https://www.mako.co.il/news-sport/israel_soccer-2026_q4/Article-84bbce6496421a1026.htm": {
    "check_attempts": 1,
    "check_reason": "noindex (meta robots)",
@@ -55645,7 +55657,7 @@
    "indexnow_ms": 1793778867534,
    "published_ms": 1793778000000,
    "section": "צבא וביטחון",
-   "title": "מסייעת לאיראן: שיתוף הפעולה החריג שזיהו בישראל"
+   "title": "ההימור האיראני על השעון של טראמפ"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-64991428b0271a1026.htm": {
    "check_attempts": 1,
@@ -58440,6 +58452,18 @@
    "published_ms": 1790517000000,
    "section": "",
    "title": "באיראן לועגים לטראמפ, ומאיימים ב\"טכנולוגיה חדשה\""
+  },
+  "https://www.mako.co.il/special-mako-news/Article-67ef9ae0fb6a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "canonical -> https://www.mako.co.il/news-politics/2026_q4/Article-67ef9ae0fb6a1a1026.htm",
+   "checked_ms": 1793802866788,
+   "content_type": "article",
+   "first_seen_ms": 1793802866788,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793799360000,
+   "section": "חדשות",
+   "title": "איימן עודה הוא חבר הכנסת שנבדק אם קיבל כסף מגורם זר"
   },
   "https://www.mako.co.il/special-mako-news/Article-68d0250001f01a1027.htm": {
    "check_attempts": 1,
