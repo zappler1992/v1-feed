@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793782049932,
+ "last_run_ms": 1793782350042,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -43985,6 +43985,18 @@
    "section": "פלילים",
    "title": "ישראלי נעצר בתאילנד: \"סימם נשים שהכיר באפליקציה\""
   },
+  "https://www.mako.co.il/men-men_news/Article-7d31281c3b5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793782226697,
+   "content_type": "article",
+   "first_seen_ms": 1793782226697,
+   "indexable": true,
+   "indexnow_ms": 1793782226697,
+   "published_ms": 1793781720000,
+   "section": "",
+   "title": "ראש ארגון פשע נעצר הלילה בתל אביב"
+  },
   "https://www.mako.co.il/men-men_news/Article-7d7bece255b11a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -53405,6 +53417,18 @@
    "section": "גאווה",
    "title": "מה שמזכירה הבשורה של אופיר דן וטל שרף"
   },
+  "https://www.mako.co.il/pride-blogs/Article-469e281c3b5a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793782226697,
+   "content_type": "article",
+   "first_seen_ms": 1793782226697,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793780940000,
+   "section": "גאווה",
+   "title": "\"ילד ששואל על אבא לא בהכרח מרגיש שחסר לו אבא\""
+  },
   "https://www.mako.co.il/pride-blogs/Article-aa0d383d3e951a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -55011,7 +55035,7 @@
    "indexnow_ms": 1793778867534,
    "published_ms": 1793778000000,
    "section": "צבא וביטחון",
-   "title": "כך תוצאות בחירות האמצע ישפיעו על המלחמה באיראן"
+   "title": "מסייעת לאיראן: שיתוף הפעולה החריג שזיהו בישראל"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-64991428b0271a1026.htm": {
    "check_attempts": 1,
@@ -63337,7 +63361,7 @@
    "indexnow_ms": 1793781027629,
    "published_ms": 1793779800000,
    "section": "חופש",
-   "title": "הפרק הישראלי שנכנס לרשימת 100 היפים בעולם"
+   "title": "הכי יפה: הפארק הישראלי ברשימת 100 היפים בעולם"
   },
   "https://www.mako.co.il/travel-news/israel/Article-92f08765a7171a1027.htm": {
    "check_attempts": 1,
