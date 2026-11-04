@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793781150084,
+ "last_run_ms": 1793781449877,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -27700,6 +27700,18 @@
    "published_ms": 1792488840000,
    "section": "כסף",
    "title": "סטודנטים? המלגות שיכולות לסדר לכם את השנה"
+  },
+  "https://www.mako.co.il/finances-news/Article-59ad637baa5a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793781449877,
+   "content_type": "article",
+   "first_seen_ms": 1793781449877,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793781120000,
+   "section": "כסף",
+   "title": "מחיר ביטול הסיוע: העלאת המע\"מ באחוז וחצי"
   },
   "https://www.mako.co.il/finances-news/Article-5b36249bbf271a1027.htm": {
    "check_attempts": 1,
@@ -67070,6 +67082,18 @@
    "published_ms": 1791818220000,
    "section": "הכי חם",
    "title": "\"אם הייתי רואה אותך ללא חולצה, זה היה מביך אותי\""
+  },
+  "https://www.mako.co.il/tvbee-tv-news/Article-cf920fb3475a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793781387634,
+   "content_type": "article",
+   "first_seen_ms": 1793781387634,
+   "indexable": true,
+   "indexnow_ms": 1793781387634,
+   "published_ms": 1793781000000,
+   "section": "תרבות tvbee",
+   "title": "הפעם בעולם הפשע: התפקיד הבא של רותם סלע"
   },
   "https://www.mako.co.il/tvbee-tv-news/Article-cff418d0e6d41a1027.htm": {
    "check_attempts": 1,
