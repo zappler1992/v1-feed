@@ -1,8 +1,9 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-aaf00bb3c05a1a1027.htm",
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-2f7a84f7025a1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-46220bb3c05a1a1027.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-531c84f7025a1a1026.htm",
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-880c84f7025a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -22718,6 +22719,24 @@
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-51c0102aaf0a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18668_03112026104552/M_Celebs_18668_03112026104552_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-531c84f7025a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "זה מה שקרה כשהבן של ריקי מרטין הפתיע אותו על הבמה בלאס וגאס",
+   "duration_s": 25,
+   "first_seen_ms": 1793772445738,
+   "image": "https://img.mako.co.il/2026/11/04/M_Music_18730_04112026060147_1400_1793772189922_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793772196000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "זה מה שקרה כשהבן של ריקי מרטין הפתיע אותו על הבמה בלאס וגאס",
+   "type": "mivzakim",
+   "updated_ms": 1793772196000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-531c84f7025a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Music_18730_04112026060147/M_Music_18730_04112026060147_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-556fa135662a1a1027.htm": {
    "author": "עדכוני בידור",
    "date_source": "json-publishDate",
@@ -23221,6 +23240,24 @@
    "updated_ms": 1793687056000,
    "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8786e8e0fff91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Celebs_18646_03112026062246/M_Celebs_18646_03112026062246_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-880c84f7025a1a1026.htm": {
+   "author": "עדכוני בידור",
+   "date_source": "json-publishDate",
+   "description": "היקום קורס: כשקופיקו ומיקי (שדיבבה את קופיקו בעבר) נפגשו לשיחה",
+   "duration_s": 19,
+   "first_seen_ms": 1793772445738,
+   "image": "https://img.mako.co.il/2026/11/04/M_Tarbut_18729_04112026060122_1400_1793772150658_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793772158000,
+   "sections": [
+    "עדכוני בידור"
+   ],
+   "title": "היקום קורס: כשקופיקו ומיקי (שדיבבה את קופיקו בעבר) נפגשו לשיחה",
+   "type": "mivzakim",
+   "updated_ms": 1793772158000,
+   "url": "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-880c84f7025a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/Makoded/2026/11/M_Tarbut_18729_04112026060122/M_Tarbut_18729_04112026060122_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-8c2e42373bc91a1027.htm": {
    "author": "עדכוני בידור",
@@ -102191,6 +102228,24 @@
    "updated_ms": 1793734371000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-45d993424e2a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/03/M_NEWS_18697_03112026073109/M_NEWS_18697_03112026073109_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-46220bb3c05a1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "טראמפ מאיים על איראן בשידור חי ורומז: \"אולי נצטרף לעשות שם משהו גדול\"",
+   "duration_s": 22,
+   "first_seen_ms": 1793772445738,
+   "image": "https://img.mako.co.il/2026/11/04/V1_KARIND_TRUMPIRAN_8125_04112026060214_1400_1793772199526_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793772206000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "טראמפ מאיים על איראן בשידור חי ורומז: \"אולי נצטרף לעשות שם משהו גדול\"",
+   "type": "mivzakim",
+   "updated_ms": 1793772206000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-46220bb3c05a1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_KARIND_TRUMPIRAN_8125_04112026060214/V1_KARIND_TRUMPIRAN_8125_04112026060214_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-48f5a696eec91a1026.htm": {
    "author": "מבזקים",
