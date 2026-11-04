@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5e080bb3c05a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-33c71acd5f4a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -101992,6 +101992,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-32dad57edfa91a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/02/biata_carfire_mivfix/biata_carfire_mivfix_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-33c71acd5f4a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ראש הפרלמנט האיראני קאליבף על תוצאות בחירות האמצע בארה\"ב: \"העם האמריקאי אמר לא למלחמה - אנחנו תומכים",
+   "duration_s": 9,
+   "first_seen_ms": 1793770945727,
+   "image": "https://img.mako.co.il/2026/11/04/M_NEWS_18726_04112026053417_1400_1793770577899_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793770584000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ראש הפרלמנט האיראני קאליבף על תוצאות בחירות האמצע בארה\"ב: \"העם האמריקאי אמר לא למלחמה - אנחנו תומכים",
+   "type": "mivzakim",
+   "updated_ms": 1793770584000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-33c71acd5f4a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18726_04112026053417/M_NEWS_18726_04112026053417_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-3b81214a86691a1027.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103048,19 +103066,19 @@
    "author": "מבזקים",
    "date_source": "json-publishDate",
    "description": "צפו ברגע הפריצה בשידור חי באמריקה: הדמוקרטים משתלטים על בית הנבחרים",
-   "duration_s": 146,
+   "duration_s": 178,
    "first_seen_ms": 1793770046837,
-   "image": "https://img.mako.co.il/2026/11/04/V1_karind_cnn_041126_8121_04112026051810_1400_1793769637140_FirstFrame.jpg",
-   "importance": 0,
+   "image": "https://img.mako.co.il/2026/11/04/FIXX_CNN_1400_1793770775556_FirstFrame.jpg",
+   "importance": 1,
    "published_ms": 1793769653000,
    "sections": [
     "מבזקים"
    ],
    "title": "צפו ברגע הפריצה בשידור חי באמריקה: הדמוקרטים משתלטים על בית הנבחרים",
    "type": "mivzakim",
-   "updated_ms": 1793769653000,
+   "updated_ms": 1793770740000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-9312819e2d4a1a1027.htm",
-   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_karind_cnn_041126_8121_04112026051810/V1_karind_cnn_041126_8121_04112026051810_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/FIXX_CNN/FIXX_CNN_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-985ebb269f691a1026.htm": {
    "author": "מבזקים",
