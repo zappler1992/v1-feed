@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793860049457,
+ "last_run_ms": 1793860349455,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -30951,6 +30951,18 @@
    "section": "",
    "title": "ככה מכינים את הפריקסה המנצח של חמותה של קרין גורן"
   },
+  "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-5849a211c85a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793860349455,
+   "content_type": "recipe",
+   "first_seen_ms": 1793860349455,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793853240000,
+   "section": "",
+   "title": "קרואסונים בבית ביום אחד: מתכון של קרין בנלול"
+  },
   "https://www.mako.co.il/food-recipes/recipes_column-bread/Recipe-6760972fb08c0a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -31106,6 +31118,18 @@
    "published_ms": 1792561440000,
    "section": "",
    "title": "אין משמחת לבבות יותר מהעוגה הזאת"
+  },
+  "https://www.mako.co.il/food-recipes/recipes_column-cakes/chocolate_cookies/Recipe-fd61776b83c91a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793860349455,
+   "content_type": "recipe",
+   "first_seen_ms": 1793860349455,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793852220000,
+   "section": "",
+   "title": "את המתכון הזה כולם, אבל כולם הולכים לבקש מכם"
   },
   "https://www.mako.co.il/food-recipes/recipes_column-cakes/parve_cakes/Recipe-f7470a9ea6e41a1027.htm": {
    "check_attempts": 1,
