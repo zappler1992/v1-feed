@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793853749276,
+ "last_run_ms": 1793854049298,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -56414,6 +56414,18 @@
    "published_ms": 1792559760000,
    "section": "צבא וביטחון",
    "title": "החליפו כוח במוצב צה\"ל ונדהמו ממה שגילו בשטח"
+  },
+  "https://www.mako.co.il/pzm-soldiers/Article-7e562b066c7a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793853986777,
+   "content_type": "article",
+   "first_seen_ms": 1793853986777,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793818800000,
+   "section": "צבא וביטחון",
+   "title": "ירידה משמעותית בשימוש בנשק הרוסי המסוכן"
   },
   "https://www.mako.co.il/pzm-soldiers/Article-7ed558bf34f21a1027.htm": {
    "check_attempts": 1,
