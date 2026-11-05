@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793854049298,
+ "last_run_ms": 1793854349399,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3379,7 +3379,7 @@
    "indexnow_ms": null,
    "published_ms": 1793844840000,
    "section": "ספורט",
-   "title": "האזינו: אבדיה ופורטלנד מתארחים בפיניקס"
+   "title": "בפסגת המערב: אבדיה חגג ב-119:132 בפיניקס"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-2f23bda597d71a1026.htm": {
    "check_attempts": 1,
@@ -4208,6 +4208,18 @@
    "published_ms": 1793515320000,
    "section": "ספורט",
    "title": "\"רק תרוץ\". המחליף של מוראנט בפורטלנד"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-d0c8b30d90aa1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793854349399,
+   "content_type": "article",
+   "first_seen_ms": 1793854349399,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793854020000,
+   "section": "ספורט",
+   "title": "\"אתה עושה הצגות\". העימות של דני וברוקס"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-d41de7f9eb161a1026.htm": {
    "check_attempts": 1,
@@ -32941,7 +32953,7 @@
    "indexnow_ms": null,
    "published_ms": 1793778060000,
    "section": "בריאות",
-   "title": "\"הייתי מבועת\": רופא האוזניים שאיבד את השמיעה"
+   "title": "\"הייתי מבועת\": רופא האא\"ג שאיבד את השמיעה"
   },
   "https://www.mako.co.il/health-news/Article-3917fb8674531a1026.htm": {
    "check_attempts": 1,
@@ -54205,7 +54217,7 @@
    "indexnow_ms": null,
    "published_ms": 1793783700000,
    "section": "דיגיטל",
-   "title": "הפיטורים באפליקציה הפופולרית - והפיצוי שיקבלו העובדים"
+   "title": "החברה תפטר עובדים, גם מי שעזר לבנות אותה. זה הפיצוי"
   },
   "https://www.mako.co.il/nexter-news/Article-f6773f3f87601a1026.htm": {
    "check_attempts": 1,
@@ -57602,6 +57614,18 @@
    "published_ms": 1791148680000,
    "section": "חדשות",
    "title": "אור ירוק מטראמפ: ישראל צפויה לתקוף במדינה הערבית"
+  },
+  "https://www.mako.co.il/pzm-soldiers/liveblog-3ed19f28d58a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793854349399,
+   "content_type": "liveblog",
+   "first_seen_ms": 1793854349399,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793853840000,
+   "section": "",
+   "title": "הטעות של טראמפ במלחמה באיראן - שגרמה לכעס אצל תומכיו"
   },
   "https://www.mako.co.il/pzm-soldiers/liveblog-4a8881ccf2c31a1026.htm": {
    "check_attempts": 1,
