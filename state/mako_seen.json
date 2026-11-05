@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793854949315,
+ "last_run_ms": 1793855249316,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -3548,6 +3548,18 @@
    "published_ms": 1791038700000,
    "section": "ספורט",
    "title": "\"יורוליג? כל הזבל של ארה\"ב מצליח שם\""
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-5d4d574190aa1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793855186837,
+   "content_type": "article",
+   "first_seen_ms": 1793855186837,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793855040000,
+   "section": "ספורט",
+   "title": "\"דני אבדיה בטופ 10 שחקנים ב-NBA העונה\""
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-5d905b7d8ae51a1027.htm": {
    "check_attempts": 1,
@@ -42313,7 +42325,7 @@
    "indexnow_ms": null,
    "published_ms": 1793804040000,
    "section": "פלילים",
-   "title": "התוכנית שתכנן הצעיר כשהוא במלון יוקרה בהרצליה"
+   "title": "התוכנית שתכנן הצעיר ממלון היוקרה בהרצליה"
   },
   "https://www.mako.co.il/men-men_news/Article-1dd22b295d2d0a1027.htm": {
    "check_attempts": 1,
