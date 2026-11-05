@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793856749326,
+ "last_run_ms": 1793857049443,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -49501,7 +49501,7 @@
    "indexnow_ms": 1793821587655,
    "published_ms": 1793821440000,
    "section": "",
-   "title": "\"הייתי בכותל המערבי\": בוי ג'ורג' עלה לבמת היכל מנורה"
+   "title": "\"תרימו ידיים אם אתם מתגעגעים למישהו שהלך לרקוד\""
   },
   "https://www.mako.co.il/music-news/Article-f3282b1205271a1026.htm": {
    "check_attempts": 1,
@@ -62437,6 +62437,18 @@
    "section": "",
    "title": "העוצר הלילי, מפת ההפגנות - והצעד הדרסטי שבצרפת שוקלים"
   },
+  "https://www.mako.co.il/travel-news/international/Article-1de428e6a17a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793856866898,
+   "content_type": "article",
+   "first_seen_ms": 1793856866898,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793857020000,
+   "section": "חופש",
+   "title": "המדינה הזולה הזו הולכת להשתנות - ואנחנו נשלם על זה"
+  },
   "https://www.mako.co.il/travel-news/international/Article-211fde4e19d41a1026.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -64800,6 +64812,18 @@
    "published_ms": 1791052200000,
    "section": "",
    "title": "השיחה הדרמטית בין נתניהו לקפטן ההודי מטיסת פליי-דובאי"
+  },
+  "https://www.mako.co.il/travel-news/israel/Article-95c63b4e5cc91a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793856866898,
+   "content_type": "article",
+   "first_seen_ms": 1793856866898,
+   "indexable": true,
+   "indexnow_ms": 1793856866898,
+   "published_ms": 1793855400000,
+   "section": "חופש",
+   "title": "בגלל הבלגן באירופה: הישראלים מצאו טרנד חדש לחופשה"
   },
   "https://www.mako.co.il/travel-news/israel/Article-9f143f6a9aa21a1027.htm": {
    "check_attempts": 1,
