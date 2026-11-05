@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793860649418,
+ "last_run_ms": 1793860949420,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -32139,6 +32139,18 @@
    "section": "",
    "title": "תכפילו כמויות: שניצל תירס קריספי שכל הבית יעוף עליו"
   },
+  "https://www.mako.co.il/food-special/cooking_with_sugat/Recipe-de2249f3d3a9a41006.htm": {
+   "check_attempts": 1,
+   "check_reason": "redirects to https://validate.perfdrive.com/",
+   "checked_ms": 1793860949420,
+   "content_type": "recipe",
+   "first_seen_ms": 1793860949420,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793859420000,
+   "section": "",
+   "title": "ארוחה לפנתאון: פרגיות צלויות על מג'דרה בורגול"
+  },
   "https://www.mako.co.il/food-tips_and_guides/beginners_cook/Recipe-3f650c8164a21a1026.htm": {
    "check_attempts": 1,
    "check_reason": "redirects to https://validate.perfdrive.com/",
@@ -64080,6 +64092,18 @@
    "published_ms": 1791402120000,
    "section": "",
    "title": "בחברה שטסה לארץ: נתפס טייס שהתבטא נגד ישראל"
+  },
+  "https://www.mako.co.il/travel-news/international/Article-cb97b2ddc81a1a1027.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793860827036,
+   "content_type": "article",
+   "first_seen_ms": 1793860827036,
+   "indexable": true,
+   "indexnow_ms": 1793860827036,
+   "published_ms": 1793860020000,
+   "section": "חופש",
+   "title": "דיילת חושפת: זה הדברים שאתם יכולים לבקש מהן"
   },
   "https://www.mako.co.il/travel-news/international/Article-ced4a57f14271a1027.htm": {
    "check_attempts": 1,
