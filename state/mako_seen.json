@@ -1,5 +1,5 @@
 {
- "last_run_ms": 1793856149289,
+ "last_run_ms": 1793856449304,
  "pages": {
   "https://fashionforward.mako.co.il/beauty-2/321123/": {
    "check_attempts": 1,
@@ -4124,6 +4124,18 @@
    "published_ms": 1792927740000,
    "section": "ספורט",
    "title": "לא בתוכניות? המצב המסובך של וולף ושרף"
+  },
+  "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-c466b30d90aa1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "noindex (meta robots)",
+   "checked_ms": 1793856386845,
+   "content_type": "article",
+   "first_seen_ms": 1793856386845,
+   "indexable": false,
+   "indexnow_ms": null,
+   "published_ms": 1793856240000,
+   "section": "ספורט",
+   "title": "הגבוה בתולדות פורטלנד: ציון הדרך של דני"
   },
   "https://www.mako.co.il/Sports-basketball-world/4fbc18c53a893210-q4_2026/Article-c552c9e0edf91a1026.htm": {
    "check_attempts": 1,
@@ -29007,6 +29019,18 @@
    "section": "כסף",
    "title": "בניגוד לשמועות: לא יוטל מס על עובדי הייטק"
   },
+  "https://www.mako.co.il/finances-news/Article-e3e159ebb37a1a1026.htm": {
+   "check_attempts": 1,
+   "check_reason": "ok",
+   "checked_ms": 1793856449304,
+   "content_type": "article",
+   "first_seen_ms": 1793856449304,
+   "indexable": true,
+   "indexnow_ms": 1793856449304,
+   "published_ms": 1793856300000,
+   "section": "",
+   "title": "חסימות הכבישים במרכז הארץ - והשיבושים ברכבות"
+  },
   "https://www.mako.co.il/finances-news/Article-e4e598d4f86f0a1027.htm": {
    "check_attempts": 1,
    "check_reason": "ok",
@@ -42361,7 +42385,7 @@
    "indexnow_ms": null,
    "published_ms": 1793804040000,
    "section": "פלילים",
-   "title": "התוכנית שתכנן הצעיר ממלון היוקרה בהרצליה"
+   "title": "תכנן חיסולים עם רחפני נפץ ממלון בהרצליה"
   },
   "https://www.mako.co.il/men-men_news/Article-1dd22b295d2d0a1027.htm": {
    "check_attempts": 1,

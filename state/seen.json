@@ -1,7 +1,7 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/entertainment_updates-2026/m11_w01/shorts-f322b30d90aa1a1026.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c535574190aa1a1027.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -53053,7 +53053,7 @@
    ],
    "title": "המהלך המשותף של ישראל וארה\"ב: המטוסים האמריקניים - כאן להישאר",
    "type": "news",
-   "updated_ms": 1793829960000,
+   "updated_ms": 1793853000000,
    "url": "https://www.v-1.co.il/news-magazine/2026-m11_w01/shorts-20a5033e938a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/TALI_PLANES_041126/MASTER/TALI_PLANES_041126/TALI_PLANES_041126_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
@@ -105506,6 +105506,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c3ca8856ff7a1a1026.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/V1_AKIVA_8159_04112026071910/V1_AKIVA_8159_04112026071910_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c535574190aa1a1027.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ההפסד בבחירות האמצע, חקירת ההתערבות הזרה, וההתייעצות אצל הנשיא - אלו כותרות הבוקר",
+   "duration_s": 60,
+   "first_seen_ms": 1793856446301,
+   "image": "https://img.mako.co.il/2026/11/05/V1_SHIR_HABOKER_8164_05112026052304_1400_1793856275818_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793856282000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ההפסד בבחירות האמצע, חקירת ההתערבות הזרה, וההתייעצות אצל הנשיא - אלו כותרות הבוקר",
+   "type": "mivzakim",
+   "updated_ms": 1793856282000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c535574190aa1a1027.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/05/V1_SHIR_HABOKER_8164_05112026052304/V1_SHIR_HABOKER_8164_05112026052304_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-c6a6b3668e791a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -133706,7 +133724,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי נצפים עכשיו",
-    "מהעולם"
+    "מהעולם",
+    "הכי נצפים השבוע"
    ],
    "title": "הר הגעש התפרץ במחוז אלביי שבפיליפינים - ענן אפר כיסה את השמיים | צפו",
    "type": "mivzakim",
@@ -133763,7 +133782,8 @@
    "published_ms": 1793648886000,
    "sections": [
     "מבזקים מהעולם",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "תיעוד מטורף מאיטליה: סופת מים פגעה בחוף בדרום המדינה וגרמה לנזקים כבדים במסעדה",
    "type": "mivzakim",
@@ -133840,7 +133860,8 @@
    "sections": [
     "מבזקים מהעולם",
     "הכי Vיראלים",
-    "הכי נצפים עכשיו"
+    "הכי נצפים עכשיו",
+    "הכי נצפים השבוע"
    ],
    "title": "עובד בסופר כמעט נדרס על ידי מכונית שדהרה לתוך החנות - וניצל ברגע האחרון | תיעוד מאוסטרליה",
    "type": "mivzakim",
