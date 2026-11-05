@@ -1,7 +1,8 @@
 {
  "bootstrapped": true,
  "last_new_urls": [
-  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-9b8f32e23b9a1a1027.htm"
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-49407ff1f99a1a1026.htm",
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-51307ff1f99a1a1026.htm"
  ],
  "pages": {
   "https://www.v-1.co.il/60_seconds-magazine/2026-m04_w05/shorts-0b1b2bd76fedd91026.htm": {
@@ -103679,6 +103680,24 @@
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-49100a751c6a1a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/04/M_NEWS_18757_04112026013919/M_NEWS_18757_04112026013919_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-49407ff1f99a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "מושל פלורידה טען כי המלחמה באיראן היא גורם מרכזי לתוצאות בחירות האמצע בארה\"ב",
+   "duration_s": 9,
+   "first_seen_ms": 1793851646252,
+   "image": "https://img.mako.co.il/2026/11/05/M_NEWS_18798_05112026040303_1400_1793851455650_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793851462000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "מושל פלורידה טען כי המלחמה באיראן היא גורם מרכזי לתוצאות בחירות האמצע בארה\"ב",
+   "type": "mivzakim",
+   "updated_ms": 1793851462000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-49407ff1f99a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/05/M_NEWS_18798_05112026040303/M_NEWS_18798_05112026040303_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-4b66286fcdb91a1026.htm": {
    "author": "מבזקים",
    "date_source": "json-publishDate",
@@ -103786,6 +103805,24 @@
    "updated_ms": 1793544047000,
    "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-5095535808791a1027.htm",
    "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/01/V1_HAREDIM_8048_01112026023937/V1_HAREDIM_8048_01112026023937_,550,850,1100,1400,.mp4.csmil/master.m3u8"
+  },
+  "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-51307ff1f99a1a1026.htm": {
+   "author": "מבזקים",
+   "date_source": "json-publishDate",
+   "description": "ג'ושוע וונג, אחד מהפעילים הבולטים והמוכרים לדמוקרטיה בהונג קונג, נידון ל-10 שנות מאסר בגין שיתוף פעו",
+   "duration_s": 9,
+   "first_seen_ms": 1793851646252,
+   "image": "https://img.mako.co.il/2026/11/05/M_NEWS_18797_05112026040121_1400_1793851357157_FirstFrame.jpg",
+   "importance": 0,
+   "published_ms": 1793851364000,
+   "sections": [
+    "מבזקים"
+   ],
+   "title": "ג'ושוע וונג, אחד מהפעילים הבולטים והמוכרים לדמוקרטיה בהונג קונג, נידון ל-10 שנות מאסר בגין שיתוף פעו",
+   "type": "mivzakim",
+   "updated_ms": 1793851364000,
+   "url": "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-51307ff1f99a1a1026.htm",
+   "video_url": "https://kdsf.akamaized.net/i/SHORT/v1/2026/11/05/M_NEWS_18797_05112026040121/M_NEWS_18797_05112026040121_,550,850,1100,1400,.mp4.csmil/master.m3u8"
   },
   "https://www.v-1.co.il/newsflash-2026/m11_w01/shorts-535c0a751c6a1a1027.htm": {
    "author": "מבזקים",
